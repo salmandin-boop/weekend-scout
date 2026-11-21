@@ -197,7 +197,7 @@ dialog.sheet::backdrop{background:rgba(10,14,22,.45)}
       <div class="price-row"><span>Standard listing</span><strong>Free</strong></div>
       <div class="price-row"><span>Featured: pinned to the top with a Featured badge</span><strong>$15 / weekend</strong></div>
       <p style="margin-top:6px">Email or text the event name, date, time, venue, price and a link:</p>
-      <div class="contact"><code id="c-email">itssalmandin@gmail.com</code><button class="btn" type="button" data-copy="c-email">Copy</button><a class="btn" href="mailto:itssalmandin@gmail.com?subject=Event%20for%20Weekend%20Scout">Email</a></div>
+      <div class="contact"><code id="c-email">support@weekendscout.app</code><button class="btn" type="button" data-copy="c-email">Copy</button><a class="btn" href="mailto:support@weekendscout.app?subject=Event%20for%20Weekend%20Scout">Email</a></div>
       <div class="contact"><code id="c-phone">315-383-9602</code><button class="btn" type="button" data-copy="c-phone">Copy</button><a class="btn" href="sms:+13153839602">Text</a></div>
     </div>
     <div class="section">
@@ -576,8 +576,8 @@ function openCityPicker(){
     <div class="city-list">${CITIES.map(c => `<button class="btn${c.id === CITY.id ? ' primary' : ''}" type="button" data-city="${esc(c.id)}">${esc(cityName(c))}${c.id === CITY.id ? ' <span>✓</span>' : ''}</button>`).join('')}</div>
     <div class="cal"><strong style="font-size:.95rem">Don't see your city?</strong>
       <p style="font-size:.9rem;color:var(--muted)">${CITIES.length < 2 ? 'Syracuse is our first city, and more are on the way.' : 'More cities are on the way.'} Tell us where you'd like Weekend Scout next.</p>
-      <div class="contact"><a class="btn" href="mailto:itssalmandin@gmail.com?subject=${encodeURIComponent('Weekend Scout city request')}">Email us</a><a class="btn" href="sms:+13153839602">Text us</a></div>
-      <p style="font-size:.82rem;color:var(--muted)">itssalmandin@gmail.com · 315-383-9602</p></div>`;
+      <div class="contact"><a class="btn" href="mailto:support@weekendscout.app?subject=${encodeURIComponent('Weekend Scout city request')}">Email us</a><a class="btn" href="sms:+13153839602">Text us</a></div>
+      <p style="font-size:.82rem;color:var(--muted)">support@weekendscout.app · 315-383-9602</p></div>`;
   if (!sheet.open){ try { sheet.showModal(); } catch { sheet.setAttribute('open',''); } }
 }
 function noData(){
