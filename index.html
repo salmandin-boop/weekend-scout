@@ -1,0 +1,619 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Weekend Scout</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="Weekend Scout: a hand-checked list of what's happening this weekend in Syracuse, NY — concerts, games, markets, museums and family events, updated every week.">
+<meta name="theme-color" content="#f3f1ec" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#14161b" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Weekend Scout">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Figtree:wght@400;500;600;700&display=swap">
+<style>
+:root{
+  --bg:#f3f1ec;--surface:#fff;--ink:#1b2333;--muted:#5d6577;--line:#e3dfd6;--accent:#b8460f;--accent-ink:#fff;--accent-soft:#fbe6da;
+  --navy:#1f2f52;--free:#1e7a4f;--free-bg:#e3f3ea;--shadow:0 1px 2px rgba(27,35,51,.06),0 8px 24px -16px rgba(27,35,51,.25);
+  --display:'Bricolage Grotesque','Segoe UI',system-ui,sans-serif;--body:'Figtree',system-ui,-apple-system,'Segoe UI',sans-serif;
+  --sat:env(safe-area-inset-top,0px);--sab:env(safe-area-inset-bottom,0px);
+  --gl:max(16px,env(safe-area-inset-left,0px));--gr:max(16px,env(safe-area-inset-right,0px));
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#14161b;--surface:#1d2029;--ink:#eef0f4;--muted:#a3a9b6;--line:#2e323d;--accent:#ff7a3d;--accent-ink:#1a0d05;--accent-soft:#3a2216;
+  --navy:#b4c4ea;--free:#62d39c;--free-bg:#15301f;--shadow:0 1px 2px rgba(0,0,0,.3);color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#14161b;--surface:#1d2029;--ink:#eef0f4;--muted:#a3a9b6;--line:#2e323d;--accent:#ff7a3d;--accent-ink:#1a0d05;--accent-soft:#3a2216;
+  --navy:#b4c4ea;--free:#62d39c;--free-bg:#15301f;--shadow:0 1px 2px rgba(0,0,0,.3);color-scheme:dark}
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 var(--body);-webkit-tap-highlight-color:transparent}
+body::before{content:"";position:fixed;inset:0 0 auto;height:var(--sat);background:var(--bg);z-index:10}
+h1,h2,h3{font-family:var(--display);margin:0;line-height:1.1;letter-spacing:-.01em;text-wrap:balance}
+p{margin:0}
+button{font:inherit;color:inherit}
+a{color:inherit}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:6px}
+.wrap{max-width:560px;margin:0 auto;padding-left:var(--gl);padding-right:var(--gr)}
+main{padding-bottom:calc(84px + var(--sab))}
+
+/* header */
+header.top{padding-top:calc(var(--sat) + 20px);padding-bottom:4px}
+.brand{color:var(--ink)}
+.city-btn{margin-left:8px;border:1px solid var(--line);background:var(--surface);color:var(--accent);border-radius:999px;padding:2px 10px;font:700 .72rem var(--body);letter-spacing:.04em;text-transform:none;cursor:pointer;min-height:28px}
+.city-list{display:grid;gap:8px}
+.city-list .btn{justify-content:space-between;width:100%}
+.kicker{font-size:.75rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--accent)}
+.top h1{font-size:clamp(2rem,9vw,2.6rem);font-weight:800;margin-top:2px}
+.dates{color:var(--muted);font-size:.92rem;margin-top:4px}
+.banner{margin-top:12px;background:var(--accent-soft);border-radius:12px;padding:10px 12px;font-size:.9rem}
+
+/* sticky controls */
+.controls{position:sticky;top:var(--sat);z-index:5;background:var(--bg);padding-top:10px;padding-bottom:8px}
+.search{position:relative}
+.search input{width:100%;font:inherit;font-size:1rem;color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:11px 12px 11px 38px;min-height:44px;-webkit-appearance:none;appearance:none}
+.search input::placeholder{color:var(--muted)}
+.search svg{position:absolute;left:12px;top:50%;transform:translateY(-50%);width:18px;height:18px;stroke:var(--muted)}
+.days{display:grid;grid-template-columns:repeat(4,1fr);gap:4px;background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:4px;margin-top:8px}
+.days button{border:0;background:transparent;border-radius:9px;padding:8px 4px;font-weight:600;font-size:.9rem;cursor:pointer;min-height:40px;color:var(--muted)}
+.days button[aria-pressed="true"]{background:var(--navy);color:var(--bg)}
+.days small{display:block;font-weight:500;font-size:.72rem;opacity:.85;line-height:1.1}
+.chips{display:flex;gap:6px;overflow-x:auto;margin-top:8px;padding-bottom:2px;scrollbar-width:none;margin-left:calc(-1 * var(--gl));margin-right:calc(-1 * var(--gr));padding-left:var(--gl);padding-right:var(--gr)}
+.chips::-webkit-scrollbar{display:none}
+.chips.good{margin-top:6px;align-items:center}
+.good-label{flex:none;font-size:.72rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin-right:2px}
+.chips.good .chip[aria-pressed="true"]{background:var(--navy);border-color:var(--navy);color:var(--bg)}
+.chip{flex:none;border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:6px 13px;font-size:.88rem;font-weight:600;cursor:pointer;min-height:36px;white-space:nowrap}
+.chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.count{font-size:.85rem;color:var(--muted);margin:8px 0 10px}
+
+/* ticket cards */
+.list{display:grid;gap:12px}
+.ticket{position:relative;display:grid;grid-template-columns:86px 1fr auto;background:var(--surface);border:1px solid var(--line);border-radius:16px;box-shadow:var(--shadow);overflow:hidden}
+.ticket:has(.open:focus-visible){outline:2px solid var(--accent);outline-offset:2px}
+.when{padding:14px 8px 14px 12px;border-right:2px dashed var(--line);display:flex;flex-direction:column;justify-content:center;gap:2px;position:relative}
+.when::before,.when::after{content:"";position:absolute;right:-9px;width:16px;height:16px;border-radius:50%;background:var(--bg);border:1px solid var(--line)}
+.when::before{top:-9px}.when::after{bottom:-9px}
+.when .d{font-size:.7rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}
+.when .t{font-family:var(--display);font-weight:800;font-size:1.05rem;line-height:1.1}
+.when .x{font-size:.72rem;color:var(--muted);white-space:nowrap}
+.body{padding:12px 4px 12px 14px;min-width:0}
+.body h3{font-size:1.05rem;font-weight:700}
+.open{all:unset;cursor:pointer}
+.open::after{content:"";position:absolute;inset:0;z-index:1}
+.venue{color:var(--muted);font-size:.88rem;margin-top:3px;overflow-wrap:anywhere}
+.pills{display:flex;flex-wrap:wrap;gap:5px;margin-top:8px}
+.pill{font-size:.72rem;font-weight:700;border-radius:999px;padding:2px 8px;background:var(--bg);color:var(--muted);border:1px solid var(--line)}
+.pill.free{background:var(--free-bg);color:var(--free);border-color:transparent}
+.pill.feat{background:var(--accent);color:var(--accent-ink);border-color:transparent}
+.pill.tag{background:var(--accent-soft);color:var(--ink);border-color:transparent}
+.save{position:relative;z-index:2;align-self:start;border:0;background:transparent;cursor:pointer;width:44px;height:44px;display:grid;place-items:center;margin:4px 4px 0 0;border-radius:50%}
+.save svg{width:22px;height:22px;stroke:var(--muted);fill:none;stroke-width:2}
+.save[aria-pressed="true"] svg{stroke:var(--accent);fill:var(--accent)}
+.empty{text-align:center;color:var(--muted);padding:40px 12px;display:grid;gap:10px;justify-items:center}
+.empty h2{font-size:1.2rem;color:var(--ink)}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:6px;min-height:44px;padding:10px 16px;border-radius:12px;border:1px solid var(--line);background:var(--surface);font-weight:700;text-decoration:none;cursor:pointer;font-size:.95rem}
+.btn.primary{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.btn svg{width:18px;height:18px;stroke:currentColor;fill:none;stroke-width:2}
+.promo{margin-top:16px;border:1.5px dashed var(--accent);border-radius:16px;padding:14px;display:grid;gap:6px;background:var(--surface)}
+.promo h3{font-size:1rem}.promo p{font-size:.9rem;color:var(--muted)}
+.promo button{justify-self:start;margin-top:4px}
+
+/* about */
+.section{margin-top:18px;background:var(--surface);border:1px solid var(--line);border-radius:16px;padding:16px;display:grid;gap:8px}
+.section h2{font-size:1.15rem}
+.section p,.section li{color:var(--muted);font-size:.95rem}
+.section ul{margin:0;padding-left:18px;display:grid;gap:4px}
+.price-row{display:grid;grid-template-columns:1fr auto;gap:8px;align-items:baseline;border-top:1px solid var(--line);padding-top:8px}
+.price-row strong{font-family:var(--display);font-size:1.1rem}
+.contact{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.contact code{font:600 .95rem var(--body);user-select:all;background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:6px 10px;overflow-wrap:anywhere}
+.fine{font-size:.8rem;color:var(--muted);margin-top:18px}
+
+/* bottom tab bar */
+nav.tabs{position:fixed;left:0;right:0;bottom:0;z-index:8;background:color-mix(in srgb,var(--surface) 92%,transparent);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-top:1px solid var(--line);padding-bottom:var(--sab);padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inset-right,0px)}
+nav.tabs .in{max-width:560px;margin:0 auto;display:grid;grid-template-columns:repeat(3,1fr)}
+nav.tabs button{border:0;background:transparent;display:grid;justify-items:center;gap:2px;padding:8px 4px 8px;font-size:.72rem;font-weight:700;color:var(--muted);cursor:pointer;min-height:56px;position:relative}
+nav.tabs svg{width:24px;height:24px;stroke:currentColor;fill:none;stroke-width:2}
+nav.tabs button[aria-current="page"]{color:var(--accent)}
+.badge{position:absolute;top:4px;left:calc(50% + 6px);background:var(--accent);color:var(--accent-ink);font-size:.65rem;border-radius:999px;min-width:17px;height:17px;padding:0 4px;display:grid;place-items:center}
+
+/* detail sheet */
+dialog.sheet{border:0;padding:0;margin:auto auto 0;width:100%;max-width:560px;max-height:min(88vh,880px);background:var(--surface);color:var(--ink);border-radius:20px 20px 0 0;box-shadow:0 -10px 40px rgba(0,0,0,.25)}
+dialog.sheet::backdrop{background:rgba(10,14,22,.45)}
+@media (min-width:640px){dialog.sheet{margin:auto;border-radius:20px}}
+.sheet-in{padding:8px var(--gr) calc(20px + var(--sab)) var(--gl);display:grid;gap:12px}
+.grab{width:40px;height:5px;border-radius:3px;background:var(--line);justify-self:center;margin:4px 0}
+.sheet-head{display:grid;grid-template-columns:1fr auto;gap:8px;align-items:start}
+.sheet h2{font-size:1.5rem;font-weight:800}
+.x-btn{border:1px solid var(--line);background:var(--bg);border-radius:50%;width:40px;height:40px;cursor:pointer;display:grid;place-items:center}
+.x-btn svg{width:18px;height:18px;stroke:currentColor;stroke-width:2.2}
+.meta{display:grid;gap:8px}
+.meta-row{display:grid;grid-template-columns:24px 1fr;gap:8px;align-items:start;font-size:.95rem}
+.meta-row svg{width:20px;height:20px;stroke:var(--muted);fill:none;stroke-width:2;margin-top:2px}
+.meta-row .sub{color:var(--muted);font-size:.88rem}
+.blurb{font-size:.98rem}
+.actions{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.actions .wide{grid-column:1/-1}
+.cal{display:grid;gap:6px;background:var(--bg);border-radius:12px;padding:10px}
+.cal-row{display:flex;align-items:center;gap:8px;flex-wrap:wrap;justify-content:space-between;font-size:.9rem}
+.cal-row .btns{display:flex;gap:6px}
+.cal-row .btn{min-height:36px;padding:6px 10px;font-size:.82rem;border-radius:9px}
+.toast{position:fixed;left:50%;bottom:calc(76px + var(--sab));transform:translateX(-50%) translateY(20px);background:var(--ink);color:var(--bg);padding:10px 16px;border-radius:999px;font-size:.9rem;font-weight:600;opacity:0;transition:.2s;pointer-events:none;z-index:20;max-width:calc(100% - 32px);text-align:center}
+.toast.on{opacity:1;transform:translateX(-50%) translateY(0)}
+@media (prefers-reduced-motion:reduce){.toast{transition:none}}
+</style>
+</head>
+<body>
+<main>
+  <section id="view-home" class="wrap" aria-labelledby="h-home">
+    <header class="top">
+      <div class="kicker"><span class="brand">Weekend Scout</span> · <span id="city-label">Syracuse, NY</span><button class="city-btn" id="city-btn" type="button" aria-haspopup="dialog">Change city</button></div>
+      <h1 id="h-home">This Weekend</h1>
+      <p class="dates" id="dates">Loading this weekend…</p>
+      <div class="banner" id="banner" hidden></div>
+    </header>
+    <div class="controls">
+      <label class="search"><span class="sr" hidden>Search events</span>
+        <svg viewBox="0 0 24 24" fill="none" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input id="q" type="search" placeholder="Search events, venues…" autocomplete="off" enterkeyhint="search" aria-label="Search events and venues">
+      </label>
+      <div class="days" role="group" aria-label="Day" id="days"></div>
+      <div class="chips" role="group" aria-label="Category" id="chips"></div>
+      <div class="chips good" role="group" aria-label="Good for" id="good"></div>
+    </div>
+    <p class="count" id="count" aria-live="polite"></p>
+    <div class="list" id="list"></div>
+    <div class="promo">
+      <h3>Run a venue or event?</h3>
+      <p>Get listed here for free, or be featured at the top for $15 a weekend.</p>
+      <button class="btn" type="button" data-go="about">How to get listed</button>
+    </div>
+  </section>
+
+  <section id="view-saved" class="wrap" hidden aria-labelledby="h-saved">
+    <header class="top"><div class="kicker">Your plans</div><h1 id="h-saved">Saved</h1><p class="dates">Tap the heart on any event to keep it here.</p></header>
+    <div class="list" id="saved-list" style="margin-top:16px"></div>
+  </section>
+
+  <section id="view-about" class="wrap" hidden aria-labelledby="h-about">
+    <header class="top"><div class="kicker">About</div><h1 id="h-about">Weekend Scout</h1><p class="dates">A short, hand-checked list of what's worth doing each weekend, starting with Syracuse. New list every Wednesday.</p></header>
+    <div class="section" id="install-box">
+      <h2>Put it on your home screen</h2>
+      <p id="install-text">On iPhone: tap Share, then <strong>Add to Home Screen</strong>. On Android: tap the ⋮ menu, then <strong>Install app</strong>.</p>
+      <button class="btn primary" id="install-btn" type="button" hidden>Install the app</button>
+    </div>
+    <div class="section">
+      <h2>Run a venue or event?</h2>
+      <p>Send us your event and we'll add it to the weekend list.</p>
+      <div class="price-row"><span>Standard listing</span><strong>Free</strong></div>
+      <div class="price-row"><span>Featured: pinned to the top with a Featured badge</span><strong>$15 / weekend</strong></div>
+      <p style="margin-top:6px">Email or text the event name, date, time, venue, price and a link:</p>
+      <div class="contact"><code id="c-email">itssalmandin@gmail.com</code><button class="btn" type="button" data-copy="c-email">Copy</button><a class="btn" href="mailto:itssalmandin@gmail.com?subject=Event%20for%20Weekend%20Scout">Email</a></div>
+      <div class="contact"><code id="c-phone">315-383-9602</code><button class="btn" type="button" data-copy="c-phone">Copy</button><a class="btn" href="sms:+13153839602">Text</a></div>
+    </div>
+    <div class="section">
+      <h2>Good to know</h2>
+      <ul>
+        <li>Times and prices can change. Check with the venue before you go.</li>
+        <li>Some ticket links may earn us a small commission, at no cost to you.</li>
+        <li>Featured events are paid placements and are always labeled.</li>
+        <li>Your saved events stay on this device only. We don't collect any personal data.</li>
+      </ul>
+    </div>
+    <p class="fine">Weekend Scout is run by ENDins LLC, East Syracuse, NY. · <a href="privacy.html" target="_blank" rel="noopener">Privacy policy</a></p>
+    <p class="fine" id="version" style="margin-top:4px"></p>
+  </section>
+</main>
+
+<nav class="tabs" aria-label="Main">
+  <div class="in">
+    <button type="button" data-go="home" aria-current="page"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="3"/><path d="M3 10h18M8 3v4M16 3v4"/></svg>This weekend</button>
+    <button type="button" data-go="saved"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.6-7 10-7 10Z"/></svg>Saved<span class="badge" id="badge" hidden></span></button>
+    <button type="button" data-go="about"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 11v6M12 7.5v.5"/></svg>About</button>
+  </div>
+</nav>
+
+<dialog class="sheet" id="sheet" aria-labelledby="s-title"><div class="sheet-in" id="sheet-in"></div></dialog>
+<div class="toast" id="toast" role="status"></div>
+
+<script>
+(() => {
+const APP_VERSION = '1.3.0';
+const SITE_URL = 'https://weekendscout.app/'; // the live address, so shared links point there
+const TZ = 'America/New_York';
+const DAYS = ['fri','sat','sun'];
+const DAYNAME = {fri:'Friday',sat:'Saturday',sun:'Sunday'};
+const DAYABBR = {fri:'Fri',sat:'Sat',sun:'Sun'};
+const CATS = [['all','Everything'],['free','Free'],['music','Music'],['sports','Sports'],['arts','Arts'],['food','Food & Drink'],['family','Family'],['comedy','Comedy']];
+const CATLABEL = {music:'Music',sports:'Sports',arts:'Arts',food:'Food & Drink',family:'Family',comedy:'Comedy'};
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const store = {
+  get(k, d){ try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch { return d; } },
+  set(k, v){ try { localStorage.setItem(k, JSON.stringify(v)); } catch {} }
+};
+const ICON = {
+  heart:'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.6-7 10-7 10Z"/></svg>',
+  clock:'<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>',
+  pin:'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7-6.2-7-11.5A7 7 0 0 1 19 9.5C19 14.8 12 21 12 21Z"/><circle cx="12" cy="9.5" r="2.5"/></svg>',
+  tag:'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 12V4h8l10 10-8 8L3 12Z"/><circle cx="7.5" cy="8" r="1.5"/></svg>',
+  share:'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v13M7 8l5-5 5 5M5 14v5h14v-5"/></svg>',
+  cal:'<svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="3"/><path d="M3 10h18M8 3v4M16 3v4M12 13v5M9.5 15.5h5"/></svg>',
+  map:'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 4 3 6v14l6-2 6 2 6-2V4l-6 2-6-2ZM9 4v14M15 6v14"/></svg>',
+  ext:'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 4h6v6M20 4l-9 9M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/></svg>',
+  x:'<svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>'
+};
+
+let DATA = null, offline = false, CITIES = [], CITY = null;
+const S = { view:'home', day:'all', cat:'all', good:'any', q:'' };
+let saved = new Set(store.get('ws-saved', store.get('stw-saved', [])));
+
+/* ---------- time helpers ---------- */
+const mins = t => { if (!t) return 9999; const [h,m] = t.split(':').map(Number); return h*60+m; };
+function fmt(t){ if (!t) return ''; let [h,m] = t.split(':').map(Number); const ap = h >= 12 ? 'PM' : 'AM'; h = h % 12 || 12; return m ? `${h}:${String(m).padStart(2,'0')} ${ap}` : `${h} ${ap}`; }
+function range(s){ if (!s.s) return 'See venue for hours'; return s.e ? `${fmt(s.s)}–${fmt(s.e)}` : fmt(s.s); }
+function sessions(ev){ const out = []; DAYS.forEach(d => (ev.times[d] || []).forEach(s => out.push({ day:d, ...s }))); return out; }
+function dayList(days){
+  if (days.length === 3) return 'Fri–Sun';
+  if (days.length === 2 && DAYS.indexOf(days[1]) - DAYS.indexOf(days[0]) === 1) return `${DAYABBR[days[0]]}–${DAYABBR[days[1]]}`;
+  return days.map(d => DAYABBR[d]).join(' & ');
+}
+function todayISO(){
+  try { return new Intl.DateTimeFormat('en-CA',{ timeZone:TZ, year:'numeric', month:'2-digit', day:'2-digit' }).format(new Date()); }
+  catch { return new Date().toISOString().slice(0,10); }
+}
+function prettyDate(iso, opts = { weekday:'short', month:'short', day:'numeric' }){
+  const [y,m,d] = iso.split('-').map(Number);
+  return new Date(Date.UTC(y, m-1, d, 12)).toLocaleDateString('en-US', { ...opts, timeZone:'UTC' });
+}
+
+/* ---------- data ----------
+   cities.json lists the cities; each city has its own events file (events/<city>.json).
+   The city switcher only appears once there is more than one city. */
+const FALLBACK_CITIES = [{ id:'syracuse', name:'Syracuse', state:'NY', file:'events/syracuse.json' }];
+async function getJSON(url, key){
+  try {
+    const r = await fetch(url, { cache:'no-cache' });
+    if (!r.ok) throw new Error(r.status);
+    const j = await r.json();
+    store.set(key, j);
+    return { j, cached:false };
+  } catch {
+    const c = store.get(key, null);
+    return c ? { j:c, cached:true } : null;
+  }
+}
+async function loadCities(){
+  const res = await getJSON('cities.json', 'ws-cities');
+  const list = res && Array.isArray(res.j.cities) && res.j.cities.length ? res.j.cities : FALLBACK_CITIES;
+  return list;
+}
+async function loadCity(city){
+  const res = await getJSON(city.file, 'ws-data-' + city.id);
+  if (!res || !Array.isArray(res.j.events)) return null;
+  offline = res.cached;
+  return res.j;
+}
+const cityName = c => c.state ? `${c.name}, ${c.state}` : c.name;
+
+/* ---------- filtering ---------- */
+// "Good for" occasions. Events list them in `good`; anything marked 18+ or 21+ is never shown as family friendly.
+const GOOD = [['date','Date night'],['family','Family friendly'],['friends','With friends'],['indoors','Indoors']];
+const GOODLABEL = Object.fromEntries(GOOD);
+const GOODCOUNT = { date:['date night pick','date night picks'], family:['family-friendly pick','family-friendly picks'], friends:['pick for friends','picks for friends'], indoors:['indoor pick','indoor picks'] };
+function goodFor(ev){
+  const g = new Set(Array.isArray(ev.good) ? ev.good : (ev.cat === 'family' ? ['family'] : []));
+  if (ev.ages) g.delete('family');
+  return GOOD.map(([k]) => k).filter(k => g.has(k));
+}
+function matches(ev, day, cat, q, good = S.good){
+  if (good !== 'any' && !goodFor(ev).includes(good)) return false;
+  if (day !== 'all' && !(ev.times[day] || []).length) return false;
+  if (cat === 'free' && ev.price !== 'free') return false;
+  if (cat !== 'all' && cat !== 'free' && ev.cat !== cat) return false;
+  if (q){
+    const hay = [ev.title, ev.venue, ev.addr, ev.blurb, CATLABEL[ev.cat], ev.priceLabel, ...goodFor(ev).map(k => GOODLABEL[k])].join(' ').toLowerCase();
+    if (!q.toLowerCase().split(/\s+/).filter(Boolean).every(w => hay.includes(w))) return false;
+  }
+  return true;
+}
+function sortKey(ev, day){
+  const ss = day === 'all' ? sessions(ev) : (ev.times[day] || []).map(s => ({ day, ...s }));
+  const f = ss[0] || { day:'sun' };
+  const ongoing = !f.s || (f.e && mins(f.e) - mins(f.s) >= 240); // museums, markets: open-hours listings go after timed shows
+  return (ev.featured ? 0 : 1e6) + (ongoing ? 5e5 : 0) + DAYS.indexOf(f.day) * 1e4 + mins(f.s);
+}
+function sorted(evs, day){ return evs.slice().sort((a,b) => sortKey(a,day) - sortKey(b,day) || a.title.localeCompare(b.title)); }
+
+/* ---------- rendering ---------- */
+function whenHTML(ev, day){
+  let d, t, x = '';
+  if (day === 'all'){
+    const ss = sessions(ev), days = [...new Set(ss.map(s => s.day))];
+    d = dayList(days);
+    const uniq = [...new Set(ss.map(range))];
+    t = ss[0] && ss[0].s ? (uniq.length === 1 ? (ss[0].e ? fmt(ss[0].s) : uniq[0]) : fmt(ss[0].s)) : 'Hours';
+    if (ss[0] && ss[0].e && uniq.length === 1) x = 'to ' + fmt(ss[0].e);
+    else if (uniq.length > 1) x = 'Times vary';
+  } else {
+    const ss = ev.times[day] || [];
+    d = DAYABBR[day];
+    t = ss[0] && ss[0].s ? fmt(ss[0].s) : 'Hours';
+    if (ss.length > 1) x = `+${ss.length-1} more show${ss.length > 2 ? 's' : ''}`;
+    else if (ss[0] && ss[0].e) x = 'to ' + fmt(ss[0].e);
+    else if (ss[0] && !ss[0].s) x = 'see venue';
+  }
+  return `<div class="when"><span class="d">${esc(d)}</span><span class="t">${esc(t)}</span>${x ? `<span class="x">${esc(x)}</span>` : ''}</div>`;
+}
+function pills(ev){
+  const p = [];
+  if (ev.featured) p.push('<span class="pill feat">Featured</span>');
+  p.push(`<span class="pill${ev.price === 'free' ? ' free' : ''}">${esc(ev.priceLabel || (ev.price === 'free' ? 'Free' : 'Tickets'))}</span>`);
+  p.push(`<span class="pill">${esc(CATLABEL[ev.cat] || ev.cat)}</span>`);
+  if (ev.ages) p.push(`<span class="pill">${esc(ev.ages)}</span>`);
+  if (ev.tag) p.push(`<span class="pill tag">${esc(ev.tag)}</span>`);
+  return `<div class="pills">${p.join('')}</div>`;
+}
+function card(ev, day){
+  const on = saved.has(ev.id);
+  return `<article class="ticket">
+    ${whenHTML(ev, day)}
+    <div class="body"><h3><button class="open" type="button" data-open="${esc(ev.id)}">${esc(ev.title)}</button></h3>
+      <p class="venue">${esc(ev.venue)}</p>${pills(ev)}</div>
+    <button class="save" type="button" data-save="${esc(ev.id)}" aria-pressed="${on}" aria-label="${on ? 'Remove from saved' : 'Save'}: ${esc(ev.title)}">${ICON.heart}</button>
+  </article>`;
+}
+
+function renderControls(){
+  const w = DATA.weekend.days;
+  $('days').innerHTML = [['all','All','weekend'], ...DAYS.map(d => [d, DAYABBR[d], prettyDate(w[d], { month:'short', day:'numeric' })])]
+    .map(([k,a,b]) => `<button type="button" data-day="${k}" aria-pressed="${S.day === k}">${a}<small>${esc(b)}</small></button>`).join('');
+  $('chips').innerHTML = CATS
+    .filter(([k]) => k === 'all' || DATA.events.some(e => k === 'free' ? e.price === 'free' : e.cat === k))
+    .map(([k,l]) => `<button type="button" class="chip" data-cat="${k}" aria-pressed="${S.cat === k}">${esc(l)}</button>`).join('');
+  const goods = GOOD.filter(([k]) => DATA.events.some(e => goodFor(e).includes(k)));
+  $('good').hidden = !goods.length;
+  $('good').innerHTML = '<span class="good-label">Good for</span>' + goods
+    .map(([k,l]) => `<button type="button" class="chip" data-good="${k}" aria-pressed="${S.good === k}">${esc(l)}</button>`).join('');
+}
+
+function renderHome(){
+  const evs = sorted(DATA.events.filter(e => matches(e, S.day, S.cat, S.q)), S.day);
+  const dayTxt = S.day === 'all' ? 'this weekend' : 'on ' + DAYNAME[S.day];
+  $('count').textContent = !evs.length ? '' : S.good !== 'any'
+    ? `${evs.length} ${GOODCOUNT[S.good][evs.length === 1 ? 0 : 1]} ${dayTxt}`
+    : `${evs.length} ${evs.length === 1 ? 'thing' : 'things'} to do ${dayTxt}`;
+  $('list').innerHTML = evs.length ? evs.map(e => card(e, S.day)).join('') :
+    `<div class="empty"><h2>Nothing matches</h2><p>Try another day or filter, or clear your search.</p><button class="btn" type="button" data-reset>Show everything</button></div>`;
+}
+
+function renderSaved(){
+  const evs = sorted(DATA.events.filter(e => saved.has(e.id)), 'all');
+  $('saved-list').innerHTML = evs.length ? evs.map(e => card(e, 'all')).join('') :
+    `<div class="empty"><h2>No saved events yet</h2><p>Tap the heart on anything that looks good and it'll wait for you here.</p><button class="btn primary" type="button" data-go="home">Browse this weekend</button></div>`;
+  const n = evs.length; $('badge').hidden = !n; $('badge').textContent = n;
+}
+
+function renderHeader(){
+  const w = DATA.weekend.days;
+  $('city-label').textContent = cityName(CITY);
+  $('city-btn').hidden = false;
+  $('dates').textContent = `${prettyDate(w.fri)} – ${prettyDate(w.sun)} · Updated ${prettyDate(DATA.updated, { month:'short', day:'numeric' })}`;
+  const today = todayISO(), b = $('banner');
+  if (today > w.sun){ b.hidden = false; b.textContent = "This was last weekend's list. The new one comes out Wednesday."; }
+  else if (offline || !navigator.onLine){ b.hidden = false; b.textContent = "You're offline, so this is the copy saved on your phone."; }
+  else b.hidden = true;
+  $('version').textContent = `© ${new Date().getFullYear()} ENDins LLC · Version ${APP_VERSION} · Events updated ${prettyDate(DATA.updated, { month:'long', day:'numeric', year:'numeric' })}`;
+}
+
+function renderAll(){ renderControls(); renderHome(); renderSaved(); }
+
+/* ---------- views ---------- */
+function show(view, push = true){
+  S.view = view;
+  ['home','saved','about'].forEach(v => { $('view-' + v).hidden = v !== view; });
+  document.querySelectorAll('nav.tabs button').forEach(b => { if (b.dataset.go === view) b.setAttribute('aria-current','page'); else b.removeAttribute('aria-current'); });
+  if (push){ const h = view === 'home' ? '' : '#' + view; if (location.hash !== h) history.replaceState(null, '', h || location.pathname + location.search); }
+  window.scrollTo(0, 0);
+}
+
+/* ---------- detail sheet ---------- */
+const sheet = $('sheet');
+let openId = null;
+function gcalURL(ev, s){
+  const d = DATA.weekend.days[s.day].replace(/-/g,'');
+  const st = s.s.replace(':','') + '00';
+  const en = (s.e || plus2(s.s)).replace(':','') + '00';
+  const p = new URLSearchParams({ action:'TEMPLATE', text:ev.title, dates:`${d}T${st}/${d}T${en}`, ctz:TZ, location:`${ev.venue}, ${ev.addr}`, details:(ev.blurb || '') + '\n\nFrom Weekend Scout' });
+  return 'https://calendar.google.com/calendar/render?' + p.toString();
+}
+function plus2(t){ let [h,m] = t.split(':').map(Number); h = Math.min(h + 2, 23); return `${String(h).padStart(2,'0')}:${String(m).padStart(2,'0')}`; }
+function icsText(ev, s){
+  const e = v => String(v).replace(/\\/g,'\\\\').replace(/;/g,'\\;').replace(/,/g,'\\,').replace(/\n/g,'\\n');
+  const d = DATA.weekend.days[s.day].replace(/-/g,'');
+  const st = s.s.replace(':','') + '00', en = (s.e || plus2(s.s)).replace(':','') + '00';
+  const stamp = new Date().toISOString().replace(/[-:]/g,'').replace(/\.\d+/,'');
+  return ['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//Weekend Scout//EN','CALSCALE:GREGORIAN','METHOD:PUBLISH',
+    'BEGIN:VTIMEZONE','TZID:America/New_York',
+    'BEGIN:STANDARD','DTSTART:19701101T020000','RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU','TZOFFSETFROM:-0400','TZOFFSETTO:-0500','TZNAME:EST','END:STANDARD',
+    'BEGIN:DAYLIGHT','DTSTART:19700308T020000','RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU','TZOFFSETFROM:-0500','TZOFFSETTO:-0400','TZNAME:EDT','END:DAYLIGHT',
+    'END:VTIMEZONE','BEGIN:VEVENT',`UID:${ev.id}-${s.day}-${st}@weekendscout`,`DTSTAMP:${stamp}`,
+    `DTSTART;TZID=America/New_York:${d}T${st}`,`DTEND;TZID=America/New_York:${d}T${en}`,
+    `SUMMARY:${e(ev.title)}`,`LOCATION:${e(ev.venue + ', ' + ev.addr)}`,`DESCRIPTION:${e(ev.blurb || '')}`,
+    'END:VEVENT','END:VCALENDAR'].join('\r\n');
+}
+function downloadICS(ev, s){
+  const blob = new Blob([icsText(ev, s)], { type:'text/calendar;charset=utf-8' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob); a.download = ev.id + '.ics';
+  document.body.appendChild(a); a.click(); a.remove();
+  setTimeout(() => URL.revokeObjectURL(a.href), 4000);
+}
+const mapsURL = ev => 'https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent(`${ev.venue}, ${ev.addr}`);
+const infoURL = ev => 'https://www.google.com/search?q=' + encodeURIComponent(`${ev.title} ${ev.venue} Syracuse`);
+
+function openSheet(id, push = true){
+  const ev = DATA.events.find(e => e.id === id); if (!ev) return;
+  openId = id;
+  const ss = sessions(ev), on = saved.has(id);
+  const byDay = DAYS.filter(d => (ev.times[d] || []).length).map(d => {
+    const list = ev.times[d];
+    return `<div>${DAYNAME[d]}, ${esc(prettyDate(DATA.weekend.days[d], { month:'short', day:'numeric' }))}: <strong>${list.map(range).map(esc).join(' & ')}</strong></div>`;
+  }).join('');
+  const calRows = ss.filter(s => s.s).map((s, i) => `<div class="cal-row"><span>${DAYABBR[s.day]} · ${esc(range(s))}</span><span class="btns">
+      <a class="btn" href="${esc(gcalURL(ev, s))}" target="_blank" rel="noopener">Google</a>
+      <button class="btn" type="button" data-ics="${i}">Apple / Outlook</button></span></div>`).join('');
+  const link = ev.link;
+  $('sheet-in').innerHTML = `
+    <div class="grab" aria-hidden="true"></div>
+    <div class="sheet-head"><div>${pills(ev)}<h2 id="s-title" style="margin-top:8px">${esc(ev.title)}</h2></div>
+      <button class="x-btn" type="button" data-close aria-label="Close">${ICON.x}</button></div>
+    <div class="meta">
+      <div class="meta-row">${ICON.clock}<div>${byDay}</div></div>
+      <div class="meta-row">${ICON.pin}<div>${esc(ev.venue)}<div class="sub">${esc(ev.addr)}</div></div></div>
+      <div class="meta-row">${ICON.tag}<div>${esc(ev.priceLabel || '')}${ev.ages ? ` · ${esc(ev.ages)}` : ''}</div></div>
+      ${goodFor(ev).length ? `<div class="meta-row">${ICON.heart}<div>Good for: ${goodFor(ev).map(k => esc(GOODLABEL[k])).join(', ')}</div></div>` : ''}
+    </div>
+    ${ev.blurb ? `<p class="blurb">${esc(ev.blurb)}</p>` : ''}
+    <div class="actions">
+      ${link ? `<a class="btn primary wide" href="${esc(link.url)}" target="_blank" rel="noopener${ev.sponsored ? ' sponsored' : ''}">${esc(link.label)} ${ICON.ext}</a>` : `<a class="btn primary wide" href="${esc(infoURL(ev))}" target="_blank" rel="noopener">Find tickets &amp; info ${ICON.ext}</a>`}
+      <a class="btn" href="${esc(mapsURL(ev))}" target="_blank" rel="noopener">${ICON.map} Directions</a>
+      <button class="btn" type="button" data-share>${ICON.share} Share</button>
+      <button class="btn" type="button" data-save="${esc(id)}" aria-pressed="${on}">${ICON.heart} ${on ? 'Saved' : 'Save'}</button>
+      ${calRows ? `<button class="btn" type="button" data-caltoggle aria-expanded="false">${ICON.cal} Calendar</button>` : `<a class="btn" href="${esc(infoURL(ev))}" target="_blank" rel="noopener">More info</a>`}
+    </div>
+    ${calRows ? `<div class="cal" id="cal" hidden><strong style="font-size:.9rem">Add to your calendar</strong>${calRows}</div>` : ''}
+    ${link ? `<a href="${esc(infoURL(ev))}" target="_blank" rel="noopener" style="font-size:.88rem;color:var(--muted)">More about this event</a>` : ''}`;
+  if (!sheet.open){ try { sheet.showModal(); } catch { sheet.setAttribute('open',''); } }
+  if (push) history.replaceState(null, '', '#ev-' + id);
+}
+function clearEvHash(){
+  const h = S.view === 'home' ? '' : '#' + S.view;
+  if (location.hash.startsWith('#ev-')) history.replaceState(null, '', h || location.pathname + location.search);
+}
+function closeSheet(){
+  openId = null;
+  if (sheet.open) sheet.close();
+  clearEvHash();
+}
+sheet.addEventListener('close', () => { openId = null; clearEvHash(); });
+sheet.addEventListener('click', e => { if (e.target === sheet) closeSheet(); });
+
+/* ---------- actions ---------- */
+let toastT;
+function toast(msg){ const t = $('toast'); t.textContent = msg; t.classList.add('on'); clearTimeout(toastT); toastT = setTimeout(() => t.classList.remove('on'), 2200); }
+function toggleSave(id){
+  if (saved.has(id)) { saved.delete(id); toast('Removed from saved'); } else { saved.add(id); toast('Saved'); }
+  store.set('ws-saved', [...saved]);
+  renderHome(); renderSaved();
+  if (openId === id) openSheet(id, false);
+}
+function shareURL(id){
+  const base = SITE_URL || (location.origin + location.pathname);
+  return base + '#ev-' + (CITIES.length > 1 ? CITY.id + '--' : '') + id;
+}
+async function share(id){
+  const ev = DATA.events.find(e => e.id === id); if (!ev) return;
+  const ss = sessions(ev)[0];
+  const text = `${ev.title} at ${ev.venue}${ss ? `, ${DAYNAME[ss.day]} ${range(ss)}` : ''}`;
+  const url = shareURL(id);
+  try { if (navigator.share) { await navigator.share({ title:ev.title, text, url }); return; } } catch (err) { if (err && err.name === 'AbortError') return; }
+  try { await navigator.clipboard.writeText(`${text}\n${url}`); toast('Link copied'); } catch { toast(text); }
+}
+
+document.addEventListener('click', e => {
+  const t = e.target.closest('button, a'); if (!t) return;
+  if (t.dataset.open) return openSheet(t.dataset.open);
+  if (t.dataset.save) return toggleSave(t.dataset.save);
+  if (t.dataset.go) { closeSheet(); return show(t.dataset.go); }
+  if (t.dataset.day) { S.day = t.dataset.day; renderControls(); renderHome(); return; }
+  if (t.dataset.cat) { S.cat = t.dataset.cat; renderControls(); renderHome(); return; }
+  if (t.dataset.good) { S.good = S.good === t.dataset.good ? 'any' : t.dataset.good; renderControls(); renderHome(); return; }
+  if ('reset' in t.dataset) { S.day = 'all'; S.cat = 'all'; S.good = 'any'; S.q = ''; $('q').value = ''; renderControls(); renderHome(); return; }
+  if ('close' in t.dataset) return closeSheet();
+  if (t.id === 'city-btn') return openCityPicker();
+  if (t.dataset.city) { closeSheet(); return switchCity(t.dataset.city); }
+  if ('share' in t.dataset) return share(openId);
+  if ('caltoggle' in t.dataset) { const c = $('cal'); c.hidden = !c.hidden; t.setAttribute('aria-expanded', String(!c.hidden)); return; }
+  if (t.dataset.ics !== undefined) { const ev = DATA.events.find(x => x.id === openId); const s = sessions(ev).filter(s => s.s)[+t.dataset.ics]; downloadICS(ev, s); return; }
+  if (t.dataset.copy) {
+    const txt = $(t.dataset.copy).textContent;
+    navigator.clipboard.writeText(txt).then(() => toast('Copied'), () => { const r = document.createRange(); r.selectNodeContents($(t.dataset.copy)); const s = getSelection(); s.removeAllRanges(); s.addRange(r); toast('Selected. Copy it from here.'); });
+  }
+});
+let qT;
+$('q').addEventListener('input', e => { clearTimeout(qT); qT = setTimeout(() => { S.q = e.target.value.trim(); renderHome(); }, 120); });
+
+function route(){
+  const h = location.hash.slice(1);
+  if (h.startsWith('ev-') && h.includes('--')) { const [cid, eid] = h.slice(3).split('--'); if (cid !== CITY.id && CITIES.some(c => c.id === cid)) { switchCity(cid).then(() => { location.hash = 'ev-' + cid + '--' + eid; }); return; } if (DATA.events.some(e => e.id === eid)) { show('home', false); openSheet(eid, false); return; } }
+  if (h.startsWith('ev-')) { const id = h.slice(3); if (DATA.events.some(e => e.id === id)) { show('home', false); openSheet(id, false); return; } }
+  if (['saved','about'].includes(h)) { closeSheet(); show(h, false); return; }
+  closeSheet(); show('home', false);
+}
+window.addEventListener('hashchange', route);
+
+/* ---------- install prompt (Android/desktop Chrome) ---------- */
+let deferred = null;
+window.addEventListener('beforeinstallprompt', e => { e.preventDefault(); deferred = e; $('install-btn').hidden = false; });
+$('install-btn').addEventListener('click', async () => { if (!deferred) return; deferred.prompt(); try { await deferred.userChoice; } catch {} deferred = null; $('install-btn').hidden = true; });
+if (matchMedia('(display-mode: standalone)').matches || navigator.standalone) $('install-box').hidden = true;
+
+/* ---------- city switching ---------- */
+function openCityPicker(){
+  openId = null;
+  $('sheet-in').innerHTML = `<div class="grab" aria-hidden="true"></div>
+    <div class="sheet-head"><h2 id="s-title">Choose a city</h2><button class="x-btn" type="button" data-close aria-label="Close">${ICON.x}</button></div>
+    <div class="city-list">${CITIES.map(c => `<button class="btn${c.id === CITY.id ? ' primary' : ''}" type="button" data-city="${esc(c.id)}">${esc(cityName(c))}${c.id === CITY.id ? ' <span>✓</span>' : ''}</button>`).join('')}</div>
+    <div class="cal"><strong style="font-size:.95rem">Don't see your city?</strong>
+      <p style="font-size:.9rem;color:var(--muted)">${CITIES.length < 2 ? 'Syracuse is our first city, and more are on the way.' : 'More cities are on the way.'} Tell us where you'd like Weekend Scout next.</p>
+      <div class="contact"><a class="btn" href="mailto:itssalmandin@gmail.com?subject=${encodeURIComponent('Weekend Scout city request')}">Email us</a><a class="btn" href="sms:+13153839602">Text us</a></div>
+      <p style="font-size:.82rem;color:var(--muted)">itssalmandin@gmail.com · 315-383-9602</p></div>`;
+  if (!sheet.open){ try { sheet.showModal(); } catch { sheet.setAttribute('open',''); } }
+}
+function noData(){
+  $('dates').textContent = "Couldn't load this weekend's events.";
+  $('count').textContent = '';
+  $('list').innerHTML = `<div class="empty"><h2>No connection</h2><p>Connect to the internet once and the list will be saved for offline use.</p><button class="btn primary" type="button" onclick="location.reload()">Try again</button></div>`;
+}
+function pickDefaultDay(){
+  const today = todayISO(), w = DATA.weekend.days;
+  S.day = DAYS.find(k => w[k] === today) || 'all';
+}
+async function switchCity(id){
+  const c = CITIES.find(x => x.id === id); if (!c || (CITY && c.id === CITY.id && DATA)) return;
+  CITY = c; store.set('ws-city', c.id);
+  const d = await loadCity(c);
+  if (!d) { DATA = null; renderHeaderCityOnly(); return noData(); }
+  DATA = d; S.cat = 'all'; S.good = 'any'; S.q = ''; $('q').value = ''; pickDefaultDay();
+  renderHeader(); renderAll(); show('home');
+}
+function renderHeaderCityOnly(){ $('city-label').textContent = cityName(CITY); $('city-btn').hidden = false; }
+
+/* ---------- start ---------- */
+(async () => {
+  CITIES = await loadCities();
+  const want = store.get('ws-city', null);
+  CITY = CITIES.find(c => c.id === want) || CITIES[0];
+  DATA = await loadCity(CITY);
+  if (!DATA) { renderHeaderCityOnly(); return noData(); }
+  pickDefaultDay();
+  renderHeader(); renderAll(); route();
+})();
+
+if ('serviceWorker' in navigator && (location.protocol === 'https:' || location.hostname === 'localhost')) {
+  window.addEventListener('load', () => { navigator.serviceWorker.register('sw.js').catch(() => {}); });
+}
+})();
+</script>
+</body>
+</html>

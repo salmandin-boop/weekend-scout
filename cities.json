@@ -1,0 +1,5 @@
+{
+  "cities": [
+    { "id": "syracuse", "name": "Syracuse", "state": "NY", "file": "events/syracuse.json" }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Weekend Scout",
+  "short_name": "Weekend Scout",
+  "description": "A hand-checked list of what's happening this weekend, starting with Syracuse, NY: concerts, games, markets, museums and family events, updated every week.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f1ec",
+  "theme_color": "#e2591b",
+  "lang": "en-US",
+  "categories": ["entertainment", "lifestyle", "travel"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Saved events", "url": "./#saved", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] }
+  ]
+}
