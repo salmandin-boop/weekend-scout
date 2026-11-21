@@ -1,0 +1,407 @@
+{
+  "city": "Syracuse, NY",
+  "updated": "2026-11-18",
+  "weekend": {
+    "label": "Nov 20–22, 2026",
+    "days": {
+      "fri": "2026-11-20",
+      "sat": "2026-11-21",
+      "sun": "2026-11-22"
+    }
+  },
+  "events": [
+    {
+      "id": "lights-on-the-lake-2026",
+      "title": "Lights on the Lake: opening weekend",
+      "cat": "family",
+      "venue": "Onondaga Lake Park",
+      "addr": "106 Lake Dr, Liverpool, NY 13088",
+      "price": "paid",
+      "priceLabel": "Tickets online",
+      "blurb": "The two-mile drive-thru holiday light show opens for the season Saturday and runs through January 4. Tickets must be bought online.",
+      "link": {
+        "label": "Buy tickets",
+        "url": "https://lightsonthelake.ticketspice.com/lights-on-the-lake-26-27"
+      },
+      "times": {
+        "sat": [
+          {
+            "s": "17:00",
+            "e": "22:00"
+          }
+        ],
+        "sun": [
+          {
+            "s": "17:00",
+            "e": "22:00"
+          }
+        ]
+      },
+      "tag": "Opens Saturday",
+      "good": [
+        "date",
+        "family"
+      ]
+    },
+    {
+      "id": "crunch-belleville-2026-11-21",
+      "title": "Syracuse Crunch vs. Belleville Senators",
+      "cat": "sports",
+      "venue": "Upstate Medical University Arena",
+      "addr": "515 Montgomery St, Syracuse, NY 13202",
+      "price": "paid",
+      "priceLabel": "Check ticket prices",
+      "blurb": "AHL hockey at the War Memorial. The Crunch host the Belleville Senators.",
+      "times": {
+        "sat": [
+          {
+            "s": "19:00"
+          }
+        ]
+      },
+      "link": {
+        "label": "Schedule",
+        "url": "https://syracusecrunch.com/sports/mens-ice-hockey/schedule"
+      },
+      "good": [
+        "family",
+        "friends",
+        "indoors"
+      ]
+    },
+    {
+      "id": "su-mbb-lafayette-2026",
+      "title": "Syracuse men's basketball vs. Lafayette",
+      "cat": "sports",
+      "venue": "JMA Wireless Dome",
+      "addr": "900 Irving Ave, Syracuse, NY 13244",
+      "price": "paid",
+      "priceLabel": "Tickets at cuse.com",
+      "blurb": "The Orange host Lafayette at the Dome on Saturday afternoon.",
+      "link": {
+        "label": "Get tickets",
+        "url": "https://cuse.com/feature/basketball-tickets"
+      },
+      "times": {
+        "sat": [
+          {
+            "s": "14:00"
+          }
+        ]
+      },
+      "good": [
+        "family",
+        "friends",
+        "indoors"
+      ]
+    },
+    {
+      "id": "nys-craft-brewers-fest-2026",
+      "title": "NYS Craft Brewers Festival",
+      "cat": "food",
+      "venue": "Landmark Theatre",
+      "addr": "362 S Salina St, Syracuse, NY 13202",
+      "price": "paid",
+      "priceLabel": "Tickets on sale",
+      "ages": "21+",
+      "blurb": "The 13th annual festival brings tastings from 45+ New York breweries to the historic Landmark Theatre.",
+      "link": {
+        "label": "Event info",
+        "url": "https://landmarktheatre.org/event/new-york-state-craft-brewers-festival/"
+      },
+      "times": {
+        "sat": [
+          {
+            "s": "16:00"
+          }
+        ]
+      },
+      "good": [
+        "friends",
+        "indoors"
+      ]
+    },
+    {
+      "id": "sawyer-fredericks-443-2026",
+      "title": "Sawyer Fredericks",
+      "cat": "music",
+      "venue": "The 443 Social Club & Lounge",
+      "addr": "443 Burnet Ave, Syracuse, NY 13203",
+      "price": "paid",
+      "priceLabel": "Tickets on Eventbrite",
+      "ages": "18+",
+      "blurb": "The Voice winner and upstate folk singer-songwriter. Doors at 5:30 PM.",
+      "link": {
+        "label": "Get tickets",
+        "url": "https://www.eventbrite.com/e/1997283050369"
+      },
+      "times": {
+        "sat": [
+          {
+            "s": "19:00"
+          }
+        ]
+      },
+      "good": [
+        "date",
+        "friends",
+        "indoors"
+      ]
+    },
+    {
+      "id": "robustiano-funny-bone-2026",
+      "title": "Anthony Robustiano",
+      "cat": "comedy",
+      "venue": "Funny Bone Comedy Club, Destiny USA",
+      "addr": "10301 Destiny USA Dr, Syracuse, NY 13204",
+      "price": "paid",
+      "priceLabel": "$27–$37",
+      "blurb": "Stand-up comedy with three shows over two nights.",
+      "times": {
+        "fri": [
+          {
+            "s": "19:00"
+          }
+        ],
+        "sat": [
+          {
+            "s": "18:30"
+          },
+          {
+            "s": "21:15"
+          }
+        ]
+      },
+      "ages": "21+",
+      "link": {
+        "label": "Get tickets",
+        "url": "https://syracuse.funnybone.com/events/category/series/anthony-robustiano/funny-bone-comedy-club/"
+      },
+      "good": [
+        "date",
+        "friends",
+        "indoors"
+      ]
+    },
+    {
+      "id": "henry-v-syracuse-stage-2026",
+      "title": "Henry V",
+      "cat": "arts",
+      "venue": "Syracuse Stage",
+      "addr": "820 E Genesee St, Syracuse, NY 13210",
+      "price": "paid",
+      "priceLabel": "From $8",
+      "blurb": "Shakespeare's history play wraps up its run at Syracuse Stage this weekend.",
+      "link": {
+        "label": "Tickets",
+        "url": "https://cnyarts.org/events/events/ticket/henry-v/"
+      },
+      "times": {
+        "fri": [
+          {
+            "s": "20:00"
+          }
+        ],
+        "sat": [
+          {
+            "s": "14:00"
+          },
+          {
+            "s": "20:00"
+          }
+        ]
+      },
+      "tag": "Last weekend",
+      "good": [
+        "date",
+        "indoors"
+      ]
+    },
+    {
+      "id": "gingerbread-gallery-2026",
+      "title": "Gingerbread Gallery",
+      "cat": "family",
+      "venue": "Erie Canal Museum",
+      "addr": "318 Erie Blvd E, Syracuse, NY 13202",
+      "price": "paid",
+      "priceLabel": "$12 adults · $5 kids",
+      "blurb": "The museum's yearly gingerbread house show opens Friday and runs through January 10. Seniors $10; ages 2 and under free.",
+      "link": {
+        "label": "Visit info",
+        "url": "https://eriecanalmuseum.org/gingerbread"
+      },
+      "times": {
+        "fri": [
+          {
+            "s": "10:00",
+            "e": "16:00"
+          }
+        ],
+        "sat": [
+          {
+            "s": "10:00",
+            "e": "16:00"
+          }
+        ],
+        "sun": [
+          {
+            "s": "10:00",
+            "e": "16:00"
+          }
+        ]
+      },
+      "tag": "Opens Friday",
+      "good": [
+        "family",
+        "indoors"
+      ]
+    },
+    {
+      "id": "cny-regional-market-2026-11",
+      "title": "CNY Regional Market",
+      "cat": "food",
+      "venue": "CNY Regional Market",
+      "addr": "2100 Park St, Syracuse, NY 13208",
+      "price": "free",
+      "priceLabel": "Free entry",
+      "blurb": "Farmers, bakers and vendors every weekend. Go early for the best pick.",
+      "link": {
+        "label": "Market info",
+        "url": "https://cnyregionalmarket.org"
+      },
+      "times": {
+        "sat": [
+          {
+            "s": "07:00",
+            "e": "14:00"
+          }
+        ],
+        "sun": [
+          {
+            "s": "07:00",
+            "e": "14:00"
+          }
+        ]
+      },
+      "good": [
+        "family",
+        "friends"
+      ]
+    },
+    {
+      "id": "everson-2026-11",
+      "title": "Everson Museum of Art",
+      "cat": "arts",
+      "venue": "Everson Museum of Art",
+      "addr": "401 Harrison St, Syracuse, NY 13202",
+      "price": "paid",
+      "priceLabel": "$14 adults",
+      "blurb": "Now showing include America 250: Rebels, Radicals, and Revolutionaries, Sincerely, Beato and New Works in Clay. Seniors and students get in free on Sundays.",
+      "link": {
+        "label": "Visit info",
+        "url": "https://everson.org/visit"
+      },
+      "times": {
+        "fri": [
+          {
+            "s": "11:00",
+            "e": "17:00"
+          }
+        ],
+        "sat": [
+          {
+            "s": "10:00",
+            "e": "17:00"
+          }
+        ],
+        "sun": [
+          {
+            "s": "10:00",
+            "e": "17:00"
+          }
+        ]
+      },
+      "good": [
+        "date",
+        "family",
+        "indoors"
+      ]
+    },
+    {
+      "id": "most-2026-11",
+      "title": "Museum of Science & Technology (MOST)",
+      "cat": "family",
+      "venue": "Museum of Science & Technology (MOST)",
+      "addr": "500 S Franklin St, Syracuse, NY 13202",
+      "price": "paid",
+      "priceLabel": "$18 adults · $14 youth",
+      "blurb": "Hands-on science museum with ExploraDome films; the free America the Beautiful film shows Friday. Seniors get in free on Fridays.",
+      "link": {
+        "label": "Hours & prices",
+        "url": "https://most.org/visit/hours-prices/"
+      },
+      "times": {
+        "fri": [
+          {
+            "s": "09:30",
+            "e": "17:00"
+          }
+        ],
+        "sat": [
+          {
+            "s": "09:30",
+            "e": "17:00"
+          }
+        ],
+        "sun": [
+          {
+            "s": "09:30",
+            "e": "17:00"
+          }
+        ]
+      },
+      "good": [
+        "family",
+        "indoors"
+      ]
+    },
+    {
+      "id": "oha-full-circle-2026",
+      "title": "Full Circle Design Competition exhibition",
+      "cat": "arts",
+      "venue": "Onondaga Historical Association Museum",
+      "addr": "321 Montgomery St, Syracuse, NY 13202",
+      "price": "free",
+      "priceLabel": "Free",
+      "blurb": "The design competition exhibition closes Tuesday, November 24.",
+      "link": {
+        "label": "Visit info",
+        "url": "https://www.cnyhistory.org/visit/downtown/"
+      },
+      "times": {
+        "fri": [
+          {
+            "s": "10:00",
+            "e": "16:00"
+          }
+        ],
+        "sat": [
+          {
+            "s": "10:00",
+            "e": "16:00"
+          }
+        ],
+        "sun": [
+          {
+            "s": "11:00",
+            "e": "16:00"
+          }
+        ]
+      },
+      "tag": "Closes Nov 24",
+      "good": [
+        "indoors"
+      ]
+    }
+  ]
+}
