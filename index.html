@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Weekend Scout</title>
 <meta name="claude:viewport-fit-sides" content="cover">
-<meta name="description" content="Weekend Scout: a hand-checked list of what's happening this weekend in Syracuse, NY — concerts, games, markets, museums and family events, updated every week.">
+<meta name="description" content="Weekend Scout: a hand-checked list of what's happening this weekend in your city — concerts, games, markets, museums and family events, updated every week.">
 <meta name="theme-color" content="#f3f1ec" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#14161b" media="(prefers-color-scheme: dark)">
 <meta name="apple-mobile-web-app-capable" content="yes">
@@ -185,7 +185,7 @@ dialog.sheet::backdrop{background:rgba(10,14,22,.45)}
   </section>
 
   <section id="view-about" class="wrap" hidden aria-labelledby="h-about">
-    <header class="top"><div class="kicker">About</div><h1 id="h-about">Weekend Scout</h1><p class="dates">A short, hand-checked list of what's worth doing each weekend, starting with Syracuse. New list every Wednesday.</p></header>
+    <header class="top"><div class="kicker">About</div><h1 id="h-about">Weekend Scout</h1><p class="dates">A short, hand-checked list of what's worth doing each weekend, in cities across the US. New lists every Wednesday.</p></header>
     <div class="section" id="install-box">
       <h2>Put it on your home screen</h2>
       <p id="install-text">On iPhone: tap Share, then <strong>Add to Home Screen</strong>. On Android: tap the ⋮ menu, then <strong>Install app</strong>.</p>
@@ -227,9 +227,10 @@ dialog.sheet::backdrop{background:rgba(10,14,22,.45)}
 
 <script>
 (() => {
-const APP_VERSION = '1.3.1';
+const APP_VERSION = '1.4.0';
 const SITE_URL = 'https://weekendscout.app/'; // the live address, so shared links point there
-const TZ = 'America/New_York';
+const TZ0 = 'America/New_York';
+let TZ = TZ0; // switches to the chosen city's time zone
 const DAYS = ['fri','sat','sun'];
 const DAYNAME = {fri:'Friday',sat:'Saturday',sun:'Sunday'};
 const DAYABBR = {fri:'Fri',sat:'Sat',sun:'Sun'};
@@ -437,17 +438,22 @@ function gcalURL(ev, s){
   return 'https://calendar.google.com/calendar/render?' + p.toString();
 }
 function plus2(t){ let [h,m] = t.split(':').map(Number); h = Math.min(h + 2, 23); return `${String(h).padStart(2,'0')}:${String(m).padStart(2,'0')}`; }
+// Local wall time in the city's time zone -> UTC stamp like 20261128T010000Z
+function utcStamp(dateISO, hhmm){
+  const [y,mo,da] = dateISO.split('-').map(Number), [h,mi] = hhmm.split(':').map(Number);
+  const guess = Date.UTC(y, mo - 1, da, h, mi);
+  const off = t => { const p = Object.fromEntries(new Intl.DateTimeFormat('en-US',{ timeZone:TZ, hourCycle:'h23', year:'numeric', month:'2-digit', day:'2-digit', hour:'2-digit', minute:'2-digit' }).formatToParts(new Date(t)).map(x => [x.type, x.value]));
+    return Date.UTC(+p.year, +p.month - 1, +p.day, +p.hour % 24, +p.minute) - t; };
+  let t = guess - off(guess); t = guess - off(t);
+  return new Date(t).toISOString().replace(/[-:]/g,'').replace(/\.\d+/,'');
+}
 function icsText(ev, s){
   const e = v => String(v).replace(/\\/g,'\\\\').replace(/;/g,'\\;').replace(/,/g,'\\,').replace(/\n/g,'\\n');
-  const d = DATA.weekend.days[s.day].replace(/-/g,'');
-  const st = s.s.replace(':','') + '00', en = (s.e || plus2(s.s)).replace(':','') + '00';
+  const day = DATA.weekend.days[s.day], st = s.s.replace(':','') + '00';
   const stamp = new Date().toISOString().replace(/[-:]/g,'').replace(/\.\d+/,'');
   return ['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//Weekend Scout//EN','CALSCALE:GREGORIAN','METHOD:PUBLISH',
-    'BEGIN:VTIMEZONE','TZID:America/New_York',
-    'BEGIN:STANDARD','DTSTART:19701101T020000','RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU','TZOFFSETFROM:-0400','TZOFFSETTO:-0500','TZNAME:EST','END:STANDARD',
-    'BEGIN:DAYLIGHT','DTSTART:19700308T020000','RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU','TZOFFSETFROM:-0500','TZOFFSETTO:-0400','TZNAME:EDT','END:DAYLIGHT',
-    'END:VTIMEZONE','BEGIN:VEVENT',`UID:${ev.id}-${s.day}-${st}@weekendscout`,`DTSTAMP:${stamp}`,
-    `DTSTART;TZID=America/New_York:${d}T${st}`,`DTEND;TZID=America/New_York:${d}T${en}`,
+    'BEGIN:VEVENT',`UID:${ev.id}-${s.day}-${st}@weekendscout`,`DTSTAMP:${stamp}`,
+    `DTSTART:${utcStamp(day, s.s)}`,`DTEND:${utcStamp(day, s.e || plus2(s.s))}`,
     `SUMMARY:${e(ev.title)}`,`LOCATION:${e(ev.venue + ', ' + ev.addr)}`,`DESCRIPTION:${e(ev.blurb || '')}`,
     'END:VEVENT','END:VCALENDAR'].join('\r\n');
 }
@@ -459,7 +465,7 @@ function downloadICS(ev, s){
   setTimeout(() => URL.revokeObjectURL(a.href), 4000);
 }
 const mapsURL = ev => 'https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent(`${ev.venue}, ${ev.addr}`);
-const infoURL = ev => 'https://www.google.com/search?q=' + encodeURIComponent(`${ev.title} ${ev.venue} Syracuse`);
+const infoURL = ev => 'https://www.google.com/search?q=' + encodeURIComponent(`${ev.title} ${ev.venue} ${CITY ? CITY.name : ''}`);
 
 function openSheet(id, push = true){
   const ev = DATA.events.find(e => e.id === id); if (!ev) return;
@@ -592,7 +598,7 @@ function pickDefaultDay(){
 }
 async function switchCity(id){
   const c = CITIES.find(x => x.id === id); if (!c || (CITY && c.id === CITY.id && DATA)) return;
-  CITY = c; store.set('ws-city', c.id);
+  CITY = c; TZ = c.tz || TZ0; store.set('ws-city', c.id);
   const d = await loadCity(c);
   if (!d) { DATA = null; renderHeaderCityOnly(); return noData(); }
   DATA = d; S.cat = 'all'; S.good = 'any'; S.q = ''; $('q').value = ''; pickDefaultDay();
@@ -604,11 +610,13 @@ function renderHeaderCityOnly(){ $('city-label').textContent = cityName(CITY); $
 (async () => {
   CITIES = await loadCities();
   const want = store.get('ws-city', null);
-  CITY = CITIES.find(c => c.id === want) || CITIES[0];
+  CITY = CITIES.find(c => c.id === want) || CITIES[0]; TZ = CITY.tz || TZ0;
   DATA = await loadCity(CITY);
   if (!DATA) { renderHeaderCityOnly(); return noData(); }
   pickDefaultDay();
   renderHeader(); renderAll(); route();
+  // First visit and more than one city: ask which city they're in
+  if (!want && CITIES.length > 1 && !location.hash) openCityPicker();
 })();
 
 if ('serviceWorker' in navigator && (location.protocol === 'https:' || location.hostname === 'localhost')) {
