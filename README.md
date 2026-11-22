@@ -1,12 +1,12 @@
 # Weekend Scout
 
-An installable web app (PWA) listing what's happening each weekend, starting with Syracuse, NY. No build step, no dependencies.
+An installable web app (PWA) listing what's happening each weekend in 11 US cities. No build step, no dependencies.
 
 | File | What it is |
 |---|---|
 | `index.html` | The whole app |
 | `cities.json` | The list of cities. The city switcher appears once there are two or more |
-| `events/syracuse.json` | Syracuse's events this weekend. The only file that changes each week |
+| `events/<city>.json` | Each city's events for the coming weekend. These are the only files that change each week |
 | `manifest.webmanifest` | App name, colors and icons for installing |
 | `sw.js` | Offline support |
 | `icons/` | App icons |
@@ -14,7 +14,7 @@ An installable web app (PWA) listing what's happening each weekend, starting wit
 
 ## Updating the events each week
 
-Replace `events/syracuse.json` with the new week's file. The app picks it up the next time someone opens it, with no app-store update needed.
+Replace each `events/<city>.json` with the new week's file (a scheduled task does this every Wednesday). The app picks it up the next time someone opens it, with no app-store update needed.
 
 Each event looks like this:
 
@@ -47,7 +47,7 @@ Each event looks like this:
 
 1. Add the city's events file, such as `events/miami.json`, in the same format.
 2. Add a line for it in `cities.json`: `{ "id": "miami", "name": "Miami", "state": "FL", "file": "events/miami.json" }`.
-3. Times in each file are local to that city. (The app's calendar links currently use Eastern time; set a per-city time zone before adding a city outside it.)
+3. Times in each file are local to that city. Give the city its time zone in `cities.json` (`"tz": "America/Chicago"`) so calendar links are right.
 
 ## Putting it online (free)
 

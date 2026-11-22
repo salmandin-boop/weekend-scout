@@ -12,6 +12,17 @@
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="Weekend Scout">
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
+<link rel="canonical" href="https://weekendscout.app/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Weekend Scout">
+<meta property="og:title" content="Weekend Scout: what's on this weekend">
+<meta property="og:description" content="Hand-checked concerts, games, markets and family events in 11 US cities, updated every Wednesday.">
+<meta property="og:url" content="https://weekendscout.app/">
+<meta property="og:image" content="https://weekendscout.app/icons/og-image.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Weekend Scout app showing this weekend's events">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
@@ -227,7 +238,7 @@ dialog.sheet::backdrop{background:rgba(10,14,22,.45)}
 
 <script>
 (() => {
-const APP_VERSION = '1.4.0';
+const APP_VERSION = '1.4.1';
 const SITE_URL = 'https://weekendscout.app/'; // the live address, so shared links point there
 const TZ0 = 'America/New_York';
 let TZ = TZ0; // switches to the chosen city's time zone

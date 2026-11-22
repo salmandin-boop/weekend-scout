@@ -1,7 +1,7 @@
 {
   "name": "Weekend Scout",
   "short_name": "Weekend Scout",
-  "description": "A hand-checked list of what's happening this weekend, starting with Syracuse, NY: concerts, games, markets, museums and family events, updated every week.",
+  "description": "A hand-checked list of what's happening this weekend in 11 US cities: concerts, games, markets, museums and family events, updated every Wednesday.",
   "id": "./",
   "start_url": "./",
   "scope": "./",
@@ -10,13 +10,71 @@
   "background_color": "#f3f1ec",
   "theme_color": "#e2591b",
   "lang": "en-US",
-  "categories": ["entertainment", "lifestyle", "travel"],
+  "categories": [
+    "entertainment",
+    "lifestyle",
+    "travel"
+  ],
   "icons": [
-    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
-    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
-    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
   ],
   "shortcuts": [
-    { "name": "Saved events", "url": "./#saved", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] }
+    {
+      "name": "Saved events",
+      "url": "./#saved",
+      "icons": [
+        {
+          "src": "icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ],
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
+  "launch_handler": {
+    "client_mode": "navigate-existing"
+  },
+  "screenshots": [
+    {
+      "src": "screenshots/home-syr.jpg",
+      "sizes": "1080x2160",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "This weekend's events"
+    },
+    {
+      "src": "screenshots/date.jpg",
+      "sizes": "1080x2160",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "Filter by date night, family and more"
+    },
+    {
+      "src": "screenshots/detail.jpg",
+      "sizes": "1080x2160",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "Tickets, directions and calendar"
+    }
   ]
 }
