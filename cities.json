@@ -1,5 +1,1 @@
-{
-  "cities": [
-    { "id": "syracuse", "name": "Syracuse", "state": "NY", "file": "events/syracuse.json" }
-  ]
-}
+{"cities":[{"id":"syracuse","name":"Syracuse","state":"NY","tz":"America/New_York","file":"events/syracuse.json"},{"id":"new-york","name":"New York","state":"NY","tz":"America/New_York","file":"events/new-york.json"},{"id":"los-angeles","name":"Los Angeles","state":"CA","tz":"America/Los_Angeles","file":"events/los-angeles.json"},{"id":"chicago","name":"Chicago","state":"IL","tz":"America/Chicago","file":"events/chicago.json"},{"id":"houston","name":"Houston","state":"TX","tz":"America/Chicago","file":"events/houston.json"},{"id":"phoenix","name":"Phoenix","state":"AZ","tz":"America/Phoenix","file":"events/phoenix.json"},{"id":"philadelphia","name":"Philadelphia","state":"PA","tz":"America/New_York","file":"events/philadelphia.json"},{"id":"san-antonio","name":"San Antonio","state":"TX","tz":"America/Chicago","file":"events/san-antonio.json"},{"id":"san-diego","name":"San Diego","state":"CA","tz":"America/Los_Angeles","file":"events/san-diego.json"},{"id":"dallas","name":"Dallas","state":"TX","tz":"America/Chicago","file":"events/dallas.json"},{"id":"austin","name":"Austin","state":"TX","tz":"America/Chicago","file":"events/austin.json"}]}
