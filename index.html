@@ -415,7 +415,7 @@ dialog.sheet[open]{animation:sheetUp .22s cubic-bezier(.2,.8,.2,1)}
 
 <script>
 (() => {
-const APP_VERSION = '1.10.0';
+const APP_VERSION = '1.10.1';
 const SITE_URL = 'https://weekendscout.app/'; // the live address, so shared links point there
 const TZ0 = 'America/New_York';
 let TZ = TZ0; // switches to the chosen city's time zone
@@ -655,8 +655,9 @@ function renderHome(){
     cards.unshift(`<div class="nudge"><span>☂ Rain likely ${wet.map(d => DAYNAME[d]).join(' and ')} (${Math.max(...wet.map(d => wxFor(DATA.weekend.days[d]).rain))}%).</span><button class="btn" type="button" data-good="indoors">Show rainy-day picks</button></div>`);
   if (MAPON) drawMap(evs);
   const plans = renderPlans(), fy = renderForYou();
-  // Rails sit inside the list, after the first few events, so the list stays first
-  if (plans) cards.splice(Math.min(4, cards.length), 0, plans);
+  // Rails sit inside the list, after the first few events, so the list stays first.
+  // With the Date night filter on, the ready-made date bundles lead the list.
+  if (plans) cards.splice(S.good === 'date' ? 0 : Math.min(4, cards.length), 0, plans);
   if (fy) cards.splice(Math.min(plans ? 9 : 4, cards.length), 0, fy);
   $('list').innerHTML = cards.join('');
 }
@@ -984,7 +985,11 @@ document.addEventListener('click', e => {
   if (t.dataset.go) { closeSheet(); return show(t.dataset.go); }
   if (t.dataset.day) { S.day = t.dataset.day; renderControls(); renderHome(); return; }
   if (t.dataset.cat) { S.cat = t.dataset.cat; renderControls(); renderHome(); return; }
-  if (t.dataset.good) { S.good = S.good === t.dataset.good ? 'any' : t.dataset.good; renderControls(); renderHome(); return; }
+  if (t.dataset.good) { S.good = S.good === t.dataset.good ? 'any' : t.dataset.good; renderControls(); renderHome();
+    // Bring the top of the results (date bundles first, when Date night is on) into view under the sticky filters
+    const first = $('list').firstElementChild, bar = document.querySelector('.controls');
+    if (first && bar) { const y = first.getBoundingClientRect().top - bar.getBoundingClientRect().bottom - 8; if (y < 0 || y > innerHeight * 0.6) scrollBy({ top:y, behavior:matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' }); }
+    return; }
   if ('reset' in t.dataset) { S.day = 'all'; S.cat = 'all'; S.good = 'any'; S.q = ''; $('q').value = ''; renderControls(); renderHome(); return; }
   if ('close' in t.dataset) return closeSheet();
   if (t.id === 'city-btn') return openCityPicker();
