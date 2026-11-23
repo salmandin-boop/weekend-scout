@@ -415,7 +415,7 @@ dialog.sheet[open]{animation:sheetUp .22s cubic-bezier(.2,.8,.2,1)}
 
 <script>
 (() => {
-const APP_VERSION = '1.10.1';
+const APP_VERSION = '1.10.2';
 const SITE_URL = 'https://weekendscout.app/'; // the live address, so shared links point there
 const TZ0 = 'America/New_York';
 let TZ = TZ0; // switches to the chosen city's time zone
@@ -1045,9 +1045,9 @@ function renderHoliday(){
   if (!hits.length){ h.hidden = true; return; }
   const dn = d => new Date(d + 'T12:00:00').toLocaleDateString('en-US', { weekday:'short' });
   const date = hits.some(x => /Valentine/.test(x.name)) && DATA.events.some(e => goodFor(e).includes('date'));
-  const fam = hits.some(x => /Thanksgiving|Christmas|Easter|Mother|Father/.test(x.name)) && DATA.events.some(e => goodFor(e).includes('family'));
+
   h.innerHTML = `<span>🎉 <strong>Holiday weekend</strong> · ${hits.map(x => `${esc(x.name)} (${dn(x.d)})`).join(' · ')}. Some hours change.</span>` +
-    (date ? '<button class="btn" type="button" data-good="date">Date night picks</button>' : fam ? '<button class="btn" type="button" data-good="family">Picks for kids</button>' : '');
+    (date ? '<button class="btn" type="button" data-good="date">Date night picks</button>' : '');
   h.hidden = false;
 }
 
