@@ -267,6 +267,10 @@ dialog.sheet[open]{animation:sheetUp .22s cubic-bezier(.2,.8,.2,1)}
 .play-badge{display:inline-flex;align-items:center;gap:10px;background:#000;color:#fff;border-radius:10px;padding:8px 14px;text-decoration:none;font-weight:600;margin-top:10px}
 .play-badge svg{width:22px;height:22px}
 .play-badge small{display:block;font-size:.65rem;font-weight:500;opacity:.85;line-height:1}
+.pick-links{display:flex;flex-wrap:wrap;gap:6px 14px;margin-top:4px}
+.alts{margin-top:6px;font-size:.85rem;color:var(--muted);line-height:1.5}
+.alts span{font-weight:600}
+.alts small{color:var(--muted)}
 </style>
 </head>
 <body>
@@ -411,7 +415,7 @@ dialog.sheet[open]{animation:sheetUp .22s cubic-bezier(.2,.8,.2,1)}
 
 <script>
 (() => {
-const APP_VERSION = '1.9.0';
+const APP_VERSION = '1.10.0';
 const SITE_URL = 'https://weekendscout.app/'; // the live address, so shared links point there
 const TZ0 = 'America/New_York';
 let TZ = TZ0; // switches to the chosen city's time zone
@@ -505,9 +509,10 @@ async function loadCities(){
   return list;
 }
 async function loadCity(city){
-  const res = await getJSON(city.file, 'ws-data-' + city.id);
+  const [res, sp] = await Promise.all([getJSON(city.file, 'ws-data-' + city.id), getJSON('spots/' + city.id + '.json', 'ws-spots-' + city.id).catch(() => null)]);
   if (!res || !Array.isArray(res.j.events)) return null;
   offline = res.cached;
+  res.j.spots = (sp && sp.j && Array.isArray(sp.j.spots)) ? sp.j.spots : [];
   return res.j;
 }
 const cityName = c => c.state ? `${c.name}, ${c.state}` : c.name;
@@ -733,17 +738,28 @@ function renderForYou(){
 
 /* ---------- date night plans: dinner, the event, then dessert or drinks ---------- */
 const nearURL = (what, ev) => 'https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent(`${what} near ${ev.venue}, ${ev.addr}`);
+// Hand-picked date-night restaurants per city (spots/<city>.json), matched to the event by distance
+const spotMaps = s => 'https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent(`${s.name}, ${CITY ? CITY.name + ', ' + (CITY.state || '') : ''}`);
+const spotBook = s => 'https://www.opentable.com/s?term=' + encodeURIComponent(`${s.name} ${CITY ? CITY.name : ''}`);
+const spotDist = mi => mi < 0.6 ? `${Math.max(2, Math.round(mi * 20))} min walk` : `${mi < 10 ? mi.toFixed(1) : Math.round(mi)} mi away`;
+function nearSpots(e, kind = 'dinner', n = 3, maxMi = 3){
+  if (typeof e.lat !== 'number') return [];
+  return (DATA.spots || []).filter(s => (s.kind || 'dinner') === kind && typeof s.lat === 'number')
+    .map(s => ({ ...s, mi: milesBetween(e.lat, e.lon, s.lat, s.lon) })).filter(s => s.mi <= maxMi).sort((a,b) => a.mi - b.mi).slice(0, n);
+}
 // A paid restaurant partner (events file "sponsors": [{type:"dinner", name, url, addr, note}]) takes the dinner step, labeled Sponsored
-function dinnerStep(t, e){
+function dinnerStep(t, e, label = 'Dinner'){
   const sp = (DATA.sponsors || []).find(s => s.type === 'dinner');
   if (sp) return { t, what:`Dinner at ${sp.name}`, sub:`Sponsored · ${sp.note || sp.addr || ''}`, url:sp.url, link:'See the menu' };
-  return { t, what:'Dinner nearby', sub:'Pick a spot close to the venue. Book ahead on weekends.', url:nearURL('restaurants', e), link:'Find restaurants' };
+  const picks = nearSpots(e);
+  if (picks.length){ const p = picks[0]; return { t, what:`${label} at ${p.name}`, sub:`${p.cuisine} · ${p.area} · ${spotDist(p.mi)}`, picks, url:spotBook(p), link:'Book a table' }; }
+  return { t, what:`${label} nearby`, sub:'Pick a cozy spot close to the venue. Book ahead on weekends.', url:nearURL('romantic restaurants', e), link:'Find date-night spots' };
 }
 function datePlans(){
   const out = [], usedDay = new Set();
   const cands = DATA.events.filter(e => goodFor(e).includes('date'))
     .flatMap(e => sessions(e).filter(s => s.s && (S.day === 'all' || s.day === S.day)).slice(0, 1).map(s => ({ e, s })))
-    .sort((a,b) => (mins(b.s.s) >= 17*60) - (mins(a.s.s) >= 17*60) || DAYS.indexOf(a.s.day) - DAYS.indexOf(b.s.day));
+    .sort((a,b) => (mins(b.s.s) >= 17*60) - (mins(a.s.s) >= 17*60) || (nearSpots(b.e).length > 0) - (nearSpots(a.e).length > 0) || DAYS.indexOf(a.s.day) - DAYS.indexOf(b.s.day));
   for (const c of cands){ if (out.length >= 3) break; if (usedDay.has(c.s.day) && cands.length > 3) continue; usedDay.add(c.s.day); out.push(c); }
   return out.map(({ e, s }) => {
     const st = mins(s.s), en = s.e ? Math.min(mins(s.e), st + 180) : st + 120;
@@ -751,11 +767,11 @@ function datePlans(){
     if (st >= 17*60) steps = [
       dinnerStep(st - 105, e),
       { t:st, what:e.title, sub:e.venue, id:e.id },
-      { t:en, what:'Dessert or a nightcap', sub:'End the night somewhere cozy.', url:nearURL('dessert or cocktail bar', e), link:'Find a spot' } ];
+      { t:en, what:'Dessert or a nightcap', sub:'End the night somewhere cozy nearby.', url:nearURL('cocktail bar or dessert', e), link:'Find a spot' } ];
     else if (st >= 11*60) steps = [
       { t:st - 45, what:'Coffee first', sub:'Warm up before you go.', url:nearURL('coffee', e), link:'Find coffee' },
       { t:st, what:e.title, sub:e.venue, id:e.id },
-      { t:Math.max(en, 17*60), what:'Early dinner', sub:'Talk about the best part over food.', url:nearURL('restaurants', e), link:'Find restaurants' } ];
+      dinnerStep(Math.max(en, 17*60), e, 'Early dinner') ];
     else steps = [
       { t:st, what:e.title, sub:e.venue, id:e.id },
       { t:en, what:'Brunch after', sub:'A slow late breakfast nearby.', url:nearURL('brunch', e), link:'Find brunch' } ];
@@ -778,8 +794,8 @@ function openPlan(i){
     <div class="sheet-head"><div><span class="kicker">Date night plan · ${esc(DAYNAME[p.s.day])}, ${esc(prettyDate(DATA.weekend.days[p.s.day], { month:'short', day:'numeric' }))}</span><h2 id="s-title" style="margin-top:6px">${esc(p.e.title)}</h2></div>
       <button class="x-btn" type="button" data-close aria-label="Close">${ICON.x}</button></div>
     <ol class="steps">${p.steps.map(x => `<li><span class="tm">${esc(fmtMins(x.t))}</span><div><div class="what">${esc(x.what)}</div><div class="sub">${esc(x.sub)}</div>
-      ${x.id ? `<button class="btn" type="button" data-open="${esc(x.id)}" style="margin-top:6px;min-height:40px">Event details ${ICON.ext}</button>` : `<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.link)} →</a>`}</div></li>`).join('')}</ol>
-    <p style="font-size:.85rem;color:var(--muted)">Event: ${esc(p.e.priceLabel || 'see venue')}. Food and drinks are on you; the links open nearby places in Google Maps.</p>
+      ${x.id ? `<button class="btn" type="button" data-open="${esc(x.id)}" style="margin-top:6px;min-height:40px">Event details ${ICON.ext}</button>` : x.picks ? `<div class="pick-links"><a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.link)} →</a><a href="${esc(spotMaps(x.picks[0]))}" target="_blank" rel="noopener">Directions →</a></div>${x.picks.length > 1 ? `<div class="alts"><span>Or nearby:</span>${x.picks.slice(1).map(s => `<div><a href="${esc(spotMaps(s))}" target="_blank" rel="noopener">${esc(s.name)}</a> <small>· ${esc(s.cuisine)} · ${esc(spotDist(s.mi))}</small></div>`).join('')}</div>` : ''}` : `<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.link)} →</a>`}</div></li>`).join('')}</ol>
+    <p style="font-size:.85rem;color:var(--muted)">Event: ${esc(p.e.priceLabel || 'see venue')}. Restaurants are date-night favorites near the venue, picked from OpenTable's date-night lists. Food and drinks are on you; book ahead on weekends.</p>
     <div class="actions"><button class="btn" type="button" data-save="${esc(p.e.id)}" aria-pressed="${saved.has(p.e.id)}">${ICON.heart} ${saved.has(p.e.id) ? 'Saved' : 'Save the event'}</button><button class="btn" type="button" data-share>${ICON.share} Send this plan</button></div>`;
   if (!sheet.open){ try { sheet.showModal(); } catch { sheet.setAttribute('open',''); } }
 }

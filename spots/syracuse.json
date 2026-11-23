@@ -1,0 +1,47 @@
+{
+ "city": "syracuse",
+ "updated": "2026-11-23",
+ "source": "Picked from OpenTable's date-night lists (Nov 2026); refreshed with the weekly update",
+ "spots": [
+  {
+   "name": "Eden",
+   "kind": "dinner",
+   "cuisine": "Farm-to-table",
+   "area": "Armory Square",
+   "lat": 43.05025,
+   "lon": -76.15153
+  },
+  {
+   "name": "Delmonico's Italian SteakHouse",
+   "kind": "dinner",
+   "cuisine": "Italian steakhouse",
+   "area": "Syracuse",
+   "lat": 43.05478,
+   "lon": -76.08838
+  },
+  {
+   "name": "Talking Cursive Brewing Co",
+   "kind": "dinner",
+   "cuisine": "American",
+   "area": "Syracuse",
+   "lat": 43.05079,
+   "lon": -76.15621
+  },
+  {
+   "name": "Fields Restaurant at Mirbeau",
+   "kind": "dinner",
+   "cuisine": "Farm-to-table",
+   "area": "Skaneateles",
+   "lat": 42.9471,
+   "lon": -76.4427
+  },
+  {
+   "name": "The Wedge",
+   "kind": "dinner",
+   "cuisine": "French-American",
+   "area": "Eastwood",
+   "lat": 43.0687,
+   "lon": -76.1074
+  }
+ ]
+}

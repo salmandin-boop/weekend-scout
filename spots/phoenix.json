@@ -1,0 +1,47 @@
+{
+ "city": "phoenix",
+ "updated": "2026-11-23",
+ "source": "Picked from OpenTable's date-night lists (Nov 2026); refreshed with the weekly update",
+ "spots": [
+  {
+   "name": "The Henry",
+   "kind": "dinner",
+   "cuisine": "American",
+   "area": "Arcadia",
+   "lat": 33.50884,
+   "lon": -111.98419
+  },
+  {
+   "name": "Beckett's Table",
+   "kind": "dinner",
+   "cuisine": "American",
+   "area": "Arcadia",
+   "lat": 33.49485,
+   "lon": -112.00158
+  },
+  {
+   "name": "Tarbell's",
+   "kind": "dinner",
+   "cuisine": "Contemporary American",
+   "area": "Biltmore",
+   "lat": 33.50908,
+   "lon": -112.01233
+  },
+  {
+   "name": "The Mission",
+   "kind": "dinner",
+   "cuisine": "Latin American",
+   "area": "Old Town Scottsdale",
+   "lat": 33.492,
+   "lon": -111.9253
+  },
+  {
+   "name": "Steak 44",
+   "kind": "dinner",
+   "cuisine": "Steakhouse",
+   "area": "Arcadia",
+   "lat": 33.5104,
+   "lon": -111.987
+  }
+ ]
+}

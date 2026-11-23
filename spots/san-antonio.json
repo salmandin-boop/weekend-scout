@@ -1,0 +1,55 @@
+{
+ "city": "san-antonio",
+ "updated": "2026-11-23",
+ "source": "Picked from OpenTable's date-night lists (Nov 2026); refreshed with the weekly update",
+ "spots": [
+  {
+   "name": "Ladino",
+   "kind": "dinner",
+   "cuisine": "Mediterranean",
+   "area": "Pearl",
+   "lat": 29.44391,
+   "lon": -98.47946
+  },
+  {
+   "name": "Brasserie Mon Chou Chou",
+   "kind": "dinner",
+   "cuisine": "French",
+   "area": "Pearl",
+   "lat": 29.44298,
+   "lon": -98.48061
+  },
+  {
+   "name": "Best Quality Daughter",
+   "kind": "dinner",
+   "cuisine": "Asian American",
+   "area": "Pearl",
+   "lat": 29.44143,
+   "lon": -98.47917
+  },
+  {
+   "name": "Piatti",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "Alamo Heights",
+   "lat": 29.49599,
+   "lon": -98.47969
+  },
+  {
+   "name": "Supper at Hotel Emma",
+   "kind": "dinner",
+   "cuisine": "Contemporary American",
+   "area": "Pearl",
+   "lat": 29.4428,
+   "lon": -98.4786
+  },
+  {
+   "name": "Chart House",
+   "kind": "dinner",
+   "cuisine": "Seafood, tower views",
+   "area": "Downtown",
+   "lat": 29.4189,
+   "lon": -98.4839
+  }
+ ]
+}

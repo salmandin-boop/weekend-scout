@@ -1,0 +1,79 @@
+{
+ "city": "chicago",
+ "updated": "2026-11-23",
+ "source": "Picked from OpenTable's date-night lists (Nov 2026); refreshed with the weekly update",
+ "spots": [
+  {
+   "name": "Bar Siena",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "West Loop",
+   "lat": 41.88462,
+   "lon": -87.64882
+  },
+  {
+   "name": "Aba",
+   "kind": "dinner",
+   "cuisine": "Mediterranean rooftop",
+   "area": "West Loop",
+   "lat": 41.88702,
+   "lon": -87.64887
+  },
+  {
+   "name": "Lýra",
+   "kind": "dinner",
+   "cuisine": "Greek",
+   "area": "West Loop",
+   "lat": 41.88659,
+   "lon": -87.65006
+  },
+  {
+   "name": "HIDE + SEEK",
+   "kind": "dinner",
+   "cuisine": "Contemporary American",
+   "area": "West Loop",
+   "lat": 41.88461,
+   "lon": -87.64894
+  },
+  {
+   "name": "Cabra",
+   "kind": "dinner",
+   "cuisine": "Peruvian rooftop",
+   "area": "West Loop",
+   "lat": 41.88592,
+   "lon": -87.64887
+  },
+  {
+   "name": "Nobu Chicago",
+   "kind": "dinner",
+   "cuisine": "Japanese",
+   "area": "West Loop",
+   "lat": 41.88463,
+   "lon": -87.64959
+  },
+  {
+   "name": "Swift & Sons",
+   "kind": "dinner",
+   "cuisine": "Steakhouse",
+   "area": "West Loop",
+   "lat": 41.88697,
+   "lon": -87.65243
+  },
+  {
+   "name": "Dearly Beloved",
+   "kind": "dinner",
+   "cuisine": "Contemporary American",
+   "area": "River North",
+   "lat": 41.89918,
+   "lon": -87.63605
+  },
+  {
+   "name": "Elia",
+   "kind": "dinner",
+   "cuisine": "Mediterranean",
+   "area": "Wicker Park",
+   "lat": 41.90338,
+   "lon": -87.67639
+  }
+ ]
+}

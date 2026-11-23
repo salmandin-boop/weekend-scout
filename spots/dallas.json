@@ -1,0 +1,47 @@
+{
+ "city": "dallas",
+ "updated": "2026-11-23",
+ "source": "Picked from OpenTable's date-night lists (Nov 2026); refreshed with the weekly update",
+ "spots": [
+  {
+   "name": "Baboush",
+   "kind": "dinner",
+   "cuisine": "Middle Eastern",
+   "area": "Uptown",
+   "lat": 32.80726,
+   "lon": -96.79642
+  },
+  {
+   "name": "Monarch",
+   "kind": "dinner",
+   "cuisine": "Italian, 49th-floor views",
+   "area": "Downtown",
+   "lat": 32.781,
+   "lon": -96.7983
+  },
+  {
+   "name": "Fearing's",
+   "kind": "dinner",
+   "cuisine": "Southwestern",
+   "area": "Uptown",
+   "lat": 32.7919,
+   "lon": -96.8044
+  },
+  {
+   "name": "Uchi Dallas",
+   "kind": "dinner",
+   "cuisine": "Sushi",
+   "area": "Uptown",
+   "lat": 32.8006,
+   "lon": -96.8044
+  },
+  {
+   "name": "Ellie's Restaurant & Lounge",
+   "kind": "dinner",
+   "cuisine": "Contemporary American",
+   "area": "Arts District",
+   "lat": 32.7903,
+   "lon": -96.7966
+  }
+ ]
+}

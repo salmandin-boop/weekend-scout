@@ -1,0 +1,47 @@
+{
+ "city": "houston",
+ "updated": "2026-11-23",
+ "source": "Picked from OpenTable's date-night lists (Nov 2026); refreshed with the weekly update",
+ "spots": [
+  {
+   "name": "Pappas Bros. Steakhouse",
+   "kind": "dinner",
+   "cuisine": "Steakhouse",
+   "area": "Downtown",
+   "lat": 29.75554,
+   "lon": -95.36315
+  },
+  {
+   "name": "B&B Butchers",
+   "kind": "dinner",
+   "cuisine": "Steakhouse",
+   "area": "Heights",
+   "lat": 29.76786,
+   "lon": -95.37644
+  },
+  {
+   "name": "Handies Douzo",
+   "kind": "dinner",
+   "cuisine": "Sushi",
+   "area": "Heights",
+   "lat": 29.78171,
+   "lon": -95.39561
+  },
+  {
+   "name": "Toro Toro",
+   "kind": "dinner",
+   "cuisine": "Pan-Latin steakhouse",
+   "area": "Downtown",
+   "lat": 29.7535,
+   "lon": -95.3666
+  },
+  {
+   "name": "Guard and Grace",
+   "kind": "dinner",
+   "cuisine": "Steakhouse",
+   "area": "Downtown",
+   "lat": 29.7587,
+   "lon": -95.366
+  }
+ ]
+}

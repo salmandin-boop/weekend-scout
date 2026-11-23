@@ -1,0 +1,63 @@
+{
+ "city": "new-york",
+ "updated": "2026-11-23",
+ "source": "Picked from OpenTable's date-night lists (Nov 2026); refreshed with the weekly update",
+ "spots": [
+  {
+   "name": "Crave Fishbar",
+   "kind": "dinner",
+   "cuisine": "Seafood",
+   "area": "Upper West Side",
+   "lat": 40.78425,
+   "lon": -73.97775
+  },
+  {
+   "name": "Nice Matin",
+   "kind": "dinner",
+   "cuisine": "French",
+   "area": "Upper West Side",
+   "lat": 40.78339,
+   "lon": -73.9784
+  },
+  {
+   "name": "Bustan",
+   "kind": "dinner",
+   "cuisine": "Mediterranean",
+   "area": "Upper West Side",
+   "lat": 40.78594,
+   "lon": -73.97604
+  },
+  {
+   "name": "Bad Roman",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "Columbus Circle",
+   "lat": 40.76868,
+   "lon": -73.98244
+  },
+  {
+   "name": "The Consulate",
+   "kind": "dinner",
+   "cuisine": "French-American",
+   "area": "Upper West Side",
+   "lat": 40.78585,
+   "lon": -73.9724
+  },
+  {
+   "name": "The Smith",
+   "kind": "dinner",
+   "cuisine": "American",
+   "area": "Lincoln Square",
+   "lat": 40.7716,
+   "lon": -73.98187
+  },
+  {
+   "name": "Quality Meats",
+   "kind": "dinner",
+   "cuisine": "Steakhouse",
+   "area": "Midtown",
+   "lat": 40.76493,
+   "lon": -73.97624
+  }
+ ]
+}

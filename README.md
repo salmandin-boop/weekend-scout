@@ -98,3 +98,8 @@ Android web visitors then see a "Get it on Google Play" badge, and people using 
 - No price is shown in the app. Venues ask through Get listed; you quote and send a Stripe Payment Link after approval.
 - Never put a Stripe payment link or price button inside the app's pages: the Play Store version must not take card payments (Google Play billing rules). Links go out by email only.
 - When the first paid Featured listing goes live, change Play Console → App content → Ads to "Yes".
+
+## Date night bundles (v1.10)
+`spots/<city>.json` holds hand-picked date-night restaurants (`name, kind:"dinner", cuisine, area, lat, lon`).
+Date night plans pair each date-friendly event with the nearest spot within 3 miles (plus 2 alternatives), with a "Book a table" (OpenTable search) and "Directions" link. With no spot nearby, the plan falls back to a Google Maps search near the venue.
+The weekly update checks that every date-night event has at least 2 spots within 2 miles and adds verified, currently open ones when it doesn't.

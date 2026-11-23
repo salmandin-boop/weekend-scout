@@ -1,0 +1,63 @@
+{
+ "city": "philadelphia",
+ "updated": "2026-11-23",
+ "source": "Picked from OpenTable's date-night lists (Nov 2026); refreshed with the weekly update",
+ "spots": [
+  {
+   "name": "El Vez",
+   "kind": "dinner",
+   "cuisine": "Mexican",
+   "area": "Center City",
+   "lat": 39.9497,
+   "lon": -75.1619
+  },
+  {
+   "name": "Estia",
+   "kind": "dinner",
+   "cuisine": "Greek",
+   "area": "Center City",
+   "lat": 39.94841,
+   "lon": -75.16531
+  },
+  {
+   "name": "Talula's Garden",
+   "kind": "dinner",
+   "cuisine": "American",
+   "area": "Washington Square",
+   "lat": 39.94716,
+   "lon": -75.15348
+  },
+  {
+   "name": "Gran Caffe L'Aquila",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "Center City",
+   "lat": 39.95146,
+   "lon": -75.16947
+  },
+  {
+   "name": "Charlie was a sinner",
+   "kind": "dinner",
+   "cuisine": "Small plates",
+   "area": "Midtown Village",
+   "lat": 39.94952,
+   "lon": -75.16189
+  },
+  {
+   "name": "Butcher & Singer",
+   "kind": "dinner",
+   "cuisine": "Steakhouse",
+   "area": "Center City",
+   "lat": 39.94945,
+   "lon": -75.16608
+  },
+  {
+   "name": "Ocean Prime",
+   "kind": "dinner",
+   "cuisine": "Seafood",
+   "area": "Center City",
+   "lat": 39.95015,
+   "lon": -75.16595
+  }
+ ]
+}

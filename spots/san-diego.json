@@ -1,0 +1,79 @@
+{
+ "city": "san-diego",
+ "updated": "2026-11-23",
+ "source": "Picked from OpenTable's date-night lists (Nov 2026); refreshed with the weekly update",
+ "spots": [
+  {
+   "name": "Barbusa",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "Little Italy",
+   "lat": 32.72478,
+   "lon": -117.1685
+  },
+  {
+   "name": "Born & Raised",
+   "kind": "dinner",
+   "cuisine": "Steakhouse",
+   "area": "Little Italy",
+   "lat": 32.72463,
+   "lon": -117.16851
+  },
+  {
+   "name": "Roman Wolves",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "Little Italy",
+   "lat": 32.72426,
+   "lon": -117.16966
+  },
+  {
+   "name": "Kettner Exchange",
+   "kind": "dinner",
+   "cuisine": "Contemporary American",
+   "area": "Little Italy",
+   "lat": 32.72538,
+   "lon": -117.16973
+  },
+  {
+   "name": "Herb & Wood",
+   "kind": "dinner",
+   "cuisine": "Californian",
+   "area": "Little Italy",
+   "lat": 32.72727,
+   "lon": -117.171
+  },
+  {
+   "name": "Monello",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "Little Italy",
+   "lat": 32.72438,
+   "lon": -117.16914
+  },
+  {
+   "name": "Cloak + Petal",
+   "kind": "dinner",
+   "cuisine": "Sushi",
+   "area": "Little Italy",
+   "lat": 32.72515,
+   "lon": -117.1687
+  },
+  {
+   "name": "Seneca",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "Downtown",
+   "lat": 32.71616,
+   "lon": -117.17192
+  },
+  {
+   "name": "Marisi",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "La Jolla",
+   "lat": 32.84709,
+   "lon": -117.27352
+  }
+ ]
+}

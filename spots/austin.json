@@ -1,0 +1,55 @@
+{
+ "city": "austin",
+ "updated": "2026-11-23",
+ "source": "Picked from OpenTable's date-night lists (Nov 2026); refreshed with the weekly update",
+ "spots": [
+  {
+   "name": "Nido",
+   "kind": "dinner",
+   "cuisine": "French-American rooftop",
+   "area": "South Shore",
+   "lat": 30.26419,
+   "lon": -97.75688
+  },
+  {
+   "name": "Uchi",
+   "kind": "dinner",
+   "cuisine": "Sushi",
+   "area": "South Lamar",
+   "lat": 30.25752,
+   "lon": -97.75981
+  },
+  {
+   "name": "Ember Kitchen",
+   "kind": "dinner",
+   "cuisine": "Latin American",
+   "area": "Downtown",
+   "lat": 30.2669,
+   "lon": -97.75284
+  },
+  {
+   "name": "Aba",
+   "kind": "dinner",
+   "cuisine": "Mediterranean",
+   "area": "South Congress",
+   "lat": 30.25308,
+   "lon": -97.7478
+  },
+  {
+   "name": "Comedor",
+   "kind": "dinner",
+   "cuisine": "Mexican",
+   "area": "Downtown",
+   "lat": 30.2672,
+   "lon": -97.7455
+  },
+  {
+   "name": "Juliet Italian Kitchen",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "Barton Springs",
+   "lat": 30.262,
+   "lon": -97.759
+  }
+ ]
+}

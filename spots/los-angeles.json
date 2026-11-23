@@ -1,0 +1,63 @@
+{
+ "city": "los-angeles",
+ "updated": "2026-11-23",
+ "source": "Picked from OpenTable's date-night lists (Nov 2026); refreshed with the weekly update",
+ "spots": [
+  {
+   "name": "Perch",
+   "kind": "dinner",
+   "cuisine": "French-American rooftop",
+   "area": "Downtown",
+   "lat": 34.04894,
+   "lon": -118.2514
+  },
+  {
+   "name": "Bavel",
+   "kind": "dinner",
+   "cuisine": "Middle Eastern",
+   "area": "Arts District",
+   "lat": 34.04144,
+   "lon": -118.23272
+  },
+  {
+   "name": "Bestia",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "Arts District",
+   "lat": 34.03371,
+   "lon": -118.22921
+  },
+  {
+   "name": "Water Grill",
+   "kind": "dinner",
+   "cuisine": "Seafood",
+   "area": "Downtown",
+   "lat": 34.04914,
+   "lon": -118.25463
+  },
+  {
+   "name": "Mrs. Fish",
+   "kind": "dinner",
+   "cuisine": "Japanese",
+   "area": "Downtown",
+   "lat": 34.0489,
+   "lon": -118.25146
+  },
+  {
+   "name": "Takami Sushi & Robata",
+   "kind": "dinner",
+   "cuisine": "Japanese rooftop",
+   "area": "Downtown",
+   "lat": 34.04978,
+   "lon": -118.25824
+  },
+  {
+   "name": "71Above",
+   "kind": "dinner",
+   "cuisine": "Contemporary, skyline views",
+   "area": "Downtown",
+   "lat": 34.05115,
+   "lon": -118.25455
+  }
+ ]
+}
