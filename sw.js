@@ -1,6 +1,6 @@
 // Weekend Scout service worker: app shell works offline; city lists and events are network-first.
-const VERSION = 'ws-v1.4.1';
-const SHELL = ['./', 'index.html', 'privacy.html', 'terms.html', 'manifest.webmanifest', 'icons/icon.svg', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/apple-touch-icon.png'];
+const VERSION = 'ws-v1.5.0';
+const SHELL = ['./', 'index.html', '404.html', 'privacy.html', 'terms.html', 'manifest.webmanifest', 'icons/icon.svg', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/apple-touch-icon.png'];
 
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(VERSION).then(c => c.addAll(SHELL)).then(() => self.skipWaiting()));

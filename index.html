@@ -23,6 +23,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Weekend Scout app showing this weekend's events">
 <meta name="twitter:card" content="summary_large_image">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","name":"Weekend Scout","url":"https://weekendscout.app/","description":"Hand-checked concerts, games, markets and family events in 11 US cities, updated every Wednesday."},{"@type":"Organization","name":"ENDins LLC","url":"https://weekendscout.app/","logo":"https://weekendscout.app/icons/icon-512.png","email":"support@weekendscout.app","telephone":"+1-315-383-9602","address":{"@type":"PostalAddress","streetAddress":"307 N Highland Ave","addressLocality":"East Syracuse","addressRegion":"NY","postalCode":"13057","addressCountry":"US"}}]}</script>
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
@@ -59,10 +60,17 @@ main{padding-bottom:calc(84px + var(--sab))}
 /* header */
 header.top{padding-top:calc(var(--sat) + 20px);padding-bottom:4px}
 .brand{color:var(--ink)}
-.city-btn{margin-left:8px;border:1px solid var(--line);background:var(--surface);color:var(--accent);border-radius:999px;padding:2px 10px;font:700 .72rem var(--body);letter-spacing:.04em;text-transform:none;cursor:pointer;min-height:28px}
+.toprow{display:flex;align-items:center;justify-content:space-between;gap:10px}
+.city-btn{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:999px;padding:0 12px 0 10px;font:700 .85rem var(--body);cursor:pointer;min-height:44px;max-width:62%;box-shadow:var(--shadow)}
+.city-btn svg{width:16px;height:16px;flex:none;stroke:var(--accent);fill:none;stroke-width:2.2}
+.city-btn span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .city-list{display:grid;gap:8px}
 .city-list .btn{justify-content:space-between;width:100%}
-.kicker{font-size:.75rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--accent)}
+.btn.locate{justify-content:center;width:100%;border-style:dashed;border-color:var(--accent);color:var(--accent)}
+.kicker{white-space:nowrap;font-size:.75rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--accent)}
+.toprow .kicker{min-width:0;overflow:hidden;text-overflow:ellipsis}
+.skip{position:absolute;left:12px;top:-60px;z-index:30;background:var(--ink);color:var(--bg);padding:10px 14px;border-radius:10px;font-weight:700;text-decoration:none}
+.skip:focus{top:calc(var(--sat) + 8px)}
 .top h1{font-size:clamp(2rem,9vw,2.6rem);font-weight:800;margin-top:2px}
 .dates{color:var(--muted);font-size:.92rem;margin-top:4px}
 .banner{margin-top:12px;background:var(--accent-soft);border-radius:12px;padding:10px 12px;font-size:.9rem}
@@ -82,7 +90,7 @@ header.top{padding-top:calc(var(--sat) + 20px);padding-bottom:4px}
 .chips.good{margin-top:6px;align-items:center}
 .good-label{flex:none;font-size:.72rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin-right:2px}
 .chips.good .chip[aria-pressed="true"]{background:var(--navy);border-color:var(--navy);color:var(--bg)}
-.chip{flex:none;border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:6px 13px;font-size:.88rem;font-weight:600;cursor:pointer;min-height:36px;white-space:nowrap}
+.chip{flex:none;border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:6px 14px;font-size:.88rem;font-weight:600;cursor:pointer;min-height:44px;white-space:nowrap;transition:background-color .15s,border-color .15s}
 .chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
 .count{font-size:.85rem;color:var(--muted);margin:8px 0 10px}
 
@@ -117,6 +125,50 @@ header.top{padding-top:calc(var(--sat) + 20px);padding-bottom:4px}
 .promo{margin-top:16px;border:1.5px dashed var(--accent);border-radius:16px;padding:14px;display:grid;gap:6px;background:var(--surface)}
 .promo h3{font-size:1rem}.promo p{font-size:.9rem;color:var(--muted)}
 .promo button{justify-self:start;margin-top:4px}
+.ticket{transition:transform .12s ease,box-shadow .12s ease}
+.ticket:active{transform:scale(.985)}
+@media (hover:hover){.ticket:hover{box-shadow:0 1px 2px rgba(27,35,51,.08),0 14px 30px -18px rgba(27,35,51,.45)}}
+.when .live{display:inline-block;margin-top:4px;font-size:.66rem;font-weight:800;letter-spacing:.04em;text-transform:uppercase;color:var(--free)}
+.when .live.now::before{content:"";display:inline-block;width:6px;height:6px;border-radius:50%;background:currentColor;margin-right:4px;vertical-align:1px;animation:pulse 1.6s infinite}
+@keyframes pulse{50%{opacity:.25}}
+
+/* sections on home: date plans + for you */
+.inlist{grid-column:1/-1;min-width:0;margin:4px 0}
+.rail-head{display:flex;align-items:baseline;justify-content:space-between;gap:8px;margin:6px 0 8px;flex-wrap:wrap}
+.rail-head h2{white-space:nowrap}
+.rail-head h2{font-size:1.15rem;font-weight:800}
+.rail-head p{font-size:.82rem;color:var(--muted)}
+.rail{display:flex;gap:10px;overflow-x:auto;scroll-snap-type:x mandatory;scroll-padding-inline:var(--gl);margin-left:calc(-1 * var(--gl));margin-right:calc(-1 * var(--gr));padding:2px var(--gr) 6px var(--gl);scrollbar-width:none}
+.rail::-webkit-scrollbar{display:none}
+.plan{flex:none;width:min(78vw,300px);scroll-snap-align:start;text-align:left;border:1px solid var(--line);background:var(--surface);border-radius:16px;padding:14px;cursor:pointer;display:grid;gap:8px;box-shadow:var(--shadow);color:var(--ink)}
+.plan.date{background:linear-gradient(160deg,var(--accent-soft),var(--surface) 70%)}
+.plan .k{font-size:.7rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}
+.plan h3{font-size:1.02rem;font-weight:700}
+.plan ol{margin:0;padding:0;list-style:none;display:grid;gap:4px;font-size:.84rem;color:var(--muted)}
+.plan ol b{color:var(--ink);font-weight:700}
+.plan .cost{font-size:.8rem;font-weight:700}
+.steps{margin:0;padding:0;list-style:none;display:grid;gap:0}
+.steps li{display:grid;grid-template-columns:62px 1fr;gap:10px;padding:10px 0;border-top:1px solid var(--line)}
+.steps li:first-child{border-top:0}
+.steps .tm{font-family:var(--display);font-weight:800;font-size:1rem;color:var(--accent)}
+.steps .what{font-weight:700}
+.steps .sub{color:var(--muted);font-size:.88rem}
+.steps a{font-weight:700;font-size:.88rem;color:var(--accent)}
+.report{font-size:.82rem;color:var(--muted)}
+
+/* loading skeleton */
+.skel{height:96px;border-radius:16px;background:linear-gradient(90deg,var(--surface) 0%,var(--line) 50%,var(--surface) 100%);background-size:200% 100%;animation:shimmer 1.2s infinite linear;border:1px solid var(--line)}
+@keyframes shimmer{to{background-position:-200% 0}}
+@media (prefers-reduced-motion:reduce){.skel,.when .live.now::before{animation:none}.ticket{transition:none}}
+
+/* wider screens: two columns of cards */
+@media (min-width:760px){
+  .wrap{max-width:980px}
+  .list{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .list .empty{grid-column:1/-1}
+  header.top h1{font-size:3rem}
+  .plan{width:300px}
+}
 
 /* about */
 .section{margin-top:18px;background:var(--surface);border:1px solid var(--line);border-radius:16px;padding:16px;display:grid;gap:8px}
@@ -140,6 +192,9 @@ nav.tabs button[aria-current="page"]{color:var(--accent)}
 /* detail sheet */
 dialog.sheet{border:0;padding:0;margin:auto auto 0;width:100%;max-width:560px;max-height:min(88vh,880px);background:var(--surface);color:var(--ink);border-radius:20px 20px 0 0;box-shadow:0 -10px 40px rgba(0,0,0,.25)}
 dialog.sheet::backdrop{background:rgba(10,14,22,.45)}
+dialog.sheet[open]{animation:sheetUp .22s cubic-bezier(.2,.8,.2,1)}
+@keyframes sheetUp{from{transform:translateY(40px);opacity:.4}}
+@media (prefers-reduced-motion:reduce){dialog.sheet[open]{animation:none}}
 @media (min-width:640px){dialog.sheet{margin:auto;border-radius:20px}}
 .sheet-in{padding:8px var(--gr) calc(20px + var(--sab)) var(--gl);display:grid;gap:12px}
 .grab{width:40px;height:5px;border-radius:3px;background:var(--line);justify-self:center;margin:4px 0}
@@ -164,10 +219,12 @@ dialog.sheet::backdrop{background:rgba(10,14,22,.45)}
 </style>
 </head>
 <body>
+<a class="skip" href="#list">Skip to events</a>
 <main>
   <section id="view-home" class="wrap" aria-labelledby="h-home">
     <header class="top">
-      <div class="kicker"><span class="brand">Weekend Scout</span> · <span id="city-label">Syracuse, NY</span><button class="city-btn" id="city-btn" type="button" aria-haspopup="dialog">Change city</button></div>
+      <div class="toprow"><div class="kicker"><span class="brand">Weekend Scout</span></div>
+        <button class="city-btn" id="city-btn" type="button" aria-haspopup="dialog" aria-label="Change city"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7-6.2-7-11.5A7 7 0 0 1 19 9.5C19 14.8 12 21 12 21Z"/><circle cx="12" cy="9.5" r="2.5"/></svg><span id="city-label">Choose city</span><svg viewBox="0 0 24 24" aria-hidden="true" style="stroke:var(--muted)"><path d="m6 9 6 6 6-6"/></svg></button></div>
       <h1 id="h-home">This Weekend</h1>
       <p class="dates" id="dates">Loading this weekend…</p>
       <div class="banner" id="banner" hidden></div>
@@ -182,7 +239,7 @@ dialog.sheet::backdrop{background:rgba(10,14,22,.45)}
       <div class="chips good" role="group" aria-label="Good for" id="good"></div>
     </div>
     <p class="count" id="count" aria-live="polite"></p>
-    <div class="list" id="list"></div>
+    <div class="list" id="list" tabindex="-1"><div class="skel"></div><div class="skel"></div><div class="skel"></div><div class="skel"></div></div>
     <div class="promo">
       <h3>Run a venue or event?</h3>
       <p>Get listed here for free, or be featured at the top for $15 a weekend.</p>
@@ -218,6 +275,8 @@ dialog.sheet::backdrop{background:rgba(10,14,22,.45)}
         <li>Some ticket links may earn us a small commission, at no cost to you.</li>
         <li>Featured events are paid placements and are always labeled Sponsored.</li>
         <li>Your saved events stay on this device only. We don't collect any personal data.</li>
+        <li>"Use my location" only finds your nearest city on your phone. Your location is never sent to us or stored.</li>
+        <li>"Picked for you" learns from what you open and save, on this phone only.</li>
       </ul>
     </div>
     <p class="fine">Weekend Scout is run by ENDins LLC, East Syracuse, NY. · <a href="privacy.html" target="_blank" rel="noopener">Privacy policy</a> · <a href="terms.html" target="_blank" rel="noopener">Terms</a></p>
@@ -238,7 +297,7 @@ dialog.sheet::backdrop{background:rgba(10,14,22,.45)}
 
 <script>
 (() => {
-const APP_VERSION = '1.4.1';
+const APP_VERSION = '1.5.0';
 const SITE_URL = 'https://weekendscout.app/'; // the live address, so shared links point there
 const TZ0 = 'America/New_York';
 let TZ = TZ0; // switches to the chosen city's time zone
@@ -262,8 +321,10 @@ const ICON = {
   cal:'<svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="3"/><path d="M3 10h18M8 3v4M16 3v4M12 13v5M9.5 15.5h5"/></svg>',
   map:'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 4 3 6v14l6-2 6 2 6-2V4l-6 2-6-2ZM9 4v14M15 6v14"/></svg>',
   ext:'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 4h6v6M20 4l-9 9M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/></svg>',
-  x:'<svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>'
+  x:'<svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>',
+  locate:'<svg viewBox="0 0 24 24" aria-hidden="true" style="width:18px;height:18px;stroke:currentColor;fill:none;stroke-width:2"><circle cx="12" cy="12" r="7"/><circle cx="12" cy="12" r="2"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3"/></svg>'
 };
+const APP_JSONLD_ID = 'ld-events';
 
 let DATA = null, offline = false, CITIES = [], CITY = null;
 const S = { view:'home', day:'all', cat:'all', good:'any', q:'' };
@@ -286,6 +347,25 @@ function todayISO(){
 function prettyDate(iso, opts = { weekday:'short', month:'short', day:'numeric' }){
   const [y,m,d] = iso.split('-').map(Number);
   return new Date(Date.UTC(y, m-1, d, 12)).toLocaleDateString('en-US', { ...opts, timeZone:'UTC' });
+}
+// Minutes past midnight right now, in the city's time zone
+function nowMins(){
+  try { const p = Object.fromEntries(new Intl.DateTimeFormat('en-US',{ timeZone:TZ, hourCycle:'h23', hour:'2-digit', minute:'2-digit' }).formatToParts(new Date()).map(x => [x.type, x.value])); return (+p.hour % 24) * 60 + +p.minute; }
+  catch { const d = new Date(); return d.getHours() * 60 + d.getMinutes(); }
+}
+const fmtMins = m => { m = Math.max(0, Math.min(m, 23*60+59)); return fmt(`${String(Math.floor(m/60)).padStart(2,'0')}:${String(m%60).padStart(2,'0')}`); };
+// "Happening now" / "Starts in 2h" for today's sessions
+function liveLabel(ev){
+  if (!DATA) return '';
+  const today = todayISO(), d = DAYS.find(k => DATA.weekend.days[k] === today); if (!d) return '';
+  const now = nowMins();
+  for (const s of (ev.times[d] || [])){
+    if (!s.s) continue;
+    const st = mins(s.s), en = s.e ? mins(s.e) : st + 120;
+    if (now >= st && now < en) return '<span class="live now">Happening now</span>';
+    if (st > now && st - now <= 180){ const m = st - now; return `<span class="live">Starts in ${m < 60 ? m + ' min' : Math.round(m/60) + 'h'}</span>`; }
+  }
+  return '';
 }
 
 /* ---------- data ----------
@@ -353,18 +433,18 @@ function whenHTML(ev, day){
     const ss = sessions(ev), days = [...new Set(ss.map(s => s.day))];
     d = dayList(days);
     const uniq = [...new Set(ss.map(range))];
-    t = ss[0] && ss[0].s ? (uniq.length === 1 ? (ss[0].e ? fmt(ss[0].s) : uniq[0]) : fmt(ss[0].s)) : 'Hours';
+    t = ss[0] && ss[0].s ? (uniq.length === 1 ? (ss[0].e ? fmt(ss[0].s) : uniq[0]) : fmt(ss[0].s)) : 'See times';
     if (ss[0] && ss[0].e && uniq.length === 1) x = 'to ' + fmt(ss[0].e);
     else if (uniq.length > 1) x = 'Times vary';
   } else {
     const ss = ev.times[day] || [];
     d = DAYABBR[day];
-    t = ss[0] && ss[0].s ? fmt(ss[0].s) : 'Hours';
+    t = ss[0] && ss[0].s ? fmt(ss[0].s) : 'See times';
     if (ss.length > 1) x = `+${ss.length-1} more show${ss.length > 2 ? 's' : ''}`;
     else if (ss[0] && ss[0].e) x = 'to ' + fmt(ss[0].e);
     else if (ss[0] && !ss[0].s) x = 'see venue';
   }
-  return `<div class="when"><span class="d">${esc(d)}</span><span class="t">${esc(t)}</span>${x ? `<span class="x">${esc(x)}</span>` : ''}</div>`;
+  return `<div class="when"><span class="d">${esc(d)}</span><span class="t">${esc(t)}</span>${x ? `<span class="x">${esc(x)}</span>` : ''}${liveLabel(ev)}</div>`;
 }
 function pills(ev){
   const p = [];
@@ -387,7 +467,8 @@ function card(ev, day){
 
 function renderControls(){
   const w = DATA.weekend.days;
-  $('days').innerHTML = [['all','All','weekend'], ...DAYS.map(d => [d, DAYABBR[d], prettyDate(w[d], { month:'short', day:'numeric' })])]
+  const today = todayISO();
+  $('days').innerHTML = [['all','All','weekend'], ...DAYS.map(d => [d, DAYABBR[d], w[d] === today ? 'Today' : prettyDate(w[d], { month:'short', day:'numeric' })])]
     .map(([k,a,b]) => `<button type="button" data-day="${k}" aria-pressed="${S.day === k}">${a}<small>${esc(b)}</small></button>`).join('');
   $('chips').innerHTML = CATS
     .filter(([k]) => k === 'all' || DATA.events.some(e => k === 'free' ? e.price === 'free' : e.cat === k))
@@ -404,8 +485,13 @@ function renderHome(){
   $('count').textContent = !evs.length ? '' : S.good !== 'any'
     ? `${evs.length} ${GOODCOUNT[S.good][evs.length === 1 ? 0 : 1]} ${dayTxt}`
     : `${evs.length} ${evs.length === 1 ? 'thing' : 'things'} to do ${dayTxt}`;
-  $('list').innerHTML = evs.length ? evs.map(e => card(e, S.day)).join('') :
-    `<div class="empty"><h2>Nothing matches</h2><p>Try another day or filter, or clear your search.</p><button class="btn" type="button" data-reset>Show everything</button></div>`;
+  if (!evs.length){ $('list').innerHTML = `<div class="empty"><h2>Nothing matches</h2><p>Try another day or filter, or clear your search.</p><button class="btn" type="button" data-reset>Show everything</button></div>`; return; }
+  const cards = evs.map(e => card(e, S.day));
+  const plans = renderPlans(), fy = renderForYou();
+  // Rails sit inside the list, after the first few events, so the list stays first
+  if (plans) cards.splice(Math.min(4, cards.length), 0, plans);
+  if (fy) cards.splice(Math.min(plans ? 9 : 4, cards.length), 0, fy);
+  $('list').innerHTML = cards.join('');
 }
 
 function renderSaved(){
@@ -427,7 +513,102 @@ function renderHeader(){
   $('version').textContent = `© ${new Date().getFullYear()} ENDins LLC · Version ${APP_VERSION} · Events updated ${prettyDate(DATA.updated, { month:'long', day:'numeric', year:'numeric' })}`;
 }
 
-function renderAll(){ renderControls(); renderHome(); renderSaved(); }
+/* ---------- picked for you (learns on this phone only) ---------- */
+let taste = store.get('ws-taste', { cat:{}, good:{}, n:0 });
+function learn(ev, w){
+  if (!ev) return;
+  taste.cat[ev.cat] = (taste.cat[ev.cat] || 0) + w;
+  goodFor(ev).forEach(g => { taste.good[g] = (taste.good[g] || 0) + w / 2; });
+  if (ev.price === 'free') taste.cat.free = (taste.cat.free || 0) + w / 2;
+  taste.n += w; store.set('ws-taste', taste);
+}
+function tasteScore(ev){
+  return (taste.cat[ev.cat] || 0) + goodFor(ev).reduce((a, g) => a + (taste.good[g] || 0), 0) + (ev.price === 'free' ? (taste.cat.free || 0) : 0);
+}
+function renderForYou(){
+  if (taste.n < 4 || S.q || S.cat !== 'all' || S.good !== 'any') return '';
+  const top = DATA.events.filter(e => !saved.has(e.id) && tasteScore(e) > 0).sort((a,b) => tasteScore(b) - tasteScore(a)).slice(0, 4);
+  if (top.length < 2) return '';
+  const fav = Object.entries(taste.cat).filter(([k]) => CATLABEL[k]).sort((a,b) => b[1] - a[1])[0];
+  return `<div class="inlist" role="region" aria-label="Picked for you"><div class="rail-head"><h2>Picked for you</h2><p>${fav ? 'You like ' + esc(CATLABEL[fav[0]].toLowerCase()) : ''}</p></div>
+    <div class="rail">${top.map(e => { const s = sessions(e)[0]; return `<button class="plan" type="button" data-open="${esc(e.id)}"><span class="k">${esc(s ? DAYABBR[s.day] + (s.s ? ' · ' + fmt(s.s) : '') : '')}</span><h3>${esc(e.title)}</h3><span class="cost" style="color:var(--muted);font-weight:600">${esc(e.venue)}</span></button>`; }).join('')}</div></div>`;
+}
+
+/* ---------- date night plans: dinner, the event, then dessert or drinks ---------- */
+const nearURL = (what, ev) => 'https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent(`${what} near ${ev.venue}, ${ev.addr}`);
+function datePlans(){
+  const out = [], usedDay = new Set();
+  const cands = DATA.events.filter(e => goodFor(e).includes('date'))
+    .flatMap(e => sessions(e).filter(s => s.s && (S.day === 'all' || s.day === S.day)).slice(0, 1).map(s => ({ e, s })))
+    .sort((a,b) => (mins(b.s.s) >= 17*60) - (mins(a.s.s) >= 17*60) || DAYS.indexOf(a.s.day) - DAYS.indexOf(b.s.day));
+  for (const c of cands){ if (out.length >= 3) break; if (usedDay.has(c.s.day) && cands.length > 3) continue; usedDay.add(c.s.day); out.push(c); }
+  return out.map(({ e, s }) => {
+    const st = mins(s.s), en = s.e ? Math.min(mins(s.e), st + 180) : st + 120;
+    let steps;
+    if (st >= 17*60) steps = [
+      { t:st - 105, what:'Dinner nearby', sub:'Pick a spot close to the venue. Book ahead on weekends.', url:nearURL('restaurants', e), link:'Find restaurants' },
+      { t:st, what:e.title, sub:e.venue, id:e.id },
+      { t:en, what:'Dessert or a nightcap', sub:'End the night somewhere cozy.', url:nearURL('dessert or cocktail bar', e), link:'Find a spot' } ];
+    else if (st >= 11*60) steps = [
+      { t:st - 45, what:'Coffee first', sub:'Warm up before you go.', url:nearURL('coffee', e), link:'Find coffee' },
+      { t:st, what:e.title, sub:e.venue, id:e.id },
+      { t:Math.max(en, 17*60), what:'Early dinner', sub:'Talk about the best part over food.', url:nearURL('restaurants', e), link:'Find restaurants' } ];
+    else steps = [
+      { t:st, what:e.title, sub:e.venue, id:e.id },
+      { t:en, what:'Brunch after', sub:'A slow late breakfast nearby.', url:nearURL('brunch', e), link:'Find brunch' } ];
+    return { e, s, steps };
+  });
+}
+let PLANS = [], planOpen = -1;
+function renderPlans(){
+  PLANS = (S.q || (S.cat !== 'all' && S.cat !== 'free') || (S.good !== 'any' && S.good !== 'date')) ? [] : datePlans();
+  if (!PLANS.length) return '';
+  return `<div class="inlist" role="region" aria-label="Date night plans"><div class="rail-head"><h2>Date night plans</h2><p>Ready-made evenings</p></div>
+    <div class="rail">${PLANS.map((p, i) => `<button class="plan date" type="button" data-plan="${i}">
+      <span class="k">${esc(DAYNAME[p.s.day])} · ${esc(p.e.priceLabel || '')}</span><h3>${esc(p.e.title)}</h3>
+      <ol>${p.steps.map(x => `<li><b>${esc(fmtMins(x.t))}</b> ${esc(x.id ? 'The main event' : x.what)}</li>`).join('')}</ol></button>`).join('')}</div></div>`;
+}
+function openPlan(i){
+  const p = PLANS[i]; if (!p) return;
+  openId = p.e.id; planOpen = i;
+  $('sheet-in').innerHTML = `<div class="grab" aria-hidden="true"></div>
+    <div class="sheet-head"><div><span class="kicker">Date night plan · ${esc(DAYNAME[p.s.day])}, ${esc(prettyDate(DATA.weekend.days[p.s.day], { month:'short', day:'numeric' }))}</span><h2 id="s-title" style="margin-top:6px">${esc(p.e.title)}</h2></div>
+      <button class="x-btn" type="button" data-close aria-label="Close">${ICON.x}</button></div>
+    <ol class="steps">${p.steps.map(x => `<li><span class="tm">${esc(fmtMins(x.t))}</span><div><div class="what">${esc(x.what)}</div><div class="sub">${esc(x.sub)}</div>
+      ${x.id ? `<button class="btn" type="button" data-open="${esc(x.id)}" style="margin-top:6px;min-height:40px">Event details ${ICON.ext}</button>` : `<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.link)} →</a>`}</div></li>`).join('')}</ol>
+    <p style="font-size:.85rem;color:var(--muted)">Event: ${esc(p.e.priceLabel || 'see venue')}. Food and drinks are on you; the links open nearby places in Google Maps.</p>
+    <div class="actions"><button class="btn" type="button" data-save="${esc(p.e.id)}" aria-pressed="${saved.has(p.e.id)}">${ICON.heart} ${saved.has(p.e.id) ? 'Saved' : 'Save the event'}</button><button class="btn" type="button" data-share>${ICON.share} Send this plan</button></div>`;
+  if (!sheet.open){ try { sheet.showModal(); } catch { sheet.setAttribute('open',''); } }
+}
+
+/* ---------- structured data so Google can show these events ---------- */
+function isoLocal(day, hhmm){
+  const stamp = utcStamp(day, hhmm); // UTC instant of local wall time
+  const utc = Date.UTC(+stamp.slice(0,4), +stamp.slice(4,6) - 1, +stamp.slice(6,8), +stamp.slice(9,11), +stamp.slice(11,13));
+  const [y,m,d] = day.split('-').map(Number), [h,mi] = hhmm.split(':').map(Number);
+  const off = Math.round((Date.UTC(y, m - 1, d, h, mi) - utc) / 60000), sg = off < 0 ? '-' : '+', a = Math.abs(off);
+  return `${day}T${hhmm}:00${sg}${String(Math.floor(a/60)).padStart(2,'0')}:${String(a%60).padStart(2,'0')}`;
+}
+function renderJSONLD(){
+  try {
+    const items = DATA.events.map(ev => {
+      const s = sessions(ev)[0]; if (!s) return null;
+      const o = { '@type':'Event', name:ev.title, description:ev.blurb || undefined,
+        startDate: s.s ? isoLocal(DATA.weekend.days[s.day], s.s) : DATA.weekend.days[s.day],
+        eventStatus:'https://schema.org/EventScheduled', eventAttendanceMode:'https://schema.org/OfflineEventAttendanceMode',
+        location:{ '@type':'Place', name:ev.venue, address:ev.addr }, isAccessibleForFree: ev.price === 'free' || undefined };
+      if (s.s && s.e) o.endDate = isoLocal(DATA.weekend.days[s.day], s.e);
+      if (ev.link) o.offers = { '@type':'Offer', url:ev.link.url, availability:'https://schema.org/InStock', ...(ev.price === 'free' ? { price:0, priceCurrency:'USD' } : {}) };
+      return o;
+    }).filter(Boolean);
+    let el = document.getElementById(APP_JSONLD_ID);
+    if (!el){ el = document.createElement('script'); el.type = 'application/ld+json'; el.id = APP_JSONLD_ID; document.head.appendChild(el); }
+    el.textContent = JSON.stringify({ '@context':'https://schema.org', '@type':'ItemList', name:`Things to do in ${cityName(CITY)} this weekend`, itemListElement: items.map((e, i) => ({ '@type':'ListItem', position:i + 1, item:e })) });
+    document.title = `Weekend Scout · ${CITY.name} this weekend`;
+  } catch {}
+}
+
+function renderAll(){ renderControls(); renderHome(); renderSaved(); renderJSONLD(); }
 
 /* ---------- views ---------- */
 function show(view, push = true){
@@ -480,7 +661,8 @@ const infoURL = ev => 'https://www.google.com/search?q=' + encodeURIComponent(`$
 
 function openSheet(id, push = true){
   const ev = DATA.events.find(e => e.id === id); if (!ev) return;
-  openId = id;
+  const fresh = openId !== id || planOpen >= 0;
+  openId = id; planOpen = -1;
   const ss = sessions(ev), on = saved.has(id);
   const byDay = DAYS.filter(d => (ev.times[d] || []).length).map(d => {
     const list = ev.times[d];
@@ -510,7 +692,9 @@ function openSheet(id, push = true){
     </div>
     ${calRows ? `<div class="cal" id="cal" hidden><strong style="font-size:.9rem">Add to your calendar</strong>${calRows}</div>` : ''}
     ${link ? `<a href="${esc(infoURL(ev))}" target="_blank" rel="noopener" style="font-size:.88rem;color:var(--muted)">More about this event</a>
-    <p style="font-size:.8rem;color:var(--muted);margin:6px 0 0">${ev.sponsored ? 'Sponsored listing. ' : ''}Ticket links may earn us a small commission, at no cost to you. Times and prices can change — check with the venue.</p>` : ''}`;
+    <p style="font-size:.8rem;color:var(--muted);margin:6px 0 0">${ev.sponsored ? 'Sponsored listing. ' : ''}Ticket links may earn us a small commission, at no cost to you. Times and prices can change — check with the venue.</p>` : ''}
+    <p class="report">Something wrong with this listing? <a href="mailto:support@weekendscout.app?subject=${encodeURIComponent('Report a problem: ' + ev.title + ' (' + CITY.name + ')')}">Report a problem</a> · support@weekendscout.app</p>`;
+  if (fresh) learn(ev, 1);
   if (!sheet.open){ try { sheet.showModal(); } catch { sheet.setAttribute('open',''); } }
   if (push) history.replaceState(null, '', '#ev-' + id);
 }
@@ -519,25 +703,32 @@ function clearEvHash(){
   if (location.hash.startsWith('#ev-')) history.replaceState(null, '', h || location.pathname + location.search);
 }
 function closeSheet(){
-  openId = null;
+  openId = null; planOpen = -1;
   if (sheet.open) sheet.close();
   clearEvHash();
 }
-sheet.addEventListener('close', () => { openId = null; clearEvHash(); });
+sheet.addEventListener('close', () => { openId = null; planOpen = -1; clearEvHash(); });
 sheet.addEventListener('click', e => { if (e.target === sheet) closeSheet(); });
 
 /* ---------- actions ---------- */
 let toastT;
 function toast(msg){ const t = $('toast'); t.textContent = msg; t.classList.add('on'); clearTimeout(toastT); toastT = setTimeout(() => t.classList.remove('on'), 2200); }
 function toggleSave(id){
-  if (saved.has(id)) { saved.delete(id); toast('Removed from saved'); } else { saved.add(id); toast('Saved'); }
+  if (saved.has(id)) { saved.delete(id); toast('Removed from saved'); } else { saved.add(id); toast('Saved'); learn(DATA.events.find(e => e.id === id), 3); }
   store.set('ws-saved', [...saved]);
   renderHome(); renderSaved();
-  if (openId === id) openSheet(id, false);
+  if (planOpen >= 0 && openId === id) openPlan(planOpen); else if (openId === id) openSheet(id, false);
 }
 function shareURL(id){
   const base = SITE_URL || (location.origin + location.pathname);
   return base + '#ev-' + (CITIES.length > 1 ? CITY.id + '--' : '') + id;
+}
+async function sharePlan(i){
+  const p = PLANS[i]; if (!p) return;
+  const text = `Date night, ${DAYNAME[p.s.day]}: ` + p.steps.map(x => `${fmtMins(x.t)} ${x.id ? x.what : x.what.toLowerCase()}`).join(', then ');
+  const url = shareURL(p.e.id);
+  try { if (navigator.share) { await navigator.share({ title:'Date night plan', text, url }); return; } } catch (err) { if (err && err.name === 'AbortError') return; }
+  try { await navigator.clipboard.writeText(`${text}\n${url}`); toast('Plan copied'); } catch { toast(text); }
 }
 async function share(id){
   const ev = DATA.events.find(e => e.id === id); if (!ev) return;
@@ -560,7 +751,9 @@ document.addEventListener('click', e => {
   if ('close' in t.dataset) return closeSheet();
   if (t.id === 'city-btn') return openCityPicker();
   if (t.dataset.city) { closeSheet(); return switchCity(t.dataset.city); }
-  if ('share' in t.dataset) return share(openId);
+  if ('share' in t.dataset) return planOpen >= 0 ? sharePlan(planOpen) : share(openId);
+  if (t.dataset.plan !== undefined) return openPlan(+t.dataset.plan);
+  if ('locate' in t.dataset) return locateMe(t);
   if ('caltoggle' in t.dataset) { const c = $('cal'); c.hidden = !c.hidden; t.setAttribute('aria-expanded', String(!c.hidden)); return; }
   if (t.dataset.ics !== undefined) { const ev = DATA.events.find(x => x.id === openId); const s = sessions(ev).filter(s => s.s)[+t.dataset.ics]; downloadICS(ev, s); return; }
   if (t.dataset.copy) {
@@ -588,15 +781,32 @@ if (matchMedia('(display-mode: standalone)').matches || navigator.standalone) $(
 
 /* ---------- city switching ---------- */
 function openCityPicker(){
-  openId = null;
+  openId = null; planOpen = -1;
   $('sheet-in').innerHTML = `<div class="grab" aria-hidden="true"></div>
     <div class="sheet-head"><h2 id="s-title">Choose a city</h2><button class="x-btn" type="button" data-close aria-label="Close">${ICON.x}</button></div>
+    ${'geolocation' in navigator && CITIES.every(c => typeof c.lat === 'number') ? `<button class="btn locate" type="button" data-locate>${ICON.locate} Use my location</button>` : ''}
     <div class="city-list">${CITIES.map(c => `<button class="btn${c.id === CITY.id ? ' primary' : ''}" type="button" data-city="${esc(c.id)}">${esc(cityName(c))}${c.id === CITY.id ? ' <span>✓</span>' : ''}</button>`).join('')}</div>
     <div class="cal"><strong style="font-size:.95rem">Don't see your city?</strong>
       <p style="font-size:.9rem;color:var(--muted)">${CITIES.length < 2 ? 'Syracuse is our first city, and more are on the way.' : 'More cities are on the way.'} Tell us where you'd like Weekend Scout next.</p>
       <div class="contact"><a class="btn" href="mailto:support@weekendscout.app?subject=${encodeURIComponent('Weekend Scout city request')}">Email us</a><a class="btn" href="sms:+13153839602">Text us</a></div>
       <p style="font-size:.82rem;color:var(--muted)">support@weekendscout.app · 315-383-9602</p></div>`;
   if (!sheet.open){ try { sheet.showModal(); } catch { sheet.setAttribute('open',''); } }
+}
+/* ---------- nearest city from the phone's location (checked on the phone, never sent anywhere) ---------- */
+function milesBetween(a, b, c, d){
+  const r = x => x * Math.PI / 180, R = 3958.8;
+  const h = Math.sin(r(c - a) / 2) ** 2 + Math.cos(r(a)) * Math.cos(r(c)) * Math.sin(r(d - b) / 2) ** 2;
+  return 2 * R * Math.asin(Math.sqrt(h));
+}
+function locateMe(btn){
+  if (!('geolocation' in navigator)) return toast("Your browser can't share location");
+  btn.disabled = true; btn.textContent = 'Finding your city…';
+  navigator.geolocation.getCurrentPosition(pos => {
+    const { latitude:la, longitude:lo } = pos.coords;
+    const near = CITIES.map(c => ({ c, mi:milesBetween(la, lo, c.lat, c.lon) })).sort((a,b) => a.mi - b.mi)[0];
+    if (near.mi <= 100){ closeSheet(); switchCity(near.c.id).then(() => toast(`Showing ${cityName(near.c)}`)); if (near.c.id === CITY.id) toast(`You're in ${cityName(near.c)}`); }
+    else { btn.disabled = false; btn.innerHTML = `${ICON.locate} Use my location`; toast(`We're not in your area yet. Closest: ${cityName(near.c)}, ${Math.round(near.mi)} mi`); }
+  }, () => { btn.disabled = false; btn.innerHTML = `${ICON.locate} Use my location`; toast('Location is off. Pick your city below.'); }, { enableHighAccuracy:false, timeout:10000, maximumAge:600000 });
 }
 function noData(){
   $('dates').textContent = "Couldn't load this weekend's events.";
@@ -629,6 +839,14 @@ function renderHeaderCityOnly(){ $('city-label').textContent = cityName(CITY); $
   // First visit and more than one city: ask which city they're in
   if (!want && CITIES.length > 1 && !location.hash) openCityPicker();
 })();
+
+/* ---------- fresh list when you come back to the app ---------- */
+let hiddenAt = 0;
+document.addEventListener('visibilitychange', async () => {
+  if (document.hidden){ hiddenAt = Date.now(); return; }
+  if (!CITY || !hiddenAt || Date.now() - hiddenAt < 30 * 60 * 1000) { if (DATA) renderHome(); return; }
+  const d = await loadCity(CITY); if (d){ DATA = d; renderHeader(); renderAll(); }
+});
 
 if ('serviceWorker' in navigator && (location.protocol === 'https:' || location.hostname === 'localhost')) {
   window.addEventListener('load', () => { navigator.serviceWorker.register('sw.js').catch(() => {}); });
