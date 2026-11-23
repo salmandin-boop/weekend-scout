@@ -70,3 +70,18 @@ Each event looks like this:
 
 1. Use PWABuilder's **iOS** package and open it in Xcode on your Mac.
 2. Apple rejects apps that are only a website in a frame (guideline 4.2). This app's offline mode, saved list, calendar and share features help, but approval isn't guaranteed.
+
+## Weekly build steps (after updating events)
+
+1. `python3 tools/build_pages.py` — rebuilds the city pages (`/austin/`), the share page for every event (`/e/<city>/<event>/`) and `sitemap.xml`.
+2. `node tools/og.js` — rebuilds the link-preview image for each city (`og/<city>.jpg`). Needs Playwright.
+
+## Switches in `config.json`
+
+- `affiliates`: map a ticket site to its tracking-link template, for example `{"ticketmaster.com": "https://ticketmaster.evyy.net/c/PUBLISHER/AD/CAMPAIGN?u={url}"}`. Matching ticket links are converted automatically and marked sponsored.
+- `newsletter.action`: the signup form URL from your email provider (for example Buttondown's embed URL). Empty hides the signup box.
+- `analytics.plausibleDomain`: set to `weekendscout.app` once a Plausible account exists. Empty means no analytics at all.
+
+## Paid restaurant partner for Date Night plans
+
+Add to a city's events file: `"sponsors": [{"type": "dinner", "name": "Café Example", "url": "https://...", "addr": "123 Main St", "note": "10% off with Weekend Scout"}]`. It replaces the "Dinner nearby" step and is labeled Sponsored.

@@ -37,8 +37,31 @@
   ],
   "shortcuts": [
     {
+      "name": "Near me",
+      "short_name": "Near me",
+      "url": "./?near=1",
+      "icons": [
+        {
+          "src": "icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
       "name": "Saved events",
+      "short_name": "Saved",
       "url": "./#saved",
+      "icons": [
+        {
+          "src": "icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Get listed",
+      "short_name": "Get listed",
+      "url": "./#about",
       "icons": [
         {
           "src": "icons/icon-192.png",

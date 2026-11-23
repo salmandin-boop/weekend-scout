@@ -239,6 +239,24 @@ dialog.sheet[open]{animation:sheetUp .22s cubic-bezier(.2,.8,.2,1)}
 @keyframes glow{0%{transform:scale(.6);opacity:0}40%{opacity:.55}100%{transform:scale(1.6);opacity:0}}
 @keyframes up{from{transform:translateY(14px);opacity:0}to{transform:none;opacity:1}}
 @media (prefers-reduced-motion:reduce){#intro *{animation-duration:.01s!important;animation-delay:0s!important}#intro{transition:opacity .2s}}
+
+/* map, weather, forms */
+.viewtog{display:flex;gap:6px}
+#map{height:min(62vh,520px);border-radius:16px;border:1px solid var(--line);margin-bottom:12px;overflow:hidden;background:var(--surface)}
+.leaflet-popup-content{font:14px/1.4 var(--body)}.leaflet-popup-content b{display:block;margin-bottom:2px}
+.leaflet-popup-content button{margin-top:6px;border:0;background:var(--accent,#b8460f);color:#fff;border-radius:8px;padding:6px 10px;font-weight:700;cursor:pointer}
+.days .wx{display:block;font-size:.68rem;font-weight:700;margin-top:2px;opacity:.9}
+.nudge{grid-column:1/-1;display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap;background:var(--accent-soft);border-radius:14px;padding:10px 14px;font-size:.9rem}
+.nudge .btn{min-height:40px;padding:6px 12px}
+.form{display:grid;gap:10px}
+.form label{display:grid;gap:4px;font-size:.85rem;font-weight:700;color:var(--ink)}
+.form input,.form select,.form textarea{font:inherit;font-weight:400;font-size:1rem;color:var(--ink);background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:10px 12px;min-height:44px;width:100%}
+.form .two{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+@media (max-width:420px){.form .two{grid-template-columns:1fr}}
+.form .check{display:flex;gap:10px;align-items:flex-start;font-weight:500;color:var(--muted)}
+.form .check input{width:20px;height:20px;min-height:0;margin-top:2px;flex:none}
+.steps-mini{margin:0;padding-left:18px;color:var(--muted);font-size:.88rem;display:grid;gap:2px}
+.row-btns{display:flex;gap:8px;flex-wrap:wrap}
 </style>
 </head>
 <body>
@@ -288,7 +306,9 @@ dialog.sheet[open]{animation:sheetUp .22s cubic-bezier(.2,.8,.2,1)}
       <div class="chips" role="group" aria-label="Category" id="chips"></div>
       <div class="chips good" role="group" aria-label="Good for" id="good"></div>
     </div>
-    <div class="countrow"><p class="count" id="count" aria-live="polite"></p><button class="chip near" id="near-btn" type="button" data-near aria-pressed="false" hidden><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7-6.2-7-11.5A7 7 0 0 1 19 9.5C19 14.8 12 21 12 21Z"/><circle cx="12" cy="9.5" r="2.5"/></svg>Nearest first</button></div>
+    <div id="map" hidden></div>
+    <div class="countrow"><p class="count" id="count" aria-live="polite"></p><div class="viewtog"><button class="chip near" id="map-btn" type="button" data-map aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 4 3 6v14l6-2 6 2 6-2V4l-6 2-6-2ZM9 4v14M15 6v14"/></svg>Map</button><button class="chip near" id="near-btn" type="button" data-near aria-pressed="false" hidden><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7-6.2-7-11.5A7 7 0 0 1 19 9.5C19 14.8 12 21 12 21Z"/><circle cx="12" cy="9.5" r="2.5"/></svg>Nearest first</button></div></div>
+    <div id="news-home"></div>
     <div class="list" id="list" tabindex="-1"><div class="skel"></div><div class="skel"></div><div class="skel"></div><div class="skel"></div></div>
     <div class="promo">
       <h3>Run a venue or event?</h3>
@@ -299,6 +319,7 @@ dialog.sheet[open]{animation:sheetUp .22s cubic-bezier(.2,.8,.2,1)}
 
   <section id="view-saved" class="wrap" hidden aria-labelledby="h-saved">
     <header class="top"><div class="kicker">Your plans</div><h1 id="h-saved">Saved</h1><p class="dates">Tap the heart on any event to keep it here.</p></header>
+    <div class="row-btns" id="saved-actions" hidden style="margin-top:14px"><button class="btn" type="button" data-calall>Add all to my calendar</button><button class="btn" type="button" data-shareplan>Share my weekend</button></div>
     <div class="list" id="saved-list" style="margin-top:16px"></div>
   </section>
 
@@ -309,12 +330,32 @@ dialog.sheet[open]{animation:sheetUp .22s cubic-bezier(.2,.8,.2,1)}
       <p id="install-text">On iPhone: tap Share, then <strong>Add to Home Screen</strong>. On Android: tap the ⋮ menu, then <strong>Install app</strong>.</p>
       <button class="btn primary" id="install-btn" type="button" hidden>Install the app</button>
     </div>
-    <div class="section">
+    <div class="section" id="remind-box">
+      <h2>Get a reminder every Wednesday</h2>
+      <p>We'll let you know when the new weekend list is out.</p>
+      <button class="btn primary" type="button" data-remind>Remind me on Wednesdays</button>
+      <p id="remind-note" style="font-size:.85rem" hidden></p>
+    </div>
+    <div id="news-about"></div>
+    <div class="section" id="get-listed">
       <h2>Run a venue or event?</h2>
       <p>Send us your event and we'll add it to the weekend list.</p>
       <div class="price-row"><span>Standard listing</span><strong>Free</strong></div>
       <div class="price-row"><span>Featured: pinned to the top with a Sponsored label</span><strong>$15 / weekend</strong></div>
-      <p style="margin-top:6px">Email or text the event name, date, time, venue, price and a link:</p>
+      <form class="form" id="feat-form" style="margin-top:8px">
+        <div class="two"><label>Business name<input name="business" required autocomplete="organization"></label><label>Your name<input name="name" required autocomplete="name"></label></div>
+        <div class="two"><label>Business email<input name="email" type="email" required autocomplete="email" placeholder="you@yourbusiness.com"></label><label>Business phone<input name="phone" type="tel" required autocomplete="tel"></label></div>
+        <label>Business website<input name="website" type="url" required placeholder="https://"></label>
+        <div class="two"><label>Event name<input name="event" required></label><label>City<select name="city" id="feat-city"></select></label></div>
+        <div class="two"><label>Date and time<input name="when" required placeholder="Sat Dec 5, 7 PM"></label><label>Price<input name="price" placeholder="Free, $20…"></label></div>
+        <label>Official event or ticket page<input name="link" type="url" required placeholder="https://"></label>
+        <label>Listing<select name="plan"><option>Free listing</option><option>Featured ($15 / weekend)</option></select></label>
+        <label class="check"><input type="checkbox" name="ok" required> I work for this business and I'm allowed to promote this event.</label>
+        <button class="btn primary" type="submit">Send for review</button>
+        <p style="font-size:.85rem">To keep Weekend Scout safe, we check every business before it goes live:</p>
+        <ol class="steps-mini"><li>It's registered with the state and listed on Google Maps at the same address.</li><li>We call back on its public phone number.</li><li>The event is on its official website or a major ticket seller.</li><li>Featured spots are paid by card in the business's name after approval.</li></ol>
+      </form>
+      <p style="margin-top:6px">Or email or text us the details:</p>
       <div class="contact"><code id="c-email">support@weekendscout.app</code><button class="btn" type="button" data-copy="c-email">Copy</button><a class="btn" href="mailto:support@weekendscout.app?subject=Event%20for%20Weekend%20Scout">Email</a></div>
       <div class="contact"><code id="c-phone">315-383-9602</code><button class="btn" type="button" data-copy="c-phone">Copy</button><a class="btn" href="sms:+13153839602">Text</a></div>
     </div>
@@ -327,6 +368,7 @@ dialog.sheet[open]{animation:sheetUp .22s cubic-bezier(.2,.8,.2,1)}
         <li>Your saved events stay on this device only. We don't collect any personal data.</li>
         <li>"Use my location" and "Nearest first" work out distances on your phone. Your location is never sent to us or stored.</li>
         <li>"Picked for you" learns from what you open and save, on this phone only.</li>
+        <li>Weather comes from Open-Meteo and the map from OpenStreetMap. Neither gets your location.</li>
       </ul>
     </div>
     <p class="fine">Weekend Scout is run by ENDins LLC, East Syracuse, NY. · <a href="privacy.html" target="_blank" rel="noopener">Privacy policy</a> · <a href="terms.html" target="_blank" rel="noopener">Terms</a></p>
@@ -347,7 +389,7 @@ dialog.sheet[open]{animation:sheetUp .22s cubic-bezier(.2,.8,.2,1)}
 
 <script>
 (() => {
-const APP_VERSION = '1.6.0';
+const APP_VERSION = '1.7.0';
 const SITE_URL = 'https://weekendscout.app/'; // the live address, so shared links point there
 const TZ0 = 'America/New_York';
 let TZ = TZ0; // switches to the chosen city's time zone
@@ -447,6 +489,14 @@ async function loadCity(city){
   return res.j;
 }
 const cityName = c => c.state ? `${c.name}, ${c.state}` : c.name;
+/* config.json switches on things that need an outside account (affiliate IDs, newsletter, analytics) */
+let CFG = { affiliates:{}, newsletter:{}, analytics:{} };
+async function loadConfig(){ const r = await getJSON('config.json', 'ws-config'); if (r && r.j) CFG = Object.assign(CFG, r.j); }
+// Turn a ticket link into our tracked affiliate link when we have one for that site
+function affURL(u){
+  try { const h = new URL(u).hostname.replace(/^www\./,''); for (const [dom, tpl] of Object.entries(CFG.affiliates || {})) { if (tpl && (h === dom || h.endsWith('.' + dom))) return { url: tpl.replace('{url}', encodeURIComponent(u)), aff:true }; } } catch {}
+  return { url:u, aff:false };
+}
 
 /* ---------- filtering ---------- */
 // "Good for" occasions. Events list them in `good`; anything marked 18+ or 21+ is never shown as family friendly.
@@ -521,11 +571,26 @@ function card(ev, day){
   </article>`;
 }
 
+/* ---------- weekend weather (Open-Meteo, free, no key; only the city's center is sent) ---------- */
+const WX = {};
+const wxIcon = c => c >= 95 ? '⛈' : c >= 71 && c <= 86 && ![80,81,82].includes(c) ? '❄' : c >= 51 ? '☂' : c >= 45 ? '🌫' : c >= 3 ? '☁' : c >= 1 ? '⛅' : '☀';
+async function loadWeather(){
+  const key = CITY.id + DATA.weekend.days.fri; if (WX[key] !== undefined || typeof CITY.lat !== 'number') return;
+  WX[key] = null;
+  try {
+    const u = `https://api.open-meteo.com/v1/forecast?latitude=${CITY.lat}&longitude=${CITY.lon}&daily=weather_code,temperature_2m_max,precipitation_probability_max&temperature_unit=fahrenheit&timezone=auto&start_date=${DATA.weekend.days.fri}&end_date=${DATA.weekend.days.sun}`;
+    const j = await (await fetch(u)).json(); if (!j.daily) return;
+    const out = {}; j.daily.time.forEach((d, i) => { out[d] = { code:j.daily.weather_code[i], hi:Math.round(j.daily.temperature_2m_max[i]), rain:j.daily.precipitation_probability_max[i] }; });
+    WX[key] = out; if (DATA && CITY.id + DATA.weekend.days.fri === key){ renderControls(); renderHome(); }
+  } catch {}
+}
+const wxFor = iso => { const w = WX[CITY.id + DATA.weekend.days.fri]; return w ? w[iso] : null; };
 function renderControls(){
   const w = DATA.weekend.days;
   const today = todayISO();
+  loadWeather();
   $('days').innerHTML = [['all','All','weekend'], ...DAYS.map(d => [d, DAYABBR[d], w[d] === today ? 'Today' : prettyDate(w[d], { month:'short', day:'numeric' })])]
-    .map(([k,a,b]) => `<button type="button" data-day="${k}" aria-pressed="${S.day === k}">${a}<small>${esc(b)}</small></button>`).join('');
+    .map(([k,a,b]) => { const x = k !== 'all' && wxFor(w[k]); return `<button type="button" data-day="${k}" aria-pressed="${S.day === k}"${x ? ` aria-label="${a} ${esc(b)}, ${x.hi} degrees, ${x.rain}% chance of rain"` : ''}>${a}<small>${esc(b)}</small>${x ? `<span class="wx" aria-hidden="true">${wxIcon(x.code)} ${x.hi}°</span>` : ''}</button>`; }).join('');
   $('chips').innerHTML = CATS
     .filter(([k]) => k === 'all' || DATA.events.some(e => k === 'free' ? e.price === 'free' : e.cat === k))
     .map(([k,l]) => `<button type="button" class="chip" data-cat="${k}" aria-pressed="${S.cat === k}">${esc(l)}</button>`).join('');
@@ -544,6 +609,10 @@ function renderHome(){
     : `${evs.length} ${evs.length === 1 ? 'thing' : 'things'} to do ${dayTxt}`;
   if (!evs.length){ $('list').innerHTML = `<div class="empty"><h2>Nothing matches</h2><p>Try another day or filter, or clear your search.</p><button class="btn" type="button" data-reset>Show everything</button></div>`; return; }
   const cards = evs.map(e => card(e, S.day));
+  const wet = DAYS.filter(d => (S.day === 'all' || S.day === d) && (wxFor(DATA.weekend.days[d]) || {}).rain >= 60);
+  if (wet.length && S.good !== 'indoors' && DATA.events.some(e => goodFor(e).includes('indoors')))
+    cards.unshift(`<div class="nudge"><span>☂ Rain likely ${wet.map(d => DAYNAME[d]).join(' and ')} (${Math.max(...wet.map(d => wxFor(DATA.weekend.days[d]).rain))}%).</span><button class="btn" type="button" data-good="indoors">Show indoor picks</button></div>`);
+  if (MAPON) drawMap(evs);
   const plans = renderPlans(), fy = renderForYou();
   // Rails sit inside the list, after the first few events, so the list stays first
   if (plans) cards.splice(Math.min(4, cards.length), 0, plans);
@@ -555,7 +624,7 @@ function renderSaved(){
   const evs = sorted(DATA.events.filter(e => saved.has(e.id)), 'all');
   $('saved-list').innerHTML = evs.length ? evs.map(e => card(e, 'all')).join('') :
     `<div class="empty"><h2>No saved events yet</h2><p>Tap the heart on anything that looks good and it'll wait for you here.</p><button class="btn primary" type="button" data-go="home">Browse this weekend</button></div>`;
-  const n = evs.length; $('badge').hidden = !n; $('badge').textContent = n;
+  const n = evs.length; $('badge').hidden = !n; $('badge').textContent = n; $('saved-actions').hidden = !n;
 }
 
 function renderHeader(){
@@ -568,6 +637,40 @@ function renderHeader(){
   else if (offline || !navigator.onLine){ b.hidden = false; b.textContent = "You're offline, so this is the copy saved on your phone."; }
   else b.hidden = true;
   $('version').textContent = `© ${new Date().getFullYear()} ENDins LLC · Version ${APP_VERSION} · Events updated ${prettyDate(DATA.updated, { month:'long', day:'numeric', year:'numeric' })}`;
+}
+
+/* ---------- map view (Leaflet + OpenStreetMap, loaded only when opened) ---------- */
+let MAPON = false, LMAP = null, LLAYER = null;
+function loadLeaflet(){
+  if (window.L) return Promise.resolve();
+  return new Promise((res, rej) => {
+    const c = document.createElement('link'); c.rel = 'stylesheet'; c.href = 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css'; document.head.appendChild(c);
+    const s = document.createElement('script'); s.src = 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js'; s.onload = res; s.onerror = rej; document.head.appendChild(s);
+  });
+}
+async function toggleMap(){
+  MAPON = !MAPON; $('map-btn').setAttribute('aria-pressed', String(MAPON)); $('map').hidden = !MAPON;
+  if (!MAPON) return;
+  try { await loadLeaflet(); } catch { MAPON = false; $('map').hidden = true; $('map-btn').setAttribute('aria-pressed','false'); return toast("The map couldn't load. Check your connection."); }
+  renderHome();
+}
+function drawMap(evs){
+  if (!window.L) return;
+  if (!LMAP){
+    LMAP = L.map('map', { zoomControl:true, attributionControl:true });
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom:19, attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>' }).addTo(LMAP);
+  }
+  if (LLAYER) LLAYER.remove();
+  LLAYER = L.layerGroup().addTo(LMAP);
+  const pts = [];
+  evs.filter(e => typeof e.lat === 'number').forEach(e => {
+    pts.push([e.lat, e.lon]);
+    const s = sessions(e)[0];
+    L.circleMarker([e.lat, e.lon], { radius:9, color:'#fff', weight:2, fillColor: e.price === 'free' ? '#1e7a4f' : '#b8460f', fillOpacity:1 })
+      .bindPopup(`<b>${esc(e.title)}</b>${esc(e.venue)}<br>${s ? esc(DAYABBR[s.day] + (s.s ? ' · ' + fmt(s.s) : '')) : ''}<br><button type="button" data-open="${esc(e.id)}">Details</button>`).addTo(LLAYER);
+  });
+  if (POS){ L.circleMarker(POS, { radius:7, color:'#fff', weight:3, fillColor:'#2563eb', fillOpacity:1 }).bindPopup('You are here').addTo(LLAYER); }
+  setTimeout(() => { LMAP.invalidateSize(); if (pts.length) LMAP.fitBounds(pts, { padding:[28,28], maxZoom:14 }); }, 60);
 }
 
 /* ---------- picked for you (learns on this phone only) ---------- */
@@ -593,6 +696,12 @@ function renderForYou(){
 
 /* ---------- date night plans: dinner, the event, then dessert or drinks ---------- */
 const nearURL = (what, ev) => 'https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent(`${what} near ${ev.venue}, ${ev.addr}`);
+// A paid restaurant partner (events file "sponsors": [{type:"dinner", name, url, addr, note}]) takes the dinner step, labeled Sponsored
+function dinnerStep(t, e){
+  const sp = (DATA.sponsors || []).find(s => s.type === 'dinner');
+  if (sp) return { t, what:`Dinner at ${sp.name}`, sub:`Sponsored · ${sp.note || sp.addr || ''}`, url:sp.url, link:'See the menu' };
+  return { t, what:'Dinner nearby', sub:'Pick a spot close to the venue. Book ahead on weekends.', url:nearURL('restaurants', e), link:'Find restaurants' };
+}
 function datePlans(){
   const out = [], usedDay = new Set();
   const cands = DATA.events.filter(e => goodFor(e).includes('date'))
@@ -603,7 +712,7 @@ function datePlans(){
     const st = mins(s.s), en = s.e ? Math.min(mins(s.e), st + 180) : st + 120;
     let steps;
     if (st >= 17*60) steps = [
-      { t:st - 105, what:'Dinner nearby', sub:'Pick a spot close to the venue. Book ahead on weekends.', url:nearURL('restaurants', e), link:'Find restaurants' },
+      dinnerStep(st - 105, e),
       { t:st, what:e.title, sub:e.venue, id:e.id },
       { t:en, what:'Dessert or a nightcap', sub:'End the night somewhere cozy.', url:nearURL('dessert or cocktail bar', e), link:'Find a spot' } ];
     else if (st >= 11*60) steps = [
@@ -706,6 +815,23 @@ function icsText(ev, s){
     `SUMMARY:${e(ev.title)}`,`LOCATION:${e(ev.venue + ', ' + ev.addr)}`,`DESCRIPTION:${e(ev.blurb || '')}`,
     'END:VEVENT','END:VCALENDAR'].join('\r\n');
 }
+function allICS(){
+  const evs = DATA.events.filter(e => saved.has(e.id));
+  const parts = evs.flatMap(ev => sessions(ev).filter(s => s.s).slice(0, 1).map(s => icsText(ev, s).split('\r\n').slice(5, -1).join('\r\n')));
+  if (!parts.length) return null;
+  return ['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//Weekend Scout//EN','CALSCALE:GREGORIAN','METHOD:PUBLISH', ...parts, 'END:VCALENDAR'].join('\r\n');
+}
+function saveFile(name, text, type){
+  const blob = new Blob([text], { type }); const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob); a.download = name; document.body.appendChild(a); a.click(); a.remove(); setTimeout(() => URL.revokeObjectURL(a.href), 4000);
+}
+async function shareWeekend(){
+  const evs = sorted(DATA.events.filter(e => saved.has(e.id)), 'all'); if (!evs.length) return;
+  const text = `My weekend in ${CITY.name}:\n` + evs.map(e => { const s = sessions(e)[0]; return `• ${e.title}${s ? ` (${DAYABBR[s.day]}${s.s ? ' ' + fmt(s.s) : ''})` : ''}`; }).join('\n');
+  const url = `${SITE_URL}${CITY.id}/`;
+  try { if (navigator.share) { await navigator.share({ title:'My weekend plan', text, url }); return; } } catch (err) { if (err && err.name === 'AbortError') return; }
+  try { await navigator.clipboard.writeText(`${text}\n${url}`); toast('Plan copied'); } catch { toast('Could not copy'); }
+}
 function downloadICS(ev, s){
   const blob = new Blob([icsText(ev, s)], { type:'text/calendar;charset=utf-8' });
   const a = document.createElement('a');
@@ -741,7 +867,7 @@ function openSheet(id, push = true){
     </div>
     ${ev.blurb ? `<p class="blurb">${esc(ev.blurb)}</p>` : ''}
     <div class="actions">
-      ${link ? `<a class="btn primary wide" href="${esc(link.url)}" target="_blank" rel="noopener${ev.sponsored ? ' sponsored' : ''}">${esc(link.label)} ${ICON.ext}</a>` : `<a class="btn primary wide" href="${esc(infoURL(ev))}" target="_blank" rel="noopener">Find tickets &amp; info ${ICON.ext}</a>`}
+      ${link ? (() => { const a = affURL(link.url); return `<a class="btn primary wide" href="${esc(a.url)}" target="_blank" rel="noopener${ev.sponsored || a.aff ? ' sponsored' : ''}">${esc(link.label)} ${ICON.ext}</a>`; })() : `<a class="btn primary wide" href="${esc(infoURL(ev))}" target="_blank" rel="noopener">Find tickets &amp; info ${ICON.ext}</a>`}
       <a class="btn" href="${esc(mapsURL(ev))}" target="_blank" rel="noopener">${ICON.map} Directions</a>
       <button class="btn" type="button" data-share>${ICON.share} Share</button>
       <button class="btn" type="button" data-save="${esc(id)}" aria-pressed="${on}">${ICON.heart} ${on ? 'Saved' : 'Save'}</button>
@@ -777,6 +903,7 @@ function toggleSave(id){
   if (planOpen >= 0 && openId === id) openPlan(planOpen); else if (openId === id) openSheet(id, false);
 }
 function shareURL(id){
+  if (CITY && CITIES.length > 1) return `${SITE_URL}e/${CITY.id}/${id}/`; // share page with the event's own preview
   const base = SITE_URL || (location.origin + location.pathname);
   return base + '#ev-' + (CITIES.length > 1 ? CITY.id + '--' : '') + id;
 }
@@ -812,6 +939,10 @@ document.addEventListener('click', e => {
   if (t.dataset.plan !== undefined) return openPlan(+t.dataset.plan);
   if ('locate' in t.dataset) return locateMe(t);
   if ('near' in t.dataset) return toggleNear(t);
+  if ('map' in t.dataset) return toggleMap();
+  if ('calall' in t.dataset) { const ics = allICS(); if (!ics) return toast('None of your saved events has a set time yet'); saveFile('my-weekend.ics', ics, 'text/calendar;charset=utf-8'); return; }
+  if ('shareplan' in t.dataset) return shareWeekend();
+  if ('remind' in t.dataset) return remindMe(t);
   if ('caltoggle' in t.dataset) { const c = $('cal'); c.hidden = !c.hidden; t.setAttribute('aria-expanded', String(!c.hidden)); return; }
   if (t.dataset.ics !== undefined) { const ev = DATA.events.find(x => x.id === openId); const s = sessions(ev).filter(s => s.s)[+t.dataset.ics]; downloadICS(ev, s); return; }
   if (t.dataset.copy) {
@@ -892,21 +1023,79 @@ async function switchCity(id){
   if (!d) { DATA = null; renderHeaderCityOnly(); return noData(); }
   DATA = d; S.cat = 'all'; S.good = 'any'; S.q = ''; $('q').value = ''; pickDefaultDay();
   renderHeader(); renderAll(); show('home');
+  if (store.get('ws-remind', false)) savePrefsForWorker();
 }
 function renderHeaderCityOnly(){ $('city-label').textContent = cityName(CITY); $('city-btn').hidden = false; }
 
 /* ---------- start ---------- */
 (async () => {
   CITIES = await loadCities();
+  loadConfig().then(() => { renderNews(); startAnalytics(); });
+  const qp = new URLSearchParams(location.search), fromURL = qp.get('city');
+  if (fromURL && CITIES.some(c => c.id === fromURL)) store.set('ws-city', fromURL);
   const want = store.get('ws-city', null);
   CITY = CITIES.find(c => c.id === want) || CITIES[0]; TZ = CITY.tz || TZ0;
   DATA = await loadCity(CITY);
   if (!DATA) { renderHeaderCityOnly(); return noData(); }
   pickDefaultDay();
   renderHeader(); renderAll(); route();
+  if (qp.get('near') === '1') toggleNear($('near-btn'));
+  $('feat-city').innerHTML = CITIES.map(c => `<option${c.id === CITY.id ? ' selected' : ''}>${esc(cityName(c))}</option>`).join('');
+  if (store.get('ws-remind', false)) savePrefsForWorker();
   // First visit and more than one city: ask which city they're in
   if (!want && CITIES.length > 1 && !location.hash) (window.__introGone || Promise.resolve()).then(() => { if (!sheet.open) openCityPicker(); });
 })();
+
+/* ---------- Wednesday reminder ----------
+   Installed on Android: the app checks for the new list in the background and sends a notification.
+   Everywhere else: a repeating Wednesday reminder is added to the phone's calendar instead. */
+async function savePrefsForWorker(){
+  try { const c = await caches.open('ws-prefs'); await c.put('/__prefs', new Response(JSON.stringify({ city:CITY.id, file:CITY.file, name:CITY.name, updated:DATA.updated }))); } catch {}
+}
+async function remindMe(btn){
+  const note = $('remind-note');
+  let reg = null; try { reg = await navigator.serviceWorker?.ready; } catch {}
+  if (reg && 'periodicSync' in reg && 'Notification' in window){
+    try {
+      const perm = await Notification.requestPermission();
+      if (perm === 'granted'){
+        await savePrefsForWorker();
+        await reg.periodicSync.register('ws-weekly', { minInterval: 12 * 60 * 60 * 1000 });
+        store.set('ws-remind', true); note.hidden = false; note.textContent = `Done. We'll send a notification when the new ${CITY.name} list is out.`; btn.textContent = 'Reminders are on'; return;
+      }
+    } catch {}
+  }
+  // Fallback: a repeating calendar reminder every Wednesday at noon
+  const ics = ['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//Weekend Scout//EN','BEGIN:VEVENT','UID:weekly-reminder@weekendscout','DTSTAMP:' + new Date().toISOString().replace(/[-:]/g,'').replace(/\.\d+/,''),
+    'DTSTART;TZID=' + TZ + ':' + nextWednesday() + 'T120000','DURATION:PT15M','RRULE:FREQ=WEEKLY;BYDAY=WE','SUMMARY:New Weekend Scout list is out','DESCRIPTION:See what\'s on this weekend: ' + SITE_URL,'URL:' + SITE_URL,
+    'BEGIN:VALARM','ACTION:DISPLAY','DESCRIPTION:New Weekend Scout list','TRIGGER:PT0M','END:VALARM','END:VEVENT','END:VCALENDAR'].join('\r\n');
+  saveFile('weekend-scout-reminder.ics', ics, 'text/calendar;charset=utf-8');
+  note.hidden = false; note.textContent = 'Open the file we just saved to add a Wednesday reminder to your calendar.';
+}
+function nextWednesday(){ const d = new Date(); d.setDate(d.getDate() + ((3 - d.getDay() + 7) % 7 || 7)); return d.toISOString().slice(0,10).replace(/-/g,''); }
+
+function renderNews(){
+  const n = CFG.newsletter || {};
+  ['news-home','news-about'].forEach(id => {
+    const box = $(id); if (!box) return;
+    if (!n.action){ box.innerHTML = ''; return; }
+    box.innerHTML = `<div class="${id === 'news-home' ? 'promo' : 'section'}"><h3>Get the list by email</h3><p>One short email every Wednesday with the best of the weekend. Unsubscribe anytime.</p>
+      <form class="form" method="post" action="${esc(n.action)}" target="_blank" style="grid-template-columns:1fr auto;align-items:end">
+      <label>Email<input type="email" name="${esc(n.field || 'email')}" required autocomplete="email"></label><button class="btn primary" type="submit">Sign up</button></form></div>`;
+  });
+}
+function startAnalytics(){
+  const a = CFG.analytics || {};
+  if (a.plausibleDomain && !document.getElementById('plausible')){ const s = document.createElement('script'); s.id = 'plausible'; s.defer = true; s.dataset.domain = a.plausibleDomain; s.src = 'https://plausible.io/js/script.js'; document.head.appendChild(s); }
+}
+// "Get listed" form: opens an email to us with everything filled in
+$('feat-form').addEventListener('submit', e => {
+  e.preventDefault();
+  const f = Object.fromEntries(new FormData(e.target).entries());
+  const body = `Business: ${f.business}\nContact: ${f.name}\nEmail: ${f.email}\nPhone: ${f.phone}\nWebsite: ${f.website}\n\nEvent: ${f.event}\nCity: ${f.city}\nWhen: ${f.when}\nPrice: ${f.price || ''}\nOfficial page: ${f.link}\n\nListing: ${f.plan}\nAuthorized to promote: yes`;
+  location.href = `mailto:support@weekendscout.app?subject=${encodeURIComponent('Get listed: ' + f.event + ' (' + f.city + ')')}&body=${encodeURIComponent(body)}`;
+  toast('Opening your email app…');
+});
 
 /* ---------- fresh list when you come back to the app ---------- */
 let hiddenAt = 0;
