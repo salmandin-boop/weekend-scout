@@ -522,9 +522,12 @@ function affURL(u){
 
 /* ---------- filtering ---------- */
 // "Good for" occasions. Events list them in `good`; anything marked 18+ or 21+ is never shown as family friendly.
-const GOOD = [['date','Date night'],['family','Family friendly'],['friends','With friends'],['indoors','Indoors']];
+// Read as "Good for …": Date night / Kids / Groups / Rainy days
+const GOOD = [['date','Date night'],['family','Kids'],['friends','Groups'],['indoors','Rainy days']];
+const GOODTAG = { date:'Date night', family:'Kid friendly', friends:'Great for groups', indoors:'Indoors' };
+const GOODALT = { date:'date romantic couples', family:'family kids children', friends:'friends groups', indoors:'indoor indoors rain' };
 const GOODLABEL = Object.fromEntries(GOOD);
-const GOODCOUNT = { date:['date night pick','date night picks'], family:['family-friendly pick','family-friendly picks'], friends:['pick for friends','picks for friends'], indoors:['indoor pick','indoor picks'] };
+const GOODCOUNT = { date:['date night pick','date night picks'], family:['pick for kids','picks for kids'], friends:['pick for groups','picks for groups'], indoors:['rainy-day pick','rainy-day picks'] };
 function goodFor(ev){
   const g = new Set(Array.isArray(ev.good) ? ev.good : (ev.cat === 'family' ? ['family'] : []));
   if (ev.ages) g.delete('family');
@@ -536,7 +539,7 @@ function matches(ev, day, cat, q, good = S.good){
   if (cat === 'free' && ev.price !== 'free') return false;
   if (cat !== 'all' && cat !== 'free' && ev.cat !== cat) return false;
   if (q){
-    const hay = [ev.title, ev.venue, ev.addr, ev.blurb, CATLABEL[ev.cat], ev.priceLabel, ...goodFor(ev).map(k => GOODLABEL[k])].join(' ').toLowerCase();
+    const hay = [ev.title, ev.venue, ev.addr, ev.blurb, CATLABEL[ev.cat], ev.priceLabel, ...goodFor(ev).map(k => GOODLABEL[k] + ' ' + GOODALT[k])].join(' ').toLowerCase();
     if (!q.toLowerCase().split(/\s+/).filter(Boolean).every(w => hay.includes(w))) return false;
   }
   return true;
@@ -633,7 +636,7 @@ function renderHome(){
   const cards = evs.map(e => card(e, S.day));
   const wet = DAYS.filter(d => (S.day === 'all' || S.day === d) && (wxFor(DATA.weekend.days[d]) || {}).rain >= 60);
   if (wet.length && S.good !== 'indoors' && DATA.events.some(e => goodFor(e).includes('indoors')))
-    cards.unshift(`<div class="nudge"><span>☂ Rain likely ${wet.map(d => DAYNAME[d]).join(' and ')} (${Math.max(...wet.map(d => wxFor(DATA.weekend.days[d]).rain))}%).</span><button class="btn" type="button" data-good="indoors">Show indoor picks</button></div>`);
+    cards.unshift(`<div class="nudge"><span>☂ Rain likely ${wet.map(d => DAYNAME[d]).join(' and ')} (${Math.max(...wet.map(d => wxFor(DATA.weekend.days[d]).rain))}%).</span><button class="btn" type="button" data-good="indoors">Show rainy-day picks</button></div>`);
   if (MAPON) drawMap(evs);
   const plans = renderPlans(), fy = renderForYou();
   // Rails sit inside the list, after the first few events, so the list stays first
@@ -886,7 +889,7 @@ function openSheet(id, push = true){
       <div class="meta-row">${ICON.clock}<div>${byDay}</div></div>
       <div class="meta-row">${ICON.pin}<div>${esc(ev.venue)}${distTxt(ev) ? ` <span class="dist">· ${esc(distTxt(ev))} away</span>` : ''}<div class="sub">${esc(ev.addr)}</div></div></div>
       <div class="meta-row">${ICON.tag}<div>${esc(ev.priceLabel || '')}${ev.ages ? ` · ${esc(ev.ages)}` : ''}</div></div>
-      ${goodFor(ev).length ? `<div class="meta-row">${ICON.heart}<div>Good for: ${goodFor(ev).map(k => esc(GOODLABEL[k])).join(', ')}</div></div>` : ''}
+      ${goodFor(ev).length ? `<div class="meta-row">${ICON.heart}<div>Good for: ${goodFor(ev).map(k => esc(GOODLABEL[k]).toLowerCase()).join(', ')}</div></div>` : ''}
     </div>
     ${ev.blurb ? `<p class="blurb">${esc(ev.blurb)}</p>` : ''}
     <div class="actions">
@@ -1012,7 +1015,7 @@ function renderHoliday(){
   const date = hits.some(x => /Valentine/.test(x.name)) && DATA.events.some(e => goodFor(e).includes('date'));
   const fam = hits.some(x => /Thanksgiving|Christmas|Easter|Mother|Father/.test(x.name)) && DATA.events.some(e => goodFor(e).includes('family'));
   h.innerHTML = `<span>🎉 <strong>Holiday weekend</strong> · ${hits.map(x => `${esc(x.name)} (${dn(x.d)})`).join(' · ')}. Some hours change.</span>` +
-    (date ? '<button class="btn" type="button" data-good="date">Date night picks</button>' : fam ? '<button class="btn" type="button" data-good="family">Family picks</button>' : '');
+    (date ? '<button class="btn" type="button" data-good="date">Date night picks</button>' : fam ? '<button class="btn" type="button" data-good="family">Picks for kids</button>' : '');
   h.hidden = false;
 }
 
@@ -1068,7 +1071,7 @@ async function storyImage(id, btn){
     x.fillStyle = '#5d6577'; x.font = `600 44px ${B}`;
     vl.forEach(l => { x.fillText(l, cx + 60, y); y += 58; });
     y += 30;
-    const tags = [ev.price === 'free' ? 'Free' : (ev.priceLabel || ''), ...goodFor(ev).slice(0, 2).map(k => GOODLABEL[k])].filter(Boolean).slice(0, 3);
+    const tags = [ev.price === 'free' ? 'Free' : (ev.priceLabel || ''), ...goodFor(ev).slice(0, 2).map(k => GOODTAG[k])].filter(Boolean).slice(0, 3);
     x.font = `700 38px ${B}`; let tx = cx + 60;
     for (const t of tags){ const tw = Math.min(x.measureText(t).width + 56, cw - 120); if (tx + tw > cx + cw - 60) break; x.fillStyle = t === 'Free' ? '#e3f3ea' : '#f3f1ec'; rr(x, tx, y - 46, tw, 66, 33); x.fill(); x.fillStyle = t === 'Free' ? '#1e7a4f' : '#1b2333'; x.fillText(t, tx + 28, y); tx += tw + 16; }
     if (bl.length){ y += 90; x.fillStyle = '#3b4456'; x.font = `500 38px ${B}`; bl.forEach(l => { if (y < top + ch - 40) x.fillText(l, cx + 60, y); y += 52; }); }
