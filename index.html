@@ -93,6 +93,10 @@ header.top{padding-top:calc(var(--sat) + 20px);padding-bottom:4px}
 .chip{flex:none;border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:6px 14px;font-size:.88rem;font-weight:600;cursor:pointer;min-height:44px;white-space:nowrap;transition:background-color .15s,border-color .15s}
 .chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
 .count{font-size:.85rem;color:var(--muted);margin:8px 0 10px}
+.countrow{display:flex;align-items:center;justify-content:space-between;gap:8px}
+.chip.near{display:inline-flex;align-items:center;gap:6px}
+.chip.near svg{width:16px;height:16px;stroke:currentColor;fill:none;stroke-width:2.2}
+.dist{color:var(--accent);font-weight:700;white-space:nowrap}
 
 /* ticket cards */
 .list{display:grid;gap:12px}
@@ -238,7 +242,7 @@ dialog.sheet[open]{animation:sheetUp .22s cubic-bezier(.2,.8,.2,1)}
       <div class="chips" role="group" aria-label="Category" id="chips"></div>
       <div class="chips good" role="group" aria-label="Good for" id="good"></div>
     </div>
-    <p class="count" id="count" aria-live="polite"></p>
+    <div class="countrow"><p class="count" id="count" aria-live="polite"></p><button class="chip near" id="near-btn" type="button" data-near aria-pressed="false" hidden><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7-6.2-7-11.5A7 7 0 0 1 19 9.5C19 14.8 12 21 12 21Z"/><circle cx="12" cy="9.5" r="2.5"/></svg>Nearest first</button></div>
     <div class="list" id="list" tabindex="-1"><div class="skel"></div><div class="skel"></div><div class="skel"></div><div class="skel"></div></div>
     <div class="promo">
       <h3>Run a venue or event?</h3>
@@ -275,7 +279,7 @@ dialog.sheet[open]{animation:sheetUp .22s cubic-bezier(.2,.8,.2,1)}
         <li>Some ticket links may earn us a small commission, at no cost to you.</li>
         <li>Featured events are paid placements and are always labeled Sponsored.</li>
         <li>Your saved events stay on this device only. We don't collect any personal data.</li>
-        <li>"Use my location" only finds your nearest city on your phone. Your location is never sent to us or stored.</li>
+        <li>"Use my location" and "Nearest first" work out distances on your phone. Your location is never sent to us or stored.</li>
         <li>"Picked for you" learns from what you open and save, on this phone only.</li>
       </ul>
     </div>
@@ -297,7 +301,7 @@ dialog.sheet[open]{animation:sheetUp .22s cubic-bezier(.2,.8,.2,1)}
 
 <script>
 (() => {
-const APP_VERSION = '1.5.0';
+const APP_VERSION = '1.5.1';
 const SITE_URL = 'https://weekendscout.app/'; // the live address, so shared links point there
 const TZ0 = 'America/New_York';
 let TZ = TZ0; // switches to the chosen city's time zone
@@ -327,7 +331,8 @@ const ICON = {
 const APP_JSONLD_ID = 'ld-events';
 
 let DATA = null, offline = false, CITIES = [], CITY = null;
-const S = { view:'home', day:'all', cat:'all', good:'any', q:'' };
+const S = { view:'home', day:'all', cat:'all', good:'any', q:'', near:false };
+let POS = null; // the phone's location, kept in memory only while the app is open
 let saved = new Set(store.get('ws-saved', store.get('stw-saved', [])));
 
 /* ---------- time helpers ---------- */
@@ -424,7 +429,12 @@ function sortKey(ev, day){
   const ongoing = !f.s || (f.e && mins(f.e) - mins(f.s) >= 240); // museums, markets: open-hours listings go after timed shows
   return (ev.featured ? 0 : 1e6) + (ongoing ? 5e5 : 0) + DAYS.indexOf(f.day) * 1e4 + mins(f.s);
 }
-function sorted(evs, day){ return evs.slice().sort((a,b) => sortKey(a,day) - sortKey(b,day) || a.title.localeCompare(b.title)); }
+const distOf = ev => (POS && typeof ev.lat === 'number') ? milesBetween(POS[0], POS[1], ev.lat, ev.lon) : null;
+const distTxt = ev => { const d = distOf(ev); return d === null ? '' : d < 0.1 ? 'Here' : (d < 10 ? d.toFixed(1) : Math.round(d)) + ' mi'; };
+function sorted(evs, day){
+  if (S.near && POS) return evs.slice().sort((a,b) => (b.featured ? 1 : 0) - (a.featured ? 1 : 0) || (distOf(a) ?? 1e9) - (distOf(b) ?? 1e9) || sortKey(a,day) - sortKey(b,day));
+  return evs.slice().sort((a,b) => sortKey(a,day) - sortKey(b,day) || a.title.localeCompare(b.title));
+}
 
 /* ---------- rendering ---------- */
 function whenHTML(ev, day){
@@ -460,7 +470,7 @@ function card(ev, day){
   return `<article class="ticket">
     ${whenHTML(ev, day)}
     <div class="body"><h3><button class="open" type="button" data-open="${esc(ev.id)}">${esc(ev.title)}</button></h3>
-      <p class="venue">${esc(ev.venue)}</p>${pills(ev)}</div>
+      <p class="venue">${distTxt(ev) ? `<span class="dist">${esc(distTxt(ev))}</span> · ` : ''}${esc(ev.venue)}</p>${pills(ev)}</div>
     <button class="save" type="button" data-save="${esc(ev.id)}" aria-pressed="${on}" aria-label="${on ? 'Remove from saved' : 'Save'}: ${esc(ev.title)}">${ICON.heart}</button>
   </article>`;
 }
@@ -480,6 +490,7 @@ function renderControls(){
 }
 
 function renderHome(){
+  const nb = $('near-btn'); nb.hidden = !('geolocation' in navigator) || !DATA.events.some(e => typeof e.lat === 'number'); nb.setAttribute('aria-pressed', String(S.near && !!POS));
   const evs = sorted(DATA.events.filter(e => matches(e, S.day, S.cat, S.q)), S.day);
   const dayTxt = S.day === 'all' ? 'this weekend' : 'on ' + DAYNAME[S.day];
   $('count').textContent = !evs.length ? '' : S.good !== 'any'
@@ -678,7 +689,7 @@ function openSheet(id, push = true){
       <button class="x-btn" type="button" data-close aria-label="Close">${ICON.x}</button></div>
     <div class="meta">
       <div class="meta-row">${ICON.clock}<div>${byDay}</div></div>
-      <div class="meta-row">${ICON.pin}<div>${esc(ev.venue)}<div class="sub">${esc(ev.addr)}</div></div></div>
+      <div class="meta-row">${ICON.pin}<div>${esc(ev.venue)}${distTxt(ev) ? ` <span class="dist">· ${esc(distTxt(ev))} away</span>` : ''}<div class="sub">${esc(ev.addr)}</div></div></div>
       <div class="meta-row">${ICON.tag}<div>${esc(ev.priceLabel || '')}${ev.ages ? ` · ${esc(ev.ages)}` : ''}</div></div>
       ${goodFor(ev).length ? `<div class="meta-row">${ICON.heart}<div>Good for: ${goodFor(ev).map(k => esc(GOODLABEL[k])).join(', ')}</div></div>` : ''}
     </div>
@@ -754,6 +765,7 @@ document.addEventListener('click', e => {
   if ('share' in t.dataset) return planOpen >= 0 ? sharePlan(planOpen) : share(openId);
   if (t.dataset.plan !== undefined) return openPlan(+t.dataset.plan);
   if ('locate' in t.dataset) return locateMe(t);
+  if ('near' in t.dataset) return toggleNear(t);
   if ('caltoggle' in t.dataset) { const c = $('cal'); c.hidden = !c.hidden; t.setAttribute('aria-expanded', String(!c.hidden)); return; }
   if (t.dataset.ics !== undefined) { const ev = DATA.events.find(x => x.id === openId); const s = sessions(ev).filter(s => s.s)[+t.dataset.ics]; downloadICS(ev, s); return; }
   if (t.dataset.copy) {
@@ -798,11 +810,21 @@ function milesBetween(a, b, c, d){
   const h = Math.sin(r(c - a) / 2) ** 2 + Math.cos(r(a)) * Math.cos(r(c)) * Math.sin(r(d - b) / 2) ** 2;
   return 2 * R * Math.asin(Math.sqrt(h));
 }
+function toggleNear(btn){
+  if (S.near){ S.near = false; renderHome(); return; }
+  if (POS){ S.near = true; renderHome(); return; }
+  btn.disabled = true;
+  navigator.geolocation.getCurrentPosition(pos => {
+    btn.disabled = false; POS = [pos.coords.latitude, pos.coords.longitude]; S.near = true; renderHome();
+    const near = Math.min(...DATA.events.map(distOf).filter(d => d !== null));
+    if (near > 100) toast(`You're about ${Math.round(near)} mi from ${CITY.name}. Try "Use my location" in the city picker.`); else toast('Closest events first');
+  }, () => { btn.disabled = false; toast('Location is off, so we can\'t sort by distance.'); }, { enableHighAccuracy:false, timeout:10000, maximumAge:300000 });
+}
 function locateMe(btn){
   if (!('geolocation' in navigator)) return toast("Your browser can't share location");
   btn.disabled = true; btn.textContent = 'Finding your city…';
   navigator.geolocation.getCurrentPosition(pos => {
-    const { latitude:la, longitude:lo } = pos.coords;
+    const { latitude:la, longitude:lo } = pos.coords; POS = [la, lo];
     const near = CITIES.map(c => ({ c, mi:milesBetween(la, lo, c.lat, c.lon) })).sort((a,b) => a.mi - b.mi)[0];
     if (near.mi <= 100){ closeSheet(); switchCity(near.c.id).then(() => toast(`Showing ${cityName(near.c)}`)); if (near.c.id === CITY.id) toast(`You're in ${cityName(near.c)}`); }
     else { btn.disabled = false; btn.innerHTML = `${ICON.locate} Use my location`; toast(`We're not in your area yet. Closest: ${cityName(near.c)}, ${Math.round(near.mi)} mi`); }
