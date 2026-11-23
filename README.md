@@ -85,3 +85,11 @@ Each event looks like this:
 ## Paid restaurant partner for Date Night plans
 
 Add to a city's events file: `"sponsors": [{"type": "dinner", "name": "Café Example", "url": "https://...", "addr": "123 Main St", "note": "10% off with Weekend Scout"}]`. It replaces the "Dinner nearby" step and is labeled Sponsored.
+
+## Google Play switch (v1.8)
+Once the Play listing is live, set `"playUrl": "https://play.google.com/store/apps/details?id=app.weekendscout"` in `config.json`.
+Android web visitors then see a "Get it on Google Play" badge, and people using the Play app see a "Rate it on Google Play" link in About.
+`IS_TWA` in index.html tells you when the page runs inside the Play Store app (use it to keep any card payment buttons out of the Android app).
+
+## Holidays
+`HOLI` in index.html lists US holidays through 2027. The header shows a holiday-weekend note when one falls Thu–Mon of the listed weekend. Add 2028 dates before the end of 2027.

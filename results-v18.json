@@ -1,0 +1,920 @@
+[
+ {
+  "cat": "SEO",
+  "name": "<title> present",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "SEO",
+  "name": "meta description 50-160 chars",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "SEO",
+  "name": "canonical link",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "SEO",
+  "name": "Open Graph image",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "SEO",
+  "name": "Twitter card",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "SEO",
+  "name": "robots.txt",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "SEO",
+  "name": "sitemap.xml",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "SEO",
+  "name": "404 page",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "SEO",
+  "name": "Event structured data (JSON-LD) for Google",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "SEO",
+  "name": "Organization/WebSite structured data",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "PWA",
+  "name": "manifest name/short_name",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "PWA",
+  "name": "manifest 192 & 512 icons",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "PWA",
+  "name": "maskable icon",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "PWA",
+  "name": "manifest screenshots",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "PWA",
+  "name": "manifest shortcuts",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "PWA",
+  "name": "start_url, scope, display, id",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "PWA",
+  "name": "service worker caches shell",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "PWA",
+  "name": "apple-touch-icon",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "PWA",
+  "name": "theme-color light+dark",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Perf",
+  "name": "index.html under 30 KB compressed",
+  "pass": true,
+  "info": "29.0 KB gz"
+ },
+ {
+  "cat": "Perf",
+  "name": "fonts preconnected",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Perf",
+  "name": "font-display swap",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Perf",
+  "name": "OG image under 200 KB",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Data",
+  "name": "cities have time zones",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Data",
+  "name": "cities have coordinates (for near me)",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Data",
+  "name": "syracuse: Fri/Sat/Sun dates line up",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Data",
+  "name": "syracuse: 10+ events",
+  "pass": true,
+  "info": 12
+ },
+ {
+  "cat": "Data",
+  "name": "syracuse: 2+ free picks",
+  "pass": true,
+  "info": 3
+ },
+ {
+  "cat": "Data",
+  "name": "syracuse: 4+ categories",
+  "pass": true,
+  "info": 5
+ },
+ {
+  "cat": "Data",
+  "name": "syracuse: every event has map coordinates",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Data",
+  "name": "syracuse: date-night picks",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Data",
+  "name": "new-york: Fri/Sat/Sun dates line up",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Data",
+  "name": "new-york: 10+ events",
+  "pass": true,
+  "info": 11
+ },
+ {
+  "cat": "Data",
+  "name": "new-york: 2+ free picks",
+  "pass": true,
+  "info": 6
+ },
+ {
+  "cat": "Data",
+  "name": "new-york: 4+ categories",
+  "pass": true,
+  "info": 4
+ },
+ {
+  "cat": "Data",
+  "name": "new-york: every event has map coordinates",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Data",
+  "name": "new-york: date-night picks",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Data",
+  "name": "los-angeles: Fri/Sat/Sun dates line up",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Data",
+  "name": "los-angeles: 10+ events",
+  "pass": true,
+  "info": 11
+ },
+ {
+  "cat": "Data",
+  "name": "los-angeles: 2+ free picks",
+  "pass": true,
+  "info": 2
+ },
+ {
+  "cat": "Data",
+  "name": "los-angeles: 4+ categories",
+  "pass": true,
+  "info": 4
+ },
+ {
+  "cat": "Data",
+  "name": "los-angeles: every event has map coordinates",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Data",
+  "name": "los-angeles: date-night picks",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Data",
+  "name": "chicago: Fri/Sat/Sun dates line up",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Data",
+  "name": "chicago: 10+ events",
+  "pass": true,
+  "info": 10
+ },
+ {
+  "cat": "Data",
+  "name": "chicago: 2+ free picks",
+  "pass": true,
+  "info": 3
+ },
+ {
+  "cat": "Data",
+  "name": "chicago: 4+ categories",
+  "pass": true,
+  "info": 5
+ },
+ {
+  "cat": "Data",
+  "name": "chicago: every event has map coordinates",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Data",
+  "name": "chicago: date-night picks",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Data",
+  "name": "houston: Fri/Sat/Sun dates line up",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Data",
+  "name": "houston: 10+ events",
+  "pass": true,
+  "info": 11
+ },
+ {
+  "cat": "Data",
+  "name": "houston: 2+ free picks",
+  "pass": true,
+  "info": 2
+ },
+ {
+  "cat": "Data",
+  "name": "houston: 4+ categories",
+  "pass": true,
+  "info": 5
+ },
+ {
+  "cat": "Data",
+  "name": "houston: every event has map coordinates",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Data",
+  "name": "houston: date-night picks",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Data",
+  "name": "phoenix: Fri/Sat/Sun dates line up",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Data",
+  "name": "phoenix: 10+ events",
+  "pass": true,
+  "info": 11
+ },
+ {
+  "cat": "Data",
+  "name": "phoenix: 2+ free picks",
+  "pass": true,
+  "info": 5
+ },
+ {
+  "cat": "Data",
+  "name": "phoenix: 4+ categories",
+  "pass": true,
+  "info": 4
+ },
+ {
+  "cat": "Data",
+  "name": "phoenix: every event has map coordinates",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Data",
+  "name": "phoenix: date-night picks",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Data",
+  "name": "philadelphia: Fri/Sat/Sun dates line up",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Data",
+  "name": "philadelphia: 10+ events",
+  "pass": true,
+  "info": 10
+ },
+ {
+  "cat": "Data",
+  "name": "philadelphia: 2+ free picks",
+  "pass": true,
+  "info": 3
+ },
+ {
+  "cat": "Data",
+  "name": "philadelphia: 4+ categories",
+  "pass": true,
+  "info": 6
+ },
+ {
+  "cat": "Data",
+  "name": "philadelphia: every event has map coordinates",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Data",
+  "name": "philadelphia: date-night picks",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Data",
+  "name": "san-antonio: Fri/Sat/Sun dates line up",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Data",
+  "name": "san-antonio: 10+ events",
+  "pass": true,
+  "info": 11
+ },
+ {
+  "cat": "Data",
+  "name": "san-antonio: 2+ free picks",
+  "pass": true,
+  "info": 6
+ },
+ {
+  "cat": "Data",
+  "name": "san-antonio: 4+ categories",
+  "pass": true,
+  "info": 4
+ },
+ {
+  "cat": "Data",
+  "name": "san-antonio: every event has map coordinates",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Data",
+  "name": "san-antonio: date-night picks",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Data",
+  "name": "san-diego: Fri/Sat/Sun dates line up",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Data",
+  "name": "san-diego: 10+ events",
+  "pass": true,
+  "info": 10
+ },
+ {
+  "cat": "Data",
+  "name": "san-diego: 2+ free picks",
+  "pass": true,
+  "info": 3
+ },
+ {
+  "cat": "Data",
+  "name": "san-diego: 4+ categories",
+  "pass": true,
+  "info": 4
+ },
+ {
+  "cat": "Data",
+  "name": "san-diego: every event has map coordinates",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Data",
+  "name": "san-diego: date-night picks",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Data",
+  "name": "dallas: Fri/Sat/Sun dates line up",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Data",
+  "name": "dallas: 10+ events",
+  "pass": true,
+  "info": 10
+ },
+ {
+  "cat": "Data",
+  "name": "dallas: 2+ free picks",
+  "pass": true,
+  "info": 3
+ },
+ {
+  "cat": "Data",
+  "name": "dallas: 4+ categories",
+  "pass": true,
+  "info": 4
+ },
+ {
+  "cat": "Data",
+  "name": "dallas: every event has map coordinates",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Data",
+  "name": "dallas: date-night picks",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Data",
+  "name": "austin: Fri/Sat/Sun dates line up",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Data",
+  "name": "austin: 10+ events",
+  "pass": true,
+  "info": 10
+ },
+ {
+  "cat": "Data",
+  "name": "austin: 2+ free picks",
+  "pass": true,
+  "info": 2
+ },
+ {
+  "cat": "Data",
+  "name": "austin: 4+ categories",
+  "pass": true,
+  "info": 4
+ },
+ {
+  "cat": "Data",
+  "name": "austin: every event has map coordinates",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Data",
+  "name": "austin: date-night picks",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Intro",
+  "name": "intro animation shows on open",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Intro",
+  "name": "app content loads behind the intro",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Intro",
+  "name": "intro gets out of the way within 2 seconds",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Intro",
+  "name": "intro respects reduced motion",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Intro",
+  "name": "intro plays once per visit (not on every reload)",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Intro",
+  "name": "tap skips the intro",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Runtime",
+  "name": "loads with events",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "A11y",
+  "name": "html lang set",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "A11y",
+  "name": "one h1 per view",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "A11y",
+  "name": "all buttons have names",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "A11y",
+  "name": "all links have names",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "A11y",
+  "name": "search has label",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "A11y",
+  "name": "result count is announced (aria-live)",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "A11y",
+  "name": "skip-to-content link",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "A11y",
+  "name": "reduced motion respected",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "A11y",
+  "name": "tap targets ≥ 44px tall",
+  "pass": true,
+  "info": "[]"
+ },
+ {
+  "cat": "Design",
+  "name": "light: body text contrast ≥ 7",
+  "pass": true,
+  "info": "13.9"
+ },
+ {
+  "cat": "Design",
+  "name": "light: muted text contrast ≥ 4.5",
+  "pass": true,
+  "info": "5.2"
+ },
+ {
+  "cat": "Design",
+  "name": "light: accent on card ≥ 4.5",
+  "pass": true,
+  "info": "5.4"
+ },
+ {
+  "cat": "Design",
+  "name": "light: pill text ≥ 4.5",
+  "pass": true,
+  "info": "4.6"
+ },
+ {
+  "cat": "Design",
+  "name": "light: selected chip ≥ 4.5",
+  "pass": true,
+  "info": "5.4"
+ },
+ {
+  "cat": "Design",
+  "name": "dark: body text contrast ≥ 7",
+  "pass": true,
+  "info": "15.9"
+ },
+ {
+  "cat": "Design",
+  "name": "dark: muted text contrast ≥ 4.5",
+  "pass": true,
+  "info": "7.7"
+ },
+ {
+  "cat": "Design",
+  "name": "dark: accent on card ≥ 4.5",
+  "pass": true,
+  "info": "6.3"
+ },
+ {
+  "cat": "Design",
+  "name": "dark: pill text ≥ 4.5",
+  "pass": true,
+  "info": "7.7"
+ },
+ {
+  "cat": "Design",
+  "name": "dark: selected chip ≥ 4.5",
+  "pass": true,
+  "info": "7.3"
+ },
+ {
+  "cat": "Layout",
+  "name": "320px: no sideways scroll",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Layout",
+  "name": "320px: header fits on one line",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Layout",
+  "name": "390px: no sideways scroll",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Layout",
+  "name": "390px: header fits on one line",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Layout",
+  "name": "768px: no sideways scroll",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Layout",
+  "name": "768px: header fits on one line",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Layout",
+  "name": "768px: uses wide screens (2+ columns or >600px content)",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Layout",
+  "name": "1280px: no sideways scroll",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Layout",
+  "name": "1280px: header fits on one line",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Layout",
+  "name": "1280px: uses wide screens (2+ columns or >600px content)",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Runtime",
+  "name": "every event opens in every city",
+  "pass": true,
+  "info": "117 opened"
+ },
+ {
+  "cat": "Runtime",
+  "name": "no JavaScript errors",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Runtime",
+  "name": "Free filter works",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Runtime",
+  "name": "empty search shows a friendly message",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Feature",
+  "name": "pick city from location",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Feature",
+  "name": "learns what you like (on-phone)",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Feature",
+  "name": "Date Night plans",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Feature",
+  "name": "report a problem with a listing",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Feature",
+  "name": "share link per event",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Feature",
+  "name": "add to calendar",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Feature",
+  "name": "\"Happening now / starts soon\" labels",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Feature",
+  "name": "sort by distance from you",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Feature",
+  "name": "skeleton while loading",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Feature",
+  "name": "pull fresh list on return (visibilitychange)",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Feature",
+  "name": "map view",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Feature",
+  "name": "weekend weather on day buttons",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Feature",
+  "name": "add all saved events to calendar",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Feature",
+  "name": "Wednesday reminder (notification or calendar)",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Feature",
+  "name": "Get featured form with business checks",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Feature",
+  "name": "affiliate link conversion",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "Feature",
+  "name": "sponsored dinner slot in date plans",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "SEO",
+  "name": "a page for every city",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "SEO",
+  "name": "city pages in sitemap",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "SEO",
+  "name": "share page for every event",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "SEO",
+  "name": "preview image per city",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "cat": "PWA",
+  "name": "3 home-screen shortcuts",
+  "pass": true,
+  "info": ""
+ }
+]
