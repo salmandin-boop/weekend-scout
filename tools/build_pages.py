@@ -89,14 +89,15 @@ def main():
         desc = f"{len(d['events'])} hand-checked things to do in {cname} this weekend, {w['label']}: concerts, games, markets, museums and family events. {free} are free."
         items = []
         body_days = []
+        feat = set([e['id'] for e in d['events'] if e.get('featured')][:3])  # max 3 Featured spots per city per weekend
         for day in DAYS:
             evs = [e for e in d['events'] if e['times'].get(day)]
             if not evs: continue
-            evs.sort(key=lambda e: (0 if e.get('featured') else 1, (e['times'][day][0].get('s') or '99:99')))
+            evs.sort(key=lambda e: (0 if e['id'] in feat else 1, (e['times'][day][0].get('s') or '99:99')))
             cards = []
             for e in evs:
                 share = f"/e/{c['id']}/{e['id']}/"
-                pills = (f'<span class="pill free">{esc(e["priceLabel"])}</span>' if e['price'] == 'free' else f'<span class="pill">{esc(e["priceLabel"])}</span>') + f'<span class="pill">{esc(CAT.get(e["cat"], e["cat"]))}</span>' + (f'<span class="pill">Sponsored</span>' if e.get('featured') else '')
+                pills = (f'<span class="pill free">{esc(e["priceLabel"])}</span>' if e['price'] == 'free' else f'<span class="pill">{esc(e["priceLabel"])}</span>') + f'<span class="pill">{esc(CAT.get(e["cat"], e["cat"]))}</span>' + (f'<span class="pill">Sponsored</span>' if e['id'] in feat else '')
                 cards.append(f'<a class="ev" href="{share}"><span class="t">{esc(DAYNAME[day][:3])} · {esc(when(e, day))}</span><span><h3>{esc(e["title"])}</h3><p>{esc(e["venue"])}</p>{pills}</span></a>')
             body_days.append(f'<h2>{DAYNAME[day]}, {pretty(w["days"][day], True)}</h2>' + ''.join(cards))
         for i, e in enumerate(d['events']):

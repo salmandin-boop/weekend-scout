@@ -40,7 +40,7 @@ Each event looks like this:
 
 - `s` is the start time and `e` the optional end time, in 24-hour format. `"s": ""` means "see venue for hours".
 - `good` lists what the event is good for: `date` (date night), `family` (family friendly), `friends` (a group outing) and `indoors`. Use any that fit. Events marked 18+ or 21+ are never shown as family friendly.
-- `featured: true` pins a paid listing to the top with a Featured badge.
+- `featured: true` pins a paid listing to the top with a Sponsored badge. Max 3 per city per weekend: only the first 3 marked in the file count, and their order rotates per visitor. Only show on the days the event runs (automatic).
 - `sponsored: true` marks the ticket link as an affiliate link.
 
 ## Adding a city
@@ -93,3 +93,8 @@ Android web visitors then see a "Get it on Google Play" badge, and people using 
 
 ## Holidays
 `HOLI` in index.html lists US holidays through 2027. The header shows a holiday-weekend note when one falls Thu–Mon of the listed weekend. Add 2028 dates before the end of 2027.
+
+## Featured listings and payments (v1.9)
+- No price is shown in the app. Venues ask through Get listed; you quote and send a Stripe Payment Link after approval.
+- Never put a Stripe payment link or price button inside the app's pages: the Play Store version must not take card payments (Google Play billing rules). Links go out by email only.
+- When the first paid Featured listing goes live, change Play Console → App content → Ads to "Yes".

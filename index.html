@@ -324,7 +324,7 @@ dialog.sheet[open]{animation:sheetUp .22s cubic-bezier(.2,.8,.2,1)}
     <div class="surprise"><button class="btn" type="button" data-surprise>🎲 Can't decide? Pick one for me</button></div>
     <div class="promo">
       <h3>Run a venue or event?</h3>
-      <p>Get listed here for free, or be featured at the top for $15 a weekend.</p>
+      <p>Get listed here for free, or ask about one of only 3 Featured spots in your city each weekend.</p>
       <button class="btn" type="button" data-go="about">How to get listed</button>
     </div>
   </section>
@@ -363,7 +363,7 @@ dialog.sheet[open]{animation:sheetUp .22s cubic-bezier(.2,.8,.2,1)}
       <h2>Run a venue or event?</h2>
       <p>Send us your event and we'll add it to the weekend list.</p>
       <div class="price-row"><span>Standard listing</span><strong>Free</strong></div>
-      <div class="price-row"><span>Featured: pinned to the top with a Sponsored label</span><strong>$15 / weekend</strong></div>
+      <div class="price-row"><span>Featured: one of only 3 spots at the top of your city's list, labeled Sponsored</span><strong>Rates on request</strong></div>
       <form class="form" id="feat-form" style="margin-top:8px">
         <div class="two"><label>Business name<input name="business" required autocomplete="organization"></label><label>Your name<input name="name" required autocomplete="name"></label></div>
         <div class="two"><label>Business email<input name="email" type="email" required autocomplete="email" placeholder="you@yourbusiness.com"></label><label>Business phone<input name="phone" type="tel" required autocomplete="tel"></label></div>
@@ -371,11 +371,11 @@ dialog.sheet[open]{animation:sheetUp .22s cubic-bezier(.2,.8,.2,1)}
         <div class="two"><label>Event name<input name="event" required></label><label>City<select name="city" id="feat-city"></select></label></div>
         <div class="two"><label>Date and time<input name="when" required placeholder="Sat Dec 5, 7 PM"></label><label>Price<input name="price" placeholder="Free, $20…"></label></div>
         <label>Official event or ticket page<input name="link" type="url" required placeholder="https://"></label>
-        <label>Listing<select name="plan"><option>Free listing</option><option>Featured ($15 / weekend)</option></select></label>
+        <label>Listing<select name="plan"><option>Free listing</option><option>Featured (send me rates)</option></select></label>
         <label class="check"><input type="checkbox" name="ok" required> I work for this business and I'm allowed to promote this event.</label>
         <button class="btn primary" type="submit">Send for review</button>
         <p style="font-size:.85rem">To keep Weekend Scout safe, we check every business before it goes live:</p>
-        <ol class="steps-mini"><li>It's registered with the state and listed on Google Maps at the same address.</li><li>We call back on its public phone number.</li><li>The event is on its official website or a major ticket seller.</li><li>Featured spots are paid by card in the business's name after approval.</li></ol>
+        <ol class="steps-mini"><li>It's registered with the state and listed on Google Maps at the same address.</li><li>We call back on its public phone number.</li><li>The event is on its official website or a major ticket seller.</li><li>Featured spots are limited to 3 per city each weekend, first approved, first booked. After approval we send a secure card payment link (Stripe) in the business's name. If a weekend is full, we offer the next open one.</li></ol>
       </form>
       <p style="margin-top:6px">Or email or text us the details:</p>
       <div class="contact"><code id="c-email">support@weekendscout.app</code><button class="btn" type="button" data-copy="c-email">Copy</button><a class="btn" href="mailto:support@weekendscout.app?subject=Event%20for%20Weekend%20Scout">Email</a></div>
@@ -411,7 +411,7 @@ dialog.sheet[open]{animation:sheetUp .22s cubic-bezier(.2,.8,.2,1)}
 
 <script>
 (() => {
-const APP_VERSION = '1.8.0';
+const APP_VERSION = '1.9.0';
 const SITE_URL = 'https://weekendscout.app/'; // the live address, so shared links point there
 const TZ0 = 'America/New_York';
 let TZ = TZ0; // switches to the chosen city's time zone
@@ -544,16 +544,27 @@ function matches(ev, day, cat, q, good = S.good){
   }
   return true;
 }
+/* Featured: max 3 per city per weekend, order rotated per visitor so each sponsor gets a fair share of the top slot */
+const FEAT_MAX = 3;
+const FEAT_SEED = (() => { try { let v = sessionStorage.getItem('ws-seed'); if (!v){ v = String(Math.floor(Math.random() * 1e9)); sessionStorage.setItem('ws-seed', v); } return v; } catch { return String(Math.floor(Math.random() * 1e9)); } })();
+function hashStr(str){ let h = 2166136261; for (let i = 0; i < str.length; i++){ h ^= str.charCodeAt(i); h = Math.imul(h, 16777619); } return h >>> 0; }
+let FEAT_CACHE = { data:null, ids:[] };
+function featIds(){
+  if (FEAT_CACHE.data !== DATA){ FEAT_CACHE = { data:DATA, ids:(DATA.events || []).filter(e => e.featured).slice(0, FEAT_MAX).map(e => e.id).sort((a,b) => hashStr(FEAT_SEED + a) - hashStr(FEAT_SEED + b)) }; }
+  return FEAT_CACHE.ids;
+}
+const isFeat = ev => !!ev.featured && featIds().includes(ev.id);
 function sortKey(ev, day){
   const ss = day === 'all' ? sessions(ev) : (ev.times[day] || []).map(s => ({ day, ...s }));
   const f = ss[0] || { day:'sun' };
   const ongoing = !f.s || (f.e && mins(f.e) - mins(f.s) >= 240); // museums, markets: open-hours listings go after timed shows
-  return (ev.featured ? 0 : 1e6) + (ongoing ? 5e5 : 0) + DAYS.indexOf(f.day) * 1e4 + mins(f.s);
+  if (isFeat(ev)) return featIds().indexOf(ev.id);
+  return 1e6 + (ongoing ? 5e5 : 0) + DAYS.indexOf(f.day) * 1e4 + mins(f.s);
 }
 const distOf = ev => (POS && typeof ev.lat === 'number') ? milesBetween(POS[0], POS[1], ev.lat, ev.lon) : null;
 const distTxt = ev => { const d = distOf(ev); return d === null ? '' : d < 0.1 ? 'Here' : (d < 10 ? d.toFixed(1) : Math.round(d)) + ' mi'; };
 function sorted(evs, day){
-  if (S.near && POS) return evs.slice().sort((a,b) => (b.featured ? 1 : 0) - (a.featured ? 1 : 0) || (distOf(a) ?? 1e9) - (distOf(b) ?? 1e9) || sortKey(a,day) - sortKey(b,day));
+  if (S.near && POS) return evs.slice().sort((a,b) => (isFeat(b) ? 1 : 0) - (isFeat(a) ? 1 : 0) || (isFeat(a) && isFeat(b) ? featIds().indexOf(a.id) - featIds().indexOf(b.id) : 0) || (distOf(a) ?? 1e9) - (distOf(b) ?? 1e9) || sortKey(a,day) - sortKey(b,day));
   return evs.slice().sort((a,b) => sortKey(a,day) - sortKey(b,day) || a.title.localeCompare(b.title));
 }
 
@@ -579,7 +590,7 @@ function whenHTML(ev, day){
 }
 function pills(ev){
   const p = [];
-  if (ev.featured) p.push('<span class="pill feat">Sponsored</span>');
+  if (isFeat(ev)) p.push('<span class="pill feat">Sponsored</span>');
   p.push(`<span class="pill${ev.price === 'free' ? ' free' : ''}">${esc(ev.priceLabel || (ev.price === 'free' ? 'Free' : 'Tickets'))}</span>`);
   p.push(`<span class="pill">${esc(CATLABEL[ev.cat] || ev.cat)}</span>`);
   if (ev.ages) p.push(`<span class="pill">${esc(ev.ages)}</span>`);
