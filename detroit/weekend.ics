@@ -1,0 +1,327 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Detroit
+X-WR-CALDESC:Hand-checked weekend picks in Detroit, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:detroit-pistons-vs-bucks-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T003000Z
+DTEND:20261128T023000Z
+SUMMARY:Pistons vs. Milwaukee Bucks
+LOCATION:Little Caesars Arena\, 2645 Woodward Ave\, Detroit\, MI 48201
+DESCRIPTION:The Pistons host the Bucks downtown the night after Thanksgivi
+ ng. Tickets. Details: https://weekendscout.app/e/detroit/pistons-vs-bucks/
+URL:https://weekendscout.app/e/detroit/pistons-vs-bucks/
+END:VEVENT
+BEGIN:VEVENT
+UID:detroit-red-wings-vs-predators-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:Red Wings vs. Nashville Predators
+LOCATION:Little Caesars Arena\, 2645 Woodward Ave\, Detroit\, MI 48201
+DESCRIPTION:Saturday night hockey as the Red Wings take on Nashville. Tick
+ ets. Details: https://weekendscout.app/e/detroit/red-wings-vs-predators/
+URL:https://weekendscout.app/e/detroit/red-wings-vs-predators/
+END:VEVENT
+BEGIN:VEVENT
+UID:detroit-pistons-vs-magic-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T230000Z
+DTEND:20261130T010000Z
+SUMMARY:Pistons vs. Orlando Magic
+LOCATION:Little Caesars Arena\, 2645 Woodward Ave\, Detroit\, MI 48201
+DESCRIPTION:An early Sunday evening tip-off against the Magic\, easy to fi
+ t in with kids. Tickets. Details: https://weekendscout.app/e/detroit/pisto
+ ns-vs-magic/
+URL:https://weekendscout.app/e/detroit/pistons-vs-magic/
+END:VEVENT
+BEGIN:VEVENT
+UID:detroit-nutcracker-grand-rapids-ballet-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:The Nutcracker with Grand Rapids Ballet
+LOCATION:Detroit Opera House\, 1526 Broadway St\, Detroit\, MI 48226
+DESCRIPTION:Grand Rapids Ballet dances the holiday classic with the Detroi
+ t Opera Orchestra playing live. Tickets. Details: https://weekendscout.app
+ /e/detroit/nutcracker-grand-rapids-ballet/
+URL:https://weekendscout.app/e/detroit/nutcracker-grand-rapids-ballet/
+END:VEVENT
+BEGIN:VEVENT
+UID:detroit-nutcracker-grand-rapids-ballet-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:The Nutcracker with Grand Rapids Ballet
+LOCATION:Detroit Opera House\, 1526 Broadway St\, Detroit\, MI 48226
+DESCRIPTION:Grand Rapids Ballet dances the holiday classic with the Detroi
+ t Opera Orchestra playing live. Tickets. Details: https://weekendscout.app
+ /e/detroit/nutcracker-grand-rapids-ballet/
+URL:https://weekendscout.app/e/detroit/nutcracker-grand-rapids-ballet/
+END:VEVENT
+BEGIN:VEVENT
+UID:detroit-great-gatsby-fisher-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T003000Z
+DTEND:20261128T023000Z
+SUMMARY:The Great Gatsby
+LOCATION:Fisher Theatre\, 3011 W Grand Blvd\, Detroit\, MI 48202
+DESCRIPTION:The Broadway musical of Fitzgerald's Jazz Age story wraps its 
+ Detroit run. Recommended for ages 10 and up. Tickets. Details: https://wee
+ kendscout.app/e/detroit/great-gatsby-fisher/
+URL:https://weekendscout.app/e/detroit/great-gatsby-fisher/
+END:VEVENT
+BEGIN:VEVENT
+UID:detroit-great-gatsby-fisher-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T190000Z
+DTEND:20261128T210000Z
+SUMMARY:The Great Gatsby
+LOCATION:Fisher Theatre\, 3011 W Grand Blvd\, Detroit\, MI 48202
+DESCRIPTION:The Broadway musical of Fitzgerald's Jazz Age story wraps its 
+ Detroit run. Recommended for ages 10 and up. Tickets. Details: https://wee
+ kendscout.app/e/detroit/great-gatsby-fisher/
+URL:https://weekendscout.app/e/detroit/great-gatsby-fisher/
+END:VEVENT
+BEGIN:VEVENT
+UID:detroit-great-gatsby-fisher-sat-1@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T003000Z
+DTEND:20261129T023000Z
+SUMMARY:The Great Gatsby
+LOCATION:Fisher Theatre\, 3011 W Grand Blvd\, Detroit\, MI 48202
+DESCRIPTION:The Broadway musical of Fitzgerald's Jazz Age story wraps its 
+ Detroit run. Recommended for ages 10 and up. Tickets. Details: https://wee
+ kendscout.app/e/detroit/great-gatsby-fisher/
+URL:https://weekendscout.app/e/detroit/great-gatsby-fisher/
+END:VEVENT
+BEGIN:VEVENT
+UID:detroit-great-gatsby-fisher-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T180000Z
+DTEND:20261129T200000Z
+SUMMARY:The Great Gatsby
+LOCATION:Fisher Theatre\, 3011 W Grand Blvd\, Detroit\, MI 48202
+DESCRIPTION:The Broadway musical of Fitzgerald's Jazz Age story wraps its 
+ Detroit run. Recommended for ages 10 and up. Tickets. Details: https://wee
+ kendscout.app/e/detroit/great-gatsby-fisher/
+URL:https://weekendscout.app/e/detroit/great-gatsby-fisher/
+END:VEVENT
+BEGIN:VEVENT
+UID:detroit-great-gatsby-fisher-sun-1@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T233000Z
+DTEND:20261130T013000Z
+SUMMARY:The Great Gatsby
+LOCATION:Fisher Theatre\, 3011 W Grand Blvd\, Detroit\, MI 48202
+DESCRIPTION:The Broadway musical of Fitzgerald's Jazz Age story wraps its 
+ Detroit run. Recommended for ages 10 and up. Tickets. Details: https://wee
+ kendscout.app/e/detroit/great-gatsby-fisher/
+URL:https://weekendscout.app/e/detroit/great-gatsby-fisher/
+END:VEVENT
+BEGIN:VEVENT
+UID:detroit-sabaton-fillmore-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Sabaton: Legends on Tour
+LOCATION:The Fillmore Detroit\, 2115 Woodward Ave\, Detroit\, MI 48201
+DESCRIPTION:The Swedish metal band brings its rescheduled tour to the Fill
+ more\, with Pop Evil and Wings of Steel. Tickets. Details: https://weekend
+ scout.app/e/detroit/sabaton-fillmore/
+URL:https://weekendscout.app/e/detroit/sabaton-fillmore/
+END:VEVENT
+BEGIN:VEVENT
+UID:detroit-mike-stanley-comedy-castle-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T001500Z
+DTEND:20261128T021500Z
+SUMMARY:Mike Stanley
+LOCATION:Mark Ridley's Comedy Castle\, 310 S Troy St\, Royal Oak\, MI 4806
+ 7
+DESCRIPTION:Stand-up from Mike Stanley at Royal Oak's long-running comedy 
+ club. Two-item minimum per person. Tickets. Details: https://weekendscout.
+ app/e/detroit/mike-stanley-comedy-castle/
+URL:https://weekendscout.app/e/detroit/mike-stanley-comedy-castle/
+END:VEVENT
+BEGIN:VEVENT
+UID:detroit-mike-stanley-comedy-castle-fri-1@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T024500Z
+DTEND:20261128T044500Z
+SUMMARY:Mike Stanley
+LOCATION:Mark Ridley's Comedy Castle\, 310 S Troy St\, Royal Oak\, MI 4806
+ 7
+DESCRIPTION:Stand-up from Mike Stanley at Royal Oak's long-running comedy 
+ club. Two-item minimum per person. Tickets. Details: https://weekendscout.
+ app/e/detroit/mike-stanley-comedy-castle/
+URL:https://weekendscout.app/e/detroit/mike-stanley-comedy-castle/
+END:VEVENT
+BEGIN:VEVENT
+UID:detroit-mike-stanley-comedy-castle-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:Mike Stanley
+LOCATION:Mark Ridley's Comedy Castle\, 310 S Troy St\, Royal Oak\, MI 4806
+ 7
+DESCRIPTION:Stand-up from Mike Stanley at Royal Oak's long-running comedy 
+ club. Two-item minimum per person. Tickets. Details: https://weekendscout.
+ app/e/detroit/mike-stanley-comedy-castle/
+URL:https://weekendscout.app/e/detroit/mike-stanley-comedy-castle/
+END:VEVENT
+BEGIN:VEVENT
+UID:detroit-mike-stanley-comedy-castle-sat-1@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T023000Z
+DTEND:20261129T043000Z
+SUMMARY:Mike Stanley
+LOCATION:Mark Ridley's Comedy Castle\, 310 S Troy St\, Royal Oak\, MI 4806
+ 7
+DESCRIPTION:Stand-up from Mike Stanley at Royal Oak's long-running comedy 
+ club. Two-item minimum per person. Tickets. Details: https://weekendscout.
+ app/e/detroit/mike-stanley-comedy-castle/
+URL:https://weekendscout.app/e/detroit/mike-stanley-comedy-castle/
+END:VEVENT
+BEGIN:VEVENT
+UID:detroit-wild-lights-detroit-zoo-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261127T220000Z
+DTEND:20261128T033000Z
+SUMMARY:Wild Lights at the Detroit Zoo
+LOCATION:Detroit Zoo\, 8450 W 10 Mile Rd\, Royal Oak\, MI 48067
+DESCRIPTION:An evening walk through the zoo lit up with holiday light disp
+ lays. Parking is $8\; prices vary by date. From $17. Details: https://week
+ endscout.app/e/detroit/wild-lights-detroit-zoo/
+URL:https://weekendscout.app/e/detroit/wild-lights-detroit-zoo/
+END:VEVENT
+BEGIN:VEVENT
+UID:detroit-wild-lights-detroit-zoo-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T220000Z
+DTEND:20261129T033000Z
+SUMMARY:Wild Lights at the Detroit Zoo
+LOCATION:Detroit Zoo\, 8450 W 10 Mile Rd\, Royal Oak\, MI 48067
+DESCRIPTION:An evening walk through the zoo lit up with holiday light disp
+ lays. Parking is $8\; prices vary by date. From $17. Details: https://week
+ endscout.app/e/detroit/wild-lights-detroit-zoo/
+URL:https://weekendscout.app/e/detroit/wild-lights-detroit-zoo/
+END:VEVENT
+BEGIN:VEVENT
+UID:detroit-wild-lights-detroit-zoo-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T220000Z
+DTEND:20261130T020000Z
+SUMMARY:Wild Lights at the Detroit Zoo
+LOCATION:Detroit Zoo\, 8450 W 10 Mile Rd\, Royal Oak\, MI 48067
+DESCRIPTION:An evening walk through the zoo lit up with holiday light disp
+ lays. Parking is $8\; prices vary by date. From $17. Details: https://week
+ endscout.app/e/detroit/wild-lights-detroit-zoo/
+URL:https://weekendscout.app/e/detroit/wild-lights-detroit-zoo/
+END:VEVENT
+BEGIN:VEVENT
+UID:detroit-downtown-detroit-markets-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261127T160000Z
+DTEND:20261128T030000Z
+SUMMARY:Downtown Detroit Markets
+LOCATION:Cadillac Square\, 60 Cadillac Square\, Detroit\, MI 48226
+DESCRIPTION:Holiday market cabins with local small businesses next to Camp
+ us Martius\, plus the heated Cadillac Lodge for drinks and snacks. Free. D
+ etails: https://weekendscout.app/e/detroit/downtown-detroit-markets/
+URL:https://weekendscout.app/e/detroit/downtown-detroit-markets/
+END:VEVENT
+BEGIN:VEVENT
+UID:detroit-downtown-detroit-markets-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T160000Z
+DTEND:20261129T030000Z
+SUMMARY:Downtown Detroit Markets
+LOCATION:Cadillac Square\, 60 Cadillac Square\, Detroit\, MI 48226
+DESCRIPTION:Holiday market cabins with local small businesses next to Camp
+ us Martius\, plus the heated Cadillac Lodge for drinks and snacks. Free. D
+ etails: https://weekendscout.app/e/detroit/downtown-detroit-markets/
+URL:https://weekendscout.app/e/detroit/downtown-detroit-markets/
+END:VEVENT
+BEGIN:VEVENT
+UID:detroit-downtown-detroit-markets-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T160000Z
+DTEND:20261130T000000Z
+SUMMARY:Downtown Detroit Markets
+LOCATION:Cadillac Square\, 60 Cadillac Square\, Detroit\, MI 48226
+DESCRIPTION:Holiday market cabins with local small businesses next to Camp
+ us Martius\, plus the heated Cadillac Lodge for drinks and snacks. Free. D
+ etails: https://weekendscout.app/e/detroit/downtown-detroit-markets/
+URL:https://weekendscout.app/e/detroit/downtown-detroit-markets/
+END:VEVENT
+BEGIN:VEVENT
+UID:detroit-1001-winter-wonders-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T170000Z
+DTEND:20261129T010000Z
+SUMMARY:1001 Winter Wonders
+LOCATION:1001 Woodward\, 1001 Woodward Ave\, Detroit\, MI 48226
+DESCRIPTION:Free holiday fun downtown with photos with Santa and letter wr
+ iting. Free. Details: https://weekendscout.app/e/detroit/1001-winter-wonde
+ rs/
+URL:https://weekendscout.app/e/detroit/1001-winter-wonders/
+END:VEVENT
+BEGIN:VEVENT
+UID:detroit-1001-winter-wonders-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T170000Z
+DTEND:20261129T230000Z
+SUMMARY:1001 Winter Wonders
+LOCATION:1001 Woodward\, 1001 Woodward Ave\, Detroit\, MI 48226
+DESCRIPTION:Free holiday fun downtown with photos with Santa and letter wr
+ iting. Free. Details: https://weekendscout.app/e/detroit/1001-winter-wonde
+ rs/
+URL:https://weekendscout.app/e/detroit/1001-winter-wonders/
+END:VEVENT
+BEGIN:VEVENT
+UID:detroit-rink-campus-martius-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261127T160000Z
+DTEND:20261127T180000Z
+SUMMARY:The Rink at Campus Martius Park
+LOCATION:Campus Martius Park\, 800 Woodward Ave\, Detroit\, MI 48226
+DESCRIPTION:Downtown's outdoor skating rink\, open late on weekends. Adult
+ s $14\, kids and seniors $10\, skate rental $5. $14. Details: https://week
+ endscout.app/e/detroit/rink-campus-martius/
+URL:https://weekendscout.app/e/detroit/rink-campus-martius/
+END:VEVENT
+BEGIN:VEVENT
+UID:detroit-rink-campus-martius-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T160000Z
+DTEND:20261128T180000Z
+SUMMARY:The Rink at Campus Martius Park
+LOCATION:Campus Martius Park\, 800 Woodward Ave\, Detroit\, MI 48226
+DESCRIPTION:Downtown's outdoor skating rink\, open late on weekends. Adult
+ s $14\, kids and seniors $10\, skate rental $5. $14. Details: https://week
+ endscout.app/e/detroit/rink-campus-martius/
+URL:https://weekendscout.app/e/detroit/rink-campus-martius/
+END:VEVENT
+BEGIN:VEVENT
+UID:detroit-rink-campus-martius-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T160000Z
+DTEND:20261130T030000Z
+SUMMARY:The Rink at Campus Martius Park
+LOCATION:Campus Martius Park\, 800 Woodward Ave\, Detroit\, MI 48226
+DESCRIPTION:Downtown's outdoor skating rink\, open late on weekends. Adult
+ s $14\, kids and seniors $10\, skate rental $5. $14. Details: https://week
+ endscout.app/e/detroit/rink-campus-martius/
+URL:https://weekendscout.app/e/detroit/rink-campus-martius/
+END:VEVENT
+END:VCALENDAR

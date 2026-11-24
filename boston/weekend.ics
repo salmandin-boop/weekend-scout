@@ -1,0 +1,182 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Boston
+X-WR-CALDESC:Hand-checked weekend picks in Boston, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:boston-bruins-maple-leafs-black-friday-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261127T180000Z
+DTEND:20261127T200000Z
+SUMMARY:Bruins vs. Maple Leafs
+LOCATION:TD Garden\, 100 Legends Way\, Boston\, MA 02114
+DESCRIPTION:The Bruins' annual Black Friday matinee\, this year against ri
+ val Toronto. Tickets. Details: https://weekendscout.app/e/boston/bruins-ma
+ ple-leafs-black-friday/
+URL:https://weekendscout.app/e/boston/bruins-maple-leafs-black-friday/
+END:VEVENT
+BEGIN:VEVENT
+UID:boston-celtics-hawks-nba-cup-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T010000Z
+DTEND:20261128T030000Z
+SUMMARY:Celtics vs. Hawks (NBA Cup)
+LOCATION:TD Garden\, 100 Legends Way\, Boston\, MA 02114
+DESCRIPTION:The Celtics host Atlanta in an Emirates NBA Cup group-stage ga
+ me on Friday night. Tickets. Details: https://weekendscout.app/e/boston/ce
+ ltics-hawks-nba-cup/
+URL:https://weekendscout.app/e/boston/celtics-hawks-nba-cup/
+END:VEVENT
+BEGIN:VEVENT
+UID:boston-boston-ballet-nutcracker-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Boston Ballet: The Nutcracker
+LOCATION:Citizens Bank Opera House\, 539 Washington St\, Boston\, MA 02111
+DESCRIPTION:Boston Ballet's holiday classic opens its run this weekend and
+  plays through Dec 31. About two hours with one intermission. Tickets. Det
+ ails: https://weekendscout.app/e/boston/boston-ballet-nutcracker/
+URL:https://weekendscout.app/e/boston/boston-ballet-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:boston-boston-ballet-nutcracker-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Boston Ballet: The Nutcracker
+LOCATION:Citizens Bank Opera House\, 539 Washington St\, Boston\, MA 02111
+DESCRIPTION:Boston Ballet's holiday classic opens its run this weekend and
+  plays through Dec 31. About two hours with one intermission. Tickets. Det
+ ails: https://weekendscout.app/e/boston/boston-ballet-nutcracker/
+URL:https://weekendscout.app/e/boston/boston-ballet-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:boston-boston-ballet-nutcracker-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Boston Ballet: The Nutcracker
+LOCATION:Citizens Bank Opera House\, 539 Washington St\, Boston\, MA 02111
+DESCRIPTION:Boston Ballet's holiday classic opens its run this weekend and
+  plays through Dec 31. About two hours with one intermission. Tickets. Det
+ ails: https://weekendscout.app/e/boston/boston-ballet-nutcracker/
+URL:https://weekendscout.app/e/boston/boston-ballet-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:boston-peter-wolf-shubert-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:Peter Wolf and the Midnight Travelers
+LOCATION:Shubert Theatre (Boch Center)\, 270 Tremont St\, Boston\, MA 0211
+ 6
+DESCRIPTION:The former J. Geils Band frontman plays a hometown show with h
+ is band the Midnight Travelers. From $59. Details: https://weekendscout.ap
+ p/e/boston/peter-wolf-shubert/
+URL:https://weekendscout.app/e/boston/peter-wolf-shubert/
+END:VEVENT
+BEGIN:VEVENT
+UID:boston-jinkx-dela-holiday-show-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:The Jinkx & DeLa Holiday Show
+LOCATION:Wang Theatre (Boch Center)\, 270 Tremont St\, Boston\, MA 02116
+DESCRIPTION:Drag stars Jinkx Monsoon and BenDeLaCreme bring their campy ho
+ liday comedy show\, with new songs and big costumes. From $40. Details: ht
+ tps://weekendscout.app/e/boston/jinkx-dela-holiday-show/
+URL:https://weekendscout.app/e/boston/jinkx-dela-holiday-show/
+END:VEVENT
+BEGIN:VEVENT
+UID:boston-martins-park-ship-lighting-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T220000Z
+DTEND:20261128T230000Z
+SUMMARY:Holiday Ship Lighting at Martin's Park
+LOCATION:Martin's Park\, 64 Sleeper St\, Boston\, MA 02210
+DESCRIPTION:The park's wooden play ship lights up in blue and white\, Sant
+ a arrives by boat\, and there's holiday music\, cocoa and crafts. Free. De
+ tails: https://weekendscout.app/e/boston/martins-park-ship-lighting/
+URL:https://weekendscout.app/e/boston/martins-park-ship-lighting/
+END:VEVENT
+BEGIN:VEVENT
+UID:boston-snowport-holiday-market-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261127T160000Z
+DTEND:20261128T020000Z
+SUMMARY:Snowport Holiday Market
+LOCATION:Snowport\, 100 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:The Seaport's big holiday market with local vendors\, food and
+  drinks. Free entry\; optional timed-entry passes on weekends. Free. Detai
+ ls: https://weekendscout.app/e/boston/snowport-holiday-market/
+URL:https://weekendscout.app/e/boston/snowport-holiday-market/
+END:VEVENT
+BEGIN:VEVENT
+UID:boston-snowport-holiday-market-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T150000Z
+DTEND:20261129T020000Z
+SUMMARY:Snowport Holiday Market
+LOCATION:Snowport\, 100 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:The Seaport's big holiday market with local vendors\, food and
+  drinks. Free entry\; optional timed-entry passes on weekends. Free. Detai
+ ls: https://weekendscout.app/e/boston/snowport-holiday-market/
+URL:https://weekendscout.app/e/boston/snowport-holiday-market/
+END:VEVENT
+BEGIN:VEVENT
+UID:boston-snowport-holiday-market-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T160000Z
+DTEND:20261130T010000Z
+SUMMARY:Snowport Holiday Market
+LOCATION:Snowport\, 100 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:The Seaport's big holiday market with local vendors\, food and
+  drinks. Free entry\; optional timed-entry passes on weekends. Free. Detai
+ ls: https://weekendscout.app/e/boston/snowport-holiday-market/
+URL:https://weekendscout.app/e/boston/snowport-holiday-market/
+END:VEVENT
+BEGIN:VEVENT
+UID:boston-zoolights-stone-zoo-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261127T210000Z
+DTEND:20261128T023000Z
+SUMMARY:ZooLights at Stone Zoo
+LOCATION:Stone Zoo\, 149 Pond St\, Stoneham\, MA 02180
+DESCRIPTION:Evening walk through the zoo lit up for the holidays. Buy onli
+ ne ahead for the best price\; last entry 8:30 pm. Tickets. Details: https:
+ //weekendscout.app/e/boston/zoolights-stone-zoo/
+URL:https://weekendscout.app/e/boston/zoolights-stone-zoo/
+END:VEVENT
+BEGIN:VEVENT
+UID:boston-zoolights-stone-zoo-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T210000Z
+DTEND:20261129T023000Z
+SUMMARY:ZooLights at Stone Zoo
+LOCATION:Stone Zoo\, 149 Pond St\, Stoneham\, MA 02180
+DESCRIPTION:Evening walk through the zoo lit up for the holidays. Buy onli
+ ne ahead for the best price\; last entry 8:30 pm. Tickets. Details: https:
+ //weekendscout.app/e/boston/zoolights-stone-zoo/
+URL:https://weekendscout.app/e/boston/zoolights-stone-zoo/
+END:VEVENT
+BEGIN:VEVENT
+UID:boston-zoolights-stone-zoo-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T210000Z
+DTEND:20261130T023000Z
+SUMMARY:ZooLights at Stone Zoo
+LOCATION:Stone Zoo\, 149 Pond St\, Stoneham\, MA 02180
+DESCRIPTION:Evening walk through the zoo lit up for the holidays. Buy onli
+ ne ahead for the best price\; last entry 8:30 pm. Tickets. Details: https:
+ //weekendscout.app/e/boston/zoolights-stone-zoo/
+URL:https://weekendscout.app/e/boston/zoolights-stone-zoo/
+END:VEVENT
+END:VCALENDAR

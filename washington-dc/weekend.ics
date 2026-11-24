@@ -1,0 +1,295 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Washington
+X-WR-CALDESC:Hand-checked weekend picks in Washington, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:washington-dc-zoolights-national-zoo-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261127T220000Z
+DTEND:20261128T020000Z
+SUMMARY:ZooLights
+LOCATION:Smithsonian's National Zoo\, 3001 Connecticut Ave NW\, Washington
+ \, DC 20008
+DESCRIPTION:The National Zoo's holiday light festival\, with glowing anima
+ l displays along the paths. Tickets needed for ages 3 and up. $10. Details
+ : https://weekendscout.app/e/washington-dc/zoolights-national-zoo/
+URL:https://weekendscout.app/e/washington-dc/zoolights-national-zoo/
+END:VEVENT
+BEGIN:VEVENT
+UID:washington-dc-zoolights-national-zoo-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T220000Z
+DTEND:20261129T020000Z
+SUMMARY:ZooLights
+LOCATION:Smithsonian's National Zoo\, 3001 Connecticut Ave NW\, Washington
+ \, DC 20008
+DESCRIPTION:The National Zoo's holiday light festival\, with glowing anima
+ l displays along the paths. Tickets needed for ages 3 and up. $10. Details
+ : https://weekendscout.app/e/washington-dc/zoolights-national-zoo/
+URL:https://weekendscout.app/e/washington-dc/zoolights-national-zoo/
+END:VEVENT
+BEGIN:VEVENT
+UID:washington-dc-zoolights-national-zoo-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T220000Z
+DTEND:20261130T010000Z
+SUMMARY:ZooLights
+LOCATION:Smithsonian's National Zoo\, 3001 Connecticut Ave NW\, Washington
+ \, DC 20008
+DESCRIPTION:The National Zoo's holiday light festival\, with glowing anima
+ l displays along the paths. Tickets needed for ages 3 and up. $10. Details
+ : https://weekendscout.app/e/washington-dc/zoolights-national-zoo/
+URL:https://weekendscout.app/e/washington-dc/zoolights-national-zoo/
+END:VEVENT
+BEGIN:VEVENT
+UID:washington-dc-downtowndc-holiday-market-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261127T160000Z
+DTEND:20261128T020000Z
+SUMMARY:DowntownDC Holiday Market
+LOCATION:F Street NW (7th to 9th Sts)\, F St NW between 7th & 9th Sts\, Wa
+ shington\, DC 20004
+DESCRIPTION:Open-air holiday market in Penn Quarter with local makers\, fo
+ od vendors and live music on weekends. Free. Details: https://weekendscout
+ .app/e/washington-dc/downtowndc-holiday-market/
+URL:https://weekendscout.app/e/washington-dc/downtowndc-holiday-market/
+END:VEVENT
+BEGIN:VEVENT
+UID:washington-dc-downtowndc-holiday-market-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T160000Z
+DTEND:20261129T020000Z
+SUMMARY:DowntownDC Holiday Market
+LOCATION:F Street NW (7th to 9th Sts)\, F St NW between 7th & 9th Sts\, Wa
+ shington\, DC 20004
+DESCRIPTION:Open-air holiday market in Penn Quarter with local makers\, fo
+ od vendors and live music on weekends. Free. Details: https://weekendscout
+ .app/e/washington-dc/downtowndc-holiday-market/
+URL:https://weekendscout.app/e/washington-dc/downtowndc-holiday-market/
+END:VEVENT
+BEGIN:VEVENT
+UID:washington-dc-downtowndc-holiday-market-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T160000Z
+DTEND:20261130T010000Z
+SUMMARY:DowntownDC Holiday Market
+LOCATION:F Street NW (7th to 9th Sts)\, F St NW between 7th & 9th Sts\, Wa
+ shington\, DC 20004
+DESCRIPTION:Open-air holiday market in Penn Quarter with local makers\, fo
+ od vendors and live music on weekends. Free. Details: https://weekendscout
+ .app/e/washington-dc/downtowndc-holiday-market/
+URL:https://weekendscout.app/e/washington-dc/downtowndc-holiday-market/
+END:VEVENT
+BEGIN:VEVENT
+UID:washington-dc-usbg-seasons-greenings-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261127T150000Z
+DTEND:20261127T220000Z
+SUMMARY:Season's Greenings: National Parks and Historic Places
+LOCATION:U.S. Botanic Garden\, 100 Maryland Ave SW\, Washington\, DC 20001
+DESCRIPTION:The Botanic Garden's holiday show with poinsettias\, plant-mad
+ e landmark models and a model train display. No tickets needed. Free. Deta
+ ils: https://weekendscout.app/e/washington-dc/usbg-seasons-greenings/
+URL:https://weekendscout.app/e/washington-dc/usbg-seasons-greenings/
+END:VEVENT
+BEGIN:VEVENT
+UID:washington-dc-usbg-seasons-greenings-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T150000Z
+DTEND:20261128T220000Z
+SUMMARY:Season's Greenings: National Parks and Historic Places
+LOCATION:U.S. Botanic Garden\, 100 Maryland Ave SW\, Washington\, DC 20001
+DESCRIPTION:The Botanic Garden's holiday show with poinsettias\, plant-mad
+ e landmark models and a model train display. No tickets needed. Free. Deta
+ ils: https://weekendscout.app/e/washington-dc/usbg-seasons-greenings/
+URL:https://weekendscout.app/e/washington-dc/usbg-seasons-greenings/
+END:VEVENT
+BEGIN:VEVENT
+UID:washington-dc-usbg-seasons-greenings-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T150000Z
+DTEND:20261129T220000Z
+SUMMARY:Season's Greenings: National Parks and Historic Places
+LOCATION:U.S. Botanic Garden\, 100 Maryland Ave SW\, Washington\, DC 20001
+DESCRIPTION:The Botanic Garden's holiday show with poinsettias\, plant-mad
+ e landmark models and a model train display. No tickets needed. Free. Deta
+ ils: https://weekendscout.app/e/washington-dc/usbg-seasons-greenings/
+URL:https://weekendscout.app/e/washington-dc/usbg-seasons-greenings/
+END:VEVENT
+BEGIN:VEVENT
+UID:washington-dc-fords-christmas-carol-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:A Christmas Carol
+LOCATION:Ford's Theatre\, 511 10th St NW\, Washington\, DC 20004
+DESCRIPTION:Ford's Theatre's annual staging of the Dickens classic\, recom
+ mended for ages 5 and up. About two hours with one intermission. Tickets. 
+ Details: https://weekendscout.app/e/washington-dc/fords-christmas-carol/
+URL:https://weekendscout.app/e/washington-dc/fords-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:washington-dc-fords-christmas-carol-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:A Christmas Carol
+LOCATION:Ford's Theatre\, 511 10th St NW\, Washington\, DC 20004
+DESCRIPTION:Ford's Theatre's annual staging of the Dickens classic\, recom
+ mended for ages 5 and up. About two hours with one intermission. Tickets. 
+ Details: https://weekendscout.app/e/washington-dc/fords-christmas-carol/
+URL:https://weekendscout.app/e/washington-dc/fords-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:washington-dc-fords-christmas-carol-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:A Christmas Carol
+LOCATION:Ford's Theatre\, 511 10th St NW\, Washington\, DC 20004
+DESCRIPTION:Ford's Theatre's annual staging of the Dickens classic\, recom
+ mended for ages 5 and up. About two hours with one intermission. Tickets. 
+ Details: https://weekendscout.app/e/washington-dc/fords-christmas-carol/
+URL:https://weekendscout.app/e/washington-dc/fords-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:washington-dc-washington-ballet-nutcracker-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:The Washington Ballet's The Nutcracker
+LOCATION:Warner Theatre\, 513 13th St NW\, Washington\, DC 20004
+DESCRIPTION:The Washington Ballet's holiday Nutcracker opens its run at th
+ e Warner Theatre. About two hours. Tickets. Details: https://weekendscout.
+ app/e/washington-dc/washington-ballet-nutcracker/
+URL:https://weekendscout.app/e/washington-dc/washington-ballet-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:washington-dc-washington-ballet-nutcracker-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T180000Z
+DTEND:20261129T200000Z
+SUMMARY:The Washington Ballet's The Nutcracker
+LOCATION:Warner Theatre\, 513 13th St NW\, Washington\, DC 20004
+DESCRIPTION:The Washington Ballet's holiday Nutcracker opens its run at th
+ e Warner Theatre. About two hours. Tickets. Details: https://weekendscout.
+ app/e/washington-dc/washington-ballet-nutcracker/
+URL:https://weekendscout.app/e/washington-dc/washington-ballet-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:washington-dc-washington-ballet-nutcracker-sun-1@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T230000Z
+DTEND:20261130T010000Z
+SUMMARY:The Washington Ballet's The Nutcracker
+LOCATION:Warner Theatre\, 513 13th St NW\, Washington\, DC 20004
+DESCRIPTION:The Washington Ballet's holiday Nutcracker opens its run at th
+ e Warner Theatre. About two hours. Tickets. Details: https://weekendscout.
+ app/e/washington-dc/washington-ballet-nutcracker/
+URL:https://weekendscout.app/e/washington-dc/washington-ballet-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:washington-dc-capitals-panthers-black-friday-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261127T200000Z
+DTEND:20261127T220000Z
+SUMMARY:Capitals vs. Florida Panthers
+LOCATION:Capital One Arena\, 601 F St NW\, Washington\, DC 20004
+DESCRIPTION:The Caps host the Panthers in an afternoon Black Friday game d
+ owntown. Check ticket prices. Details: https://weekendscout.app/e/washingt
+ on-dc/capitals-panthers-black-friday/
+URL:https://weekendscout.app/e/washington-dc/capitals-panthers-black-friday/
+END:VEVENT
+BEGIN:VEVENT
+UID:washington-dc-wizards-magic-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T220000Z
+DTEND:20261129T000000Z
+SUMMARY:Wizards vs. Orlando Magic
+LOCATION:Capital One Arena\, 601 F St NW\, Washington\, DC 20004
+DESCRIPTION:The Wizards take on the Orlando Magic in a Saturday evening ho
+ me game. Check ticket prices. Details: https://weekendscout.app/e/washingt
+ on-dc/wizards-magic/
+URL:https://weekendscout.app/e/washington-dc/wizards-magic/
+END:VEVENT
+BEGIN:VEVENT
+UID:washington-dc-victoria-monet-anthem-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T010000Z
+DTEND:20261128T030000Z
+SUMMARY:Victoria Monét: Frequency of Love Tour
+LOCATION:The Anthem\, 901 Wharf St SW\, Washington\, DC 20024
+DESCRIPTION:The Grammy-winning R&B singer brings her Frequency of Love Tou
+ r to the Wharf. Tickets. Details: https://weekendscout.app/e/washington-dc
+ /victoria-monet-anthem/
+URL:https://weekendscout.app/e/washington-dc/victoria-monet-anthem/
+END:VEVENT
+BEGIN:VEVENT
+UID:washington-dc-dc-improv-standup-showcase-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T000000Z
+DTEND:20261128T020000Z
+SUMMARY:Stand-Up Showcase
+LOCATION:DC Improv\, 1140 Connecticut Ave NW\, Washington\, DC 20036
+DESCRIPTION:A rotating lineup of stand-up comics in the DC Improv's Lounge
+  Showroom. Shows run about 90 minutes. Check ticket prices. Details: https
+ ://weekendscout.app/e/washington-dc/dc-improv-standup-showcase/
+URL:https://weekendscout.app/e/washington-dc/dc-improv-standup-showcase/
+END:VEVENT
+BEGIN:VEVENT
+UID:washington-dc-dc-improv-standup-showcase-fri-1@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T023000Z
+DTEND:20261128T043000Z
+SUMMARY:Stand-Up Showcase
+LOCATION:DC Improv\, 1140 Connecticut Ave NW\, Washington\, DC 20036
+DESCRIPTION:A rotating lineup of stand-up comics in the DC Improv's Lounge
+  Showroom. Shows run about 90 minutes. Check ticket prices. Details: https
+ ://weekendscout.app/e/washington-dc/dc-improv-standup-showcase/
+URL:https://weekendscout.app/e/washington-dc/dc-improv-standup-showcase/
+END:VEVENT
+BEGIN:VEVENT
+UID:washington-dc-dc-improv-standup-showcase-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:Stand-Up Showcase
+LOCATION:DC Improv\, 1140 Connecticut Ave NW\, Washington\, DC 20036
+DESCRIPTION:A rotating lineup of stand-up comics in the DC Improv's Lounge
+  Showroom. Shows run about 90 minutes. Check ticket prices. Details: https
+ ://weekendscout.app/e/washington-dc/dc-improv-standup-showcase/
+URL:https://weekendscout.app/e/washington-dc/dc-improv-standup-showcase/
+END:VEVENT
+BEGIN:VEVENT
+UID:washington-dc-dc-improv-standup-showcase-sat-1@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T023000Z
+DTEND:20261129T043000Z
+SUMMARY:Stand-Up Showcase
+LOCATION:DC Improv\, 1140 Connecticut Ave NW\, Washington\, DC 20036
+DESCRIPTION:A rotating lineup of stand-up comics in the DC Improv's Lounge
+  Showroom. Shows run about 90 minutes. Check ticket prices. Details: https
+ ://weekendscout.app/e/washington-dc/dc-improv-standup-showcase/
+URL:https://weekendscout.app/e/washington-dc/dc-improv-standup-showcase/
+END:VEVENT
+BEGIN:VEVENT
+UID:washington-dc-dc-improv-standup-showcase-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261130T000000Z
+DTEND:20261130T020000Z
+SUMMARY:Stand-Up Showcase
+LOCATION:DC Improv\, 1140 Connecticut Ave NW\, Washington\, DC 20036
+DESCRIPTION:A rotating lineup of stand-up comics in the DC Improv's Lounge
+  Showroom. Shows run about 90 minutes. Check ticket prices. Details: https
+ ://weekendscout.app/e/washington-dc/dc-improv-standup-showcase/
+URL:https://weekendscout.app/e/washington-dc/dc-improv-standup-showcase/
+END:VEVENT
+END:VCALENDAR

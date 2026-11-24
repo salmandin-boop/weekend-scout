@@ -1,0 +1,137 @@
+{
+ "city": "washington-dc",
+ "updated": "2026-11-24",
+ "source": "Picked from Destination DC (washington.org) holiday, Penn Quarter and drinks guides and their listings (Nov 2026); coordinates from those listings and Wikipedia",
+ "spots": [
+  {
+   "name": "Jaleo",
+   "kind": "dinner",
+   "cuisine": "Spanish",
+   "area": "Penn Quarter",
+   "lat": 38.896,
+   "lon": -77.02195
+  },
+  {
+   "name": "Zaytinya",
+   "kind": "dinner",
+   "cuisine": "Mediterranean",
+   "area": "Penn Quarter",
+   "lat": 38.89915,
+   "lon": -77.02381
+  },
+  {
+   "name": "Truluck's Ocean's Finest Seafood & Crab",
+   "kind": "dinner",
+   "cuisine": "Seafood",
+   "area": "Mount Vernon Square",
+   "lat": 38.90186,
+   "lon": -77.02221
+  },
+  {
+   "name": "Dirty Habit",
+   "kind": "dinner",
+   "cuisine": "Global",
+   "area": "Penn Quarter",
+   "lat": 38.89672,
+   "lon": -77.02247
+  },
+  {
+   "name": "Carmine's",
+   "kind": "lunch",
+   "cuisine": "Italian",
+   "area": "Penn Quarter",
+   "lat": 38.89557,
+   "lon": -77.02171
+  },
+  {
+   "name": "Clyde's of Gallery Place",
+   "kind": "lunch",
+   "cuisine": "American",
+   "area": "Chinatown",
+   "lat": 38.89906,
+   "lon": -77.02179
+  },
+  {
+   "name": "Bar Pendry",
+   "kind": "drinks",
+   "cuisine": "Cocktails",
+   "area": "The Wharf",
+   "lat": 38.87757,
+   "lon": -77.02241
+  },
+  {
+   "name": "Colada Shop",
+   "kind": "drinks",
+   "cuisine": "Cuban cocktails",
+   "area": "U Street",
+   "lat": 38.91579,
+   "lon": -77.03239
+  },
+  {
+   "name": "Smithsonian's National Zoo",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Woodley Park",
+   "lat": 38.9311,
+   "lon": -77.0497,
+   "price": "Free",
+   "blurb": "Free Smithsonian zoo with giant pandas on the Asia Trail",
+   "blurbEs": "Zoológico gratuito del Smithsonian con pandas gigantes en el Asia Trail"
+  },
+  {
+   "name": "U.S. Botanic Garden",
+   "kind": "always",
+   "cuisine": "",
+   "area": "National Mall",
+   "lat": 38.88813,
+   "lon": -77.01291,
+   "price": "Free",
+   "blurb": "Conservatory and gardens at the foot of the Capitol",
+   "blurbEs": "Invernadero y jardines al pie del Capitolio"
+  },
+  {
+   "name": "National Gallery of Art",
+   "kind": "always",
+   "cuisine": "",
+   "area": "National Mall",
+   "lat": 38.8921,
+   "lon": -77.01756,
+   "price": "Free",
+   "blurb": "Free national art museum on the Mall",
+   "blurbEs": "Museo nacional de arte gratuito en el National Mall"
+  },
+  {
+   "name": "Smithsonian American Art Museum",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Penn Quarter",
+   "lat": 38.89786,
+   "lon": -77.023,
+   "price": "Free",
+   "blurb": "American art from colonial times to video games",
+   "blurbEs": "Arte estadounidense desde la época colonial hasta los videojuegos"
+  },
+  {
+   "name": "The Phillips Collection",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Dupont Circle",
+   "lat": 38.91183,
+   "lon": -77.04697,
+   "price": "Tickets",
+   "blurb": "Intimate modern art museum with a Rothko Room",
+   "blurbEs": "Museo íntimo de arte moderno con una sala Rothko"
+  },
+  {
+   "name": "La Cosecha",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Union Market",
+   "lat": 38.90888,
+   "lon": -76.99976,
+   "price": "Free",
+   "blurb": "Latin American market hall with food, music and gifts",
+   "blurbEs": "Mercado latinoamericano con comida, música y regalos"
+  }
+ ]
+}

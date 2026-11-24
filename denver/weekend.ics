@@ -1,0 +1,360 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Denver
+X-WR-CALDESC:Hand-checked weekend picks in Denver, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:denver-home-alone-in-concert-colorado-symphony-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T023000Z
+DTEND:20261128T043000Z
+SUMMARY:Home Alone in Concert
+LOCATION:Boettcher Concert Hall\, Denver Performing Arts Complex\, Denver\
+ , CO
+DESCRIPTION:The Colorado Symphony and Chorus play John Williams' full scor
+ e live while Home Alone screens above the stage. Rated PG. Tickets. Detail
+ s: https://weekendscout.app/e/denver/home-alone-in-concert-colorado-sympho
+ ny/
+URL:https://weekendscout.app/e/denver/home-alone-in-concert-colorado-symphony/
+END:VEVENT
+BEGIN:VEVENT
+UID:denver-home-alone-in-concert-colorado-symphony-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T023000Z
+DTEND:20261129T043000Z
+SUMMARY:Home Alone in Concert
+LOCATION:Boettcher Concert Hall\, Denver Performing Arts Complex\, Denver\
+ , CO
+DESCRIPTION:The Colorado Symphony and Chorus play John Williams' full scor
+ e live while Home Alone screens above the stage. Rated PG. Tickets. Detail
+ s: https://weekendscout.app/e/denver/home-alone-in-concert-colorado-sympho
+ ny/
+URL:https://weekendscout.app/e/denver/home-alone-in-concert-colorado-symphony/
+END:VEVENT
+BEGIN:VEVENT
+UID:denver-home-alone-in-concert-colorado-symphony-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T213000Z
+DTEND:20261129T233000Z
+SUMMARY:Home Alone in Concert
+LOCATION:Boettcher Concert Hall\, Denver Performing Arts Complex\, Denver\
+ , CO
+DESCRIPTION:The Colorado Symphony and Chorus play John Williams' full scor
+ e live while Home Alone screens above the stage. Rated PG. Tickets. Detail
+ s: https://weekendscout.app/e/denver/home-alone-in-concert-colorado-sympho
+ ny/
+URL:https://weekendscout.app/e/denver/home-alone-in-concert-colorado-symphony/
+END:VEVENT
+BEGIN:VEVENT
+UID:denver-colorado-ballet-nutcracker-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T200000Z
+DTEND:20261128T220000Z
+SUMMARY:Colorado Ballet: The Nutcracker
+LOCATION:Ellie Caulkins Opera House\, Denver Performing Arts Complex\, Den
+ ver\, CO
+DESCRIPTION:Colorado Ballet opens its holiday Nutcracker with a live orche
+ stra. Recommended for ages 5 and up\; Sunday's 1 pm show is sensory-friend
+ ly and audio-described. From $40. Details: https://weekendscout.app/e/denv
+ er/colorado-ballet-nutcracker/
+URL:https://weekendscout.app/e/denver/colorado-ballet-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:denver-colorado-ballet-nutcracker-sat-1@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T013000Z
+DTEND:20261129T033000Z
+SUMMARY:Colorado Ballet: The Nutcracker
+LOCATION:Ellie Caulkins Opera House\, Denver Performing Arts Complex\, Den
+ ver\, CO
+DESCRIPTION:Colorado Ballet opens its holiday Nutcracker with a live orche
+ stra. Recommended for ages 5 and up\; Sunday's 1 pm show is sensory-friend
+ ly and audio-described. From $40. Details: https://weekendscout.app/e/denv
+ er/colorado-ballet-nutcracker/
+URL:https://weekendscout.app/e/denver/colorado-ballet-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:denver-colorado-ballet-nutcracker-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T200000Z
+DTEND:20261129T220000Z
+SUMMARY:Colorado Ballet: The Nutcracker
+LOCATION:Ellie Caulkins Opera House\, Denver Performing Arts Complex\, Den
+ ver\, CO
+DESCRIPTION:Colorado Ballet opens its holiday Nutcracker with a live orche
+ stra. Recommended for ages 5 and up\; Sunday's 1 pm show is sensory-friend
+ ly and audio-described. From $40. Details: https://weekendscout.app/e/denv
+ er/colorado-ballet-nutcracker/
+URL:https://weekendscout.app/e/denver/colorado-ballet-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:denver-colorado-ballet-nutcracker-sun-1@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261130T013000Z
+DTEND:20261130T033000Z
+SUMMARY:Colorado Ballet: The Nutcracker
+LOCATION:Ellie Caulkins Opera House\, Denver Performing Arts Complex\, Den
+ ver\, CO
+DESCRIPTION:Colorado Ballet opens its holiday Nutcracker with a live orche
+ stra. Recommended for ages 5 and up\; Sunday's 1 pm show is sensory-friend
+ ly and audio-described. From $40. Details: https://weekendscout.app/e/denv
+ er/colorado-ballet-nutcracker/
+URL:https://weekendscout.app/e/denver/colorado-ballet-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:denver-dcpa-a-christmas-carol-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:A Christmas Carol
+LOCATION:Wolf Theatre\, Denver Center for the Performing Arts\, Denver Per
+ forming Arts Complex\, Denver\, CO
+DESCRIPTION:The Denver Center's musical take on the Dickens classic\, back
+  for the holidays. Best for ages 6 and up. From $41. Details: https://week
+ endscout.app/e/denver/dcpa-a-christmas-carol/
+URL:https://weekendscout.app/e/denver/dcpa-a-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:denver-dcpa-a-christmas-carol-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:A Christmas Carol
+LOCATION:Wolf Theatre\, Denver Center for the Performing Arts\, Denver Per
+ forming Arts Complex\, Denver\, CO
+DESCRIPTION:The Denver Center's musical take on the Dickens classic\, back
+  for the holidays. Best for ages 6 and up. From $41. Details: https://week
+ endscout.app/e/denver/dcpa-a-christmas-carol/
+URL:https://weekendscout.app/e/denver/dcpa-a-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:denver-dcpa-a-christmas-carol-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:A Christmas Carol
+LOCATION:Wolf Theatre\, Denver Center for the Performing Arts\, Denver Per
+ forming Arts Complex\, Denver\, CO
+DESCRIPTION:The Denver Center's musical take on the Dickens classic\, back
+  for the holidays. Best for ages 6 and up. From $41. Details: https://week
+ endscout.app/e/denver/dcpa-a-christmas-carol/
+URL:https://weekendscout.app/e/denver/dcpa-a-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:denver-avalanche-vs-sharks-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T020000Z
+DTEND:20261129T040000Z
+SUMMARY:Colorado Avalanche vs. San Jose Sharks
+LOCATION:Ball Arena\, Ball Arena\, Denver\, CO
+DESCRIPTION:The Avs host the Sharks on Saturday night of the holiday weeke
+ nd. Tickets. Details: https://weekendscout.app/e/denver/avalanche-vs-shark
+ s/
+URL:https://weekendscout.app/e/denver/avalanche-vs-sharks/
+END:VEVENT
+BEGIN:VEVENT
+UID:denver-denver-zoo-lights-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261127T233000Z
+DTEND:20261128T050000Z
+SUMMARY:Zoo Lights
+LOCATION:Denver Zoo\, 2300 Steele St\, Denver\, CO 80205
+DESCRIPTION:The zoo after dark\, lit up with animal-shaped light displays.
+  Sunday is a lower-priced Value Night\; kids 2 and under free. From $18.95
+ . Details: https://weekendscout.app/e/denver/denver-zoo-lights/
+URL:https://weekendscout.app/e/denver/denver-zoo-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:denver-denver-zoo-lights-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T233000Z
+DTEND:20261129T050000Z
+SUMMARY:Zoo Lights
+LOCATION:Denver Zoo\, 2300 Steele St\, Denver\, CO 80205
+DESCRIPTION:The zoo after dark\, lit up with animal-shaped light displays.
+  Sunday is a lower-priced Value Night\; kids 2 and under free. From $18.95
+ . Details: https://weekendscout.app/e/denver/denver-zoo-lights/
+URL:https://weekendscout.app/e/denver/denver-zoo-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:denver-denver-zoo-lights-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T233000Z
+DTEND:20261130T040000Z
+SUMMARY:Zoo Lights
+LOCATION:Denver Zoo\, 2300 Steele St\, Denver\, CO 80205
+DESCRIPTION:The zoo after dark\, lit up with animal-shaped light displays.
+  Sunday is a lower-priced Value Night\; kids 2 and under free. From $18.95
+ . Details: https://weekendscout.app/e/denver/denver-zoo-lights/
+URL:https://weekendscout.app/e/denver/denver-zoo-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:denver-blossoms-of-light-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261127T233000Z
+DTEND:20261128T040000Z
+SUMMARY:Blossoms of Light
+LOCATION:Denver Botanic Gardens\, 1007 York St\, Denver\, CO 80206
+DESCRIPTION:The York Street gardens glow with holiday lights each evening.
+  Prices vary by date and time\, and kids 2 and under are free. From $19. D
+ etails: https://weekendscout.app/e/denver/blossoms-of-light/
+URL:https://weekendscout.app/e/denver/blossoms-of-light/
+END:VEVENT
+BEGIN:VEVENT
+UID:denver-blossoms-of-light-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T233000Z
+DTEND:20261129T040000Z
+SUMMARY:Blossoms of Light
+LOCATION:Denver Botanic Gardens\, 1007 York St\, Denver\, CO 80206
+DESCRIPTION:The York Street gardens glow with holiday lights each evening.
+  Prices vary by date and time\, and kids 2 and under are free. From $19. D
+ etails: https://weekendscout.app/e/denver/blossoms-of-light/
+URL:https://weekendscout.app/e/denver/blossoms-of-light/
+END:VEVENT
+BEGIN:VEVENT
+UID:denver-blossoms-of-light-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T233000Z
+DTEND:20261130T040000Z
+SUMMARY:Blossoms of Light
+LOCATION:Denver Botanic Gardens\, 1007 York St\, Denver\, CO 80206
+DESCRIPTION:The York Street gardens glow with holiday lights each evening.
+  Prices vary by date and time\, and kids 2 and under are free. From $19. D
+ etails: https://weekendscout.app/e/denver/blossoms-of-light/
+URL:https://weekendscout.app/e/denver/blossoms-of-light/
+END:VEVENT
+BEGIN:VEVENT
+UID:denver-denver-christkindlmarket-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261127T180000Z
+DTEND:20261128T040000Z
+SUMMARY:Denver Christkindlmarket
+LOCATION:Tivoli Quad\, Auraria Campus\, 1000 Larimer St\, Denver\, CO 8020
+ 4
+DESCRIPTION:Denver's German-style holiday market\, with food\, drinks and 
+ handmade gifts. Stay for the free 7 pm drone show. Free. Details: https://
+ weekendscout.app/e/denver/denver-christkindlmarket/
+URL:https://weekendscout.app/e/denver/denver-christkindlmarket/
+END:VEVENT
+BEGIN:VEVENT
+UID:denver-denver-christkindlmarket-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T180000Z
+DTEND:20261129T040000Z
+SUMMARY:Denver Christkindlmarket
+LOCATION:Tivoli Quad\, Auraria Campus\, 1000 Larimer St\, Denver\, CO 8020
+ 4
+DESCRIPTION:Denver's German-style holiday market\, with food\, drinks and 
+ handmade gifts. Stay for the free 7 pm drone show. Free. Details: https://
+ weekendscout.app/e/denver/denver-christkindlmarket/
+URL:https://weekendscout.app/e/denver/denver-christkindlmarket/
+END:VEVENT
+BEGIN:VEVENT
+UID:denver-denver-christkindlmarket-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T180000Z
+DTEND:20261130T040000Z
+SUMMARY:Denver Christkindlmarket
+LOCATION:Tivoli Quad\, Auraria Campus\, 1000 Larimer St\, Denver\, CO 8020
+ 4
+DESCRIPTION:Denver's German-style holiday market\, with food\, drinks and 
+ handmade gifts. Stay for the free 7 pm drone show. Free. Details: https://
+ weekendscout.app/e/denver/denver-christkindlmarket/
+URL:https://weekendscout.app/e/denver/denver-christkindlmarket/
+END:VEVENT
+BEGIN:VEVENT
+UID:denver-mile-high-tree-drone-show-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T020000Z
+DTEND:20261128T040000Z
+SUMMARY:Mile High Tree & Drone Show
+LOCATION:Tivoli Quad\, Auraria Campus\, 1000 Larimer St\, Denver\, CO 8020
+ 4
+DESCRIPTION:A giant walk-in light tree with music shows every 15 minutes f
+ rom 5 to 10 pm\, plus a nightly drone show at 7 pm. Free. Details: https:/
+ /weekendscout.app/e/denver/mile-high-tree-drone-show/
+URL:https://weekendscout.app/e/denver/mile-high-tree-drone-show/
+END:VEVENT
+BEGIN:VEVENT
+UID:denver-mile-high-tree-drone-show-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T020000Z
+DTEND:20261129T040000Z
+SUMMARY:Mile High Tree & Drone Show
+LOCATION:Tivoli Quad\, Auraria Campus\, 1000 Larimer St\, Denver\, CO 8020
+ 4
+DESCRIPTION:A giant walk-in light tree with music shows every 15 minutes f
+ rom 5 to 10 pm\, plus a nightly drone show at 7 pm. Free. Details: https:/
+ /weekendscout.app/e/denver/mile-high-tree-drone-show/
+URL:https://weekendscout.app/e/denver/mile-high-tree-drone-show/
+END:VEVENT
+BEGIN:VEVENT
+UID:denver-mile-high-tree-drone-show-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261130T020000Z
+DTEND:20261130T040000Z
+SUMMARY:Mile High Tree & Drone Show
+LOCATION:Tivoli Quad\, Auraria Campus\, 1000 Larimer St\, Denver\, CO 8020
+ 4
+DESCRIPTION:A giant walk-in light tree with music shows every 15 minutes f
+ rom 5 to 10 pm\, plus a nightly drone show at 7 pm. Free. Details: https:/
+ /weekendscout.app/e/denver/mile-high-tree-drone-show/
+URL:https://weekendscout.app/e/denver/mile-high-tree-drone-show/
+END:VEVENT
+BEGIN:VEVENT
+UID:denver-union-station-grand-illumination-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261127T230000Z
+DTEND:20261128T030000Z
+SUMMARY:Grand Illumination at Union Station
+LOCATION:Denver Union Station\, 1701 Wynkoop St\, Denver\, CO 80202
+DESCRIPTION:Union Station lights its holiday tree around 6 pm\, with Santa
+ \, Elsa and Sven\, mariachi and live music in the Great Hall. Free. Detail
+ s: https://weekendscout.app/e/denver/union-station-grand-illumination/
+URL:https://weekendscout.app/e/denver/union-station-grand-illumination/
+END:VEVENT
+BEGIN:VEVENT
+UID:denver-sam-tallent-comedy-works-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T020000Z
+DTEND:20261128T040000Z
+SUMMARY:Sam Tallent
+LOCATION:Comedy Works Downtown\, 1226 15th St\, Denver\, CO 80202
+DESCRIPTION:Denver stand-up Sam Tallent plays the Larimer Square club. Two
+ -item minimum\; Saturday's 7 pm show is sold out. $35. Details: https://we
+ ekendscout.app/e/denver/sam-tallent-comedy-works/
+URL:https://weekendscout.app/e/denver/sam-tallent-comedy-works/
+END:VEVENT
+BEGIN:VEVENT
+UID:denver-sam-tallent-comedy-works-fri-1@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T041500Z
+DTEND:20261128T061500Z
+SUMMARY:Sam Tallent
+LOCATION:Comedy Works Downtown\, 1226 15th St\, Denver\, CO 80202
+DESCRIPTION:Denver stand-up Sam Tallent plays the Larimer Square club. Two
+ -item minimum\; Saturday's 7 pm show is sold out. $35. Details: https://we
+ ekendscout.app/e/denver/sam-tallent-comedy-works/
+URL:https://weekendscout.app/e/denver/sam-tallent-comedy-works/
+END:VEVENT
+BEGIN:VEVENT
+UID:denver-sam-tallent-comedy-works-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T041500Z
+DTEND:20261129T061500Z
+SUMMARY:Sam Tallent
+LOCATION:Comedy Works Downtown\, 1226 15th St\, Denver\, CO 80202
+DESCRIPTION:Denver stand-up Sam Tallent plays the Larimer Square club. Two
+ -item minimum\; Saturday's 7 pm show is sold out. $35. Details: https://we
+ ekendscout.app/e/denver/sam-tallent-comedy-works/
+URL:https://weekendscout.app/e/denver/sam-tallent-comedy-works/
+END:VEVENT
+END:VCALENDAR

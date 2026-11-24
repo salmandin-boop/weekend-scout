@@ -1,0 +1,226 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · San Francisco
+X-WR-CALDESC:Hand-checked weekend picks in San Francisco, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:san-francisco-warriors-vs-clippers-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261130T013000Z
+DTEND:20261130T033000Z
+SUMMARY:Warriors vs. LA Clippers
+LOCATION:Chase Center\, 1 Warriors Way\, San Francisco\, CA 94158
+DESCRIPTION:The Warriors host the Clippers on Coliseum Era Night\; the fir
+ st 10\,000 fans get a Muggsy Bogues and Manute Bol pin. Tickets. Details: 
+ https://weekendscout.app/e/san-francisco/warriors-vs-clippers/
+URL:https://weekendscout.app/e/san-francisco/warriors-vs-clippers/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-francisco-journey-final-frontier-chase-center-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T033000Z
+DTEND:20261129T053000Z
+SUMMARY:Journey: Final Frontier Tour
+LOCATION:Chase Center\, 1 Warriors Way\, San Francisco\, CA 94158
+DESCRIPTION:The Bay Area rock band brings its farewell tour home for an ev
+ ening of hits. Tickets. Details: https://weekendscout.app/e/san-francisco/
+ journey-final-frontier-chase-center/
+URL:https://weekendscout.app/e/san-francisco/journey-final-frontier-chase-center/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-francisco-great-dickens-christmas-fair-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261127T180000Z
+DTEND:20261128T020000Z
+SUMMARY:Great Dickens Christmas Fair
+LOCATION:Cow Palace Exhibition Halls\, 2600 Geneva Ave\, Daly City\, CA 94
+ 014
+DESCRIPTION:Step into Victorian London with costumed performers\, music\, 
+ shops and pubs. Cheaper twilight entry from 3 pm\; parking is $20. From $2
+ 0. Details: https://weekendscout.app/e/san-francisco/great-dickens-christm
+ as-fair/
+URL:https://weekendscout.app/e/san-francisco/great-dickens-christmas-fair/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-francisco-great-dickens-christmas-fair-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T180000Z
+DTEND:20261129T020000Z
+SUMMARY:Great Dickens Christmas Fair
+LOCATION:Cow Palace Exhibition Halls\, 2600 Geneva Ave\, Daly City\, CA 94
+ 014
+DESCRIPTION:Step into Victorian London with costumed performers\, music\, 
+ shops and pubs. Cheaper twilight entry from 3 pm\; parking is $20. From $2
+ 0. Details: https://weekendscout.app/e/san-francisco/great-dickens-christm
+ as-fair/
+URL:https://weekendscout.app/e/san-francisco/great-dickens-christmas-fair/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-francisco-great-dickens-christmas-fair-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T180000Z
+DTEND:20261130T020000Z
+SUMMARY:Great Dickens Christmas Fair
+LOCATION:Cow Palace Exhibition Halls\, 2600 Geneva Ave\, Daly City\, CA 94
+ 014
+DESCRIPTION:Step into Victorian London with costumed performers\, music\, 
+ shops and pubs. Cheaper twilight entry from 3 pm\; parking is $20. From $2
+ 0. Details: https://weekendscout.app/e/san-francisco/great-dickens-christm
+ as-fair/
+URL:https://weekendscout.app/e/san-francisco/great-dickens-christmas-fair/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-francisco-yerba-buena-gardens-tree-lighting-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T003000Z
+DTEND:20261129T013000Z
+SUMMARY:Yerba Buena Gardens Tree Lighting
+LOCATION:Yerba Buena Gardens\, 750 Howard St\, San Francisco\, CA 94103
+DESCRIPTION:A holiday tree lighting with storytime and hot cocoa\; the tre
+ e lights up around 5:05 pm. Free. Details: https://weekendscout.app/e/san-
+ francisco/yerba-buena-gardens-tree-lighting/
+URL:https://weekendscout.app/e/san-francisco/yerba-buena-gardens-tree-lighting/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-francisco-leroy-king-carousel-lighting-free-skating-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T013000Z
+DTEND:20261129T033000Z
+SUMMARY:Carousel Lighting\, Free Rides & Free Skating
+LOCATION:LeRoy King Carousel at Yerba Buena Gardens\, 4th St & Howard St\,
+  San Francisco\, CA 94103
+DESCRIPTION:The historic carousel lights up around 5:30 pm with free rides
+ \, and the rink at 750 Howard St offers free skating that evening ($6 skat
+ e rental). Free. Details: https://weekendscout.app/e/san-francisco/leroy-k
+ ing-carousel-lighting-free-skating/
+URL:https://weekendscout.app/e/san-francisco/leroy-king-carousel-lighting-free-skating/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-francisco-union-square-holiday-ice-rink-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261127T180000Z
+DTEND:20261128T070000Z
+SUMMARY:Union Square Holiday Ice Rink
+LOCATION:Union Square\, 333 Post St\, San Francisco\, CA
+DESCRIPTION:Skate under the city lights in the heart of Union Square. Hour
+ -long sessions start every 90 minutes and include skate rental. $22 ($17 a
+ ges 8 and under). Details: https://weekendscout.app/e/san-francisco/union-
+ square-holiday-ice-rink/
+URL:https://weekendscout.app/e/san-francisco/union-square-holiday-ice-rink/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-francisco-union-square-holiday-ice-rink-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T180000Z
+DTEND:20261129T070000Z
+SUMMARY:Union Square Holiday Ice Rink
+LOCATION:Union Square\, 333 Post St\, San Francisco\, CA
+DESCRIPTION:Skate under the city lights in the heart of Union Square. Hour
+ -long sessions start every 90 minutes and include skate rental. $22 ($17 a
+ ges 8 and under). Details: https://weekendscout.app/e/san-francisco/union-
+ square-holiday-ice-rink/
+URL:https://weekendscout.app/e/san-francisco/union-square-holiday-ice-rink/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-francisco-union-square-holiday-ice-rink-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T180000Z
+DTEND:20261130T070000Z
+SUMMARY:Union Square Holiday Ice Rink
+LOCATION:Union Square\, 333 Post St\, San Francisco\, CA
+DESCRIPTION:Skate under the city lights in the heart of Union Square. Hour
+ -long sessions start every 90 minutes and include skate rental. $22 ($17 a
+ ges 8 and under). Details: https://weekendscout.app/e/san-francisco/union-
+ square-holiday-ice-rink/
+URL:https://weekendscout.app/e/san-francisco/union-square-holiday-ice-rink/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-francisco-lightscape-sf-botanical-garden-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T010000Z
+DTEND:20261128T030000Z
+SUMMARY:Lightscape
+LOCATION:San Francisco Botanical Garden\, 1199 9th Ave\, San Francisco\, C
+ A 94122
+DESCRIPTION:An after-dark trail of light art through the Botanical Garden 
+ in Golden Gate Park. Timed entry from 5 pm\; allow about 45 minutes. From 
+ $20. Details: https://weekendscout.app/e/san-francisco/lightscape-sf-botan
+ ical-garden/
+URL:https://weekendscout.app/e/san-francisco/lightscape-sf-botanical-garden/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-francisco-lightscape-sf-botanical-garden-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:Lightscape
+LOCATION:San Francisco Botanical Garden\, 1199 9th Ave\, San Francisco\, C
+ A 94122
+DESCRIPTION:An after-dark trail of light art through the Botanical Garden 
+ in Golden Gate Park. Timed entry from 5 pm\; allow about 45 minutes. From 
+ $20. Details: https://weekendscout.app/e/san-francisco/lightscape-sf-botan
+ ical-garden/
+URL:https://weekendscout.app/e/san-francisco/lightscape-sf-botanical-garden/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-francisco-lightscape-sf-botanical-garden-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261130T010000Z
+DTEND:20261130T030000Z
+SUMMARY:Lightscape
+LOCATION:San Francisco Botanical Garden\, 1199 9th Ave\, San Francisco\, C
+ A 94122
+DESCRIPTION:An after-dark trail of light art through the Botanical Garden 
+ in Golden Gate Park. Timed entry from 5 pm\; allow about 45 minutes. From 
+ $20. Details: https://weekendscout.app/e/san-francisco/lightscape-sf-botan
+ ical-garden/
+URL:https://weekendscout.app/e/san-francisco/lightscape-sf-botanical-garden/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-francisco-cal-academy-holiday-hours-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261127T173000Z
+DTEND:20261128T020000Z
+SUMMARY:California Academy of Sciences Holiday Hours
+LOCATION:California Academy of Sciences\, 55 Music Concourse Dr\, San Fran
+ cisco\, CA 94118
+DESCRIPTION:The aquarium\, planetarium and rainforest museum in Golden Gat
+ e Park stays open late on Friday and Saturday. Last entry is one hour befo
+ re closing. From $39. Details: https://weekendscout.app/e/san-francisco/ca
+ l-academy-holiday-hours/
+URL:https://weekendscout.app/e/san-francisco/cal-academy-holiday-hours/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-francisco-cal-academy-holiday-hours-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T173000Z
+DTEND:20261129T020000Z
+SUMMARY:California Academy of Sciences Holiday Hours
+LOCATION:California Academy of Sciences\, 55 Music Concourse Dr\, San Fran
+ cisco\, CA 94118
+DESCRIPTION:The aquarium\, planetarium and rainforest museum in Golden Gat
+ e Park stays open late on Friday and Saturday. Last entry is one hour befo
+ re closing. From $39. Details: https://weekendscout.app/e/san-francisco/ca
+ l-academy-holiday-hours/
+URL:https://weekendscout.app/e/san-francisco/cal-academy-holiday-hours/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-francisco-cal-academy-holiday-hours-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:California Academy of Sciences Holiday Hours
+LOCATION:California Academy of Sciences\, 55 Music Concourse Dr\, San Fran
+ cisco\, CA 94118
+DESCRIPTION:The aquarium\, planetarium and rainforest museum in Golden Gat
+ e Park stays open late on Friday and Saturday. Last entry is one hour befo
+ re closing. From $39. Details: https://weekendscout.app/e/san-francisco/ca
+ l-academy-holiday-hours/
+URL:https://weekendscout.app/e/san-francisco/cal-academy-holiday-hours/
+END:VEVENT
+END:VCALENDAR

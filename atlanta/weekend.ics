@@ -1,0 +1,248 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Atlanta
+X-WR-CALDESC:Hand-checked weekend picks in Atlanta, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:atlanta-rush-fifty-something-state-farm-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T003000Z
+DTEND:20261128T023000Z
+SUMMARY:Rush: Fifty Something Tour
+LOCATION:State Farm Arena\, 1 State Farm Dr\, Atlanta\, GA 30303
+DESCRIPTION:Rush's Fifty Something Tour comes to the downtown arena. Doors
+  open at 6:30 p.m. Tickets. Details: https://weekendscout.app/e/atlanta/ru
+ sh-fifty-something-state-farm/
+URL:https://weekendscout.app/e/atlanta/rush-fifty-something-state-farm/
+END:VEVENT
+BEGIN:VEVENT
+UID:atlanta-stray-cats-fox-theatre-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T010000Z
+DTEND:20261128T030000Z
+SUMMARY:The Stray Cats
+LOCATION:Fox Theatre\, 660 Peachtree St NE\, Atlanta\, GA 30308
+DESCRIPTION:The Stray Cats play the historic Fox\, with Midnight Cowgirls 
+ opening. Doors at 7 p.m. Tickets. Details: https://weekendscout.app/e/atla
+ nta/stray-cats-fox-theatre/
+URL:https://weekendscout.app/e/atlanta/stray-cats-fox-theatre/
+END:VEVENT
+BEGIN:VEVENT
+UID:atlanta-elf-in-concert-aso-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:Elf in Concert
+LOCATION:Atlanta Symphony Hall\, 1280 Peachtree St NE\, Atlanta\, GA 30309
+DESCRIPTION:The full movie Elf on a 40-foot screen while the Atlanta Symph
+ ony Orchestra plays the score live. Tickets. Details: https://weekendscout
+ .app/e/atlanta/elf-in-concert-aso/
+URL:https://weekendscout.app/e/atlanta/elf-in-concert-aso/
+END:VEVENT
+BEGIN:VEVENT
+UID:atlanta-elf-in-concert-aso-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T200000Z
+DTEND:20261129T220000Z
+SUMMARY:Elf in Concert
+LOCATION:Atlanta Symphony Hall\, 1280 Peachtree St NE\, Atlanta\, GA 30309
+DESCRIPTION:The full movie Elf on a 40-foot screen while the Atlanta Symph
+ ony Orchestra plays the score live. Tickets. Details: https://weekendscout
+ .app/e/atlanta/elf-in-concert-aso/
+URL:https://weekendscout.app/e/atlanta/elf-in-concert-aso/
+END:VEVENT
+BEGIN:VEVENT
+UID:atlanta-georgia-tech-alcorn-state-mbb-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T180000Z
+DTEND:20261128T200000Z
+SUMMARY:Georgia Tech vs. Alcorn State (men's basketball)
+LOCATION:McCamish Pavilion\, Georgia Tech campus\, Atlanta\, GA
+DESCRIPTION:An afternoon Yellow Jackets home game on Georgia Tech's campus
+ . Check ticket prices. Details: https://weekendscout.app/e/atlanta/georgia
+ -tech-alcorn-state-mbb/
+URL:https://weekendscout.app/e/atlanta/georgia-tech-alcorn-state-mbb/
+END:VEVENT
+BEGIN:VEVENT
+UID:atlanta-battery-tree-lighting-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T220000Z
+DTEND:20261129T010000Z
+SUMMARY:Tree Lighting at The Battery Atlanta
+LOCATION:The Battery Atlanta\, 800 Battery Ave SE\, Atlanta\, GA 30339
+DESCRIPTION:The 10th annual tree lighting with live performances\, Santa\,
+  Blooper and a craft station. Free. Details: https://weekendscout.app/e/at
+ lanta/battery-tree-lighting/
+URL:https://weekendscout.app/e/atlanta/battery-tree-lighting/
+END:VEVENT
+BEGIN:VEVENT
+UID:atlanta-garden-lights-holiday-nights-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Garden Lights\, Holiday Nights
+LOCATION:Atlanta Botanical Garden\, 1345 Piedmont Ave NE\, Atlanta\, GA 30
+ 309
+DESCRIPTION:The Garden's big holiday light show\, open nightly through Jan
+ . 10. Timed-entry tickets required\; the cheapest tickets are for late ent
+ ry after 9:30 p.m. From $19.95. Details: https://weekendscout.app/e/atlant
+ a/garden-lights-holiday-nights/
+URL:https://weekendscout.app/e/atlanta/garden-lights-holiday-nights/
+END:VEVENT
+BEGIN:VEVENT
+UID:atlanta-garden-lights-holiday-nights-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Garden Lights\, Holiday Nights
+LOCATION:Atlanta Botanical Garden\, 1345 Piedmont Ave NE\, Atlanta\, GA 30
+ 309
+DESCRIPTION:The Garden's big holiday light show\, open nightly through Jan
+ . 10. Timed-entry tickets required\; the cheapest tickets are for late ent
+ ry after 9:30 p.m. From $19.95. Details: https://weekendscout.app/e/atlant
+ a/garden-lights-holiday-nights/
+URL:https://weekendscout.app/e/atlanta/garden-lights-holiday-nights/
+END:VEVENT
+BEGIN:VEVENT
+UID:atlanta-garden-lights-holiday-nights-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Garden Lights\, Holiday Nights
+LOCATION:Atlanta Botanical Garden\, 1345 Piedmont Ave NE\, Atlanta\, GA 30
+ 309
+DESCRIPTION:The Garden's big holiday light show\, open nightly through Jan
+ . 10. Timed-entry tickets required\; the cheapest tickets are for late ent
+ ry after 9:30 p.m. From $19.95. Details: https://weekendscout.app/e/atlant
+ a/garden-lights-holiday-nights/
+URL:https://weekendscout.app/e/atlanta/garden-lights-holiday-nights/
+END:VEVENT
+BEGIN:VEVENT
+UID:atlanta-alliance-christmas-carol-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:A Christmas Carol
+LOCATION:Alliance Theatre (Coca-Cola Stage)\, 1280 Peachtree St NE\, Atlan
+ ta\, GA 30309
+DESCRIPTION:The Alliance's annual Dickens holiday show for all ages\, runn
+ ing through Dec. 27. Tickets were showing as unavailable on Nov. 24\, so c
+ heck before you go. Check ticket prices. Details: https://weekendscout.app
+ /e/atlanta/alliance-christmas-carol/
+URL:https://weekendscout.app/e/atlanta/alliance-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:atlanta-alliance-christmas-carol-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:A Christmas Carol
+LOCATION:Alliance Theatre (Coca-Cola Stage)\, 1280 Peachtree St NE\, Atlan
+ ta\, GA 30309
+DESCRIPTION:The Alliance's annual Dickens holiday show for all ages\, runn
+ ing through Dec. 27. Tickets were showing as unavailable on Nov. 24\, so c
+ heck before you go. Check ticket prices. Details: https://weekendscout.app
+ /e/atlanta/alliance-christmas-carol/
+URL:https://weekendscout.app/e/atlanta/alliance-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:atlanta-alliance-christmas-carol-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:A Christmas Carol
+LOCATION:Alliance Theatre (Coca-Cola Stage)\, 1280 Peachtree St NE\, Atlan
+ ta\, GA 30309
+DESCRIPTION:The Alliance's annual Dickens holiday show for all ages\, runn
+ ing through Dec. 27. Tickets were showing as unavailable on Nov. 24\, so c
+ heck before you go. Check ticket prices. Details: https://weekendscout.app
+ /e/atlanta/alliance-christmas-carol/
+URL:https://weekendscout.app/e/atlanta/alliance-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:atlanta-puppetry-rudolph-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Rudolph the Red-Nosed Reindeer
+LOCATION:Center for Puppetry Arts\, 1404 Spring St NW\, Atlanta\, GA 30309
+DESCRIPTION:The holiday classic told with puppets. Tickets include the mus
+ eum and a Create-a-Puppet Workshop. From $18. Details: https://weekendscou
+ t.app/e/atlanta/puppetry-rudolph/
+URL:https://weekendscout.app/e/atlanta/puppetry-rudolph/
+END:VEVENT
+BEGIN:VEVENT
+UID:atlanta-puppetry-rudolph-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Rudolph the Red-Nosed Reindeer
+LOCATION:Center for Puppetry Arts\, 1404 Spring St NW\, Atlanta\, GA 30309
+DESCRIPTION:The holiday classic told with puppets. Tickets include the mus
+ eum and a Create-a-Puppet Workshop. From $18. Details: https://weekendscou
+ t.app/e/atlanta/puppetry-rudolph/
+URL:https://weekendscout.app/e/atlanta/puppetry-rudolph/
+END:VEVENT
+BEGIN:VEVENT
+UID:atlanta-puppetry-rudolph-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Rudolph the Red-Nosed Reindeer
+LOCATION:Center for Puppetry Arts\, 1404 Spring St NW\, Atlanta\, GA 30309
+DESCRIPTION:The holiday classic told with puppets. Tickets include the mus
+ eum and a Create-a-Puppet Workshop. From $18. Details: https://weekendscou
+ t.app/e/atlanta/puppetry-rudolph/
+URL:https://weekendscout.app/e/atlanta/puppetry-rudolph/
+END:VEVENT
+BEGIN:VEVENT
+UID:atlanta-piedmont-park-holiday-market-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T150000Z
+DTEND:20261128T220000Z
+SUMMARY:Piedmont Park Handmade Holiday Market
+LOCATION:Piedmont Park\, 1071 Piedmont Ave NE\, Atlanta\, GA 30309
+DESCRIPTION:About 100 artists selling paintings\, photography\, glass\, me
+ talwork and jewelry\, with demos and acoustic music. Check ticket prices. 
+ Details: https://weekendscout.app/e/atlanta/piedmont-park-holiday-market/
+URL:https://weekendscout.app/e/atlanta/piedmont-park-holiday-market/
+END:VEVENT
+BEGIN:VEVENT
+UID:atlanta-piedmont-park-holiday-market-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T160000Z
+DTEND:20261129T220000Z
+SUMMARY:Piedmont Park Handmade Holiday Market
+LOCATION:Piedmont Park\, 1071 Piedmont Ave NE\, Atlanta\, GA 30309
+DESCRIPTION:About 100 artists selling paintings\, photography\, glass\, me
+ talwork and jewelry\, with demos and acoustic music. Check ticket prices. 
+ Details: https://weekendscout.app/e/atlanta/piedmont-park-holiday-market/
+URL:https://weekendscout.app/e/atlanta/piedmont-park-holiday-market/
+END:VEVENT
+BEGIN:VEVENT
+UID:atlanta-merry-mighty-mo-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Merry Mighty Mo and More!
+LOCATION:Fox Theatre\, 660 Peachtree St NE\, Atlanta\, GA 30308
+DESCRIPTION:The Fox's family holiday show built around its giant Mighty Mo
+  theater organ. Check ticket prices. Details: https://weekendscout.app/e/a
+ tlanta/merry-mighty-mo/
+URL:https://weekendscout.app/e/atlanta/merry-mighty-mo/
+END:VEVENT
+END:VCALENDAR

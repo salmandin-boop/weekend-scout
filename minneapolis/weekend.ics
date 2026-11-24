@@ -1,0 +1,399 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Minneapolis
+X-WR-CALDESC:Hand-checked weekend picks in Minneapolis, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:minneapolis-wild-vs-avalanche-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261127T210000Z
+DTEND:20261127T230000Z
+SUMMARY:Minnesota Wild vs. Colorado Avalanche
+LOCATION:Grand Casino Arena\, 199 W Kellogg Blvd\, St. Paul\, MN 55102
+DESCRIPTION:A Black Friday afternoon matinee against a Central Division ri
+ val. Every fan gets a Hometown Remix jersey towel. Tickets. Details: https
+ ://weekendscout.app/e/minneapolis/wild-vs-avalanche/
+URL:https://weekendscout.app/e/minneapolis/wild-vs-avalanche/
+END:VEVENT
+BEGIN:VEVENT
+UID:minneapolis-timberwolves-vs-grizzlies-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T013000Z
+DTEND:20261128T033000Z
+SUMMARY:Timberwolves vs. Memphis Grizzlies
+LOCATION:Target Center\, 600 N 1st Ave\, Minneapolis\, MN 55403
+DESCRIPTION:The Wolves host Memphis on Friday night in an NBA Cup game dow
+ ntown. Tickets. Details: https://weekendscout.app/e/minneapolis/timberwolv
+ es-vs-grizzlies/
+URL:https://weekendscout.app/e/minneapolis/timberwolves-vs-grizzlies/
+END:VEVENT
+BEGIN:VEVENT
+UID:minneapolis-vikings-vs-falcons-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T180000Z
+DTEND:20261129T200000Z
+SUMMARY:Vikings vs. Atlanta Falcons
+LOCATION:U.S. Bank Stadium\, 401 Chicago Ave\, Minneapolis\, MN 55415
+DESCRIPTION:Week 12 of the NFL season: the Vikings host the Falcons at noo
+ n on Sunday. Tickets. Details: https://weekendscout.app/e/minneapolis/viki
+ ngs-vs-falcons/
+URL:https://weekendscout.app/e/minneapolis/vikings-vs-falcons/
+END:VEVENT
+BEGIN:VEVENT
+UID:minneapolis-guthrie-christmas-carol-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T013000Z
+DTEND:20261128T033000Z
+SUMMARY:A Christmas Carol
+LOCATION:Guthrie Theater\, 818 S 2nd St\, Minneapolis\, MN 55415
+DESCRIPTION:The Guthrie's beloved holiday staging of the Dickens classic\,
+  recommended for ages 8 and up. Friday is open-captioned\, Saturday has AS
+ L and audio description\, and Sunday is a relaxed performance. $36–$161.
+  Details: https://weekendscout.app/e/minneapolis/guthrie-christmas-carol/
+URL:https://weekendscout.app/e/minneapolis/guthrie-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:minneapolis-guthrie-christmas-carol-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T190000Z
+DTEND:20261128T210000Z
+SUMMARY:A Christmas Carol
+LOCATION:Guthrie Theater\, 818 S 2nd St\, Minneapolis\, MN 55415
+DESCRIPTION:The Guthrie's beloved holiday staging of the Dickens classic\,
+  recommended for ages 8 and up. Friday is open-captioned\, Saturday has AS
+ L and audio description\, and Sunday is a relaxed performance. $36–$161.
+  Details: https://weekendscout.app/e/minneapolis/guthrie-christmas-carol/
+URL:https://weekendscout.app/e/minneapolis/guthrie-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:minneapolis-guthrie-christmas-carol-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261130T000000Z
+DTEND:20261130T020000Z
+SUMMARY:A Christmas Carol
+LOCATION:Guthrie Theater\, 818 S 2nd St\, Minneapolis\, MN 55415
+DESCRIPTION:The Guthrie's beloved holiday staging of the Dickens classic\,
+  recommended for ages 8 and up. Friday is open-captioned\, Saturday has AS
+ L and audio description\, and Sunday is a relaxed performance. $36–$161.
+  Details: https://weekendscout.app/e/minneapolis/guthrie-christmas-carol/
+URL:https://weekendscout.app/e/minneapolis/guthrie-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:minneapolis-ctc-grinch-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261127T200000Z
+DTEND:20261127T220000Z
+SUMMARY:Dr. Seuss's How the Grinch Stole Christmas
+LOCATION:Children's Theatre Company\, 2400 3rd Ave S\, Minneapolis\, MN 55
+ 404
+DESCRIPTION:Children's Theatre Company's musical take on the Seuss story\,
+  about 1 hour 50 minutes with intermission. Seats are limited this weekend
+  and Saturday at 2 pm is sold out. From $50. Details: https://weekendscout
+ .app/e/minneapolis/ctc-grinch/
+URL:https://weekendscout.app/e/minneapolis/ctc-grinch/
+END:VEVENT
+BEGIN:VEVENT
+UID:minneapolis-ctc-grinch-fri-1@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T010000Z
+DTEND:20261128T030000Z
+SUMMARY:Dr. Seuss's How the Grinch Stole Christmas
+LOCATION:Children's Theatre Company\, 2400 3rd Ave S\, Minneapolis\, MN 55
+ 404
+DESCRIPTION:Children's Theatre Company's musical take on the Seuss story\,
+  about 1 hour 50 minutes with intermission. Seats are limited this weekend
+  and Saturday at 2 pm is sold out. From $50. Details: https://weekendscout
+ .app/e/minneapolis/ctc-grinch/
+URL:https://weekendscout.app/e/minneapolis/ctc-grinch/
+END:VEVENT
+BEGIN:VEVENT
+UID:minneapolis-ctc-grinch-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T170000Z
+DTEND:20261128T190000Z
+SUMMARY:Dr. Seuss's How the Grinch Stole Christmas
+LOCATION:Children's Theatre Company\, 2400 3rd Ave S\, Minneapolis\, MN 55
+ 404
+DESCRIPTION:Children's Theatre Company's musical take on the Seuss story\,
+  about 1 hour 50 minutes with intermission. Seats are limited this weekend
+  and Saturday at 2 pm is sold out. From $50. Details: https://weekendscout
+ .app/e/minneapolis/ctc-grinch/
+URL:https://weekendscout.app/e/minneapolis/ctc-grinch/
+END:VEVENT
+BEGIN:VEVENT
+UID:minneapolis-ctc-grinch-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T200000Z
+DTEND:20261129T220000Z
+SUMMARY:Dr. Seuss's How the Grinch Stole Christmas
+LOCATION:Children's Theatre Company\, 2400 3rd Ave S\, Minneapolis\, MN 55
+ 404
+DESCRIPTION:Children's Theatre Company's musical take on the Seuss story\,
+  about 1 hour 50 minutes with intermission. Seats are limited this weekend
+  and Saturday at 2 pm is sold out. From $50. Details: https://weekendscout
+ .app/e/minneapolis/ctc-grinch/
+URL:https://weekendscout.app/e/minneapolis/ctc-grinch/
+END:VEVENT
+BEGIN:VEVENT
+UID:minneapolis-ctc-grinch-sun-1@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T230000Z
+DTEND:20261130T010000Z
+SUMMARY:Dr. Seuss's How the Grinch Stole Christmas
+LOCATION:Children's Theatre Company\, 2400 3rd Ave S\, Minneapolis\, MN 55
+ 404
+DESCRIPTION:Children's Theatre Company's musical take on the Seuss story\,
+  about 1 hour 50 minutes with intermission. Seats are limited this weekend
+  and Saturday at 2 pm is sold out. From $50. Details: https://weekendscout
+ .app/e/minneapolis/ctc-grinch/
+URL:https://weekendscout.app/e/minneapolis/ctc-grinch/
+END:VEVENT
+BEGIN:VEVENT
+UID:minneapolis-mn-orchestra-httyd-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:How to Train Your Dragon in Concert
+LOCATION:Orchestra Hall\, 1111 Nicollet Mall\, Minneapolis\, MN 55403
+DESCRIPTION:The Minnesota Orchestra plays the score live while the film is
+  shown on the big screen. Ages 6 and up with an adult. Check ticket prices
+ . Details: https://weekendscout.app/e/minneapolis/mn-orchestra-httyd/
+URL:https://weekendscout.app/e/minneapolis/mn-orchestra-httyd/
+END:VEVENT
+BEGIN:VEVENT
+UID:minneapolis-mn-orchestra-httyd-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:How to Train Your Dragon in Concert
+LOCATION:Orchestra Hall\, 1111 Nicollet Mall\, Minneapolis\, MN 55403
+DESCRIPTION:The Minnesota Orchestra plays the score live while the film is
+  shown on the big screen. Ages 6 and up with an adult. Check ticket prices
+ . Details: https://weekendscout.app/e/minneapolis/mn-orchestra-httyd/
+URL:https://weekendscout.app/e/minneapolis/mn-orchestra-httyd/
+END:VEVENT
+BEGIN:VEVENT
+UID:minneapolis-acme-tommy-ryman-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T010000Z
+DTEND:20261128T030000Z
+SUMMARY:Tommy Ryman
+LOCATION:Acme Comedy Company\, 708 N 1st St\, Minneapolis\, MN 55401
+DESCRIPTION:Stand-up from Tommy Ryman at the North Loop's long-running com
+ edy club\, with two shows each night. Check ticket prices. Details: https:
+ //weekendscout.app/e/minneapolis/acme-tommy-ryman/
+URL:https://weekendscout.app/e/minneapolis/acme-tommy-ryman/
+END:VEVENT
+BEGIN:VEVENT
+UID:minneapolis-acme-tommy-ryman-fri-1@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T033000Z
+DTEND:20261128T053000Z
+SUMMARY:Tommy Ryman
+LOCATION:Acme Comedy Company\, 708 N 1st St\, Minneapolis\, MN 55401
+DESCRIPTION:Stand-up from Tommy Ryman at the North Loop's long-running com
+ edy club\, with two shows each night. Check ticket prices. Details: https:
+ //weekendscout.app/e/minneapolis/acme-tommy-ryman/
+URL:https://weekendscout.app/e/minneapolis/acme-tommy-ryman/
+END:VEVENT
+BEGIN:VEVENT
+UID:minneapolis-acme-tommy-ryman-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:Tommy Ryman
+LOCATION:Acme Comedy Company\, 708 N 1st St\, Minneapolis\, MN 55401
+DESCRIPTION:Stand-up from Tommy Ryman at the North Loop's long-running com
+ edy club\, with two shows each night. Check ticket prices. Details: https:
+ //weekendscout.app/e/minneapolis/acme-tommy-ryman/
+URL:https://weekendscout.app/e/minneapolis/acme-tommy-ryman/
+END:VEVENT
+BEGIN:VEVENT
+UID:minneapolis-acme-tommy-ryman-sat-1@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T033000Z
+DTEND:20261129T053000Z
+SUMMARY:Tommy Ryman
+LOCATION:Acme Comedy Company\, 708 N 1st St\, Minneapolis\, MN 55401
+DESCRIPTION:Stand-up from Tommy Ryman at the North Loop's long-running com
+ edy club\, with two shows each night. Check ticket prices. Details: https:
+ //weekendscout.app/e/minneapolis/acme-tommy-ryman/
+URL:https://weekendscout.app/e/minneapolis/acme-tommy-ryman/
+END:VEVENT
+BEGIN:VEVENT
+UID:minneapolis-european-christmas-market-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261127T190000Z
+DTEND:20261128T030000Z
+SUMMARY:European Christmas Market
+LOCATION:Union Depot East Plaza\, 240 E Kellogg Blvd\, St. Paul\, MN 55101
+DESCRIPTION:An outdoor holiday market at Union Depot with European treats\
+ , gifts and heated warming tents. Friday has special 1 pm opening hours. F
+ ree. Details: https://weekendscout.app/e/minneapolis/european-christmas-ma
+ rket/
+URL:https://weekendscout.app/e/minneapolis/european-christmas-market/
+END:VEVENT
+BEGIN:VEVENT
+UID:minneapolis-european-christmas-market-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T170000Z
+DTEND:20261129T030000Z
+SUMMARY:European Christmas Market
+LOCATION:Union Depot East Plaza\, 240 E Kellogg Blvd\, St. Paul\, MN 55101
+DESCRIPTION:An outdoor holiday market at Union Depot with European treats\
+ , gifts and heated warming tents. Friday has special 1 pm opening hours. F
+ ree. Details: https://weekendscout.app/e/minneapolis/european-christmas-ma
+ rket/
+URL:https://weekendscout.app/e/minneapolis/european-christmas-market/
+END:VEVENT
+BEGIN:VEVENT
+UID:minneapolis-european-christmas-market-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T170000Z
+DTEND:20261130T000000Z
+SUMMARY:European Christmas Market
+LOCATION:Union Depot East Plaza\, 240 E Kellogg Blvd\, St. Paul\, MN 55101
+DESCRIPTION:An outdoor holiday market at Union Depot with European treats\
+ , gifts and heated warming tents. Friday has special 1 pm opening hours. F
+ ree. Details: https://weekendscout.app/e/minneapolis/european-christmas-ma
+ rket/
+URL:https://weekendscout.app/e/minneapolis/european-christmas-market/
+END:VEVENT
+BEGIN:VEVENT
+UID:minneapolis-minneapolis-christkindl-market-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261127T220000Z
+DTEND:20261128T030000Z
+SUMMARY:Minneapolis Christkindl Market
+LOCATION:North Loop Green\, 350 N 5th St\, Minneapolis\, MN 55401
+DESCRIPTION:A German-inspired outdoor holiday market in the North Loop\, o
+ pen Friday through Sunday. Santa visits on Sundays. Free. Details: https:/
+ /weekendscout.app/e/minneapolis/minneapolis-christkindl-market/
+URL:https://weekendscout.app/e/minneapolis/minneapolis-christkindl-market/
+END:VEVENT
+BEGIN:VEVENT
+UID:minneapolis-minneapolis-christkindl-market-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T170000Z
+DTEND:20261129T030000Z
+SUMMARY:Minneapolis Christkindl Market
+LOCATION:North Loop Green\, 350 N 5th St\, Minneapolis\, MN 55401
+DESCRIPTION:A German-inspired outdoor holiday market in the North Loop\, o
+ pen Friday through Sunday. Santa visits on Sundays. Free. Details: https:/
+ /weekendscout.app/e/minneapolis/minneapolis-christkindl-market/
+URL:https://weekendscout.app/e/minneapolis/minneapolis-christkindl-market/
+END:VEVENT
+BEGIN:VEVENT
+UID:minneapolis-minneapolis-christkindl-market-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T170000Z
+DTEND:20261130T010000Z
+SUMMARY:Minneapolis Christkindl Market
+LOCATION:North Loop Green\, 350 N 5th St\, Minneapolis\, MN 55401
+DESCRIPTION:A German-inspired outdoor holiday market in the North Loop\, o
+ pen Friday through Sunday. Santa visits on Sundays. Free. Details: https:/
+ /weekendscout.app/e/minneapolis/minneapolis-christkindl-market/
+URL:https://weekendscout.app/e/minneapolis/minneapolis-christkindl-market/
+END:VEVENT
+BEGIN:VEVENT
+UID:minneapolis-shine-on-black-friday-block-party-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261127T230000Z
+DTEND:20261128T040000Z
+SUMMARY:Shine On Black Friday Block Party
+LOCATION:Nicollet Mall & Peavey Plaza\, Nicollet Mall (7th to 12th St)\, M
+ inneapolis\, MN 55403
+DESCRIPTION:Downtown's holiday kickoff: crafts and live music in the IDS C
+ rystal Court from 5 pm\, a tree lighting at Peavey Plaza at 7 pm\, then a 
+ DJ dance party until 10. Free. Details: https://weekendscout.app/e/minneap
+ olis/shine-on-black-friday-block-party/
+URL:https://weekendscout.app/e/minneapolis/shine-on-black-friday-block-party/
+END:VEVENT
+BEGIN:VEVENT
+UID:minneapolis-norway-house-gingerbread-wonderland-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261127T160000Z
+DTEND:20261127T230000Z
+SUMMARY:Gingerbread Wonderland
+LOCATION:Norway House\, 913 E Franklin Ave\, Minneapolis\, MN 55404
+DESCRIPTION:Norway House's yearly village of community-built gingerbread h
+ ouses. Kids 5 and under get in free. $10 adults\, $5 ages 6–17. Details:
+  https://weekendscout.app/e/minneapolis/norway-house-gingerbread-wonderlan
+ d/
+URL:https://weekendscout.app/e/minneapolis/norway-house-gingerbread-wonderland/
+END:VEVENT
+BEGIN:VEVENT
+UID:minneapolis-norway-house-gingerbread-wonderland-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T160000Z
+DTEND:20261128T230000Z
+SUMMARY:Gingerbread Wonderland
+LOCATION:Norway House\, 913 E Franklin Ave\, Minneapolis\, MN 55404
+DESCRIPTION:Norway House's yearly village of community-built gingerbread h
+ ouses. Kids 5 and under get in free. $10 adults\, $5 ages 6–17. Details:
+  https://weekendscout.app/e/minneapolis/norway-house-gingerbread-wonderlan
+ d/
+URL:https://weekendscout.app/e/minneapolis/norway-house-gingerbread-wonderland/
+END:VEVENT
+BEGIN:VEVENT
+UID:minneapolis-norway-house-gingerbread-wonderland-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T180000Z
+DTEND:20261129T230000Z
+SUMMARY:Gingerbread Wonderland
+LOCATION:Norway House\, 913 E Franklin Ave\, Minneapolis\, MN 55404
+DESCRIPTION:Norway House's yearly village of community-built gingerbread h
+ ouses. Kids 5 and under get in free. $10 adults\, $5 ages 6–17. Details:
+  https://weekendscout.app/e/minneapolis/norway-house-gingerbread-wonderlan
+ d/
+URL:https://weekendscout.app/e/minneapolis/norway-house-gingerbread-wonderland/
+END:VEVENT
+BEGIN:VEVENT
+UID:minneapolis-arboretum-northern-lights-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261127T223000Z
+DTEND:20261128T033000Z
+SUMMARY:Northern Lights at the Arboretum
+LOCATION:Minnesota Landscape Arboretum\, 3675 Arboretum Dr\, Chaska\, MN 5
+ 5318
+DESCRIPTION:A one-way evening walk through light displays in the Arboretum
+ 's gardens\, about 30 miles southwest of downtown. Buy timed tickets ahead
+ \; gate tickets cost $10 more. $35\; kids 15 and under free. Details: http
+ s://weekendscout.app/e/minneapolis/arboretum-northern-lights/
+URL:https://weekendscout.app/e/minneapolis/arboretum-northern-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:minneapolis-arboretum-northern-lights-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T223000Z
+DTEND:20261129T033000Z
+SUMMARY:Northern Lights at the Arboretum
+LOCATION:Minnesota Landscape Arboretum\, 3675 Arboretum Dr\, Chaska\, MN 5
+ 5318
+DESCRIPTION:A one-way evening walk through light displays in the Arboretum
+ 's gardens\, about 30 miles southwest of downtown. Buy timed tickets ahead
+ \; gate tickets cost $10 more. $35\; kids 15 and under free. Details: http
+ s://weekendscout.app/e/minneapolis/arboretum-northern-lights/
+URL:https://weekendscout.app/e/minneapolis/arboretum-northern-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:minneapolis-arboretum-northern-lights-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T223000Z
+DTEND:20261130T033000Z
+SUMMARY:Northern Lights at the Arboretum
+LOCATION:Minnesota Landscape Arboretum\, 3675 Arboretum Dr\, Chaska\, MN 5
+ 5318
+DESCRIPTION:A one-way evening walk through light displays in the Arboretum
+ 's gardens\, about 30 miles southwest of downtown. Buy timed tickets ahead
+ \; gate tickets cost $10 more. $35\; kids 15 and under free. Details: http
+ s://weekendscout.app/e/minneapolis/arboretum-northern-lights/
+URL:https://weekendscout.app/e/minneapolis/arboretum-northern-lights/
+END:VEVENT
+END:VCALENDAR

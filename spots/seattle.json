@@ -1,0 +1,37 @@
+{
+ "city": "seattle",
+ "updated": "2026-11-24",
+ "source": "Limited set: only places whose coordinates could be read from official Seattle Center and Pike Place Market pages (Nov 2026); restaurant picks could not be verified this run",
+ "spots": [
+  {
+   "name": "Pike Place Market",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 47.60909,
+   "lon": -122.34217,
+   "price": "Free",
+   "blurb": "Seattle's historic public market, with fish throwers, produce stalls and waterfront views",
+   "blurbEs": "El histórico mercado público de Seattle, con lanzadores de pescado, puestos de frutas y vistas a la bahía"
+  },
+  {
+   "name": "Seattle Center",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Lower Queen Anne",
+   "lat": 47.62195,
+   "lon": -122.35174,
+   "price": "Free",
+   "blurb": "The 1962 World's Fair grounds, home to the Space Needle and the International Fountain",
+   "blurbEs": "El recinto de la Feria Mundial de 1962, hogar de la Space Needle y la International Fountain"
+  },
+  {
+   "name": "Armory Food & Event Hall",
+   "kind": "lunch",
+   "cuisine": "Food hall",
+   "area": "Seattle Center",
+   "lat": 47.62155,
+   "lon": -122.35094
+  }
+ ]
+}

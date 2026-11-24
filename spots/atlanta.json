@@ -1,0 +1,18 @@
+{
+ "city": "atlanta",
+ "updated": "2026-11-24",
+ "source": "Only one spot added: web search was unavailable mid-research, and verified coordinates could be read only for the Atlanta Botanical Garden (from its official site's map link)",
+ "spots": [
+  {
+   "name": "Atlanta Botanical Garden",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Midtown",
+   "lat": 33.78996,
+   "lon": -84.3726,
+   "price": "Tickets",
+   "blurb": "Botanical garden in Midtown, lit up nightly for the holidays through Jan 10",
+   "blurbEs": "Jardín botánico en Midtown, iluminado cada noche por las fiestas hasta el 10 de enero"
+  }
+ ]
+}

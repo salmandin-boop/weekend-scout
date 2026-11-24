@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:chicago-navy-pier-winter-wonderfest-fri-0@weekendscout.app
-DTSTAMP:20261124T013226Z
+DTSTAMP:20261124T112403Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/chicago/navy-pier-winter-wonderfest/
 END:VEVENT
 BEGIN:VEVENT
 UID:chicago-navy-pier-winter-wonderfest-sat-0@weekendscout.app
-DTSTAMP:20261124T013226Z
+DTSTAMP:20261124T112403Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/chicago/navy-pier-winter-wonderfest/
 END:VEVENT
 BEGIN:VEVENT
 UID:chicago-navy-pier-winter-wonderfest-sun-0@weekendscout.app
-DTSTAMP:20261124T013226Z
+DTSTAMP:20261124T112403Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -48,7 +48,7 @@ URL:https://weekendscout.app/e/chicago/navy-pier-winter-wonderfest/
 END:VEVENT
 BEGIN:VEVENT
 UID:chicago-goodman-christmas-carol-fri-0@weekendscout.app
-DTSTAMP:20261124T013226Z
+DTSTAMP:20261124T112403Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -61,7 +61,7 @@ URL:https://weekendscout.app/e/chicago/goodman-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:chicago-goodman-christmas-carol-sat-0@weekendscout.app
-DTSTAMP:20261124T013226Z
+DTSTAMP:20261124T112403Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -74,7 +74,7 @@ URL:https://weekendscout.app/e/chicago/goodman-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:chicago-goodman-christmas-carol-sun-0@weekendscout.app
-DTSTAMP:20261124T013226Z
+DTSTAMP:20261124T112403Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -87,7 +87,7 @@ URL:https://weekendscout.app/e/chicago/goodman-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:chicago-httyd2-concert-cso-fri-0@weekendscout.app
-DTSTAMP:20261124T013226Z
+DTSTAMP:20261124T112403Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -100,7 +100,7 @@ URL:https://weekendscout.app/e/chicago/httyd2-concert-cso/
 END:VEVENT
 BEGIN:VEVENT
 UID:chicago-httyd2-concert-cso-sat-0@weekendscout.app
-DTSTAMP:20261124T013226Z
+DTSTAMP:20261124T112403Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -113,7 +113,7 @@ URL:https://weekendscout.app/e/chicago/httyd2-concert-cso/
 END:VEVENT
 BEGIN:VEVENT
 UID:chicago-httyd2-concert-cso-sun-0@weekendscout.app
-DTSTAMP:20261124T013226Z
+DTSTAMP:20261124T112403Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -126,7 +126,7 @@ URL:https://weekendscout.app/e/chicago/httyd2-concert-cso/
 END:VEVENT
 BEGIN:VEVENT
 UID:chicago-vienna-boys-choir-sat-0@weekendscout.app
-DTSTAMP:20261124T013226Z
+DTSTAMP:20261124T112403Z
 DTSTART:20261128T193000Z
 DTEND:20261128T213000Z
 SUMMARY:Vienna Boys Choir: Christmas in Vienna
@@ -138,7 +138,7 @@ URL:https://weekendscout.app/e/chicago/vienna-boys-choir/
 END:VEVENT
 BEGIN:VEVENT
 UID:chicago-christkindlmarket-chicago-fri-0@weekendscout.app
-DTSTAMP:20261124T013226Z
+DTSTAMP:20261124T112403Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -151,7 +151,7 @@ URL:https://weekendscout.app/e/chicago/christkindlmarket-chicago/
 END:VEVENT
 BEGIN:VEVENT
 UID:chicago-christkindlmarket-chicago-sat-0@weekendscout.app
-DTSTAMP:20261124T013226Z
+DTSTAMP:20261124T112403Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -164,7 +164,7 @@ URL:https://weekendscout.app/e/chicago/christkindlmarket-chicago/
 END:VEVENT
 BEGIN:VEVENT
 UID:chicago-christkindlmarket-chicago-sun-0@weekendscout.app
-DTSTAMP:20261124T013226Z
+DTSTAMP:20261124T112403Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -177,7 +177,7 @@ URL:https://weekendscout.app/e/chicago/christkindlmarket-chicago/
 END:VEVENT
 BEGIN:VEVENT
 UID:chicago-msi-christmas-around-the-world-fri-0@weekendscout.app
-DTSTAMP:20261124T013226Z
+DTSTAMP:20261124T112403Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -191,7 +191,7 @@ URL:https://weekendscout.app/e/chicago/msi-christmas-around-the-world/
 END:VEVENT
 BEGIN:VEVENT
 UID:chicago-msi-christmas-around-the-world-sat-0@weekendscout.app
-DTSTAMP:20261124T013226Z
+DTSTAMP:20261124T112403Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -205,7 +205,7 @@ URL:https://weekendscout.app/e/chicago/msi-christmas-around-the-world/
 END:VEVENT
 BEGIN:VEVENT
 UID:chicago-msi-christmas-around-the-world-sun-0@weekendscout.app
-DTSTAMP:20261124T013226Z
+DTSTAMP:20261124T112403Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -219,7 +219,7 @@ URL:https://weekendscout.app/e/chicago/msi-christmas-around-the-world/
 END:VEVENT
 BEGIN:VEVENT
 UID:chicago-art-on-the-mart-fri-0@weekendscout.app
-DTSTAMP:20261124T013226Z
+DTSTAMP:20261124T112403Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -233,7 +233,7 @@ URL:https://weekendscout.app/e/chicago/art-on-the-mart/
 END:VEVENT
 BEGIN:VEVENT
 UID:chicago-art-on-the-mart-sat-0@weekendscout.app
-DTSTAMP:20261124T013226Z
+DTSTAMP:20261124T112403Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -247,7 +247,7 @@ URL:https://weekendscout.app/e/chicago/art-on-the-mart/
 END:VEVENT
 BEGIN:VEVENT
 UID:chicago-second-city-rudolph-fri-0@weekendscout.app
-DTSTAMP:20261124T013226Z
+DTSTAMP:20261124T112403Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -259,7 +259,7 @@ URL:https://weekendscout.app/e/chicago/second-city-rudolph/
 END:VEVENT
 BEGIN:VEVENT
 UID:chicago-second-city-rudolph-sat-0@weekendscout.app
-DTSTAMP:20261124T013226Z
+DTSTAMP:20261124T112403Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -271,7 +271,7 @@ URL:https://weekendscout.app/e/chicago/second-city-rudolph/
 END:VEVENT
 BEGIN:VEVENT
 UID:chicago-second-city-rudolph-sun-0@weekendscout.app
-DTSTAMP:20261124T013226Z
+DTSTAMP:20261124T112403Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -283,7 +283,7 @@ URL:https://weekendscout.app/e/chicago/second-city-rudolph/
 END:VEVENT
 BEGIN:VEVENT
 UID:chicago-paper-machete-sat-0@weekendscout.app
-DTSTAMP:20261124T013226Z
+DTSTAMP:20261124T112403Z
 DTSTART:20261128T210000Z
 DTEND:20261128T230000Z
 SUMMARY:The Paper Machete
@@ -295,7 +295,7 @@ URL:https://weekendscout.app/e/chicago/paper-machete/
 END:VEVENT
 BEGIN:VEVENT
 UID:chicago-field-pokemon-fossil-fri-0@weekendscout.app
-DTSTAMP:20261124T013226Z
+DTSTAMP:20261124T112403Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -308,7 +308,7 @@ URL:https://weekendscout.app/e/chicago/field-pokemon-fossil/
 END:VEVENT
 BEGIN:VEVENT
 UID:chicago-field-pokemon-fossil-sat-0@weekendscout.app
-DTSTAMP:20261124T013226Z
+DTSTAMP:20261124T112403Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -321,7 +321,7 @@ URL:https://weekendscout.app/e/chicago/field-pokemon-fossil/
 END:VEVENT
 BEGIN:VEVENT
 UID:chicago-field-pokemon-fossil-sun-0@weekendscout.app
-DTSTAMP:20261124T013226Z
+DTSTAMP:20261124T112403Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT

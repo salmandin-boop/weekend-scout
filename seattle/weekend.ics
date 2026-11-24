@@ -1,0 +1,349 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Seattle
+X-WR-CALDESC:Hand-checked weekend picks in Seattle, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:seattle-westlake-tree-lighting-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261127T190000Z
+DTEND:20261128T020000Z
+SUMMARY:Tree Lighting Celebration
+LOCATION:Westlake Center\, 401 Pine St\, Seattle\, WA 98101
+DESCRIPTION:Downtown's holiday kickoff with crafts\, costumed characters a
+ nd giveaways from 11 a.m. The 45-foot tree and Holiday Star light up at 5 
+ p.m.\, followed by fireworks. Free. Details: https://weekendscout.app/e/se
+ attle/westlake-tree-lighting/
+URL:https://weekendscout.app/e/seattle/westlake-tree-lighting/
+END:VEVENT
+BEGIN:VEVENT
+UID:seattle-pnb-nutcracker-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261127T220000Z
+DTEND:20261128T000000Z
+SUMMARY:George Balanchine's The Nutcracker
+LOCATION:McCaw Hall\, Seattle Center\, Seattle\, WA 98109
+DESCRIPTION:Pacific Northwest Ballet's holiday classic opens its run on Bl
+ ack Friday. About two hours with one intermission. Tickets. Details: https
+ ://weekendscout.app/e/seattle/pnb-nutcracker/
+URL:https://weekendscout.app/e/seattle/pnb-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:seattle-pnb-nutcracker-fri-1@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T033000Z
+DTEND:20261128T053000Z
+SUMMARY:George Balanchine's The Nutcracker
+LOCATION:McCaw Hall\, Seattle Center\, Seattle\, WA 98109
+DESCRIPTION:Pacific Northwest Ballet's holiday classic opens its run on Bl
+ ack Friday. About two hours with one intermission. Tickets. Details: https
+ ://weekendscout.app/e/seattle/pnb-nutcracker/
+URL:https://weekendscout.app/e/seattle/pnb-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:seattle-pnb-nutcracker-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T220000Z
+DTEND:20261129T000000Z
+SUMMARY:George Balanchine's The Nutcracker
+LOCATION:McCaw Hall\, Seattle Center\, Seattle\, WA 98109
+DESCRIPTION:Pacific Northwest Ballet's holiday classic opens its run on Bl
+ ack Friday. About two hours with one intermission. Tickets. Details: https
+ ://weekendscout.app/e/seattle/pnb-nutcracker/
+URL:https://weekendscout.app/e/seattle/pnb-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:seattle-pnb-nutcracker-sat-1@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T033000Z
+DTEND:20261129T053000Z
+SUMMARY:George Balanchine's The Nutcracker
+LOCATION:McCaw Hall\, Seattle Center\, Seattle\, WA 98109
+DESCRIPTION:Pacific Northwest Ballet's holiday classic opens its run on Bl
+ ack Friday. About two hours with one intermission. Tickets. Details: https
+ ://weekendscout.app/e/seattle/pnb-nutcracker/
+URL:https://weekendscout.app/e/seattle/pnb-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:seattle-pnb-nutcracker-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T203000Z
+DTEND:20261129T223000Z
+SUMMARY:George Balanchine's The Nutcracker
+LOCATION:McCaw Hall\, Seattle Center\, Seattle\, WA 98109
+DESCRIPTION:Pacific Northwest Ballet's holiday classic opens its run on Bl
+ ack Friday. About two hours with one intermission. Tickets. Details: https
+ ://weekendscout.app/e/seattle/pnb-nutcracker/
+URL:https://weekendscout.app/e/seattle/pnb-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:seattle-pnb-nutcracker-sun-1@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261130T013000Z
+DTEND:20261130T033000Z
+SUMMARY:George Balanchine's The Nutcracker
+LOCATION:McCaw Hall\, Seattle Center\, Seattle\, WA 98109
+DESCRIPTION:Pacific Northwest Ballet's holiday classic opens its run on Bl
+ ack Friday. About two hours with one intermission. Tickets. Details: https
+ ://weekendscout.app/e/seattle/pnb-nutcracker/
+URL:https://weekendscout.app/e/seattle/pnb-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:seattle-kraken-oilers-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T030000Z
+DTEND:20261129T050000Z
+SUMMARY:Seattle Kraken vs. Edmonton Oilers
+LOCATION:Climate Pledge Arena\, Seattle Center\, Seattle\, WA 98109
+DESCRIPTION:The Kraken host the Edmonton Oilers on Saturday night at Clima
+ te Pledge Arena. Tickets. Details: https://weekendscout.app/e/seattle/krak
+ en-oilers/
+URL:https://weekendscout.app/e/seattle/kraken-oilers/
+END:VEVENT
+BEGIN:VEVENT
+UID:seattle-christmas-ship-opening-night-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T010000Z
+DTEND:20261128T023000Z
+SUMMARY:Christmas Ship Festival: Opening Night
+LOCATION:Argosy Cruises\, Pier 55\, 1101 Alaskan Way\, Pier 55\, Seattle\,
+  WA 98101
+DESCRIPTION:A 90-minute holiday cruise with The Dickens Carolers singing a
+ board\, stopping off Alki Beach. Opening night sails from the downtown wat
+ erfront. Tickets. Details: https://weekendscout.app/e/seattle/christmas-sh
+ ip-opening-night/
+URL:https://weekendscout.app/e/seattle/christmas-ship-opening-night/
+END:VEVENT
+BEGIN:VEVENT
+UID:seattle-christmas-ship-opening-night-fri-1@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T040000Z
+DTEND:20261128T053000Z
+SUMMARY:Christmas Ship Festival: Opening Night
+LOCATION:Argosy Cruises\, Pier 55\, 1101 Alaskan Way\, Pier 55\, Seattle\,
+  WA 98101
+DESCRIPTION:A 90-minute holiday cruise with The Dickens Carolers singing a
+ board\, stopping off Alki Beach. Opening night sails from the downtown wat
+ erfront. Tickets. Details: https://weekendscout.app/e/seattle/christmas-sh
+ ip-opening-night/
+URL:https://weekendscout.app/e/seattle/christmas-ship-opening-night/
+END:VEVENT
+BEGIN:VEVENT
+UID:seattle-magic-in-the-market-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T190000Z
+DTEND:20261129T020000Z
+SUMMARY:31st Annual Magic in the Market
+LOCATION:Pike Place Market\, 85 Pike St\, Seattle\, WA 98101
+DESCRIPTION:Free Santa photos\, an elf scavenger hunt\, cookie decorating 
+ and holiday buskers across the market\, plus 21+ Sip & Savor stops from no
+ on. The lighting ceremony is at 5 p.m. under the Public Market sign. Free.
+  Details: https://weekendscout.app/e/seattle/magic-in-the-market/
+URL:https://weekendscout.app/e/seattle/magic-in-the-market/
+END:VEVENT
+BEGIN:VEVENT
+UID:seattle-wildlanterns-woodland-park-zoo-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T000000Z
+DTEND:20261128T050000Z
+SUMMARY:WildLanterns
+LOCATION:Woodland Park Zoo\, 5500 Phinney Ave N\, Seattle\, WA 98103
+DESCRIPTION:Woodland Park Zoo's after-dark lantern festival lights up the 
+ grounds nightly. Last entry 8:30 p.m. Tickets. Details: https://weekendsco
+ ut.app/e/seattle/wildlanterns-woodland-park-zoo/
+URL:https://weekendscout.app/e/seattle/wildlanterns-woodland-park-zoo/
+END:VEVENT
+BEGIN:VEVENT
+UID:seattle-wildlanterns-woodland-park-zoo-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T000000Z
+DTEND:20261129T050000Z
+SUMMARY:WildLanterns
+LOCATION:Woodland Park Zoo\, 5500 Phinney Ave N\, Seattle\, WA 98103
+DESCRIPTION:Woodland Park Zoo's after-dark lantern festival lights up the 
+ grounds nightly. Last entry 8:30 p.m. Tickets. Details: https://weekendsco
+ ut.app/e/seattle/wildlanterns-woodland-park-zoo/
+URL:https://weekendscout.app/e/seattle/wildlanterns-woodland-park-zoo/
+END:VEVENT
+BEGIN:VEVENT
+UID:seattle-wildlanterns-woodland-park-zoo-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261130T000000Z
+DTEND:20261130T050000Z
+SUMMARY:WildLanterns
+LOCATION:Woodland Park Zoo\, 5500 Phinney Ave N\, Seattle\, WA 98103
+DESCRIPTION:Woodland Park Zoo's after-dark lantern festival lights up the 
+ grounds nightly. Last entry 8:30 p.m. Tickets. Details: https://weekendsco
+ ut.app/e/seattle/wildlanterns-woodland-park-zoo/
+URL:https://weekendscout.app/e/seattle/wildlanterns-woodland-park-zoo/
+END:VEVENT
+BEGIN:VEVENT
+UID:seattle-seattle-christmas-market-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261127T193000Z
+DTEND:20261128T050000Z
+SUMMARY:Seattle Christmas Market
+LOCATION:Fisher Pavilion\, Seattle Center\, 305 Harrison St\, Seattle\, WA
+  98109
+DESCRIPTION:A holiday market at Seattle Center's Fisher Pavilion with gift
+  shopping and seasonal treats. Timed-entry tickets\; kids 6 and under free
+ . Tickets. Details: https://weekendscout.app/e/seattle/seattle-christmas-m
+ arket/
+URL:https://weekendscout.app/e/seattle/seattle-christmas-market/
+END:VEVENT
+BEGIN:VEVENT
+UID:seattle-seattle-christmas-market-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T193000Z
+DTEND:20261129T050000Z
+SUMMARY:Seattle Christmas Market
+LOCATION:Fisher Pavilion\, Seattle Center\, 305 Harrison St\, Seattle\, WA
+  98109
+DESCRIPTION:A holiday market at Seattle Center's Fisher Pavilion with gift
+  shopping and seasonal treats. Timed-entry tickets\; kids 6 and under free
+ . Tickets. Details: https://weekendscout.app/e/seattle/seattle-christmas-m
+ arket/
+URL:https://weekendscout.app/e/seattle/seattle-christmas-market/
+END:VEVENT
+BEGIN:VEVENT
+UID:seattle-seattle-christmas-market-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T193000Z
+DTEND:20261130T050000Z
+SUMMARY:Seattle Christmas Market
+LOCATION:Fisher Pavilion\, Seattle Center\, 305 Harrison St\, Seattle\, WA
+  98109
+DESCRIPTION:A holiday market at Seattle Center's Fisher Pavilion with gift
+  shopping and seasonal treats. Timed-entry tickets\; kids 6 and under free
+ . Tickets. Details: https://weekendscout.app/e/seattle/seattle-christmas-m
+ arket/
+URL:https://weekendscout.app/e/seattle/seattle-christmas-market/
+END:VEVENT
+BEGIN:VEVENT
+UID:seattle-winterfest-train-village-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261127T180000Z
+DTEND:20261128T040000Z
+SUMMARY:Winterfest Train & Village
+LOCATION:Armory\, Seattle Center\, 305 Harrison St\, Seattle\, WA 98109
+DESCRIPTION:Seattle Center's beloved model train and miniature winter vill
+ age returns inside the Armory. Kids can run the train for a $2 suggested d
+ onation at set times. Free. Details: https://weekendscout.app/e/seattle/wi
+ nterfest-train-village/
+URL:https://weekendscout.app/e/seattle/winterfest-train-village/
+END:VEVENT
+BEGIN:VEVENT
+UID:seattle-winterfest-train-village-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T180000Z
+DTEND:20261129T020000Z
+SUMMARY:Winterfest Train & Village
+LOCATION:Armory\, Seattle Center\, 305 Harrison St\, Seattle\, WA 98109
+DESCRIPTION:Seattle Center's beloved model train and miniature winter vill
+ age returns inside the Armory. Kids can run the train for a $2 suggested d
+ onation at set times. Free. Details: https://weekendscout.app/e/seattle/wi
+ nterfest-train-village/
+URL:https://weekendscout.app/e/seattle/winterfest-train-village/
+END:VEVENT
+BEGIN:VEVENT
+UID:seattle-winterfest-train-village-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T180000Z
+DTEND:20261130T020000Z
+SUMMARY:Winterfest Train & Village
+LOCATION:Armory\, Seattle Center\, 305 Harrison St\, Seattle\, WA 98109
+DESCRIPTION:Seattle Center's beloved model train and miniature winter vill
+ age returns inside the Armory. Kids can run the train for a $2 suggested d
+ onation at set times. Free. Details: https://weekendscout.app/e/seattle/wi
+ nterfest-train-village/
+URL:https://weekendscout.app/e/seattle/winterfest-train-village/
+END:VEVENT
+BEGIN:VEVENT
+UID:seattle-snowflake-lane-bellevue-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261128T030000Z
+DTEND:20261128T050000Z
+SUMMARY:Snowflake Lane
+LOCATION:The Bellevue Collection\, Bellevue Way NE between NE 4th St and N
+ E 8th St\, Bellevue\, WA 98004
+DESCRIPTION:A free nightly holiday parade along Bellevue Way between Belle
+ vue Square and Lincoln Square. Starts Friday and runs nightly through Dec.
+  24\; garage parking is free. Free. Details: https://weekendscout.app/e/se
+ attle/snowflake-lane-bellevue/
+URL:https://weekendscout.app/e/seattle/snowflake-lane-bellevue/
+END:VEVENT
+BEGIN:VEVENT
+UID:seattle-snowflake-lane-bellevue-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261129T030000Z
+DTEND:20261129T050000Z
+SUMMARY:Snowflake Lane
+LOCATION:The Bellevue Collection\, Bellevue Way NE between NE 4th St and N
+ E 8th St\, Bellevue\, WA 98004
+DESCRIPTION:A free nightly holiday parade along Bellevue Way between Belle
+ vue Square and Lincoln Square. Starts Friday and runs nightly through Dec.
+  24\; garage parking is free. Free. Details: https://weekendscout.app/e/se
+ attle/snowflake-lane-bellevue/
+URL:https://weekendscout.app/e/seattle/snowflake-lane-bellevue/
+END:VEVENT
+BEGIN:VEVENT
+UID:seattle-snowflake-lane-bellevue-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART:20261130T030000Z
+DTEND:20261130T050000Z
+SUMMARY:Snowflake Lane
+LOCATION:The Bellevue Collection\, Bellevue Way NE between NE 4th St and N
+ E 8th St\, Bellevue\, WA 98004
+DESCRIPTION:A free nightly holiday parade along Bellevue Way between Belle
+ vue Square and Lincoln Square. Starts Friday and runs nightly through Dec.
+  24\; garage parking is free. Free. Details: https://weekendscout.app/e/se
+ attle/snowflake-lane-bellevue/
+URL:https://weekendscout.app/e/seattle/snowflake-lane-bellevue/
+END:VEVENT
+BEGIN:VEVENT
+UID:seattle-act-christmas-carol-fri-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:A Christmas Carol
+LOCATION:Union Arts Center\, 700 Union St\, Seattle\, WA 98101
+DESCRIPTION:Seattle's long-running stage version of the Dickens classic op
+ ens for the season. Recommended for ages 5 and up\; 90 minutes\, no interm
+ ission. Tickets. Details: https://weekendscout.app/e/seattle/act-christmas
+ -carol/
+URL:https://weekendscout.app/e/seattle/act-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:seattle-act-christmas-carol-sat-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:A Christmas Carol
+LOCATION:Union Arts Center\, 700 Union St\, Seattle\, WA 98101
+DESCRIPTION:Seattle's long-running stage version of the Dickens classic op
+ ens for the season. Recommended for ages 5 and up\; 90 minutes\, no interm
+ ission. Tickets. Details: https://weekendscout.app/e/seattle/act-christmas
+ -carol/
+URL:https://weekendscout.app/e/seattle/act-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:seattle-act-christmas-carol-sun-0@weekendscout.app
+DTSTAMP:20261124T112403Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:A Christmas Carol
+LOCATION:Union Arts Center\, 700 Union St\, Seattle\, WA 98101
+DESCRIPTION:Seattle's long-running stage version of the Dickens classic op
+ ens for the season. Recommended for ages 5 and up\; 90 minutes\, no interm
+ ission. Tickets. Details: https://weekendscout.app/e/seattle/act-christmas
+ -carol/
+URL:https://weekendscout.app/e/seattle/act-christmas-carol/
+END:VEVENT
+END:VCALENDAR
