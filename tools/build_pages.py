@@ -58,6 +58,7 @@ h1{font-size:clamp(2rem,7vw,2.8rem);font-weight:800}h2{font-size:1.3rem;margin:2
 footer{margin-top:36px;color:var(--muted);font-size:.85rem}footer a{color:inherit}
 div.ev a{color:var(--accent);font-weight:700}"""
 
+CF_TOKEN = (json.load(open(os.path.join(ROOT, 'config.json'))).get('analytics') or {}).get('cloudflareToken', '')
 def head(title, desc, url, img, extra=''):
     return f"""<!doctype html>
 <html lang="en"><head>
@@ -76,6 +77,7 @@ def head(title, desc, url, img, extra=''):
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,800&family=Figtree:wght@400;600;700&display=swap">
 <style>{CSS}</style>{extra}
+{('<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon=' + "'" + json.dumps({"token": CF_TOKEN}) + "'" + '></script>') if CF_TOKEN else ''}
 </head>"""
 
 def iso_start(day, s):
