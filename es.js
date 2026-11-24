@@ -55,7 +55,7 @@ const ES = {
   'Show indoor picks':'Ver planes bajo techo', 'Show outdoor picks':'Ver planes al aire libre', 'Date night picks':'Planes para una cita', 'How about this one?':'¿Qué tal este?',
   'No saved events yet':'Aún no tienes eventos guardados', "Tap the heart on anything that looks good and it'll wait for you here.":'Toca el corazón en lo que te guste y te esperará aquí.',
   'Browse this weekend':'Ver este fin de semana', 'Happening now':'Ahora mismo', 'Opening weekend':'Fin de semana de estreno', 'Friday only':'Solo viernes', 'Saturday only':'Solo sábado', 'Sunday only':'Solo domingo',
-  'Sold out':'Agotado', 'Use my location':'Usar mi ubicación', 'Choose your city':'Elige tu ciudad', 'Closest events first':'Eventos más cercanos primero',
+  'Sold out':'Agotado', 'Use my location':'Usar mi ubicación', 'Choose your city':'Elige tu ciudad', 'Choose a city':'Elige una ciudad', 'Search cities':'Buscar ciudades', 'More cities are on the way.':'Vienen más ciudades.', 'Closest events first':'Eventos más cercanos primero',
   'Copied. Paste it to a friend':'Copiado. Pégalo a un amigo', 'Story image saved':'Imagen guardada', 'Plan copied':'Plan copiado', 'Saved!':'¡Guardado!', 'Removed':'Quitado',
   'Free entry':'Entrada gratis', 'Tickets online':'Boletos en línea', 'Opens Friday':'Abre el viernes', 'Opens Saturday':'Abre el sábado', 'Check details':'Ver detalles', 'Vehicle fee in season':'Cuota por vehículo en temporada',
   'Event info':'Info del evento', 'Calendar':'Calendario', 'More about this event':'Más sobre este evento', 'Something wrong with this listing?':'¿Algo está mal en este anuncio?',

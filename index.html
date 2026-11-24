@@ -16,14 +16,14 @@
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Weekend Scout">
 <meta property="og:title" content="Weekend Scout: what's on this weekend">
-<meta property="og:description" content="Hand-checked concerts, games, markets and family events in 15 US cities, updated every Wednesday.">
+<meta property="og:description" content="Hand-checked concerts, games, markets and family events in cities across the US, updated every Wednesday.">
 <meta property="og:url" content="https://weekendscout.app/">
 <meta property="og:image" content="https://weekendscout.app/icons/og-image.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Weekend Scout app showing this weekend's events">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","name":"Weekend Scout","url":"https://weekendscout.app/","description":"Hand-checked concerts, games, markets and family events in 15 US cities, updated every Wednesday."},{"@type":"Organization","name":"ENDins LLC","url":"https://weekendscout.app/","logo":"https://weekendscout.app/icons/icon-512.png","email":"support@weekendscout.app","telephone":"+1-315-383-9602","address":{"@type":"PostalAddress","addressLocality":"East Syracuse","addressRegion":"NY","addressCountry":"US"}}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","name":"Weekend Scout","url":"https://weekendscout.app/","description":"Hand-checked concerts, games, markets and family events in cities across the US, updated every Wednesday."},{"@type":"Organization","name":"ENDins LLC","url":"https://weekendscout.app/","logo":"https://weekendscout.app/icons/icon-512.png","email":"support@weekendscout.app","telephone":"+1-315-383-9602","address":{"@type":"PostalAddress","addressLocality":"East Syracuse","addressRegion":"NY","addressCountry":"US"}}]}</script>
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
@@ -66,6 +66,7 @@ header.top{padding-top:calc(var(--sat) + 20px);padding-bottom:4px}
 .city-btn span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .city-list{display:grid;gap:8px}
 .city-list .btn{justify-content:space-between;width:100%}
+.city-q{width:100%;font:inherit;font-size:1rem;color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:11px 12px;min-height:44px;margin:0 0 10px;-webkit-appearance:none;appearance:none}
 .btn.locate{justify-content:center;width:100%;border-style:dashed;border-color:var(--accent);color:var(--accent)}
 .kicker{white-space:nowrap;font-size:.75rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--accent)}
 .toprow .kicker{min-width:0;overflow:hidden;text-overflow:ellipsis}
@@ -452,7 +453,7 @@ dialog.sheet[open]{animation:sheetUp .22s cubic-bezier(.2,.8,.2,1)}
 
 <script>
 (() => {
-const APP_VERSION = '1.13.0';
+const APP_VERSION = '1.14.0';
 const SITE_URL = 'https://weekendscout.app/'; // the live address, so shared links point there
 const TZ0 = 'America/New_York';
 let TZ = TZ0; // switches to the chosen city's time zone
@@ -1262,7 +1263,7 @@ async function storyImage(id, btn){
     // footer
     x.fillStyle = '#fff'; x.font = `800 56px ${D}`; x.fillText('More hand-picked plans at', 90, H - 300);
     x.fillStyle = '#ff8a52'; x.font = `800 72px ${D}`; x.fillText('weekendscout.app', 90, H - 210);
-    x.fillStyle = '#c9d2e6'; x.font = `600 38px ${B}`; x.fillText('New list every Wednesday · 15 US cities', 90, H - 140);
+    x.fillStyle = '#c9d2e6'; x.font = `600 38px ${B}`; x.fillText(`New list every Wednesday · ${CITIES.length} US cities`, 90, H - 140);
     const blob = await new Promise(r => c.toBlob(r, 'image/png'));
     const file = new File([blob], `weekend-scout-${ev.id}.png`, { type:'image/png' });
     try { if (navigator.canShare && navigator.canShare({ files:[file] })) { await navigator.share({ files:[file], title:ev.title, text:`${ev.title} · ${shareURL(ev.id)}` }); return; } } catch (err) { if (err && err.name === 'AbortError') return; }
@@ -1277,11 +1278,13 @@ function openCityPicker(){
   $('sheet-in').innerHTML = `<div class="grab" aria-hidden="true"></div>
     <div class="sheet-head"><h2 id="s-title">Choose a city</h2><button class="x-btn" type="button" data-close aria-label="Close">${ICON.x}</button></div>
     ${'geolocation' in navigator && CITIES.every(c => typeof c.lat === 'number') ? `<button class="btn locate" type="button" data-locate>${ICON.locate} Use my location</button>` : ''}
-    <div class="city-list">${CITIES.map(c => `<button class="btn${c.id === CITY.id ? ' primary' : ''}" type="button" data-city="${esc(c.id)}">${esc(cityName(c))}${c.id === CITY.id ? ' <span>✓</span>' : ''}</button>`).join('')}</div>
+    ${CITIES.length > 12 ? `<input class="city-q" type="search" id="city-q" placeholder="Search cities" aria-label="Search cities" autocomplete="off">` : ''}
+    <div class="city-list">${[CITY, ...CITIES.filter(c => c.id !== CITY.id).sort((a, b) => a.name.localeCompare(b.name))].map(c => `<button class="btn${c.id === CITY.id ? ' primary' : ''}" type="button" data-city="${esc(c.id)}" data-q="${esc((c.name + ' ' + (c.state || '')).toLowerCase())}">${esc(cityName(c))}${c.id === CITY.id ? ' <span>✓</span>' : ''}</button>`).join('')}</div>
     <div class="cal"><strong style="font-size:.95rem">Don't see your city?</strong>
       <p style="font-size:.9rem;color:var(--muted)">${CITIES.length < 2 ? 'Syracuse is our first city, and more are on the way.' : 'More cities are on the way.'} Tell us where you'd like Weekend Scout next.</p>
       <div class="contact"><a class="btn" href="mailto:support@weekendscout.app?subject=${encodeURIComponent('Weekend Scout city request')}">Email us</a><a class="btn" href="sms:+13153839602">Text us</a></div>
       <p style="font-size:.82rem;color:var(--muted)">support@weekendscout.app · 315-383-9602</p></div>`;
+  const q = $('city-q'); if (q) q.addEventListener('input', () => { const v = q.value.trim().toLowerCase(); document.querySelectorAll('.city-list [data-q]').forEach(b => { b.hidden = !!v && !b.dataset.q.includes(v); }); });
   if (!sheet.open){ try { sheet.showModal(); } catch { sheet.setAttribute('open',''); } }
 }
 /* ---------- nearest city from the phone's location (checked on the phone, never sent anywhere) ---------- */

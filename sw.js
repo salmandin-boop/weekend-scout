@@ -1,5 +1,5 @@
 // Weekend Scout service worker: app shell works offline; city lists and events are network-first.
-const VERSION = 'ws-v1.13.0';
+const VERSION = 'ws-v1.14.0';
 const SHELL = ['./', 'index.html', 'es.js', '404.html', 'privacy.html', 'terms.html', 'manifest.webmanifest', 'icons/icon.svg', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/apple-touch-icon.png'];
 
 self.addEventListener('install', e => {

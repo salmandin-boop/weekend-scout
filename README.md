@@ -1,6 +1,6 @@
 # Weekend Scout
 
-An installable web app (PWA) listing what's happening each weekend in 15 US cities. No build step, no dependencies.
+An installable web app (PWA) listing what's happening each weekend in cities across the US (15 now, growing to 50 by mid-December 2026). No build step, no dependencies.
 
 | File | What it is |
 |---|---|
@@ -120,3 +120,8 @@ The weekly update checks that every date-night event has at least 2 spots within
 - **Send:** the Send button shares the city's weekend list (native share sheet, or copies the link).
 - **Dog friendly / Accessible:** `good` tags `dogs` and `access`, shown in the Filters sheet only when a city has them.
 - **Cities:** 15 now, adding Rochester, Buffalo, Albany and Ithaca. The newer cities start with shorter lists (3+ events, verified only) plus "Always good" picks.
+
+## Growing to 50 cities (v1.14)
+- City picker has a search box once there are more than 12 cities (sorted A–Z, current city first).
+- New metros are added by the weekly group tasks, about 9 a week through mid-December 2026: group B (from Nov 25) Washington, Miami, Atlanta, Boston, San Francisco, Seattle, Denver, Detroit, Minneapolis; group C (from Dec 2) Tampa, Baltimore, Orlando, Charlotte, St. Louis, Portland, Las Vegas, Nashville, Pittsburgh; group D (from Dec 9) Sacramento, San Jose, Cincinnati, Kansas City, Columbus, Indianapolis, Cleveland, New Orleans, Salt Lake City; group E (from Dec 16) Jacksonville, Milwaukee, Raleigh, Oklahoma City, Memphis, Richmond, Louisville, Providence.
+- Each group task adds its cities to cities.json the first time (with events/ and spots/ files), then refreshes them every Wednesday. Tasks run at staggered times and must `git pull --rebase` before pushing.
