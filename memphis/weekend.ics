@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:memphis-memphis-tigers-temple-football-fri-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261127T203000Z
 DTEND:20261127T223000Z
 SUMMARY:Memphis Tigers vs. Temple (football)
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/memphis/memphis-tigers-temple-football/
 END:VEVENT
 BEGIN:VEVENT
 UID:memphis-holiday-wonders-at-the-garden-fri-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261127T230000Z
 DTEND:20261128T023000Z
 SUMMARY:Holiday Wonders at the Garden
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/memphis/holiday-wonders-at-the-garden/
 END:VEVENT
 BEGIN:VEVENT
 UID:memphis-holiday-wonders-at-the-garden-sat-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261128T230000Z
 DTEND:20261129T023000Z
 SUMMARY:Holiday Wonders at the Garden
@@ -48,7 +48,7 @@ URL:https://weekendscout.app/e/memphis/holiday-wonders-at-the-garden/
 END:VEVENT
 BEGIN:VEVENT
 UID:memphis-enchanted-forest-festival-of-trees-fri-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261127T163000Z
 DTEND:20261127T230000Z
 SUMMARY:The Enchanted Forest Festival of Trees
@@ -62,7 +62,7 @@ URL:https://weekendscout.app/e/memphis/enchanted-forest-festival-of-trees/
 END:VEVENT
 BEGIN:VEVENT
 UID:memphis-enchanted-forest-festival-of-trees-sat-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261128T163000Z
 DTEND:20261128T230000Z
 SUMMARY:The Enchanted Forest Festival of Trees
@@ -76,7 +76,7 @@ URL:https://weekendscout.app/e/memphis/enchanted-forest-festival-of-trees/
 END:VEVENT
 BEGIN:VEVENT
 UID:memphis-enchanted-forest-festival-of-trees-sun-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261129T163000Z
 DTEND:20261129T230000Z
 SUMMARY:The Enchanted Forest Festival of Trees
@@ -90,7 +90,7 @@ URL:https://weekendscout.app/e/memphis/enchanted-forest-festival-of-trees/
 END:VEVENT
 BEGIN:VEVENT
 UID:memphis-home-alone-in-concert-memphis-symphony-sat-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261128T190000Z
 DTEND:20261128T210000Z
 SUMMARY:Home Alone in Concert
@@ -102,7 +102,7 @@ URL:https://weekendscout.app/e/memphis/home-alone-in-concert-memphis-symphony/
 END:VEVENT
 BEGIN:VEVENT
 UID:memphis-gabriel-iglesias-1976-tour-fedexforum-sat-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261129T020000Z
 DTEND:20261129T040000Z
 SUMMARY:Gabriel Iglesias: The 1976 Tour
@@ -114,7 +114,7 @@ URL:https://weekendscout.app/e/memphis/gabriel-iglesias-1976-tour-fedexforum/
 END:VEVENT
 BEGIN:VEVENT
 UID:memphis-grizzlies-lakers-sun-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261129T210000Z
 DTEND:20261129T230000Z
 SUMMARY:Grizzlies vs. Lakers
@@ -126,7 +126,7 @@ URL:https://weekendscout.app/e/memphis/grizzlies-lakers/
 END:VEVENT
 BEGIN:VEVENT
 UID:memphis-starry-nights-shelby-farms-fri-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -141,7 +141,7 @@ URL:https://weekendscout.app/e/memphis/starry-nights-shelby-farms/
 END:VEVENT
 BEGIN:VEVENT
 UID:memphis-starry-nights-shelby-farms-sat-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -156,7 +156,7 @@ URL:https://weekendscout.app/e/memphis/starry-nights-shelby-farms/
 END:VEVENT
 BEGIN:VEVENT
 UID:memphis-patterson-parker-exhibition-botanic-garden-fri-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261127T150000Z
 DTEND:20261127T223000Z
 SUMMARY:Pat Patterson & Randy Parker Art Exhibition
@@ -170,7 +170,7 @@ URL:https://weekendscout.app/e/memphis/patterson-parker-exhibition-botanic-garde
 END:VEVENT
 BEGIN:VEVENT
 UID:memphis-patterson-parker-exhibition-botanic-garden-sat-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261128T150000Z
 DTEND:20261128T223000Z
 SUMMARY:Pat Patterson & Randy Parker Art Exhibition
@@ -184,7 +184,7 @@ URL:https://weekendscout.app/e/memphis/patterson-parker-exhibition-botanic-garde
 END:VEVENT
 BEGIN:VEVENT
 UID:memphis-patterson-parker-exhibition-botanic-garden-sun-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261129T150000Z
 DTEND:20261129T223000Z
 SUMMARY:Pat Patterson & Randy Parker Art Exhibition
@@ -195,5 +195,92 @@ DESCRIPTION:Mixed-media landscapes by Pat Patterson and park watercolors b
  30. Free. Details: https://weekendscout.app/e/memphis/patterson-parker-exh
  ibition-botanic-garden/
 URL:https://weekendscout.app/e/memphis/patterson-parker-exhibition-botanic-garden/
+END:VEVENT
+BEGIN:VEVENT
+UID:memphis-main-street-holiday-lights-fri-0@weekendscout.app
+DTSTAMP:20261124T132358Z
+DTSTART:20261127T220000Z
+DTEND:20261128T055900Z
+SUMMARY:Main Street Holiday Lights
+LOCATION:Main Street (South Main District)\, S Main St between G.E. Patter
+ son Ave and Butler Ave\, Memphis\, TN 38103
+DESCRIPTION:South Main Street is lit up for the holidays every night from 
+ 4 p.m. to midnight through January. Pair a stroll with dinner and shopping
+  in the district. Free. Details: https://weekendscout.app/e/memphis/main-s
+ treet-holiday-lights/
+URL:https://weekendscout.app/e/memphis/main-street-holiday-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:memphis-main-street-holiday-lights-sat-0@weekendscout.app
+DTSTAMP:20261124T132358Z
+DTSTART:20261128T220000Z
+DTEND:20261129T055900Z
+SUMMARY:Main Street Holiday Lights
+LOCATION:Main Street (South Main District)\, S Main St between G.E. Patter
+ son Ave and Butler Ave\, Memphis\, TN 38103
+DESCRIPTION:South Main Street is lit up for the holidays every night from 
+ 4 p.m. to midnight through January. Pair a stroll with dinner and shopping
+  in the district. Free. Details: https://weekendscout.app/e/memphis/main-s
+ treet-holiday-lights/
+URL:https://weekendscout.app/e/memphis/main-street-holiday-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:memphis-main-street-holiday-lights-sun-0@weekendscout.app
+DTSTAMP:20261124T132358Z
+DTSTART:20261129T220000Z
+DTEND:20261130T055900Z
+SUMMARY:Main Street Holiday Lights
+LOCATION:Main Street (South Main District)\, S Main St between G.E. Patter
+ son Ave and Butler Ave\, Memphis\, TN 38103
+DESCRIPTION:South Main Street is lit up for the holidays every night from 
+ 4 p.m. to midnight through January. Pair a stroll with dinner and shopping
+  in the district. Free. Details: https://weekendscout.app/e/memphis/main-s
+ treet-holiday-lights/
+URL:https://weekendscout.app/e/memphis/main-street-holiday-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:memphis-santas-wonderland-bass-pro-pyramid-fri-0@weekendscout.app
+DTSTAMP:20261124T132358Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Santa's Wonderland
+LOCATION:Bass Pro Shops at the Pyramid\, 1 Bass Pro Dr\, Memphis\, TN 3810
+ 5
+DESCRIPTION:Free photos and a shareable video with Santa inside the Pyrami
+ d\, plus crafts and a Christmas village\, through Christmas Eve. Reserve a
+  free time slot online\; they fill up fast. Free. Details: https://weekend
+ scout.app/e/memphis/santas-wonderland-bass-pro-pyramid/
+URL:https://weekendscout.app/e/memphis/santas-wonderland-bass-pro-pyramid/
+END:VEVENT
+BEGIN:VEVENT
+UID:memphis-santas-wonderland-bass-pro-pyramid-sat-0@weekendscout.app
+DTSTAMP:20261124T132358Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Santa's Wonderland
+LOCATION:Bass Pro Shops at the Pyramid\, 1 Bass Pro Dr\, Memphis\, TN 3810
+ 5
+DESCRIPTION:Free photos and a shareable video with Santa inside the Pyrami
+ d\, plus crafts and a Christmas village\, through Christmas Eve. Reserve a
+  free time slot online\; they fill up fast. Free. Details: https://weekend
+ scout.app/e/memphis/santas-wonderland-bass-pro-pyramid/
+URL:https://weekendscout.app/e/memphis/santas-wonderland-bass-pro-pyramid/
+END:VEVENT
+BEGIN:VEVENT
+UID:memphis-santas-wonderland-bass-pro-pyramid-sun-0@weekendscout.app
+DTSTAMP:20261124T132358Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Santa's Wonderland
+LOCATION:Bass Pro Shops at the Pyramid\, 1 Bass Pro Dr\, Memphis\, TN 3810
+ 5
+DESCRIPTION:Free photos and a shareable video with Santa inside the Pyrami
+ d\, plus crafts and a Christmas village\, through Christmas Eve. Reserve a
+  free time slot online\; they fill up fast. Free. Details: https://weekend
+ scout.app/e/memphis/santas-wonderland-bass-pro-pyramid/
+URL:https://weekendscout.app/e/memphis/santas-wonderland-bass-pro-pyramid/
 END:VEVENT
 END:VCALENDAR

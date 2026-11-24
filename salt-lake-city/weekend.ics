@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:salt-lake-city-jazz-vs-nuggets-fri-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261128T023000Z
 DTEND:20261128T043000Z
 SUMMARY:Utah Jazz vs. Denver Nuggets
@@ -21,7 +21,7 @@ URL:https://weekendscout.app/e/salt-lake-city/jazz-vs-nuggets/
 END:VEVENT
 BEGIN:VEVENT
 UID:salt-lake-city-jazz-vs-suns-sun-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261129T220000Z
 DTEND:20261130T000000Z
 SUMMARY:Utah Jazz vs. Phoenix Suns
@@ -33,7 +33,7 @@ URL:https://weekendscout.app/e/salt-lake-city/jazz-vs-suns/
 END:VEVENT
 BEGIN:VEVENT
 UID:salt-lake-city-utes-vs-west-virginia-fri-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261128T020000Z
 DTEND:20261128T040000Z
 SUMMARY:Utah Utes vs. West Virginia
@@ -46,7 +46,7 @@ URL:https://weekendscout.app/e/salt-lake-city/utes-vs-west-virginia/
 END:VEVENT
 BEGIN:VEVENT
 UID:salt-lake-city-messiah-sing-in-sat-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261129T023000Z
 DTEND:20261129T043000Z
 SUMMARY:Messiah Sing-In with Utah Symphony
@@ -58,7 +58,7 @@ URL:https://weekendscout.app/e/salt-lake-city/messiah-sing-in/
 END:VEVENT
 BEGIN:VEVENT
 UID:salt-lake-city-messiah-sing-in-sun-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261130T023000Z
 DTEND:20261130T043000Z
 SUMMARY:Messiah Sing-In with Utah Symphony
@@ -70,7 +70,7 @@ URL:https://weekendscout.app/e/salt-lake-city/messiah-sing-in/
 END:VEVENT
 BEGIN:VEVENT
 UID:salt-lake-city-bryan-callen-wiseguys-fri-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261128T013000Z
 DTEND:20261128T033000Z
 SUMMARY:Bryan Callen
@@ -83,7 +83,7 @@ URL:https://weekendscout.app/e/salt-lake-city/bryan-callen-wiseguys/
 END:VEVENT
 BEGIN:VEVENT
 UID:salt-lake-city-bryan-callen-wiseguys-fri-1@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261128T040000Z
 DTEND:20261128T060000Z
 SUMMARY:Bryan Callen
@@ -96,7 +96,7 @@ URL:https://weekendscout.app/e/salt-lake-city/bryan-callen-wiseguys/
 END:VEVENT
 BEGIN:VEVENT
 UID:salt-lake-city-bryan-callen-wiseguys-sat-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261129T013000Z
 DTEND:20261129T033000Z
 SUMMARY:Bryan Callen
@@ -109,7 +109,7 @@ URL:https://weekendscout.app/e/salt-lake-city/bryan-callen-wiseguys/
 END:VEVENT
 BEGIN:VEVENT
 UID:salt-lake-city-bryan-callen-wiseguys-sat-1@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261129T040000Z
 DTEND:20261129T060000Z
 SUMMARY:Bryan Callen
@@ -122,7 +122,7 @@ URL:https://weekendscout.app/e/salt-lake-city/bryan-callen-wiseguys/
 END:VEVENT
 BEGIN:VEVENT
 UID:salt-lake-city-temple-square-christmas-lights-fri-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261127T233000Z
 DTEND:20261128T050000Z
 SUMMARY:Christmas Lights at Temple Square
@@ -135,7 +135,7 @@ URL:https://weekendscout.app/e/salt-lake-city/temple-square-christmas-lights/
 END:VEVENT
 BEGIN:VEVENT
 UID:salt-lake-city-temple-square-christmas-lights-sat-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261128T233000Z
 DTEND:20261129T050000Z
 SUMMARY:Christmas Lights at Temple Square
@@ -148,7 +148,7 @@ URL:https://weekendscout.app/e/salt-lake-city/temple-square-christmas-lights/
 END:VEVENT
 BEGIN:VEVENT
 UID:salt-lake-city-temple-square-christmas-lights-sun-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261129T233000Z
 DTEND:20261130T050000Z
 SUMMARY:Christmas Lights at Temple Square
@@ -161,7 +161,7 @@ URL:https://weekendscout.app/e/salt-lake-city/temple-square-christmas-lights/
 END:VEVENT
 BEGIN:VEVENT
 UID:salt-lake-city-hogle-zoolights-fri-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261128T003000Z
 DTEND:20261128T040000Z
 SUMMARY:Hogle Holidays: A ZooLights Experience
@@ -175,7 +175,7 @@ URL:https://weekendscout.app/e/salt-lake-city/hogle-zoolights/
 END:VEVENT
 BEGIN:VEVENT
 UID:salt-lake-city-hogle-zoolights-sat-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261129T003000Z
 DTEND:20261129T040000Z
 SUMMARY:Hogle Holidays: A ZooLights Experience
@@ -189,7 +189,7 @@ URL:https://weekendscout.app/e/salt-lake-city/hogle-zoolights/
 END:VEVENT
 BEGIN:VEVENT
 UID:salt-lake-city-hogle-zoolights-sun-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261130T003000Z
 DTEND:20261130T040000Z
 SUMMARY:Hogle Holidays: A ZooLights Experience
@@ -203,7 +203,7 @@ URL:https://weekendscout.app/e/salt-lake-city/hogle-zoolights/
 END:VEVENT
 BEGIN:VEVENT
 UID:salt-lake-city-wheeler-farm-holiday-market-fri-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261127T210000Z
 DTEND:20261128T030000Z
 SUMMARY:Wheeler Farm Annual Holiday Market
@@ -215,7 +215,7 @@ URL:https://weekendscout.app/e/salt-lake-city/wheeler-farm-holiday-market/
 END:VEVENT
 BEGIN:VEVENT
 UID:salt-lake-city-wheeler-farm-holiday-market-sat-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261128T170000Z
 DTEND:20261129T010000Z
 SUMMARY:Wheeler Farm Annual Holiday Market
@@ -227,7 +227,7 @@ URL:https://weekendscout.app/e/salt-lake-city/wheeler-farm-holiday-market/
 END:VEVENT
 BEGIN:VEVENT
 UID:salt-lake-city-wheeler-farm-holiday-market-sun-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261129T170000Z
 DTEND:20261129T220000Z
 SUMMARY:Wheeler Farm Annual Holiday Market

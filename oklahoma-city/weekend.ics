@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:oklahoma-city-okc-phil-home-alone-2-sat-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261128T200000Z
 DTEND:20261128T220000Z
 SUMMARY:Home Alone 2: Lost in New York – Live in Concert
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/oklahoma-city/okc-phil-home-alone-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:oklahoma-city-okc-phil-home-alone-2-sat-1@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261129T013000Z
 DTEND:20261129T033000Z
 SUMMARY:Home Alone 2: Lost in New York – Live in Concert
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/oklahoma-city/okc-phil-home-alone-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:oklahoma-city-lyric-a-christmas-carol-fri-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -50,7 +50,7 @@ URL:https://weekendscout.app/e/oklahoma-city/lyric-a-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:oklahoma-city-lyric-a-christmas-carol-sat-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -65,7 +65,7 @@ URL:https://weekendscout.app/e/oklahoma-city/lyric-a-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:oklahoma-city-lyric-a-christmas-carol-sun-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -80,7 +80,7 @@ URL:https://weekendscout.app/e/oklahoma-city/lyric-a-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:oklahoma-city-devon-ice-rink-fri-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261127T170000Z
 DTEND:20261128T050000Z
 SUMMARY:Devon Ice Rink at Myriad Gardens
@@ -94,7 +94,7 @@ URL:https://weekendscout.app/e/oklahoma-city/devon-ice-rink/
 END:VEVENT
 BEGIN:VEVENT
 UID:oklahoma-city-devon-ice-rink-sat-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261128T170000Z
 DTEND:20261129T050000Z
 SUMMARY:Devon Ice Rink at Myriad Gardens
@@ -108,7 +108,7 @@ URL:https://weekendscout.app/e/oklahoma-city/devon-ice-rink/
 END:VEVENT
 BEGIN:VEVENT
 UID:oklahoma-city-devon-ice-rink-sun-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261129T170000Z
 DTEND:20261130T010000Z
 SUMMARY:Devon Ice Rink at Myriad Gardens
@@ -122,7 +122,7 @@ URL:https://weekendscout.app/e/oklahoma-city/devon-ice-rink/
 END:VEVENT
 BEGIN:VEVENT
 UID:oklahoma-city-okc-zoo-safari-lights-fri-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261127T233000Z
 DTEND:20261128T050000Z
 SUMMARY:Safari Lights at the OKC Zoo
@@ -136,7 +136,7 @@ URL:https://weekendscout.app/e/oklahoma-city/okc-zoo-safari-lights/
 END:VEVENT
 BEGIN:VEVENT
 UID:oklahoma-city-okc-zoo-safari-lights-sat-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261128T233000Z
 DTEND:20261129T050000Z
 SUMMARY:Safari Lights at the OKC Zoo
@@ -150,7 +150,7 @@ URL:https://weekendscout.app/e/oklahoma-city/okc-zoo-safari-lights/
 END:VEVENT
 BEGIN:VEVENT
 UID:oklahoma-city-okc-zoo-safari-lights-sun-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261129T233000Z
 DTEND:20261130T050000Z
 SUMMARY:Safari Lights at the OKC Zoo
@@ -164,7 +164,7 @@ URL:https://weekendscout.app/e/oklahoma-city/okc-zoo-safari-lights/
 END:VEVENT
 BEGIN:VEVENT
 UID:oklahoma-city-scissortail-sparkle-holiday-walk-fri-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261127T233000Z
 DTEND:20261128T033000Z
 SUMMARY:SPARKLE Holiday Walk
@@ -178,7 +178,7 @@ URL:https://weekendscout.app/e/oklahoma-city/scissortail-sparkle-holiday-walk/
 END:VEVENT
 BEGIN:VEVENT
 UID:oklahoma-city-scissortail-sparkle-holiday-walk-sat-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261128T233000Z
 DTEND:20261129T033000Z
 SUMMARY:SPARKLE Holiday Walk
@@ -192,7 +192,7 @@ URL:https://weekendscout.app/e/oklahoma-city/scissortail-sparkle-holiday-walk/
 END:VEVENT
 BEGIN:VEVENT
 UID:oklahoma-city-scissortail-sparkle-holiday-walk-sun-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261129T233000Z
 DTEND:20261130T033000Z
 SUMMARY:SPARKLE Holiday Walk
@@ -206,7 +206,7 @@ URL:https://weekendscout.app/e/oklahoma-city/scissortail-sparkle-holiday-walk/
 END:VEVENT
 BEGIN:VEVENT
 UID:oklahoma-city-scissortail-sparkle-holiday-market-sat-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261128T233000Z
 DTEND:20261129T033000Z
 SUMMARY:Sparkle Holiday Market
@@ -220,7 +220,7 @@ URL:https://weekendscout.app/e/oklahoma-city/scissortail-sparkle-holiday-market/
 END:VEVENT
 BEGIN:VEVENT
 UID:oklahoma-city-edmond-luminance-fri-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261127T230000Z
 DTEND:20261128T040000Z
 SUMMARY:Luminance: An Enchanted Stroll
@@ -232,7 +232,7 @@ URL:https://weekendscout.app/e/oklahoma-city/edmond-luminance/
 END:VEVENT
 BEGIN:VEVENT
 UID:oklahoma-city-edmond-luminance-sat-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261128T230000Z
 DTEND:20261129T040000Z
 SUMMARY:Luminance: An Enchanted Stroll
@@ -244,7 +244,7 @@ URL:https://weekendscout.app/e/oklahoma-city/edmond-luminance/
 END:VEVENT
 BEGIN:VEVENT
 UID:oklahoma-city-edmond-luminance-sun-0@weekendscout.app
-DTSTAMP:20261124T131837Z
+DTSTAMP:20261124T132358Z
 DTSTART:20261129T230000Z
 DTEND:20261130T040000Z
 SUMMARY:Luminance: An Enchanted Stroll
@@ -253,5 +253,33 @@ DESCRIPTION:Edmond Electric's free walk-through holiday light display in M
  itch Park runs nightly through Jan 1. Free. Details: https://weekendscout.
  app/e/oklahoma-city/edmond-luminance/
 URL:https://weekendscout.app/e/oklahoma-city/edmond-luminance/
+END:VEVENT
+BEGIN:VEVENT
+UID:oklahoma-city-wheeler-wonderland-pop-up-shops-sat-0@weekendscout.app
+DTSTAMP:20261124T132358Z
+DTSTART:20261128T180000Z
+DTEND:20261128T230000Z
+SUMMARY:Wheeler Wonderland Pop-Up Shops
+LOCATION:Wheeler District (Spoke St)\, 1737 Spoke St\, Oklahoma City\, OK 
+ 73108
+DESCRIPTION:Local vendors set up holiday pop-up shops along Spoke Street w
+ ith gifts and seasonal treats. Runs the next three weekends\; free to brow
+ se. Free. Details: https://weekendscout.app/e/oklahoma-city/wheeler-wonder
+ land-pop-up-shops/
+URL:https://weekendscout.app/e/oklahoma-city/wheeler-wonderland-pop-up-shops/
+END:VEVENT
+BEGIN:VEVENT
+UID:oklahoma-city-wheeler-wonderland-pop-up-shops-sun-0@weekendscout.app
+DTSTAMP:20261124T132358Z
+DTSTART:20261129T180000Z
+DTEND:20261129T230000Z
+SUMMARY:Wheeler Wonderland Pop-Up Shops
+LOCATION:Wheeler District (Spoke St)\, 1737 Spoke St\, Oklahoma City\, OK 
+ 73108
+DESCRIPTION:Local vendors set up holiday pop-up shops along Spoke Street w
+ ith gifts and seasonal treats. Runs the next three weekends\; free to brow
+ se. Free. Details: https://weekendscout.app/e/oklahoma-city/wheeler-wonder
+ land-pop-up-shops/
+URL:https://weekendscout.app/e/oklahoma-city/wheeler-wonderland-pop-up-shops/
 END:VEVENT
 END:VCALENDAR
