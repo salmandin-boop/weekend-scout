@@ -1,0 +1,199 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Memphis
+X-WR-CALDESC:Hand-checked weekend picks in Memphis, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:memphis-memphis-tigers-temple-football-fri-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261127T203000Z
+DTEND:20261127T223000Z
+SUMMARY:Memphis Tigers vs. Temple (football)
+LOCATION:Simmons Bank Liberty Stadium\, 335 S Hollywood St\, Memphis\, TN 
+ 38104
+DESCRIPTION:Memphis closes its home schedule against Temple on Senior Day\
+ , with kickoff at 2:30 p.m. on ESPN. From $21. Details: https://weekendsco
+ ut.app/e/memphis/memphis-tigers-temple-football/
+URL:https://weekendscout.app/e/memphis/memphis-tigers-temple-football/
+END:VEVENT
+BEGIN:VEVENT
+UID:memphis-holiday-wonders-at-the-garden-fri-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261127T230000Z
+DTEND:20261128T023000Z
+SUMMARY:Holiday Wonders at the Garden
+LOCATION:Memphis Botanic Garden\, 750 Cherry Rd\, Memphis\, TN 38117
+DESCRIPTION:The garden's holiday light walk opens for the season on Friday
+  and runs select nights through Dec 30. Last entry is 7:30 p.m. $17 advanc
+ e\, $20 same day (members $15)\; under 2 free. Details: https://weekendsco
+ ut.app/e/memphis/holiday-wonders-at-the-garden/
+URL:https://weekendscout.app/e/memphis/holiday-wonders-at-the-garden/
+END:VEVENT
+BEGIN:VEVENT
+UID:memphis-holiday-wonders-at-the-garden-sat-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261128T230000Z
+DTEND:20261129T023000Z
+SUMMARY:Holiday Wonders at the Garden
+LOCATION:Memphis Botanic Garden\, 750 Cherry Rd\, Memphis\, TN 38117
+DESCRIPTION:The garden's holiday light walk opens for the season on Friday
+  and runs select nights through Dec 30. Last entry is 7:30 p.m. $17 advanc
+ e\, $20 same day (members $15)\; under 2 free. Details: https://weekendsco
+ ut.app/e/memphis/holiday-wonders-at-the-garden/
+URL:https://weekendscout.app/e/memphis/holiday-wonders-at-the-garden/
+END:VEVENT
+BEGIN:VEVENT
+UID:memphis-enchanted-forest-festival-of-trees-fri-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261127T163000Z
+DTEND:20261127T230000Z
+SUMMARY:The Enchanted Forest Festival of Trees
+LOCATION:Museum of Science & History – Pink Palace\, 3050 Central Ave\, 
+ Memphis\, TN 38111
+DESCRIPTION:A walk-through holiday display of decorated trees benefiting L
+ e Bonheur Children's Hospital\, with Santa photo packages available. Weeke
+ nd time slots can sell out. $7 adults\, $6 seniors and kids 3–12. Detail
+ s: https://weekendscout.app/e/memphis/enchanted-forest-festival-of-trees/
+URL:https://weekendscout.app/e/memphis/enchanted-forest-festival-of-trees/
+END:VEVENT
+BEGIN:VEVENT
+UID:memphis-enchanted-forest-festival-of-trees-sat-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261128T163000Z
+DTEND:20261128T230000Z
+SUMMARY:The Enchanted Forest Festival of Trees
+LOCATION:Museum of Science & History – Pink Palace\, 3050 Central Ave\, 
+ Memphis\, TN 38111
+DESCRIPTION:A walk-through holiday display of decorated trees benefiting L
+ e Bonheur Children's Hospital\, with Santa photo packages available. Weeke
+ nd time slots can sell out. $7 adults\, $6 seniors and kids 3–12. Detail
+ s: https://weekendscout.app/e/memphis/enchanted-forest-festival-of-trees/
+URL:https://weekendscout.app/e/memphis/enchanted-forest-festival-of-trees/
+END:VEVENT
+BEGIN:VEVENT
+UID:memphis-enchanted-forest-festival-of-trees-sun-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261129T163000Z
+DTEND:20261129T230000Z
+SUMMARY:The Enchanted Forest Festival of Trees
+LOCATION:Museum of Science & History – Pink Palace\, 3050 Central Ave\, 
+ Memphis\, TN 38111
+DESCRIPTION:A walk-through holiday display of decorated trees benefiting L
+ e Bonheur Children's Hospital\, with Santa photo packages available. Weeke
+ nd time slots can sell out. $7 adults\, $6 seniors and kids 3–12. Detail
+ s: https://weekendscout.app/e/memphis/enchanted-forest-festival-of-trees/
+URL:https://weekendscout.app/e/memphis/enchanted-forest-festival-of-trees/
+END:VEVENT
+BEGIN:VEVENT
+UID:memphis-home-alone-in-concert-memphis-symphony-sat-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261128T190000Z
+DTEND:20261128T210000Z
+SUMMARY:Home Alone in Concert
+LOCATION:Orpheum Theatre\, 203 S Main St\, Memphis\, TN 38103
+DESCRIPTION:The Memphis Symphony Orchestra plays John Williams' score live
+  while Home Alone is shown on the big screen. Tickets. Details: https://we
+ ekendscout.app/e/memphis/home-alone-in-concert-memphis-symphony/
+URL:https://weekendscout.app/e/memphis/home-alone-in-concert-memphis-symphony/
+END:VEVENT
+BEGIN:VEVENT
+UID:memphis-gabriel-iglesias-1976-tour-fedexforum-sat-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261129T020000Z
+DTEND:20261129T040000Z
+SUMMARY:Gabriel Iglesias: The 1976 Tour
+LOCATION:FedExForum\, 191 Beale St\, Memphis\, TN 38103
+DESCRIPTION:Stand-up comedian Gabriel "Fluffy" Iglesias brings his 1976 To
+ ur to FedExForum for one night. Tickets. Details: https://weekendscout.app
+ /e/memphis/gabriel-iglesias-1976-tour-fedexforum/
+URL:https://weekendscout.app/e/memphis/gabriel-iglesias-1976-tour-fedexforum/
+END:VEVENT
+BEGIN:VEVENT
+UID:memphis-grizzlies-lakers-sun-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261129T210000Z
+DTEND:20261129T230000Z
+SUMMARY:Grizzlies vs. Lakers
+LOCATION:FedExForum\, 191 Beale St\, Memphis\, TN 38103
+DESCRIPTION:The Grizzlies host the Los Angeles Lakers in a Sunday afternoo
+ n game. Tickets. Details: https://weekendscout.app/e/memphis/grizzlies-lak
+ ers/
+URL:https://weekendscout.app/e/memphis/grizzlies-lakers/
+END:VEVENT
+BEGIN:VEVENT
+UID:memphis-starry-nights-shelby-farms-fri-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Starry Nights
+LOCATION:Shelby Farms Park\, 6903 Great View Dr N\, Memphis\, TN 38134
+DESCRIPTION:Shelby Farms Park's drive-through holiday light show runs thro
+ ugh Jan 3\; Friday and Saturday are Afterglow nights with a walkable area 
+ at the end of the route. Timed tickets are sold online only\, with no gate
+  sales. Tickets. Details: https://weekendscout.app/e/memphis/starry-nights
+ -shelby-farms/
+URL:https://weekendscout.app/e/memphis/starry-nights-shelby-farms/
+END:VEVENT
+BEGIN:VEVENT
+UID:memphis-starry-nights-shelby-farms-sat-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Starry Nights
+LOCATION:Shelby Farms Park\, 6903 Great View Dr N\, Memphis\, TN 38134
+DESCRIPTION:Shelby Farms Park's drive-through holiday light show runs thro
+ ugh Jan 3\; Friday and Saturday are Afterglow nights with a walkable area 
+ at the end of the route. Timed tickets are sold online only\, with no gate
+  sales. Tickets. Details: https://weekendscout.app/e/memphis/starry-nights
+ -shelby-farms/
+URL:https://weekendscout.app/e/memphis/starry-nights-shelby-farms/
+END:VEVENT
+BEGIN:VEVENT
+UID:memphis-patterson-parker-exhibition-botanic-garden-fri-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261127T150000Z
+DTEND:20261127T223000Z
+SUMMARY:Pat Patterson & Randy Parker Art Exhibition
+LOCATION:Memphis Botanic Garden (Grand Hallway)\, 750 Cherry Rd\, Memphis\
+ , TN 38117
+DESCRIPTION:Mixed-media landscapes by Pat Patterson and park watercolors b
+ y Randy Parker\, shown in the garden's Grand Hallway. The show closes Nov 
+ 30. Free. Details: https://weekendscout.app/e/memphis/patterson-parker-exh
+ ibition-botanic-garden/
+URL:https://weekendscout.app/e/memphis/patterson-parker-exhibition-botanic-garden/
+END:VEVENT
+BEGIN:VEVENT
+UID:memphis-patterson-parker-exhibition-botanic-garden-sat-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261128T150000Z
+DTEND:20261128T223000Z
+SUMMARY:Pat Patterson & Randy Parker Art Exhibition
+LOCATION:Memphis Botanic Garden (Grand Hallway)\, 750 Cherry Rd\, Memphis\
+ , TN 38117
+DESCRIPTION:Mixed-media landscapes by Pat Patterson and park watercolors b
+ y Randy Parker\, shown in the garden's Grand Hallway. The show closes Nov 
+ 30. Free. Details: https://weekendscout.app/e/memphis/patterson-parker-exh
+ ibition-botanic-garden/
+URL:https://weekendscout.app/e/memphis/patterson-parker-exhibition-botanic-garden/
+END:VEVENT
+BEGIN:VEVENT
+UID:memphis-patterson-parker-exhibition-botanic-garden-sun-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261129T150000Z
+DTEND:20261129T223000Z
+SUMMARY:Pat Patterson & Randy Parker Art Exhibition
+LOCATION:Memphis Botanic Garden (Grand Hallway)\, 750 Cherry Rd\, Memphis\
+ , TN 38117
+DESCRIPTION:Mixed-media landscapes by Pat Patterson and park watercolors b
+ y Randy Parker\, shown in the garden's Grand Hallway. The show closes Nov 
+ 30. Free. Details: https://weekendscout.app/e/memphis/patterson-parker-exh
+ ibition-botanic-garden/
+URL:https://weekendscout.app/e/memphis/patterson-parker-exhibition-botanic-garden/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,61 @@
+{
+  "city": "louisville",
+  "updated": "2026-11-24",
+  "source": "Sights: long-standing Louisville landmarks (Nov 2026). Dining and drinks picks and coordinates to be added in a later update.",
+  "spots": [
+    {
+      "name": "Louisville Slugger Museum & Factory",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Downtown (Museum Row)",
+      "price": "Tickets",
+      "blurb": "Bat factory tours and baseball museum",
+      "blurbEs": "Fábrica de bates y museo de béisbol"
+    },
+    {
+      "name": "Muhammad Ali Center",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Downtown",
+      "price": "Tickets",
+      "blurb": "Museum on Ali's life and values",
+      "blurbEs": "Museo sobre la vida y los valores de Ali"
+    },
+    {
+      "name": "Big Four Bridge",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Waterfront Park",
+      "price": "Free",
+      "blurb": "Pedestrian bridge over the Ohio River",
+      "blurbEs": "Puente peatonal sobre el río Ohio"
+    },
+    {
+      "name": "Kentucky Derby Museum",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Churchill Downs",
+      "price": "Tickets",
+      "blurb": "Derby history museum at Churchill Downs",
+      "blurbEs": "Museo de la historia del Derby en Churchill Downs"
+    },
+    {
+      "name": "Speed Art Museum",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Old Louisville / UofL",
+      "price": "Tickets",
+      "blurb": "Kentucky's largest art museum",
+      "blurbEs": "El museo de arte más grande de Kentucky"
+    },
+    {
+      "name": "Louisville Zoo",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Poplar Level",
+      "price": "Tickets",
+      "blurb": "City zoo with Glacier Run polar bears",
+      "blurbEs": "Zoológico de la ciudad con osos polares en Glacier Run"
+    }
+  ]
+}

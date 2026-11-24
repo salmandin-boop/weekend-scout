@@ -1,0 +1,61 @@
+{
+  "city": "memphis",
+  "updated": "2026-11-24",
+  "source": "Sights: long-standing Memphis landmarks (Nov 2026). Dining and drinks picks and coordinates to be added in a later update.",
+  "spots": [
+    {
+      "name": "National Civil Rights Museum",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Downtown (South Main)",
+      "price": "Tickets",
+      "blurb": "Museum at the Lorraine Motel",
+      "blurbEs": "Museo en el Lorraine Motel"
+    },
+    {
+      "name": "The Peabody Duck March",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Downtown",
+      "price": "Free",
+      "blurb": "Daily duck march in the Peabody lobby",
+      "blurbEs": "Desfile diario de patos en el vestíbulo del Peabody"
+    },
+    {
+      "name": "Beale Street",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Downtown",
+      "price": "Free",
+      "blurb": "Historic blues and nightlife street",
+      "blurbEs": "Calle histórica del blues y la vida nocturna"
+    },
+    {
+      "name": "Stax Museum of American Soul Music",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Soulsville",
+      "price": "Tickets",
+      "blurb": "Soul music museum on the Stax site",
+      "blurbEs": "Museo de la música soul en el sitio de Stax"
+    },
+    {
+      "name": "Graceland",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Whitehaven",
+      "price": "Tickets",
+      "blurb": "Elvis Presley's home and museum complex",
+      "blurbEs": "Casa y complejo de museos de Elvis Presley"
+    },
+    {
+      "name": "Memphis Zoo",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Overton Park",
+      "price": "Tickets",
+      "blurb": "Zoo in Overton Park",
+      "blurbEs": "Zoológico en Overton Park"
+    }
+  ]
+}

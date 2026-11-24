@@ -1,0 +1,45 @@
+{
+  "city": "richmond",
+  "updated": "2026-11-24",
+  "source": "Sights from official sites (Lewis Ginter, VMFA, Science Museum of Virginia, Maymont), Nov 2026; Lewis Ginter coordinates from its official page. Dining and drinks picks to be added in a later update.",
+  "spots": [
+    {
+      "name": "Lewis Ginter Botanical Garden",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Lakeside",
+      "lat": 37.62008,
+      "lon": -77.47082,
+      "price": "Tickets",
+      "blurb": "Botanical garden; holiday lights nightly through Jan 3",
+      "blurbEs": "Jardín botánico; luces navideñas cada noche hasta el 3 de enero"
+    },
+    {
+      "name": "Virginia Museum of Fine Arts",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Museum District",
+      "price": "Free",
+      "blurb": "Art museum, free general admission, open 365 days",
+      "blurbEs": "Museo de arte, entrada general gratuita, abierto los 365 días"
+    },
+    {
+      "name": "Science Museum of Virginia",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Museum District",
+      "price": "Tickets",
+      "blurb": "Hands-on science museum with The Dome theater",
+      "blurbEs": "Museo de ciencias interactivo con el teatro The Dome"
+    },
+    {
+      "name": "Maymont",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Maymont",
+      "price": "Free",
+      "blurb": "Historic estate and park; mansion decorated for the holidays ($12 self-guided)",
+      "blurbEs": "Finca histórica y parque; mansión decorada para las fiestas ($12 visita libre)"
+    }
+  ]
+}

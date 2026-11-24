@@ -1,0 +1,264 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Raleigh
+X-WR-CALDESC:Hand-checked weekend picks in Raleigh, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:raleigh-hurricanes-senators-nov28-sat-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:Hurricanes vs. Senators
+LOCATION:Lenovo Center\, 1400 Edwards Mill Rd\, Raleigh\, NC 27607
+DESCRIPTION:The Carolina Hurricanes host the Ottawa Senators on Saturday n
+ ight. Tickets. Details: https://weekendscout.app/e/raleigh/hurricanes-sena
+ tors-nov28/
+URL:https://weekendscout.app/e/raleigh/hurricanes-senators-nov28/
+END:VEVENT
+BEGIN:VEVENT
+UID:raleigh-nc-symphony-cirque-holiday-pops-fri-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261127T200000Z
+DTEND:20261127T220000Z
+SUMMARY:NC Symphony: Cirque Holiday Pops
+LOCATION:Meymandi Concert Hall (Martin Marietta Center)\, 2 East South Str
+ eet\, Raleigh\, NC 27601
+DESCRIPTION:The North Carolina Symphony pairs holiday classics with acroba
+ tics over Thanksgiving weekend. Santa is available to meet before the show
+ \; children 2 and under are not admitted. Tickets. Details: https://weeken
+ dscout.app/e/raleigh/nc-symphony-cirque-holiday-pops/
+URL:https://weekendscout.app/e/raleigh/nc-symphony-cirque-holiday-pops/
+END:VEVENT
+BEGIN:VEVENT
+UID:raleigh-nc-symphony-cirque-holiday-pops-fri-1@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261128T003000Z
+DTEND:20261128T023000Z
+SUMMARY:NC Symphony: Cirque Holiday Pops
+LOCATION:Meymandi Concert Hall (Martin Marietta Center)\, 2 East South Str
+ eet\, Raleigh\, NC 27601
+DESCRIPTION:The North Carolina Symphony pairs holiday classics with acroba
+ tics over Thanksgiving weekend. Santa is available to meet before the show
+ \; children 2 and under are not admitted. Tickets. Details: https://weeken
+ dscout.app/e/raleigh/nc-symphony-cirque-holiday-pops/
+URL:https://weekendscout.app/e/raleigh/nc-symphony-cirque-holiday-pops/
+END:VEVENT
+BEGIN:VEVENT
+UID:raleigh-nc-symphony-cirque-holiday-pops-sat-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261128T200000Z
+DTEND:20261128T220000Z
+SUMMARY:NC Symphony: Cirque Holiday Pops
+LOCATION:Meymandi Concert Hall (Martin Marietta Center)\, 2 East South Str
+ eet\, Raleigh\, NC 27601
+DESCRIPTION:The North Carolina Symphony pairs holiday classics with acroba
+ tics over Thanksgiving weekend. Santa is available to meet before the show
+ \; children 2 and under are not admitted. Tickets. Details: https://weeken
+ dscout.app/e/raleigh/nc-symphony-cirque-holiday-pops/
+URL:https://weekendscout.app/e/raleigh/nc-symphony-cirque-holiday-pops/
+END:VEVENT
+BEGIN:VEVENT
+UID:raleigh-nc-symphony-cirque-holiday-pops-sat-1@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261129T003000Z
+DTEND:20261129T023000Z
+SUMMARY:NC Symphony: Cirque Holiday Pops
+LOCATION:Meymandi Concert Hall (Martin Marietta Center)\, 2 East South Str
+ eet\, Raleigh\, NC 27601
+DESCRIPTION:The North Carolina Symphony pairs holiday classics with acroba
+ tics over Thanksgiving weekend. Santa is available to meet before the show
+ \; children 2 and under are not admitted. Tickets. Details: https://weeken
+ dscout.app/e/raleigh/nc-symphony-cirque-holiday-pops/
+URL:https://weekendscout.app/e/raleigh/nc-symphony-cirque-holiday-pops/
+END:VEVENT
+BEGIN:VEVENT
+UID:raleigh-a-motown-christmas-fletcher-sun-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261129T200000Z
+DTEND:20261129T220000Z
+SUMMARY:A Motown Christmas
+LOCATION:Fletcher Opera Theater (Martin Marietta Center)\, 2 East South St
+ reet\, Raleigh\, NC 27601
+DESCRIPTION:The Motortown All-Stars\, singers from the Miracles\, the Cont
+ ours and other Motown acts\, perform Motown hits and holiday songs with a 
+ live band. Doors open at 2 p.m. Tickets. Details: https://weekendscout.app
+ /e/raleigh/a-motown-christmas-fletcher/
+URL:https://weekendscout.app/e/raleigh/a-motown-christmas-fletcher/
+END:VEVENT
+BEGIN:VEVENT
+UID:raleigh-nc-chinese-lantern-festival-2026-fri-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261127T230000Z
+DTEND:20261128T030000Z
+SUMMARY:North Carolina Chinese Lantern Festival
+LOCATION:Koka Booth Amphitheatre\, 8003 Regency Parkway\, Cary\, NC 27518
+DESCRIPTION:The 11th annual lantern festival fills the amphitheatre ground
+ s with illuminated displays and stage performances. Runs nightly through J
+ an. 10\; last entry 9 p.m. Tickets (kids 2 and under free). Details: https
+ ://weekendscout.app/e/raleigh/nc-chinese-lantern-festival-2026/
+URL:https://weekendscout.app/e/raleigh/nc-chinese-lantern-festival-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:raleigh-nc-chinese-lantern-festival-2026-sat-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261128T230000Z
+DTEND:20261129T030000Z
+SUMMARY:North Carolina Chinese Lantern Festival
+LOCATION:Koka Booth Amphitheatre\, 8003 Regency Parkway\, Cary\, NC 27518
+DESCRIPTION:The 11th annual lantern festival fills the amphitheatre ground
+ s with illuminated displays and stage performances. Runs nightly through J
+ an. 10\; last entry 9 p.m. Tickets (kids 2 and under free). Details: https
+ ://weekendscout.app/e/raleigh/nc-chinese-lantern-festival-2026/
+URL:https://weekendscout.app/e/raleigh/nc-chinese-lantern-festival-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:raleigh-nc-chinese-lantern-festival-2026-sun-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261129T230000Z
+DTEND:20261130T030000Z
+SUMMARY:North Carolina Chinese Lantern Festival
+LOCATION:Koka Booth Amphitheatre\, 8003 Regency Parkway\, Cary\, NC 27518
+DESCRIPTION:The 11th annual lantern festival fills the amphitheatre ground
+ s with illuminated displays and stage performances. Runs nightly through J
+ an. 10\; last entry 9 p.m. Tickets (kids 2 and under free). Details: https
+ ://weekendscout.app/e/raleigh/nc-chinese-lantern-festival-2026/
+URL:https://weekendscout.app/e/raleigh/nc-chinese-lantern-festival-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:raleigh-festibull-of-lights-2026-fri-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261127T223000Z
+DTEND:20261128T020000Z
+SUMMARY:FestiBull of Lights
+LOCATION:Durham Bulls Athletic Park\, 409 Blackwell St\, Durham\, NC 27701
+DESCRIPTION:A walk-through holiday light show synced to music at the Durha
+ m Bulls' ballpark\, with Santa\, crafts and s'mores. A holiday train ride 
+ is a $5 add-on. From $12. Details: https://weekendscout.app/e/raleigh/fest
+ ibull-of-lights-2026/
+URL:https://weekendscout.app/e/raleigh/festibull-of-lights-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:raleigh-festibull-of-lights-2026-sat-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261128T223000Z
+DTEND:20261129T020000Z
+SUMMARY:FestiBull of Lights
+LOCATION:Durham Bulls Athletic Park\, 409 Blackwell St\, Durham\, NC 27701
+DESCRIPTION:A walk-through holiday light show synced to music at the Durha
+ m Bulls' ballpark\, with Santa\, crafts and s'mores. A holiday train ride 
+ is a $5 add-on. From $12. Details: https://weekendscout.app/e/raleigh/fest
+ ibull-of-lights-2026/
+URL:https://weekendscout.app/e/raleigh/festibull-of-lights-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:raleigh-festibull-of-lights-2026-sun-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261129T223000Z
+DTEND:20261130T020000Z
+SUMMARY:FestiBull of Lights
+LOCATION:Durham Bulls Athletic Park\, 409 Blackwell St\, Durham\, NC 27701
+DESCRIPTION:A walk-through holiday light show synced to music at the Durha
+ m Bulls' ballpark\, with Santa\, crafts and s'mores. A holiday train ride 
+ is a $5 add-on. From $12. Details: https://weekendscout.app/e/raleigh/fest
+ ibull-of-lights-2026/
+URL:https://weekendscout.app/e/raleigh/festibull-of-lights-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:raleigh-unc-nc-state-football-2026-sat-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:UNC vs. NC State Football
+LOCATION:Kenan Stadium\, Kenan Stadium\, Chapel Hill\, NC
+DESCRIPTION:North Carolina hosts NC State in the rivalry's regular-season 
+ finale\, which is also UNC's Senior Day. Broadcast on ACC Network. Tickets
+ . Details: https://weekendscout.app/e/raleigh/unc-nc-state-football-2026/
+URL:https://weekendscout.app/e/raleigh/unc-nc-state-football-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:raleigh-christmas-carousel-holiday-gift-market-2026-fri-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261127T140000Z
+DTEND:20261127T230000Z
+SUMMARY:Christmas Carousel Holiday Gift Market
+LOCATION:Jim Graham Building\, NC State Fairgrounds\, 1025 Blue Ridge Rd\,
+  Raleigh\, NC 27607
+DESCRIPTION:A three-day holiday gift market at the State Fairgrounds over 
+ Thanksgiving weekend. $12 adults\, $10 seniors & military\, $5 kids 6–12
+ . Details: https://weekendscout.app/e/raleigh/christmas-carousel-holiday-g
+ ift-market-2026/
+URL:https://weekendscout.app/e/raleigh/christmas-carousel-holiday-gift-market-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:raleigh-christmas-carousel-holiday-gift-market-2026-sat-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261128T150000Z
+DTEND:20261128T230000Z
+SUMMARY:Christmas Carousel Holiday Gift Market
+LOCATION:Jim Graham Building\, NC State Fairgrounds\, 1025 Blue Ridge Rd\,
+  Raleigh\, NC 27607
+DESCRIPTION:A three-day holiday gift market at the State Fairgrounds over 
+ Thanksgiving weekend. $12 adults\, $10 seniors & military\, $5 kids 6–12
+ . Details: https://weekendscout.app/e/raleigh/christmas-carousel-holiday-g
+ ift-market-2026/
+URL:https://weekendscout.app/e/raleigh/christmas-carousel-holiday-gift-market-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:raleigh-christmas-carousel-holiday-gift-market-2026-sun-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261129T160000Z
+DTEND:20261129T220000Z
+SUMMARY:Christmas Carousel Holiday Gift Market
+LOCATION:Jim Graham Building\, NC State Fairgrounds\, 1025 Blue Ridge Rd\,
+  Raleigh\, NC 27607
+DESCRIPTION:A three-day holiday gift market at the State Fairgrounds over 
+ Thanksgiving weekend. $12 adults\, $10 seniors & military\, $5 kids 6–12
+ . Details: https://weekendscout.app/e/raleigh/christmas-carousel-holiday-g
+ ift-market-2026/
+URL:https://weekendscout.app/e/raleigh/christmas-carousel-holiday-gift-market-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:raleigh-ncma-public-tour-thanksgiving-weekend-sat-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261128T180000Z
+DTEND:20261128T190000Z
+SUMMARY:Free Public Tour at NCMA
+LOCATION:North Carolina Museum of Art (West Building)\, 2110 Blue Ridge Ro
+ ad\, Raleigh\, NC 27607
+DESCRIPTION:An hour-long public tour of the museum's galleries. Admission 
+ to the permanent collection and Museum Park is free. Free. Details: https:
+ //weekendscout.app/e/raleigh/ncma-public-tour-thanksgiving-weekend/
+URL:https://weekendscout.app/e/raleigh/ncma-public-tour-thanksgiving-weekend/
+END:VEVENT
+BEGIN:VEVENT
+UID:raleigh-ncma-public-tour-thanksgiving-weekend-sun-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261129T180000Z
+DTEND:20261129T190000Z
+SUMMARY:Free Public Tour at NCMA
+LOCATION:North Carolina Museum of Art (West Building)\, 2110 Blue Ridge Ro
+ ad\, Raleigh\, NC 27607
+DESCRIPTION:An hour-long public tour of the museum's galleries. Admission 
+ to the permanent collection and Museum Park is free. Free. Details: https:
+ //weekendscout.app/e/raleigh/ncma-public-tour-thanksgiving-weekend/
+URL:https://weekendscout.app/e/raleigh/ncma-public-tour-thanksgiving-weekend/
+END:VEVENT
+BEGIN:VEVENT
+UID:raleigh-ncma-museum-store-sunday-sun-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261129T150000Z
+DTEND:20261129T220000Z
+SUMMARY:Museum Store Sunday at NCMA
+LOCATION:North Carolina Museum of Art (West Building)\, 2110 Blue Ridge Ro
+ ad\, Raleigh\, NC 27607
+DESCRIPTION:The museum store marks Museum Store Sunday during regular muse
+ um hours. Entry to the museum's permanent collection is free. Free. Detail
+ s: https://weekendscout.app/e/raleigh/ncma-museum-store-sunday/
+URL:https://weekendscout.app/e/raleigh/ncma-museum-store-sunday/
+END:VEVENT
+END:VCALENDAR

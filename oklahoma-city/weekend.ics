@@ -1,0 +1,257 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Oklahoma City
+X-WR-CALDESC:Hand-checked weekend picks in Oklahoma City, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:oklahoma-city-okc-phil-home-alone-2-sat-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261128T200000Z
+DTEND:20261128T220000Z
+SUMMARY:Home Alone 2: Lost in New York – Live in Concert
+LOCATION:Civic Center Music Hall\, 201 N Walker Ave\, Oklahoma City\, OK 7
+ 3102
+DESCRIPTION:The Oklahoma City Philharmonic plays John Williams' score live
+  while the film screens\, conducted by Jayce Ogren. Tickets. Details: http
+ s://weekendscout.app/e/oklahoma-city/okc-phil-home-alone-2/
+URL:https://weekendscout.app/e/oklahoma-city/okc-phil-home-alone-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:oklahoma-city-okc-phil-home-alone-2-sat-1@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261129T013000Z
+DTEND:20261129T033000Z
+SUMMARY:Home Alone 2: Lost in New York – Live in Concert
+LOCATION:Civic Center Music Hall\, 201 N Walker Ave\, Oklahoma City\, OK 7
+ 3102
+DESCRIPTION:The Oklahoma City Philharmonic plays John Williams' score live
+  while the film screens\, conducted by Jayce Ogren. Tickets. Details: http
+ s://weekendscout.app/e/oklahoma-city/okc-phil-home-alone-2/
+URL:https://weekendscout.app/e/oklahoma-city/okc-phil-home-alone-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:oklahoma-city-lyric-a-christmas-carol-fri-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Lyric's A Christmas Carol
+LOCATION:Lyric Theatre of Oklahoma\, 1727 NW 16th St\, Oklahoma City\, OK 
+ 73106
+DESCRIPTION:Lyric Theatre's annual staging of the Dickens story runs Nov 2
+ 5 through Dec 26. About two hours with one 15-minute intermission. From $3
+ 4. Details: https://weekendscout.app/e/oklahoma-city/lyric-a-christmas-car
+ ol/
+URL:https://weekendscout.app/e/oklahoma-city/lyric-a-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:oklahoma-city-lyric-a-christmas-carol-sat-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Lyric's A Christmas Carol
+LOCATION:Lyric Theatre of Oklahoma\, 1727 NW 16th St\, Oklahoma City\, OK 
+ 73106
+DESCRIPTION:Lyric Theatre's annual staging of the Dickens story runs Nov 2
+ 5 through Dec 26. About two hours with one 15-minute intermission. From $3
+ 4. Details: https://weekendscout.app/e/oklahoma-city/lyric-a-christmas-car
+ ol/
+URL:https://weekendscout.app/e/oklahoma-city/lyric-a-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:oklahoma-city-lyric-a-christmas-carol-sun-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Lyric's A Christmas Carol
+LOCATION:Lyric Theatre of Oklahoma\, 1727 NW 16th St\, Oklahoma City\, OK 
+ 73106
+DESCRIPTION:Lyric Theatre's annual staging of the Dickens story runs Nov 2
+ 5 through Dec 26. About two hours with one 15-minute intermission. From $3
+ 4. Details: https://weekendscout.app/e/oklahoma-city/lyric-a-christmas-car
+ ol/
+URL:https://weekendscout.app/e/oklahoma-city/lyric-a-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:oklahoma-city-devon-ice-rink-fri-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261127T170000Z
+DTEND:20261128T050000Z
+SUMMARY:Devon Ice Rink at Myriad Gardens
+LOCATION:Myriad Botanical Gardens\, 301 W Reno Ave\, Oklahoma City\, OK 73
+ 102
+DESCRIPTION:Downtown's outdoor seasonal rink is open with extended Thanksg
+ iving-week hours. Admission includes skate rental\; $11 if you bring your 
+ own skates. $16 (skates included). Details: https://weekendscout.app/e/okl
+ ahoma-city/devon-ice-rink/
+URL:https://weekendscout.app/e/oklahoma-city/devon-ice-rink/
+END:VEVENT
+BEGIN:VEVENT
+UID:oklahoma-city-devon-ice-rink-sat-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261128T170000Z
+DTEND:20261129T050000Z
+SUMMARY:Devon Ice Rink at Myriad Gardens
+LOCATION:Myriad Botanical Gardens\, 301 W Reno Ave\, Oklahoma City\, OK 73
+ 102
+DESCRIPTION:Downtown's outdoor seasonal rink is open with extended Thanksg
+ iving-week hours. Admission includes skate rental\; $11 if you bring your 
+ own skates. $16 (skates included). Details: https://weekendscout.app/e/okl
+ ahoma-city/devon-ice-rink/
+URL:https://weekendscout.app/e/oklahoma-city/devon-ice-rink/
+END:VEVENT
+BEGIN:VEVENT
+UID:oklahoma-city-devon-ice-rink-sun-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261129T170000Z
+DTEND:20261130T010000Z
+SUMMARY:Devon Ice Rink at Myriad Gardens
+LOCATION:Myriad Botanical Gardens\, 301 W Reno Ave\, Oklahoma City\, OK 73
+ 102
+DESCRIPTION:Downtown's outdoor seasonal rink is open with extended Thanksg
+ iving-week hours. Admission includes skate rental\; $11 if you bring your 
+ own skates. $16 (skates included). Details: https://weekendscout.app/e/okl
+ ahoma-city/devon-ice-rink/
+URL:https://weekendscout.app/e/oklahoma-city/devon-ice-rink/
+END:VEVENT
+BEGIN:VEVENT
+UID:oklahoma-city-okc-zoo-safari-lights-fri-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261127T233000Z
+DTEND:20261128T050000Z
+SUMMARY:Safari Lights at the OKC Zoo
+LOCATION:Oklahoma City Zoo & Botanical Garden\, 2000 Remington Pl\, Oklaho
+ ma City\, OK 73111
+DESCRIPTION:The zoo's holiday light trail runs nightly through Jan 3\, wit
+ h walk-thru and drive-thru options\; online reservations are required. A 2
+ 1+ Holiday Hideaway bar is open Friday through Sunday nights. Tickets. Det
+ ails: https://weekendscout.app/e/oklahoma-city/okc-zoo-safari-lights/
+URL:https://weekendscout.app/e/oklahoma-city/okc-zoo-safari-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:oklahoma-city-okc-zoo-safari-lights-sat-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261128T233000Z
+DTEND:20261129T050000Z
+SUMMARY:Safari Lights at the OKC Zoo
+LOCATION:Oklahoma City Zoo & Botanical Garden\, 2000 Remington Pl\, Oklaho
+ ma City\, OK 73111
+DESCRIPTION:The zoo's holiday light trail runs nightly through Jan 3\, wit
+ h walk-thru and drive-thru options\; online reservations are required. A 2
+ 1+ Holiday Hideaway bar is open Friday through Sunday nights. Tickets. Det
+ ails: https://weekendscout.app/e/oklahoma-city/okc-zoo-safari-lights/
+URL:https://weekendscout.app/e/oklahoma-city/okc-zoo-safari-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:oklahoma-city-okc-zoo-safari-lights-sun-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261129T233000Z
+DTEND:20261130T050000Z
+SUMMARY:Safari Lights at the OKC Zoo
+LOCATION:Oklahoma City Zoo & Botanical Garden\, 2000 Remington Pl\, Oklaho
+ ma City\, OK 73111
+DESCRIPTION:The zoo's holiday light trail runs nightly through Jan 3\, wit
+ h walk-thru and drive-thru options\; online reservations are required. A 2
+ 1+ Holiday Hideaway bar is open Friday through Sunday nights. Tickets. Det
+ ails: https://weekendscout.app/e/oklahoma-city/okc-zoo-safari-lights/
+URL:https://weekendscout.app/e/oklahoma-city/okc-zoo-safari-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:oklahoma-city-scissortail-sparkle-holiday-walk-fri-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261127T233000Z
+DTEND:20261128T033000Z
+SUMMARY:SPARKLE Holiday Walk
+LOCATION:Scissortail Park\, 300 SW 7th St\, Oklahoma City\, OK 73109
+DESCRIPTION:A ticketed after-dark walk through Scissortail Park's illumina
+ ted paths and photo spots\, open Thursdays through Sundays until Dec 13. H
+ ot chocolate and s'mores kits are sold near the Children's Play Pavilion. 
+ Tickets. Details: https://weekendscout.app/e/oklahoma-city/scissortail-spa
+ rkle-holiday-walk/
+URL:https://weekendscout.app/e/oklahoma-city/scissortail-sparkle-holiday-walk/
+END:VEVENT
+BEGIN:VEVENT
+UID:oklahoma-city-scissortail-sparkle-holiday-walk-sat-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261128T233000Z
+DTEND:20261129T033000Z
+SUMMARY:SPARKLE Holiday Walk
+LOCATION:Scissortail Park\, 300 SW 7th St\, Oklahoma City\, OK 73109
+DESCRIPTION:A ticketed after-dark walk through Scissortail Park's illumina
+ ted paths and photo spots\, open Thursdays through Sundays until Dec 13. H
+ ot chocolate and s'mores kits are sold near the Children's Play Pavilion. 
+ Tickets. Details: https://weekendscout.app/e/oklahoma-city/scissortail-spa
+ rkle-holiday-walk/
+URL:https://weekendscout.app/e/oklahoma-city/scissortail-sparkle-holiday-walk/
+END:VEVENT
+BEGIN:VEVENT
+UID:oklahoma-city-scissortail-sparkle-holiday-walk-sun-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261129T233000Z
+DTEND:20261130T033000Z
+SUMMARY:SPARKLE Holiday Walk
+LOCATION:Scissortail Park\, 300 SW 7th St\, Oklahoma City\, OK 73109
+DESCRIPTION:A ticketed after-dark walk through Scissortail Park's illumina
+ ted paths and photo spots\, open Thursdays through Sundays until Dec 13. H
+ ot chocolate and s'mores kits are sold near the Children's Play Pavilion. 
+ Tickets. Details: https://weekendscout.app/e/oklahoma-city/scissortail-spa
+ rkle-holiday-walk/
+URL:https://weekendscout.app/e/oklahoma-city/scissortail-sparkle-holiday-walk/
+END:VEVENT
+BEGIN:VEVENT
+UID:oklahoma-city-scissortail-sparkle-holiday-market-sat-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261128T233000Z
+DTEND:20261129T033000Z
+SUMMARY:Sparkle Holiday Market
+LOCATION:Scissortail Park (The Promenade\, Upper Park)\, 300 SW 7th St\, O
+ klahoma City\, OK 73109
+DESCRIPTION:Local vendors sell handmade gifts alongside holiday food\, dri
+ nks and live entertainment on the park's Promenade. A good Small Business 
+ Saturday stop. Free. Details: https://weekendscout.app/e/oklahoma-city/sci
+ ssortail-sparkle-holiday-market/
+URL:https://weekendscout.app/e/oklahoma-city/scissortail-sparkle-holiday-market/
+END:VEVENT
+BEGIN:VEVENT
+UID:oklahoma-city-edmond-luminance-fri-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261127T230000Z
+DTEND:20261128T040000Z
+SUMMARY:Luminance: An Enchanted Stroll
+LOCATION:Mitch Park\, 1501 W Covell Rd\, Edmond\, OK 73003
+DESCRIPTION:Edmond Electric's free walk-through holiday light display in M
+ itch Park runs nightly through Jan 1. Free. Details: https://weekendscout.
+ app/e/oklahoma-city/edmond-luminance/
+URL:https://weekendscout.app/e/oklahoma-city/edmond-luminance/
+END:VEVENT
+BEGIN:VEVENT
+UID:oklahoma-city-edmond-luminance-sat-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261128T230000Z
+DTEND:20261129T040000Z
+SUMMARY:Luminance: An Enchanted Stroll
+LOCATION:Mitch Park\, 1501 W Covell Rd\, Edmond\, OK 73003
+DESCRIPTION:Edmond Electric's free walk-through holiday light display in M
+ itch Park runs nightly through Jan 1. Free. Details: https://weekendscout.
+ app/e/oklahoma-city/edmond-luminance/
+URL:https://weekendscout.app/e/oklahoma-city/edmond-luminance/
+END:VEVENT
+BEGIN:VEVENT
+UID:oklahoma-city-edmond-luminance-sun-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261129T230000Z
+DTEND:20261130T040000Z
+SUMMARY:Luminance: An Enchanted Stroll
+LOCATION:Mitch Park\, 1501 W Covell Rd\, Edmond\, OK 73003
+DESCRIPTION:Edmond Electric's free walk-through holiday light display in M
+ itch Park runs nightly through Jan 1. Free. Details: https://weekendscout.
+ app/e/oklahoma-city/edmond-luminance/
+URL:https://weekendscout.app/e/oklahoma-city/edmond-luminance/
+END:VEVENT
+END:VCALENDAR

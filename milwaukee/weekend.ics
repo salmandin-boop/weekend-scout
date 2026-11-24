@@ -1,0 +1,307 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Milwaukee
+X-WR-CALDESC:Hand-checked weekend picks in Milwaukee, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:milwaukee-bucks-thunder-sat-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:Bucks vs. Thunder
+LOCATION:Fiserv Forum\, 1111 Vel R. Phillips Ave\, Milwaukee\, WI 53203
+DESCRIPTION:The Bucks host the Oklahoma City Thunder on Saturday night\, p
+ art of a three-game homestand. Tickets. Details: https://weekendscout.app/
+ e/milwaukee/bucks-thunder/
+URL:https://weekendscout.app/e/milwaukee/bucks-thunder/
+END:VEVENT
+BEGIN:VEVENT
+UID:milwaukee-admirals-icehogs-sat-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:Admirals vs. Rockford IceHogs
+LOCATION:UWM Panther Arena\, 400 W Kilbourn Ave\, Milwaukee\, WI 53203
+DESCRIPTION:Milwaukee's AHL hockey team hosts the Rockford IceHogs on Satu
+ rday evening. Tickets. Details: https://weekendscout.app/e/milwaukee/admir
+ als-icehogs/
+URL:https://weekendscout.app/e/milwaukee/admirals-icehogs/
+END:VEVENT
+BEGIN:VEVENT
+UID:milwaukee-first-stage-grinch-fri-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261127T190000Z
+DTEND:20261127T210000Z
+SUMMARY:Dr. Seuss's How the Grinch Stole Christmas!
+LOCATION:Todd Wehr Theater\, Marcus Performing Arts Center\, 123 E State S
+ t\, Milwaukee\, WI 53202
+DESCRIPTION:First Stage's stage musical of the Dr. Seuss story\, recommend
+ ed for ages 5 and up. About 95 minutes with an intermission\; runs through
+  Dec 27. Tickets. Details: https://weekendscout.app/e/milwaukee/first-stag
+ e-grinch/
+URL:https://weekendscout.app/e/milwaukee/first-stage-grinch/
+END:VEVENT
+BEGIN:VEVENT
+UID:milwaukee-first-stage-grinch-fri-1@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261127T220000Z
+DTEND:20261128T000000Z
+SUMMARY:Dr. Seuss's How the Grinch Stole Christmas!
+LOCATION:Todd Wehr Theater\, Marcus Performing Arts Center\, 123 E State S
+ t\, Milwaukee\, WI 53202
+DESCRIPTION:First Stage's stage musical of the Dr. Seuss story\, recommend
+ ed for ages 5 and up. About 95 minutes with an intermission\; runs through
+  Dec 27. Tickets. Details: https://weekendscout.app/e/milwaukee/first-stag
+ e-grinch/
+URL:https://weekendscout.app/e/milwaukee/first-stage-grinch/
+END:VEVENT
+BEGIN:VEVENT
+UID:milwaukee-first-stage-grinch-sat-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261128T170000Z
+DTEND:20261128T190000Z
+SUMMARY:Dr. Seuss's How the Grinch Stole Christmas!
+LOCATION:Todd Wehr Theater\, Marcus Performing Arts Center\, 123 E State S
+ t\, Milwaukee\, WI 53202
+DESCRIPTION:First Stage's stage musical of the Dr. Seuss story\, recommend
+ ed for ages 5 and up. About 95 minutes with an intermission\; runs through
+  Dec 27. Tickets. Details: https://weekendscout.app/e/milwaukee/first-stag
+ e-grinch/
+URL:https://weekendscout.app/e/milwaukee/first-stage-grinch/
+END:VEVENT
+BEGIN:VEVENT
+UID:milwaukee-first-stage-grinch-sat-1@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261128T200000Z
+DTEND:20261128T220000Z
+SUMMARY:Dr. Seuss's How the Grinch Stole Christmas!
+LOCATION:Todd Wehr Theater\, Marcus Performing Arts Center\, 123 E State S
+ t\, Milwaukee\, WI 53202
+DESCRIPTION:First Stage's stage musical of the Dr. Seuss story\, recommend
+ ed for ages 5 and up. About 95 minutes with an intermission\; runs through
+  Dec 27. Tickets. Details: https://weekendscout.app/e/milwaukee/first-stag
+ e-grinch/
+URL:https://weekendscout.app/e/milwaukee/first-stage-grinch/
+END:VEVENT
+BEGIN:VEVENT
+UID:milwaukee-first-stage-grinch-sat-2@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261128T230000Z
+DTEND:20261129T010000Z
+SUMMARY:Dr. Seuss's How the Grinch Stole Christmas!
+LOCATION:Todd Wehr Theater\, Marcus Performing Arts Center\, 123 E State S
+ t\, Milwaukee\, WI 53202
+DESCRIPTION:First Stage's stage musical of the Dr. Seuss story\, recommend
+ ed for ages 5 and up. About 95 minutes with an intermission\; runs through
+  Dec 27. Tickets. Details: https://weekendscout.app/e/milwaukee/first-stag
+ e-grinch/
+URL:https://weekendscout.app/e/milwaukee/first-stage-grinch/
+END:VEVENT
+BEGIN:VEVENT
+UID:milwaukee-first-stage-grinch-sun-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261129T190000Z
+DTEND:20261129T210000Z
+SUMMARY:Dr. Seuss's How the Grinch Stole Christmas!
+LOCATION:Todd Wehr Theater\, Marcus Performing Arts Center\, 123 E State S
+ t\, Milwaukee\, WI 53202
+DESCRIPTION:First Stage's stage musical of the Dr. Seuss story\, recommend
+ ed for ages 5 and up. About 95 minutes with an intermission\; runs through
+  Dec 27. Tickets. Details: https://weekendscout.app/e/milwaukee/first-stag
+ e-grinch/
+URL:https://weekendscout.app/e/milwaukee/first-stage-grinch/
+END:VEVENT
+BEGIN:VEVENT
+UID:milwaukee-first-stage-grinch-sun-1@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261129T220000Z
+DTEND:20261130T000000Z
+SUMMARY:Dr. Seuss's How the Grinch Stole Christmas!
+LOCATION:Todd Wehr Theater\, Marcus Performing Arts Center\, 123 E State S
+ t\, Milwaukee\, WI 53202
+DESCRIPTION:First Stage's stage musical of the Dr. Seuss story\, recommend
+ ed for ages 5 and up. About 95 minutes with an intermission\; runs through
+  Dec 27. Tickets. Details: https://weekendscout.app/e/milwaukee/first-stag
+ e-grinch/
+URL:https://weekendscout.app/e/milwaukee/first-stage-grinch/
+END:VEVENT
+BEGIN:VEVENT
+UID:milwaukee-mso-grinch-in-concert-fri-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261128T013000Z
+DTEND:20261128T033000Z
+SUMMARY:How the Grinch Stole Christmas in Concert
+LOCATION:Bradley Symphony Center\, 212 W Wisconsin Ave\, Milwaukee\, WI 53
+ 203
+DESCRIPTION:The Milwaukee Symphony Orchestra plays James Horner's score li
+ ve while the Jim Carrey film screens. Food and cocktails are served starti
+ ng 90 minutes before each show. Tickets. Details: https://weekendscout.app
+ /e/milwaukee/mso-grinch-in-concert/
+URL:https://weekendscout.app/e/milwaukee/mso-grinch-in-concert/
+END:VEVENT
+BEGIN:VEVENT
+UID:milwaukee-mso-grinch-in-concert-sat-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261129T013000Z
+DTEND:20261129T033000Z
+SUMMARY:How the Grinch Stole Christmas in Concert
+LOCATION:Bradley Symphony Center\, 212 W Wisconsin Ave\, Milwaukee\, WI 53
+ 203
+DESCRIPTION:The Milwaukee Symphony Orchestra plays James Horner's score li
+ ve while the Jim Carrey film screens. Food and cocktails are served starti
+ ng 90 minutes before each show. Tickets. Details: https://weekendscout.app
+ /e/milwaukee/mso-grinch-in-concert/
+URL:https://weekendscout.app/e/milwaukee/mso-grinch-in-concert/
+END:VEVENT
+BEGIN:VEVENT
+UID:milwaukee-mso-grinch-in-concert-sun-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261129T203000Z
+DTEND:20261129T223000Z
+SUMMARY:How the Grinch Stole Christmas in Concert
+LOCATION:Bradley Symphony Center\, 212 W Wisconsin Ave\, Milwaukee\, WI 53
+ 203
+DESCRIPTION:The Milwaukee Symphony Orchestra plays James Horner's score li
+ ve while the Jim Carrey film screens. Food and cocktails are served starti
+ ng 90 minutes before each show. Tickets. Details: https://weekendscout.app
+ /e/milwaukee/mso-grinch-in-concert/
+URL:https://weekendscout.app/e/milwaukee/mso-grinch-in-concert/
+END:VEVENT
+BEGIN:VEVENT
+UID:milwaukee-zoo-wild-lights-fri-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261127T233000Z
+DTEND:20261128T030000Z
+SUMMARY:Wild Lights at the Milwaukee County Zoo
+LOCATION:Milwaukee County Zoo\, 10001 W Bluemound Rd\, Milwaukee\, WI 5322
+ 6
+DESCRIPTION:An evening walk through holiday light displays at the zoo. Las
+ t admission is 8:15 p.m.\; children 2 and under are free. $18 adults\, $16
+  kids (online). Details: https://weekendscout.app/e/milwaukee/zoo-wild-lig
+ hts/
+URL:https://weekendscout.app/e/milwaukee/zoo-wild-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:milwaukee-zoo-wild-lights-sat-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261128T233000Z
+DTEND:20261129T030000Z
+SUMMARY:Wild Lights at the Milwaukee County Zoo
+LOCATION:Milwaukee County Zoo\, 10001 W Bluemound Rd\, Milwaukee\, WI 5322
+ 6
+DESCRIPTION:An evening walk through holiday light displays at the zoo. Las
+ t admission is 8:15 p.m.\; children 2 and under are free. $18 adults\, $16
+  kids (online). Details: https://weekendscout.app/e/milwaukee/zoo-wild-lig
+ hts/
+URL:https://weekendscout.app/e/milwaukee/zoo-wild-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:milwaukee-milwaukee-holiday-lights-festival-fri-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Milwaukee Holiday Lights Festival
+LOCATION:Pere Marquette Park and downtown parks\, 900 N Plankinton Ave\, M
+ ilwaukee\, WI 53203
+DESCRIPTION:Themed light displays fill Pere Marquette Park\, Cathedral Squ
+ are\, Zeidler Union Square and Red Arrow Park\, with chandeliers over 18 b
+ locks of Wisconsin Avenue. Runs through Jan. 1. Free. Details: https://wee
+ kendscout.app/e/milwaukee/milwaukee-holiday-lights-festival/
+URL:https://weekendscout.app/e/milwaukee/milwaukee-holiday-lights-festival/
+END:VEVENT
+BEGIN:VEVENT
+UID:milwaukee-milwaukee-holiday-lights-festival-sat-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Milwaukee Holiday Lights Festival
+LOCATION:Pere Marquette Park and downtown parks\, 900 N Plankinton Ave\, M
+ ilwaukee\, WI 53203
+DESCRIPTION:Themed light displays fill Pere Marquette Park\, Cathedral Squ
+ are\, Zeidler Union Square and Red Arrow Park\, with chandeliers over 18 b
+ locks of Wisconsin Avenue. Runs through Jan. 1. Free. Details: https://wee
+ kendscout.app/e/milwaukee/milwaukee-holiday-lights-festival/
+URL:https://weekendscout.app/e/milwaukee/milwaukee-holiday-lights-festival/
+END:VEVENT
+BEGIN:VEVENT
+UID:milwaukee-milwaukee-holiday-lights-festival-sun-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Milwaukee Holiday Lights Festival
+LOCATION:Pere Marquette Park and downtown parks\, 900 N Plankinton Ave\, M
+ ilwaukee\, WI 53203
+DESCRIPTION:Themed light displays fill Pere Marquette Park\, Cathedral Squ
+ are\, Zeidler Union Square and Red Arrow Park\, with chandeliers over 18 b
+ locks of Wisconsin Avenue. Runs through Jan. 1. Free. Details: https://wee
+ kendscout.app/e/milwaukee/milwaukee-holiday-lights-festival/
+URL:https://weekendscout.app/e/milwaukee/milwaukee-holiday-lights-festival/
+END:VEVENT
+BEGIN:VEVENT
+UID:milwaukee-deer-district-holiday-market-fri-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Deer District Holiday Market
+LOCATION:The Plaza at Fiserv Forum\, 1111 Vel R. Phillips Ave\, Milwaukee\
+ , WI 53203
+DESCRIPTION:A free outdoor holiday market with local vendors\, photo spots
+  and Santa's Mailbox on the Fiserv Forum plaza. Runs through Dec. 6\; chec
+ k daily hours before you go. Free. Details: https://weekendscout.app/e/mil
+ waukee/deer-district-holiday-market/
+URL:https://weekendscout.app/e/milwaukee/deer-district-holiday-market/
+END:VEVENT
+BEGIN:VEVENT
+UID:milwaukee-deer-district-holiday-market-sat-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Deer District Holiday Market
+LOCATION:The Plaza at Fiserv Forum\, 1111 Vel R. Phillips Ave\, Milwaukee\
+ , WI 53203
+DESCRIPTION:A free outdoor holiday market with local vendors\, photo spots
+  and Santa's Mailbox on the Fiserv Forum plaza. Runs through Dec. 6\; chec
+ k daily hours before you go. Free. Details: https://weekendscout.app/e/mil
+ waukee/deer-district-holiday-market/
+URL:https://weekendscout.app/e/milwaukee/deer-district-holiday-market/
+END:VEVENT
+BEGIN:VEVENT
+UID:milwaukee-deer-district-holiday-market-sun-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Deer District Holiday Market
+LOCATION:The Plaza at Fiserv Forum\, 1111 Vel R. Phillips Ave\, Milwaukee\
+ , WI 53203
+DESCRIPTION:A free outdoor holiday market with local vendors\, photo spots
+  and Santa's Mailbox on the Fiserv Forum plaza. Runs through Dec. 6\; chec
+ k daily hours before you go. Free. Details: https://weekendscout.app/e/mil
+ waukee/deer-district-holiday-market/
+URL:https://weekendscout.app/e/milwaukee/deer-district-holiday-market/
+END:VEVENT
+BEGIN:VEVENT
+UID:milwaukee-celebration-of-tom-petty-turner-hall-sat-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:A Celebration of Tom Petty featuring The Driveway Thriftdwellers
+LOCATION:Turner Hall Ballroom\, 1040 Vel R. Phillips Ave\, Milwaukee\, WI 
+ 53203
+DESCRIPTION:Local band The Driveway Thriftdwellers lead a Tom Petty tribut
+ e night with guests Joseph Huber\, Brett Newski\, Laura Bomber and Derek P
+ ritzl. Tickets. Details: https://weekendscout.app/e/milwaukee/celebration-
+ of-tom-petty-turner-hall/
+URL:https://weekendscout.app/e/milwaukee/celebration-of-tom-petty-turner-hall/
+END:VEVENT
+END:VCALENDAR

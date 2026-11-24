@@ -1,0 +1,51 @@
+{
+  "city": "jacksonville",
+  "updated": "2026-11-24",
+  "source": "Sights from Visit Jacksonville, the City of Jacksonville and venue pages (Nov 2026); coordinates from Visit Jacksonville map markers. Dining and drinks picks to be added in a later update.",
+  "spots": [
+    {
+      "name": "Riverside Arts Market",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Riverside",
+      "lat": 30.3164,
+      "lon": -81.67576,
+      "price": "Check details",
+      "blurb": "Saturday arts and farmers market under the Fuller Warren Bridge",
+      "blurbEs": "Mercado de arte y productores los sábados bajo el puente Fuller Warren"
+    },
+    {
+      "name": "Riverfront Plaza",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Downtown",
+      "lat": 30.32484,
+      "lon": -81.65985,
+      "price": "Free",
+      "blurb": "Downtown park on the St. Johns River",
+      "blurbEs": "Parque del centro a orillas del río St. Johns"
+    },
+    {
+      "name": "Florida Theatre",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Downtown",
+      "lat": 30.3263,
+      "lon": -81.65565,
+      "price": "Tickets",
+      "blurb": "Historic downtown theater for concerts and shows",
+      "blurbEs": "Teatro histórico del centro con conciertos y espectáculos"
+    },
+    {
+      "name": "Seawalk Pavilion",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Jacksonville Beach",
+      "lat": 30.29056,
+      "lon": -81.38954,
+      "price": "Free",
+      "blurb": "Oceanfront plaza; home of Deck the Chairs through Jan 1",
+      "blurbEs": "Plaza frente al mar; sede de Deck the Chairs hasta el 1 de enero"
+    }
+  ]
+}

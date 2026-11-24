@@ -1,0 +1,236 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Providence
+X-WR-CALDESC:Hand-checked weekend picks in Providence, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:providence-cirque-twas-the-night-before-ppac-fri-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261127T210000Z
+DTEND:20261127T230000Z
+SUMMARY:'Twas The Night Before... by Cirque du Soleil
+LOCATION:Providence Performing Arts Center\, 220 Weybosset St\, Providence
+ \, RI 02903
+DESCRIPTION:Cirque du Soleil's holiday show\, inspired by "A Visit from Sa
+ int Nicholas\," with aerial straps\, hoop diving and dance by 26 artists. 
+ It plays PPAC through Dec 6. Tickets. Details: https://weekendscout.app/e/
+ providence/cirque-twas-the-night-before-ppac/
+URL:https://weekendscout.app/e/providence/cirque-twas-the-night-before-ppac/
+END:VEVENT
+BEGIN:VEVENT
+UID:providence-cirque-twas-the-night-before-ppac-fri-1@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261128T003000Z
+DTEND:20261128T023000Z
+SUMMARY:'Twas The Night Before... by Cirque du Soleil
+LOCATION:Providence Performing Arts Center\, 220 Weybosset St\, Providence
+ \, RI 02903
+DESCRIPTION:Cirque du Soleil's holiday show\, inspired by "A Visit from Sa
+ int Nicholas\," with aerial straps\, hoop diving and dance by 26 artists. 
+ It plays PPAC through Dec 6. Tickets. Details: https://weekendscout.app/e/
+ providence/cirque-twas-the-night-before-ppac/
+URL:https://weekendscout.app/e/providence/cirque-twas-the-night-before-ppac/
+END:VEVENT
+BEGIN:VEVENT
+UID:providence-cirque-twas-the-night-before-ppac-sat-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261128T180000Z
+DTEND:20261128T200000Z
+SUMMARY:'Twas The Night Before... by Cirque du Soleil
+LOCATION:Providence Performing Arts Center\, 220 Weybosset St\, Providence
+ \, RI 02903
+DESCRIPTION:Cirque du Soleil's holiday show\, inspired by "A Visit from Sa
+ int Nicholas\," with aerial straps\, hoop diving and dance by 26 artists. 
+ It plays PPAC through Dec 6. Tickets. Details: https://weekendscout.app/e/
+ providence/cirque-twas-the-night-before-ppac/
+URL:https://weekendscout.app/e/providence/cirque-twas-the-night-before-ppac/
+END:VEVENT
+BEGIN:VEVENT
+UID:providence-cirque-twas-the-night-before-ppac-sat-1@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261128T210000Z
+DTEND:20261128T230000Z
+SUMMARY:'Twas The Night Before... by Cirque du Soleil
+LOCATION:Providence Performing Arts Center\, 220 Weybosset St\, Providence
+ \, RI 02903
+DESCRIPTION:Cirque du Soleil's holiday show\, inspired by "A Visit from Sa
+ int Nicholas\," with aerial straps\, hoop diving and dance by 26 artists. 
+ It plays PPAC through Dec 6. Tickets. Details: https://weekendscout.app/e/
+ providence/cirque-twas-the-night-before-ppac/
+URL:https://weekendscout.app/e/providence/cirque-twas-the-night-before-ppac/
+END:VEVENT
+BEGIN:VEVENT
+UID:providence-cirque-twas-the-night-before-ppac-sat-2@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261129T003000Z
+DTEND:20261129T023000Z
+SUMMARY:'Twas The Night Before... by Cirque du Soleil
+LOCATION:Providence Performing Arts Center\, 220 Weybosset St\, Providence
+ \, RI 02903
+DESCRIPTION:Cirque du Soleil's holiday show\, inspired by "A Visit from Sa
+ int Nicholas\," with aerial straps\, hoop diving and dance by 26 artists. 
+ It plays PPAC through Dec 6. Tickets. Details: https://weekendscout.app/e/
+ providence/cirque-twas-the-night-before-ppac/
+URL:https://weekendscout.app/e/providence/cirque-twas-the-night-before-ppac/
+END:VEVENT
+BEGIN:VEVENT
+UID:providence-cirque-twas-the-night-before-ppac-sun-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261129T170000Z
+DTEND:20261129T190000Z
+SUMMARY:'Twas The Night Before... by Cirque du Soleil
+LOCATION:Providence Performing Arts Center\, 220 Weybosset St\, Providence
+ \, RI 02903
+DESCRIPTION:Cirque du Soleil's holiday show\, inspired by "A Visit from Sa
+ int Nicholas\," with aerial straps\, hoop diving and dance by 26 artists. 
+ It plays PPAC through Dec 6. Tickets. Details: https://weekendscout.app/e/
+ providence/cirque-twas-the-night-before-ppac/
+URL:https://weekendscout.app/e/providence/cirque-twas-the-night-before-ppac/
+END:VEVENT
+BEGIN:VEVENT
+UID:providence-cirque-twas-the-night-before-ppac-sun-1@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261129T200000Z
+DTEND:20261129T220000Z
+SUMMARY:'Twas The Night Before... by Cirque du Soleil
+LOCATION:Providence Performing Arts Center\, 220 Weybosset St\, Providence
+ \, RI 02903
+DESCRIPTION:Cirque du Soleil's holiday show\, inspired by "A Visit from Sa
+ int Nicholas\," with aerial straps\, hoop diving and dance by 26 artists. 
+ It plays PPAC through Dec 6. Tickets. Details: https://weekendscout.app/e/
+ providence/cirque-twas-the-night-before-ppac/
+URL:https://weekendscout.app/e/providence/cirque-twas-the-night-before-ppac/
+END:VEVENT
+BEGIN:VEVENT
+UID:providence-cirque-twas-the-night-before-ppac-sun-2@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261129T233000Z
+DTEND:20261130T013000Z
+SUMMARY:'Twas The Night Before... by Cirque du Soleil
+LOCATION:Providence Performing Arts Center\, 220 Weybosset St\, Providence
+ \, RI 02903
+DESCRIPTION:Cirque du Soleil's holiday show\, inspired by "A Visit from Sa
+ int Nicholas\," with aerial straps\, hoop diving and dance by 26 artists. 
+ It plays PPAC through Dec 6. Tickets. Details: https://weekendscout.app/e/
+ providence/cirque-twas-the-night-before-ppac/
+URL:https://weekendscout.app/e/providence/cirque-twas-the-night-before-ppac/
+END:VEVENT
+BEGIN:VEVENT
+UID:providence-rwp-zoo-holiday-lights-spectacular-fri-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261127T220000Z
+DTEND:20261128T023000Z
+SUMMARY:Holiday Lights Spectacular
+LOCATION:Roger Williams Park Zoo\, 1000 Elmwood Ave\, Providence\, RI 0290
+ 7
+DESCRIPTION:A walk-through light display on a path of just over a mile at 
+ the zoo\, opening Friday and running nightly through Jan 3. Tickets must b
+ e bought online in advance. $15 adults\, $13 kids 2–12. Details: https:/
+ /weekendscout.app/e/providence/rwp-zoo-holiday-lights-spectacular/
+URL:https://weekendscout.app/e/providence/rwp-zoo-holiday-lights-spectacular/
+END:VEVENT
+BEGIN:VEVENT
+UID:providence-rwp-zoo-holiday-lights-spectacular-sat-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261128T220000Z
+DTEND:20261129T023000Z
+SUMMARY:Holiday Lights Spectacular
+LOCATION:Roger Williams Park Zoo\, 1000 Elmwood Ave\, Providence\, RI 0290
+ 7
+DESCRIPTION:A walk-through light display on a path of just over a mile at 
+ the zoo\, opening Friday and running nightly through Jan 3. Tickets must b
+ e bought online in advance. $15 adults\, $13 kids 2–12. Details: https:/
+ /weekendscout.app/e/providence/rwp-zoo-holiday-lights-spectacular/
+URL:https://weekendscout.app/e/providence/rwp-zoo-holiday-lights-spectacular/
+END:VEVENT
+BEGIN:VEVENT
+UID:providence-rwp-zoo-holiday-lights-spectacular-sun-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261129T220000Z
+DTEND:20261130T023000Z
+SUMMARY:Holiday Lights Spectacular
+LOCATION:Roger Williams Park Zoo\, 1000 Elmwood Ave\, Providence\, RI 0290
+ 7
+DESCRIPTION:A walk-through light display on a path of just over a mile at 
+ the zoo\, opening Friday and running nightly through Jan 3. Tickets must b
+ e bought online in advance. $15 adults\, $13 kids 2–12. Details: https:/
+ /weekendscout.app/e/providence/rwp-zoo-holiday-lights-spectacular/
+URL:https://weekendscout.app/e/providence/rwp-zoo-holiday-lights-spectacular/
+END:VEVENT
+BEGIN:VEVENT
+UID:providence-rwp-museum-steam-weekend-sat-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261128T150000Z
+DTEND:20261128T210000Z
+SUMMARY:Fam-tastic STEAM Weekend
+LOCATION:Museum of Natural History and Planetarium\, Roger Williams Park\,
+  1000 Elmwood Ave\, Providence\, RI 02907
+DESCRIPTION:Hands-on science\, technology\, engineering\, art and math act
+ ivities\, plus a plasma globe demo at 12:30 pm. A 2 pm planetarium show\, 
+ Flight Adventures\, costs $5 including admission. $2 museum admission\; un
+ der 4 free. Details: https://weekendscout.app/e/providence/rwp-museum-stea
+ m-weekend/
+URL:https://weekendscout.app/e/providence/rwp-museum-steam-weekend/
+END:VEVENT
+BEGIN:VEVENT
+UID:providence-rwp-museum-steam-weekend-sun-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261129T150000Z
+DTEND:20261129T210000Z
+SUMMARY:Fam-tastic STEAM Weekend
+LOCATION:Museum of Natural History and Planetarium\, Roger Williams Park\,
+  1000 Elmwood Ave\, Providence\, RI 02907
+DESCRIPTION:Hands-on science\, technology\, engineering\, art and math act
+ ivities\, plus a plasma globe demo at 12:30 pm. A 2 pm planetarium show\, 
+ Flight Adventures\, costs $5 including admission. $2 museum admission\; un
+ der 4 free. Details: https://weekendscout.app/e/providence/rwp-museum-stea
+ m-weekend/
+URL:https://weekendscout.app/e/providence/rwp-museum-steam-weekend/
+END:VEVENT
+BEGIN:VEVENT
+UID:providence-providence-rink-kennedy-plaza-fri-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261127T150000Z
+DTEND:20261128T030000Z
+SUMMARY:Ice Skating at The Providence Rink
+LOCATION:The Providence Rink (BankNewport City Center)\, 2 Kennedy Plaza\,
+  Providence\, RI 02903
+DESCRIPTION:The downtown outdoor rink opened for the 2026–27 season on T
+ hanksgiving Day\, with public skating all weekend. Shared-ice bumper cars 
+ run 10 am–2 pm Saturday and Sunday. Check ticket prices. Details: https:
+ //weekendscout.app/e/providence/providence-rink-kennedy-plaza/
+URL:https://weekendscout.app/e/providence/providence-rink-kennedy-plaza/
+END:VEVENT
+BEGIN:VEVENT
+UID:providence-providence-rink-kennedy-plaza-sat-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261128T150000Z
+DTEND:20261129T030000Z
+SUMMARY:Ice Skating at The Providence Rink
+LOCATION:The Providence Rink (BankNewport City Center)\, 2 Kennedy Plaza\,
+  Providence\, RI 02903
+DESCRIPTION:The downtown outdoor rink opened for the 2026–27 season on T
+ hanksgiving Day\, with public skating all weekend. Shared-ice bumper cars 
+ run 10 am–2 pm Saturday and Sunday. Check ticket prices. Details: https:
+ //weekendscout.app/e/providence/providence-rink-kennedy-plaza/
+URL:https://weekendscout.app/e/providence/providence-rink-kennedy-plaza/
+END:VEVENT
+BEGIN:VEVENT
+UID:providence-providence-rink-kennedy-plaza-sun-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261129T150000Z
+DTEND:20261130T030000Z
+SUMMARY:Ice Skating at The Providence Rink
+LOCATION:The Providence Rink (BankNewport City Center)\, 2 Kennedy Plaza\,
+  Providence\, RI 02903
+DESCRIPTION:The downtown outdoor rink opened for the 2026–27 season on T
+ hanksgiving Day\, with public skating all weekend. Shared-ice bumper cars 
+ run 10 am–2 pm Saturday and Sunday. Check ticket prices. Details: https:
+ //weekendscout.app/e/providence/providence-rink-kennedy-plaza/
+URL:https://weekendscout.app/e/providence/providence-rink-kennedy-plaza/
+END:VEVENT
+END:VCALENDAR

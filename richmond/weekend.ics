@@ -1,0 +1,400 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Richmond
+X-WR-CALDESC:Hand-checked weekend picks in Richmond, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:richmond-christmas-story-musical-altria-fri-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261128T000000Z
+DTEND:20261128T020000Z
+SUMMARY:A Christmas Story: The Musical
+LOCATION:Altria Theater\, 6 N Laurel St\, Richmond\, VA 23220
+DESCRIPTION:The Broadway in Richmond touring musical about Ralphie Parker 
+ and his quest for a Red Ryder BB gun plays four shows this weekend. Childr
+ en under 2 are not admitted. Tickets. Details: https://weekendscout.app/e/
+ richmond/christmas-story-musical-altria/
+URL:https://weekendscout.app/e/richmond/christmas-story-musical-altria/
+END:VEVENT
+BEGIN:VEVENT
+UID:richmond-christmas-story-musical-altria-sat-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261128T190000Z
+DTEND:20261128T210000Z
+SUMMARY:A Christmas Story: The Musical
+LOCATION:Altria Theater\, 6 N Laurel St\, Richmond\, VA 23220
+DESCRIPTION:The Broadway in Richmond touring musical about Ralphie Parker 
+ and his quest for a Red Ryder BB gun plays four shows this weekend. Childr
+ en under 2 are not admitted. Tickets. Details: https://weekendscout.app/e/
+ richmond/christmas-story-musical-altria/
+URL:https://weekendscout.app/e/richmond/christmas-story-musical-altria/
+END:VEVENT
+BEGIN:VEVENT
+UID:richmond-christmas-story-musical-altria-sat-1@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:A Christmas Story: The Musical
+LOCATION:Altria Theater\, 6 N Laurel St\, Richmond\, VA 23220
+DESCRIPTION:The Broadway in Richmond touring musical about Ralphie Parker 
+ and his quest for a Red Ryder BB gun plays four shows this weekend. Childr
+ en under 2 are not admitted. Tickets. Details: https://weekendscout.app/e/
+ richmond/christmas-story-musical-altria/
+URL:https://weekendscout.app/e/richmond/christmas-story-musical-altria/
+END:VEVENT
+BEGIN:VEVENT
+UID:richmond-christmas-story-musical-altria-sun-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261129T180000Z
+DTEND:20261129T200000Z
+SUMMARY:A Christmas Story: The Musical
+LOCATION:Altria Theater\, 6 N Laurel St\, Richmond\, VA 23220
+DESCRIPTION:The Broadway in Richmond touring musical about Ralphie Parker 
+ and his quest for a Red Ryder BB gun plays four shows this weekend. Childr
+ en under 2 are not admitted. Tickets. Details: https://weekendscout.app/e/
+ richmond/christmas-story-musical-altria/
+URL:https://weekendscout.app/e/richmond/christmas-story-musical-altria/
+END:VEVENT
+BEGIN:VEVENT
+UID:richmond-va-rep-christmas-carol-fri-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:A Christmas Carol
+LOCATION:November Theatre (Virginia Rep)\, 114 W Broad St\, Richmond\, VA 
+ 23220
+DESCRIPTION:Virginia Rep's stage version of the Dickens story runs through
+  Dec 27. About two hours with one intermission\; recommended for ages 7 an
+ d up. Tickets. Details: https://weekendscout.app/e/richmond/va-rep-christm
+ as-carol/
+URL:https://weekendscout.app/e/richmond/va-rep-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:richmond-va-rep-christmas-carol-sat-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:A Christmas Carol
+LOCATION:November Theatre (Virginia Rep)\, 114 W Broad St\, Richmond\, VA 
+ 23220
+DESCRIPTION:Virginia Rep's stage version of the Dickens story runs through
+  Dec 27. About two hours with one intermission\; recommended for ages 7 an
+ d up. Tickets. Details: https://weekendscout.app/e/richmond/va-rep-christm
+ as-carol/
+URL:https://weekendscout.app/e/richmond/va-rep-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:richmond-va-rep-christmas-carol-sun-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:A Christmas Carol
+LOCATION:November Theatre (Virginia Rep)\, 114 W Broad St\, Richmond\, VA 
+ 23220
+DESCRIPTION:Virginia Rep's stage version of the Dickens story runs through
+  Dec 27. About two hours with one intermission\; recommended for ages 7 an
+ d up. Tickets. Details: https://weekendscout.app/e/richmond/va-rep-christm
+ as-carol/
+URL:https://weekendscout.app/e/richmond/va-rep-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:richmond-richmond-symphony-let-it-snow-sat-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261128T190000Z
+DTEND:20261128T210000Z
+SUMMARY:Richmond Symphony: Let It Snow!
+LOCATION:Carpenter Theatre\, Dominion Energy Center\, 600 E Grace St\, Ric
+ hmond\, VA 23219
+DESCRIPTION:The Richmond Symphony's holiday pops concert with the Richmond
+  Symphony Chorus\, vocalist Shannon Schilstra and the James River Ringers.
+  Tickets. Details: https://weekendscout.app/e/richmond/richmond-symphony-l
+ et-it-snow/
+URL:https://weekendscout.app/e/richmond/richmond-symphony-let-it-snow/
+END:VEVENT
+BEGIN:VEVENT
+UID:richmond-richmond-symphony-let-it-snow-sat-1@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:Richmond Symphony: Let It Snow!
+LOCATION:Carpenter Theatre\, Dominion Energy Center\, 600 E Grace St\, Ric
+ hmond\, VA 23219
+DESCRIPTION:The Richmond Symphony's holiday pops concert with the Richmond
+  Symphony Chorus\, vocalist Shannon Schilstra and the James River Ringers.
+  Tickets. Details: https://weekendscout.app/e/richmond/richmond-symphony-l
+ et-it-snow/
+URL:https://weekendscout.app/e/richmond/richmond-symphony-let-it-snow/
+END:VEVENT
+BEGIN:VEVENT
+UID:richmond-susan-greenbaum-thanksgiving-christmas-sat-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:Susan Greenbaum: A Thanksgiving Christmas
+LOCATION:Bob & Sally Mooney Hall\, Dominion Energy Center\, 600 E Grace St
+ \, Richmond\, VA 23219
+DESCRIPTION:Richmond singer-songwriter Susan Greenbaum and her band play h
+ oliday songs\, originals and sing-alongs to open the season. Tickets. Deta
+ ils: https://weekendscout.app/e/richmond/susan-greenbaum-thanksgiving-chri
+ stmas/
+URL:https://weekendscout.app/e/richmond/susan-greenbaum-thanksgiving-christmas/
+END:VEVENT
+BEGIN:VEVENT
+UID:richmond-justin-silva-funny-bone-fri-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261128T000000Z
+DTEND:20261128T020000Z
+SUMMARY:Justin Silva
+LOCATION:Funny Bone Comedy Club\, 11800 W Broad St\, Suite 1090\, Richmond
+ \, VA 23233
+DESCRIPTION:Stand-up comedian Justin Silva plays two shows at the Short Pu
+ mp comedy club. Full bar and dinner menu\; valid ID required. From $32. De
+ tails: https://weekendscout.app/e/richmond/justin-silva-funny-bone/
+URL:https://weekendscout.app/e/richmond/justin-silva-funny-bone/
+END:VEVENT
+BEGIN:VEVENT
+UID:richmond-justin-silva-funny-bone-fri-1@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261128T024500Z
+DTEND:20261128T044500Z
+SUMMARY:Justin Silva
+LOCATION:Funny Bone Comedy Club\, 11800 W Broad St\, Suite 1090\, Richmond
+ \, VA 23233
+DESCRIPTION:Stand-up comedian Justin Silva plays two shows at the Short Pu
+ mp comedy club. Full bar and dinner menu\; valid ID required. From $32. De
+ tails: https://weekendscout.app/e/richmond/justin-silva-funny-bone/
+URL:https://weekendscout.app/e/richmond/justin-silva-funny-bone/
+END:VEVENT
+BEGIN:VEVENT
+UID:richmond-chico-bean-funny-bone-sat-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261128T233000Z
+DTEND:20261129T013000Z
+SUMMARY:Chico Bean
+LOCATION:Funny Bone Comedy Club\, 11800 W Broad St\, Suite 1090\, Richmond
+ \, VA 23233
+DESCRIPTION:Comedian Chico Bean headlines four shows over Saturday and Sun
+ day at the Short Pump club. From $42. Details: https://weekendscout.app/e/
+ richmond/chico-bean-funny-bone/
+URL:https://weekendscout.app/e/richmond/chico-bean-funny-bone/
+END:VEVENT
+BEGIN:VEVENT
+UID:richmond-chico-bean-funny-bone-sat-1@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261129T021500Z
+DTEND:20261129T041500Z
+SUMMARY:Chico Bean
+LOCATION:Funny Bone Comedy Club\, 11800 W Broad St\, Suite 1090\, Richmond
+ \, VA 23233
+DESCRIPTION:Comedian Chico Bean headlines four shows over Saturday and Sun
+ day at the Short Pump club. From $42. Details: https://weekendscout.app/e/
+ richmond/chico-bean-funny-bone/
+URL:https://weekendscout.app/e/richmond/chico-bean-funny-bone/
+END:VEVENT
+BEGIN:VEVENT
+UID:richmond-chico-bean-funny-bone-sun-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261129T230000Z
+DTEND:20261130T010000Z
+SUMMARY:Chico Bean
+LOCATION:Funny Bone Comedy Club\, 11800 W Broad St\, Suite 1090\, Richmond
+ \, VA 23233
+DESCRIPTION:Comedian Chico Bean headlines four shows over Saturday and Sun
+ day at the Short Pump club. From $42. Details: https://weekendscout.app/e/
+ richmond/chico-bean-funny-bone/
+URL:https://weekendscout.app/e/richmond/chico-bean-funny-bone/
+END:VEVENT
+BEGIN:VEVENT
+UID:richmond-chico-bean-funny-bone-sun-1@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261130T013000Z
+DTEND:20261130T033000Z
+SUMMARY:Chico Bean
+LOCATION:Funny Bone Comedy Club\, 11800 W Broad St\, Suite 1090\, Richmond
+ \, VA 23233
+DESCRIPTION:Comedian Chico Bean headlines four shows over Saturday and Sun
+ day at the Short Pump club. From $42. Details: https://weekendscout.app/e/
+ richmond/chico-bean-funny-bone/
+URL:https://weekendscout.app/e/richmond/chico-bean-funny-bone/
+END:VEVENT
+BEGIN:VEVENT
+UID:richmond-gardenfest-of-lights-lewis-ginter-fri-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261127T210000Z
+DTEND:20261128T030000Z
+SUMMARY:Dominion Energy GardenFest of Lights
+LOCATION:Lewis Ginter Botanical Garden\, 1800 Lakeside Ave\, Richmond\, VA
+  23228
+DESCRIPTION:The botanical garden's annual holiday light show with garden d
+ isplays and model trains\, open nightly through Jan 3. Timed arrival windo
+ ws are limited and can sell out. Tickets. Details: https://weekendscout.ap
+ p/e/richmond/gardenfest-of-lights-lewis-ginter/
+URL:https://weekendscout.app/e/richmond/gardenfest-of-lights-lewis-ginter/
+END:VEVENT
+BEGIN:VEVENT
+UID:richmond-gardenfest-of-lights-lewis-ginter-sat-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261128T210000Z
+DTEND:20261129T030000Z
+SUMMARY:Dominion Energy GardenFest of Lights
+LOCATION:Lewis Ginter Botanical Garden\, 1800 Lakeside Ave\, Richmond\, VA
+  23228
+DESCRIPTION:The botanical garden's annual holiday light show with garden d
+ isplays and model trains\, open nightly through Jan 3. Timed arrival windo
+ ws are limited and can sell out. Tickets. Details: https://weekendscout.ap
+ p/e/richmond/gardenfest-of-lights-lewis-ginter/
+URL:https://weekendscout.app/e/richmond/gardenfest-of-lights-lewis-ginter/
+END:VEVENT
+BEGIN:VEVENT
+UID:richmond-gardenfest-of-lights-lewis-ginter-sun-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261129T210000Z
+DTEND:20261130T030000Z
+SUMMARY:Dominion Energy GardenFest of Lights
+LOCATION:Lewis Ginter Botanical Garden\, 1800 Lakeside Ave\, Richmond\, VA
+  23228
+DESCRIPTION:The botanical garden's annual holiday light show with garden d
+ isplays and model trains\, open nightly through Jan 3. Timed arrival windo
+ ws are limited and can sell out. Tickets. Details: https://weekendscout.ap
+ p/e/richmond/gardenfest-of-lights-lewis-ginter/
+URL:https://weekendscout.app/e/richmond/gardenfest-of-lights-lewis-ginter/
+END:VEVENT
+BEGIN:VEVENT
+UID:richmond-winterworld-carmax-park-fri-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261127T230000Z
+DTEND:20261128T010000Z
+SUMMARY:WinterWorld at CarMax Park
+LOCATION:CarMax Park\, CarMax Park\, Richmond\, VA
+DESCRIPTION:The Flying Squirrels' ballpark becomes a holiday festival with
+  a skating pond\, ice slide\, Ferris wheel and lights. Friday's movie nigh
+ t shows A Christmas Story on the videoboard from 6 p.m. From $14.95 adults
+ \, $9.95 kids 4–12. Details: https://weekendscout.app/e/richmond/winterw
+ orld-carmax-park/
+URL:https://weekendscout.app/e/richmond/winterworld-carmax-park/
+END:VEVENT
+BEGIN:VEVENT
+UID:richmond-winterworld-carmax-park-sat-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:WinterWorld at CarMax Park
+LOCATION:CarMax Park\, CarMax Park\, Richmond\, VA
+DESCRIPTION:The Flying Squirrels' ballpark becomes a holiday festival with
+  a skating pond\, ice slide\, Ferris wheel and lights. Friday's movie nigh
+ t shows A Christmas Story on the videoboard from 6 p.m. From $14.95 adults
+ \, $9.95 kids 4–12. Details: https://weekendscout.app/e/richmond/winterw
+ orld-carmax-park/
+URL:https://weekendscout.app/e/richmond/winterworld-carmax-park/
+END:VEVENT
+BEGIN:VEVENT
+UID:richmond-winterworld-carmax-park-sun-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:WinterWorld at CarMax Park
+LOCATION:CarMax Park\, CarMax Park\, Richmond\, VA
+DESCRIPTION:The Flying Squirrels' ballpark becomes a holiday festival with
+  a skating pond\, ice slide\, Ferris wheel and lights. Friday's movie nigh
+ t shows A Christmas Story on the videoboard from 6 p.m. From $14.95 adults
+ \, $9.95 kids 4–12. Details: https://weekendscout.app/e/richmond/winterw
+ orld-carmax-park/
+URL:https://weekendscout.app/e/richmond/winterworld-carmax-park/
+END:VEVENT
+BEGIN:VEVENT
+UID:richmond-smv-model-railroad-show-fri-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261127T143000Z
+DTEND:20261127T220000Z
+SUMMARY:49th Annual Model Railroad Show
+LOCATION:Science Museum of Virginia\, 2500 W Broad St\, Richmond\, VA 2322
+ 0
+DESCRIPTION:About 10\,000 square feet of model railroad layouts built by V
+ irginia hobbyists\, plus restored railcars and train science demos. Timed 
+ tickets are recommended\; last ticket sold at 4:15 p.m. Included with muse
+ um admission. Details: https://weekendscout.app/e/richmond/smv-model-railr
+ oad-show/
+URL:https://weekendscout.app/e/richmond/smv-model-railroad-show/
+END:VEVENT
+BEGIN:VEVENT
+UID:richmond-smv-model-railroad-show-sat-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261128T143000Z
+DTEND:20261128T220000Z
+SUMMARY:49th Annual Model Railroad Show
+LOCATION:Science Museum of Virginia\, 2500 W Broad St\, Richmond\, VA 2322
+ 0
+DESCRIPTION:About 10\,000 square feet of model railroad layouts built by V
+ irginia hobbyists\, plus restored railcars and train science demos. Timed 
+ tickets are recommended\; last ticket sold at 4:15 p.m. Included with muse
+ um admission. Details: https://weekendscout.app/e/richmond/smv-model-railr
+ oad-show/
+URL:https://weekendscout.app/e/richmond/smv-model-railroad-show/
+END:VEVENT
+BEGIN:VEVENT
+UID:richmond-smv-model-railroad-show-sun-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART:20261129T143000Z
+DTEND:20261129T220000Z
+SUMMARY:49th Annual Model Railroad Show
+LOCATION:Science Museum of Virginia\, 2500 W Broad St\, Richmond\, VA 2322
+ 0
+DESCRIPTION:About 10\,000 square feet of model railroad layouts built by V
+ irginia hobbyists\, plus restored railcars and train science demos. Timed 
+ tickets are recommended\; last ticket sold at 4:15 p.m. Included with muse
+ um admission. Details: https://weekendscout.app/e/richmond/smv-model-railr
+ oad-show/
+URL:https://weekendscout.app/e/richmond/smv-model-railroad-show/
+END:VEVENT
+BEGIN:VEVENT
+UID:richmond-light-up-the-tracks-ashland-fri-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Light Up the Tracks
+LOCATION:Downtown Ashland\, 121 Thompson St\, Ashland\, VA 23005
+DESCRIPTION:A free mile-long holiday light display along the railroad trac
+ ks in Ashland's historic district\, lit nightly from dusk through Jan 1. W
+ alk\, bike or drive the route. Free. Details: https://weekendscout.app/e/r
+ ichmond/light-up-the-tracks-ashland/
+URL:https://weekendscout.app/e/richmond/light-up-the-tracks-ashland/
+END:VEVENT
+BEGIN:VEVENT
+UID:richmond-light-up-the-tracks-ashland-sat-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Light Up the Tracks
+LOCATION:Downtown Ashland\, 121 Thompson St\, Ashland\, VA 23005
+DESCRIPTION:A free mile-long holiday light display along the railroad trac
+ ks in Ashland's historic district\, lit nightly from dusk through Jan 1. W
+ alk\, bike or drive the route. Free. Details: https://weekendscout.app/e/r
+ ichmond/light-up-the-tracks-ashland/
+URL:https://weekendscout.app/e/richmond/light-up-the-tracks-ashland/
+END:VEVENT
+BEGIN:VEVENT
+UID:richmond-light-up-the-tracks-ashland-sun-0@weekendscout.app
+DTSTAMP:20261124T130840Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Light Up the Tracks
+LOCATION:Downtown Ashland\, 121 Thompson St\, Ashland\, VA 23005
+DESCRIPTION:A free mile-long holiday light display along the railroad trac
+ ks in Ashland's historic district\, lit nightly from dusk through Jan 1. W
+ alk\, bike or drive the route. Free. Details: https://weekendscout.app/e/r
+ ichmond/light-up-the-tracks-ashland/
+URL:https://weekendscout.app/e/richmond/light-up-the-tracks-ashland/
+END:VEVENT
+END:VCALENDAR

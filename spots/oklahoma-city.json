@@ -1,0 +1,51 @@
+{
+  "city": "oklahoma-city",
+  "updated": "2026-11-24",
+  "source": "Sights from TravelOK and Visit OKC listings (Nov 2026); coordinates from TravelOK listing metadata. Dining and drinks picks to be added in a later update.",
+  "spots": [
+    {
+      "name": "Oklahoma City Zoo & Botanical Garden",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Adventure District",
+      "lat": 35.52389,
+      "lon": -97.47249,
+      "price": "Tickets",
+      "blurb": "Large city zoo and botanical garden",
+      "blurbEs": "Gran zoológico y jardín botánico de la ciudad"
+    },
+    {
+      "name": "Myriad Botanical Gardens",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Downtown",
+      "lat": 35.46882,
+      "lon": -97.51644,
+      "price": "Free",
+      "blurb": "Downtown gardens, conservatory and seasonal ice rink",
+      "blurbEs": "Jardines en el centro, invernadero y pista de hielo de temporada"
+    },
+    {
+      "name": "Scissortail Park",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Downtown",
+      "lat": 35.45964,
+      "lon": -97.51769,
+      "price": "Free",
+      "blurb": "Downtown park, open daily 6 am to 11 pm",
+      "blurbEs": "Parque en el centro, abierto todos los días de 6 am a 11 pm"
+    },
+    {
+      "name": "Mitch Park",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Edmond",
+      "lat": 35.68601,
+      "lon": -97.50554,
+      "price": "Free",
+      "blurb": "Edmond's big city park, home of the Luminance light walk",
+      "blurbEs": "Gran parque de Edmond, sede del paseo de luces Luminance"
+    }
+  ]
+}

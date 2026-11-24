@@ -1,0 +1,18 @@
+{
+  "city": "raleigh",
+  "updated": "2026-11-24",
+  "source": "North Carolina Museum of Art (official site; coordinates from its directions link). More picks to be added in a later update.",
+  "spots": [
+    {
+      "name": "North Carolina Museum of Art",
+      "kind": "always",
+      "cuisine": "",
+      "area": "West Raleigh",
+      "lat": 35.80989,
+      "lon": -78.70258,
+      "price": "Free",
+      "blurb": "Free collection galleries and outdoor Museum Park",
+      "blurbEs": "Galerías gratuitas y el Museum Park al aire libre"
+    }
+  ]
+}
