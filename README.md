@@ -137,3 +137,10 @@ The weekly update checks that every date-night event has at least 2 spots within
 
 ## v1.17 additions
 - **Now:** on Fri/Sat/Sun of the listed weekend a pulsing "Now" button appears next to Map. It shows only what's still ahead today (city time): events on now first (soonest-ending first), then by start time, with "Happening now" / "Starts in 40 min" badges refreshed every minute. When the day is done it offers "See <tomorrow>". Untimed listings (s:"") don't appear in Now.
+
+## v1.18 additions (weekly updates: please follow)
+- **Follow a venue:** "Follow venue" in an event's details; followed venues' events get a "★ Following" pill, sort first, and appear in a "From venues you follow" rail. Stored on the phone by venue name, so **keep venue names consistent week to week** (use the venue's own name, e.g. "Kleinhans Music Hall", not variants).
+- **Kid age ranges:** optional `kidAges` on family events: any of `"toddler"` (0–4), `"kids"` (5–12), `"teens"` (13+). **Weekly updates: add `kidAges` to every event tagged `family`**, based on the organizer's stated ages or the obvious audience (a toddler story time → ["toddler"]; a Disney musical → ["kids","teens"]; a festival for everyone → all three). Leave it out if unclear. The Filters sheet shows a "Kids' ages" row when Good for: Kids (or Family type) is on and the city has tagged events.
+- **Next weekend preview:** from Sunday 6 PM to the Wednesday update, the app shows "Early picks for next weekend" from `upcoming`. **Weekly updates: make sure `upcoming` includes 2–4 verified events on the FOLLOWING weekend (Fri–Sun one week after the listed weekend)** when any are announced, plus the usual notable events in the next ~6 weeks.
+- **Budget picker:** date-night and friends plans can be limited to Free / Under $25 / Under $50 per person using `priceMin` (or the first $ in `priceLabel`). **Record `priceMin` whenever the official page states a lowest ticket price.**
+- **Submit your event:** the promo button and `/?go=submit` open the listing form (pre-filled city); if no email app opens, the details appear in a box to copy. City pages link to it.

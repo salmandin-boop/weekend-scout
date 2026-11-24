@@ -309,7 +309,8 @@ def main():
 <a class="cta" href="{app}">Open in the Weekend Scout app</a>
 {''.join(body_days)}
 {('<h2>Holiday guides</h2><div class="cities">' + ''.join(f'<a href="/{c["id"]}/{x["slug"]}/">{esc(x.get("icon", ""))} {esc(x["title"])}</a>' for x in guides[c['id']]) + '</div>') if guides[c['id']] else ''}
-<p class="sub" style="margin-top:20px">Visiting from out of town? <a href="/{c['id']}/visiting/">See a one-day plan for {esc(c['name'])}</a></p>
+<p class="sub" style="margin-top:20px">Run a venue or event in {esc(c['name'])}? <a href="/?city={c['id']}&go=submit">Submit your event</a> (free listing).</p>
+<p class="sub">Visiting from out of town? <a href="/{c['id']}/visiting/">See a one-day plan for {esc(c['name'])}</a></p>
 <h2>Get these in your calendar</h2><p class="sub">Subscribe once and every weekend's picks for {esc(c['name'])} show up automatically: <a href="webcal://weekendscout.app/{c['id']}/weekend.ics">Apple / Outlook</a> · <a href="https://calendar.google.com/calendar/r?cid={esc('webcal://weekendscout.app/' + c['id'] + '/weekend.ics')}">Google Calendar</a></p>
 <h2>Other cities</h2><div class="cities">{others}</div>
 <footer>Times and prices can change, so check with the venue before you go. Some ticket links may earn us a small commission. · <a href="/privacy.html">Privacy</a> · <a href="/terms.html">Terms</a> · © ENDins LLC</footer>

@@ -258,6 +258,10 @@ dialog.sheet[open]{animation:sheetUp .22s cubic-bezier(.2,.8,.2,1)}
 .nowbtn[aria-pressed="true"]{background:var(--navy);color:var(--bg);border-color:var(--navy)}
 @keyframes nowpulse{70%{box-shadow:0 0 0 6px rgba(217,48,37,0)}100%{box-shadow:0 0 0 0 rgba(217,48,37,0)}}
 @media (prefers-reduced-motion:reduce){.nowbtn .dot{animation:none}}
+.pill.follow{background:#fff3d6;color:#8a5a00}
+.budget{margin:0 0 10px;flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none}.budget::-webkit-scrollbar{display:none}.budget .chip{flex:none}.budget .chip{padding:4px 12px;font-size:.84rem}
+.nextwk{background:var(--surface);border:2px solid var(--accent);border-radius:18px;padding:16px;margin:0 0 14px}.nextwk h2{margin:6px 0 4px;font-size:1.2rem}
+.follow-row{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:8px 0;border-bottom:1px solid var(--line)}.follow-row:last-child{border-bottom:0}
 .visit-link{margin:18px 0 4px;font-weight:700}.visit-link a{color:var(--accent);text-decoration:none}
 .vote-list{display:grid;gap:10px}.vote-opt{border:1px solid var(--line);border-radius:14px;padding:12px 14px;background:var(--bg);display:grid;gap:4px}
 .vote-opt small{color:var(--muted)}.vote-opt p{margin:2px 0 6px;font-size:.9rem;color:var(--muted)}
@@ -376,13 +380,14 @@ dialog.sheet[open]{animation:sheetUp .22s cubic-bezier(.2,.8,.2,1)}
     <div class="promo">
       <h3>Run a venue or event?</h3>
       <p>Get listed here for free, or ask about one of only 3 Featured spots in your city each weekend.</p>
-      <button class="btn" type="button" data-go="about">How to get listed</button>
+      <button class="btn" type="button" data-submit>Submit your event</button>
     </div>
   </section>
 
   <section id="view-saved" class="wrap" hidden aria-labelledby="h-saved">
     <header class="top"><div class="kicker">Your plans</div><h1 id="h-saved">Saved</h1><p class="dates">Tap the heart on any event to keep it here.</p></header>
     <div class="row-btns" id="saved-actions" hidden style="margin-top:14px"><button class="btn" type="button" data-calall>Add all to my calendar</button><button class="btn" type="button" data-shareplan>Share my weekend</button><button class="btn primary" type="button" data-votemake>Help us pick</button></div>
+    <div class="section follow-box" id="follow-list" style="margin-top:18px"></div>
     <div class="list" id="saved-list" style="margin-top:16px"></div>
   </section>
 
@@ -425,6 +430,7 @@ dialog.sheet[open]{animation:sheetUp .22s cubic-bezier(.2,.8,.2,1)}
         <label>Listing<select name="plan"><option>Free listing</option><option>Featured (send me rates)</option></select></label>
         <label class="check"><input type="checkbox" name="ok" required> I work for this business and I'm allowed to promote this event.</label>
         <button class="btn primary" type="submit">Send for review</button>
+        <div id="feat-fallback" hidden><p style="font-size:.85rem;margin:4px 0">No email app opened? Copy this and email it to support@weekendscout.app, or text it to 315-383-9602:</p><textarea id="feat-text" rows="7" readonly style="width:100%;font:inherit;font-size:.85rem"></textarea><button class="btn" type="button" data-copy="feat-text">Copy</button></div>
         <p style="font-size:.85rem">To keep Weekend Scout safe, we check every business before it goes live:</p>
         <ol class="steps-mini"><li>It's registered with the state and listed on Google Maps at the same address.</li><li>We call back on its public phone number.</li><li>The event is on its official website or a major ticket seller.</li><li>Featured spots are limited to 3 per city each weekend, first approved, first booked. After approval we send a secure card payment link (Stripe) in the business's name. If a weekend is full, we offer the next open one.</li></ol>
       </form>
@@ -462,7 +468,7 @@ dialog.sheet[open]{animation:sheetUp .22s cubic-bezier(.2,.8,.2,1)}
 
 <script>
 (() => {
-const APP_VERSION = '1.17.0';
+const APP_VERSION = '1.18.0';
 const SITE_URL = 'https://weekendscout.app/'; // the live address, so shared links point there
 const TZ0 = 'America/New_York';
 let TZ = TZ0; // switches to the chosen city's time zone
@@ -499,9 +505,24 @@ const ICON = {
 const APP_JSONLD_ID = 'ld-events';
 
 let DATA = null, offline = false, CITIES = [], CITY = null;
-const S = { view:'home', day:'all', cat:'all', good:'any', q:'', near:false, now:false };
+const S = { view:'home', day:'all', cat:'all', good:'any', q:'', near:false, now:false, age:'any', budget:'any' };
 let POS = null; // the phone's location, kept in memory only while the app is open
 let saved = new Set(store.get('ws-saved', store.get('stw-saved', [])));
+// Followed venues (by name, lowercased), kept on this phone only
+let follows = new Set(store.get('ws-follow', []));
+const vkey = v => String(v || '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
+const isFollowed = ev => follows.has(vkey(ev.venue));
+function toggleFollow(venue){
+  const k = vkey(venue); if (!k) return;
+  if (follows.has(k)) { follows.delete(k); toast(`Stopped following ${venue}`); } else { follows.add(k); toast(`Following ${venue}. Its events will show up first.`); }
+  store.set('ws-follow', [...follows]); store.set('ws-follow-names', Object.assign(store.get('ws-follow-names', {}), { [k]: venue }));
+}
+// Kid age ranges: ev.kidAges = ['toddler','kids','teens']; untagged family events count as all ages
+const AGES = [['toddler','Toddlers (0–4)'],['kids','Kids (5–12)'],['teens','Teens (13+)']];
+const AGELABEL = Object.fromEntries(AGES);
+const kidAges = ev => Array.isArray(ev.kidAges) ? ev.kidAges.filter(a => AGELABEL[a]) : [];
+// Budget for ready-made plans: ticket price per person
+const BUDGETS = [['any','Any budget'],['0','Free'],['25','Under $25'],['50','Under $50']];
 
 /* ---------- time helpers ---------- */
 const mins = t => { if (!t) return 9999; const [h,m] = t.split(':').map(Number); return h*60+m; };
@@ -608,7 +629,7 @@ const GOODLABEL = Object.fromEntries(GOOD);
 const GOODCOUNT = { date:['date night pick','date night picks'], family:['pick for kids','picks for kids'], friends:['pick for groups','picks for groups'], indoors:['indoor pick','indoor picks'], outdoors:['outdoor pick','outdoor picks'], dogs:['dog-friendly pick','dog-friendly picks'], access:['accessible pick','accessible picks'] };
 function goodFor(ev){
   const g = new Set(Array.isArray(ev.good) ? ev.good : (ev.cat === 'family' ? ['family'] : []));
-  if (ev.ages) g.delete('family');
+  if (/(18|21)\+/.test(ev.ages || '')) g.delete('family');
   return GOOD.map(([k]) => k).filter(k => g.has(k));
 }
 // Lowest known ticket price: priceMin when the update recorded it, 0 for free, else the first $ amount in the label
@@ -620,6 +641,7 @@ function priceVal(ev){
 function matches(ev, day, cat, q, good = S.good){
   if (good !== 'any' && !goodFor(ev).includes(good)) return false;
   if (S.now && nowState(ev) === null) return false;
+  if (S.age !== 'any' && (S.good === 'family' || S.cat === 'family')) { const a = kidAges(ev); if (a.length && !a.includes(S.age)) return false; if (/^(18|21)\+/.test(ev.ages || '')) return false; }
   if (day !== 'all' && !(ev.times[day] || []).length) return false;
   if (cat === 'free' && ev.price !== 'free') return false;
   if (cat === 'cheap'){ const v = priceVal(ev); if (v === null || v > 25) return false; }
@@ -652,7 +674,7 @@ const distTxt = ev => { const d = distOf(ev); return d === null ? '' : d < 0.1 ?
 function sorted(evs, day){
   if (S.now) return evs.slice().sort((a,b) => { const x = nowState(a), y = nowState(b); return (x < 0 ? -1e5 - x : x) - (y < 0 ? -1e5 - y : y) || a.title.localeCompare(b.title); });
   if (S.near && POS) return evs.slice().sort((a,b) => (isFeat(b) ? 1 : 0) - (isFeat(a) ? 1 : 0) || (isFeat(a) && isFeat(b) ? featIds().indexOf(a.id) - featIds().indexOf(b.id) : 0) || (distOf(a) ?? 1e9) - (distOf(b) ?? 1e9) || sortKey(a,day) - sortKey(b,day));
-  return evs.slice().sort((a,b) => sortKey(a,day) - sortKey(b,day) || a.title.localeCompare(b.title));
+  return evs.slice().sort((a,b) => (follows.size ? isFollowed(b) - isFollowed(a) : 0) || sortKey(a,day) - sortKey(b,day) || a.title.localeCompare(b.title));
 }
 
 /* ---------- rendering ---------- */
@@ -681,6 +703,8 @@ function pills(ev){
   p.push(`<span class="pill${ev.price === 'free' ? ' free' : ''}">${esc(ev.priceLabel || (ev.price === 'free' ? 'Free' : 'Tickets'))}</span>`);
   p.push(`<span class="pill">${esc(CATLABEL[ev.cat] || ev.cat)}</span>`);
   if (ev.ages) p.push(`<span class="pill">${esc(ev.ages)}</span>`);
+  else if (kidAges(ev).length && kidAges(ev).length < 3) p.push(`<span class="pill">${esc(kidAges(ev).map(a => AGELABEL[a].replace(/ \(.*\)/, '')).join(' & '))}</span>`);
+  if (isFollowed(ev)) p.push('<span class="pill follow">★ Following</span>');
   if (ev.tag) p.push(`<span class="pill tag">${esc(ev.tag)}</span>`);
   return `<div class="pills">${p.join('')}</div>`;
 }
@@ -719,8 +743,9 @@ function renderControls(){
   if (S.cat !== 'all') act.push(`<button type="button" class="chip on" data-cat="all" aria-label="Remove filter ${esc(CATLABEL2(S.cat))}">${esc(CATLABEL2(S.cat))} <span aria-hidden="true">✕</span></button>`);
   if (S.good !== 'any') act.push(`<button type="button" class="chip on" data-good="${S.good}" aria-label="Remove filter ${esc(GOODLABEL[S.good])}">${esc(GOODLABEL[S.good])} <span aria-hidden="true">✕</span></button>`);
   if (S.near && POS) act.push(`<button type="button" class="chip on" data-near aria-label="Stop sorting by distance">Nearest first <span aria-hidden="true">✕</span></button>`);
+  if (S.age !== 'any' && (S.good === 'family' || S.cat === 'family')) act.push(`<button type="button" class="chip on" data-age="any" aria-label="Remove filter ${esc(AGELABEL[S.age])}">${esc(AGELABEL[S.age])} <span aria-hidden="true">✕</span></button>`);
   $('active-f').innerHTML = act.join(''); $('active-f').hidden = !act.length;
-  const n = (S.cat !== 'all') + (S.good !== 'any') + (!!(S.near && POS));
+  const n = (S.cat !== 'all') + (S.good !== 'any') + (!!(S.near && POS)) + (S.age !== 'any' && (S.good === 'family' || S.cat === 'family'));
   $('filt-n').textContent = n; $('filt-n').hidden = !n; $('filt-btn').classList.toggle('on', !!n);
   $('filt-btn').setAttribute('aria-label', n ? `Filters, ${n} on` : 'Filters');
   if (FILT_OPEN) renderFilterSheet();
@@ -737,6 +762,7 @@ function renderFilterSheet(){
     <div class="sheet-head"><h2 id="s-title">Filters</h2><button class="x-btn" type="button" data-close aria-label="Close">${ICON.x}</button></div>
     <h3 class="fs-h">Type</h3><div class="fs-chips" role="group" aria-label="Type">${cats.map(([k,l]) => `<button type="button" class="chip" data-cat="${k}" aria-pressed="${S.cat === k}">${esc(l)}</button>`).join('')}</div>
     ${goods.length ? `<h3 class="fs-h">Good for</h3><div class="fs-chips" role="group" aria-label="Good for"><button type="button" class="chip" data-good="any" aria-pressed="${S.good === 'any'}">Anything</button>${goods.map(([k,l]) => `<button type="button" class="chip" data-good="${k}" aria-pressed="${S.good === k}">${esc(l)}</button>`).join('')}</div>` : ''}
+    ${(S.good === 'family' || S.cat === 'family') && DATA.events.some(e => kidAges(e).length) ? `<h3 class="fs-h">Kids' ages</h3><div class="fs-chips" role="group" aria-label="Kids' ages"><button type="button" class="chip" data-age="any" aria-pressed="${S.age === 'any'}">All ages</button>${AGES.map(([k,l]) => `<button type="button" class="chip" data-age="${k}" aria-pressed="${S.age === k}">${esc(l)}</button>`).join('')}</div>` : ''}
     ${canNear ? `<h3 class="fs-h">Sort</h3><div class="fs-chips" role="group" aria-label="Sort"><button type="button" class="chip" data-sort="time" aria-pressed="${!(S.near && POS)}">Soonest first</button><button type="button" class="chip" data-sort="near" aria-pressed="${!!(S.near && POS)}">Nearest first</button></div>` : ''}
     <div class="actions fs-actions"><button class="btn" type="button" data-fclear>Clear all</button><button class="btn primary" type="button" data-close>Show ${n} ${n === 1 ? 'event' : 'events'}</button></div>`;
 }
@@ -765,7 +791,9 @@ function renderHome(){
       cards.unshift(`<div class="nudge"><span>☀ Nice weather ${nice.map(d => DAYNAME[d]).join(' and ')} (${Math.max(...nice.map(d => wxFor(DATA.weekend.days[d]).hi))}°).</span><button class="btn" type="button" data-good="outdoors">Show outdoor picks</button></div>`);
   }
   if (MAPON) drawMap(evs);
-  const plans = renderPlans(), fy = renderForYou();
+  const plans = renderPlans(), fy = renderForYou(), fol = renderFollowing(evs);
+  if (fol) cards.unshift(fol);
+  const nxt = renderNextWeekend(); if (nxt) cards.unshift(nxt);
   // Rails sit inside the list, after the first few events, so the list stays first.
   // With the Date night filter on, the ready-made date bundles lead the list.
   if (plans) cards.splice(S.good !== 'any' ? 0 : Math.min(4, cards.length), 0, plans);
@@ -778,6 +806,9 @@ function renderSaved(){
   $('saved-list').innerHTML = evs.length ? evs.map(e => card(e, 'all')).join('') :
     `<div class="empty"><h2>No saved events yet</h2><p>Tap the heart on anything that looks good and it'll wait for you here.</p><button class="btn primary" type="button" data-go="home">Browse this weekend</button></div>`;
   const n = evs.length; $('badge').hidden = !n; $('badge').textContent = n; $('saved-actions').hidden = !n;
+  const names = store.get('ws-follow-names', {});
+  $('follow-list').innerHTML = follows.size ? `<h2>Venues you follow</h2><p class="muted-p">Their events show up first, every weekend, in any city.</p><div class="follow-rows">${[...follows].map(k => `<div class="follow-row"><span>★ ${esc(names[k] || k)}</span><button class="btn" type="button" data-follow="${esc(names[k] || k)}">Unfollow</button></div>`).join('')}</div>`
+    : `<h2>Follow your favorite venues</h2><p class="muted-p">Open any event and tap "Follow venue". Its events will show up first every weekend.</p>`;
 }
 
 function renderHeader(){
@@ -839,6 +870,29 @@ function learn(ev, w){
 function tasteScore(ev){
   return (taste.cat[ev.cat] || 0) + goodFor(ev).reduce((a, g) => a + (taste.good[g] || 0), 0) + (ev.price === 'free' ? (taste.cat.free || 0) : 0);
 }
+// "From venues you follow": a short rail at the top when any followed venue has events this weekend
+function renderFollowing(evs){
+  if (!follows.size || S.q || S.cat !== 'all' || S.good !== 'any' || S.now) return '';
+  const mine = evs.filter(isFollowed).slice(0, 6);
+  if (!mine.length) return '';
+  return `<div class="inlist" role="region" aria-label="From venues you follow"><div class="rail-head"><h2>From venues you follow</h2><p>${mine.length} this weekend</p></div>
+    <div class="rail">${mine.map(e => { const s = sessions(e)[0]; return `<button class="plan" type="button" data-open="${esc(e.id)}"><span class="k">${esc(s ? DAYABBR[s.day] + (s.s ? ' · ' + fmt(s.s) : '') : '')}</span><h3>${esc(e.title)}</h3><span class="cost" style="color:var(--muted);font-weight:600">${esc(e.venue)}</span></button>`; }).join('')}</div></div>`;
+}
+// Sunday evening to Tuesday the list is finished: show next weekend's early picks from "Coming up"
+function listIsOver(){ const w = DATA.weekend.days, t = todayISO(); return t > w.sun || (t === w.sun && nowMins() >= 18 * 60); }
+function renderNextWeekend(){
+  if (!listIsOver() || S.q || S.cat !== 'all' || S.good !== 'any') return '';
+  const w = DATA.weekend.days, f = addDays(w.fri, 7), su = addDays(w.sun, 7);
+  let items = (DATA.upcoming || []).filter(u => u.date && u.date >= addDays(w.fri, 6) && u.date <= su);
+  const soon = !items.length; if (soon) items = (DATA.upcoming || []).filter(u => u.date && u.date > w.sun).sort((a,b) => a.date.localeCompare(b.date)).slice(0, 4);
+  const alw = (DATA.spots || []).filter(x => x.kind === 'always').slice(0, 3);
+  if (!items.length && !alw.length) return '';
+  return `<section class="nextwk" aria-label="Next weekend"><span class="kicker">Next weekend · ${esc(prettyDate(f, { month:'short', day:'numeric' }))}–${esc(prettyDate(su, { day:'numeric' }))}</span>
+    <h2>${soon ? 'Coming up soon' : 'Early picks for next weekend'}</h2><p class="muted-p">The full hand-checked list lands Wednesday. Here's what's already on the calendar.</p>
+    ${items.length ? `<ul class="up">${items.sort((a,b) => a.date.localeCompare(b.date)).map(u => `<li><span class="up-d">${esc(prettyDate(u.date, { weekday:'short', month:'short', day:'numeric' }))}</span><span class="up-b"><b>${u.url ? `<a href="${esc(affURL(u.url).url)}" target="_blank" rel="noopener">${esc(u.title)}</a>` : esc(u.title)}</b><small>${esc([u.venue, u.priceLabel].filter(Boolean).join(' · '))}</small></span></li>`).join('')}</ul>` : ''}
+    ${alw.length ? `<p class="muted-p" style="margin:10px 0 0">Always good: ${alw.map(x => esc(x.name)).join(' · ')}</p>` : ''}
+    <p class="muted-p" style="margin:12px 0 0"><b>Below: last weekend's list.</b></p></section>`;
+}
 function renderForYou(){
   if (taste.n < 4 || S.q || S.cat !== 'all' || S.good !== 'any') return '';
   const top = DATA.events.filter(e => !saved.has(e.id) && tasteScore(e) > 0).sort((a,b) => tasteScore(b) - tasteScore(a)).slice(0, 4);
@@ -891,7 +945,8 @@ function buildPlans(type){
   const want = type === 'date' ? 'date' : type;
   const prefer = s => type === 'family' ? (mins(s.s) >= 9*60 && mins(s.s) <= 15*60) : mins(s.s) >= 17*60;
   const food = type === 'family' ? 'lunch' : type === 'friends' ? 'drinks' : 'dinner';
-  const cands = DATA.events.filter(e => goodFor(e).includes(want) && (type !== 'friends' || !e.ages || /21|18/.test(e.ages)))
+  const cap = S.budget === 'any' ? Infinity : +S.budget;
+  const cands = DATA.events.filter(e => goodFor(e).includes(want) && (type !== 'friends' || !e.ages || /21|18/.test(e.ages)) && (cap === Infinity || (priceVal(e) !== null && priceVal(e) <= cap)))
     .flatMap(e => sessions(e).filter(s => s.s && (S.day === 'all' || s.day === S.day)).slice(0, 1).map(s => ({ e, s })))
     .sort((a,b) => prefer(b.s) - prefer(a.s) || (nearSpots(b.e, food).length > 0) - (nearSpots(a.e, food).length > 0) || DAYS.indexOf(a.s.day) - DAYS.indexOf(b.s.day));
   for (const c of cands){ if (out.length >= 3) break; if (usedDay.has(c.s.day) && cands.length > 3) continue; usedDay.add(c.s.day); out.push(c); }
@@ -922,13 +977,16 @@ let PLANS = [], planOpen = -1;
 function renderPlans(){
   const type = planType();
   PLANS = type ? buildPlans(type) : [];
-  if (!PLANS.length) return '';
-  const T = PLAN_TYPES[type];
-  return `<div class="inlist" role="region" aria-label="${esc(T.title)}"><div class="rail-head"><h2>${esc(T.title)}</h2><p>${esc(T.sub)}</p></div>
+  const T = type && PLAN_TYPES[type];
+  const bud = type && type !== 'family' ? `<div class="fs-chips budget" role="group" aria-label="Budget per person">${BUDGETS.map(([k,l]) => `<button type="button" class="chip" data-budget="${k}" aria-pressed="${S.budget === k}">${esc(l)}</button>`).join('')}</div>` : '';
+  if (!PLANS.length) return type && S.budget !== 'any' ? `<div class="inlist" role="region" aria-label="${esc(T.title)}"><div class="rail-head"><h2>${esc(T.title)}</h2><p>${esc(T.sub)}</p></div>${bud}<p class="muted-p">No plans with tickets in that budget this weekend. Try a higher one.</p></div>` : '';
+  return `<div class="inlist" role="region" aria-label="${esc(T.title)}"><div class="rail-head"><h2>${esc(T.title)}</h2><p>${esc(T.sub)}</p></div>${bud}
     <div class="rail">${PLANS.map((p, i) => `<button class="plan ${type}" type="button" data-plan="${i}">
-      <span class="k">${esc(DAYNAME[p.s.day])} · ${esc(p.e.priceLabel || '')}</span><h3>${esc(p.e.title)}</h3>
+      <span class="k">${esc(DAYNAME[p.s.day])} · ${esc(costTxt(p.e))}</span><h3>${esc(p.e.title)}</h3>
       <ol>${p.steps.map(x => `<li><b>${esc(fmtMins(x.t))}</b> ${esc(x.id ? 'The main event' : x.what)}</li>`).join('')}</ol></button>`).join('')}</div></div>`;
 }
+// Cost per person for the plan's event; food and drinks are on top
+function costTxt(e){ const v = priceVal(e); return v === 0 ? 'Free event' : v !== null ? `Tickets from $${Math.round(v)} pp` : (e.priceLabel || 'Tickets'); }
 function openPlan(i){
   const p = PLANS[i]; if (!p) return;
   const T = PLAN_TYPES[p.type || 'date'];
@@ -938,7 +996,7 @@ function openPlan(i){
       <button class="x-btn" type="button" data-close aria-label="Close">${ICON.x}</button></div>
     <ol class="steps">${p.steps.map(x => `<li><span class="tm">${esc(fmtMins(x.t))}</span><div><div class="what">${esc(x.what)}</div><div class="sub">${esc(x.sub)}</div>
       ${x.id ? `<button class="btn" type="button" data-open="${esc(x.id)}" style="margin-top:6px;min-height:40px">Event details ${ICON.ext}</button>` : x.picks ? `<div class="pick-links"><a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.link)} →</a>${x.nodir ? '' : `<a href="${esc(spotMaps(x.picks[0]))}" target="_blank" rel="noopener">Directions →</a>`}</div>${x.picks.length > 1 ? `<div class="alts"><span>Or nearby:</span>${x.picks.slice(1).map(s => `<div><a href="${esc(spotMaps(s))}" target="_blank" rel="noopener">${esc(s.name)}</a> <small>· ${esc(s.cuisine)} · ${esc(spotDist(s.mi))}</small></div>`).join('')}</div>` : ''}` : `<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.link)} →</a>`}</div></li>`).join('')}</ol>
-    <p style="font-size:.85rem;color:var(--muted)">Event: ${esc(p.e.priceLabel || 'see venue')}. ${esc(T.note)}</p>
+    <p style="font-size:.85rem;color:var(--muted)">Event: ${esc(p.e.priceLabel || 'see venue')}${priceVal(p.e) ? ' per person' : ''}. ${esc(T.note)}</p>
     <div class="actions"><button class="btn" type="button" data-save="${esc(p.e.id)}" aria-pressed="${saved.has(p.e.id)}">${ICON.heart} ${saved.has(p.e.id) ? 'Saved' : 'Save the event'}</button><button class="btn" type="button" data-share>${ICON.share} Send this plan</button></div>`;
   if (!sheet.open){ try { sheet.showModal(); } catch { sheet.setAttribute('open',''); } }
 }
@@ -971,7 +1029,7 @@ function remindRow(){
 }
 function renderUpcoming(){
   if (S.q || S.cat !== 'all' || S.good !== 'any') return '';
-  const after = DATA.weekend.days.sun;
+  const after = listIsOver() ? addDays(DATA.weekend.days.sun, 7) : DATA.weekend.days.sun;
   const items = (DATA.upcoming || []).filter(u => u.date && u.date > after).sort((a,b) => a.date.localeCompare(b.date)).slice(0, 8);
   if (!items.length) return '';
   return `<section class="more" aria-label="Coming up"><div class="rail-head"><h2>Coming up</h2><p>Plan ahead</p></div>
@@ -1170,6 +1228,7 @@ function openSheet(id, push = true){
       <button class="btn" type="button" data-share>${ICON.share} Share</button>
       <button class="btn" type="button" data-story>${ICON.share} Story image</button>
       <button class="btn" type="button" data-save="${esc(id)}" aria-pressed="${on}">${ICON.heart} ${on ? 'Saved' : 'Save'}</button>
+      <button class="btn" type="button" data-follow="${esc(ev.venue)}" aria-pressed="${isFollowed(ev)}">★ ${isFollowed(ev) ? 'Following venue' : 'Follow venue'}</button>
       ${calRows ? `<button class="btn" type="button" data-caltoggle aria-expanded="false">${ICON.cal} Calendar</button>` : `<a class="btn" href="${esc(infoURL(ev))}" target="_blank" rel="noopener">More info</a>`}
     </div>
     ${calRows ? `<div class="cal" id="cal" hidden><strong style="font-size:.9rem">Add to your calendar</strong>${calRows}</div>` : ''}
@@ -1233,12 +1292,16 @@ document.addEventListener('click', e => {
   if (t.dataset.open) return openSheet(t.dataset.open);
   if (t.dataset.save) return toggleSave(t.dataset.save);
   if (t.dataset.go) { closeSheet(); return show(t.dataset.go); }
+  if ('submit' in t.dataset) return goSubmit();
   if (t.dataset.day) { S.day = t.dataset.day; S.now = false; renderControls(); renderHome(); return; }
   if ('now' in t.dataset) { const k = todayKey(); if (!k) return; S.now = !S.now; if (S.now) S.day = k; closeSheet(); renderControls(); renderHome(); if (S.now) scrollToResults(); return; }
   if ('filters' in t.dataset) return openFilters();
   if ('lang' in t.dataset) return setLang(LANG === 'es' ? 'en' : 'es');
   if ('sharecity' in t.dataset) return shareCity();
-  if ('fclear' in t.dataset) { S.cat = 'all'; S.good = 'any'; S.near = false; renderControls(); renderHome(); return; }
+  if ('fclear' in t.dataset) { S.cat = 'all'; S.good = 'any'; S.near = false; S.age = 'any'; renderControls(); renderHome(); return; }
+  if (t.dataset.age) { S.age = t.dataset.age; renderControls(); renderHome(); if (!FILT_OPEN) scrollToResults(); return; }
+  if (t.dataset.budget) { S.budget = t.dataset.budget; renderHome(); return; }
+  if ('follow' in t.dataset) { toggleFollow(t.dataset.follow); if (openId) openSheet(openId); renderHome(); if (S.view === 'saved') renderSaved(); return; }
   if (t.dataset.sort) { if ((t.dataset.sort === 'near') !== !!(S.near && POS)) toggleNear($('near-btn')); setTimeout(() => renderControls(), 0); return; }
   if (t.dataset.cat) { S.cat = (FILT_OPEN || t.dataset.cat !== S.cat) ? t.dataset.cat : 'all'; renderControls(); renderHome(); if (!FILT_OPEN) scrollToResults(); return; }
   if (t.dataset.good) { S.good = t.dataset.good === 'any' ? 'any' : (S.good === t.dataset.good && !FILT_OPEN ? 'any' : t.dataset.good); renderControls(); renderHome(); if (!FILT_OPEN) scrollToResults(); return; }
@@ -1263,8 +1326,8 @@ document.addEventListener('click', e => {
   if ('caltoggle' in t.dataset) { const c = $('cal'); c.hidden = !c.hidden; t.setAttribute('aria-expanded', String(!c.hidden)); return; }
   if (t.dataset.ics !== undefined) { const ev = DATA.events.find(x => x.id === openId); const s = sessions(ev).filter(s => s.s)[+t.dataset.ics]; downloadICS(ev, s); return; }
   if (t.dataset.copy) {
-    const txt = $(t.dataset.copy).textContent;
-    navigator.clipboard.writeText(txt).then(() => toast('Copied'), () => { const r = document.createRange(); r.selectNodeContents($(t.dataset.copy)); const s = getSelection(); s.removeAllRanges(); s.addRange(r); toast('Selected. Copy it from here.'); });
+    const el = $(t.dataset.copy), txt = el.tagName === 'TEXTAREA' ? el.value : el.textContent;
+    navigator.clipboard.writeText(txt).then(() => toast('Copied'), () => { if (el.tagName === 'TEXTAREA') el.select(); else { const r = document.createRange(); r.selectNodeContents(el); const s = getSelection(); s.removeAllRanges(); s.addRange(r); } toast('Selected. Copy it from here.'); });
   }
 });
 let qT;
@@ -1456,6 +1519,7 @@ function renderHeaderCityOnly(){ $('city-label').textContent = cityName(CITY); $
   $('feat-city').innerHTML = CITIES.map(c => `<option${c.id === CITY.id ? ' selected' : ''}>${esc(cityName(c))}</option>`).join('');
   if (store.get('ws-remind', false)) savePrefsForWorker();
   // Friend vote links: ?vote=id,id,id&by=Name
+  if (qp.get('go') === 'submit') { (window.__introGone || Promise.resolve()).then(goSubmit); return; }
   const qv = qp.get('vote');
   if (qv) { const ids = qv.split(',').slice(0, 4); (window.__introGone || Promise.resolve()).then(() => openVote(ids, (qp.get('by') || '').slice(0, 24))); return; }
   // First visit and more than one city: ask which city they're in
@@ -1510,6 +1574,7 @@ function startAnalytics(){
   if (a.cloudflareToken && !document.getElementById('cf-beacon')){ const s = document.createElement('script'); s.id = 'cf-beacon'; s.defer = true; s.src = 'https://static.cloudflareinsights.com/beacon.min.js'; s.setAttribute('data-cf-beacon', JSON.stringify({ token:a.cloudflareToken, spa:true })); document.head.appendChild(s); }
   if (a.plausibleDomain && !document.getElementById('plausible')){ const s = document.createElement('script'); s.id = 'plausible'; s.defer = true; s.dataset.domain = a.plausibleDomain; s.src = 'https://plausible.io/js/script.js'; document.head.appendChild(s); }
 }
+function goSubmit(){ closeSheet(); show('about'); setTimeout(() => { const g = $('get-listed'); if (g) { g.scrollIntoView({ behavior:'smooth', block:'start' }); const c = $('feat-city'); if (c && CITY) c.value = cityName(CITY); g.querySelector('input')?.focus({ preventScroll:true }); } }, 60); }
 // "Get listed" form: opens an email to us with everything filled in
 $('feat-form').addEventListener('submit', e => {
   e.preventDefault();
@@ -1517,6 +1582,8 @@ $('feat-form').addEventListener('submit', e => {
   const body = `Business: ${f.business}\nContact: ${f.name}\nEmail: ${f.email}\nPhone: ${f.phone}\nWebsite: ${f.website}\n\nEvent: ${f.event}\nCity: ${f.city}\nWhen: ${f.when}\nPrice: ${f.price || ''}\nOfficial page: ${f.link}\n\nListing: ${f.plan}\nAuthorized to promote: yes`;
   location.href = `mailto:support@weekendscout.app?subject=${encodeURIComponent('Get listed: ' + f.event + ' (' + f.city + ')')}&body=${encodeURIComponent(body)}`;
   toast('Opening your email app…');
+  // In case no email app opens: show the details to copy and send another way
+  const fb = $('feat-fallback'); fb.hidden = false; $('feat-text').value = 'To: support@weekendscout.app\nSubject: Get listed: ' + f.event + ' (' + f.city + ')\n\n' + body;
 });
 
 /* ---------- fresh list when you come back to the app ---------- */
