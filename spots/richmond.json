@@ -1,8 +1,80 @@
 {
   "city": "richmond",
   "updated": "2026-11-24",
-  "source": "Sights from official sites (Lewis Ginter, VMFA, Science Museum of Virginia, Maymont), Nov 2026; Lewis Ginter coordinates from its official page. Dining and drinks picks to be added in a later update.",
+  "source": "Dinner, lunch and drinks picks from OpenTable's Richmond lists (Diners' Choice, Best Restaurants in Richmond, Best Bars for Foodies, updated 2026) and Visit Richmond's 2026 accolades; their coordinates from each restaurant's OpenTable page metadata, Nov 2026. Sights from official sites (Lewis Ginter, VMFA, Science Museum of Virginia, Maymont); Lewis Ginter coordinates from its official page, VMFA, Science Museum and Maymont coordinates from Wikipedia.",
   "spots": [
+    {
+      "name": "Lemaire",
+      "kind": "dinner",
+      "cuisine": "Contemporary American",
+      "area": "Downtown (The Jefferson Hotel)",
+      "lat": 37.54427,
+      "lon": -77.44542
+    },
+    {
+      "name": "Lillie Pearl",
+      "kind": "dinner",
+      "cuisine": "Contemporary Southern",
+      "area": "Jackson Ward",
+      "lat": 37.54636,
+      "lon": -77.44235
+    },
+    {
+      "name": "L'Opossum",
+      "kind": "dinner",
+      "cuisine": "Contemporary French-American",
+      "area": "Oregon Hill",
+      "lat": 37.538,
+      "lon": -77.45036
+    },
+    {
+      "name": "Bookbinder's Seafood & Steakhouse",
+      "kind": "dinner",
+      "cuisine": "Seafood and steaks",
+      "area": "Tobacco Row",
+      "lat": 37.52899,
+      "lon": -77.42323
+    },
+    {
+      "name": "Maggiano's",
+      "kind": "dinner",
+      "cuisine": "Italian",
+      "area": "Short Pump Town Center",
+      "lat": 37.65598,
+      "lon": -77.62112
+    },
+    {
+      "name": "Tarrant's Downtown",
+      "kind": "lunch",
+      "cuisine": "American, seafood and pizza",
+      "area": "Arts District",
+      "lat": 37.54542,
+      "lon": -77.4423
+    },
+    {
+      "name": "Amuse at VMFA",
+      "kind": "lunch",
+      "cuisine": "Contemporary American",
+      "area": "Museum District (inside VMFA)",
+      "lat": 37.55604,
+      "lon": -77.47479
+    },
+    {
+      "name": "Bar Solita",
+      "kind": "drinks",
+      "cuisine": "Cocktail and wine bar",
+      "area": "Arts District",
+      "lat": 37.54642,
+      "lon": -77.4438
+    },
+    {
+      "name": "Grandstaff & Stein",
+      "kind": "drinks",
+      "cuisine": "Speakeasy cocktail bar",
+      "area": "Shockoe Bottom",
+      "lat": 37.53081,
+      "lon": -77.42468
+    },
     {
       "name": "Lewis Ginter Botanical Garden",
       "kind": "always",
@@ -19,6 +91,8 @@
       "kind": "always",
       "cuisine": "",
       "area": "Museum District",
+      "lat": 37.55642,
+      "lon": -77.47471,
       "price": "Free",
       "blurb": "Art museum, free general admission, open 365 days",
       "blurbEs": "Museo de arte, entrada general gratuita, abierto los 365 días"
@@ -28,6 +102,8 @@
       "kind": "always",
       "cuisine": "",
       "area": "Museum District",
+      "lat": 37.56111,
+      "lon": -77.46583,
       "price": "Tickets",
       "blurb": "Hands-on science museum with The Dome theater",
       "blurbEs": "Museo de ciencias interactivo con el teatro The Dome"
@@ -37,6 +113,8 @@
       "kind": "always",
       "cuisine": "",
       "area": "Maymont",
+      "lat": 37.53528,
+      "lon": -77.47778,
       "price": "Free",
       "blurb": "Historic estate and park; mansion decorated for the holidays ($12 self-guided)",
       "blurbEs": "Finca histórica y parque; mansión decorada para las fiestas ($12 visita libre)"

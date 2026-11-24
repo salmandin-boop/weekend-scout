@@ -1,8 +1,80 @@
 {
   "city": "oklahoma-city",
   "updated": "2026-11-24",
-  "source": "Sights from TravelOK and Visit OKC listings (Nov 2026); coordinates from TravelOK listing metadata. Dining and drinks picks to be added in a later update.",
+  "source": "Dinner, lunch and drinks picks from The Infatuation's Best Restaurants in Oklahoma City (updated Jul 2026), OpenTable's OKC date-night list and TravelOK's Best Craft Cocktail Bars article (Nov 2026); sights from TravelOK, Visit OKC and Wikipedia. Coordinates from OpenTable page metadata (Stock & Bond, Nonesuch, Bar Sen, MAHT), TravelOK listing metadata (Jamil's, Sun Cattle Co., VII Asian Bistro, existing sights), Google Maps links on Wanderlog place pages (Palo Santo, Sidecar) and Wikipedia infoboxes (National Memorial, Science Museum).",
   "spots": [
+    {
+      "name": "Stock & Bond",
+      "kind": "dinner",
+      "cuisine": "Steakhouse",
+      "area": "Downtown",
+      "lat": 35.4686,
+      "lon": -97.51603
+    },
+    {
+      "name": "Nonesuch",
+      "kind": "dinner",
+      "cuisine": "Contemporary American tasting menu",
+      "area": "Midtown",
+      "lat": 35.47536,
+      "lon": -97.51956
+    },
+    {
+      "name": "Bar Sen",
+      "kind": "dinner",
+      "cuisine": "Lao",
+      "area": "Plaza District",
+      "lat": 35.4857,
+      "lon": -97.53863
+    },
+    {
+      "name": "MAHT",
+      "kind": "dinner",
+      "cuisine": "Korean steakhouse",
+      "area": "Uptown 23rd",
+      "lat": 35.49359,
+      "lon": -97.52159
+    },
+    {
+      "name": "Jamil's Steakhouse",
+      "kind": "dinner",
+      "cuisine": "Lebanese steakhouse",
+      "area": "Capitol Corridor",
+      "lat": 35.52114,
+      "lon": -97.503
+    },
+    {
+      "name": "Sun Cattle Co.",
+      "kind": "lunch",
+      "cuisine": "Burgers",
+      "area": "Film Row",
+      "lat": 35.46619,
+      "lon": -97.52599
+    },
+    {
+      "name": "VII Asian Bistro",
+      "kind": "lunch",
+      "cuisine": "Vietnamese",
+      "area": "Asian District",
+      "lat": 35.49905,
+      "lon": -97.53379
+    },
+    {
+      "name": "Palo Santo",
+      "kind": "drinks",
+      "cuisine": "Cocktail bar",
+      "area": "Farmers Market District",
+      "lat": 35.46345,
+      "lon": -97.53294
+    },
+    {
+      "name": "Sidecar Barley & Wine Bar",
+      "kind": "drinks",
+      "cuisine": "Wine and whiskey bar",
+      "area": "Automobile Alley",
+      "lat": 35.4783,
+      "lon": -97.51368
+    },
     {
       "name": "Oklahoma City Zoo & Botanical Garden",
       "kind": "always",
@@ -46,6 +118,28 @@
       "price": "Free",
       "blurb": "Edmond's big city park, home of the Luminance light walk",
       "blurbEs": "Gran parque de Edmond, sede del paseo de luces Luminance"
+    },
+    {
+      "name": "Oklahoma City National Memorial & Museum",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Downtown",
+      "lat": 35.47278,
+      "lon": -97.51722,
+      "price": "Free (museum ticketed)",
+      "blurb": "Outdoor memorial to the 1995 bombing, open day and night",
+      "blurbEs": "Memorial al aire libre del atentado de 1995, abierto de día y de noche"
+    },
+    {
+      "name": "Science Museum Oklahoma",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Adventure District",
+      "lat": 35.5236,
+      "lon": -97.4751,
+      "price": "Tickets",
+      "blurb": "Hands-on science galleries and a planetarium",
+      "blurbEs": "Salas de ciencia interactivas y un planetario"
     }
   ]
 }

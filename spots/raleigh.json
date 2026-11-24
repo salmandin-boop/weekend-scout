@@ -1,8 +1,80 @@
 {
   "city": "raleigh",
   "updated": "2026-11-24",
-  "source": "North Carolina Museum of Art (official site; coordinates from its directions link). More picks to be added in a later update.",
+  "source": "Dinner and lunch picks from the MICHELIN Guide USA Raleigh listings (2025–2026, cross-checked with The Infatuation's Raleigh guide, updated June 2025); drinks from Raleigh Magazine's Best Bars (Feb 2026) and MICHELIN listings for The Longleaf Hotel and Brewery Bhavana; restaurant/bar coordinates from the MICHELIN pages' map links; sights and their coordinates from Wikipedia (Nov 2026).",
   "spots": [
+    {
+      "name": "Poole's Diner",
+      "kind": "dinner",
+      "cuisine": "American",
+      "area": "Downtown",
+      "lat": 35.77464,
+      "lon": -78.64218
+    },
+    {
+      "name": "St. Roch Fine Oysters + Bar",
+      "kind": "dinner",
+      "cuisine": "Seafood & raw bar",
+      "area": "Downtown",
+      "lat": 35.77759,
+      "lon": -78.63803
+    },
+    {
+      "name": "Crawford and Son",
+      "kind": "dinner",
+      "cuisine": "Contemporary American",
+      "area": "Person Street",
+      "lat": 35.78872,
+      "lon": -78.63418
+    },
+    {
+      "name": "Jolie",
+      "kind": "dinner",
+      "cuisine": "French bistro",
+      "area": "Person Street",
+      "lat": 35.78881,
+      "lon": -78.6342
+    },
+    {
+      "name": "Stanbury",
+      "kind": "dinner",
+      "cuisine": "American",
+      "area": "Mordecai",
+      "lat": 35.79348,
+      "lon": -78.63553
+    },
+    {
+      "name": "Sam Jones BBQ",
+      "kind": "lunch",
+      "cuisine": "Barbecue",
+      "area": "Warehouse District",
+      "lat": 35.7734,
+      "lon": -78.64661
+    },
+    {
+      "name": "The Pit Authentic Barbecue",
+      "kind": "lunch",
+      "cuisine": "Barbecue",
+      "area": "Warehouse District",
+      "lat": 35.77593,
+      "lon": -78.64464
+    },
+    {
+      "name": "The Longleaf Lounge",
+      "kind": "drinks",
+      "cuisine": "Cocktails & local beer",
+      "area": "Capital District",
+      "lat": 35.78424,
+      "lon": -78.64278
+    },
+    {
+      "name": "Brewery Bhavana",
+      "kind": "drinks",
+      "cuisine": "Craft beer & dim sum",
+      "area": "Moore Square",
+      "lat": 35.77743,
+      "lon": -78.6368
+    },
     {
       "name": "North Carolina Museum of Art",
       "kind": "always",
@@ -13,6 +85,61 @@
       "price": "Free",
       "blurb": "Free collection galleries and outdoor Museum Park",
       "blurbEs": "Galerías gratuitas y el Museum Park al aire libre"
+    },
+    {
+      "name": "North Carolina Museum of Natural Sciences",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Downtown",
+      "lat": 35.78219,
+      "lon": -78.63942,
+      "price": "Free",
+      "blurb": "Dinosaurs, live animals and a multistory globe downtown",
+      "blurbEs": "Dinosaurios, animales vivos y un globo terráqueo de varios pisos en el centro"
+    },
+    {
+      "name": "Pullen Park",
+      "kind": "always",
+      "cuisine": "",
+      "area": "West Raleigh",
+      "lat": 35.78036,
+      "lon": -78.66383,
+      "price": "Free entry; rides extra",
+      "blurb": "Historic 1912 carousel, mini train and pedal boats",
+      "blurbEs": "Carrusel histórico de 1912, trencito y botes de pedales"
+    },
+    {
+      "name": "North Carolina State Capitol",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Downtown",
+      "lat": 35.78036,
+      "lon": -78.63911,
+      "price": "Free",
+      "blurb": "The 1840 Greek Revival capitol on Union Square",
+      "blurbEs": "El capitolio neoclásico de 1840 en Union Square"
+    },
+    {
+      "name": "Dix Park",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Southwest of downtown",
+      "lat": 35.77083,
+      "lon": -78.66028,
+      "price": "Free",
+      "blurb": "308 acres of lawns, skyline views and the Gipson Play Plaza",
+      "blurbEs": "121 hectáreas de praderas, vistas del centro y el parque infantil Gipson Play Plaza"
+    },
+    {
+      "name": "JC Raulston Arboretum",
+      "kind": "always",
+      "cuisine": "",
+      "area": "West Raleigh",
+      "lat": 35.7945,
+      "lon": -78.6991,
+      "price": "Free",
+      "blurb": "NC State's 10-acre garden, open daily year round",
+      "blurbEs": "El jardín de 4 hectáreas de NC State, abierto todos los días del año"
     }
   ]
 }

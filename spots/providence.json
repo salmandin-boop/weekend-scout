@@ -1,6 +1,145 @@
 {
   "city": "providence",
   "updated": "2026-11-24",
-  "source": "Picks to be added in a later update.",
-  "spots": []
+  "source": "Dinner, lunch and drinks picks from OpenTable's Rhode Island Diners' Choice list (updated Nov 5, 2026) and OpenTable Providence search/landmark pages; coordinates from each restaurant's OpenTable page. Sights from Wikipedia (Roger Williams Park, Roger Williams Park Zoo, RISD Museum, Providence Athenaeum, NRHP listings for the State House and the Arcade), with coordinates from those pages (Nov 2026).",
+  "spots": [
+    {
+      "name": "Pot au Feu Bistro",
+      "kind": "dinner",
+      "cuisine": "French bistro",
+      "area": "Downtown",
+      "lat": 41.82414,
+      "lon": -71.40932
+    },
+    {
+      "name": "Ten Prime Steak & Sushi",
+      "kind": "dinner",
+      "cuisine": "Steak & sushi",
+      "area": "Downtown",
+      "lat": 41.82309,
+      "lon": -71.40966
+    },
+    {
+      "name": "The Capital Grille",
+      "kind": "dinner",
+      "cuisine": "Steakhouse",
+      "area": "Downtown",
+      "lat": 41.82661,
+      "lon": -71.41496
+    },
+    {
+      "name": "Camille's",
+      "kind": "dinner",
+      "cuisine": "Italian",
+      "area": "Federal Hill",
+      "lat": 41.82282,
+      "lon": -71.42208
+    },
+    {
+      "name": "Anthony's Authentic Italian Cuisine",
+      "kind": "dinner",
+      "cuisine": "Italian",
+      "area": "Federal Hill",
+      "lat": 41.82412,
+      "lon": -71.43198
+    },
+    {
+      "name": "Providence Coal Fired Pizza",
+      "kind": "lunch",
+      "cuisine": "Pizza",
+      "area": "Downtown",
+      "lat": 41.82138,
+      "lon": -71.41514
+    },
+    {
+      "name": "Federal Hill Pizza",
+      "kind": "lunch",
+      "cuisine": "Pizza & Italian",
+      "area": "Chalkstone Ave",
+      "lat": 41.83256,
+      "lon": -71.4423
+    },
+    {
+      "name": "Clementine Cocktail Bar",
+      "kind": "drinks",
+      "cuisine": "Cocktails & small plates",
+      "area": "Downtown",
+      "lat": 41.82202,
+      "lon": -71.416
+    },
+    {
+      "name": "Marcelino's Boutique Bar",
+      "kind": "drinks",
+      "cuisine": "Cocktail bar",
+      "area": "Downtown",
+      "lat": 41.82513,
+      "lon": -71.41713
+    },
+    {
+      "name": "Roger Williams Park",
+      "kind": "always",
+      "cuisine": "",
+      "area": "South Providence",
+      "lat": 41.78399,
+      "lon": -71.41089,
+      "price": "Free",
+      "blurb": "Big Victorian park with gardens, a boathouse, walking paths and an accessible playground",
+      "blurbEs": "Gran parque victoriano con jardines, casa de botes, senderos y un parque infantil accesible"
+    },
+    {
+      "name": "Roger Williams Park Zoo",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Roger Williams Park",
+      "lat": 41.7899,
+      "lon": -71.4163,
+      "price": "Tickets",
+      "blurb": "One of the oldest zoos in the US, with 800+ animals from 100+ species",
+      "blurbEs": "Uno de los zoológicos más antiguos de EE. UU., con más de 800 animales de más de 100 especies"
+    },
+    {
+      "name": "RISD Museum",
+      "kind": "always",
+      "cuisine": "",
+      "area": "College Hill",
+      "lat": 41.82675,
+      "lon": -71.40855,
+      "price": "Tickets",
+      "blurb": "Art museum with about 100,000 works from around the world",
+      "blurbEs": "Museo de arte con unas 100,000 obras de todo el mundo"
+    },
+    {
+      "name": "Providence Athenaeum",
+      "kind": "always",
+      "cuisine": "",
+      "area": "College Hill",
+      "lat": 41.8257,
+      "lon": -71.4065,
+      "price": "Free",
+      "blurb": "Historic member library on Benefit Street that's open to the public",
+      "blurbEs": "Histórica biblioteca de socios en Benefit Street, abierta al público"
+    },
+    {
+      "name": "Rhode Island State House",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Downtown",
+      "lat": 41.83,
+      "lon": -71.41528,
+      "price": "Free",
+      "blurb": "Marble-domed capitol overlooking downtown",
+      "blurbEs": "Capitolio con cúpula de mármol que domina el centro"
+    },
+    {
+      "name": "The Arcade Providence",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Downtown",
+      "lat": 41.82361,
+      "lon": -71.41083,
+      "price": "Free",
+      "blurb": "1828 Greek Revival arcade, among the oldest indoor shopping centers in the US",
+      "blurbEs": "Galería comercial neogriega de 1828, de los centros comerciales cubiertos más antiguos de EE. UU."
+    }
+  ]
 }

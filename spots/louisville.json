@@ -1,8 +1,80 @@
 {
   "city": "louisville",
   "updated": "2026-11-24",
-  "source": "Sights: long-standing Louisville landmarks (Nov 2026). Dining and drinks picks and coordinates to be added in a later update.",
+  "source": "Dinner picks from OpenTable's Louisville date-night and 'restaurants near' lists (2026) plus hotel dining pages (Brown Hotel, Galt House); drinks from Go To Louisville and Wikipedia (Galt House); lunch from the Brown Hotel dining page and osf.com. Coordinates from OpenTable page metadata (Lobby Bar & Grill, La Bodeguita de Mima, Volare), Wikipedia (Galt House, Seelbach, Brown Hotel, sights) and the Wikipedia NRHP list for Downtown Louisville by street address (Vincenzo's 150 S 5th St, Old Spaghetti Factory 235 W Market St); Derby Museum uses Churchill Downs' coordinates (Nov 2026).",
   "spots": [
+    {
+      "name": "Swizzle Dinner & Drinks",
+      "kind": "dinner",
+      "cuisine": "Contemporary American",
+      "area": "Downtown (Galt House, 25th floor)",
+      "lat": 38.25797,
+      "lon": -85.7569
+    },
+    {
+      "name": "Lobby Bar & Grill at the Brown Hotel",
+      "kind": "dinner",
+      "cuisine": "Contemporary American",
+      "area": "Downtown (Broadway)",
+      "lat": 38.24651,
+      "lon": -85.75784
+    },
+    {
+      "name": "Vincenzo's Italian Restaurant",
+      "kind": "dinner",
+      "cuisine": "Italian",
+      "area": "Downtown",
+      "lat": 38.25556,
+      "lon": -85.75861
+    },
+    {
+      "name": "La Bodeguita de Mima",
+      "kind": "dinner",
+      "cuisine": "Cuban",
+      "area": "NuLu",
+      "lat": 38.25354,
+      "lon": -85.73898
+    },
+    {
+      "name": "Volare Italian Restaurant",
+      "kind": "dinner",
+      "cuisine": "Italian",
+      "area": "Frankfort Ave / Clifton",
+      "lat": 38.25316,
+      "lon": -85.70299
+    },
+    {
+      "name": "J. Graham's Café",
+      "kind": "lunch",
+      "cuisine": "American café (Hot Brown)",
+      "area": "Downtown (Brown Hotel)",
+      "lat": 38.2466,
+      "lon": -85.7578
+    },
+    {
+      "name": "The Old Spaghetti Factory",
+      "kind": "lunch",
+      "cuisine": "Italian-American",
+      "area": "Downtown",
+      "lat": 38.25528,
+      "lon": -85.755
+    },
+    {
+      "name": "Old Seelbach Bar",
+      "kind": "drinks",
+      "cuisine": "Bourbon & cocktail bar",
+      "area": "Downtown (Seelbach Hotel)",
+      "lat": 38.25083,
+      "lon": -85.75806
+    },
+    {
+      "name": "Jockey Silks Bourbon Bar",
+      "kind": "drinks",
+      "cuisine": "Bourbon bar",
+      "area": "Downtown (Galt House)",
+      "lat": 38.25797,
+      "lon": -85.7569
+    },
     {
       "name": "Louisville Slugger Museum & Factory",
       "kind": "always",
@@ -19,7 +91,9 @@
       "area": "Downtown",
       "price": "Tickets",
       "blurb": "Museum on Ali's life and values",
-      "blurbEs": "Museo sobre la vida y los valores de Ali"
+      "blurbEs": "Museo sobre la vida y los valores de Ali",
+      "lat": 38.25817,
+      "lon": -85.76006
     },
     {
       "name": "Big Four Bridge",
@@ -28,7 +102,9 @@
       "area": "Waterfront Park",
       "price": "Free",
       "blurb": "Pedestrian bridge over the Ohio River",
-      "blurbEs": "Puente peatonal sobre el río Ohio"
+      "blurbEs": "Puente peatonal sobre el río Ohio",
+      "lat": 38.26556,
+      "lon": -85.73889
     },
     {
       "name": "Kentucky Derby Museum",
@@ -37,7 +113,9 @@
       "area": "Churchill Downs",
       "price": "Tickets",
       "blurb": "Derby history museum at Churchill Downs",
-      "blurbEs": "Museo de la historia del Derby en Churchill Downs"
+      "blurbEs": "Museo de la historia del Derby en Churchill Downs",
+      "lat": 38.20306,
+      "lon": -85.77
     },
     {
       "name": "Speed Art Museum",
@@ -46,7 +124,9 @@
       "area": "Old Louisville / UofL",
       "price": "Tickets",
       "blurb": "Kentucky's largest art museum",
-      "blurbEs": "El museo de arte más grande de Kentucky"
+      "blurbEs": "El museo de arte más grande de Kentucky",
+      "lat": 38.21786,
+      "lon": -85.76092
     },
     {
       "name": "Louisville Zoo",
@@ -55,7 +135,9 @@
       "area": "Poplar Level",
       "price": "Tickets",
       "blurb": "City zoo with Glacier Run polar bears",
-      "blurbEs": "Zoológico de la ciudad con osos polares en Glacier Run"
+      "blurbEs": "Zoológico de la ciudad con osos polares en Glacier Run",
+      "lat": 38.20528,
+      "lon": -85.70528
     }
   ]
 }

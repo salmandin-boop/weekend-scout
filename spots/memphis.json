@@ -1,7 +1,7 @@
 {
   "city": "memphis",
   "updated": "2026-11-24",
-  "source": "Sights: long-standing Memphis landmarks (Nov 2026). Dining and drinks picks and coordinates to be added in a later update.",
+  "source": "Dinner picks from the 2026 MICHELIN Guide American South (Memphis Bib Gourmand and Recommended list via Memphis Travel and tn.gov, Oct–Nov 2026), coordinates from their MICHELIN Guide pages; lunch and drinks picks from Memphis Travel listings and its cocktail guide plus I Love Memphis (Oct 2025), with coordinates from Memphis Travel map links or MICHELIN pages; sights' coordinates from Wikipedia (Peabody from Memphis Travel). Nov 2026.",
   "spots": [
     {
       "name": "National Civil Rights Museum",
@@ -10,7 +10,9 @@
       "area": "Downtown (South Main)",
       "price": "Tickets",
       "blurb": "Museum at the Lorraine Motel",
-      "blurbEs": "Museo en el Lorraine Motel"
+      "blurbEs": "Museo en el Lorraine Motel",
+      "lat": 35.1345,
+      "lon": -90.0576
     },
     {
       "name": "The Peabody Duck March",
@@ -19,7 +21,9 @@
       "area": "Downtown",
       "price": "Free",
       "blurb": "Daily duck march in the Peabody lobby",
-      "blurbEs": "Desfile diario de patos en el vestíbulo del Peabody"
+      "blurbEs": "Desfile diario de patos en el vestíbulo del Peabody",
+      "lat": 35.14264,
+      "lon": -90.05198
     },
     {
       "name": "Beale Street",
@@ -28,7 +32,9 @@
       "area": "Downtown",
       "price": "Free",
       "blurb": "Historic blues and nightlife street",
-      "blurbEs": "Calle histórica del blues y la vida nocturna"
+      "blurbEs": "Calle histórica del blues y la vida nocturna",
+      "lat": 35.13944,
+      "lon": -90.05194
     },
     {
       "name": "Stax Museum of American Soul Music",
@@ -37,7 +43,9 @@
       "area": "Soulsville",
       "price": "Tickets",
       "blurb": "Soul music museum on the Stax site",
-      "blurbEs": "Museo de la música soul en el sitio de Stax"
+      "blurbEs": "Museo de la música soul en el sitio de Stax",
+      "lat": 35.11598,
+      "lon": -90.03146
     },
     {
       "name": "Graceland",
@@ -46,7 +54,9 @@
       "area": "Whitehaven",
       "price": "Tickets",
       "blurb": "Elvis Presley's home and museum complex",
-      "blurbEs": "Casa y complejo de museos de Elvis Presley"
+      "blurbEs": "Casa y complejo de museos de Elvis Presley",
+      "lat": 35.04594,
+      "lon": -90.02294
     },
     {
       "name": "Memphis Zoo",
@@ -55,7 +65,81 @@
       "area": "Overton Park",
       "price": "Tickets",
       "blurb": "Zoo in Overton Park",
-      "blurbEs": "Zoológico en Overton Park"
+      "blurbEs": "Zoológico en Overton Park",
+      "lat": 35.15,
+      "lon": -89.9943
+    },
+    {
+      "name": "Felicia Suzanne's",
+      "kind": "dinner",
+      "cuisine": "Inventive Southern",
+      "area": "South Main",
+      "lat": 35.13608,
+      "lon": -90.05797
+    },
+    {
+      "name": "The Lobbyist",
+      "kind": "dinner",
+      "cuisine": "Seasonal fine dining",
+      "area": "South Main (Hotel Chisca)",
+      "lat": 35.13869,
+      "lon": -90.05578
+    },
+    {
+      "name": "Bao Toan Kitchen & Bar",
+      "kind": "dinner",
+      "cuisine": "Modern Vietnamese",
+      "area": "Crosstown Concourse",
+      "lat": 35.15185,
+      "lon": -90.01333
+    },
+    {
+      "name": "Fawn",
+      "kind": "dinner",
+      "cuisine": "Contemporary small plates",
+      "area": "Cooper-Young",
+      "lat": 35.11998,
+      "lon": -89.99119
+    },
+    {
+      "name": "Andrew Michael Italian Kitchen",
+      "kind": "dinner",
+      "cuisine": "Italian",
+      "area": "East Memphis",
+      "lat": 35.11322,
+      "lon": -89.89029
+    },
+    {
+      "name": "Central BBQ Downtown",
+      "kind": "lunch",
+      "cuisine": "Barbecue",
+      "area": "Downtown (South Main)",
+      "lat": 35.13387,
+      "lon": -90.0572
+    },
+    {
+      "name": "Hog & Hominy",
+      "kind": "lunch",
+      "cuisine": "Pizza & Southern-Italian",
+      "area": "East Memphis",
+      "lat": 35.11293,
+      "lon": -89.89089
+    },
+    {
+      "name": "Peabody Lobby Bar",
+      "kind": "drinks",
+      "cuisine": "Classic hotel lobby bar",
+      "area": "Downtown",
+      "lat": 35.14264,
+      "lon": -90.05198
+    },
+    {
+      "name": "Eight & Sand",
+      "kind": "drinks",
+      "cuisine": "Cocktail lounge (Central Station Hotel)",
+      "area": "South Main",
+      "lat": 35.13215,
+      "lon": -90.05944
     }
   ]
 }

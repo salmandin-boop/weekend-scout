@@ -1,8 +1,118 @@
 {
   "city": "jacksonville",
   "updated": "2026-11-24",
-  "source": "Sights from Visit Jacksonville, the City of Jacksonville and venue pages (Nov 2026); coordinates from Visit Jacksonville map markers. Dining and drinks picks to be added in a later update.",
+  "source": "Dinner, lunch and drinks picks from Visit Jacksonville's 'Best Bites by Neighborhood' (updated Aug 2026), its craft cocktail bar guide and Jacksonville Beach page, plus the Cummer Museum and Jacksonville Zoo listings (Nov 2026); coordinates from Visit Jacksonville directory map markers (Cowford Chophouse also matches its OpenTable page).",
   "spots": [
+    {
+      "name": "Cowford Chophouse",
+      "kind": "dinner",
+      "cuisine": "Steakhouse",
+      "area": "Downtown",
+      "lat": 30.32613,
+      "lon": -81.65646
+    },
+    {
+      "name": "Indochine",
+      "kind": "dinner",
+      "cuisine": "Thai",
+      "area": "Downtown",
+      "lat": 30.32778,
+      "lon": -81.65674
+    },
+    {
+      "name": "Gemma",
+      "kind": "dinner",
+      "cuisine": "Seafood",
+      "area": "San Marco",
+      "lat": 30.30494,
+      "lon": -81.65291
+    },
+    {
+      "name": "Taverna Oceana",
+      "kind": "dinner",
+      "cuisine": "Raw bar and seafood",
+      "area": "San Marco",
+      "lat": 30.30382,
+      "lon": -81.65461
+    },
+    {
+      "name": "Abstrakt Filipino Essence",
+      "kind": "dinner",
+      "cuisine": "Contemporary Filipino",
+      "area": "Jacksonville Beach",
+      "lat": 30.28749,
+      "lon": -81.40843
+    },
+    {
+      "name": "TacoLu",
+      "kind": "dinner",
+      "cuisine": "Tacos and tequila",
+      "area": "Jacksonville Beach",
+      "lat": 30.28753,
+      "lon": -81.41017
+    },
+    {
+      "name": "Pizza Dynamo",
+      "kind": "lunch",
+      "cuisine": "Pizza",
+      "area": "Downtown",
+      "lat": 30.3267,
+      "lon": -81.65926
+    },
+    {
+      "name": "Angie's Subs",
+      "kind": "lunch",
+      "cuisine": "Subs",
+      "area": "Jacksonville Beach",
+      "lat": 30.2877,
+      "lon": -81.4068
+    },
+    {
+      "name": "Dos Gatos",
+      "kind": "drinks",
+      "cuisine": "Cocktail bar",
+      "area": "Downtown",
+      "lat": 30.32669,
+      "lon": -81.65579
+    },
+    {
+      "name": "The Volstead",
+      "kind": "drinks",
+      "cuisine": "Cocktail bar",
+      "area": "Downtown",
+      "lat": 30.32825,
+      "lon": -81.65941
+    },
+    {
+      "name": "Flask & Cannon",
+      "kind": "drinks",
+      "cuisine": "Cocktail bar",
+      "area": "Jacksonville Beach",
+      "lat": 30.28936,
+      "lon": -81.39455
+    },
+    {
+      "name": "Cummer Museum of Art & Gardens",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Riverside",
+      "lat": 30.3152,
+      "lon": -81.67678,
+      "price": "Check details",
+      "blurb": "Art museum with historic riverfront gardens",
+      "blurbEs": "Museo de arte con jardines históricos junto al río"
+    },
+    {
+      "name": "Jacksonville Zoo and Botanical Gardens",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Northside",
+      "lat": 30.40149,
+      "lon": -81.64497,
+      "price": "Tickets",
+      "blurb": "Zoo and gardens on the Trout River; ZOOLights runs on select nights through Jan 3",
+      "blurbEs": "Zoológico y jardines junto al río Trout; ZOOLights abre en noches selectas hasta el 3 de enero"
+    },
     {
       "name": "Riverside Arts Market",
       "kind": "always",

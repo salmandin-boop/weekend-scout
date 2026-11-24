@@ -1,6 +1,131 @@
 {
   "city": "milwaukee",
   "updated": "2026-11-24",
-  "source": "Picks to be added in a later update.",
-  "spots": []
+  "source": "Dinner, lunch and drinks picks from The Infatuation's 'Best Restaurants in Milwaukee' guide (updated Sep 2026); coordinates (Nov 2026) from latlong.net (Lupi & Iris, Milwaukee Public Market, Milwaukee Art Museum), Wikipedia (Milwaukee County Zoo; Discovery World, Harley-Davidson Museum and Lake Park via artwork coordinates in Wikipedia's List of public art in Milwaukee). Restaurants without lat/lon could not be geolocated from a source this pass.",
+  "spots": [
+    {
+      "name": "Lupi & Iris",
+      "kind": "dinner",
+      "cuisine": "Mediterranean",
+      "area": "Downtown",
+      "lat": 43.04035,
+      "lon": -87.90335
+    },
+    {
+      "name": "Amilinda",
+      "kind": "dinner",
+      "cuisine": "Spanish",
+      "area": "Downtown"
+    },
+    {
+      "name": "Mader's Restaurant",
+      "kind": "dinner",
+      "cuisine": "German",
+      "area": "Downtown"
+    },
+    {
+      "name": "Dan Dan",
+      "kind": "dinner",
+      "cuisine": "Chinese",
+      "area": "Third Ward"
+    },
+    {
+      "name": "Sanford Restaurant",
+      "kind": "dinner",
+      "cuisine": "American",
+      "area": "East Side"
+    },
+    {
+      "name": "St. Paul Fish Company (Milwaukee Public Market)",
+      "kind": "lunch",
+      "cuisine": "Seafood",
+      "area": "Third Ward",
+      "lat": 43.03525,
+      "lon": -87.90809
+    },
+    {
+      "name": "Zaffiro's Pizza & Bar",
+      "kind": "lunch",
+      "cuisine": "Pizza",
+      "area": "East Side"
+    },
+    {
+      "name": "Momo Mee",
+      "kind": "drinks",
+      "cuisine": "Cocktails",
+      "area": "Walker's Point"
+    },
+    {
+      "name": "Goodkind",
+      "kind": "drinks",
+      "cuisine": "Cocktails",
+      "area": "Bay View"
+    },
+    {
+      "name": "Milwaukee Art Museum",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Lakefront",
+      "lat": 43.04011,
+      "lon": -87.89744,
+      "price": "Tickets",
+      "blurb": "Lakefront art museum known for its winged Calatrava pavilion",
+      "blurbEs": "Museo de arte junto al lago, famoso por su pabellón con alas de Calatrava"
+    },
+    {
+      "name": "Discovery World",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Lakefront",
+      "lat": 43.03714,
+      "lon": -87.89763,
+      "price": "Tickets",
+      "blurb": "Hands-on science and technology museum on the Lake Michigan shore",
+      "blurbEs": "Museo interactivo de ciencia y tecnología a orillas del lago Michigan"
+    },
+    {
+      "name": "Harley-Davidson Museum",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Menomonee Valley",
+      "lat": 43.03129,
+      "lon": -87.91571,
+      "price": "Tickets",
+      "blurb": "The motorcycle maker's history, with hundreds of bikes on display",
+      "blurbEs": "La historia del fabricante de motos, con cientos de motocicletas en exhibición"
+    },
+    {
+      "name": "Milwaukee Public Market",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Third Ward",
+      "lat": 43.03525,
+      "lon": -87.90809,
+      "price": "Free",
+      "blurb": "Indoor food hall with local vendors, seafood, sweets and spices",
+      "blurbEs": "Mercado techado con vendedores locales, mariscos, dulces y especias"
+    },
+    {
+      "name": "Milwaukee County Zoo",
+      "kind": "always",
+      "cuisine": "",
+      "area": "West Side",
+      "lat": 43.03266,
+      "lon": -88.0374,
+      "price": "Tickets",
+      "blurb": "Large zoo with animals from around the world",
+      "blurbEs": "Un gran zoológico con animales de todo el mundo"
+    },
+    {
+      "name": "Lake Park",
+      "kind": "always",
+      "cuisine": "",
+      "area": "East Side",
+      "lat": 43.06571,
+      "lon": -87.87121,
+      "price": "Free",
+      "blurb": "Olmsted-designed park on the bluffs above Lake Michigan",
+      "blurbEs": "Parque diseñado por Olmsted sobre los acantilados del lago Michigan"
+    }
+  ]
 }
