@@ -9,6 +9,7 @@ Outputs:
   <city>/index.html          a Google-friendly page per city ("Things to do in Austin this weekend")
   <city>/free/, /date-night/, /with-kids/   the same page filtered (built when 3+ events match)
   <city>/<guide>/            seasonal guides from guides/<city>.json (Christmas lights, holiday markets, New Year's Eve)
+  <city>/visiting/           "Visiting <city> this weekend?" one-day plan for out-of-towners
   <city>/weekend.ics         calendar feed of this weekend's picks (subscribe once, refreshes weekly)
   e/<city>/<event>/index.html  a share page per event, so shared links preview with the event's name and day
   sitemap.xml
@@ -178,6 +179,82 @@ def build_guides(c, guides, all_guides, img):
         if not any(x['slug'] == slug for x in guides): shutil.rmtree(os.path.join(ROOT, c['id'], slug), ignore_errors=True)
     return urls
 
+from math import radians, sin, cos, asin, sqrt
+def miles(a, b):
+    if a.get('lat') is None or b.get('lat') is None: return 99
+    la1, lo1, la2, lo2 = map(radians, [a['lat'], a['lon'], b['lat'], b['lon']])
+    h = sin((la2 - la1) / 2) ** 2 + cos(la1) * cos(la2) * sin((lo2 - lo1) / 2) ** 2
+    return 3958.8 * 2 * asin(sqrt(h))
+
+def mins(t): h, m = map(int, t.split(':')); return h * 60 + m
+def hhmm(m): m = max(0, min(m, 23 * 60 + 59)); return f'{m // 60:02d}:{m % 60:02d}'
+
+def visit_plan(d, spots):
+    """A simple one-day plan: morning always-good pick, lunch, a daytime event, dinner, an evening event, a nightcap."""
+    evs = [e for e in d['events'] if not e.get('featured')]
+    def timed(day): return [(e, s) for e in evs for s in (e['times'].get(day) or []) if s.get('s')]
+    day = max(['sat', 'sun'], key=lambda k: (len(timed(k)), k == 'sat'))
+    T = timed(day)
+    pick = lambda pool, key: sorted(pool, key=key)[0] if pool else None
+    good = lambda e, g: g in (e.get('good') or [])
+    eve = pick([x for x in T if mins(x[1]['s']) >= 16 * 60 + 30 and mins(x[1]['s']) <= 22 * 60], lambda x: (not (good(x[0], 'date') or good(x[0], 'friends')), x[0]['price'] == 'free', mins(x[1]['s'])))
+    aft = pick([x for x in T if 10 * 60 <= mins(x[1]['s']) < 16 * 60 + 30 and (not eve or x[0]['id'] != eve[0]['id'])], lambda x: (x[0]['price'] != 'free', abs(mins(x[1]['s']) - 14 * 60)))
+    sp = lambda kind: [x for x in spots if x.get('kind') == kind]
+    steps = []
+    alw = sp('always')
+    if alw:
+        ref = aft[0] if aft else (eve[0] if eve else None)
+        near = [x for x in alw if not ref or miles(x, ref) <= 3]
+        m = (near or alw)[0]  # spots are listed best-first, so take the top pick close to the day's events
+        steps.append(('10:00', 'Morning', m['name'], m.get('blurb') or m.get('area', ''), m.get('price', ''), None, m))
+    if aft:
+        lunch = pick([x for x in sp('lunch') if miles(x, aft[0]) <= 3], lambda x: miles(x, aft[0]))
+        if lunch: steps.append((hhmm(min(mins(aft[1]['s']) - 75, 12 * 60 + 30)), 'Lunch', lunch['name'], f"{lunch.get('cuisine', '')} · {miles(lunch, aft[0]):.1f} mi from the next stop".strip(' ·'), '', None, lunch))
+        e, s = aft; steps.append((s['s'], 'Afternoon', e['title'], e['venue'], e.get('priceLabel', ''), e, None))
+    if eve:
+        e, s = eve
+        din = pick([x for x in sp('dinner') if miles(x, e) <= 3], lambda x: miles(x, e))
+        if din: steps.append((hhmm(mins(s['s']) - 105), 'Dinner', din['name'], f"{din.get('cuisine', '')} · {miles(din, e):.1f} mi from the show".strip(' ·'), '', None, din))
+        steps.append((s['s'], 'Evening', e['title'], e['venue'], e.get('priceLabel', ''), e, None))
+        bar = pick([x for x in sp('drinks') if miles(x, e) <= 2], lambda x: miles(x, e))
+        if bar: steps.append(('', 'Nightcap', bar['name'], f"{bar.get('cuisine', '')} · {miles(bar, e):.1f} mi away".strip(' ·'), '', None, bar))
+    return day, (steps if len(steps) >= 2 else [])
+
+def build_visit(c, d, spots, guides, img):
+    url = f"{SITE}/{c['id']}/visiting/"; w = d['weekend']
+    day, steps = visit_plan(d, spots)
+    evs = [e for e in d['events'] if not e.get('featured')]
+    top = sorted(evs, key=lambda e: (e['price'] != 'free' and not (set(e.get('good') or []) & {'date', 'friends'}), e['cat']))[:6]
+    alw = [x for x in spots if x.get('kind') == 'always'][:8]
+    if not steps and not top: return []
+    h1 = f"Visiting {c['name']} this weekend?"
+    title = f"Visiting {c['name']} this weekend ({w['label']}): a one-day plan · Weekend Scout"
+    desc = f"Out-of-towner's guide to {c['name']}, {c['state']} for {w['label']}: a ready-made {DAYNAME[day]} plan, the best events this weekend and places worth seeing any time."
+    maps = lambda x: 'https://www.google.com/maps/search/?api=1&query=' + html.escape(re.sub(r'\s+', '+', f"{x['name']} {c['name']} {c['state']}"), quote=True)
+    rows = []
+    for t, label, name, sub, price, e, spot in steps:
+        href = f"/e/{c['id']}/{e['id']}/" if e else maps(spot)
+        rows.append(f'<a class="ev" href="{href}"><span class="t">{esc(fmt(t) if t else "After")}<br><span style="color:var(--muted);font-weight:600">{esc(label)}</span></span><span><h3>{esc(name)}</h3><p>{esc(sub)}</p>{f"<span class=\"pill\">{esc(price)}</span>" if price else ""}</span></a>')
+    tops = ''.join(f'<a class="ev" href="/e/{c["id"]}/{e["id"]}/"><span class="t">{esc(next((DAYNAME[k][:3] for k in DAYS if e["times"].get(k)), ""))} · {esc(when(e, next((k for k in DAYS if e["times"].get(k)), "sat")))}</span><span><h3>{esc(e["title"])}</h3><p>{esc(e["venue"])}</p>{"<span class=\"pill free\">" + esc(e["priceLabel"]) + "</span>" if e["price"] == "free" else "<span class=\"pill\">" + esc(e["priceLabel"]) + "</span>"}</span></a>' for e in top)
+    alws = ''.join(f'<a class="ev" href="{maps(x)}" style="grid-template-columns:1fr"><span><h3>{esc(x["name"])}</h3><p>{esc(x.get("blurb", ""))}{" · " + esc(x["area"]) if x.get("area") else ""}</p>{"<span class=\"pill\">" + esc(x["price"]) + "</span>" if x.get("price") else ""}</span></a>' for x in alw)
+    gl = ''.join(f'<a href="/{c["id"]}/{x["slug"]}/">{esc(x.get("icon", ""))} {esc(x["title"])}</a>' for x in guides)
+    page = head(title, desc, url, img) + f"""
+<body><div class="wrap">
+<a class="k" href="/{c['id']}/">Weekend Scout · {esc(c['name'])}</a>
+<h1 style="margin-top:6px">{esc(h1)}</h1>
+<p class="sub">{esc(w['label'])} · A ready-made plan for out-of-towners, built from this weekend's hand-checked picks · Updated {pretty(d['updated'])}</p>
+<a class="cta" href="/?city={c['id']}">Open {esc(c['name'])} in the app</a>
+{f'<h2>A {DAYNAME[day]} in {esc(c["name"])}, {pretty(w["days"][day], True)}</h2>' + ''.join(rows) + '<p class="sub">Times for meals are suggestions; book dinner ahead on weekends. Event times are the venue\'s.</p>' if steps else ''}
+{f'<h2>Best of this weekend</h2>{tops}' if tops else ''}
+{f'<h2>Worth seeing any time</h2>{alws}' if alws else ''}
+{f'<h2>Holiday guides</h2><div class="cities">{gl}</div>' if gl else ''}
+<footer>Times and prices can change, so check with the venue before you go. · <a href="/privacy.html">Privacy</a> · <a href="/terms.html">Terms</a> · © ENDins LLC</footer>
+</div></body></html>
+"""
+    dirp = os.path.join(ROOT, c['id'], 'visiting'); os.makedirs(dirp, exist_ok=True)
+    open(os.path.join(dirp, 'index.html'), 'w').write(page)
+    return [url]
+
 def main():
     cities = json.load(open(os.path.join(ROOT, 'cities.json')))['cities']
     datas = {c['id']: json.load(open(os.path.join(ROOT, c['file']))) for c in cities}
@@ -232,6 +309,7 @@ def main():
 <a class="cta" href="{app}">Open in the Weekend Scout app</a>
 {''.join(body_days)}
 {('<h2>Holiday guides</h2><div class="cities">' + ''.join(f'<a href="/{c["id"]}/{x["slug"]}/">{esc(x.get("icon", ""))} {esc(x["title"])}</a>' for x in guides[c['id']]) + '</div>') if guides[c['id']] else ''}
+<p class="sub" style="margin-top:20px">Visiting from out of town? <a href="/{c['id']}/visiting/">See a one-day plan for {esc(c['name'])}</a></p>
 <h2>Get these in your calendar</h2><p class="sub">Subscribe once and every weekend's picks for {esc(c['name'])} show up automatically: <a href="webcal://weekendscout.app/{c['id']}/weekend.ics">Apple / Outlook</a> · <a href="https://calendar.google.com/calendar/r?cid={esc('webcal://weekendscout.app/' + c['id'] + '/weekend.ics')}">Google Calendar</a></p>
 <h2>Other cities</h2><div class="cities">{others}</div>
 <footer>Times and prices can change, so check with the venue before you go. Some ticket links may earn us a small commission. · <a href="/privacy.html">Privacy</a> · <a href="/terms.html">Terms</a> · © ENDins LLC</footer>
@@ -246,6 +324,9 @@ def main():
             if v[0] and v not in made: shutil.rmtree(os.path.join(ROOT, c['id'], v[0]), ignore_errors=True)
         open(os.path.join(ROOT, c['id'], 'weekend.ics'), 'w', newline='').write(build_ics(c, d))
         urls += build_guides(c, guides[c['id']], all_guides, img)
+        sp_path = os.path.join(ROOT, 'spots', c['id'] + '.json')
+        spots = json.load(open(sp_path)).get('spots', []) if os.path.exists(sp_path) else []
+        urls += build_visit(c, d, spots, guides[c['id']], img)
         # one share page per event
         for e in d['events']:
             day = next((k for k in DAYS if e['times'].get(k)), None)
