@@ -1,0 +1,143 @@
+{
+ "city": "san-diego",
+ "updated": "2026-11-24",
+ "source": "Visit San Diego (Oct 22, 2026)",
+ "guides": [
+  {
+   "slug": "christmas-lights",
+   "title": "Christmas lights",
+   "icon": "🎄",
+   "until": "2027-01-03",
+   "updated": "2026-11-24",
+   "intro": "The best holiday light displays in and around San Diego this season, with 2026 dates checked against the organizers and local guides.",
+   "items": [
+    {
+     "name": "Lightscape",
+     "dates": "Nov 20 – Jan 3",
+     "venue": "San Diego Botanic Garden",
+     "area": "Encinitas (30 min)",
+     "addr": "300 Quail Gardens Dr, Encinitas, CA 92024",
+     "price": "paid",
+     "priceLabel": "Tickets",
+     "start": "2026-11-20",
+     "end": "2027-01-03",
+     "url": "https://www.sandiego.org/events-festivals/san-diego-botanic-lightscape/89bc9e06ae0611f1a7f2",
+     "blurb": "A one-mile night loop of light art through the gardens, with new installations this year.",
+     "blurbEs": "Un recorrido nocturno de una milla con arte de luz entre los jardines.",
+     "kids": true
+    },
+    {
+     "name": "Holiday Wonderland at Petco Park",
+     "dates": "Dec 4–23",
+     "venue": "Petco Park",
+     "area": "East Village",
+     "addr": "100 Park Blvd, San Diego, CA 92101",
+     "price": "paid",
+     "priceLabel": "Admission (activities included)",
+     "start": "2026-12-04",
+     "end": "2026-12-23",
+     "url": "https://www.sandiego.org/events-festivals/holiday-wonderland-at-petco-park/84cad793bdef11f1a7f2",
+     "blurb": "Lights, nightly snowfall, a 40-foot tree, a carousel, a train and a snow sledding hill.",
+     "blurbEs": "Luces, nieve cada noche, un árbol de 40 pies, carrusel, tren y una colina de nieve.",
+     "kids": true
+    },
+    {
+     "name": "Coastal Christmas Holiday Lights Spectacular",
+     "dates": "Dec 11–26",
+     "venue": "Del Mar Fairgrounds",
+     "area": "Del Mar (25 min)",
+     "addr": "2260 Jimmy Durante Blvd, Del Mar, CA 92014",
+     "price": "paid",
+     "priceLabel": "Tickets",
+     "start": "2026-12-11",
+     "end": "2026-12-26",
+     "url": "https://www.sandiego.org/events-festivals/coastal-christmas-holiday-lights-spectacular-del-mar/a24c5f45c0fb11f1a7f2",
+     "blurb": "A winter-themed light display by the coast with food and drinks.",
+     "blurbEs": "Un espectáculo de luces invernal junto a la costa, con comida y bebidas.",
+     "kids": true
+    },
+    {
+     "name": "Little Italy Tree Lighting & Christmas Village",
+     "dates": "Sat Dec 5",
+     "venue": "Little Italy",
+     "area": "Little Italy",
+     "addr": "Piazza della Famiglia, India St & W Date St, San Diego, CA 92101",
+     "price": "free",
+     "priceLabel": "Free",
+     "start": "2026-12-05",
+     "url": "https://www.sandiego.org/events-festivals/little-italy-tree-lighting-and-christmas-village/59de7b66c10411f1a7f2",
+     "blurb": "Street-wide twinkle lights, giant nutcrackers and a tree lighting in the piazza.",
+     "blurbEs": "Luces en toda la calle, cascanueces gigantes y el encendido del árbol en la plaza.",
+     "kids": true
+    }
+   ]
+  },
+  {
+   "slug": "holiday-markets",
+   "title": "Holiday markets",
+   "icon": "🛍️",
+   "until": "2026-12-12",
+   "updated": "2026-11-24",
+   "intro": "Where to shop local for the holidays in San Diego: Christmas markets, makers fairs and holiday villages running this season.",
+   "items": [
+    {
+     "name": "Little Italy Christmas Village",
+     "dates": "Sat Dec 5",
+     "venue": "Little Italy",
+     "area": "Little Italy",
+     "addr": "India St & W Date St, San Diego, CA 92101",
+     "price": "free",
+     "priceLabel": "Free",
+     "start": "2026-12-05",
+     "url": "https://www.sandiego.org/events-festivals/little-italy-tree-lighting-and-christmas-village/59de7b66c10411f1a7f2",
+     "blurb": "A one-day Christmas village along the neighborhood's main street.",
+     "blurbEs": "Un pueblo navideño de un día en la calle principal del barrio.",
+     "kids": true
+    },
+    {
+     "name": "SoNo Fest & Chili Cook-Off",
+     "dates": "Sun Dec 6",
+     "venue": "South Park",
+     "area": "South Park",
+     "addr": "30th St & Juniper St, San Diego, CA 92104",
+     "price": "free",
+     "priceLabel": "Free to browse",
+     "start": "2026-12-06",
+     "url": "https://www.sandiego.org/events-festivals/sono-fest-and-chili-cook-off/bcce8b58cb4b11f1a7f2",
+     "blurb": "Holiday shopping on the neighborhood's streets, with craft beer, wine, music and chili.",
+     "blurbEs": "Compras navideñas en las calles del barrio, con cerveza artesanal, vino, música y chili.",
+     "kids": true
+    },
+    {
+     "name": "Holiday in the Village",
+     "dates": "Sat Dec 12",
+     "venue": "La Mesa Village",
+     "area": "La Mesa (20 min)",
+     "addr": "La Mesa Blvd, La Mesa, CA 91942",
+     "price": "free",
+     "priceLabel": "Free",
+     "start": "2026-12-12",
+     "url": "https://www.sandiego.org/events-festivals/holiday-in-the-village/a272ff2ac0fb11f1a7f2",
+     "blurb": "Dozens of local craft stands, artisan food, fire pits and caroling.",
+     "blurbEs": "Decenas de puestos de artesanías, comida artesanal, fogatas y villancicos.",
+     "kids": true
+    },
+    {
+     "name": "Christmas in the Park",
+     "dates": "Dec 11–12",
+     "venue": "Old Poway Park",
+     "area": "Poway (30 min)",
+     "addr": "14134 Midland Rd, Poway, CA 92064",
+     "price": "free",
+     "priceLabel": "Free",
+     "start": "2026-12-11",
+     "end": "2026-12-12",
+     "url": "https://www.sandiego.org/events-festivals/christmas-in-the-park/cc1d341bce4711f1a7f2",
+     "blurb": "A tree lighting, Santa, train rides, live music and crafts.",
+     "blurbEs": "Encendido del árbol, Santa, paseos en tren, música en vivo y artesanías.",
+     "kids": true
+    }
+   ]
+  }
+ ]
+}

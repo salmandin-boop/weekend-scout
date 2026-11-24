@@ -1,0 +1,105 @@
+{
+ "city": "san-antonio",
+ "updated": "2026-11-24",
+ "source": "Visit San Antonio 2026–27 holiday lights guide",
+ "guides": [
+  {
+   "slug": "christmas-lights",
+   "title": "Christmas lights",
+   "icon": "🎄",
+   "until": "2027-01-10",
+   "updated": "2026-11-24",
+   "intro": "The best holiday light displays in and around San Antonio this season, with 2026 dates checked against the organizers and local guides.",
+   "items": [
+    {
+     "name": "River Walk Holiday Lights",
+     "dates": "Nov 27 – Jan 11",
+     "venue": "San Antonio River Walk",
+     "area": "Downtown",
+     "addr": "River Walk, San Antonio, TX 78205",
+     "price": "free",
+     "priceLabel": "Free to walk",
+     "start": "2026-11-27",
+     "end": "2027-01-11",
+     "url": "https://www.thesanantonioriverwalk.com/events/holiday-lights-on-the-river-walk-free/",
+     "blurb": "More than 200,000 lights in the cypress trees over the river. Free to stroll; river cruises cost extra.",
+     "blurbEs": "Más de 200,000 luces en los cipreses sobre el río. Pasear es gratis; los paseos en barco cuestan aparte.",
+     "kids": true
+    },
+    {
+     "name": "Zoo Lights",
+     "dates": "Nov 14 – Jan 3",
+     "venue": "San Antonio Zoo",
+     "area": "Brackenridge Park",
+     "addr": "3903 N St Mary's St, San Antonio, TX 78212",
+     "price": "paid",
+     "priceLabel": "Tickets",
+     "start": "2026-11-14",
+     "end": "2027-01-03",
+     "blurb": "The zoo lit up with light displays and holiday music.",
+     "blurbEs": "El zoológico iluminado con luces y música navideña.",
+     "kids": true
+    },
+    {
+     "name": "Illuminate",
+     "dates": "Nov 20 – Jan 10",
+     "venue": "San Antonio Botanical Garden",
+     "area": "Midtown",
+     "addr": "555 Funston Pl, San Antonio, TX 78209",
+     "price": "paid",
+     "priceLabel": "Tickets",
+     "start": "2026-11-20",
+     "end": "2027-01-10",
+     "url": "https://www.sabot.org/illuminate/",
+     "blurb": "Glowing trails of handcrafted lanterns and large light sculptures.",
+     "blurbEs": "Senderos con faroles artesanales y grandes esculturas de luz.",
+     "kids": true
+    },
+    {
+     "name": "Holidays on Houston Street",
+     "dates": "All of December",
+     "venue": "Houston Street",
+     "area": "Downtown",
+     "addr": "Houston St, San Antonio, TX 78205",
+     "price": "free",
+     "priceLabel": "Free",
+     "start": "2026-12-01",
+     "end": "2026-12-31",
+     "url": "https://onhoustonstreet.com/holidaysonhouston",
+     "blurb": "Nearly 400,000 mini lights on about 80 trees, plus giant ornaments and wreaths downtown.",
+     "blurbEs": "Casi 400,000 luces en unos 80 árboles, con adornos gigantes y coronas en el centro.",
+     "kids": true
+    },
+    {
+     "name": "Pearl Holiday Tree Lighting",
+     "dates": "Fri Nov 27",
+     "venue": "Pearl",
+     "area": "Pearl District",
+     "addr": "303 Pearl Pkwy, San Antonio, TX 78215",
+     "price": "free",
+     "priceLabel": "Free",
+     "start": "2026-11-27",
+     "url": "https://atpearl.com/events/holiday-tree-lighting-ceremony-2-5892/",
+     "blurb": "Carolers, hot chocolate and river barge rides as Pearl lights its tree.",
+     "blurbEs": "Villancicos, chocolate caliente y paseos en barcaza mientras Pearl enciende su árbol.",
+     "kids": true
+    },
+    {
+     "name": "Holiday in the Park",
+     "dates": "Nov 21 – Jan 4",
+     "venue": "Six Flags Fiesta Texas",
+     "area": "Northwest (25 min)",
+     "addr": "17000 W Interstate 10, San Antonio, TX 78257",
+     "price": "paid",
+     "priceLabel": "Park admission",
+     "start": "2026-11-21",
+     "end": "2027-01-04",
+     "url": "https://www.sixflags.com/fiestatexas/events/holiday-in-the-park",
+     "blurb": "Light displays, rides and holiday shows, with New Year's Eve fireworks.",
+     "blurbEs": "Luces, juegos y espectáculos navideños, con fuegos artificiales en Año Nuevo.",
+     "kids": true
+    }
+   ]
+  }
+ ]
+}
