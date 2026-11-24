@@ -1,0 +1,126 @@
+{
+ "city": "cleveland",
+ "updated": "2026-11-24",
+ "source": "Dinner, drinks and lunch picks and coordinates from OpenTable (date-night and cocktail-bar lists for downtown Cleveland, restaurant profiles) plus the Great Lakes Brewing Company and West Side Market official sites; attraction coordinates from Wikipedia/Wikiwand (Nov 2026)",
+ "spots": [
+  {
+   "name": "Cordelia",
+   "kind": "dinner",
+   "cuisine": "Farm-to-table",
+   "area": "East 4th Street",
+   "lat": 41.4988,
+   "lon": -81.69017
+  },
+  {
+   "name": "Blue Point Grille",
+   "kind": "dinner",
+   "cuisine": "Seafood",
+   "area": "Warehouse District",
+   "lat": 41.49974,
+   "lon": -81.69907
+  },
+  {
+   "name": "RED The Steakhouse",
+   "kind": "dinner",
+   "cuisine": "Steakhouse",
+   "area": "Downtown",
+   "lat": 41.49859,
+   "lon": -81.68957
+  },
+  {
+   "name": "District",
+   "kind": "dinner",
+   "cuisine": "Contemporary American",
+   "area": "Playhouse Square",
+   "lat": 41.50044,
+   "lon": -81.68196
+  },
+  {
+   "name": "Maker Kitchen + Cocktails",
+   "kind": "drinks",
+   "cuisine": "Cocktail bar",
+   "area": "Public Square",
+   "lat": 41.49865,
+   "lon": -81.69434
+  },
+  {
+   "name": "Club Room at Fidelity Hotel",
+   "kind": "drinks",
+   "cuisine": "Cocktail bar",
+   "area": "Downtown",
+   "lat": 41.50046,
+   "lon": -81.68966
+  },
+  {
+   "name": "Great Lakes Brewing Company",
+   "kind": "lunch",
+   "cuisine": "Brewpub, American",
+   "area": "Ohio City",
+   "lat": 41.4844,
+   "lon": -81.70453
+  },
+  {
+   "name": "Maxi's Bistro",
+   "kind": "lunch",
+   "cuisine": "Italian bistro",
+   "area": "Little Italy",
+   "lat": 41.50885,
+   "lon": -81.59801
+  },
+  {
+   "name": "Public Square",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 41.49972,
+   "lon": -81.69389,
+   "price": "Free",
+   "blurb": "Downtown's central plaza, a starting point for walking to East 4th Street, Playhouse Square and the stadiums.",
+   "blurbEs": "La plaza central del centro, un buen punto de partida para caminar a East 4th Street, Playhouse Square y los estadios."
+  },
+  {
+   "name": "Cleveland Museum of Art",
+   "kind": "always",
+   "cuisine": "",
+   "area": "University Circle",
+   "lat": 41.50889,
+   "lon": -81.61167,
+   "price": "Free",
+   "blurb": "A major art museum in University Circle with free general admission and strong Asian and Egyptian collections.",
+   "blurbEs": "Un gran museo de arte en University Circle con entrada general gratuita y destacadas colecciones de arte asiático y egipcio."
+  },
+  {
+   "name": "Rock & Roll Hall of Fame",
+   "kind": "always",
+   "cuisine": "",
+   "area": "North Coast Harbor",
+   "lat": 41.50861,
+   "lon": -81.69556,
+   "price": "Paid admission",
+   "blurb": "The museum of rock music history on the lakefront at the foot of East 9th Street.",
+   "blurbEs": "El museo de la historia del rock junto al lago, al final de East 9th Street."
+  },
+  {
+   "name": "West Side Market",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Ohio City",
+   "lat": 41.48444,
+   "lon": -81.70306,
+   "price": "Free entry",
+   "blurb": "Historic public market hall in Ohio City with produce, meat, bakery and prepared-food vendors. Open Mon, Wed, Fri and Sat 8 am–5 pm and Sun 10 am–4 pm; check holiday hours.",
+   "blurbEs": "Histórico mercado público en Ohio City con puestos de frutas y verduras, carnes, panaderías y comida preparada. Abre lunes, miércoles, viernes y sábado de 8 am a 5 pm y domingo de 10 am a 4 pm; consulta el horario festivo."
+  },
+  {
+   "name": "Cleveland Metroparks Zoo",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Old Brooklyn",
+   "lat": 41.447,
+   "lon": -81.712,
+   "price": "Paid admission",
+   "blurb": "The city's zoo south of downtown, which hosts Wild Winter Lights on holiday evenings.",
+   "blurbEs": "El zoológico de la ciudad, al sur del centro, que presenta Wild Winter Lights en las noches festivas."
+  }
+ ]
+}

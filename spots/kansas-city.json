@@ -1,0 +1,153 @@
+{
+ "city": "kansas-city",
+ "updated": "2026-11-24",
+ "source": "Visit KC (visitkc.com) listings and guides (streetcar dining guide, lunch spots, cocktail bars) and OpenTable's Crossroads romantic-restaurant rankings, checked Nov 2026.",
+ "spots": [
+  {
+   "name": "Lidia's Kansas City",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "Crossroads / Freight House",
+   "lat": 39.08742,
+   "lon": -94.58539
+  },
+  {
+   "name": "Grünauer",
+   "kind": "dinner",
+   "cuisine": "Austrian",
+   "area": "Crossroads / Freight House",
+   "lat": 39.08747,
+   "lon": -94.58523
+  },
+  {
+   "name": "Pierpont's at Union Station",
+   "kind": "dinner",
+   "cuisine": "Steakhouse",
+   "area": "Union Station",
+   "lat": 39.08384,
+   "lon": -94.58495
+  },
+  {
+   "name": "801 Chophouse",
+   "kind": "dinner",
+   "cuisine": "Steakhouse",
+   "area": "Power & Light District",
+   "lat": 39.09698,
+   "lon": -94.58251
+  },
+  {
+   "name": "Fritz's Railroad Restaurant",
+   "kind": "lunch",
+   "cuisine": "Burgers",
+   "area": "Crown Center",
+   "lat": 39.08243,
+   "lon": -94.58257
+  },
+  {
+   "name": "County Road Ice House",
+   "kind": "lunch",
+   "cuisine": "Barbecue",
+   "area": "Power & Light District",
+   "lat": 39.09735,
+   "lon": -94.58201
+  },
+  {
+   "name": "Pigwich",
+   "kind": "lunch",
+   "cuisine": "Sandwiches",
+   "area": "River Market / City Market",
+   "lat": 39.10845,
+   "lon": -94.58275
+  },
+  {
+   "name": "Fiorella's Jack Stack Barbecue (Plaza)",
+   "kind": "lunch",
+   "cuisine": "Barbecue",
+   "area": "Country Club Plaza",
+   "lat": 39.04167,
+   "lon": -94.58864
+  },
+  {
+   "name": "Swordfish Tom's",
+   "kind": "drinks",
+   "cuisine": "Cocktail bar",
+   "area": "Crossroads",
+   "lat": 39.09033,
+   "lon": -94.58679
+  },
+  {
+   "name": "Tom's Town Distilling Co.",
+   "kind": "drinks",
+   "cuisine": "Distillery cocktail lounge",
+   "area": "Crossroads",
+   "lat": 39.09329,
+   "lon": -94.58316
+  },
+  {
+   "name": "Nelson-Atkins Museum of Art",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Museum District / Plaza",
+   "lat": 39.04497,
+   "lon": -94.58098,
+   "price": "Free",
+   "blurb": "Encyclopedic art museum with the giant Shuttlecocks sculptures on its lawn; general admission is free. Closed Tuesday and Wednesday.",
+   "blurbEs": "Museo de arte enciclopédico con las enormes esculturas Shuttlecocks en su jardín; la entrada general es gratuita. Cierra martes y miércoles."
+  },
+  {
+   "name": "National WWI Museum and Memorial",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Crown Center / Union Station",
+   "lat": 39.08113,
+   "lon": -94.586,
+   "price": "Tickets",
+   "blurb": "The nation's museum of the First World War, topped by the Liberty Memorial tower with views over downtown. Closed Tuesdays.",
+   "blurbEs": "El museo nacional de la Primera Guerra Mundial, coronado por la torre Liberty Memorial con vistas al centro. Cierra los martes."
+  },
+  {
+   "name": "Science City at Union Station",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Union Station",
+   "lat": 39.08508,
+   "lon": -94.58573,
+   "price": "$17",
+   "blurb": "Hands-on science center spread over 92,000 square feet inside the restored 1914 Union Station.",
+   "blurbEs": "Centro de ciencias interactivo de más de 92,000 pies cuadrados dentro de la histórica Union Station de 1914."
+  },
+  {
+   "name": "LEGOLAND Discovery Center Kansas City",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Crown Center",
+   "lat": 39.08212,
+   "lon": -94.5814,
+   "price": "Tickets",
+   "blurb": "Indoor LEGO play center at Crown Center with build zones and rides for younger kids; toddlers 2 and under are free.",
+   "blurbEs": "Centro de juegos LEGO bajo techo en Crown Center, con zonas para construir y atracciones para niños pequeños; menores de 2 años entran gratis."
+  },
+  {
+   "name": "American Jazz Museum",
+   "kind": "always",
+   "cuisine": "",
+   "area": "18th & Vine",
+   "lat": 39.09145,
+   "lon": -94.56273,
+   "price": "$10 adults, $6 kids",
+   "blurb": "Museum of jazz history in the 18th & Vine district, sharing a building with the Negro Leagues Baseball Museum.",
+   "blurbEs": "Museo de la historia del jazz en el distrito 18th & Vine, en el mismo edificio que el Negro Leagues Baseball Museum."
+  },
+  {
+   "name": "Country Club Plaza",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Country Club Plaza",
+   "lat": 39.04105,
+   "lon": -94.59173,
+   "price": "Free",
+   "blurb": "Spanish-style shopping district whose holiday lights outline its shops, domes and towers from Thanksgiving to mid-January.",
+   "blurbEs": "Distrito comercial de estilo español cuyas luces navideñas delinean tiendas, cúpulas y torres desde Acción de Gracias hasta mediados de enero."
+  }
+ ]
+}

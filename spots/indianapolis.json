@@ -1,0 +1,123 @@
+{
+ "city": "indianapolis",
+ "updated": "2026-11-24",
+ "source": "Coordinates and listings from OpenTable restaurant pages (rating, hours, meta location), Wikipedia (St. Elmo Steakhouse, Indiana State Museum, Eiteljorg Museum, White River State Park), Downtown Indy, and indianamuseum.org / eiteljorg.org for admission and hours (Nov 2026)",
+ "spots": [
+  {
+   "name": "St. Elmo Steak House",
+   "kind": "dinner",
+   "cuisine": "Steakhouse",
+   "area": "Downtown",
+   "lat": 39.76482,
+   "lon": -86.15965
+  },
+  {
+   "name": "Harry & Izzy's - Downtown",
+   "kind": "dinner",
+   "cuisine": "Steakhouse",
+   "area": "Downtown",
+   "lat": 39.7646,
+   "lon": -86.15975
+  },
+  {
+   "name": "Oceanaire Seafood Room",
+   "kind": "dinner",
+   "cuisine": "Seafood",
+   "area": "Downtown",
+   "lat": 39.76627,
+   "lon": -86.15845
+  },
+  {
+   "name": "Nesso Italian Kitchen",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "Downtown",
+   "lat": 39.76168,
+   "lon": -86.15427
+  },
+  {
+   "name": "Rosemary & Olive Restaurant",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "Mass Ave",
+   "lat": 39.77942,
+   "lon": -86.14294
+  },
+  {
+   "name": "Bru Burger Bar",
+   "kind": "lunch",
+   "cuisine": "Burgers",
+   "area": "Mass Ave",
+   "lat": 39.77333,
+   "lon": -86.15214
+  },
+  {
+   "name": "L.S. Ayres Tea Room",
+   "kind": "lunch",
+   "cuisine": "Tea room, comfort food (holiday season)",
+   "area": "Indiana State Museum",
+   "lat": 39.76869,
+   "lon": -86.16961
+  },
+  {
+   "name": "Astrea Rooftop",
+   "kind": "drinks",
+   "cuisine": "Rooftop cocktail bar",
+   "area": "Downtown",
+   "lat": 39.76841,
+   "lon": -86.15931
+  },
+  {
+   "name": "Mel's",
+   "kind": "drinks",
+   "cuisine": "Speakeasy cocktail bar, small plates",
+   "area": "Downtown",
+   "lat": 39.76519,
+   "lon": -86.15464
+  },
+  {
+   "name": "Soldiers' and Sailors' Monument",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Monument Circle",
+   "lat": 39.76788,
+   "lon": -86.15729,
+   "price": "Free",
+   "blurb": "The Civil War monument at the center of Monument Circle, the heart of downtown Indianapolis.",
+   "blurbEs": "El monumento a la Guerra Civil en el centro de Monument Circle, el corazón del centro de Indianápolis."
+  },
+  {
+   "name": "Indiana State Museum",
+   "kind": "always",
+   "cuisine": "",
+   "area": "White River State Park",
+   "lat": 39.76861,
+   "lon": -86.16917,
+   "price": "$23 adults, $17 ages 3–17",
+   "blurb": "Indiana's natural and cultural history museum on the Central Canal, open Wednesday to Sunday.",
+   "blurbEs": "El museo de historia natural y cultural de Indiana junto al Central Canal, abierto de miércoles a domingo."
+  },
+  {
+   "name": "Eiteljorg Museum",
+   "kind": "always",
+   "cuisine": "",
+   "area": "White River State Park",
+   "lat": 39.7683,
+   "lon": -86.1678,
+   "price": "Check admission",
+   "blurb": "Museum of American Indian and Western art on the Central Canal, open daily (Sundays from noon).",
+   "blurbEs": "Museo de arte indígena americano y del Oeste junto al Central Canal, abierto todos los días (domingos desde el mediodía)."
+  },
+  {
+   "name": "White River State Park",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 39.76667,
+   "lon": -86.16972,
+   "price": "Free",
+   "blurb": "Downtown urban park along the White River and Central Canal that is home to several museums and the zoo.",
+   "blurbEs": "Parque urbano en el centro a lo largo del río White y el Central Canal, donde están varios museos y el zoológico."
+  }
+ ]
+}

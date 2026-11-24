@@ -1,0 +1,123 @@
+{
+ "city": "new-orleans",
+ "updated": "2026-11-24",
+ "source": "Restaurant and bar picks from The Infatuation's French Quarter guide (updated Nov 2026) and Resy's 2026 New Orleans Hit Lists; coordinates and landmark details from Wikipedia, plus noma.org for the sculpture garden (Nov 2026)",
+ "spots": [
+  {
+   "name": "Galatoire's",
+   "kind": "dinner",
+   "cuisine": "French Creole",
+   "area": "French Quarter",
+   "lat": 29.9549,
+   "lon": -90.069
+  },
+  {
+   "name": "Arnaud's",
+   "kind": "dinner",
+   "cuisine": "Creole",
+   "area": "French Quarter",
+   "lat": 29.95572,
+   "lon": -90.06876
+  },
+  {
+   "name": "Brennan's",
+   "kind": "dinner",
+   "cuisine": "Creole",
+   "area": "French Quarter",
+   "lat": 29.9561,
+   "lon": -90.0665
+  },
+  {
+   "name": "Antoine's",
+   "kind": "dinner",
+   "cuisine": "French Creole",
+   "area": "French Quarter",
+   "lat": 29.9567,
+   "lon": -90.0666
+  },
+  {
+   "name": "Central Grocery",
+   "kind": "lunch",
+   "cuisine": "Muffulettas & Italian deli",
+   "area": "French Quarter",
+   "lat": 29.9587,
+   "lon": -90.0609
+  },
+  {
+   "name": "Café du Monde",
+   "kind": "lunch",
+   "cuisine": "Beignets & café au lait",
+   "area": "French Quarter",
+   "lat": 29.95752,
+   "lon": -90.06182
+  },
+  {
+   "name": "Dooky Chase's Restaurant",
+   "kind": "lunch",
+   "cuisine": "Creole",
+   "area": "Tremé",
+   "lat": 29.96821,
+   "lon": -90.0785
+  },
+  {
+   "name": "French 75 Bar",
+   "kind": "drinks",
+   "cuisine": "Classic cocktails",
+   "area": "French Quarter",
+   "lat": 29.95572,
+   "lon": -90.06876
+  },
+  {
+   "name": "Pat O'Brien's",
+   "kind": "drinks",
+   "cuisine": "Cocktail bar (Hurricanes)",
+   "area": "French Quarter",
+   "lat": 29.9581,
+   "lon": -90.0655
+  },
+  {
+   "name": "Jackson Square",
+   "kind": "always",
+   "cuisine": "",
+   "area": "French Quarter",
+   "lat": 29.9575,
+   "lon": -90.063,
+   "price": "Free",
+   "blurb": "The French Quarter's historic central square, a National Historic Landmark ringed by street artists, the Pontalba Buildings and St. Louis Cathedral.",
+   "blurbEs": "La histórica plaza central del French Quarter, Monumento Histórico Nacional rodeado de artistas callejeros, los Pontalba Buildings y la St. Louis Cathedral."
+  },
+  {
+   "name": "St. Louis Cathedral",
+   "kind": "always",
+   "cuisine": "",
+   "area": "French Quarter",
+   "lat": 29.95778,
+   "lon": -90.06361,
+   "price": "Free",
+   "blurb": "The landmark cathedral facing Jackson Square, one of the most recognizable buildings in New Orleans.",
+   "blurbEs": "La emblemática catedral frente a Jackson Square, uno de los edificios más reconocibles de Nueva Orleans."
+  },
+  {
+   "name": "Pontalba Buildings",
+   "kind": "always",
+   "cuisine": "",
+   "area": "French Quarter",
+   "lat": 29.95743,
+   "lon": -90.06278,
+   "price": "Free",
+   "blurb": "Matching 1850s red-brick rowhouses with iron balconies lining two sides of Jackson Square, with shops and restaurants on the ground floor.",
+   "blurbEs": "Hileras gemelas de edificios de ladrillo rojo de la década de 1850, con balcones de hierro, en dos lados de Jackson Square; en la planta baja hay tiendas y restaurantes."
+  },
+  {
+   "name": "New Orleans City Park",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Mid-City",
+   "lat": 30.00167,
+   "lon": -90.09278,
+   "price": "Free",
+   "blurb": "A 1,300-acre park with centuries-old live oaks, lagoons, the New Orleans Museum of Art and the free Besthoff Sculpture Garden.",
+   "blurbEs": "Un parque de 1,300 acres con robles centenarios, lagunas, el New Orleans Museum of Art y el Besthoff Sculpture Garden, de entrada gratuita."
+  }
+ ]
+}

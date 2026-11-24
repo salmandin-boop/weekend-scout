@@ -1,0 +1,123 @@
+{
+ "city": "columbus",
+ "updated": "2026-11-24",
+ "source": "Dinner picks from Experience Columbus's romantic restaurants guide, lunch and bar picks from OpenTable listings (coordinates from each OpenTable page), North Market Bridge Park from northmarket.org, attractions from dbpedia.org (Wikipedia data), columbusmuseum.org and fpconservatory.org (Nov 2026)",
+ "spots": [
+  {
+   "name": "Veritas",
+   "kind": "dinner",
+   "cuisine": "Tasting menus",
+   "area": "Downtown",
+   "lat": 39.9634,
+   "lon": -83.00113
+  },
+  {
+   "name": "Butcher & Rose",
+   "kind": "dinner",
+   "cuisine": "Steakhouse",
+   "area": "Downtown",
+   "lat": 39.96234,
+   "lon": -82.99662
+  },
+  {
+   "name": "Lindey's",
+   "kind": "dinner",
+   "cuisine": "American surf 'n' turf",
+   "area": "German Village",
+   "lat": 39.95065,
+   "lon": -82.99371
+  },
+  {
+   "name": "Barcelona Restaurant & Bar",
+   "kind": "dinner",
+   "cuisine": "Spanish / Mediterranean",
+   "area": "German Village",
+   "lat": 39.944,
+   "lon": -82.99
+  },
+  {
+   "name": "The Mercury Diner",
+   "kind": "lunch",
+   "cuisine": "Diner",
+   "area": "Parsons Ave, near German Village",
+   "lat": 39.95115,
+   "lon": -82.98275
+  },
+  {
+   "name": "North Market Bridge Park",
+   "kind": "lunch",
+   "cuisine": "Food hall",
+   "area": "Dublin (Bridge Park)",
+   "lat": 40.10468,
+   "lon": -83.1098
+  },
+  {
+   "name": "Shawnee Station Taproom & Kitchen",
+   "kind": "lunch",
+   "cuisine": "American",
+   "area": "Shawnee Hills (near the Zoo)",
+   "lat": 40.15423,
+   "lon": -83.13022
+  },
+  {
+   "name": "Lincoln Social",
+   "kind": "drinks",
+   "cuisine": "Cocktails & small plates",
+   "area": "Short North",
+   "lat": 39.97681,
+   "lon": -83.00378
+  },
+  {
+   "name": "Stories on High",
+   "kind": "drinks",
+   "cuisine": "Cocktails & sushi",
+   "area": "Downtown",
+   "lat": 39.97073,
+   "lon": -83.00211
+  },
+  {
+   "name": "Columbus Museum of Art",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 39.97036,
+   "lon": -82.99881,
+   "price": "$22 adults; free Sundays and ages 25 and under",
+   "blurb": "The city's art museum, with free general admission every Sunday. Open 10 a.m.–5 p.m. Friday through Sunday.",
+   "blurbEs": "El museo de arte de la ciudad, con entrada general gratuita todos los domingos. Abre de 10 a.m. a 5 p.m. de viernes a domingo."
+  },
+  {
+   "name": "Franklin Park Conservatory",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Franklin Park",
+   "lat": 39.96586,
+   "lon": -82.95289,
+   "price": "$24 adults + $1.20 fee",
+   "blurb": "Glasshouses and botanical gardens in Franklin Park, open daily 10 a.m.–4 p.m.",
+   "blurbEs": "Invernaderos y jardines botánicos en Franklin Park, abiertos todos los días de 10 a.m. a 4 p.m."
+  },
+  {
+   "name": "Scioto Mile",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown riverfront",
+   "lat": 39.9598,
+   "lon": -83.004,
+   "price": "Free",
+   "blurb": "A riverfront park along the Scioto River with walking paths, Bicentennial Park and its fountain.",
+   "blurbEs": "Un parque junto al río Scioto con senderos, Bicentennial Park y su fuente."
+  },
+  {
+   "name": "German Village",
+   "kind": "always",
+   "cuisine": "",
+   "area": "German Village",
+   "lat": 39.94584,
+   "lon": -82.99278,
+   "price": "Free",
+   "blurb": "A historic neighborhood of brick streets and restored 19th-century houses just south of downtown, good for a walk.",
+   "blurbEs": "Un barrio histórico de calles de ladrillo y casas restauradas del siglo XIX, justo al sur del centro, ideal para pasear."
+  }
+ ]
+}

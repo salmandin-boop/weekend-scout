@@ -1,0 +1,276 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Indianapolis
+X-WR-CALDESC:Hand-checked weekend picks in Indianapolis, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:indianapolis-circle-of-lights-fri-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261127T220000Z
+DTEND:20261128T010000Z
+SUMMARY:Circle of Lights
+LOCATION:Monument Circle\, 1 Monument Circle\, Indianapolis\, IN 46204
+DESCRIPTION:Indy's holiday kickoff on Monument Circle\, with live music\, 
+ vendors and activities from 5 p.m. The monument's lights are switched on j
+ ust before 7 p.m. Free. Details: https://weekendscout.app/e/indianapolis/c
+ ircle-of-lights/
+URL:https://weekendscout.app/e/indianapolis/circle-of-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:indianapolis-pacers-vs-76ers-fri-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261128T003000Z
+DTEND:20261128T023000Z
+SUMMARY:Pacers vs. Philadelphia 76ers
+LOCATION:Gainbridge Fieldhouse\, 125 S Pennsylvania St\, Indianapolis\, IN
+  46204
+DESCRIPTION:The Pacers host Philadelphia downtown on Black Friday night. T
+ ickets. Details: https://weekendscout.app/e/indianapolis/pacers-vs-76ers/
+URL:https://weekendscout.app/e/indianapolis/pacers-vs-76ers/
+END:VEVENT
+BEGIN:VEVENT
+UID:indianapolis-colts-vs-giants-sun-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T180000Z
+DTEND:20261129T200000Z
+SUMMARY:Colts vs. New York Giants
+LOCATION:Lucas Oil Stadium\, 500 S Capitol Ave\, Indianapolis\, IN 46225
+DESCRIPTION:Week 12 of the NFL season: the Colts host the Giants with a 1 
+ p.m. kickoff on Sunday. Tickets. Details: https://weekendscout.app/e/india
+ napolis/colts-vs-giants/
+URL:https://weekendscout.app/e/indianapolis/colts-vs-giants/
+END:VEVENT
+BEGIN:VEVENT
+UID:indianapolis-irt-christmas-carol-fri-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261127T220000Z
+DTEND:20261128T000000Z
+SUMMARY:Charles Dickens' A Christmas Carol
+LOCATION:Indiana Repertory Theatre\, 140 W Washington St\, Indianapolis\, 
+ IN 46204
+DESCRIPTION:The IRT's annual holiday staging of the Dickens story on its O
+ neAmerica Financial Stage. Assisted listening devices are available at eve
+ ry performance. From $27. Details: https://weekendscout.app/e/indianapolis
+ /irt-christmas-carol/
+URL:https://weekendscout.app/e/indianapolis/irt-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:indianapolis-irt-christmas-carol-sat-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261128T190000Z
+DTEND:20261128T210000Z
+SUMMARY:Charles Dickens' A Christmas Carol
+LOCATION:Indiana Repertory Theatre\, 140 W Washington St\, Indianapolis\, 
+ IN 46204
+DESCRIPTION:The IRT's annual holiday staging of the Dickens story on its O
+ neAmerica Financial Stage. Assisted listening devices are available at eve
+ ry performance. From $27. Details: https://weekendscout.app/e/indianapolis
+ /irt-christmas-carol/
+URL:https://weekendscout.app/e/indianapolis/irt-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:indianapolis-irt-christmas-carol-sat-1@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:Charles Dickens' A Christmas Carol
+LOCATION:Indiana Repertory Theatre\, 140 W Washington St\, Indianapolis\, 
+ IN 46204
+DESCRIPTION:The IRT's annual holiday staging of the Dickens story on its O
+ neAmerica Financial Stage. Assisted listening devices are available at eve
+ ry performance. From $27. Details: https://weekendscout.app/e/indianapolis
+ /irt-christmas-carol/
+URL:https://weekendscout.app/e/indianapolis/irt-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:indianapolis-irt-christmas-carol-sun-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T190000Z
+DTEND:20261129T210000Z
+SUMMARY:Charles Dickens' A Christmas Carol
+LOCATION:Indiana Repertory Theatre\, 140 W Washington St\, Indianapolis\, 
+ IN 46204
+DESCRIPTION:The IRT's annual holiday staging of the Dickens story on its O
+ neAmerica Financial Stage. Assisted listening devices are available at eve
+ ry performance. From $27. Details: https://weekendscout.app/e/indianapolis
+ /irt-christmas-carol/
+URL:https://weekendscout.app/e/indianapolis/irt-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:indianapolis-irt-christmas-carol-sun-1@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T230000Z
+DTEND:20261130T010000Z
+SUMMARY:Charles Dickens' A Christmas Carol
+LOCATION:Indiana Repertory Theatre\, 140 W Washington St\, Indianapolis\, 
+ IN 46204
+DESCRIPTION:The IRT's annual holiday staging of the Dickens story on its O
+ neAmerica Financial Stage. Assisted listening devices are available at eve
+ ry performance. From $27. Details: https://weekendscout.app/e/indianapolis
+ /irt-christmas-carol/
+URL:https://weekendscout.app/e/indianapolis/irt-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:indianapolis-tony-rock-helium-fri-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261128T000000Z
+DTEND:20261128T020000Z
+SUMMARY:Tony Rock
+LOCATION:Helium Comedy Club\, 10 W Georgia St\, Indianapolis\, IN 46225
+DESCRIPTION:Comedian and actor Tony Rock headlines five shows over the wee
+ kend in Helium's main showroom. Tickets. Details: https://weekendscout.app
+ /e/indianapolis/tony-rock-helium/
+URL:https://weekendscout.app/e/indianapolis/tony-rock-helium/
+END:VEVENT
+BEGIN:VEVENT
+UID:indianapolis-tony-rock-helium-fri-1@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261128T021500Z
+DTEND:20261128T041500Z
+SUMMARY:Tony Rock
+LOCATION:Helium Comedy Club\, 10 W Georgia St\, Indianapolis\, IN 46225
+DESCRIPTION:Comedian and actor Tony Rock headlines five shows over the wee
+ kend in Helium's main showroom. Tickets. Details: https://weekendscout.app
+ /e/indianapolis/tony-rock-helium/
+URL:https://weekendscout.app/e/indianapolis/tony-rock-helium/
+END:VEVENT
+BEGIN:VEVENT
+UID:indianapolis-tony-rock-helium-sat-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:Tony Rock
+LOCATION:Helium Comedy Club\, 10 W Georgia St\, Indianapolis\, IN 46225
+DESCRIPTION:Comedian and actor Tony Rock headlines five shows over the wee
+ kend in Helium's main showroom. Tickets. Details: https://weekendscout.app
+ /e/indianapolis/tony-rock-helium/
+URL:https://weekendscout.app/e/indianapolis/tony-rock-helium/
+END:VEVENT
+BEGIN:VEVENT
+UID:indianapolis-tony-rock-helium-sat-1@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T023000Z
+DTEND:20261129T043000Z
+SUMMARY:Tony Rock
+LOCATION:Helium Comedy Club\, 10 W Georgia St\, Indianapolis\, IN 46225
+DESCRIPTION:Comedian and actor Tony Rock headlines five shows over the wee
+ kend in Helium's main showroom. Tickets. Details: https://weekendscout.app
+ /e/indianapolis/tony-rock-helium/
+URL:https://weekendscout.app/e/indianapolis/tony-rock-helium/
+END:VEVENT
+BEGIN:VEVENT
+UID:indianapolis-tony-rock-helium-sun-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261130T010000Z
+DTEND:20261130T030000Z
+SUMMARY:Tony Rock
+LOCATION:Helium Comedy Club\, 10 W Georgia St\, Indianapolis\, IN 46225
+DESCRIPTION:Comedian and actor Tony Rock headlines five shows over the wee
+ kend in Helium's main showroom. Tickets. Details: https://weekendscout.app
+ /e/indianapolis/tony-rock-helium/
+URL:https://weekendscout.app/e/indianapolis/tony-rock-helium/
+END:VEVENT
+BEGIN:VEVENT
+UID:indianapolis-rival-sons-vogue-sat-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T005000Z
+DTEND:20261129T025000Z
+SUMMARY:Rival Sons
+LOCATION:The Vogue\, 6259 N College Ave\, Indianapolis\, IN 46220
+DESCRIPTION:The California rock band plays Broad Ripple with The Blue Ston
+ es and The Velveteers. General admission\; doors at 7 p.m. Tickets. Detail
+ s: https://weekendscout.app/e/indianapolis/rival-sons-vogue/
+URL:https://weekendscout.app/e/indianapolis/rival-sons-vogue/
+END:VEVENT
+BEGIN:VEVENT
+UID:indianapolis-christmas-at-the-zoo-fri-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261127T220000Z
+DTEND:20261128T000000Z
+SUMMARY:Christmas at the Zoo
+LOCATION:Indianapolis Zoo\, 1200 W Washington St\, Indianapolis\, IN 46222
+DESCRIPTION:The zoo lights up for the holidays each evening from 5 p.m.\, 
+ with festivities included in regular admission. Included with zoo admissio
+ n. Details: https://weekendscout.app/e/indianapolis/christmas-at-the-zoo/
+URL:https://weekendscout.app/e/indianapolis/christmas-at-the-zoo/
+END:VEVENT
+BEGIN:VEVENT
+UID:indianapolis-christmas-at-the-zoo-sat-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261128T220000Z
+DTEND:20261129T000000Z
+SUMMARY:Christmas at the Zoo
+LOCATION:Indianapolis Zoo\, 1200 W Washington St\, Indianapolis\, IN 46222
+DESCRIPTION:The zoo lights up for the holidays each evening from 5 p.m.\, 
+ with festivities included in regular admission. Included with zoo admissio
+ n. Details: https://weekendscout.app/e/indianapolis/christmas-at-the-zoo/
+URL:https://weekendscout.app/e/indianapolis/christmas-at-the-zoo/
+END:VEVENT
+BEGIN:VEVENT
+UID:indianapolis-christmas-at-the-zoo-sun-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T220000Z
+DTEND:20261130T000000Z
+SUMMARY:Christmas at the Zoo
+LOCATION:Indianapolis Zoo\, 1200 W Washington St\, Indianapolis\, IN 46222
+DESCRIPTION:The zoo lights up for the holidays each evening from 5 p.m.\, 
+ with festivities included in regular admission. Included with zoo admissio
+ n. Details: https://weekendscout.app/e/indianapolis/christmas-at-the-zoo/
+URL:https://weekendscout.app/e/indianapolis/christmas-at-the-zoo/
+END:VEVENT
+BEGIN:VEVENT
+UID:indianapolis-carmel-christkindlmarkt-fri-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261127T170000Z
+DTEND:20261128T020000Z
+SUMMARY:Carmel Christkindlmarkt
+LOCATION:Carter Green\, 1 Carter Green\, Carmel\, IN 46032
+DESCRIPTION:A German-style outdoor holiday market in Carmel with food\, dr
+ inks and gifts. Admission and parking are free\; ice skating is ticketed. 
+ Free. Details: https://weekendscout.app/e/indianapolis/carmel-christkindlm
+ arkt/
+URL:https://weekendscout.app/e/indianapolis/carmel-christkindlmarkt/
+END:VEVENT
+BEGIN:VEVENT
+UID:indianapolis-carmel-christkindlmarkt-sat-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261128T170000Z
+DTEND:20261129T020000Z
+SUMMARY:Carmel Christkindlmarkt
+LOCATION:Carter Green\, 1 Carter Green\, Carmel\, IN 46032
+DESCRIPTION:A German-style outdoor holiday market in Carmel with food\, dr
+ inks and gifts. Admission and parking are free\; ice skating is ticketed. 
+ Free. Details: https://weekendscout.app/e/indianapolis/carmel-christkindlm
+ arkt/
+URL:https://weekendscout.app/e/indianapolis/carmel-christkindlmarkt/
+END:VEVENT
+BEGIN:VEVENT
+UID:indianapolis-carmel-christkindlmarkt-sun-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T170000Z
+DTEND:20261130T010000Z
+SUMMARY:Carmel Christkindlmarkt
+LOCATION:Carter Green\, 1 Carter Green\, Carmel\, IN 46032
+DESCRIPTION:A German-style outdoor holiday market in Carmel with food\, dr
+ inks and gifts. Admission and parking are free\; ice skating is ticketed. 
+ Free. Details: https://weekendscout.app/e/indianapolis/carmel-christkindlm
+ arkt/
+URL:https://weekendscout.app/e/indianapolis/carmel-christkindlmarkt/
+END:VEVENT
+BEGIN:VEVENT
+UID:indianapolis-indy-fuel-vs-bison-sun-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T210000Z
+DTEND:20261129T230000Z
+SUMMARY:Indy Fuel vs. Bloomington Bison
+LOCATION:Fishers Event Center\, 11000 Stockdale St\, Fishers\, IN 46037
+DESCRIPTION:ECHL hockey: the Fuel host Bloomington with a 4 p.m. puck drop
+  on Sunday. Tickets. Details: https://weekendscout.app/e/indianapolis/indy
+ -fuel-vs-bison/
+URL:https://weekendscout.app/e/indianapolis/indy-fuel-vs-bison/
+END:VEVENT
+END:VCALENDAR

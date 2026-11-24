@@ -1,0 +1,99 @@
+{
+ "city": "salt-lake-city",
+ "updated": "2026-11-24",
+ "source": "Dinner and bar picks from OpenTable's best romantic restaurants in downtown Salt Lake City list, lunch from Visit Salt Lake's kid-friendly restaurants guide; restaurant coordinates from OpenTable listing metadata, attraction coordinates from Wikipedia (Nov 2026)",
+ "spots": [
+  {
+   "name": "Caffe Molise",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "Downtown",
+   "lat": 40.76043,
+   "lon": -111.89445
+  },
+  {
+   "name": "Matteo Ristorante Italiano",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "Downtown",
+   "lat": 40.76458,
+   "lon": -111.89347
+  },
+  {
+   "name": "Christopher's Prime and Sonoma Wine Bar",
+   "kind": "dinner",
+   "cuisine": "Steakhouse",
+   "area": "Downtown",
+   "lat": 40.76316,
+   "lon": -111.89448
+  },
+  {
+   "name": "Lupessa",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "Downtown",
+   "lat": 40.76506,
+   "lon": -111.90263
+  },
+  {
+   "name": "Squatters Pub Brewery",
+   "kind": "lunch",
+   "cuisine": "Pub, American",
+   "area": "Downtown",
+   "lat": 40.76252,
+   "lon": -111.89566
+  },
+  {
+   "name": "Hide & Seek",
+   "kind": "drinks",
+   "cuisine": "Speakeasy",
+   "area": "Downtown",
+   "lat": 40.75593,
+   "lon": -111.89076
+  },
+  {
+   "name": "Temple Square",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 40.77056,
+   "lon": -111.8925,
+   "price": "Free",
+   "blurb": "The downtown church headquarters block with gardens, the Tabernacle and visitor centers, lit up nightly for the holidays.",
+   "blurbEs": "La manzana de la sede de la iglesia en el centro, con jardines, el Tabernáculo y centros de visitantes, iluminada cada noche en las fiestas."
+  },
+  {
+   "name": "Church History Museum",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 40.7708,
+   "lon": -111.8943,
+   "price": "Free",
+   "blurb": "A free museum of Latter-day Saint history and art across from the west gates of Temple Square.",
+   "blurbEs": "Un museo gratuito de historia y arte de los Santos de los Últimos Días, frente a las puertas oeste de Temple Square."
+  },
+  {
+   "name": "City Creek Center",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 40.76806,
+   "lon": -111.89111,
+   "price": "Free to visit",
+   "blurb": "A downtown shopping center on Main Street, a short walk from Temple Square.",
+   "blurbEs": "Un centro comercial en Main Street, en el centro, a poca distancia a pie de Temple Square."
+  },
+  {
+   "name": "Utah's Hogle Zoo",
+   "kind": "always",
+   "cuisine": "",
+   "area": "East Bench",
+   "lat": 40.7498,
+   "lon": -111.814,
+   "price": "Paid admission",
+   "blurb": "Salt Lake City's zoo on the east side of town, about 15 minutes from downtown.",
+   "blurbEs": "El zoológico de Salt Lake City, en el lado este de la ciudad, a unos 15 minutos del centro."
+  }
+ ]
+}

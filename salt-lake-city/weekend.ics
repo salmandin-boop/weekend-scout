@@ -1,0 +1,240 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Salt Lake City
+X-WR-CALDESC:Hand-checked weekend picks in Salt Lake City, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:salt-lake-city-jazz-vs-nuggets-fri-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261128T023000Z
+DTEND:20261128T043000Z
+SUMMARY:Utah Jazz vs. Denver Nuggets
+LOCATION:Delta Center\, 301 W South Temple\, Salt Lake City\, UT 84101
+DESCRIPTION:The Jazz host division rival Denver on Black Friday night in a
+ n NBA Cup game downtown. Tickets. Details: https://weekendscout.app/e/salt
+ -lake-city/jazz-vs-nuggets/
+URL:https://weekendscout.app/e/salt-lake-city/jazz-vs-nuggets/
+END:VEVENT
+BEGIN:VEVENT
+UID:salt-lake-city-jazz-vs-suns-sun-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T220000Z
+DTEND:20261130T000000Z
+SUMMARY:Utah Jazz vs. Phoenix Suns
+LOCATION:Delta Center\, 301 W South Temple\, Salt Lake City\, UT 84101
+DESCRIPTION:A Sunday afternoon tip-off against Phoenix\, an easy game for 
+ families to fit into the holiday weekend. Tickets. Details: https://weeken
+ dscout.app/e/salt-lake-city/jazz-vs-suns/
+URL:https://weekendscout.app/e/salt-lake-city/jazz-vs-suns/
+END:VEVENT
+BEGIN:VEVENT
+UID:salt-lake-city-utes-vs-west-virginia-fri-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261128T020000Z
+DTEND:20261128T040000Z
+SUMMARY:Utah Utes vs. West Virginia
+LOCATION:Rice-Eccles Stadium\, 451 S 1400 E\, Salt Lake City\, UT 84112
+DESCRIPTION:University of Utah football closes the regular season at home 
+ under the lights on Friday night. Dress for a cold evening in the stands. 
+ Tickets. Details: https://weekendscout.app/e/salt-lake-city/utes-vs-west-v
+ irginia/
+URL:https://weekendscout.app/e/salt-lake-city/utes-vs-west-virginia/
+END:VEVENT
+BEGIN:VEVENT
+UID:salt-lake-city-messiah-sing-in-sat-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T023000Z
+DTEND:20261129T043000Z
+SUMMARY:Messiah Sing-In with Utah Symphony
+LOCATION:Abravanel Hall\, 123 W South Temple\, Salt Lake City\, UT 84101
+DESCRIPTION:Utah Symphony performs Handel's Messiah and the audience is in
+ vited to sing along with the choruses. Check ticket prices. Details: https
+ ://weekendscout.app/e/salt-lake-city/messiah-sing-in/
+URL:https://weekendscout.app/e/salt-lake-city/messiah-sing-in/
+END:VEVENT
+BEGIN:VEVENT
+UID:salt-lake-city-messiah-sing-in-sun-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261130T023000Z
+DTEND:20261130T043000Z
+SUMMARY:Messiah Sing-In with Utah Symphony
+LOCATION:Abravanel Hall\, 123 W South Temple\, Salt Lake City\, UT 84101
+DESCRIPTION:Utah Symphony performs Handel's Messiah and the audience is in
+ vited to sing along with the choruses. Check ticket prices. Details: https
+ ://weekendscout.app/e/salt-lake-city/messiah-sing-in/
+URL:https://weekendscout.app/e/salt-lake-city/messiah-sing-in/
+END:VEVENT
+BEGIN:VEVENT
+UID:salt-lake-city-bryan-callen-wiseguys-fri-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261128T013000Z
+DTEND:20261128T033000Z
+SUMMARY:Bryan Callen
+LOCATION:The Showroom at Wiseguys (The Gateway)\, 190 S 400 W\, Salt Lake 
+ City\, UT 84101
+DESCRIPTION:Comedian and podcaster Bryan Callen plays two shows a night Fr
+ iday and Saturday at Wiseguys in The Gateway. Tickets. Details: https://we
+ ekendscout.app/e/salt-lake-city/bryan-callen-wiseguys/
+URL:https://weekendscout.app/e/salt-lake-city/bryan-callen-wiseguys/
+END:VEVENT
+BEGIN:VEVENT
+UID:salt-lake-city-bryan-callen-wiseguys-fri-1@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261128T040000Z
+DTEND:20261128T060000Z
+SUMMARY:Bryan Callen
+LOCATION:The Showroom at Wiseguys (The Gateway)\, 190 S 400 W\, Salt Lake 
+ City\, UT 84101
+DESCRIPTION:Comedian and podcaster Bryan Callen plays two shows a night Fr
+ iday and Saturday at Wiseguys in The Gateway. Tickets. Details: https://we
+ ekendscout.app/e/salt-lake-city/bryan-callen-wiseguys/
+URL:https://weekendscout.app/e/salt-lake-city/bryan-callen-wiseguys/
+END:VEVENT
+BEGIN:VEVENT
+UID:salt-lake-city-bryan-callen-wiseguys-sat-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T013000Z
+DTEND:20261129T033000Z
+SUMMARY:Bryan Callen
+LOCATION:The Showroom at Wiseguys (The Gateway)\, 190 S 400 W\, Salt Lake 
+ City\, UT 84101
+DESCRIPTION:Comedian and podcaster Bryan Callen plays two shows a night Fr
+ iday and Saturday at Wiseguys in The Gateway. Tickets. Details: https://we
+ ekendscout.app/e/salt-lake-city/bryan-callen-wiseguys/
+URL:https://weekendscout.app/e/salt-lake-city/bryan-callen-wiseguys/
+END:VEVENT
+BEGIN:VEVENT
+UID:salt-lake-city-bryan-callen-wiseguys-sat-1@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T040000Z
+DTEND:20261129T060000Z
+SUMMARY:Bryan Callen
+LOCATION:The Showroom at Wiseguys (The Gateway)\, 190 S 400 W\, Salt Lake 
+ City\, UT 84101
+DESCRIPTION:Comedian and podcaster Bryan Callen plays two shows a night Fr
+ iday and Saturday at Wiseguys in The Gateway. Tickets. Details: https://we
+ ekendscout.app/e/salt-lake-city/bryan-callen-wiseguys/
+URL:https://weekendscout.app/e/salt-lake-city/bryan-callen-wiseguys/
+END:VEVENT
+BEGIN:VEVENT
+UID:salt-lake-city-temple-square-christmas-lights-fri-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261127T233000Z
+DTEND:20261128T050000Z
+SUMMARY:Christmas Lights at Temple Square
+LOCATION:Temple Square\, 50 W North Temple\, Salt Lake City\, UT 84150
+DESCRIPTION:The downtown holiday lights switch on for the season on Friday
+  and stay lit nightly through Jan. 1\, with a projection show on the Taber
+ nacle dome. Free. Details: https://weekendscout.app/e/salt-lake-city/templ
+ e-square-christmas-lights/
+URL:https://weekendscout.app/e/salt-lake-city/temple-square-christmas-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:salt-lake-city-temple-square-christmas-lights-sat-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261128T233000Z
+DTEND:20261129T050000Z
+SUMMARY:Christmas Lights at Temple Square
+LOCATION:Temple Square\, 50 W North Temple\, Salt Lake City\, UT 84150
+DESCRIPTION:The downtown holiday lights switch on for the season on Friday
+  and stay lit nightly through Jan. 1\, with a projection show on the Taber
+ nacle dome. Free. Details: https://weekendscout.app/e/salt-lake-city/templ
+ e-square-christmas-lights/
+URL:https://weekendscout.app/e/salt-lake-city/temple-square-christmas-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:salt-lake-city-temple-square-christmas-lights-sun-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T233000Z
+DTEND:20261130T050000Z
+SUMMARY:Christmas Lights at Temple Square
+LOCATION:Temple Square\, 50 W North Temple\, Salt Lake City\, UT 84150
+DESCRIPTION:The downtown holiday lights switch on for the season on Friday
+  and stay lit nightly through Jan. 1\, with a projection show on the Taber
+ nacle dome. Free. Details: https://weekendscout.app/e/salt-lake-city/templ
+ e-square-christmas-lights/
+URL:https://weekendscout.app/e/salt-lake-city/temple-square-christmas-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:salt-lake-city-hogle-zoolights-fri-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261128T003000Z
+DTEND:20261128T040000Z
+SUMMARY:Hogle Holidays: A ZooLights Experience
+LOCATION:Utah's Hogle Zoo\, 2600 Sunnyside Ave S\, Salt Lake City\, UT 841
+ 08
+DESCRIPTION:The zoo stays open after dark with light displays along the pa
+ ths. A good outing for kids\, about 15 minutes east of downtown. $19.95–
+ $24.95. Details: https://weekendscout.app/e/salt-lake-city/hogle-zoolights
+ /
+URL:https://weekendscout.app/e/salt-lake-city/hogle-zoolights/
+END:VEVENT
+BEGIN:VEVENT
+UID:salt-lake-city-hogle-zoolights-sat-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T003000Z
+DTEND:20261129T040000Z
+SUMMARY:Hogle Holidays: A ZooLights Experience
+LOCATION:Utah's Hogle Zoo\, 2600 Sunnyside Ave S\, Salt Lake City\, UT 841
+ 08
+DESCRIPTION:The zoo stays open after dark with light displays along the pa
+ ths. A good outing for kids\, about 15 minutes east of downtown. $19.95–
+ $24.95. Details: https://weekendscout.app/e/salt-lake-city/hogle-zoolights
+ /
+URL:https://weekendscout.app/e/salt-lake-city/hogle-zoolights/
+END:VEVENT
+BEGIN:VEVENT
+UID:salt-lake-city-hogle-zoolights-sun-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261130T003000Z
+DTEND:20261130T040000Z
+SUMMARY:Hogle Holidays: A ZooLights Experience
+LOCATION:Utah's Hogle Zoo\, 2600 Sunnyside Ave S\, Salt Lake City\, UT 841
+ 08
+DESCRIPTION:The zoo stays open after dark with light displays along the pa
+ ths. A good outing for kids\, about 15 minutes east of downtown. $19.95–
+ $24.95. Details: https://weekendscout.app/e/salt-lake-city/hogle-zoolights
+ /
+URL:https://weekendscout.app/e/salt-lake-city/hogle-zoolights/
+END:VEVENT
+BEGIN:VEVENT
+UID:salt-lake-city-wheeler-farm-holiday-market-fri-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261127T210000Z
+DTEND:20261128T030000Z
+SUMMARY:Wheeler Farm Annual Holiday Market
+LOCATION:Wheeler Historic Farm\, 6351 S 900 E\, Murray\, UT
+DESCRIPTION:More than 50 local vendors and food trucks at the historic far
+ m in Murray\, a free alternative to Black Friday at the mall. Free. Detail
+ s: https://weekendscout.app/e/salt-lake-city/wheeler-farm-holiday-market/
+URL:https://weekendscout.app/e/salt-lake-city/wheeler-farm-holiday-market/
+END:VEVENT
+BEGIN:VEVENT
+UID:salt-lake-city-wheeler-farm-holiday-market-sat-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261128T170000Z
+DTEND:20261129T010000Z
+SUMMARY:Wheeler Farm Annual Holiday Market
+LOCATION:Wheeler Historic Farm\, 6351 S 900 E\, Murray\, UT
+DESCRIPTION:More than 50 local vendors and food trucks at the historic far
+ m in Murray\, a free alternative to Black Friday at the mall. Free. Detail
+ s: https://weekendscout.app/e/salt-lake-city/wheeler-farm-holiday-market/
+URL:https://weekendscout.app/e/salt-lake-city/wheeler-farm-holiday-market/
+END:VEVENT
+BEGIN:VEVENT
+UID:salt-lake-city-wheeler-farm-holiday-market-sun-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T170000Z
+DTEND:20261129T220000Z
+SUMMARY:Wheeler Farm Annual Holiday Market
+LOCATION:Wheeler Historic Farm\, 6351 S 900 E\, Murray\, UT
+DESCRIPTION:More than 50 local vendors and food trucks at the historic far
+ m in Murray\, a free alternative to Black Friday at the mall. Free. Detail
+ s: https://weekendscout.app/e/salt-lake-city/wheeler-farm-holiday-market/
+URL:https://weekendscout.app/e/salt-lake-city/wheeler-farm-holiday-market/
+END:VEVENT
+END:VCALENDAR

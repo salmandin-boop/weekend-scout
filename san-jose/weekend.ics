@@ -1,0 +1,152 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · San Jose
+X-WR-CALDESC:Hand-checked weekend picks in San Jose, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:san-jose-sharks-vs-golden-knights-fri-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261127T210000Z
+DTEND:20261127T230000Z
+SUMMARY:San Jose Sharks vs. Vegas Golden Knights
+LOCATION:SAP Center\, 525 W Santa Clara St\, San Jose\, CA 95113
+DESCRIPTION:A Black Friday afternoon game against Vegas\, billed as the Sh
+ arks' Youth Hockey Appreciation game. Tickets. Details: https://weekendsco
+ ut.app/e/san-jose/sharks-vs-golden-knights/
+URL:https://weekendscout.app/e/san-jose/sharks-vs-golden-knights/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-jose-christmas-in-the-park-fri-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261128T020000Z
+DTEND:20261128T040000Z
+SUMMARY:Christmas in the Park
+LOCATION:Plaza de César Chávez\, 194 S Market St\, San Jose\, CA 95113
+DESCRIPTION:San Jose's free outdoor holiday display opens for the season o
+ n Friday evening in the plaza downtown. It runs through Jan 3. Free. Detai
+ ls: https://weekendscout.app/e/san-jose/christmas-in-the-park/
+URL:https://weekendscout.app/e/san-jose/christmas-in-the-park/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-jose-christmas-in-the-park-sat-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261128T200000Z
+DTEND:20261129T060000Z
+SUMMARY:Christmas in the Park
+LOCATION:Plaza de César Chávez\, 194 S Market St\, San Jose\, CA 95113
+DESCRIPTION:San Jose's free outdoor holiday display opens for the season o
+ n Friday evening in the plaza downtown. It runs through Jan 3. Free. Detai
+ ls: https://weekendscout.app/e/san-jose/christmas-in-the-park/
+URL:https://weekendscout.app/e/san-jose/christmas-in-the-park/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-jose-christmas-in-the-park-sun-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T200000Z
+DTEND:20261130T060000Z
+SUMMARY:Christmas in the Park
+LOCATION:Plaza de César Chávez\, 194 S Market St\, San Jose\, CA 95113
+DESCRIPTION:San Jose's free outdoor holiday display opens for the season o
+ n Friday evening in the plaza downtown. It runs through Jan 3. Free. Detai
+ ls: https://weekendscout.app/e/san-jose/christmas-in-the-park/
+URL:https://weekendscout.app/e/san-jose/christmas-in-the-park/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-jose-carpenters-songbook-christmas-fri-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261128T030000Z
+DTEND:20261128T050000Z
+SUMMARY:The Carpenters Songbook: At Christmas
+LOCATION:Center for the Performing Arts\, 255 Almaden Blvd\, San Jose\, CA
+  95113
+DESCRIPTION:A concert of Carpenters holiday songs and hits on Friday night
+ . The performance is ASL-interpreted. Tickets. Details: https://weekendsco
+ ut.app/e/san-jose/carpenters-songbook-christmas/
+URL:https://weekendscout.app/e/san-jose/carpenters-songbook-christmas/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-jose-chris-porter-improv-fri-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Chris Porter
+LOCATION:San Jose Improv\, 62 S 2nd St\, San Jose\, CA 95113
+DESCRIPTION:Stand-up comedian Chris Porter plays two shows a night Friday 
+ and Saturday at the downtown comedy club. Check showtimes when booking. Ti
+ ckets. Details: https://weekendscout.app/e/san-jose/chris-porter-improv/
+URL:https://weekendscout.app/e/san-jose/chris-porter-improv/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-jose-chris-porter-improv-sat-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Chris Porter
+LOCATION:San Jose Improv\, 62 S 2nd St\, San Jose\, CA 95113
+DESCRIPTION:Stand-up comedian Chris Porter plays two shows a night Friday 
+ and Saturday at the downtown comedy club. Check showtimes when booking. Ti
+ ckets. Details: https://weekendscout.app/e/san-jose/chris-porter-improv/
+URL:https://weekendscout.app/e/san-jose/chris-porter-improv/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-jose-san-jose-holiday-lights-fri-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261128T003000Z
+DTEND:20261128T063000Z
+SUMMARY:San Jose Holiday Lights
+LOCATION:Discovery Meadow\, 330 W San Carlos St\, San Jose\, CA 95110
+DESCRIPTION:A walk-through holiday light show with themed zones and ice tu
+ nnels\, open nightly with last entry at 10 pm. Weekend tickets are $29 gen
+ eral and $23 for ages 4–12 and 65+\; ages 3 and under are free. $23–$2
+ 9 (weekends). Details: https://weekendscout.app/e/san-jose/san-jose-holida
+ y-lights/
+URL:https://weekendscout.app/e/san-jose/san-jose-holiday-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-jose-san-jose-holiday-lights-sat-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T003000Z
+DTEND:20261129T063000Z
+SUMMARY:San Jose Holiday Lights
+LOCATION:Discovery Meadow\, 330 W San Carlos St\, San Jose\, CA 95110
+DESCRIPTION:A walk-through holiday light show with themed zones and ice tu
+ nnels\, open nightly with last entry at 10 pm. Weekend tickets are $29 gen
+ eral and $23 for ages 4–12 and 65+\; ages 3 and under are free. $23–$2
+ 9 (weekends). Details: https://weekendscout.app/e/san-jose/san-jose-holida
+ y-lights/
+URL:https://weekendscout.app/e/san-jose/san-jose-holiday-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-jose-san-jose-holiday-lights-sun-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261130T003000Z
+DTEND:20261130T063000Z
+SUMMARY:San Jose Holiday Lights
+LOCATION:Discovery Meadow\, 330 W San Carlos St\, San Jose\, CA 95110
+DESCRIPTION:A walk-through holiday light show with themed zones and ice tu
+ nnels\, open nightly with last entry at 10 pm. Weekend tickets are $29 gen
+ eral and $23 for ages 4–12 and 65+\; ages 3 and under are free. $23–$2
+ 9 (weekends). Details: https://weekendscout.app/e/san-jose/san-jose-holida
+ y-lights/
+URL:https://weekendscout.app/e/san-jose/san-jose-holiday-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-jose-49ers-vs-seahawks-sun-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T212500Z
+DTEND:20261129T232500Z
+SUMMARY:49ers vs. Seattle Seahawks
+LOCATION:Levi's Stadium\, 4900 Marie P DeBartolo Way\, Santa Clara\, CA 95
+ 054
+DESCRIPTION:The 49ers host NFC West rival Seattle on Sunday afternoon in S
+ anta Clara. Tickets. Details: https://weekendscout.app/e/san-jose/49ers-vs
+ -seahawks/
+URL:https://weekendscout.app/e/san-jose/49ers-vs-seahawks/
+END:VEVENT
+END:VCALENDAR

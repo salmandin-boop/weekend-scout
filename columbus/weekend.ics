@@ -1,0 +1,298 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Columbus
+X-WR-CALDESC:Hand-checked weekend picks in Columbus, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:columbus-ohio-state-vs-michigan-sat-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261128T170000Z
+DTEND:20261128T190000Z
+SUMMARY:The Game: Ohio State vs. Michigan
+LOCATION:Ohio Stadium\, 411 Woody Hayes Dr\, Columbus\, OH 43210
+DESCRIPTION:The annual Ohio State–Michigan rivalry game kicks off at noo
+ n at Ohio Stadium and airs on FOX. Tickets. Details: https://weekendscout.
+ app/e/columbus/ohio-state-vs-michigan/
+URL:https://weekendscout.app/e/columbus/ohio-state-vs-michigan/
+END:VEVENT
+BEGIN:VEVENT
+UID:columbus-blue-jackets-vs-red-wings-fri-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Blue Jackets vs. Detroit Red Wings
+LOCATION:Nationwide Arena\, 200 W Nationwide Blvd\, Columbus\, OH 43215
+DESCRIPTION:A Black Friday matinee against Detroit in the Arena District. 
+ The team lists it as an afternoon game starting 3:30 p.m. or earlier\; che
+ ck the final time before you go. Tickets. Details: https://weekendscout.ap
+ p/e/columbus/blue-jackets-vs-red-wings/
+URL:https://weekendscout.app/e/columbus/blue-jackets-vs-red-wings/
+END:VEVENT
+BEGIN:VEVENT
+UID:columbus-capa-a-christmas-carol-fri-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261127T190000Z
+DTEND:20261127T210000Z
+SUMMARY:A Christmas Carol
+LOCATION:Ohio Theatre\, 39 E State St\, Columbus\, OH 43215
+DESCRIPTION:CAPA and Short North Stage stage the Dickens holiday story in 
+ the restored Ohio Theatre. Sunday's 2 p.m. show is ASL-interpreted. Ticket
+ s. Details: https://weekendscout.app/e/columbus/capa-a-christmas-carol/
+URL:https://weekendscout.app/e/columbus/capa-a-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:columbus-capa-a-christmas-carol-fri-1@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261128T003000Z
+DTEND:20261128T023000Z
+SUMMARY:A Christmas Carol
+LOCATION:Ohio Theatre\, 39 E State St\, Columbus\, OH 43215
+DESCRIPTION:CAPA and Short North Stage stage the Dickens holiday story in 
+ the restored Ohio Theatre. Sunday's 2 p.m. show is ASL-interpreted. Ticket
+ s. Details: https://weekendscout.app/e/columbus/capa-a-christmas-carol/
+URL:https://weekendscout.app/e/columbus/capa-a-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:columbus-capa-a-christmas-carol-sat-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T003000Z
+DTEND:20261129T023000Z
+SUMMARY:A Christmas Carol
+LOCATION:Ohio Theatre\, 39 E State St\, Columbus\, OH 43215
+DESCRIPTION:CAPA and Short North Stage stage the Dickens holiday story in 
+ the restored Ohio Theatre. Sunday's 2 p.m. show is ASL-interpreted. Ticket
+ s. Details: https://weekendscout.app/e/columbus/capa-a-christmas-carol/
+URL:https://weekendscout.app/e/columbus/capa-a-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:columbus-capa-a-christmas-carol-sun-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T190000Z
+DTEND:20261129T210000Z
+SUMMARY:A Christmas Carol
+LOCATION:Ohio Theatre\, 39 E State St\, Columbus\, OH 43215
+DESCRIPTION:CAPA and Short North Stage stage the Dickens holiday story in 
+ the restored Ohio Theatre. Sunday's 2 p.m. show is ASL-interpreted. Ticket
+ s. Details: https://weekendscout.app/e/columbus/capa-a-christmas-carol/
+URL:https://weekendscout.app/e/columbus/capa-a-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:columbus-columbus-zoo-wildlights-fri-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261127T220000Z
+DTEND:20261128T030000Z
+SUMMARY:Wildlights
+LOCATION:Columbus Zoo and Aquarium\, 4850 W Powell Rd\, Powell\, OH 43065
+DESCRIPTION:The zoo's holiday lights festival\, included with regular zoo 
+ admission. Parking is $12. $27.95–$34.95 ($18.95–$24.95 Franklin Co.).
+  Details: https://weekendscout.app/e/columbus/columbus-zoo-wildlights/
+URL:https://weekendscout.app/e/columbus/columbus-zoo-wildlights/
+END:VEVENT
+BEGIN:VEVENT
+UID:columbus-columbus-zoo-wildlights-sat-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261128T220000Z
+DTEND:20261129T030000Z
+SUMMARY:Wildlights
+LOCATION:Columbus Zoo and Aquarium\, 4850 W Powell Rd\, Powell\, OH 43065
+DESCRIPTION:The zoo's holiday lights festival\, included with regular zoo 
+ admission. Parking is $12. $27.95–$34.95 ($18.95–$24.95 Franklin Co.).
+  Details: https://weekendscout.app/e/columbus/columbus-zoo-wildlights/
+URL:https://weekendscout.app/e/columbus/columbus-zoo-wildlights/
+END:VEVENT
+BEGIN:VEVENT
+UID:columbus-columbus-zoo-wildlights-sun-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T220000Z
+DTEND:20261130T020000Z
+SUMMARY:Wildlights
+LOCATION:Columbus Zoo and Aquarium\, 4850 W Powell Rd\, Powell\, OH 43065
+DESCRIPTION:The zoo's holiday lights festival\, included with regular zoo 
+ admission. Parking is $12. $27.95–$34.95 ($18.95–$24.95 Franklin Co.).
+  Details: https://weekendscout.app/e/columbus/columbus-zoo-wildlights/
+URL:https://weekendscout.app/e/columbus/columbus-zoo-wildlights/
+END:VEVENT
+BEGIN:VEVENT
+UID:columbus-wanderlights-downtown-fri-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261127T220000Z
+DTEND:20261128T030000Z
+SUMMARY:Wanderlights
+LOCATION:Columbus Commons\, 160 S High St\, Columbus\, OH 43215
+DESCRIPTION:A free downtown light trail linking Columbus Commons\, Town St
+ reet and the Scioto Mile fountain in Bicentennial Park. It is lit every ev
+ ening through Feb. 14. Free. Details: https://weekendscout.app/e/columbus/
+ wanderlights-downtown/
+URL:https://weekendscout.app/e/columbus/wanderlights-downtown/
+END:VEVENT
+BEGIN:VEVENT
+UID:columbus-wanderlights-downtown-sat-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261128T220000Z
+DTEND:20261129T030000Z
+SUMMARY:Wanderlights
+LOCATION:Columbus Commons\, 160 S High St\, Columbus\, OH 43215
+DESCRIPTION:A free downtown light trail linking Columbus Commons\, Town St
+ reet and the Scioto Mile fountain in Bicentennial Park. It is lit every ev
+ ening through Feb. 14. Free. Details: https://weekendscout.app/e/columbus/
+ wanderlights-downtown/
+URL:https://weekendscout.app/e/columbus/wanderlights-downtown/
+END:VEVENT
+BEGIN:VEVENT
+UID:columbus-wanderlights-downtown-sun-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T220000Z
+DTEND:20261130T030000Z
+SUMMARY:Wanderlights
+LOCATION:Columbus Commons\, 160 S High St\, Columbus\, OH 43215
+DESCRIPTION:A free downtown light trail linking Columbus Commons\, Town St
+ reet and the Scioto Mile fountain in Bicentennial Park. It is lit every ev
+ ening through Feb. 14. Free. Details: https://weekendscout.app/e/columbus/
+ wanderlights-downtown/
+URL:https://weekendscout.app/e/columbus/wanderlights-downtown/
+END:VEVENT
+BEGIN:VEVENT
+UID:columbus-christkindlmarkt-dublin-fri-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261127T170000Z
+DTEND:20261128T020000Z
+SUMMARY:Christkindlmarkt Dublin
+LOCATION:Riverside Crossing Park\, 6625 Riverside Dr\, Dublin\, OH 43017
+DESCRIPTION:A German-style holiday market in Downtown Dublin with German f
+ ood\, glühwein\, gifts and live entertainment. Free. Details: https://wee
+ kendscout.app/e/columbus/christkindlmarkt-dublin/
+URL:https://weekendscout.app/e/columbus/christkindlmarkt-dublin/
+END:VEVENT
+BEGIN:VEVENT
+UID:columbus-christkindlmarkt-dublin-sat-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261128T170000Z
+DTEND:20261129T020000Z
+SUMMARY:Christkindlmarkt Dublin
+LOCATION:Riverside Crossing Park\, 6625 Riverside Dr\, Dublin\, OH 43017
+DESCRIPTION:A German-style holiday market in Downtown Dublin with German f
+ ood\, glühwein\, gifts and live entertainment. Free. Details: https://wee
+ kendscout.app/e/columbus/christkindlmarkt-dublin/
+URL:https://weekendscout.app/e/columbus/christkindlmarkt-dublin/
+END:VEVENT
+BEGIN:VEVENT
+UID:columbus-christkindlmarkt-dublin-sun-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T170000Z
+DTEND:20261130T010000Z
+SUMMARY:Christkindlmarkt Dublin
+LOCATION:Riverside Crossing Park\, 6625 Riverside Dr\, Dublin\, OH 43017
+DESCRIPTION:A German-style holiday market in Downtown Dublin with German f
+ ood\, glühwein\, gifts and live entertainment. Free. Details: https://wee
+ kendscout.app/e/columbus/christkindlmarkt-dublin/
+URL:https://weekendscout.app/e/columbus/christkindlmarkt-dublin/
+END:VEVENT
+BEGIN:VEVENT
+UID:columbus-desi-banks-funny-bone-fri-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261128T000000Z
+DTEND:20261128T020000Z
+SUMMARY:Desi Banks: Your Favorite Cousin Tour
+LOCATION:Columbus Funny Bone\, 145 Easton Town Center\, Columbus\, OH 4321
+ 9
+DESCRIPTION:Comedian and actor Desi Banks plays five shows at the Funny Bo
+ ne at Easton. Prices include fees. $42–$52. Details: https://weekendscou
+ t.app/e/columbus/desi-banks-funny-bone/
+URL:https://weekendscout.app/e/columbus/desi-banks-funny-bone/
+END:VEVENT
+BEGIN:VEVENT
+UID:columbus-desi-banks-funny-bone-fri-1@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261128T024500Z
+DTEND:20261128T044500Z
+SUMMARY:Desi Banks: Your Favorite Cousin Tour
+LOCATION:Columbus Funny Bone\, 145 Easton Town Center\, Columbus\, OH 4321
+ 9
+DESCRIPTION:Comedian and actor Desi Banks plays five shows at the Funny Bo
+ ne at Easton. Prices include fees. $42–$52. Details: https://weekendscou
+ t.app/e/columbus/desi-banks-funny-bone/
+URL:https://weekendscout.app/e/columbus/desi-banks-funny-bone/
+END:VEVENT
+BEGIN:VEVENT
+UID:columbus-desi-banks-funny-bone-sat-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261128T233000Z
+DTEND:20261129T013000Z
+SUMMARY:Desi Banks: Your Favorite Cousin Tour
+LOCATION:Columbus Funny Bone\, 145 Easton Town Center\, Columbus\, OH 4321
+ 9
+DESCRIPTION:Comedian and actor Desi Banks plays five shows at the Funny Bo
+ ne at Easton. Prices include fees. $42–$52. Details: https://weekendscou
+ t.app/e/columbus/desi-banks-funny-bone/
+URL:https://weekendscout.app/e/columbus/desi-banks-funny-bone/
+END:VEVENT
+BEGIN:VEVENT
+UID:columbus-desi-banks-funny-bone-sat-1@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T021500Z
+DTEND:20261129T041500Z
+SUMMARY:Desi Banks: Your Favorite Cousin Tour
+LOCATION:Columbus Funny Bone\, 145 Easton Town Center\, Columbus\, OH 4321
+ 9
+DESCRIPTION:Comedian and actor Desi Banks plays five shows at the Funny Bo
+ ne at Easton. Prices include fees. $42–$52. Details: https://weekendscou
+ t.app/e/columbus/desi-banks-funny-bone/
+URL:https://weekendscout.app/e/columbus/desi-banks-funny-bone/
+END:VEVENT
+BEGIN:VEVENT
+UID:columbus-desi-banks-funny-bone-sun-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T230000Z
+DTEND:20261130T010000Z
+SUMMARY:Desi Banks: Your Favorite Cousin Tour
+LOCATION:Columbus Funny Bone\, 145 Easton Town Center\, Columbus\, OH 4321
+ 9
+DESCRIPTION:Comedian and actor Desi Banks plays five shows at the Funny Bo
+ ne at Easton. Prices include fees. $42–$52. Details: https://weekendscou
+ t.app/e/columbus/desi-banks-funny-bone/
+URL:https://weekendscout.app/e/columbus/desi-banks-funny-bone/
+END:VEVENT
+BEGIN:VEVENT
+UID:columbus-candlelight-michael-jackson-sun-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T233000Z
+DTEND:20261130T003000Z
+SUMMARY:Candlelight: Tribute to Michael Jackson
+LOCATION:Columbus Museum of Art\, 480 E Broad St\, Columbus\, OH 43215
+DESCRIPTION:A one-hour candlelit string performance of Michael Jackson hit
+ s inside the art museum. For ages 8 and up. Check ticket prices. Details: 
+ https://weekendscout.app/e/columbus/candlelight-michael-jackson/
+URL:https://weekendscout.app/e/columbus/candlelight-michael-jackson/
+END:VEVENT
+BEGIN:VEVENT
+UID:columbus-candlelight-beatles-sun-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261130T014500Z
+DTEND:20261130T034500Z
+SUMMARY:Candlelight: Tribute to The Beatles
+LOCATION:Columbus Museum of Art\, 480 E Broad St\, Columbus\, OH 43215
+DESCRIPTION:A later candlelit concert of Beatles songs arranged for string
+ s\, in the same museum space. Check ticket prices. Details: https://weeken
+ dscout.app/e/columbus/candlelight-beatles/
+URL:https://weekendscout.app/e/columbus/candlelight-beatles/
+END:VEVENT
+BEGIN:VEVENT
+UID:columbus-ohio-state-mbb-vs-lipscomb-sun-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Ohio State Men's Basketball vs. Lipscomb
+LOCATION:Value City Arena at the Schottenstein Center\, 555 Borror Dr\, Co
+ lumbus\, OH 43210
+DESCRIPTION:The Buckeyes host Lipscomb in a non-conference game on Sunday.
+  Tip-off time has not been announced yet. Tickets. Details: https://weeken
+ dscout.app/e/columbus/ohio-state-mbb-vs-lipscomb/
+URL:https://weekendscout.app/e/columbus/ohio-state-mbb-vs-lipscomb/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,134 @@
+{
+ "city": "san-jose",
+ "updated": "2026-11-24",
+ "source": "Restaurants and bars from OpenTable listings and landmark pages (ratings, open status and map coordinates); attractions and venue coordinates from Wikipedia, with SJMA prices from sjmusart.org (Nov 2026)",
+ "spots": [
+  {
+   "name": "The Grill on the Alley",
+   "kind": "dinner",
+   "cuisine": "Steakhouse",
+   "area": "Downtown",
+   "lat": 37.33302,
+   "lon": -121.88973
+  },
+  {
+   "name": "Il Fornaio",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "Downtown",
+   "lat": 37.33086,
+   "lon": -121.88782
+  },
+  {
+   "name": "The Pressroom",
+   "kind": "dinner",
+   "cuisine": "Californian",
+   "area": "Downtown",
+   "lat": 37.335,
+   "lon": -121.89394
+  },
+  {
+   "name": "Scott's Seafood",
+   "kind": "dinner",
+   "cuisine": "Seafood",
+   "area": "Downtown",
+   "lat": 37.33286,
+   "lon": -121.88783
+  },
+  {
+   "name": "Mezcal",
+   "kind": "dinner",
+   "cuisine": "Regional Mexican",
+   "area": "Downtown",
+   "lat": 37.33428,
+   "lon": -121.88977
+  },
+  {
+   "name": "The Farmers Union",
+   "kind": "lunch",
+   "cuisine": "American, burgers, beer garden",
+   "area": "Downtown",
+   "lat": 37.33516,
+   "lon": -121.89312
+  },
+  {
+   "name": "Fountain Restaurant",
+   "kind": "lunch",
+   "cuisine": "American brunch",
+   "area": "Downtown",
+   "lat": 37.33302,
+   "lon": -121.8889
+  },
+  {
+   "name": "Alter Ego Cocktail Club",
+   "kind": "drinks",
+   "cuisine": "Cocktail lounge",
+   "area": "Downtown",
+   "lat": 37.33509,
+   "lon": -121.88948
+  },
+  {
+   "name": "Dr. Funk",
+   "kind": "drinks",
+   "cuisine": "Cocktail bar",
+   "area": "San Pedro Square",
+   "lat": 37.33561,
+   "lon": -121.89347
+  },
+  {
+   "name": "San José Museum of Art",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 37.33361,
+   "lon": -121.88917,
+   "price": "$20 adults; free 17 and under",
+   "blurb": "Art museum on South Market Street at the edge of Plaza de César Chávez.",
+   "blurbEs": "Museo de arte en South Market Street, al borde de la Plaza de César Chávez."
+  },
+  {
+   "name": "The Tech Interactive",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 37.33144,
+   "lon": -121.89073,
+   "price": "Paid admission",
+   "blurb": "Hands-on science and technology center facing Plaza de César Chávez.",
+   "blurbEs": "Centro interactivo de ciencia y tecnología frente a la Plaza de César Chávez."
+  },
+  {
+   "name": "Children's Discovery Museum of San Jose",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 37.32668,
+   "lon": -121.89177,
+   "price": "Paid admission",
+   "blurb": "Hands-on children's museum on Woz Way, at the south end of downtown.",
+   "blurbEs": "Museo interactivo para niños en Woz Way, en el extremo sur del centro."
+  },
+  {
+   "name": "Plaza de César Chávez",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 37.33194,
+   "lon": -121.89,
+   "price": "Free",
+   "blurb": "Downtown's central park plaza, ringed by museums, the cathedral and hotels.",
+   "blurbEs": "La plaza central del centro, rodeada de museos, la catedral y hoteles."
+  },
+  {
+   "name": "Cathedral Basilica of St. Joseph",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 37.33404,
+   "lon": -121.89082,
+   "price": "Free",
+   "blurb": "Historic cathedral on Market Street, a short walk from the plaza.",
+   "blurbEs": "Catedral histórica en Market Street, a pocos pasos de la plaza."
+  }
+ ]
+}

@@ -1,0 +1,261 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Cincinnati
+X-WR-CALDESC:Hand-checked weekend picks in Cincinnati, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:cincinnati-light-up-the-square-fri-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261127T230000Z
+DTEND:20261128T030000Z
+SUMMARY:Duke Energy's Light Up the Square
+LOCATION:Fountain Square\, 520 Vine St\, Cincinnati\, OH 45202
+DESCRIPTION:Downtown's Black Friday tree lighting with a live band\, Santa
+  rappelling from the Huntington building at 7 p.m.\, and the tree lighting
+  with fireworks at about 7:20 p.m. Free. Details: https://weekendscout.app
+ /e/cincinnati/light-up-the-square/
+URL:https://weekendscout.app/e/cincinnati/light-up-the-square/
+END:VEVENT
+BEGIN:VEVENT
+UID:cincinnati-pnc-festival-of-lights-fri-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261127T210000Z
+DTEND:20261128T030000Z
+SUMMARY:PNC Festival of Lights
+LOCATION:Cincinnati Zoo & Botanical Garden\, 3400 Vine St\, Cincinnati\, O
+ H 45220
+DESCRIPTION:The zoo's long-running holiday light festival\; the lights and
+  holiday activities start at 4 p.m. and are included with zoo admission. I
+ ncluded with Zoo admission. Details: https://weekendscout.app/e/cincinnati
+ /pnc-festival-of-lights/
+URL:https://weekendscout.app/e/cincinnati/pnc-festival-of-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:cincinnati-pnc-festival-of-lights-sat-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261128T210000Z
+DTEND:20261129T030000Z
+SUMMARY:PNC Festival of Lights
+LOCATION:Cincinnati Zoo & Botanical Garden\, 3400 Vine St\, Cincinnati\, O
+ H 45220
+DESCRIPTION:The zoo's long-running holiday light festival\; the lights and
+  holiday activities start at 4 p.m. and are included with zoo admission. I
+ ncluded with Zoo admission. Details: https://weekendscout.app/e/cincinnati
+ /pnc-festival-of-lights/
+URL:https://weekendscout.app/e/cincinnati/pnc-festival-of-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:cincinnati-pnc-festival-of-lights-sun-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T210000Z
+DTEND:20261130T020000Z
+SUMMARY:PNC Festival of Lights
+LOCATION:Cincinnati Zoo & Botanical Garden\, 3400 Vine St\, Cincinnati\, O
+ H 45220
+DESCRIPTION:The zoo's long-running holiday light festival\; the lights and
+  holiday activities start at 4 p.m. and are included with zoo admission. I
+ ncluded with Zoo admission. Details: https://weekendscout.app/e/cincinnati
+ /pnc-festival-of-lights/
+URL:https://weekendscout.app/e/cincinnati/pnc-festival-of-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:cincinnati-bengals-vs-saints-sun-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T180000Z
+DTEND:20261129T200000Z
+SUMMARY:Bengals vs. New Orleans Saints
+LOCATION:Paycor Stadium\, 1 Paycor Stadium\, Cincinnati\, OH 45202
+DESCRIPTION:Week 12 of the NFL season: the Bengals host the Saints on Sund
+ ay at 1 p.m. on the riverfront. Tickets. Details: https://weekendscout.app
+ /e/cincinnati/bengals-vs-saints/
+URL:https://weekendscout.app/e/cincinnati/bengals-vs-saints/
+END:VEVENT
+BEGIN:VEVENT
+UID:cincinnati-cyclones-vs-kalamazoo-fri-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261127T183000Z
+DTEND:20261127T203000Z
+SUMMARY:Cincinnati Cyclones vs. Kalamazoo Wings
+LOCATION:Heritage Bank Center\, 100 Broadway St\, Cincinnati\, OH 45202
+DESCRIPTION:A Black Friday afternoon ECHL hockey game downtown\, an easy o
+ uting with kids. Tickets. Details: https://weekendscout.app/e/cincinnati/c
+ yclones-vs-kalamazoo/
+URL:https://weekendscout.app/e/cincinnati/cyclones-vs-kalamazoo/
+END:VEVENT
+BEGIN:VEVENT
+UID:cincinnati-pops-muppet-christmas-carol-sat-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T003000Z
+DTEND:20261129T023000Z
+SUMMARY:Disney's The Muppet Christmas Carol in Concert
+LOCATION:Music Hall\, 1241 Elm St\, Cincinnati\, OH 45202
+DESCRIPTION:The Cincinnati Pops plays the full score of The Muppet Christm
+ as Carol live while the film is shown\, conducted by Duo Shen. Tickets. De
+ tails: https://weekendscout.app/e/cincinnati/pops-muppet-christmas-carol/
+URL:https://weekendscout.app/e/cincinnati/pops-muppet-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:cincinnati-pops-muppet-christmas-carol-sun-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T190000Z
+DTEND:20261129T210000Z
+SUMMARY:Disney's The Muppet Christmas Carol in Concert
+LOCATION:Music Hall\, 1241 Elm St\, Cincinnati\, OH 45202
+DESCRIPTION:The Cincinnati Pops plays the full score of The Muppet Christm
+ as Carol live while the film is shown\, conducted by Duo Shen. Tickets. De
+ tails: https://weekendscout.app/e/cincinnati/pops-muppet-christmas-carol/
+URL:https://weekendscout.app/e/cincinnati/pops-muppet-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:cincinnati-playhouse-christmas-carol-fri-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:A Christmas Carol
+LOCATION:Cincinnati Playhouse in the Park\, 962 Mt Adams Cir\, Cincinnati\
+ , OH 45202
+DESCRIPTION:The Playhouse's annual staging of the Dickens story\, recommen
+ ded for ages 5 and up. Saturday's noon show is a sensory-friendly relaxed 
+ performance\; check the box office for other weekend times. Tickets. Detai
+ ls: https://weekendscout.app/e/cincinnati/playhouse-christmas-carol/
+URL:https://weekendscout.app/e/cincinnati/playhouse-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:cincinnati-playhouse-christmas-carol-sat-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261128T170000Z
+DTEND:20261128T190000Z
+SUMMARY:A Christmas Carol
+LOCATION:Cincinnati Playhouse in the Park\, 962 Mt Adams Cir\, Cincinnati\
+ , OH 45202
+DESCRIPTION:The Playhouse's annual staging of the Dickens story\, recommen
+ ded for ages 5 and up. Saturday's noon show is a sensory-friendly relaxed 
+ performance\; check the box office for other weekend times. Tickets. Detai
+ ls: https://weekendscout.app/e/cincinnati/playhouse-christmas-carol/
+URL:https://weekendscout.app/e/cincinnati/playhouse-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:cincinnati-playhouse-christmas-carol-sun-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:A Christmas Carol
+LOCATION:Cincinnati Playhouse in the Park\, 962 Mt Adams Cir\, Cincinnati\
+ , OH 45202
+DESCRIPTION:The Playhouse's annual staging of the Dickens story\, recommen
+ ded for ages 5 and up. Saturday's noon show is a sensory-friendly relaxed 
+ performance\; check the box office for other weekend times. Tickets. Detai
+ ls: https://weekendscout.app/e/cincinnati/playhouse-christmas-carol/
+URL:https://weekendscout.app/e/cincinnati/playhouse-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:cincinnati-o-christmas-tea-fri-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261127T200000Z
+DTEND:20261127T220000Z
+SUMMARY:O Christmas Tea: A British Comedy
+LOCATION:Aronoff Center – Jarson-Kaplan Theater\, 650 Walnut St\, Cincin
+ nati\, OH 45202
+DESCRIPTION:London duo James & Jamesy's 90-minute holiday show of physical
+  comedy\, wordplay and audience play. Ages 4 and up. From $44.50. Details:
+  https://weekendscout.app/e/cincinnati/o-christmas-tea/
+URL:https://weekendscout.app/e/cincinnati/o-christmas-tea/
+END:VEVENT
+BEGIN:VEVENT
+UID:cincinnati-o-christmas-tea-fri-1@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261128T003000Z
+DTEND:20261128T023000Z
+SUMMARY:O Christmas Tea: A British Comedy
+LOCATION:Aronoff Center – Jarson-Kaplan Theater\, 650 Walnut St\, Cincin
+ nati\, OH 45202
+DESCRIPTION:London duo James & Jamesy's 90-minute holiday show of physical
+  comedy\, wordplay and audience play. Ages 4 and up. From $44.50. Details:
+  https://weekendscout.app/e/cincinnati/o-christmas-tea/
+URL:https://weekendscout.app/e/cincinnati/o-christmas-tea/
+END:VEVENT
+BEGIN:VEVENT
+UID:cincinnati-o-christmas-tea-sat-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261128T200000Z
+DTEND:20261128T220000Z
+SUMMARY:O Christmas Tea: A British Comedy
+LOCATION:Aronoff Center – Jarson-Kaplan Theater\, 650 Walnut St\, Cincin
+ nati\, OH 45202
+DESCRIPTION:London duo James & Jamesy's 90-minute holiday show of physical
+  comedy\, wordplay and audience play. Ages 4 and up. From $44.50. Details:
+  https://weekendscout.app/e/cincinnati/o-christmas-tea/
+URL:https://weekendscout.app/e/cincinnati/o-christmas-tea/
+END:VEVENT
+BEGIN:VEVENT
+UID:cincinnati-o-christmas-tea-sat-1@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T003000Z
+DTEND:20261129T023000Z
+SUMMARY:O Christmas Tea: A British Comedy
+LOCATION:Aronoff Center – Jarson-Kaplan Theater\, 650 Walnut St\, Cincin
+ nati\, OH 45202
+DESCRIPTION:London duo James & Jamesy's 90-minute holiday show of physical
+  comedy\, wordplay and audience play. Ages 4 and up. From $44.50. Details:
+  https://weekendscout.app/e/cincinnati/o-christmas-tea/
+URL:https://weekendscout.app/e/cincinnati/o-christmas-tea/
+END:VEVENT
+BEGIN:VEVENT
+UID:cincinnati-o-christmas-tea-sun-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T200000Z
+DTEND:20261129T220000Z
+SUMMARY:O Christmas Tea: A British Comedy
+LOCATION:Aronoff Center – Jarson-Kaplan Theater\, 650 Walnut St\, Cincin
+ nati\, OH 45202
+DESCRIPTION:London duo James & Jamesy's 90-minute holiday show of physical
+  comedy\, wordplay and audience play. Ages 4 and up. From $44.50. Details:
+  https://weekendscout.app/e/cincinnati/o-christmas-tea/
+URL:https://weekendscout.app/e/cincinnati/o-christmas-tea/
+END:VEVENT
+BEGIN:VEVENT
+UID:cincinnati-cincinnati-christkindlmarkt-fri-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261127T200000Z
+DTEND:20261128T020000Z
+SUMMARY:Cincinnati Christkindlmarkt
+LOCATION:Smale Riverfront Park\, 166 W Mehring Way\, Cincinnati\, OH 45202
+DESCRIPTION:A German-style holiday market on the riverfront by Carol Ann's
+  Carousel\, with food\, drinks\, vendors and holiday lights. Open 3–9 p.
+ m. Friday and Saturday and 3–7 p.m. Sunday. Free. Details: https://weeke
+ ndscout.app/e/cincinnati/cincinnati-christkindlmarkt/
+URL:https://weekendscout.app/e/cincinnati/cincinnati-christkindlmarkt/
+END:VEVENT
+BEGIN:VEVENT
+UID:cincinnati-cincinnati-christkindlmarkt-sat-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261128T200000Z
+DTEND:20261129T020000Z
+SUMMARY:Cincinnati Christkindlmarkt
+LOCATION:Smale Riverfront Park\, 166 W Mehring Way\, Cincinnati\, OH 45202
+DESCRIPTION:A German-style holiday market on the riverfront by Carol Ann's
+  Carousel\, with food\, drinks\, vendors and holiday lights. Open 3–9 p.
+ m. Friday and Saturday and 3–7 p.m. Sunday. Free. Details: https://weeke
+ ndscout.app/e/cincinnati/cincinnati-christkindlmarkt/
+URL:https://weekendscout.app/e/cincinnati/cincinnati-christkindlmarkt/
+END:VEVENT
+BEGIN:VEVENT
+UID:cincinnati-cincinnati-christkindlmarkt-sun-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T200000Z
+DTEND:20261130T000000Z
+SUMMARY:Cincinnati Christkindlmarkt
+LOCATION:Smale Riverfront Park\, 166 W Mehring Way\, Cincinnati\, OH 45202
+DESCRIPTION:A German-style holiday market on the riverfront by Carol Ann's
+  Carousel\, with food\, drinks\, vendors and holiday lights. Open 3–9 p.
+ m. Friday and Saturday and 3–7 p.m. Sunday. Free. Details: https://weeke
+ ndscout.app/e/cincinnati/cincinnati-christkindlmarkt/
+URL:https://weekendscout.app/e/cincinnati/cincinnati-christkindlmarkt/
+END:VEVENT
+END:VCALENDAR

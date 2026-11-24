@@ -1,0 +1,134 @@
+{
+ "city": "sacramento",
+ "updated": "2026-11-24",
+ "source": "Dinner, lunch and drink picks from OpenTable's Sacramento date-night, kid-friendly, cocktail-bar and wine-bar lists, with coordinates from each OpenTable restaurant page; attractions from Wikipedia and California State Parks (parks.ca.gov) (Nov 2026)",
+ "spots": [
+  {
+   "name": "Ella Dining Room and Bar",
+   "kind": "dinner",
+   "cuisine": "Contemporary American",
+   "area": "Downtown",
+   "lat": 38.57888,
+   "lon": -121.49141
+  },
+  {
+   "name": "Frank Fat's",
+   "kind": "dinner",
+   "cuisine": "Chinese",
+   "area": "Downtown",
+   "lat": 38.57841,
+   "lon": -121.49685
+  },
+  {
+   "name": "Camden Spit & Larder",
+   "kind": "dinner",
+   "cuisine": "British-Californian",
+   "area": "Downtown",
+   "lat": 38.57923,
+   "lon": -121.501
+  },
+  {
+   "name": "Grange Bar & Restaurant",
+   "kind": "dinner",
+   "cuisine": "Californian",
+   "area": "Downtown",
+   "lat": 38.58015,
+   "lon": -121.49388
+  },
+  {
+   "name": "Butcher & Barrel",
+   "kind": "dinner",
+   "cuisine": "Steakhouse",
+   "area": "Downtown",
+   "lat": 38.58013,
+   "lon": -121.497
+  },
+  {
+   "name": "Joe's Crab Shack",
+   "kind": "lunch",
+   "cuisine": "Seafood",
+   "area": "Old Sacramento",
+   "lat": 38.58112,
+   "lon": -121.50707
+  },
+  {
+   "name": "Capitol Garage",
+   "kind": "lunch",
+   "cuisine": "Comfort food, brunch",
+   "area": "Downtown",
+   "lat": 38.57693,
+   "lon": -121.48679
+  },
+  {
+   "name": "The 7th Street Standard",
+   "kind": "drinks",
+   "cuisine": "Cocktail bar",
+   "area": "Downtown",
+   "lat": 38.57969,
+   "lon": -121.49837
+  },
+  {
+   "name": "Downtown & Vine",
+   "kind": "drinks",
+   "cuisine": "Wine bar",
+   "area": "Downtown",
+   "lat": 38.57813,
+   "lon": -121.49112
+  },
+  {
+   "name": "Old Sacramento State Historic Park",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Old Sacramento",
+   "lat": 38.58278,
+   "lon": -121.50333,
+   "price": "Free",
+   "blurb": "Gold Rush-era riverfront district with wooden sidewalks, historic buildings, shops and the riverfront.",
+   "blurbEs": "Distrito ribereño de la época de la Fiebre del Oro, con aceras de madera, edificios históricos, tiendas y el malecón."
+  },
+  {
+   "name": "California State Railroad Museum",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Old Sacramento",
+   "lat": 38.58472,
+   "lon": -121.50444,
+   "price": "$12 adults",
+   "blurb": "Restored locomotives and rail cars in a big hall at the north end of Old Sacramento. Open 10am–5pm; $6 youth, free for 5 and under.",
+   "blurbEs": "Locomotoras y vagones restaurados en una gran sala en el extremo norte de Old Sacramento. Abierto de 10am a 5pm; $6 jóvenes, gratis para menores de 5 años."
+  },
+  {
+   "name": "Crocker Art Museum",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 38.57694,
+   "lon": -121.505,
+   "price": "$15 adults",
+   "blurb": "Sacramento's major art museum, a few blocks south of Old Sacramento. $8 youth, free for 5 and under.",
+   "blurbEs": "El principal museo de arte de Sacramento, a pocas cuadras al sur de Old Sacramento. $8 jóvenes, gratis para menores de 5 años."
+  },
+  {
+   "name": "Capitol Park & State Capitol",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 38.57639,
+   "lon": -121.4925,
+   "price": "Free",
+   "blurb": "Ten blocks of gardens and memorials around the California State Capitol, which houses the State Capitol Museum.",
+   "blurbEs": "Diez cuadras de jardines y monumentos alrededor del Capitolio de California, que alberga el State Capitol Museum."
+  },
+  {
+   "name": "Sutter's Fort State Historic Park",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Midtown",
+   "lat": 38.5723,
+   "lon": -121.4712,
+   "price": "$5 adults",
+   "blurb": "Reconstructed 1840s adobe fort that was a key stop for early overland settlers. Open 10am–5pm; $3 youth, free for 5 and under.",
+   "blurbEs": "Fuerte de adobe de la década de 1840 reconstruido, parada clave de los primeros colonos que llegaban por tierra. Abierto de 10am a 5pm; $3 jóvenes, gratis para menores de 5 años."
+  }
+ ]
+}

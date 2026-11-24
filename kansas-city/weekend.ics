@@ -1,0 +1,318 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Kansas City
+X-WR-CALDESC:Hand-checked weekend picks in Kansas City, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:kansas-city-mayors-christmas-tree-lighting-fri-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261128T000000Z
+DTEND:20261128T020000Z
+SUMMARY:Mayor's Christmas Tree Lighting Ceremony
+LOCATION:Crown Center Square\, 2425 Grand Blvd\, Kansas City\, MO 64108
+DESCRIPTION:Kansas City lights its 100-foot Mayor's Christmas Tree on Crow
+ n Center Square\, with a youth Chorus KC performance\, remarks from Mayor 
+ Lucas and a fireworks finale. Free. Details: https://weekendscout.app/e/ka
+ nsas-city/mayors-christmas-tree-lighting/
+URL:https://weekendscout.app/e/kansas-city/mayors-christmas-tree-lighting/
+END:VEVENT
+BEGIN:VEVENT
+UID:kansas-city-kc-ballet-nutcracker-sat-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261128T200000Z
+DTEND:20261128T220000Z
+SUMMARY:The Nutcracker
+LOCATION:Muriel Kauffman Theatre\, Kauffman Center for the Performing Arts
+ \, 1601 Broadway Blvd\, Kansas City\, MO 64108
+DESCRIPTION:Kansas City Ballet opens its holiday Nutcracker on Saturday\, 
+ running through Christmas Eve. Adult and child tickets both start at $39. 
+ From $39. Details: https://weekendscout.app/e/kansas-city/kc-ballet-nutcra
+ cker/
+URL:https://weekendscout.app/e/kansas-city/kc-ballet-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:kansas-city-kc-ballet-nutcracker-sat-1@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T013000Z
+DTEND:20261129T033000Z
+SUMMARY:The Nutcracker
+LOCATION:Muriel Kauffman Theatre\, Kauffman Center for the Performing Arts
+ \, 1601 Broadway Blvd\, Kansas City\, MO 64108
+DESCRIPTION:Kansas City Ballet opens its holiday Nutcracker on Saturday\, 
+ running through Christmas Eve. Adult and child tickets both start at $39. 
+ From $39. Details: https://weekendscout.app/e/kansas-city/kc-ballet-nutcra
+ cker/
+URL:https://weekendscout.app/e/kansas-city/kc-ballet-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:kansas-city-kc-ballet-nutcracker-sun-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T190000Z
+DTEND:20261129T210000Z
+SUMMARY:The Nutcracker
+LOCATION:Muriel Kauffman Theatre\, Kauffman Center for the Performing Arts
+ \, 1601 Broadway Blvd\, Kansas City\, MO 64108
+DESCRIPTION:Kansas City Ballet opens its holiday Nutcracker on Saturday\, 
+ running through Christmas Eve. Adult and child tickets both start at $39. 
+ From $39. Details: https://weekendscout.app/e/kansas-city/kc-ballet-nutcra
+ cker/
+URL:https://weekendscout.app/e/kansas-city/kc-ballet-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:kansas-city-kc-ballet-nutcracker-sun-1@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T233000Z
+DTEND:20261130T013000Z
+SUMMARY:The Nutcracker
+LOCATION:Muriel Kauffman Theatre\, Kauffman Center for the Performing Arts
+ \, 1601 Broadway Blvd\, Kansas City\, MO 64108
+DESCRIPTION:Kansas City Ballet opens its holiday Nutcracker on Saturday\, 
+ running through Christmas Eve. Adult and child tickets both start at $39. 
+ From $39. Details: https://weekendscout.app/e/kansas-city/kc-ballet-nutcra
+ cker/
+URL:https://weekendscout.app/e/kansas-city/kc-ballet-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:kansas-city-kc-symphony-muppet-christmas-carol-fri-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261128T010000Z
+DTEND:20261128T030000Z
+SUMMARY:The Muppet Christmas Carol in Concert
+LOCATION:Kauffman Center for the Performing Arts\, 1601 Broadway Blvd\, Ka
+ nsas City\, MO 64108
+DESCRIPTION:The Kansas City Symphony plays the score live while The Muppet
+  Christmas Carol screens overhead\, conducted by Jason Seber. Tickets. Det
+ ails: https://weekendscout.app/e/kansas-city/kc-symphony-muppet-christmas-
+ carol/
+URL:https://weekendscout.app/e/kansas-city/kc-symphony-muppet-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:kansas-city-kc-symphony-muppet-christmas-carol-sat-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261128T190000Z
+DTEND:20261128T210000Z
+SUMMARY:The Muppet Christmas Carol in Concert
+LOCATION:Kauffman Center for the Performing Arts\, 1601 Broadway Blvd\, Ka
+ nsas City\, MO 64108
+DESCRIPTION:The Kansas City Symphony plays the score live while The Muppet
+  Christmas Carol screens overhead\, conducted by Jason Seber. Tickets. Det
+ ails: https://weekendscout.app/e/kansas-city/kc-symphony-muppet-christmas-
+ carol/
+URL:https://weekendscout.app/e/kansas-city/kc-symphony-muppet-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:kansas-city-kc-symphony-muppet-christmas-carol-sat-1@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:The Muppet Christmas Carol in Concert
+LOCATION:Kauffman Center for the Performing Arts\, 1601 Broadway Blvd\, Ka
+ nsas City\, MO 64108
+DESCRIPTION:The Kansas City Symphony plays the score live while The Muppet
+  Christmas Carol screens overhead\, conducted by Jason Seber. Tickets. Det
+ ails: https://weekendscout.app/e/kansas-city/kc-symphony-muppet-christmas-
+ carol/
+URL:https://weekendscout.app/e/kansas-city/kc-symphony-muppet-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:kansas-city-kc-symphony-muppet-christmas-carol-sun-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T200000Z
+DTEND:20261129T220000Z
+SUMMARY:The Muppet Christmas Carol in Concert
+LOCATION:Kauffman Center for the Performing Arts\, 1601 Broadway Blvd\, Ka
+ nsas City\, MO 64108
+DESCRIPTION:The Kansas City Symphony plays the score live while The Muppet
+  Christmas Carol screens overhead\, conducted by Jason Seber. Tickets. Det
+ ails: https://weekendscout.app/e/kansas-city/kc-symphony-muppet-christmas-
+ carol/
+URL:https://weekendscout.app/e/kansas-city/kc-symphony-muppet-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:kansas-city-kc-rep-christmas-carol-sat-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261128T200000Z
+DTEND:20261128T220000Z
+SUMMARY:A Christmas Carol
+LOCATION:Spencer Theatre (UMKC campus)\, 4949 Cherry St\, Kansas City\, MO
+  64110
+DESCRIPTION:Kansas City Rep's annual staging of the Dickens story\, recomm
+ ended for all ages and running about 1 hour 40 minutes with intermission. 
+ The show uses fog and strobe lights. Tickets. Details: https://weekendscou
+ t.app/e/kansas-city/kc-rep-christmas-carol/
+URL:https://weekendscout.app/e/kansas-city/kc-rep-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:kansas-city-godfrey-funny-bone-fri-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261128T010000Z
+DTEND:20261128T030000Z
+SUMMARY:Godfrey
+LOCATION:Funny Bone Comedy Club\, 7260 NW 87th St\, Kansas City\, MO 64153
+DESCRIPTION:Stand-up from comedian and actor Godfrey\, with two shows each
+  on Friday and Saturday at the Northland club. $32–$65. Details: https:/
+ /weekendscout.app/e/kansas-city/godfrey-funny-bone/
+URL:https://weekendscout.app/e/kansas-city/godfrey-funny-bone/
+END:VEVENT
+BEGIN:VEVENT
+UID:kansas-city-godfrey-funny-bone-fri-1@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261128T034500Z
+DTEND:20261128T054500Z
+SUMMARY:Godfrey
+LOCATION:Funny Bone Comedy Club\, 7260 NW 87th St\, Kansas City\, MO 64153
+DESCRIPTION:Stand-up from comedian and actor Godfrey\, with two shows each
+  on Friday and Saturday at the Northland club. $32–$65. Details: https:/
+ /weekendscout.app/e/kansas-city/godfrey-funny-bone/
+URL:https://weekendscout.app/e/kansas-city/godfrey-funny-bone/
+END:VEVENT
+BEGIN:VEVENT
+UID:kansas-city-godfrey-funny-bone-sat-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T003000Z
+DTEND:20261129T023000Z
+SUMMARY:Godfrey
+LOCATION:Funny Bone Comedy Club\, 7260 NW 87th St\, Kansas City\, MO 64153
+DESCRIPTION:Stand-up from comedian and actor Godfrey\, with two shows each
+  on Friday and Saturday at the Northland club. $32–$65. Details: https:/
+ /weekendscout.app/e/kansas-city/godfrey-funny-bone/
+URL:https://weekendscout.app/e/kansas-city/godfrey-funny-bone/
+END:VEVENT
+BEGIN:VEVENT
+UID:kansas-city-godfrey-funny-bone-sat-1@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T031500Z
+DTEND:20261129T051500Z
+SUMMARY:Godfrey
+LOCATION:Funny Bone Comedy Club\, 7260 NW 87th St\, Kansas City\, MO 64153
+DESCRIPTION:Stand-up from comedian and actor Godfrey\, with two shows each
+  on Friday and Saturday at the Northland club. $32–$65. Details: https:/
+ /weekendscout.app/e/kansas-city/godfrey-funny-bone/
+URL:https://weekendscout.app/e/kansas-city/godfrey-funny-bone/
+END:VEVENT
+BEGIN:VEVENT
+UID:kansas-city-mavericks-vs-wichita-thunder-fri-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261128T010500Z
+DTEND:20261128T030500Z
+SUMMARY:KC Mavericks vs. Wichita Thunder
+LOCATION:Cable Dahmer Arena\, 19100 E Valley View Pkwy\, Independence\, MO
+  64055
+DESCRIPTION:ECHL hockey on Black Friday Night\, with Black Friday-themed p
+ romotions as the Mavericks host Wichita. Tickets. Details: https://weekend
+ scout.app/e/kansas-city/mavericks-vs-wichita-thunder/
+URL:https://weekendscout.app/e/kansas-city/mavericks-vs-wichita-thunder/
+END:VEVENT
+BEGIN:VEVENT
+UID:kansas-city-light-up-the-pitch-fri-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261127T220000Z
+DTEND:20261128T040000Z
+SUMMARY:Light Up The Pitch
+LOCATION:CPKC Stadium\, Berkley Riverfront Park\, Kansas City\, MO
+DESCRIPTION:The KC Current's first walk-through holiday light show opens o
+ n the stadium grounds\, with a 26-foot tree\, a s'mores station and a post
+  office where kids can write to Current players. Timed entry\, about 60 mi
+ nutes. Tickets. Details: https://weekendscout.app/e/kansas-city/light-up-t
+ he-pitch/
+URL:https://weekendscout.app/e/kansas-city/light-up-the-pitch/
+END:VEVENT
+BEGIN:VEVENT
+UID:kansas-city-light-up-the-pitch-sat-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261128T220000Z
+DTEND:20261129T040000Z
+SUMMARY:Light Up The Pitch
+LOCATION:CPKC Stadium\, Berkley Riverfront Park\, Kansas City\, MO
+DESCRIPTION:The KC Current's first walk-through holiday light show opens o
+ n the stadium grounds\, with a 26-foot tree\, a s'mores station and a post
+  office where kids can write to Current players. Timed entry\, about 60 mi
+ nutes. Tickets. Details: https://weekendscout.app/e/kansas-city/light-up-t
+ he-pitch/
+URL:https://weekendscout.app/e/kansas-city/light-up-the-pitch/
+END:VEVENT
+BEGIN:VEVENT
+UID:kansas-city-light-up-the-pitch-sun-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T220000Z
+DTEND:20261130T040000Z
+SUMMARY:Light Up The Pitch
+LOCATION:CPKC Stadium\, Berkley Riverfront Park\, Kansas City\, MO
+DESCRIPTION:The KC Current's first walk-through holiday light show opens o
+ n the stadium grounds\, with a 26-foot tree\, a s'mores station and a post
+  office where kids can write to Current players. Timed entry\, about 60 mi
+ nutes. Tickets. Details: https://weekendscout.app/e/kansas-city/light-up-t
+ he-pitch/
+URL:https://weekendscout.app/e/kansas-city/light-up-the-pitch/
+END:VEVENT
+BEGIN:VEVENT
+UID:kansas-city-crown-center-ice-terrace-fri-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261127T160000Z
+DTEND:20261128T050000Z
+SUMMARY:Crown Center Ice Terrace
+LOCATION:Crown Center Ice Terrace\, 2425 Grand Blvd\, Kansas City\, MO 641
+ 08
+DESCRIPTION:Outdoor skating beside the Mayor's Christmas Tree\, open late 
+ on Friday and Saturday. Kids under 4 skate free with a paid admission. $10
+  (skate rental $6). Details: https://weekendscout.app/e/kansas-city/crown-
+ center-ice-terrace/
+URL:https://weekendscout.app/e/kansas-city/crown-center-ice-terrace/
+END:VEVENT
+BEGIN:VEVENT
+UID:kansas-city-crown-center-ice-terrace-sat-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261128T160000Z
+DTEND:20261129T050000Z
+SUMMARY:Crown Center Ice Terrace
+LOCATION:Crown Center Ice Terrace\, 2425 Grand Blvd\, Kansas City\, MO 641
+ 08
+DESCRIPTION:Outdoor skating beside the Mayor's Christmas Tree\, open late 
+ on Friday and Saturday. Kids under 4 skate free with a paid admission. $10
+  (skate rental $6). Details: https://weekendscout.app/e/kansas-city/crown-
+ center-ice-terrace/
+URL:https://weekendscout.app/e/kansas-city/crown-center-ice-terrace/
+END:VEVENT
+BEGIN:VEVENT
+UID:kansas-city-crown-center-ice-terrace-sun-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T160000Z
+DTEND:20261130T030000Z
+SUMMARY:Crown Center Ice Terrace
+LOCATION:Crown Center Ice Terrace\, 2425 Grand Blvd\, Kansas City\, MO 641
+ 08
+DESCRIPTION:Outdoor skating beside the Mayor's Christmas Tree\, open late 
+ on Friday and Saturday. Kids under 4 skate free with a paid admission. $10
+  (skate rental $6). Details: https://weekendscout.app/e/kansas-city/crown-
+ center-ice-terrace/
+URL:https://weekendscout.app/e/kansas-city/crown-center-ice-terrace/
+END:VEVENT
+BEGIN:VEVENT
+UID:kansas-city-merry-market-city-market-sat-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261128T160000Z
+DTEND:20261128T220000Z
+SUMMARY:Merry Market
+LOCATION:City Market\, 20 E 5th St\, Kansas City\, MO 64106
+DESCRIPTION:City Market's open-air holiday market returns for weekends thr
+ ough Dec. 20\, with local makers and vendors. Free admission. Free. Detail
+ s: https://weekendscout.app/e/kansas-city/merry-market-city-market/
+URL:https://weekendscout.app/e/kansas-city/merry-market-city-market/
+END:VEVENT
+BEGIN:VEVENT
+UID:kansas-city-merry-market-city-market-sun-0@weekendscout.app
+DTSTAMP:20261124T131837Z
+DTSTART:20261129T160000Z
+DTEND:20261129T220000Z
+SUMMARY:Merry Market
+LOCATION:City Market\, 20 E 5th St\, Kansas City\, MO 64106
+DESCRIPTION:City Market's open-air holiday market returns for weekends thr
+ ough Dec. 20\, with local makers and vendors. Free admission. Free. Detail
+ s: https://weekendscout.app/e/kansas-city/merry-market-city-market/
+URL:https://weekendscout.app/e/kansas-city/merry-market-city-market/
+END:VEVENT
+END:VCALENDAR

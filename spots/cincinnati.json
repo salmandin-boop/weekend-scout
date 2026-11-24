@@ -1,0 +1,123 @@
+{
+ "city": "cincinnati",
+ "updated": "2026-11-24",
+ "source": "Restaurants and bars chosen from OpenTable listings (ratings, open status and coordinates from each OpenTable page, including its Restaurants near Aronoff Center list); attractions and venue coordinates from Wikipedia, with Smale Riverfront Park from aroundus.com and Findlay Market hours from findlaymarket.org (Nov 2026)",
+ "spots": [
+  {
+   "name": "Boca",
+   "kind": "dinner",
+   "cuisine": "Contemporary European",
+   "area": "Downtown",
+   "lat": 39.10297,
+   "lon": -84.5112
+  },
+  {
+   "name": "Sotto",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "Downtown",
+   "lat": 39.10299,
+   "lon": -84.5111
+  },
+  {
+   "name": "Nada",
+   "kind": "dinner",
+   "cuisine": "Contemporary Mexican",
+   "area": "Downtown",
+   "lat": 39.10293,
+   "lon": -84.51141
+  },
+  {
+   "name": "Jeff Ruby's Steakhouse",
+   "kind": "dinner",
+   "cuisine": "Steakhouse",
+   "area": "Downtown",
+   "lat": 39.10144,
+   "lon": -84.51386
+  },
+  {
+   "name": "Mita's",
+   "kind": "dinner",
+   "cuisine": "Latin American & Spanish small plates",
+   "area": "Downtown",
+   "lat": 39.10112,
+   "lon": -84.51486
+  },
+  {
+   "name": "Taste of Belgium at The Banks",
+   "kind": "lunch",
+   "cuisine": "Belgian waffles & brunch",
+   "area": "The Banks",
+   "lat": 39.09739,
+   "lon": -84.51247
+  },
+  {
+   "name": "Prim on 5th",
+   "kind": "drinks",
+   "cuisine": "Cocktail lounge",
+   "area": "Downtown",
+   "lat": 39.10122,
+   "lon": -84.51388
+  },
+  {
+   "name": "Nicholson's Fine Food & Whisk(e)y",
+   "kind": "drinks",
+   "cuisine": "Scottish tavern & whiskey bar",
+   "area": "Downtown",
+   "lat": 39.10335,
+   "lon": -84.51226
+  },
+  {
+   "name": "Ghost Baby",
+   "kind": "drinks",
+   "cuisine": "Underground cocktail lounge",
+   "area": "Over-the-Rhine",
+   "lat": 39.10982,
+   "lon": -84.51585
+  },
+  {
+   "name": "Fountain Square",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 39.10161,
+   "lon": -84.5125,
+   "price": "Free",
+   "blurb": "Downtown's central plaza around the 1871 Tyler Davidson Fountain, with a seasonal ice rink and holiday tree.",
+   "blurbEs": "La plaza central del centro, alrededor de la fuente Tyler Davidson de 1871, con pista de hielo de temporada y árbol navideño."
+  },
+  {
+   "name": "Smale Riverfront Park",
+   "kind": "always",
+   "cuisine": "",
+   "area": "The Banks",
+   "lat": 39.09524,
+   "lon": -84.51011,
+   "price": "Free",
+   "blurb": "A riverfront park between the stadiums with gardens, fountains, play areas and Carol Ann's Carousel.",
+   "blurbEs": "Un parque junto al río entre los estadios, con jardines, fuentes, zonas de juego y el carrusel Carol Ann's Carousel."
+  },
+  {
+   "name": "Findlay Market",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Over-the-Rhine",
+   "lat": 39.11528,
+   "lon": -84.51917,
+   "price": "Free",
+   "blurb": "Ohio's oldest continuously operated public market, with produce, meats, bakeries and food stalls; open regular hours Friday through Sunday of Thanksgiving weekend.",
+   "blurbEs": "El mercado público de funcionamiento continuo más antiguo de Ohio, con frutas y verduras, carnes, panaderías y puestos de comida; abre en horario normal de viernes a domingo del fin de semana de Acción de Gracias."
+  },
+  {
+   "name": "Cincinnati Art Museum",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Eden Park",
+   "lat": 39.1139,
+   "lon": -84.4969,
+   "price": "Free general admission",
+   "blurb": "A large encyclopedic art museum in Eden Park with free general admission.",
+   "blurbEs": "Un gran museo de arte enciclopédico en Eden Park con entrada general gratuita."
+  }
+ ]
+}
