@@ -1,8 +1,72 @@
 {
  "city": "atlanta",
  "updated": "2026-11-24",
- "source": "Only one spot added: web search was unavailable mid-research, and verified coordinates could be read only for the Atlanta Botanical Garden (from its official site's map link)",
+ "source": "Dinner, lunch and drinks picks from the MICHELIN Guide Atlanta listings (open hours and coordinates from each listing page), cross-checked with Discover Atlanta's date-night guide; always spots and coordinates from the Atlanta Botanical Garden's official site and Wikipedia",
  "spots": [
+  {
+   "name": "Lazy Betty",
+   "kind": "dinner",
+   "cuisine": "Contemporary tasting menu",
+   "area": "Midtown",
+   "lat": 33.78152,
+   "lon": -84.3838
+  },
+  {
+   "name": "BoccaLupo",
+   "kind": "dinner",
+   "cuisine": "Italian-American",
+   "area": "Inman Park",
+   "lat": 33.75479,
+   "lon": -84.36276
+  },
+  {
+   "name": "Southern Belle",
+   "kind": "dinner",
+   "cuisine": "Contemporary Southern",
+   "area": "Poncey-Highland",
+   "lat": 33.77394,
+   "lon": -84.35316
+  },
+  {
+   "name": "Miller Union",
+   "kind": "dinner",
+   "cuisine": "Seasonal Southern",
+   "area": "West Midtown",
+   "lat": 33.78212,
+   "lon": -84.41292
+  },
+  {
+   "name": "Bacchanalia",
+   "kind": "dinner",
+   "cuisine": "Farm-to-table American",
+   "area": "West Midtown",
+   "lat": 33.7948,
+   "lon": -84.42739
+  },
+  {
+   "name": "Antico Pizza Napoletana",
+   "kind": "lunch",
+   "cuisine": "Pizza",
+   "area": "Home Park",
+   "lat": 33.78465,
+   "lon": -84.40562
+  },
+  {
+   "name": "Fred's Meat & Bread",
+   "kind": "lunch",
+   "cuisine": "Sandwiches & burgers",
+   "area": "Krog Street Market",
+   "lat": 33.75696,
+   "lon": -84.36398
+  },
+  {
+   "name": "Ticonderoga Club",
+   "kind": "drinks",
+   "cuisine": "Cocktail bar",
+   "area": "Krog Street Market",
+   "lat": 33.75692,
+   "lon": -84.36389
+  },
   {
    "name": "Atlanta Botanical Garden",
    "kind": "always",
@@ -13,6 +77,61 @@
    "price": "Tickets",
    "blurb": "Botanical garden in Midtown, lit up nightly for the holidays through Jan 10",
    "blurbEs": "Jardín botánico en Midtown, iluminado cada noche por las fiestas hasta el 10 de enero"
+  },
+  {
+   "name": "High Museum of Art",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Midtown",
+   "lat": 33.79005,
+   "lon": -84.38557,
+   "price": "Tickets",
+   "blurb": "The Southeast's leading art museum, in the Woodruff Arts Center",
+   "blurbEs": "El principal museo de arte del sureste, en el Woodruff Arts Center"
+  },
+  {
+   "name": "Georgia Aquarium",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 33.76278,
+   "lon": -84.39472,
+   "price": "Tickets",
+   "blurb": "Giant aquarium with whale sharks, belugas and Santa's North Pole Village this season",
+   "blurbEs": "Enorme acuario con tiburones ballena, belugas y la aldea de Santa esta temporada"
+  },
+  {
+   "name": "Centennial Olympic Park",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 33.76004,
+   "lon": -84.39323,
+   "price": "Free",
+   "blurb": "The 1996 Olympics park, with lawns and the Fountain of Rings",
+   "blurbEs": "El parque de los Juegos Olímpicos de 1996, con jardines y la Fuente de los Anillos"
+  },
+  {
+   "name": "Center for Puppetry Arts",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Midtown",
+   "lat": 33.79249,
+   "lon": -84.38985,
+   "price": "Tickets",
+   "blurb": "Puppetry museum with Jim Henson collection, plus family shows",
+   "blurbEs": "Museo de títeres con la colección de Jim Henson y funciones familiares"
+  },
+  {
+   "name": "Martin Luther King Jr. National Historical Park",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Sweet Auburn",
+   "lat": 33.755,
+   "lon": -84.37222,
+   "price": "Free",
+   "blurb": "King's birth home, Ebenezer Baptist Church and the King Center",
+   "blurbEs": "La casa natal de King, la iglesia bautista Ebenezer y el King Center"
   }
  ]
 }

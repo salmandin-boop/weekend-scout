@@ -1,6 +1,81 @@
 {
  "city": "miami",
  "updated": "2026-11-24",
- "source": "No spots yet: verified coordinates could not be fetched for any Miami restaurant or landmark this run (Nov 2026)",
- "spots": []
+ "source": "Landmark coordinates from Wikipedia; lunch pick from The Infatuation's MiMo guide (June 2026) with coordinates from latlong.net. No dinner or drinks picks yet: coordinates could not be verified this run (Nov 2026)",
+ "spots": [
+  {
+   "name": "Jimmy's East-Side Diner",
+   "kind": "lunch",
+   "cuisine": "Diner",
+   "area": "MiMo",
+   "lat": 25.8414,
+   "lon": -80.18412
+  },
+  {
+   "name": "Pérez Art Museum Miami",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Museum Park",
+   "lat": 25.78589,
+   "lon": -80.18671,
+   "price": "Tickets",
+   "blurb": "Bayfront art museum with hanging gardens and a big shaded terrace",
+   "blurbEs": "Museo de arte frente a la bahía con jardines colgantes y una gran terraza"
+  },
+  {
+   "name": "Frost Museum of Science",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Museum Park",
+   "lat": 25.7853,
+   "lon": -80.1878,
+   "price": "Tickets",
+   "blurb": "Science museum with a huge aquarium and a planetarium",
+   "blurbEs": "Museo de ciencias con un enorme acuario y un planetario"
+  },
+  {
+   "name": "Bayfront Park",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 25.775,
+   "lon": -80.186,
+   "price": "Free",
+   "blurb": "Waterfront downtown park on Biscayne Bay",
+   "blurbEs": "Parque junto al agua en el centro, frente a la bahía de Biscayne"
+  },
+  {
+   "name": "Bayside Marketplace",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 25.77831,
+   "lon": -80.18645,
+   "price": "Free entry",
+   "blurb": "Open-air waterfront market with shops, restaurants and boat tours",
+   "blurbEs": "Mercado al aire libre junto al agua con tiendas, restaurantes y paseos en bote"
+  },
+  {
+   "name": "Vizcaya Museum and Gardens",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Coconut Grove",
+   "lat": 25.74361,
+   "lon": -80.21028,
+   "price": "Tickets",
+   "blurb": "A 1910s bayfront villa with formal Italian-style gardens",
+   "blurbEs": "Una villa de los años 1910 frente a la bahía con jardines de estilo italiano"
+  },
+  {
+   "name": "Jungle Island",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Watson Island",
+   "lat": 25.7861,
+   "lon": -80.1742,
+   "price": "Tickets",
+   "blurb": "Family animal park on Watson Island, also home to the Luminosa light trail",
+   "blurbEs": "Parque familiar de animales en Watson Island, sede del sendero de luces Luminosa"
+  }
+ ]
 }

@@ -1,6 +1,118 @@
 {
  "city": "minneapolis",
  "updated": "2026-11-24",
- "source": "No spots yet: web search ran out before verified coordinates could be found for any restaurants or attractions (Nov 2026)",
- "spots": []
+ "source": "Dinner picks from Meet Minneapolis (minneapolis.org) romantic restaurants guide, lunch from its family-friendly guide and directory listing, wine bar from its wine bar guide with OpenTable listing coordinates; attractions from Wikipedia and walkerart.org (Nov 2026)",
+ "spots": [
+  {
+   "name": "Bar La Grassa",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "North Loop",
+   "lat": 44.98926,
+   "lon": -93.27874
+  },
+  {
+   "name": "Porzana",
+   "kind": "dinner",
+   "cuisine": "Argentine woodfire steakhouse",
+   "area": "North Loop",
+   "lat": 44.98557,
+   "lon": -93.26902
+  },
+  {
+   "name": "Stock & Bond",
+   "kind": "dinner",
+   "cuisine": "Steakhouse",
+   "area": "Downtown",
+   "lat": 44.97754,
+   "lon": -93.27035
+  },
+  {
+   "name": "All Saints",
+   "kind": "dinner",
+   "cuisine": "Modern, veggie-forward",
+   "area": "Northeast",
+   "lat": 44.98773,
+   "lon": -93.25669
+  },
+  {
+   "name": "Diane's Place",
+   "kind": "dinner",
+   "cuisine": "Hmong",
+   "area": "Northeast",
+   "lat": 45.00151,
+   "lon": -93.27036
+  },
+  {
+   "name": "Hell's Kitchen",
+   "kind": "lunch",
+   "cuisine": "American",
+   "area": "Downtown",
+   "lat": 44.97461,
+   "lon": -93.2726
+  },
+  {
+   "name": "Milly's Wine Bar & Bistro",
+   "kind": "drinks",
+   "cuisine": "Wine bar",
+   "area": "Mill District",
+   "lat": 44.9747,
+   "lon": -93.25221
+  },
+  {
+   "name": "Minneapolis Sculpture Garden",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Lowry Hill",
+   "lat": 44.97028,
+   "lon": -93.28889,
+   "price": "Free",
+   "blurb": "Free year-round sculpture park home to Spoonbridge and Cherry, open 6 am to midnight",
+   "blurbEs": "Parque de esculturas gratis todo el año con Spoonbridge and Cherry, abierto de 6 am a medianoche"
+  },
+  {
+   "name": "Minneapolis Institute of Art",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Whittier",
+   "lat": 44.9586,
+   "lon": -93.2742,
+   "price": "Free",
+   "blurb": "Major art museum with free general admission",
+   "blurbEs": "Gran museo de arte con entrada general gratis"
+  },
+  {
+   "name": "Mill City Museum",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Mill District",
+   "lat": 44.97938,
+   "lon": -93.25711,
+   "price": "Paid admission",
+   "blurb": "Flour-milling history museum built into the ruins of a riverfront mill",
+   "blurbEs": "Museo de la historia de la molienda de harina dentro de las ruinas de un molino junto al río"
+  },
+  {
+   "name": "Stone Arch Bridge",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Mill District",
+   "lat": 44.98083,
+   "lon": -93.25361,
+   "price": "Free",
+   "blurb": "Historic pedestrian bridge with views of St. Anthony Falls",
+   "blurbEs": "Puente peatonal histórico con vistas a las cataratas de St. Anthony"
+  },
+  {
+   "name": "Mill Ruins Park",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Mill District",
+   "lat": 44.98036,
+   "lon": -93.25782,
+   "price": "Free",
+   "blurb": "Riverfront park among the excavated ruins of old flour mills",
+   "blurbEs": "Parque junto al río entre las ruinas excavadas de antiguos molinos de harina"
+  }
+ ]
 }

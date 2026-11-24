@@ -1,6 +1,145 @@
 {
  "city": "detroit",
  "updated": "2026-11-24",
- "source": "No picks yet: web search budget ran out before verified coordinates could be gathered (Nov 2026)",
- "spots": []
+ "source": "Picked from Visit Detroit (visitdetroit.com) directory listings, The Infatuation's Detroit date-night list and OpenTable's Detroit date-night list; coordinates from those listing pages (Nov 2026)",
+ "spots": [
+  {
+   "name": "Sexy Steak",
+   "kind": "dinner",
+   "cuisine": "Steakhouse",
+   "area": "Downtown",
+   "lat": 42.33503,
+   "lon": -83.05496
+  },
+  {
+   "name": "Experience Zuzu",
+   "kind": "dinner",
+   "cuisine": "Asian fusion",
+   "area": "Downtown",
+   "lat": 42.32955,
+   "lon": -83.04573
+  },
+  {
+   "name": "San Morello",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "Downtown",
+   "lat": 42.33434,
+   "lon": -83.04851
+  },
+  {
+   "name": "Grey Ghost",
+   "kind": "dinner",
+   "cuisine": "American",
+   "area": "Brush Park",
+   "lat": 42.34517,
+   "lon": -83.05558
+  },
+  {
+   "name": "Vecino",
+   "kind": "dinner",
+   "cuisine": "Mexican",
+   "area": "Midtown",
+   "lat": 42.34833,
+   "lon": -83.06737
+  },
+  {
+   "name": "American Coney Island",
+   "kind": "lunch",
+   "cuisine": "Coney dogs",
+   "area": "Downtown",
+   "lat": 42.33147,
+   "lon": -83.04864
+  },
+  {
+   "name": "Mike's Pizza Bar",
+   "kind": "lunch",
+   "cuisine": "Pizza",
+   "area": "District Detroit",
+   "lat": 42.34093,
+   "lon": -83.05405
+  },
+  {
+   "name": "Sugar House",
+   "kind": "drinks",
+   "cuisine": "Cocktails",
+   "area": "Corktown",
+   "lat": 42.33162,
+   "lon": -83.07577
+  },
+  {
+   "name": "Delux Bar + Lounge",
+   "kind": "drinks",
+   "cuisine": "Cocktails",
+   "area": "Greektown",
+   "lat": 42.33413,
+   "lon": -83.04409
+  },
+  {
+   "name": "Campus Martius Park",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 42.33155,
+   "lon": -83.04684,
+   "price": "Free",
+   "blurb": "Downtown's central square with the skating rink and the city Christmas tree",
+   "blurbEs": "La plaza central del centro, con la pista de patinaje y el árbol de Navidad de la ciudad"
+  },
+  {
+   "name": "Detroit Institute of Arts",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Midtown",
+   "lat": 42.35945,
+   "lon": -83.06449,
+   "price": "Tickets",
+   "blurb": "Major art museum home to Diego Rivera's Detroit Industry murals",
+   "blurbEs": "Gran museo de arte con los murales Detroit Industry de Diego Rivera"
+  },
+  {
+   "name": "Charles H. Wright Museum of African American History",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Midtown",
+   "lat": 42.3591,
+   "lon": -83.06086,
+   "price": "Tickets",
+   "blurb": "Landmark museum of African American history and culture",
+   "blurbEs": "Museo emblemático de la historia y la cultura afroamericanas"
+  },
+  {
+   "name": "Eastern Market",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Eastern Market",
+   "lat": 42.34916,
+   "lon": -83.04196,
+   "price": "Free",
+   "blurb": "Historic public market, busiest on Saturdays from 6 am",
+   "blurbEs": "Mercado público histórico, con más ambiente los sábados desde las 6 am"
+  },
+  {
+   "name": "Detroit International RiverWalk",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Riverfront",
+   "lat": 42.33036,
+   "lon": -83.03187,
+   "price": "Free",
+   "blurb": "Riverside walking path with skyline views, open daily 6 am to 10 pm",
+   "blurbEs": "Paseo junto al río con vistas al horizonte, abierto a diario de 6 am a 10 pm"
+  },
+  {
+   "name": "Detroit Zoo",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Royal Oak",
+   "lat": 42.47678,
+   "lon": -83.15076,
+   "price": "Tickets",
+   "blurb": "Big suburban zoo with timed tickets sold online, open 10 am to 4 pm in winter",
+   "blurbEs": "Gran zoológico en las afueras con entradas por horario en línea, abierto de 10 am a 4 pm en invierno"
+  }
+ ]
 }

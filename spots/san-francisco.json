@@ -1,6 +1,129 @@
 {
  "city": "san-francisco",
  "updated": "2026-11-24",
- "source": "No spots added: verified coordinates could not be fetched this run (web search budget exhausted, map/Wikipedia pages unreachable)",
- "spots": []
+ "source": "Restaurants from the MICHELIN Guide San Francisco listings (open hours checked Nov 2026; Kokkari also on San Francisco Travel's romantic-restaurants list); always-spot coordinates from Wikipedia mirrors, latitude.to, aroundus and Waymarking",
+ "spots": [
+  {
+   "name": "Kokkari Estiatorio",
+   "kind": "dinner",
+   "cuisine": "Greek",
+   "area": "Jackson Square",
+   "lat": 37.79702,
+   "lon": -122.39971
+  },
+  {
+   "name": "Cotogna",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "Jackson Square",
+   "lat": 37.79743,
+   "lon": -122.40346
+  },
+  {
+   "name": "Kin Khao",
+   "kind": "dinner",
+   "cuisine": "Thai",
+   "area": "Union Square",
+   "lat": 37.78527,
+   "lon": -122.40951
+  },
+  {
+   "name": "Zuni Café",
+   "kind": "dinner",
+   "cuisine": "Californian & French",
+   "area": "Hayes Valley",
+   "lat": 37.77372,
+   "lon": -122.42126
+  },
+  {
+   "name": "Frances",
+   "kind": "dinner",
+   "cuisine": "Californian",
+   "area": "Castro",
+   "lat": 37.76293,
+   "lon": -122.43239
+  },
+  {
+   "name": "Dumpling Home",
+   "kind": "lunch",
+   "cuisine": "Chinese dumplings",
+   "area": "Hayes Valley",
+   "lat": 37.77593,
+   "lon": -122.42271
+  },
+  {
+   "name": "Nopalito",
+   "kind": "lunch",
+   "cuisine": "Mexican",
+   "area": "NoPa",
+   "lat": 37.77342,
+   "lon": -122.43902
+  },
+  {
+   "name": "California Academy of Sciences",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Golden Gate Park",
+   "lat": 37.7701,
+   "lon": -122.46641,
+   "price": "From $39",
+   "blurb": "Aquarium, planetarium and a four-story rainforest under one living roof",
+   "blurbEs": "Acuario, planetario y una selva tropical de cuatro pisos bajo un techo vivo"
+  },
+  {
+   "name": "San Francisco Botanical Garden",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Golden Gate Park",
+   "lat": 37.76736,
+   "lon": -122.46968,
+   "price": "Tickets",
+   "blurb": "Garden paths with plants from around the world inside Golden Gate Park",
+   "blurbEs": "Senderos de jardín con plantas de todo el mundo dentro de Golden Gate Park"
+  },
+  {
+   "name": "Conservatory of Flowers",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Golden Gate Park",
+   "lat": 37.772,
+   "lon": -122.46,
+   "price": "Tickets",
+   "blurb": "A Victorian glass greenhouse full of tropical plants",
+   "blurbEs": "Un invernadero victoriano de cristal lleno de plantas tropicales"
+  },
+  {
+   "name": "Exploratorium",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Embarcadero",
+   "lat": 37.80117,
+   "lon": -122.3986,
+   "price": "Tickets",
+   "blurb": "Hands-on science museum on Pier 15 for all ages",
+   "blurbEs": "Museo de ciencia interactivo en el Pier 15 para todas las edades"
+  },
+  {
+   "name": "Yerba Buena Gardens",
+   "kind": "always",
+   "cuisine": "",
+   "area": "SoMa",
+   "lat": 37.784,
+   "lon": -122.402,
+   "price": "Free",
+   "blurb": "Downtown gardens with a waterfall, carousel and ice rink",
+   "blurbEs": "Jardines en el centro con cascada, carrusel y pista de hielo"
+  },
+  {
+   "name": "Union Square",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Union Square",
+   "lat": 37.78806,
+   "lon": -122.4075,
+   "price": "Free",
+   "blurb": "The city's shopping heart with a giant holiday tree in season",
+   "blurbEs": "El corazón comercial de la ciudad, con un gran árbol navideño en temporada"
+  }
+ ]
 }

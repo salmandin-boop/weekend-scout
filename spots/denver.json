@@ -1,6 +1,145 @@
 {
  "city": "denver",
  "updated": "2026-11-24",
- "source": "No picks yet: coordinates could not be verified from any fetched page this run (geocoders and Wikipedia unreachable), so spots were left empty rather than guessed",
- "spots": []
+ "source": "Dinner picks from Visit Denver's romantic-restaurants guide; lunch and drinks from OpenTable Denver listings (kid-friendly list, Death & Co); coordinates from OpenTable listing pages, Waymarking and Wikipedia mirrors (Nov 2026)",
+ "spots": [
+  {
+   "name": "Rioja",
+   "kind": "dinner",
+   "cuisine": "Mediterranean",
+   "area": "Larimer Square",
+   "lat": 39.74795,
+   "lon": -104.99947
+  },
+  {
+   "name": "Tavernetta",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "Union Station",
+   "lat": 39.75305,
+   "lon": -105.00187
+  },
+  {
+   "name": "Mizuna",
+   "kind": "dinner",
+   "cuisine": "Contemporary American",
+   "area": "Capitol Hill",
+   "lat": 39.72746,
+   "lon": -104.98413
+  },
+  {
+   "name": "Barolo Grill",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "Cherry Creek",
+   "lat": 39.72542,
+   "lon": -104.95153
+  },
+  {
+   "name": "Alma Fonda Fina",
+   "kind": "dinner",
+   "cuisine": "Contemporary Mexican",
+   "area": "LoHi",
+   "lat": 39.75803,
+   "lon": -105.01167
+  },
+  {
+   "name": "Marco's Coal Fired",
+   "kind": "lunch",
+   "cuisine": "Pizza",
+   "area": "Downtown",
+   "lat": 39.75451,
+   "lon": -104.99099
+  },
+  {
+   "name": "Aquarium Restaurant",
+   "kind": "lunch",
+   "cuisine": "Seafood & American",
+   "area": "Downtown Aquarium",
+   "lat": 39.75173,
+   "lon": -105.01385
+  },
+  {
+   "name": "Death & Co",
+   "kind": "drinks",
+   "cuisine": "Cocktails",
+   "area": "RiNo",
+   "lat": 39.75735,
+   "lon": -104.98659
+  },
+  {
+   "name": "Mezcaleria Alma",
+   "kind": "drinks",
+   "cuisine": "Mezcal & cocktails",
+   "area": "LoHi",
+   "lat": 39.75805,
+   "lon": -105.01159
+  },
+  {
+   "name": "Denver Union Station",
+   "kind": "always",
+   "cuisine": "",
+   "area": "LoDo",
+   "lat": 39.75293,
+   "lon": -104.99981,
+   "price": "Free",
+   "blurb": "Restored historic train station with restaurants around the Great Hall",
+   "blurbEs": "Estación de tren histórica restaurada con restaurantes alrededor del Great Hall"
+  },
+  {
+   "name": "Larimer Square",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 39.74762,
+   "lon": -104.99958,
+   "price": "Free",
+   "blurb": "Historic block of shops and restaurants under strings of lights",
+   "blurbEs": "Cuadra histórica de tiendas y restaurantes bajo guirnaldas de luces"
+  },
+  {
+   "name": "Denver Art Museum",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Civic Center",
+   "lat": 39.73733,
+   "lon": -104.9891,
+   "price": "Tickets",
+   "blurb": "The city's big art museum, next to Civic Center Park",
+   "blurbEs": "El gran museo de arte de la ciudad, junto al Civic Center Park"
+  },
+  {
+   "name": "Denver Zoo",
+   "kind": "always",
+   "cuisine": "",
+   "area": "City Park",
+   "lat": 39.75105,
+   "lon": -104.94898,
+   "price": "Tickets",
+   "blurb": "Big zoo inside City Park with indoor exhibits like Tropical Discovery",
+   "blurbEs": "Gran zoológico dentro de City Park con exhibiciones bajo techo como Tropical Discovery"
+  },
+  {
+   "name": "City Park",
+   "kind": "always",
+   "cuisine": "",
+   "area": "City Park",
+   "lat": 39.74722,
+   "lon": -104.95056,
+   "price": "Free",
+   "blurb": "Large historic park with lakes, next to the zoo and nature museum",
+   "blurbEs": "Gran parque histórico con lagos, junto al zoológico y al museo de naturaleza"
+  },
+  {
+   "name": "Downtown Aquarium",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 39.75173,
+   "lon": -105.01385,
+   "price": "Tickets",
+   "blurb": "Family aquarium with a mermaid show and an on-site restaurant",
+   "blurbEs": "Acuario familiar con show de sirenas y restaurante dentro"
+  }
+ ]
 }

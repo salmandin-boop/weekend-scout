@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:detroit-pistons-vs-bucks-fri-0@weekendscout.app
-DTSTAMP:20261124T112403Z
+DTSTAMP:20261124T114024Z
 DTSTART:20261128T003000Z
 DTEND:20261128T023000Z
 SUMMARY:Pistons vs. Milwaukee Bucks
@@ -20,7 +20,7 @@ URL:https://weekendscout.app/e/detroit/pistons-vs-bucks/
 END:VEVENT
 BEGIN:VEVENT
 UID:detroit-red-wings-vs-predators-sat-0@weekendscout.app
-DTSTAMP:20261124T112403Z
+DTSTAMP:20261124T114024Z
 DTSTART:20261129T000000Z
 DTEND:20261129T020000Z
 SUMMARY:Red Wings vs. Nashville Predators
@@ -31,7 +31,7 @@ URL:https://weekendscout.app/e/detroit/red-wings-vs-predators/
 END:VEVENT
 BEGIN:VEVENT
 UID:detroit-pistons-vs-magic-sun-0@weekendscout.app
-DTSTAMP:20261124T112403Z
+DTSTAMP:20261124T114024Z
 DTSTART:20261129T230000Z
 DTEND:20261130T010000Z
 SUMMARY:Pistons vs. Orlando Magic
@@ -43,7 +43,7 @@ URL:https://weekendscout.app/e/detroit/pistons-vs-magic/
 END:VEVENT
 BEGIN:VEVENT
 UID:detroit-nutcracker-grand-rapids-ballet-sat-0@weekendscout.app
-DTSTAMP:20261124T112403Z
+DTSTAMP:20261124T114024Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -56,7 +56,7 @@ URL:https://weekendscout.app/e/detroit/nutcracker-grand-rapids-ballet/
 END:VEVENT
 BEGIN:VEVENT
 UID:detroit-nutcracker-grand-rapids-ballet-sun-0@weekendscout.app
-DTSTAMP:20261124T112403Z
+DTSTAMP:20261124T114024Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -69,7 +69,7 @@ URL:https://weekendscout.app/e/detroit/nutcracker-grand-rapids-ballet/
 END:VEVENT
 BEGIN:VEVENT
 UID:detroit-great-gatsby-fisher-fri-0@weekendscout.app
-DTSTAMP:20261124T112403Z
+DTSTAMP:20261124T114024Z
 DTSTART:20261128T003000Z
 DTEND:20261128T023000Z
 SUMMARY:The Great Gatsby
@@ -81,7 +81,7 @@ URL:https://weekendscout.app/e/detroit/great-gatsby-fisher/
 END:VEVENT
 BEGIN:VEVENT
 UID:detroit-great-gatsby-fisher-sat-0@weekendscout.app
-DTSTAMP:20261124T112403Z
+DTSTAMP:20261124T114024Z
 DTSTART:20261128T190000Z
 DTEND:20261128T210000Z
 SUMMARY:The Great Gatsby
@@ -93,7 +93,7 @@ URL:https://weekendscout.app/e/detroit/great-gatsby-fisher/
 END:VEVENT
 BEGIN:VEVENT
 UID:detroit-great-gatsby-fisher-sat-1@weekendscout.app
-DTSTAMP:20261124T112403Z
+DTSTAMP:20261124T114024Z
 DTSTART:20261129T003000Z
 DTEND:20261129T023000Z
 SUMMARY:The Great Gatsby
@@ -105,7 +105,7 @@ URL:https://weekendscout.app/e/detroit/great-gatsby-fisher/
 END:VEVENT
 BEGIN:VEVENT
 UID:detroit-great-gatsby-fisher-sun-0@weekendscout.app
-DTSTAMP:20261124T112403Z
+DTSTAMP:20261124T114024Z
 DTSTART:20261129T180000Z
 DTEND:20261129T200000Z
 SUMMARY:The Great Gatsby
@@ -117,7 +117,7 @@ URL:https://weekendscout.app/e/detroit/great-gatsby-fisher/
 END:VEVENT
 BEGIN:VEVENT
 UID:detroit-great-gatsby-fisher-sun-1@weekendscout.app
-DTSTAMP:20261124T112403Z
+DTSTAMP:20261124T114024Z
 DTSTART:20261129T233000Z
 DTEND:20261130T013000Z
 SUMMARY:The Great Gatsby
@@ -129,7 +129,7 @@ URL:https://weekendscout.app/e/detroit/great-gatsby-fisher/
 END:VEVENT
 BEGIN:VEVENT
 UID:detroit-sabaton-fillmore-sun-0@weekendscout.app
-DTSTAMP:20261124T112403Z
+DTSTAMP:20261124T114024Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -142,7 +142,7 @@ URL:https://weekendscout.app/e/detroit/sabaton-fillmore/
 END:VEVENT
 BEGIN:VEVENT
 UID:detroit-mike-stanley-comedy-castle-fri-0@weekendscout.app
-DTSTAMP:20261124T112403Z
+DTSTAMP:20261124T114024Z
 DTSTART:20261128T001500Z
 DTEND:20261128T021500Z
 SUMMARY:Mike Stanley
@@ -155,7 +155,7 @@ URL:https://weekendscout.app/e/detroit/mike-stanley-comedy-castle/
 END:VEVENT
 BEGIN:VEVENT
 UID:detroit-mike-stanley-comedy-castle-fri-1@weekendscout.app
-DTSTAMP:20261124T112403Z
+DTSTAMP:20261124T114024Z
 DTSTART:20261128T024500Z
 DTEND:20261128T044500Z
 SUMMARY:Mike Stanley
@@ -168,7 +168,7 @@ URL:https://weekendscout.app/e/detroit/mike-stanley-comedy-castle/
 END:VEVENT
 BEGIN:VEVENT
 UID:detroit-mike-stanley-comedy-castle-sat-0@weekendscout.app
-DTSTAMP:20261124T112403Z
+DTSTAMP:20261124T114024Z
 DTSTART:20261129T000000Z
 DTEND:20261129T020000Z
 SUMMARY:Mike Stanley
@@ -181,7 +181,7 @@ URL:https://weekendscout.app/e/detroit/mike-stanley-comedy-castle/
 END:VEVENT
 BEGIN:VEVENT
 UID:detroit-mike-stanley-comedy-castle-sat-1@weekendscout.app
-DTSTAMP:20261124T112403Z
+DTSTAMP:20261124T114024Z
 DTSTART:20261129T023000Z
 DTEND:20261129T043000Z
 SUMMARY:Mike Stanley
@@ -194,7 +194,7 @@ URL:https://weekendscout.app/e/detroit/mike-stanley-comedy-castle/
 END:VEVENT
 BEGIN:VEVENT
 UID:detroit-wild-lights-detroit-zoo-fri-0@weekendscout.app
-DTSTAMP:20261124T112403Z
+DTSTAMP:20261124T114024Z
 DTSTART:20261127T220000Z
 DTEND:20261128T033000Z
 SUMMARY:Wild Lights at the Detroit Zoo
@@ -206,7 +206,7 @@ URL:https://weekendscout.app/e/detroit/wild-lights-detroit-zoo/
 END:VEVENT
 BEGIN:VEVENT
 UID:detroit-wild-lights-detroit-zoo-sat-0@weekendscout.app
-DTSTAMP:20261124T112403Z
+DTSTAMP:20261124T114024Z
 DTSTART:20261128T220000Z
 DTEND:20261129T033000Z
 SUMMARY:Wild Lights at the Detroit Zoo
@@ -218,7 +218,7 @@ URL:https://weekendscout.app/e/detroit/wild-lights-detroit-zoo/
 END:VEVENT
 BEGIN:VEVENT
 UID:detroit-wild-lights-detroit-zoo-sun-0@weekendscout.app
-DTSTAMP:20261124T112403Z
+DTSTAMP:20261124T114024Z
 DTSTART:20261129T220000Z
 DTEND:20261130T020000Z
 SUMMARY:Wild Lights at the Detroit Zoo
@@ -230,7 +230,7 @@ URL:https://weekendscout.app/e/detroit/wild-lights-detroit-zoo/
 END:VEVENT
 BEGIN:VEVENT
 UID:detroit-downtown-detroit-markets-fri-0@weekendscout.app
-DTSTAMP:20261124T112403Z
+DTSTAMP:20261124T114024Z
 DTSTART:20261127T160000Z
 DTEND:20261128T030000Z
 SUMMARY:Downtown Detroit Markets
@@ -242,7 +242,7 @@ URL:https://weekendscout.app/e/detroit/downtown-detroit-markets/
 END:VEVENT
 BEGIN:VEVENT
 UID:detroit-downtown-detroit-markets-sat-0@weekendscout.app
-DTSTAMP:20261124T112403Z
+DTSTAMP:20261124T114024Z
 DTSTART:20261128T160000Z
 DTEND:20261129T030000Z
 SUMMARY:Downtown Detroit Markets
@@ -254,7 +254,7 @@ URL:https://weekendscout.app/e/detroit/downtown-detroit-markets/
 END:VEVENT
 BEGIN:VEVENT
 UID:detroit-downtown-detroit-markets-sun-0@weekendscout.app
-DTSTAMP:20261124T112403Z
+DTSTAMP:20261124T114024Z
 DTSTART:20261129T160000Z
 DTEND:20261130T000000Z
 SUMMARY:Downtown Detroit Markets
@@ -266,7 +266,7 @@ URL:https://weekendscout.app/e/detroit/downtown-detroit-markets/
 END:VEVENT
 BEGIN:VEVENT
 UID:detroit-1001-winter-wonders-sat-0@weekendscout.app
-DTSTAMP:20261124T112403Z
+DTSTAMP:20261124T114024Z
 DTSTART:20261128T170000Z
 DTEND:20261129T010000Z
 SUMMARY:1001 Winter Wonders
@@ -278,7 +278,7 @@ URL:https://weekendscout.app/e/detroit/1001-winter-wonders/
 END:VEVENT
 BEGIN:VEVENT
 UID:detroit-1001-winter-wonders-sun-0@weekendscout.app
-DTSTAMP:20261124T112403Z
+DTSTAMP:20261124T114024Z
 DTSTART:20261129T170000Z
 DTEND:20261129T230000Z
 SUMMARY:1001 Winter Wonders
@@ -290,7 +290,7 @@ URL:https://weekendscout.app/e/detroit/1001-winter-wonders/
 END:VEVENT
 BEGIN:VEVENT
 UID:detroit-rink-campus-martius-fri-0@weekendscout.app
-DTSTAMP:20261124T112403Z
+DTSTAMP:20261124T114024Z
 DTSTART:20261127T160000Z
 DTEND:20261127T180000Z
 SUMMARY:The Rink at Campus Martius Park
@@ -302,7 +302,7 @@ URL:https://weekendscout.app/e/detroit/rink-campus-martius/
 END:VEVENT
 BEGIN:VEVENT
 UID:detroit-rink-campus-martius-sat-0@weekendscout.app
-DTSTAMP:20261124T112403Z
+DTSTAMP:20261124T114024Z
 DTSTART:20261128T160000Z
 DTEND:20261128T180000Z
 SUMMARY:The Rink at Campus Martius Park
@@ -314,7 +314,7 @@ URL:https://weekendscout.app/e/detroit/rink-campus-martius/
 END:VEVENT
 BEGIN:VEVENT
 UID:detroit-rink-campus-martius-sun-0@weekendscout.app
-DTSTAMP:20261124T112403Z
+DTSTAMP:20261124T114024Z
 DTSTART:20261129T160000Z
 DTEND:20261130T030000Z
 SUMMARY:The Rink at Campus Martius Park

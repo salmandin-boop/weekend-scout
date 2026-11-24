@@ -1,6 +1,145 @@
 {
  "city": "boston",
  "updated": "2026-11-24",
- "source": "No picks yet: verified coordinates could not be obtained this run (search budget ran out before venue pages with coordinates could be found)",
- "spots": []
+ "source": "Dinner, lunch and drinks picks from the MICHELIN Guide Boston listings and hotel pages (Nov 2026) plus Union Oyster House; sights from Wikipedia; coordinates from those pages",
+ "spots": [
+  {
+   "name": "311 Omakase",
+   "kind": "dinner",
+   "cuisine": "Japanese omakase",
+   "area": "South End",
+   "lat": 42.34305,
+   "lon": -71.07366
+  },
+  {
+   "name": "Toro",
+   "kind": "dinner",
+   "cuisine": "Spanish tapas",
+   "area": "South End",
+   "lat": 42.33697,
+   "lon": -71.07592
+  },
+  {
+   "name": "Mooncusser",
+   "kind": "dinner",
+   "cuisine": "Contemporary seafood",
+   "area": "Bay Village",
+   "lat": 42.35003,
+   "lon": -71.07017
+  },
+  {
+   "name": "Select Oyster Bar",
+   "kind": "dinner",
+   "cuisine": "Seafood",
+   "area": "Back Bay",
+   "lat": 42.3487,
+   "lon": -71.08405
+  },
+  {
+   "name": "Union Oyster House",
+   "kind": "dinner",
+   "cuisine": "Seafood",
+   "area": "Faneuil Hall",
+   "lat": 42.36139,
+   "lon": -71.05694
+  },
+  {
+   "name": "Zhi Wei Cafe",
+   "kind": "lunch",
+   "cuisine": "Chinese noodles",
+   "area": "Leather District",
+   "lat": 42.35117,
+   "lon": -71.05728
+  },
+  {
+   "name": "Carmelina's",
+   "kind": "lunch",
+   "cuisine": "Italian-American",
+   "area": "North End",
+   "lat": 42.36393,
+   "lon": -71.05424
+  },
+  {
+   "name": "Street Bar at The Newbury",
+   "kind": "drinks",
+   "cuisine": "Cocktail bar",
+   "area": "Back Bay",
+   "lat": 42.35269,
+   "lon": -71.07124
+  },
+  {
+   "name": "Long Bar & Terrace at Raffles Boston",
+   "kind": "drinks",
+   "cuisine": "Cocktail bar",
+   "area": "Back Bay",
+   "lat": 42.34855,
+   "lon": -71.07487
+  },
+  {
+   "name": "Museum of Fine Arts",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Fenway",
+   "lat": 42.3394,
+   "lon": -71.0942,
+   "price": "Tickets",
+   "blurb": "Huge art museum with everything from Egyptian art to Monet",
+   "blurbEs": "Gran museo de arte, desde arte egipcio hasta Monet"
+  },
+  {
+   "name": "Isabella Stewart Gardner Museum",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Fenway",
+   "lat": 42.33861,
+   "lon": -71.09889,
+   "price": "Tickets",
+   "blurb": "A Venetian-style palace with art and a flowering courtyard",
+   "blurbEs": "Un palacio de estilo veneciano con arte y un patio con flores"
+  },
+  {
+   "name": "Boston Common",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 42.355,
+   "lon": -71.06556,
+   "price": "Free",
+   "blurb": "America's oldest public park and start of the Freedom Trail",
+   "blurbEs": "El parque p\u00fablico m\u00e1s antiguo del pa\u00eds e inicio del Freedom Trail"
+  },
+  {
+   "name": "New England Aquarium",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Waterfront",
+   "lat": 42.35917,
+   "lon": -71.04944,
+   "price": "Tickets",
+   "blurb": "A giant ocean tank with sea turtles, plus penguins and seals",
+   "blurbEs": "Un enorme tanque oce\u00e1nico con tortugas marinas, ping\u00fcinos y focas"
+  },
+  {
+   "name": "Institute of Contemporary Art",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Seaport",
+   "lat": 42.35284,
+   "lon": -71.04286,
+   "price": "Tickets",
+   "blurb": "Modern art in a glass building over the harbor",
+   "blurbEs": "Arte moderno en un edificio de vidrio sobre el puerto"
+  },
+  {
+   "name": "Boston Public Library (Central)",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Copley Square",
+   "lat": 42.34944,
+   "lon": -71.07806,
+   "price": "Free",
+   "blurb": "Grand 1895 library with murals and a quiet courtyard",
+   "blurbEs": "Gran biblioteca de 1895 con murales y un patio tranquilo"
+  }
+ ]
 }

@@ -1,7 +1,7 @@
 {
  "city": "seattle",
  "updated": "2026-11-24",
- "source": "Limited set: only places whose coordinates could be read from official Seattle Center and Pike Place Market pages (Nov 2026); restaurant picks could not be verified this run",
+ "source": "Dinner picks from The Infatuation's Seattle romantic-restaurants guide (updated Sep 2026) plus Le Pichet from Pike Place Market's vendor directory; drinks from The Infatuation's best-bars guide (Mar 2026) and Zig Zag Café's Visit Seattle listing and official site; lunch from Seattle Center and Pike Place Market pages; coordinates from Wikipedia and official Seattle Center/Pike Place Market pages (Nov 2026)",
  "spots": [
   {
    "name": "Pike Place Market",
@@ -32,6 +32,106 @@
    "area": "Seattle Center",
    "lat": 47.62155,
    "lon": -122.35094
+  },
+  {
+   "name": "The Pink Door",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "Pike Place Market",
+   "lat": 47.61036,
+   "lon": -122.34256
+  },
+  {
+   "name": "Sushi Kashiba",
+   "kind": "dinner",
+   "cuisine": "Sushi",
+   "area": "Pike Place Market",
+   "lat": 47.6099,
+   "lon": -122.3416
+  },
+  {
+   "name": "Le Pichet",
+   "kind": "dinner",
+   "cuisine": "French bistro",
+   "area": "Pike Place Market",
+   "lat": 47.6108,
+   "lon": -122.3426
+  },
+  {
+   "name": "Spinasse",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "Capitol Hill",
+   "lat": 47.61508,
+   "lon": -122.31447
+  },
+  {
+   "name": "Pike Place Chowder",
+   "kind": "lunch",
+   "cuisine": "Seafood chowder",
+   "area": "Pike Place Market",
+   "lat": 47.6094,
+   "lon": -122.3412
+  },
+  {
+   "name": "Zig Zag Café",
+   "kind": "drinks",
+   "cuisine": "Cocktail bar",
+   "area": "Pike Place Market",
+   "lat": 47.6083,
+   "lon": -122.34157
+  },
+  {
+   "name": "Canon",
+   "kind": "drinks",
+   "cuisine": "Cocktail bar",
+   "area": "Capitol Hill",
+   "lat": 47.6113,
+   "lon": -122.3166
+  },
+  {
+   "name": "Olympic Sculpture Park",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Belltown",
+   "lat": 47.61639,
+   "lon": -122.35528,
+   "price": "Free",
+   "blurb": "Seattle Art Museum's waterfront sculpture park with Olympic Mountains views",
+   "blurbEs": "El parque de esculturas frente al agua del Seattle Art Museum, con vistas a las montañas Olympic"
+  },
+  {
+   "name": "Seattle Art Museum",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 47.6072,
+   "lon": -122.3381,
+   "price": "Tickets",
+   "blurb": "Downtown art museum steps from Pike Place Market",
+   "blurbEs": "Museo de arte del centro, a pasos de Pike Place Market"
+  },
+  {
+   "name": "Seattle Aquarium",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Waterfront",
+   "lat": 47.6075,
+   "lon": -122.34306,
+   "price": "Tickets",
+   "blurb": "Puget Sound sea life on Piers 59 and 60 of the downtown waterfront",
+   "blurbEs": "Vida marina del Puget Sound en los muelles 59 y 60 del frente costero del centro"
+  },
+  {
+   "name": "Woodland Park Zoo",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Phinney Ridge",
+   "lat": 47.66834,
+   "lon": -122.34984,
+   "price": "Tickets",
+   "blurb": "Seattle's zoo in Woodland Park, with WildLanterns after dark this season",
+   "blurbEs": "El zoológico de Seattle en Woodland Park, con WildLanterns de noche esta temporada"
   }
  ]
 }
