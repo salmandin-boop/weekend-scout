@@ -1,0 +1,136 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Birmingham
+X-WR-CALDESC:Hand-checked weekend picks in Birmingham, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:birmingham-birmingham-museum-of-art-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Birmingham Museum of Art
+LOCATION:Birmingham Museum of Art\, 2000 Rev. Abraham Woods Jr. Blvd\, Bir
+ mingham\, AL 35203
+DESCRIPTION:One of the Southeast’s largest art collections\, always free
+  to visit. Free admission. Details: https://weekendscout.app/e/birmingham/
+ birmingham-museum-of-art-2026-11/
+URL:https://weekendscout.app/e/birmingham/birmingham-museum-of-art-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:birmingham-birmingham-museum-of-art-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Birmingham Museum of Art
+LOCATION:Birmingham Museum of Art\, 2000 Rev. Abraham Woods Jr. Blvd\, Bir
+ mingham\, AL 35203
+DESCRIPTION:One of the Southeast’s largest art collections\, always free
+  to visit. Free admission. Details: https://weekendscout.app/e/birmingham/
+ birmingham-museum-of-art-2026-11/
+URL:https://weekendscout.app/e/birmingham/birmingham-museum-of-art-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:birmingham-birmingham-museum-of-art-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Birmingham Museum of Art
+LOCATION:Birmingham Museum of Art\, 2000 Rev. Abraham Woods Jr. Blvd\, Bir
+ mingham\, AL 35203
+DESCRIPTION:One of the Southeast’s largest art collections\, always free
+  to visit. Free admission. Details: https://weekendscout.app/e/birmingham/
+ birmingham-museum-of-art-2026-11/
+URL:https://weekendscout.app/e/birmingham/birmingham-museum-of-art-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:birmingham-uab-blazers-vs-auburn-montgomery-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261127T200000Z
+DTEND:20261127T220000Z
+SUMMARY:UAB Blazers vs. Auburn Montgomery
+LOCATION:Bartow Arena\, 617 13th St S\, Birmingham\, AL 35233
+DESCRIPTION:UAB men’s basketball on Black Friday afternoon. Tickets. Det
+ ails: https://weekendscout.app/e/birmingham/uab-blazers-vs-auburn-montgome
+ ry-2026-11/
+URL:https://weekendscout.app/e/birmingham/uab-blazers-vs-auburn-montgomery-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:birmingham-haha-davis-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261128T010000Z
+DTEND:20261128T030000Z
+SUMMARY:HaHa Davis
+LOCATION:StarDome Comedy Club\, 1818 Data Dr\, Hoover\, AL 35244
+DESCRIPTION:The viral comedian plays five shows at Birmingham’s big come
+ dy club. Tickets. Details: https://weekendscout.app/e/birmingham/haha-davi
+ s-2026-11/
+URL:https://weekendscout.app/e/birmingham/haha-davis-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:birmingham-haha-davis-2026-11-fri-1@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261128T031500Z
+DTEND:20261128T051500Z
+SUMMARY:HaHa Davis
+LOCATION:StarDome Comedy Club\, 1818 Data Dr\, Hoover\, AL 35244
+DESCRIPTION:The viral comedian plays five shows at Birmingham’s big come
+ dy club. Tickets. Details: https://weekendscout.app/e/birmingham/haha-davi
+ s-2026-11/
+URL:https://weekendscout.app/e/birmingham/haha-davis-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:birmingham-haha-davis-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:HaHa Davis
+LOCATION:StarDome Comedy Club\, 1818 Data Dr\, Hoover\, AL 35244
+DESCRIPTION:The viral comedian plays five shows at Birmingham’s big come
+ dy club. Tickets. Details: https://weekendscout.app/e/birmingham/haha-davi
+ s-2026-11/
+URL:https://weekendscout.app/e/birmingham/haha-davis-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:birmingham-haha-davis-2026-11-sat-1@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261129T033000Z
+DTEND:20261129T053000Z
+SUMMARY:HaHa Davis
+LOCATION:StarDome Comedy Club\, 1818 Data Dr\, Hoover\, AL 35244
+DESCRIPTION:The viral comedian plays five shows at Birmingham’s big come
+ dy club. Tickets. Details: https://weekendscout.app/e/birmingham/haha-davi
+ s-2026-11/
+URL:https://weekendscout.app/e/birmingham/haha-davis-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:birmingham-haha-davis-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261130T010000Z
+DTEND:20261130T030000Z
+SUMMARY:HaHa Davis
+LOCATION:StarDome Comedy Club\, 1818 Data Dr\, Hoover\, AL 35244
+DESCRIPTION:The viral comedian plays five shows at Birmingham’s big come
+ dy club. Tickets. Details: https://weekendscout.app/e/birmingham/haha-davi
+ s-2026-11/
+URL:https://weekendscout.app/e/birmingham/haha-davis-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:birmingham-samford-bulldogs-vs-point-university-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261129T220000Z
+DTEND:20261130T000000Z
+SUMMARY:Samford Bulldogs vs. Point University
+LOCATION:Pete Hanna Center\, 800 Lakeshore Dr\, Homewood\, AL 35229
+DESCRIPTION:Samford men’s basketball on Sunday afternoon. Tickets. Detai
+ ls: https://weekendscout.app/e/birmingham/samford-bulldogs-vs-point-univer
+ sity-2026-11/
+URL:https://weekendscout.app/e/birmingham/samford-bulldogs-vs-point-university-2026-11/
+END:VEVENT
+END:VCALENDAR

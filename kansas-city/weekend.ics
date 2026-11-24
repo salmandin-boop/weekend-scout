@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:kansas-city-mayors-christmas-tree-lighting-fri-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261128T000000Z
 DTEND:20261128T020000Z
 SUMMARY:Mayor's Christmas Tree Lighting Ceremony
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/kansas-city/mayors-christmas-tree-lighting/
 END:VEVENT
 BEGIN:VEVENT
 UID:kansas-city-kc-ballet-nutcracker-sat-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261128T200000Z
 DTEND:20261128T220000Z
 SUMMARY:The Nutcracker
@@ -36,7 +36,7 @@ URL:https://weekendscout.app/e/kansas-city/kc-ballet-nutcracker/
 END:VEVENT
 BEGIN:VEVENT
 UID:kansas-city-kc-ballet-nutcracker-sat-1@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261129T013000Z
 DTEND:20261129T033000Z
 SUMMARY:The Nutcracker
@@ -50,7 +50,7 @@ URL:https://weekendscout.app/e/kansas-city/kc-ballet-nutcracker/
 END:VEVENT
 BEGIN:VEVENT
 UID:kansas-city-kc-ballet-nutcracker-sun-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261129T190000Z
 DTEND:20261129T210000Z
 SUMMARY:The Nutcracker
@@ -64,7 +64,7 @@ URL:https://weekendscout.app/e/kansas-city/kc-ballet-nutcracker/
 END:VEVENT
 BEGIN:VEVENT
 UID:kansas-city-kc-ballet-nutcracker-sun-1@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261129T233000Z
 DTEND:20261130T013000Z
 SUMMARY:The Nutcracker
@@ -78,7 +78,7 @@ URL:https://weekendscout.app/e/kansas-city/kc-ballet-nutcracker/
 END:VEVENT
 BEGIN:VEVENT
 UID:kansas-city-kc-symphony-muppet-christmas-carol-fri-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261128T010000Z
 DTEND:20261128T030000Z
 SUMMARY:The Muppet Christmas Carol in Concert
@@ -92,7 +92,7 @@ URL:https://weekendscout.app/e/kansas-city/kc-symphony-muppet-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:kansas-city-kc-symphony-muppet-christmas-carol-sat-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261128T190000Z
 DTEND:20261128T210000Z
 SUMMARY:The Muppet Christmas Carol in Concert
@@ -106,7 +106,7 @@ URL:https://weekendscout.app/e/kansas-city/kc-symphony-muppet-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:kansas-city-kc-symphony-muppet-christmas-carol-sat-1@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261129T010000Z
 DTEND:20261129T030000Z
 SUMMARY:The Muppet Christmas Carol in Concert
@@ -120,7 +120,7 @@ URL:https://weekendscout.app/e/kansas-city/kc-symphony-muppet-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:kansas-city-kc-symphony-muppet-christmas-carol-sun-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261129T200000Z
 DTEND:20261129T220000Z
 SUMMARY:The Muppet Christmas Carol in Concert
@@ -134,7 +134,7 @@ URL:https://weekendscout.app/e/kansas-city/kc-symphony-muppet-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:kansas-city-kc-rep-christmas-carol-sat-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261128T200000Z
 DTEND:20261128T220000Z
 SUMMARY:A Christmas Carol
@@ -148,7 +148,7 @@ URL:https://weekendscout.app/e/kansas-city/kc-rep-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:kansas-city-godfrey-funny-bone-fri-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261128T010000Z
 DTEND:20261128T030000Z
 SUMMARY:Godfrey
@@ -160,7 +160,7 @@ URL:https://weekendscout.app/e/kansas-city/godfrey-funny-bone/
 END:VEVENT
 BEGIN:VEVENT
 UID:kansas-city-godfrey-funny-bone-fri-1@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261128T034500Z
 DTEND:20261128T054500Z
 SUMMARY:Godfrey
@@ -172,7 +172,7 @@ URL:https://weekendscout.app/e/kansas-city/godfrey-funny-bone/
 END:VEVENT
 BEGIN:VEVENT
 UID:kansas-city-godfrey-funny-bone-sat-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261129T003000Z
 DTEND:20261129T023000Z
 SUMMARY:Godfrey
@@ -184,7 +184,7 @@ URL:https://weekendscout.app/e/kansas-city/godfrey-funny-bone/
 END:VEVENT
 BEGIN:VEVENT
 UID:kansas-city-godfrey-funny-bone-sat-1@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261129T031500Z
 DTEND:20261129T051500Z
 SUMMARY:Godfrey
@@ -196,7 +196,7 @@ URL:https://weekendscout.app/e/kansas-city/godfrey-funny-bone/
 END:VEVENT
 BEGIN:VEVENT
 UID:kansas-city-mavericks-vs-wichita-thunder-fri-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261128T010500Z
 DTEND:20261128T030500Z
 SUMMARY:KC Mavericks vs. Wichita Thunder
@@ -209,7 +209,7 @@ URL:https://weekendscout.app/e/kansas-city/mavericks-vs-wichita-thunder/
 END:VEVENT
 BEGIN:VEVENT
 UID:kansas-city-light-up-the-pitch-fri-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261127T220000Z
 DTEND:20261128T040000Z
 SUMMARY:Light Up The Pitch
@@ -223,7 +223,7 @@ URL:https://weekendscout.app/e/kansas-city/light-up-the-pitch/
 END:VEVENT
 BEGIN:VEVENT
 UID:kansas-city-light-up-the-pitch-sat-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261128T220000Z
 DTEND:20261129T040000Z
 SUMMARY:Light Up The Pitch
@@ -237,7 +237,7 @@ URL:https://weekendscout.app/e/kansas-city/light-up-the-pitch/
 END:VEVENT
 BEGIN:VEVENT
 UID:kansas-city-light-up-the-pitch-sun-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261129T220000Z
 DTEND:20261130T040000Z
 SUMMARY:Light Up The Pitch
@@ -251,7 +251,7 @@ URL:https://weekendscout.app/e/kansas-city/light-up-the-pitch/
 END:VEVENT
 BEGIN:VEVENT
 UID:kansas-city-crown-center-ice-terrace-fri-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261127T160000Z
 DTEND:20261128T050000Z
 SUMMARY:Crown Center Ice Terrace
@@ -265,7 +265,7 @@ URL:https://weekendscout.app/e/kansas-city/crown-center-ice-terrace/
 END:VEVENT
 BEGIN:VEVENT
 UID:kansas-city-crown-center-ice-terrace-sat-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261128T160000Z
 DTEND:20261129T050000Z
 SUMMARY:Crown Center Ice Terrace
@@ -279,7 +279,7 @@ URL:https://weekendscout.app/e/kansas-city/crown-center-ice-terrace/
 END:VEVENT
 BEGIN:VEVENT
 UID:kansas-city-crown-center-ice-terrace-sun-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261129T160000Z
 DTEND:20261130T030000Z
 SUMMARY:Crown Center Ice Terrace
@@ -293,7 +293,7 @@ URL:https://weekendscout.app/e/kansas-city/crown-center-ice-terrace/
 END:VEVENT
 BEGIN:VEVENT
 UID:kansas-city-merry-market-city-market-sat-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261128T160000Z
 DTEND:20261128T220000Z
 SUMMARY:Merry Market
@@ -305,7 +305,7 @@ URL:https://weekendscout.app/e/kansas-city/merry-market-city-market/
 END:VEVENT
 BEGIN:VEVENT
 UID:kansas-city-merry-market-city-market-sun-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261129T160000Z
 DTEND:20261129T220000Z
 SUMMARY:Merry Market

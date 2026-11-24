@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:pittsburgh-grinch-musical-benedum-fri-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234831Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -23,7 +23,7 @@ URL:https://weekendscout.app/e/pittsburgh/grinch-musical-benedum/
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsburgh-grinch-musical-benedum-sat-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234831Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -37,7 +37,7 @@ URL:https://weekendscout.app/e/pittsburgh/grinch-musical-benedum/
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsburgh-grinch-musical-benedum-sun-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234831Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -51,7 +51,7 @@ URL:https://weekendscout.app/e/pittsburgh/grinch-musical-benedum/
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsburgh-pso-strauss-tchaikovsky-sat-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234831Z
 DTSTART:20261129T003000Z
 DTEND:20261129T023000Z
 SUMMARY:Pittsburgh Symphony: Strauss and Tchaikovsky
@@ -64,7 +64,7 @@ URL:https://weekendscout.app/e/pittsburgh/pso-strauss-tchaikovsky/
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsburgh-pso-strauss-tchaikovsky-sun-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234831Z
 DTSTART:20261129T193000Z
 DTEND:20261129T213000Z
 SUMMARY:Pittsburgh Symphony: Strauss and Tchaikovsky
@@ -77,7 +77,7 @@ URL:https://weekendscout.app/e/pittsburgh/pso-strauss-tchaikovsky/
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsburgh-jim-brickman-christmas-byham-sat-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234831Z
 DTSTART:20261129T003000Z
 DTEND:20261129T023000Z
 SUMMARY:Jim Brickman: A Christmas Celebration LIVE!
@@ -90,7 +90,7 @@ URL:https://weekendscout.app/e/pittsburgh/jim-brickman-christmas-byham/
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsburgh-ismo-pittsburgh-improv-fri-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234831Z
 DTSTART:20261128T000000Z
 DTEND:20261128T020000Z
 SUMMARY:Ismo
@@ -102,7 +102,7 @@ URL:https://weekendscout.app/e/pittsburgh/ismo-pittsburgh-improv/
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsburgh-ismo-pittsburgh-improv-sat-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234831Z
 DTSTART:20261128T233000Z
 DTEND:20261129T013000Z
 SUMMARY:Ismo
@@ -114,7 +114,7 @@ URL:https://weekendscout.app/e/pittsburgh/ismo-pittsburgh-improv/
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsburgh-ismo-pittsburgh-improv-sat-1@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234831Z
 DTSTART:20261129T020000Z
 DTEND:20261129T040000Z
 SUMMARY:Ismo
@@ -126,7 +126,7 @@ URL:https://weekendscout.app/e/pittsburgh/ismo-pittsburgh-improv/
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsburgh-ismo-pittsburgh-improv-sun-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234831Z
 DTSTART:20261129T230000Z
 DTEND:20261130T010000Z
 SUMMARY:Ismo
@@ -138,7 +138,7 @@ URL:https://weekendscout.app/e/pittsburgh/ismo-pittsburgh-improv/
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsburgh-phipps-holiday-magic-fri-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234831Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -153,7 +153,7 @@ URL:https://weekendscout.app/e/pittsburgh/phipps-holiday-magic/
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsburgh-phipps-holiday-magic-sat-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234831Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -168,7 +168,7 @@ URL:https://weekendscout.app/e/pittsburgh/phipps-holiday-magic/
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsburgh-phipps-holiday-magic-sun-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234831Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -183,7 +183,7 @@ URL:https://weekendscout.app/e/pittsburgh/phipps-holiday-magic/
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsburgh-steelers-broncos-black-friday-fri-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234831Z
 DTSTART:20261127T200000Z
 DTEND:20261127T220000Z
 SUMMARY:Steelers vs. Broncos
@@ -195,7 +195,7 @@ URL:https://weekendscout.app/e/pittsburgh/steelers-broncos-black-friday/
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsburgh-penguins-maple-leafs-sat-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234831Z
 DTSTART:20261129T000000Z
 DTEND:20261129T020000Z
 SUMMARY:Penguins vs. Maple Leafs
@@ -207,7 +207,7 @@ URL:https://weekendscout.app/e/pittsburgh/penguins-maple-leafs/
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsburgh-peoples-gas-holiday-market-fri-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234831Z
 DTSTART:20261127T160000Z
 DTEND:20261128T023000Z
 SUMMARY:Peoples Gas Holiday Market
@@ -219,7 +219,7 @@ URL:https://weekendscout.app/e/pittsburgh/peoples-gas-holiday-market/
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsburgh-peoples-gas-holiday-market-sat-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234831Z
 DTSTART:20261128T160000Z
 DTEND:20261129T023000Z
 SUMMARY:Peoples Gas Holiday Market
@@ -231,7 +231,7 @@ URL:https://weekendscout.app/e/pittsburgh/peoples-gas-holiday-market/
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsburgh-peoples-gas-holiday-market-sun-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234831Z
 DTSTART:20261129T160000Z
 DTEND:20261129T230000Z
 SUMMARY:Peoples Gas Holiday Market

@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Fresno
+X-WR-CALDESC:Hand-checked weekend picks in Fresno, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:fresno-small-business-saturday-in-old-town-clovis-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Small Business Saturday in Old Town Clovis
+LOCATION:Old Town Clovis\, Pollasky Ave\, Clovis\, CA 93612
+DESCRIPTION:Shop the independent boutiques\, antique stores and cafés of 
+ Old Town Clovis on Small Business Saturday. Free to browse. Details: https
+ ://weekendscout.app/e/fresno/small-business-saturday-in-old-town-clovis-20
+ 26-11/
+URL:https://weekendscout.app/e/fresno/small-business-saturday-in-old-town-clovis-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fresno-fresno-state-bulldogs-vs-oregon-state-beavers-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261129T030000Z
+DTEND:20261129T050000Z
+SUMMARY:Fresno State Bulldogs vs. Oregon State Beavers
+LOCATION:Valley Children’s Stadium\, 1001 E Bulldog Ln\, Fresno\, CA 937
+ 40
+DESCRIPTION:Bulldogs football on Saturday night. Tickets. Details: https:/
+ /weekendscout.app/e/fresno/fresno-state-bulldogs-vs-oregon-state-beavers-2
+ 026-11/
+URL:https://weekendscout.app/e/fresno/fresno-state-bulldogs-vs-oregon-state-beavers-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fresno-the-music-of-hey-arnold-live-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261129T040000Z
+DTEND:20261129T060000Z
+SUMMARY:The Music of Hey Arnold Live!
+LOCATION:Tower Theatre\, 815 E Olive Ave\, Fresno\, CA 93728
+DESCRIPTION:The cartoon’s soundtrack played live in the Tower District
+ ’s landmark theater. Tickets. Details: https://weekendscout.app/e/fresno
+ /the-music-of-hey-arnold-live-2026-11/
+URL:https://weekendscout.app/e/fresno/the-music-of-hey-arnold-live-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fresno-becky-robinson-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261130T020000Z
+DTEND:20261130T040000Z
+SUMMARY:Becky Robinson
+LOCATION:Tower Theatre\, 815 E Olive Ave\, Fresno\, CA 93728
+DESCRIPTION:Stand-up from the comedian behind the viral character videos. 
+ Tickets. Details: https://weekendscout.app/e/fresno/becky-robinson-2026-11
+ /
+URL:https://weekendscout.app/e/fresno/becky-robinson-2026-11/
+END:VEVENT
+END:VCALENDAR

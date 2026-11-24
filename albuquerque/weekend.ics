@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Albuquerque
+X-WR-CALDESC:Hand-checked weekend picks in Albuquerque, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:albuquerque-albuquerque-museum-free-sunday-morning-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261129T160000Z
+DTEND:20261129T200000Z
+SUMMARY:Albuquerque Museum (free Sunday morning)
+LOCATION:Albuquerque Museum\, 2000 Mountain Rd NW\, Albuquerque\, NM 87104
+DESCRIPTION:Art and history of the Southwest by Old Town\, free on Sunday 
+ mornings. Free Sunday 9 a.m.–1 p.m.. Details: https://weekendscout.app/e
+ /albuquerque/albuquerque-museum-free-sunday-morning-2026-11/
+URL:https://weekendscout.app/e/albuquerque/albuquerque-museum-free-sunday-morning-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:albuquerque-river-of-lights-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261129T000000Z
+DTEND:20261129T050000Z
+SUMMARY:River of Lights
+LOCATION:ABQ BioPark Botanic Garden\, 2601 Central Ave NW\, Albuquerque\, 
+ NM 87104
+DESCRIPTION:Opening weekend of New Mexico’s largest walk-through light s
+ how. Free Park & Ride from the BioPark Zoo. Tickets. Details: https://week
+ endscout.app/e/albuquerque/river-of-lights-2026-11/
+URL:https://weekendscout.app/e/albuquerque/river-of-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:albuquerque-river-of-lights-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261130T000000Z
+DTEND:20261130T050000Z
+SUMMARY:River of Lights
+LOCATION:ABQ BioPark Botanic Garden\, 2601 Central Ave NW\, Albuquerque\, 
+ NM 87104
+DESCRIPTION:Opening weekend of New Mexico’s largest walk-through light s
+ how. Free Park & Ride from the BioPark Zoo. Tickets. Details: https://week
+ endscout.app/e/albuquerque/river-of-lights-2026-11/
+URL:https://weekendscout.app/e/albuquerque/river-of-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:albuquerque-nutcracker-magical-christmas-ballet-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261127T220000Z
+DTEND:20261128T000000Z
+SUMMARY:Nutcracker! Magical Christmas Ballet
+LOCATION:Kiva Auditorium\, 401 2nd St NW\, Albuquerque\, NM 87102
+DESCRIPTION:The touring holiday ballet with acrobats and giant puppets. Ti
+ ckets. Details: https://weekendscout.app/e/albuquerque/nutcracker-magical-
+ christmas-ballet-2026-11/
+URL:https://weekendscout.app/e/albuquerque/nutcracker-magical-christmas-ballet-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:albuquerque-nutcracker-magical-christmas-ballet-2026-11-fri-1@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261128T020000Z
+DTEND:20261128T040000Z
+SUMMARY:Nutcracker! Magical Christmas Ballet
+LOCATION:Kiva Auditorium\, 401 2nd St NW\, Albuquerque\, NM 87102
+DESCRIPTION:The touring holiday ballet with acrobats and giant puppets. Ti
+ ckets. Details: https://weekendscout.app/e/albuquerque/nutcracker-magical-
+ christmas-ballet-2026-11/
+URL:https://weekendscout.app/e/albuquerque/nutcracker-magical-christmas-ballet-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:albuquerque-new-mexico-lobos-vs-air-force-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261127T213000Z
+DTEND:20261127T233000Z
+SUMMARY:New Mexico Lobos vs. Air Force
+LOCATION:University Stadium\, 1414 University Blvd SE\, Albuquerque\, NM 8
+ 7106
+DESCRIPTION:Lobo football on Black Friday afternoon. Tickets. Details: htt
+ ps://weekendscout.app/e/albuquerque/new-mexico-lobos-vs-air-force-2026-11/
+URL:https://weekendscout.app/e/albuquerque/new-mexico-lobos-vs-air-force-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:albuquerque-jim-henson-s-fraggle-rock-live-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261130T010000Z
+DTEND:20261130T030000Z
+SUMMARY:Jim Henson’s Fraggle Rock Live
+LOCATION:Popejoy Hall\, 203 Cornell Dr NE\, Albuquerque\, NM 87106
+DESCRIPTION:The Fraggles on stage in a live family show. Tickets. Details:
+  https://weekendscout.app/e/albuquerque/jim-henson-s-fraggle-rock-live-202
+ 6-11/
+URL:https://weekendscout.app/e/albuquerque/jim-henson-s-fraggle-rock-live-2026-11/
+END:VEVENT
+END:VCALENDAR

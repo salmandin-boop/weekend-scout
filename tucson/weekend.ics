@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Tucson
+X-WR-CALDESC:Hand-checked weekend picks in Tucson, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:tucson-holiday-arts-crafts-fair-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261128T160000Z
+DTEND:20261128T230000Z
+SUMMARY:Holiday Arts & Crafts Fair
+LOCATION:Gene C. Reid Park\, 920 S Concert Pl\, Tucson\, AZ 85716
+DESCRIPTION:The city’s holiday fair in Reid Park\, with local makers and
+  handmade gifts. Enter off Country Club Rd. Free. Details: https://weekend
+ scout.app/e/tucson/holiday-arts-crafts-fair-2026-11/
+URL:https://weekendscout.app/e/tucson/holiday-arts-crafts-fair-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:tucson-holiday-arts-crafts-fair-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261129T160000Z
+DTEND:20261129T220000Z
+SUMMARY:Holiday Arts & Crafts Fair
+LOCATION:Gene C. Reid Park\, 920 S Concert Pl\, Tucson\, AZ 85716
+DESCRIPTION:The city’s holiday fair in Reid Park\, with local makers and
+  handmade gifts. Enter off Country Club Rd. Free. Details: https://weekend
+ scout.app/e/tucson/holiday-arts-crafts-fair-2026-11/
+URL:https://weekendscout.app/e/tucson/holiday-arts-crafts-fair-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:tucson-arizona-wildcats-vs-arizona-state-sun-devils-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261129T020000Z
+DTEND:20261129T040000Z
+SUMMARY:Arizona Wildcats vs. Arizona State Sun Devils
+LOCATION:Casino Del Sol Stadium\, 1 N National Championship Dr\, Tucson\, 
+ AZ 85719
+DESCRIPTION:The Territorial Cup rivalry game\, at home in Tucson this year
+ . Tickets. Details: https://weekendscout.app/e/tucson/arizona-wildcats-vs-
+ arizona-state-sun-devils-2026-11/
+URL:https://weekendscout.app/e/tucson/arizona-wildcats-vs-arizona-state-sun-devils-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:tucson-tucson-roadrunners-vs-san-jose-barracuda-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261129T020000Z
+DTEND:20261129T040000Z
+SUMMARY:Tucson Roadrunners vs. San Jose Barracuda
+LOCATION:Tucson Arena\, 260 S Church Ave\, Tucson\, AZ 85701
+DESCRIPTION:AHL hockey downtown at the Tucson Convention Center. Tickets. 
+ Details: https://weekendscout.app/e/tucson/tucson-roadrunners-vs-san-jose-
+ barracuda-2026-11/
+URL:https://weekendscout.app/e/tucson/tucson-roadrunners-vs-san-jose-barracuda-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:tucson-the-nutcracker-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261128T210000Z
+DTEND:20261128T230000Z
+SUMMARY:The Nutcracker
+LOCATION:Leo Rich Theater\, 260 S Church Ave\, Tucson\, AZ 85701
+DESCRIPTION:Dancing in the Streets Arizona’s holiday ballet\, two matine
+ es. Tickets. Details: https://weekendscout.app/e/tucson/the-nutcracker-202
+ 6-11/
+URL:https://weekendscout.app/e/tucson/the-nutcracker-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:tucson-the-nutcracker-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261129T210000Z
+DTEND:20261129T230000Z
+SUMMARY:The Nutcracker
+LOCATION:Leo Rich Theater\, 260 S Church Ave\, Tucson\, AZ 85701
+DESCRIPTION:Dancing in the Streets Arizona’s holiday ballet\, two matine
+ es. Tickets. Details: https://weekendscout.app/e/tucson/the-nutcracker-202
+ 6-11/
+URL:https://weekendscout.app/e/tucson/the-nutcracker-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:tucson-the-fab-four-the-ultimate-tribute-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261129T023000Z
+DTEND:20261129T043000Z
+SUMMARY:The Fab Four: The Ultimate Tribute
+LOCATION:Fox Tucson Theatre\, 17 W Congress St\, Tucson\, AZ 85701
+DESCRIPTION:The Beatles tribute band in the restored 1930 downtown theater
+ . Tickets. Details: https://weekendscout.app/e/tucson/the-fab-four-the-ult
+ imate-tribute-2026-11/
+URL:https://weekendscout.app/e/tucson/the-fab-four-the-ultimate-tribute-2026-11/
+END:VEVENT
+END:VCALENDAR

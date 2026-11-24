@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:indianapolis-circle-of-lights-fri-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261127T220000Z
 DTEND:20261128T010000Z
 SUMMARY:Circle of Lights
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/indianapolis/circle-of-lights/
 END:VEVENT
 BEGIN:VEVENT
 UID:indianapolis-pacers-vs-76ers-fri-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261128T003000Z
 DTEND:20261128T023000Z
 SUMMARY:Pacers vs. Philadelphia 76ers
@@ -34,7 +34,7 @@ URL:https://weekendscout.app/e/indianapolis/pacers-vs-76ers/
 END:VEVENT
 BEGIN:VEVENT
 UID:indianapolis-colts-vs-giants-sun-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261129T180000Z
 DTEND:20261129T200000Z
 SUMMARY:Colts vs. New York Giants
@@ -46,7 +46,7 @@ URL:https://weekendscout.app/e/indianapolis/colts-vs-giants/
 END:VEVENT
 BEGIN:VEVENT
 UID:indianapolis-irt-christmas-carol-fri-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261127T220000Z
 DTEND:20261128T000000Z
 SUMMARY:Charles Dickens' A Christmas Carol
@@ -60,7 +60,7 @@ URL:https://weekendscout.app/e/indianapolis/irt-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:indianapolis-irt-christmas-carol-sat-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261128T190000Z
 DTEND:20261128T210000Z
 SUMMARY:Charles Dickens' A Christmas Carol
@@ -74,7 +74,7 @@ URL:https://weekendscout.app/e/indianapolis/irt-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:indianapolis-irt-christmas-carol-sat-1@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261129T000000Z
 DTEND:20261129T020000Z
 SUMMARY:Charles Dickens' A Christmas Carol
@@ -88,7 +88,7 @@ URL:https://weekendscout.app/e/indianapolis/irt-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:indianapolis-irt-christmas-carol-sun-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261129T190000Z
 DTEND:20261129T210000Z
 SUMMARY:Charles Dickens' A Christmas Carol
@@ -102,7 +102,7 @@ URL:https://weekendscout.app/e/indianapolis/irt-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:indianapolis-irt-christmas-carol-sun-1@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261129T230000Z
 DTEND:20261130T010000Z
 SUMMARY:Charles Dickens' A Christmas Carol
@@ -116,7 +116,7 @@ URL:https://weekendscout.app/e/indianapolis/irt-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:indianapolis-tony-rock-helium-fri-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261128T000000Z
 DTEND:20261128T020000Z
 SUMMARY:Tony Rock
@@ -128,7 +128,7 @@ URL:https://weekendscout.app/e/indianapolis/tony-rock-helium/
 END:VEVENT
 BEGIN:VEVENT
 UID:indianapolis-tony-rock-helium-fri-1@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261128T021500Z
 DTEND:20261128T041500Z
 SUMMARY:Tony Rock
@@ -140,7 +140,7 @@ URL:https://weekendscout.app/e/indianapolis/tony-rock-helium/
 END:VEVENT
 BEGIN:VEVENT
 UID:indianapolis-tony-rock-helium-sat-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261129T000000Z
 DTEND:20261129T020000Z
 SUMMARY:Tony Rock
@@ -152,7 +152,7 @@ URL:https://weekendscout.app/e/indianapolis/tony-rock-helium/
 END:VEVENT
 BEGIN:VEVENT
 UID:indianapolis-tony-rock-helium-sat-1@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261129T023000Z
 DTEND:20261129T043000Z
 SUMMARY:Tony Rock
@@ -164,7 +164,7 @@ URL:https://weekendscout.app/e/indianapolis/tony-rock-helium/
 END:VEVENT
 BEGIN:VEVENT
 UID:indianapolis-tony-rock-helium-sun-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261130T010000Z
 DTEND:20261130T030000Z
 SUMMARY:Tony Rock
@@ -176,7 +176,7 @@ URL:https://weekendscout.app/e/indianapolis/tony-rock-helium/
 END:VEVENT
 BEGIN:VEVENT
 UID:indianapolis-rival-sons-vogue-sat-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261129T005000Z
 DTEND:20261129T025000Z
 SUMMARY:Rival Sons
@@ -188,7 +188,7 @@ URL:https://weekendscout.app/e/indianapolis/rival-sons-vogue/
 END:VEVENT
 BEGIN:VEVENT
 UID:indianapolis-christmas-at-the-zoo-fri-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261127T220000Z
 DTEND:20261128T000000Z
 SUMMARY:Christmas at the Zoo
@@ -200,7 +200,7 @@ URL:https://weekendscout.app/e/indianapolis/christmas-at-the-zoo/
 END:VEVENT
 BEGIN:VEVENT
 UID:indianapolis-christmas-at-the-zoo-sat-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261128T220000Z
 DTEND:20261129T000000Z
 SUMMARY:Christmas at the Zoo
@@ -212,7 +212,7 @@ URL:https://weekendscout.app/e/indianapolis/christmas-at-the-zoo/
 END:VEVENT
 BEGIN:VEVENT
 UID:indianapolis-christmas-at-the-zoo-sun-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261129T220000Z
 DTEND:20261130T000000Z
 SUMMARY:Christmas at the Zoo
@@ -224,7 +224,7 @@ URL:https://weekendscout.app/e/indianapolis/christmas-at-the-zoo/
 END:VEVENT
 BEGIN:VEVENT
 UID:indianapolis-carmel-christkindlmarkt-fri-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261127T170000Z
 DTEND:20261128T020000Z
 SUMMARY:Carmel Christkindlmarkt
@@ -237,7 +237,7 @@ URL:https://weekendscout.app/e/indianapolis/carmel-christkindlmarkt/
 END:VEVENT
 BEGIN:VEVENT
 UID:indianapolis-carmel-christkindlmarkt-sat-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261128T170000Z
 DTEND:20261129T020000Z
 SUMMARY:Carmel Christkindlmarkt
@@ -250,7 +250,7 @@ URL:https://weekendscout.app/e/indianapolis/carmel-christkindlmarkt/
 END:VEVENT
 BEGIN:VEVENT
 UID:indianapolis-carmel-christkindlmarkt-sun-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261129T170000Z
 DTEND:20261130T010000Z
 SUMMARY:Carmel Christkindlmarkt
@@ -263,7 +263,7 @@ URL:https://weekendscout.app/e/indianapolis/carmel-christkindlmarkt/
 END:VEVENT
 BEGIN:VEVENT
 UID:indianapolis-indy-fuel-vs-bison-sun-0@weekendscout.app
-DTSTAMP:20261124T180451Z
+DTSTAMP:20261124T234830Z
 DTSTART:20261129T210000Z
 DTEND:20261129T230000Z
 SUMMARY:Indy Fuel vs. Bloomington Bison

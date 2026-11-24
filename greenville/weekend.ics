@@ -1,0 +1,143 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Greenville
+X-WR-CALDESC:Hand-checked weekend picks in Greenville, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:greenville-camperdown-plaza-holiday-market-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Camperdown Plaza Holiday Market
+LOCATION:Camperdown Plaza\, S Main St at Broad St\, Greenville\, SC 29601
+DESCRIPTION:The sixth annual holiday market at Camperdown\, by Falls Park.
+  Free to browse. Details: https://weekendscout.app/e/greenville/camperdown
+ -plaza-holiday-market-2026-11/
+URL:https://weekendscout.app/e/greenville/camperdown-plaza-holiday-market-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:greenville-united-community-ice-on-main-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:United Community Ice on Main
+LOCATION:Village Green\, downtown Greenville\, Downtown Greenville\, SC 29
+ 601
+DESCRIPTION:The downtown outdoor ice rink\, open daily through Jan. 18\; b
+ uy ahead. $5–$12. Details: https://weekendscout.app/e/greenville/united-
+ community-ice-on-main-2026-11/
+URL:https://weekendscout.app/e/greenville/united-community-ice-on-main-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:greenville-united-community-ice-on-main-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:United Community Ice on Main
+LOCATION:Village Green\, downtown Greenville\, Downtown Greenville\, SC 29
+ 601
+DESCRIPTION:The downtown outdoor ice rink\, open daily through Jan. 18\; b
+ uy ahead. $5–$12. Details: https://weekendscout.app/e/greenville/united-
+ community-ice-on-main-2026-11/
+URL:https://weekendscout.app/e/greenville/united-community-ice-on-main-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:greenville-united-community-ice-on-main-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:United Community Ice on Main
+LOCATION:Village Green\, downtown Greenville\, Downtown Greenville\, SC 29
+ 601
+DESCRIPTION:The downtown outdoor ice rink\, open daily through Jan. 18\; b
+ uy ahead. $5–$12. Details: https://weekendscout.app/e/greenville/united-
+ community-ice-on-main-2026-11/
+URL:https://weekendscout.app/e/greenville/united-community-ice-on-main-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:greenville-disney-on-ice-spotlight-magic-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261127T153000Z
+DTEND:20261127T173000Z
+SUMMARY:Disney On Ice: Spotlight Magic!
+LOCATION:Bon Secours Wellness Arena\, 650 N Academy St\, Greenville\, SC 2
+ 9601
+DESCRIPTION:Disney characters on skates\, two shows a day all weekend. Tic
+ kets. Details: https://weekendscout.app/e/greenville/disney-on-ice-spotlig
+ ht-magic-2026-11/
+URL:https://weekendscout.app/e/greenville/disney-on-ice-spotlight-magic-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:greenville-disney-on-ice-spotlight-magic-2026-11-fri-1@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261127T193000Z
+DTEND:20261127T213000Z
+SUMMARY:Disney On Ice: Spotlight Magic!
+LOCATION:Bon Secours Wellness Arena\, 650 N Academy St\, Greenville\, SC 2
+ 9601
+DESCRIPTION:Disney characters on skates\, two shows a day all weekend. Tic
+ kets. Details: https://weekendscout.app/e/greenville/disney-on-ice-spotlig
+ ht-magic-2026-11/
+URL:https://weekendscout.app/e/greenville/disney-on-ice-spotlight-magic-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:greenville-disney-on-ice-spotlight-magic-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261128T153000Z
+DTEND:20261128T173000Z
+SUMMARY:Disney On Ice: Spotlight Magic!
+LOCATION:Bon Secours Wellness Arena\, 650 N Academy St\, Greenville\, SC 2
+ 9601
+DESCRIPTION:Disney characters on skates\, two shows a day all weekend. Tic
+ kets. Details: https://weekendscout.app/e/greenville/disney-on-ice-spotlig
+ ht-magic-2026-11/
+URL:https://weekendscout.app/e/greenville/disney-on-ice-spotlight-magic-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:greenville-disney-on-ice-spotlight-magic-2026-11-sat-1@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261128T193000Z
+DTEND:20261128T213000Z
+SUMMARY:Disney On Ice: Spotlight Magic!
+LOCATION:Bon Secours Wellness Arena\, 650 N Academy St\, Greenville\, SC 2
+ 9601
+DESCRIPTION:Disney characters on skates\, two shows a day all weekend. Tic
+ kets. Details: https://weekendscout.app/e/greenville/disney-on-ice-spotlig
+ ht-magic-2026-11/
+URL:https://weekendscout.app/e/greenville/disney-on-ice-spotlight-magic-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:greenville-disney-on-ice-spotlight-magic-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261129T153000Z
+DTEND:20261129T173000Z
+SUMMARY:Disney On Ice: Spotlight Magic!
+LOCATION:Bon Secours Wellness Arena\, 650 N Academy St\, Greenville\, SC 2
+ 9601
+DESCRIPTION:Disney characters on skates\, two shows a day all weekend. Tic
+ kets. Details: https://weekendscout.app/e/greenville/disney-on-ice-spotlig
+ ht-magic-2026-11/
+URL:https://weekendscout.app/e/greenville/disney-on-ice-spotlight-magic-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:greenville-disney-on-ice-spotlight-magic-2026-11-sun-1@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261129T193000Z
+DTEND:20261129T213000Z
+SUMMARY:Disney On Ice: Spotlight Magic!
+LOCATION:Bon Secours Wellness Arena\, 650 N Academy St\, Greenville\, SC 2
+ 9601
+DESCRIPTION:Disney characters on skates\, two shows a day all weekend. Tic
+ kets. Details: https://weekendscout.app/e/greenville/disney-on-ice-spotlig
+ ht-magic-2026-11/
+URL:https://weekendscout.app/e/greenville/disney-on-ice-spotlight-magic-2026-11/
+END:VEVENT
+END:VCALENDAR

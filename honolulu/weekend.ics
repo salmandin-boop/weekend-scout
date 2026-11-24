@@ -1,0 +1,109 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Honolulu
+X-WR-CALDESC:Hand-checked weekend picks in Honolulu, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:honolulu-waikiki-holiday-parade-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261128T050000Z
+DTEND:20261128T070000Z
+SUMMARY:Waikiki Holiday Parade
+LOCATION:Kalakaua Avenue\, Kalakaua Ave\, Fort DeRussy to Kapiolani Park\,
+  Honolulu\, HI 96815
+DESCRIPTION:Marching bands from across the country parade 1.5 miles down K
+ alakaua Avenue the night after Thanksgiving. Free. Details: https://weeken
+ dscout.app/e/honolulu/waikiki-holiday-parade-2026-11/
+URL:https://weekendscout.app/e/honolulu/waikiki-holiday-parade-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:honolulu-jo-koy-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261128T060000Z
+DTEND:20261128T080000Z
+SUMMARY:Jo Koy
+LOCATION:Neal S. Blaisdell Center Arena\, 777 Ward Ave\, Honolulu\, HI 968
+ 14
+DESCRIPTION:The comedian plays a hometown-crowd favorite\, the Blaisdell A
+ rena. Tickets. Details: https://weekendscout.app/e/honolulu/jo-koy-2026-11
+ /
+URL:https://weekendscout.app/e/honolulu/jo-koy-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:honolulu-josh-johnson-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261128T050000Z
+DTEND:20261128T070000Z
+SUMMARY:Josh Johnson
+LOCATION:Hawaii Theatre\, 1130 Bethel St\, Honolulu\, HI 96813
+DESCRIPTION:Stand-up from the Daily Show writer and comic in the historic 
+ downtown theater. Tickets. Details: https://weekendscout.app/e/honolulu/jo
+ sh-johnson-2026-11/
+URL:https://weekendscout.app/e/honolulu/josh-johnson-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:honolulu-the-book-of-mormon-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261128T000000Z
+DTEND:20261128T020000Z
+SUMMARY:The Book of Mormon
+LOCATION:Neal S. Blaisdell Center Concert Hall\, 777 Ward Ave\, Honolulu\,
+  HI 96814
+DESCRIPTION:The Tony-winning musical comedy\; adult humor. Tickets. Detail
+ s: https://weekendscout.app/e/honolulu/the-book-of-mormon-2026-11/
+URL:https://weekendscout.app/e/honolulu/the-book-of-mormon-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:honolulu-the-book-of-mormon-2026-11-fri-1@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261128T060000Z
+DTEND:20261128T080000Z
+SUMMARY:The Book of Mormon
+LOCATION:Neal S. Blaisdell Center Concert Hall\, 777 Ward Ave\, Honolulu\,
+  HI 96814
+DESCRIPTION:The Tony-winning musical comedy\; adult humor. Tickets. Detail
+ s: https://weekendscout.app/e/honolulu/the-book-of-mormon-2026-11/
+URL:https://weekendscout.app/e/honolulu/the-book-of-mormon-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:honolulu-the-book-of-mormon-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:The Book of Mormon
+LOCATION:Neal S. Blaisdell Center Concert Hall\, 777 Ward Ave\, Honolulu\,
+  HI 96814
+DESCRIPTION:The Tony-winning musical comedy\; adult humor. Tickets. Detail
+ s: https://weekendscout.app/e/honolulu/the-book-of-mormon-2026-11/
+URL:https://weekendscout.app/e/honolulu/the-book-of-mormon-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:honolulu-hawai-i-rainbow-warriors-football-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261129T040000Z
+DTEND:20261129T060000Z
+SUMMARY:Hawaiʻi Rainbow Warriors football
+LOCATION:Clarence T.C. Ching Athletics Complex\, 1337 Lower Campus Rd\, Ho
+ nolulu\, HI 96822
+DESCRIPTION:UH football on Saturday night in Mānoa. Tickets. Details: htt
+ ps://weekendscout.app/e/honolulu/hawai-i-rainbow-warriors-football-2026-11
+ /
+URL:https://weekendscout.app/e/honolulu/hawai-i-rainbow-warriors-football-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:honolulu-anuhea-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261130T040000Z
+DTEND:20261130T060000Z
+SUMMARY:Anuhea
+LOCATION:Blue Note Hawaii\, 2335 Kalakaua Ave\, Honolulu\, HI 96815
+DESCRIPTION:The Maui-born singer-songwriter in Waikīkī’s intimate jazz
+  club. Tickets. Details: https://weekendscout.app/e/honolulu/anuhea-2026-1
+ 1/
+URL:https://weekendscout.app/e/honolulu/anuhea-2026-11/
+END:VEVENT
+END:VCALENDAR

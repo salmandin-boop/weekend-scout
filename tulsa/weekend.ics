@@ -1,0 +1,121 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Tulsa
+X-WR-CALDESC:Hand-checked weekend picks in Tulsa, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:tulsa-rhema-christmas-lights-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261127T233000Z
+DTEND:20261128T053000Z
+SUMMARY:Rhema Christmas Lights
+LOCATION:Rhema Bible Church\, 1025 W Kenosha St\, Broken Arrow\, OK 74012
+DESCRIPTION:More than 2 million lights on the Rhema campus\, a Tulsa-area 
+ tradition for over 40 years. Express train rides are extra. Free (train $5
+ –$10). Details: https://weekendscout.app/e/tulsa/rhema-christmas-lights-
+ 2026-11/
+URL:https://weekendscout.app/e/tulsa/rhema-christmas-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:tulsa-rhema-christmas-lights-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261128T233000Z
+DTEND:20261129T053000Z
+SUMMARY:Rhema Christmas Lights
+LOCATION:Rhema Bible Church\, 1025 W Kenosha St\, Broken Arrow\, OK 74012
+DESCRIPTION:More than 2 million lights on the Rhema campus\, a Tulsa-area 
+ tradition for over 40 years. Express train rides are extra. Free (train $5
+ –$10). Details: https://weekendscout.app/e/tulsa/rhema-christmas-lights-
+ 2026-11/
+URL:https://weekendscout.app/e/tulsa/rhema-christmas-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:tulsa-rhema-christmas-lights-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261129T233000Z
+DTEND:20261130T053000Z
+SUMMARY:Rhema Christmas Lights
+LOCATION:Rhema Bible Church\, 1025 W Kenosha St\, Broken Arrow\, OK 74012
+DESCRIPTION:More than 2 million lights on the Rhema campus\, a Tulsa-area 
+ tradition for over 40 years. Express train rides are extra. Free (train $5
+ –$10). Details: https://weekendscout.app/e/tulsa/rhema-christmas-lights-
+ 2026-11/
+URL:https://weekendscout.app/e/tulsa/rhema-christmas-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:tulsa-the-phantom-of-the-opera-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261127T190000Z
+DTEND:20261127T210000Z
+SUMMARY:The Phantom of the Opera
+LOCATION:Chapman Music Hall\, Tulsa PAC\, 110 E 2nd St\, Tulsa\, OK 74103
+DESCRIPTION:The touring Broadway classic\, with five shows this weekend. T
+ ickets. Details: https://weekendscout.app/e/tulsa/the-phantom-of-the-opera
+ -2026-11/
+URL:https://weekendscout.app/e/tulsa/the-phantom-of-the-opera-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:tulsa-the-phantom-of-the-opera-2026-11-fri-1@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261128T013000Z
+DTEND:20261128T033000Z
+SUMMARY:The Phantom of the Opera
+LOCATION:Chapman Music Hall\, Tulsa PAC\, 110 E 2nd St\, Tulsa\, OK 74103
+DESCRIPTION:The touring Broadway classic\, with five shows this weekend. T
+ ickets. Details: https://weekendscout.app/e/tulsa/the-phantom-of-the-opera
+ -2026-11/
+URL:https://weekendscout.app/e/tulsa/the-phantom-of-the-opera-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:tulsa-the-phantom-of-the-opera-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261128T200000Z
+DTEND:20261128T220000Z
+SUMMARY:The Phantom of the Opera
+LOCATION:Chapman Music Hall\, Tulsa PAC\, 110 E 2nd St\, Tulsa\, OK 74103
+DESCRIPTION:The touring Broadway classic\, with five shows this weekend. T
+ ickets. Details: https://weekendscout.app/e/tulsa/the-phantom-of-the-opera
+ -2026-11/
+URL:https://weekendscout.app/e/tulsa/the-phantom-of-the-opera-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:tulsa-the-phantom-of-the-opera-2026-11-sat-1@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261129T013000Z
+DTEND:20261129T033000Z
+SUMMARY:The Phantom of the Opera
+LOCATION:Chapman Music Hall\, Tulsa PAC\, 110 E 2nd St\, Tulsa\, OK 74103
+DESCRIPTION:The touring Broadway classic\, with five shows this weekend. T
+ ickets. Details: https://weekendscout.app/e/tulsa/the-phantom-of-the-opera
+ -2026-11/
+URL:https://weekendscout.app/e/tulsa/the-phantom-of-the-opera-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:tulsa-the-phantom-of-the-opera-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261129T190000Z
+DTEND:20261129T210000Z
+SUMMARY:The Phantom of the Opera
+LOCATION:Chapman Music Hall\, Tulsa PAC\, 110 E 2nd St\, Tulsa\, OK 74103
+DESCRIPTION:The touring Broadway classic\, with five shows this weekend. T
+ ickets. Details: https://weekendscout.app/e/tulsa/the-phantom-of-the-opera
+ -2026-11/
+URL:https://weekendscout.app/e/tulsa/the-phantom-of-the-opera-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:tulsa-the-leftover-last-waltz-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261124T234831Z
+DTSTART:20261130T010000Z
+DTEND:20261130T030000Z
+SUMMARY:The Leftover Last Waltz
+LOCATION:Cain’s Ballroom\, 423 N Main St\, Tulsa\, OK 74103
+DESCRIPTION:Local musicians recreate The Band’s farewell concert\, a Tha
+ nksgiving-weekend tradition at the historic ballroom. Tickets. Details: ht
+ tps://weekendscout.app/e/tulsa/the-leftover-last-waltz-2026-11/
+URL:https://weekendscout.app/e/tulsa/the-leftover-last-waltz-2026-11/
+END:VEVENT
+END:VCALENDAR
