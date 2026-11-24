@@ -1,0 +1,284 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Philadelphia
+X-WR-CALDESC:Hand-checked weekend picks in Philadelphia, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:philadelphia-christmas-village-philly-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261127T170000Z
+DTEND:20261128T020000Z
+SUMMARY:Christmas Village in Philadelphia
+LOCATION:LOVE Park & City Hall\, 1500 Arch St\, Philadelphia\, PA 19102
+DESCRIPTION:A German-style holiday market with wooden stalls\, mulled wine
+  and gifts. Free. Details: https://weekendscout.app/e/philadelphia/christm
+ as-village-philly/
+URL:https://weekendscout.app/e/philadelphia/christmas-village-philly/
+END:VEVENT
+BEGIN:VEVENT
+UID:philadelphia-christmas-village-philly-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Christmas Village in Philadelphia
+LOCATION:LOVE Park & City Hall\, 1500 Arch St\, Philadelphia\, PA 19102
+DESCRIPTION:A German-style holiday market with wooden stalls\, mulled wine
+  and gifts. Free. Details: https://weekendscout.app/e/philadelphia/christm
+ as-village-philly/
+URL:https://weekendscout.app/e/philadelphia/christmas-village-philly/
+END:VEVENT
+BEGIN:VEVENT
+UID:philadelphia-christmas-village-philly-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Christmas Village in Philadelphia
+LOCATION:LOVE Park & City Hall\, 1500 Arch St\, Philadelphia\, PA 19102
+DESCRIPTION:A German-style holiday market with wooden stalls\, mulled wine
+  and gifts. Free. Details: https://weekendscout.app/e/philadelphia/christm
+ as-village-philly/
+URL:https://weekendscout.app/e/philadelphia/christmas-village-philly/
+END:VEVENT
+BEGIN:VEVENT
+UID:philadelphia-riverrink-winterfest-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261127T180000Z
+DTEND:20261127T200000Z
+SUMMARY:RiverRink Winterfest
+LOCATION:Penn's Landing\, 101 S Columbus Blvd\, Philadelphia\, PA 19106
+DESCRIPTION:The waterfront winter park opens Friday. Sunday brings the tre
+ e lighting at 6:55 p.m. Free entry\; skating $5 + rental. Details: https:/
+ /weekendscout.app/e/philadelphia/riverrink-winterfest/
+URL:https://weekendscout.app/e/philadelphia/riverrink-winterfest/
+END:VEVENT
+BEGIN:VEVENT
+UID:philadelphia-riverrink-winterfest-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:RiverRink Winterfest
+LOCATION:Penn's Landing\, 101 S Columbus Blvd\, Philadelphia\, PA 19106
+DESCRIPTION:The waterfront winter park opens Friday. Sunday brings the tre
+ e lighting at 6:55 p.m. Free entry\; skating $5 + rental. Details: https:/
+ /weekendscout.app/e/philadelphia/riverrink-winterfest/
+URL:https://weekendscout.app/e/philadelphia/riverrink-winterfest/
+END:VEVENT
+BEGIN:VEVENT
+UID:philadelphia-riverrink-winterfest-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T160000Z
+DTEND:20261130T040000Z
+SUMMARY:RiverRink Winterfest
+LOCATION:Penn's Landing\, 101 S Columbus Blvd\, Philadelphia\, PA 19106
+DESCRIPTION:The waterfront winter park opens Friday. Sunday brings the tre
+ e lighting at 6:55 p.m. Free entry\; skating $5 + rental. Details: https:/
+ /weekendscout.app/e/philadelphia/riverrink-winterfest/
+URL:https://weekendscout.app/e/philadelphia/riverrink-winterfest/
+END:VEVENT
+BEGIN:VEVENT
+UID:philadelphia-flyers-home-weekend-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261127T200000Z
+DTEND:20261127T220000Z
+SUMMARY:Philadelphia Flyers home games
+LOCATION:Xfinity Mobile Arena\, 3601 S Broad St\, Philadelphia\, PA 19148
+DESCRIPTION:Friday afternoon vs. the Canucks\, Saturday night vs. the Isla
+ nders. Tickets. Details: https://weekendscout.app/e/philadelphia/flyers-ho
+ me-weekend/
+URL:https://weekendscout.app/e/philadelphia/flyers-home-weekend/
+END:VEVENT
+BEGIN:VEVENT
+UID:philadelphia-flyers-home-weekend-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T003000Z
+DTEND:20261129T023000Z
+SUMMARY:Philadelphia Flyers home games
+LOCATION:Xfinity Mobile Arena\, 3601 S Broad St\, Philadelphia\, PA 19148
+DESCRIPTION:Friday afternoon vs. the Canucks\, Saturday night vs. the Isla
+ nders. Tickets. Details: https://weekendscout.app/e/philadelphia/flyers-ho
+ me-weekend/
+URL:https://weekendscout.app/e/philadelphia/flyers-home-weekend/
+END:VEVENT
+BEGIN:VEVENT
+UID:philadelphia-frozen-walnut-street-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261127T190000Z
+DTEND:20261127T210000Z
+SUMMARY:Disney's Frozen: The Broadway Musical
+LOCATION:Walnut Street Theatre\, 825 Walnut St\, Philadelphia\, PA 19107
+DESCRIPTION:The Broadway musical in America's oldest theater. From $65. De
+ tails: https://weekendscout.app/e/philadelphia/frozen-walnut-street/
+URL:https://weekendscout.app/e/philadelphia/frozen-walnut-street/
+END:VEVENT
+BEGIN:VEVENT
+UID:philadelphia-frozen-walnut-street-fri-1@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T010000Z
+DTEND:20261128T030000Z
+SUMMARY:Disney's Frozen: The Broadway Musical
+LOCATION:Walnut Street Theatre\, 825 Walnut St\, Philadelphia\, PA 19107
+DESCRIPTION:The Broadway musical in America's oldest theater. From $65. De
+ tails: https://weekendscout.app/e/philadelphia/frozen-walnut-street/
+URL:https://weekendscout.app/e/philadelphia/frozen-walnut-street/
+END:VEVENT
+BEGIN:VEVENT
+UID:philadelphia-frozen-walnut-street-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T190000Z
+DTEND:20261128T210000Z
+SUMMARY:Disney's Frozen: The Broadway Musical
+LOCATION:Walnut Street Theatre\, 825 Walnut St\, Philadelphia\, PA 19107
+DESCRIPTION:The Broadway musical in America's oldest theater. From $65. De
+ tails: https://weekendscout.app/e/philadelphia/frozen-walnut-street/
+URL:https://weekendscout.app/e/philadelphia/frozen-walnut-street/
+END:VEVENT
+BEGIN:VEVENT
+UID:philadelphia-frozen-walnut-street-sat-1@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:Disney's Frozen: The Broadway Musical
+LOCATION:Walnut Street Theatre\, 825 Walnut St\, Philadelphia\, PA 19107
+DESCRIPTION:The Broadway musical in America's oldest theater. From $65. De
+ tails: https://weekendscout.app/e/philadelphia/frozen-walnut-street/
+URL:https://weekendscout.app/e/philadelphia/frozen-walnut-street/
+END:VEVENT
+BEGIN:VEVENT
+UID:philadelphia-frozen-walnut-street-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T190000Z
+DTEND:20261129T210000Z
+SUMMARY:Disney's Frozen: The Broadway Musical
+LOCATION:Walnut Street Theatre\, 825 Walnut St\, Philadelphia\, PA 19107
+DESCRIPTION:The Broadway musical in America's oldest theater. From $65. De
+ tails: https://weekendscout.app/e/philadelphia/frozen-walnut-street/
+URL:https://weekendscout.app/e/philadelphia/frozen-walnut-street/
+END:VEVENT
+BEGIN:VEVENT
+UID:philadelphia-frozen-walnut-street-sun-1@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261130T000000Z
+DTEND:20261130T020000Z
+SUMMARY:Disney's Frozen: The Broadway Musical
+LOCATION:Walnut Street Theatre\, 825 Walnut St\, Philadelphia\, PA 19107
+DESCRIPTION:The Broadway musical in America's oldest theater. From $65. De
+ tails: https://weekendscout.app/e/philadelphia/frozen-walnut-street/
+URL:https://weekendscout.app/e/philadelphia/frozen-walnut-street/
+END:VEVENT
+BEGIN:VEVENT
+UID:philadelphia-franklin-square-holidays-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261127T150000Z
+DTEND:20261128T020000Z
+SUMMARY:Holidays in Franklin Square
+LOCATION:Franklin Square\, 200 N 6th St\, Philadelphia\, PA 19106
+DESCRIPTION:A free light show every 30 minutes from 5 p.m.\, plus paid min
+ i golf and street curling. Free light show. Details: https://weekendscout.
+ app/e/philadelphia/franklin-square-holidays/
+URL:https://weekendscout.app/e/philadelphia/franklin-square-holidays/
+END:VEVENT
+BEGIN:VEVENT
+UID:philadelphia-franklin-square-holidays-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T150000Z
+DTEND:20261129T020000Z
+SUMMARY:Holidays in Franklin Square
+LOCATION:Franklin Square\, 200 N 6th St\, Philadelphia\, PA 19106
+DESCRIPTION:A free light show every 30 minutes from 5 p.m.\, plus paid min
+ i golf and street curling. Free light show. Details: https://weekendscout.
+ app/e/philadelphia/franklin-square-holidays/
+URL:https://weekendscout.app/e/philadelphia/franklin-square-holidays/
+END:VEVENT
+BEGIN:VEVENT
+UID:philadelphia-franklin-square-holidays-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T150000Z
+DTEND:20261130T020000Z
+SUMMARY:Holidays in Franklin Square
+LOCATION:Franklin Square\, 200 N 6th St\, Philadelphia\, PA 19106
+DESCRIPTION:A free light show every 30 minutes from 5 p.m.\, plus paid min
+ i golf and street curling. Free light show. Details: https://weekendscout.
+ app/e/philadelphia/franklin-square-holidays/
+URL:https://weekendscout.app/e/philadelphia/franklin-square-holidays/
+END:VEVENT
+BEGIN:VEVENT
+UID:philadelphia-miracle-on-13th-street-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T220000Z
+DTEND:20261129T020000Z
+SUMMARY:Miracle on South 13th Street
+LOCATION:South Philadelphia\, 1600 block of S 13th St\, Philadelphia\, PA 
+ 19148
+DESCRIPTION:A whole block of rowhomes decked out in lights. Saturday is th
+ e opening-night block party. Free. Details: https://weekendscout.app/e/phi
+ ladelphia/miracle-on-13th-street/
+URL:https://weekendscout.app/e/philadelphia/miracle-on-13th-street/
+END:VEVENT
+BEGIN:VEVENT
+UID:philadelphia-miracle-on-13th-street-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T220000Z
+DTEND:20261130T030000Z
+SUMMARY:Miracle on South 13th Street
+LOCATION:South Philadelphia\, 1600 block of S 13th St\, Philadelphia\, PA 
+ 19148
+DESCRIPTION:A whole block of rowhomes decked out in lights. Saturday is th
+ e opening-night block party. Free. Details: https://weekendscout.app/e/phi
+ ladelphia/miracle-on-13th-street/
+URL:https://weekendscout.app/e/philadelphia/miracle-on-13th-street/
+END:VEVENT
+BEGIN:VEVENT
+UID:philadelphia-doja-cat-philly-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261130T003000Z
+DTEND:20261130T023000Z
+SUMMARY:Doja Cat: Tour Ma Vie
+LOCATION:Xfinity Mobile Arena\, 3601 S Broad St\, Philadelphia\, PA 19148
+DESCRIPTION:Doja Cat's world tour with Latto opening. Tickets. Details: ht
+ tps://weekendscout.app/e/philadelphia/doja-cat-philly/
+URL:https://weekendscout.app/e/philadelphia/doja-cat-philly/
+END:VEVENT
+BEGIN:VEVENT
+UID:philadelphia-pma-friday-nights-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261127T220000Z
+DTEND:20261128T014500Z
+SUMMARY:Friday Nights at the Art Museum
+LOCATION:Philadelphia Art Museum\, 2600 Benjamin Franklin Pkwy\, Philadelp
+ hia\, PA 19130
+DESCRIPTION:Evening hours at the museum with pay-what-you-wish admission. 
+ Pay what you wish. Details: https://weekendscout.app/e/philadelphia/pma-fr
+ iday-nights/
+URL:https://weekendscout.app/e/philadelphia/pma-friday-nights/
+END:VEVENT
+BEGIN:VEVENT
+UID:philadelphia-la-la-land-concert-philly-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:La La Land in Concert
+LOCATION:The Met Philadelphia\, 858 N Broad St\, Philadelphia\, PA 19130
+DESCRIPTION:The movie on the big screen with the score played live. Ticket
+ s. Details: https://weekendscout.app/e/philadelphia/la-la-land-concert-phi
+ lly/
+URL:https://weekendscout.app/e/philadelphia/la-la-land-concert-philly/
+END:VEVENT
+BEGIN:VEVENT
+UID:philadelphia-jerrod-carmichael-philly-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261130T000000Z
+DTEND:20261130T020000Z
+SUMMARY:Jerrod Carmichael
+LOCATION:Punch Line Philly\, 33 E Laurel St\, Philadelphia\, PA 19123
+DESCRIPTION:Stand-up from the Emmy-winning comedian. Tickets. Details: htt
+ ps://weekendscout.app/e/philadelphia/jerrod-carmichael-philly/
+URL:https://weekendscout.app/e/philadelphia/jerrod-carmichael-philly/
+END:VEVENT
+END:VCALENDAR

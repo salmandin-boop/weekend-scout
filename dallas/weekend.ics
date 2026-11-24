@@ -1,0 +1,323 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Dallas
+X-WR-CALDESC:Hand-checked weekend picks in Dallas, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:dallas-grinch-musical-dallas-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Dr. Seuss' How the Grinch Stole Christmas! The Musical
+LOCATION:Music Hall at Fair Park\, 909 1st Ave\, Dallas\, TX 75210
+DESCRIPTION:The touring Grinch musical plays its Dallas run\, opening Frid
+ ay and closing Sunday. Tickets. Details: https://weekendscout.app/e/dallas
+ /grinch-musical-dallas/
+URL:https://weekendscout.app/e/dallas/grinch-musical-dallas/
+END:VEVENT
+BEGIN:VEVENT
+UID:dallas-grinch-musical-dallas-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Dr. Seuss' How the Grinch Stole Christmas! The Musical
+LOCATION:Music Hall at Fair Park\, 909 1st Ave\, Dallas\, TX 75210
+DESCRIPTION:The touring Grinch musical plays its Dallas run\, opening Frid
+ ay and closing Sunday. Tickets. Details: https://weekendscout.app/e/dallas
+ /grinch-musical-dallas/
+URL:https://weekendscout.app/e/dallas/grinch-musical-dallas/
+END:VEVENT
+BEGIN:VEVENT
+UID:dallas-grinch-musical-dallas-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Dr. Seuss' How the Grinch Stole Christmas! The Musical
+LOCATION:Music Hall at Fair Park\, 909 1st Ave\, Dallas\, TX 75210
+DESCRIPTION:The touring Grinch musical plays its Dallas run\, opening Frid
+ ay and closing Sunday. Tickets. Details: https://weekendscout.app/e/dallas
+ /grinch-musical-dallas/
+URL:https://weekendscout.app/e/dallas/grinch-musical-dallas/
+END:VEVENT
+BEGIN:VEVENT
+UID:dallas-arboretum-holiday-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261127T150000Z
+DTEND:20261128T040000Z
+SUMMARY:Holiday at the Arboretum
+LOCATION:Dallas Arboretum\, 8525 Garland Rd\, Dallas\, TX 75218
+DESCRIPTION:The 12 Days of Christmas gazebos (final season) by day\; Holid
+ ay at Night from 5–10 p.m. ($35–$40). Parking $15. From $25.95. Detail
+ s: https://weekendscout.app/e/dallas/arboretum-holiday/
+URL:https://weekendscout.app/e/dallas/arboretum-holiday/
+END:VEVENT
+BEGIN:VEVENT
+UID:dallas-arboretum-holiday-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T150000Z
+DTEND:20261129T040000Z
+SUMMARY:Holiday at the Arboretum
+LOCATION:Dallas Arboretum\, 8525 Garland Rd\, Dallas\, TX 75218
+DESCRIPTION:The 12 Days of Christmas gazebos (final season) by day\; Holid
+ ay at Night from 5–10 p.m. ($35–$40). Parking $15. From $25.95. Detail
+ s: https://weekendscout.app/e/dallas/arboretum-holiday/
+URL:https://weekendscout.app/e/dallas/arboretum-holiday/
+END:VEVENT
+BEGIN:VEVENT
+UID:dallas-arboretum-holiday-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T150000Z
+DTEND:20261130T040000Z
+SUMMARY:Holiday at the Arboretum
+LOCATION:Dallas Arboretum\, 8525 Garland Rd\, Dallas\, TX 75218
+DESCRIPTION:The 12 Days of Christmas gazebos (final season) by day\; Holid
+ ay at Night from 5–10 p.m. ($35–$40). Parking $15. From $25.95. Detail
+ s: https://weekendscout.app/e/dallas/arboretum-holiday/
+URL:https://weekendscout.app/e/dallas/arboretum-holiday/
+END:VEVENT
+BEGIN:VEVENT
+UID:dallas-texas-christkindl-market-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T003000Z
+DTEND:20261128T023000Z
+SUMMARY:Texas Christkindl Market
+LOCATION:Globe Life Field North Plaza\, 1650 E Randol Mill Rd\, Arlington\
+ , TX 76011
+DESCRIPTION:A German-style holiday market. The tree lighting is Friday at 
+ 6:30 p.m. Free entry. Details: https://weekendscout.app/e/dallas/texas-chr
+ istkindl-market/
+URL:https://weekendscout.app/e/dallas/texas-christkindl-market/
+END:VEVENT
+BEGIN:VEVENT
+UID:dallas-texas-christkindl-market-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T170000Z
+DTEND:20261129T020000Z
+SUMMARY:Texas Christkindl Market
+LOCATION:Globe Life Field North Plaza\, 1650 E Randol Mill Rd\, Arlington\
+ , TX 76011
+DESCRIPTION:A German-style holiday market. The tree lighting is Friday at 
+ 6:30 p.m. Free entry. Details: https://weekendscout.app/e/dallas/texas-chr
+ istkindl-market/
+URL:https://weekendscout.app/e/dallas/texas-christkindl-market/
+END:VEVENT
+BEGIN:VEVENT
+UID:dallas-texas-christkindl-market-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Texas Christkindl Market
+LOCATION:Globe Life Field North Plaza\, 1650 E Randol Mill Rd\, Arlington\
+ , TX 76011
+DESCRIPTION:A German-style holiday market. The tree lighting is Friday at 
+ 6:30 p.m. Free entry. Details: https://weekendscout.app/e/dallas/texas-chr
+ istkindl-market/
+URL:https://weekendscout.app/e/dallas/texas-christkindl-market/
+END:VEVENT
+BEGIN:VEVENT
+UID:dallas-dallas-stars-utah-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:Dallas Stars vs. Utah Mammoth
+LOCATION:American Airlines Center\, 2500 Victory Ave\, Dallas\, TX 75219
+DESCRIPTION:Saturday night NHL hockey. Tickets. Details: https://weekendsc
+ out.app/e/dallas/dallas-stars-utah/
+URL:https://weekendscout.app/e/dallas/dallas-stars-utah/
+END:VEVENT
+BEGIN:VEVENT
+UID:dallas-texas-ballet-nutcracker-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T200000Z
+DTEND:20261128T220000Z
+SUMMARY:Texas Ballet Theater: The Nutcracker
+LOCATION:Winspear Opera House\, 2403 Flora St\, Dallas\, TX 75201
+DESCRIPTION:The full holiday ballet in the Arts District. Tickets. Details
+ : https://weekendscout.app/e/dallas/texas-ballet-nutcracker/
+URL:https://weekendscout.app/e/dallas/texas-ballet-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:dallas-texas-ballet-nutcracker-sat-1@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T020000Z
+DTEND:20261129T040000Z
+SUMMARY:Texas Ballet Theater: The Nutcracker
+LOCATION:Winspear Opera House\, 2403 Flora St\, Dallas\, TX 75201
+DESCRIPTION:The full holiday ballet in the Arts District. Tickets. Details
+ : https://weekendscout.app/e/dallas/texas-ballet-nutcracker/
+URL:https://weekendscout.app/e/dallas/texas-ballet-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:dallas-texas-ballet-nutcracker-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T200000Z
+DTEND:20261129T220000Z
+SUMMARY:Texas Ballet Theater: The Nutcracker
+LOCATION:Winspear Opera House\, 2403 Flora St\, Dallas\, TX 75201
+DESCRIPTION:The full holiday ballet in the Arts District. Tickets. Details
+ : https://weekendscout.app/e/dallas/texas-ballet-nutcracker/
+URL:https://weekendscout.app/e/dallas/texas-ballet-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:dallas-dtc-christmas-carol-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:A Christmas Carol
+LOCATION:Wyly Theatre\, 2400 Flora St\, Dallas\, TX 75201
+DESCRIPTION:Dallas Theater Center's holiday staple begins previews Friday.
+  90 minutes\, no intermission. Tickets. Details: https://weekendscout.app/
+ e/dallas/dtc-christmas-carol/
+URL:https://weekendscout.app/e/dallas/dtc-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:dallas-dtc-christmas-carol-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:A Christmas Carol
+LOCATION:Wyly Theatre\, 2400 Flora St\, Dallas\, TX 75201
+DESCRIPTION:Dallas Theater Center's holiday staple begins previews Friday.
+  90 minutes\, no intermission. Tickets. Details: https://weekendscout.app/
+ e/dallas/dtc-christmas-carol/
+URL:https://weekendscout.app/e/dallas/dtc-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:dallas-dtc-christmas-carol-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:A Christmas Carol
+LOCATION:Wyly Theatre\, 2400 Flora St\, Dallas\, TX 75201
+DESCRIPTION:Dallas Theater Center's holiday staple begins previews Friday.
+  90 minutes\, no intermission. Tickets. Details: https://weekendscout.app/
+ e/dallas/dtc-christmas-carol/
+URL:https://weekendscout.app/e/dallas/dtc-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:dallas-galleria-dallas-tree-lighting-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261127T180000Z
+DTEND:20261127T200000Z
+SUMMARY:Galleria Dallas Grand Tree Lighting
+LOCATION:Galleria Dallas (Center Court)\, 13350 Dallas Pkwy\, Dallas\, TX 
+ 75240
+DESCRIPTION:The famous indoor tree over the ice rink lights up at noon. Fr
+ ee. Details: https://weekendscout.app/e/dallas/galleria-dallas-tree-lighti
+ ng/
+URL:https://weekendscout.app/e/dallas/galleria-dallas-tree-lighting/
+END:VEVENT
+BEGIN:VEVENT
+UID:dallas-prairie-lights-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T000000Z
+DTEND:20261128T040000Z
+SUMMARY:Prairie Lights
+LOCATION:Lynn Creek Park\, 5610 Lake Ridge Pkwy\, Grand Prairie\, TX 75052
+DESCRIPTION:A drive-through light show along Joe Pool Lake. Per car. Detai
+ ls: https://weekendscout.app/e/dallas/prairie-lights/
+URL:https://weekendscout.app/e/dallas/prairie-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:dallas-prairie-lights-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T000000Z
+DTEND:20261129T040000Z
+SUMMARY:Prairie Lights
+LOCATION:Lynn Creek Park\, 5610 Lake Ridge Pkwy\, Grand Prairie\, TX 75052
+DESCRIPTION:A drive-through light show along Joe Pool Lake. Per car. Detai
+ ls: https://weekendscout.app/e/dallas/prairie-lights/
+URL:https://weekendscout.app/e/dallas/prairie-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:dallas-prairie-lights-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261130T000000Z
+DTEND:20261130T040000Z
+SUMMARY:Prairie Lights
+LOCATION:Lynn Creek Park\, 5610 Lake Ridge Pkwy\, Grand Prairie\, TX 75052
+DESCRIPTION:A drive-through light show along Joe Pool Lake. Per car. Detai
+ ls: https://weekendscout.app/e/dallas/prairie-lights/
+URL:https://weekendscout.app/e/dallas/prairie-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:dallas-perot-museum-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261127T160000Z
+DTEND:20261127T230000Z
+SUMMARY:Perot Museum of Nature and Science
+LOCATION:Perot Museum\, 2201 N Field St\, Dallas\, TX 75201
+DESCRIPTION:Five floors of hands-on science. Last entry 4 p.m. $27 adults\
+ , $17 kids. Details: https://weekendscout.app/e/dallas/perot-museum/
+URL:https://weekendscout.app/e/dallas/perot-museum/
+END:VEVENT
+BEGIN:VEVENT
+UID:dallas-perot-museum-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T160000Z
+DTEND:20261128T230000Z
+SUMMARY:Perot Museum of Nature and Science
+LOCATION:Perot Museum\, 2201 N Field St\, Dallas\, TX 75201
+DESCRIPTION:Five floors of hands-on science. Last entry 4 p.m. $27 adults\
+ , $17 kids. Details: https://weekendscout.app/e/dallas/perot-museum/
+URL:https://weekendscout.app/e/dallas/perot-museum/
+END:VEVENT
+BEGIN:VEVENT
+UID:dallas-perot-museum-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T170000Z
+DTEND:20261129T230000Z
+SUMMARY:Perot Museum of Nature and Science
+LOCATION:Perot Museum\, 2201 N Field St\, Dallas\, TX 75201
+DESCRIPTION:Five floors of hands-on science. Last entry 4 p.m. $27 adults\
+ , $17 kids. Details: https://weekendscout.app/e/dallas/perot-museum/
+URL:https://weekendscout.app/e/dallas/perot-museum/
+END:VEVENT
+BEGIN:VEVENT
+UID:dallas-dallas-museum-of-art-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261127T170000Z
+DTEND:20261127T230000Z
+SUMMARY:Dallas Museum of Art
+LOCATION:Dallas Museum of Art\, 1717 N Harwood St\, Dallas\, TX 75201
+DESCRIPTION:Free general admission to one of the country's big art museums
+ . Free (timed ticket). Details: https://weekendscout.app/e/dallas/dallas-m
+ useum-of-art/
+URL:https://weekendscout.app/e/dallas/dallas-museum-of-art/
+END:VEVENT
+BEGIN:VEVENT
+UID:dallas-dallas-museum-of-art-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T170000Z
+DTEND:20261128T230000Z
+SUMMARY:Dallas Museum of Art
+LOCATION:Dallas Museum of Art\, 1717 N Harwood St\, Dallas\, TX 75201
+DESCRIPTION:Free general admission to one of the country's big art museums
+ . Free (timed ticket). Details: https://weekendscout.app/e/dallas/dallas-m
+ useum-of-art/
+URL:https://weekendscout.app/e/dallas/dallas-museum-of-art/
+END:VEVENT
+BEGIN:VEVENT
+UID:dallas-dallas-museum-of-art-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T170000Z
+DTEND:20261129T230000Z
+SUMMARY:Dallas Museum of Art
+LOCATION:Dallas Museum of Art\, 1717 N Harwood St\, Dallas\, TX 75201
+DESCRIPTION:Free general admission to one of the country's big art museums
+ . Free (timed ticket). Details: https://weekendscout.app/e/dallas/dallas-m
+ useum-of-art/
+URL:https://weekendscout.app/e/dallas/dallas-museum-of-art/
+END:VEVENT
+END:VCALENDAR

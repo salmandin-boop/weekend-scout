@@ -1,0 +1,337 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · San Antonio
+X-WR-CALDESC:Hand-checked weekend picks in San Antonio, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:san-antonio-holiday-river-parade-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T000000Z
+DTEND:20261128T020000Z
+SUMMARY:Ford Holiday River Parade
+LOCATION:San Antonio River Walk\, River Walk\, downtown San Antonio\, TX 7
+ 8205
+DESCRIPTION:Lighted floats glide down the River Walk and switch on the sea
+ son's lights. Reserved seats are sold separately. Free to watch. Details: 
+ https://weekendscout.app/e/san-antonio/holiday-river-parade/
+URL:https://weekendscout.app/e/san-antonio/holiday-river-parade/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-antonio-river-walk-holiday-lights-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Holiday Lights on the River Walk
+LOCATION:San Antonio River Walk\, River Walk\, downtown San Antonio\, TX 7
+ 8205
+DESCRIPTION:Thousands of lights over the river\, nightly from the parade t
+ hrough early January. Free. Details: https://weekendscout.app/e/san-antoni
+ o/river-walk-holiday-lights/
+URL:https://weekendscout.app/e/san-antonio/river-walk-holiday-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-antonio-river-walk-holiday-lights-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Holiday Lights on the River Walk
+LOCATION:San Antonio River Walk\, River Walk\, downtown San Antonio\, TX 7
+ 8205
+DESCRIPTION:Thousands of lights over the river\, nightly from the parade t
+ hrough early January. Free. Details: https://weekendscout.app/e/san-antoni
+ o/river-walk-holiday-lights/
+URL:https://weekendscout.app/e/san-antonio/river-walk-holiday-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-antonio-river-walk-holiday-lights-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Holiday Lights on the River Walk
+LOCATION:San Antonio River Walk\, River Walk\, downtown San Antonio\, TX 7
+ 8205
+DESCRIPTION:Thousands of lights over the river\, nightly from the parade t
+ hrough early January. Free. Details: https://weekendscout.app/e/san-antoni
+ o/river-walk-holiday-lights/
+URL:https://weekendscout.app/e/san-antonio/river-walk-holiday-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-antonio-pearl-tree-lighting-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261127T220000Z
+DTEND:20261128T040000Z
+SUMMARY:Pearl Holiday Tree Lighting
+LOCATION:The Pearl\, 303 Pearl Pkwy\, San Antonio\, TX 78215
+DESCRIPTION:An evening of music and lights at the Pearl\, ending with the 
+ tree lighting. Free. Details: https://weekendscout.app/e/san-antonio/pearl
+ -tree-lighting/
+URL:https://weekendscout.app/e/san-antonio/pearl-tree-lighting/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-antonio-pearl-farmers-market-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T150000Z
+DTEND:20261128T190000Z
+SUMMARY:Pearl Farmers Market
+LOCATION:The Pearl\, 303 Pearl Pkwy\, San Antonio\, TX 78215
+DESCRIPTION:Saturday's producer-only farmers market\, plus a Sunday artisa
+ n market. Free. Details: https://weekendscout.app/e/san-antonio/pearl-farm
+ ers-market/
+URL:https://weekendscout.app/e/san-antonio/pearl-farmers-market/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-antonio-pearl-farmers-market-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T160000Z
+DTEND:20261129T200000Z
+SUMMARY:Pearl Farmers Market
+LOCATION:The Pearl\, 303 Pearl Pkwy\, San Antonio\, TX 78215
+DESCRIPTION:Saturday's producer-only farmers market\, plus a Sunday artisa
+ n market. Free. Details: https://weekendscout.app/e/san-antonio/pearl-farm
+ ers-market/
+URL:https://weekendscout.app/e/san-antonio/pearl-farmers-market/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-antonio-sa-zoo-lights-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Zoo Lights!
+LOCATION:San Antonio Zoo\, 3903 N St Mary's St\, San Antonio\, TX 78212
+DESCRIPTION:After-hours light trail through the zoo. With zoo admission. D
+ etails: https://weekendscout.app/e/san-antonio/sa-zoo-lights/
+URL:https://weekendscout.app/e/san-antonio/sa-zoo-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-antonio-sa-zoo-lights-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Zoo Lights!
+LOCATION:San Antonio Zoo\, 3903 N St Mary's St\, San Antonio\, TX 78212
+DESCRIPTION:After-hours light trail through the zoo. With zoo admission. D
+ etails: https://weekendscout.app/e/san-antonio/sa-zoo-lights/
+URL:https://weekendscout.app/e/san-antonio/sa-zoo-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-antonio-sa-zoo-lights-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Zoo Lights!
+LOCATION:San Antonio Zoo\, 3903 N St Mary's St\, San Antonio\, TX 78212
+DESCRIPTION:After-hours light trail through the zoo. With zoo admission. D
+ etails: https://weekendscout.app/e/san-antonio/sa-zoo-lights/
+URL:https://weekendscout.app/e/san-antonio/sa-zoo-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-antonio-sabg-illuminate-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Illuminate
+LOCATION:San Antonio Botanical Garden\, 555 Funston Pl\, San Antonio\, TX 
+ 78209
+DESCRIPTION:A nighttime walk through the garden's light installations. $29
+ .99 adults. Details: https://weekendscout.app/e/san-antonio/sabg-illuminat
+ e/
+URL:https://weekendscout.app/e/san-antonio/sabg-illuminate/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-antonio-sabg-illuminate-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Illuminate
+LOCATION:San Antonio Botanical Garden\, 555 Funston Pl\, San Antonio\, TX 
+ 78209
+DESCRIPTION:A nighttime walk through the garden's light installations. $29
+ .99 adults. Details: https://weekendscout.app/e/san-antonio/sabg-illuminat
+ e/
+URL:https://weekendscout.app/e/san-antonio/sabg-illuminate/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-antonio-sabg-illuminate-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Illuminate
+LOCATION:San Antonio Botanical Garden\, 555 Funston Pl\, San Antonio\, TX 
+ 78209
+DESCRIPTION:A nighttime walk through the garden's light installations. $29
+ .99 adults. Details: https://weekendscout.app/e/san-antonio/sabg-illuminat
+ e/
+URL:https://weekendscout.app/e/san-antonio/sabg-illuminate/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-antonio-the-alamo-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261127T150000Z
+DTEND:20261127T233000Z
+SUMMARY:The Alamo
+LOCATION:The Alamo\, 300 Alamo Plaza\, San Antonio\, TX 78205
+DESCRIPTION:Visit the church and grounds\; free with a timed reservation. 
+ Free. Details: https://weekendscout.app/e/san-antonio/the-alamo/
+URL:https://weekendscout.app/e/san-antonio/the-alamo/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-antonio-the-alamo-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T150000Z
+DTEND:20261128T233000Z
+SUMMARY:The Alamo
+LOCATION:The Alamo\, 300 Alamo Plaza\, San Antonio\, TX 78205
+DESCRIPTION:Visit the church and grounds\; free with a timed reservation. 
+ Free. Details: https://weekendscout.app/e/san-antonio/the-alamo/
+URL:https://weekendscout.app/e/san-antonio/the-alamo/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-antonio-the-alamo-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T150000Z
+DTEND:20261129T233000Z
+SUMMARY:The Alamo
+LOCATION:The Alamo\, 300 Alamo Plaza\, San Antonio\, TX 78205
+DESCRIPTION:Visit the church and grounds\; free with a timed reservation. 
+ Free. Details: https://weekendscout.app/e/san-antonio/the-alamo/
+URL:https://weekendscout.app/e/san-antonio/the-alamo/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-antonio-seaworld-sa-christmas-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:SeaWorld Christmas Celebration
+LOCATION:SeaWorld San Antonio\, 10500 SeaWorld Dr\, San Antonio\, TX 78251
+DESCRIPTION:Lights\, shows and holiday treats\, included with park admissi
+ on. Park admission. Details: https://weekendscout.app/e/san-antonio/seawor
+ ld-sa-christmas/
+URL:https://weekendscout.app/e/san-antonio/seaworld-sa-christmas/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-antonio-seaworld-sa-christmas-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:SeaWorld Christmas Celebration
+LOCATION:SeaWorld San Antonio\, 10500 SeaWorld Dr\, San Antonio\, TX 78251
+DESCRIPTION:Lights\, shows and holiday treats\, included with park admissi
+ on. Park admission. Details: https://weekendscout.app/e/san-antonio/seawor
+ ld-sa-christmas/
+URL:https://weekendscout.app/e/san-antonio/seaworld-sa-christmas/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-antonio-seaworld-sa-christmas-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:SeaWorld Christmas Celebration
+LOCATION:SeaWorld San Antonio\, 10500 SeaWorld Dr\, San Antonio\, TX 78251
+DESCRIPTION:Lights\, shows and holiday treats\, included with park admissi
+ on. Park admission. Details: https://weekendscout.app/e/san-antonio/seawor
+ ld-sa-christmas/
+URL:https://weekendscout.app/e/san-antonio/seaworld-sa-christmas/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-antonio-fiesta-texas-holiday-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Holiday in the Park
+LOCATION:Six Flags Fiesta Texas\, 17000 W I-10\, San Antonio\, TX 78257
+DESCRIPTION:Rides plus a million-plus lights and holiday shows. From $45. 
+ Details: https://weekendscout.app/e/san-antonio/fiesta-texas-holiday/
+URL:https://weekendscout.app/e/san-antonio/fiesta-texas-holiday/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-antonio-fiesta-texas-holiday-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Holiday in the Park
+LOCATION:Six Flags Fiesta Texas\, 17000 W I-10\, San Antonio\, TX 78257
+DESCRIPTION:Rides plus a million-plus lights and holiday shows. From $45. 
+ Details: https://weekendscout.app/e/san-antonio/fiesta-texas-holiday/
+URL:https://weekendscout.app/e/san-antonio/fiesta-texas-holiday/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-antonio-fiesta-texas-holiday-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Holiday in the Park
+LOCATION:Six Flags Fiesta Texas\, 17000 W I-10\, San Antonio\, TX 78257
+DESCRIPTION:Rides plus a million-plus lights and holiday shows. From $45. 
+ Details: https://weekendscout.app/e/san-antonio/fiesta-texas-holiday/
+URL:https://weekendscout.app/e/san-antonio/fiesta-texas-holiday/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-antonio-missions-nhp-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261127T150000Z
+DTEND:20261127T230000Z
+SUMMARY:San Antonio Missions National Historical Park
+LOCATION:Mission San José\, 6701 San Jose Dr\, San Antonio\, TX 78214
+DESCRIPTION:Four Spanish colonial missions linked by the river trail. Grea
+ t for a walk or bike ride. Free. Details: https://weekendscout.app/e/san-a
+ ntonio/missions-nhp/
+URL:https://weekendscout.app/e/san-antonio/missions-nhp/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-antonio-missions-nhp-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T150000Z
+DTEND:20261128T230000Z
+SUMMARY:San Antonio Missions National Historical Park
+LOCATION:Mission San José\, 6701 San Jose Dr\, San Antonio\, TX 78214
+DESCRIPTION:Four Spanish colonial missions linked by the river trail. Grea
+ t for a walk or bike ride. Free. Details: https://weekendscout.app/e/san-a
+ ntonio/missions-nhp/
+URL:https://weekendscout.app/e/san-antonio/missions-nhp/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-antonio-missions-nhp-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T150000Z
+DTEND:20261129T230000Z
+SUMMARY:San Antonio Missions National Historical Park
+LOCATION:Mission San José\, 6701 San Jose Dr\, San Antonio\, TX 78214
+DESCRIPTION:Four Spanish colonial missions linked by the river trail. Grea
+ t for a walk or bike ride. Free. Details: https://weekendscout.app/e/san-a
+ ntonio/missions-nhp/
+URL:https://weekendscout.app/e/san-antonio/missions-nhp/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-antonio-spurs-lakers-nba-cup-2026-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:NBA Cup: Spurs vs. Los Angeles Lakers
+LOCATION:Frost Bank Center\, 1 Frost Bank Center Dr\, San Antonio\, TX 782
+ 19
+DESCRIPTION:The Western Conference champs host the Lakers in an NBA Cup gr
+ oup game. Tickets. Details: https://weekendscout.app/e/san-antonio/spurs-l
+ akers-nba-cup-2026/
+URL:https://weekendscout.app/e/san-antonio/spurs-lakers-nba-cup-2026/
+END:VEVENT
+END:VCALENDAR

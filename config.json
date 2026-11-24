@@ -1,1 +1,11 @@
-{"affiliates":{},"newsletter":{"action":"","field":"email"},"analytics":{"plausibleDomain":""}}
+{
+  "affiliates": {},
+  "newsletter": {
+    "action": "",
+    "field": "email"
+  },
+  "analytics": {
+    "plausibleDomain": "",
+    "cloudflareToken": ""
+  }
+}

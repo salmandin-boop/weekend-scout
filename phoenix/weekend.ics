@@ -1,0 +1,351 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Phoenix
+X-WR-CALDESC:Hand-checked weekend picks in Phoenix, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:phoenix-phoenix-zoolights-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T003000Z
+DTEND:20261128T053000Z
+SUMMARY:ZooLights
+LOCATION:Phoenix Zoo\, 455 N Galvin Pkwy\, Phoenix\, AZ 85008
+DESCRIPTION:The zoo's big light show\, nightly through mid-January. Kids 2
+  and under free. $35 ($30 members). Details: https://weekendscout.app/e/ph
+ oenix/phoenix-zoolights/
+URL:https://weekendscout.app/e/phoenix/phoenix-zoolights/
+END:VEVENT
+BEGIN:VEVENT
+UID:phoenix-phoenix-zoolights-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T003000Z
+DTEND:20261129T053000Z
+SUMMARY:ZooLights
+LOCATION:Phoenix Zoo\, 455 N Galvin Pkwy\, Phoenix\, AZ 85008
+DESCRIPTION:The zoo's big light show\, nightly through mid-January. Kids 2
+  and under free. $35 ($30 members). Details: https://weekendscout.app/e/ph
+ oenix/phoenix-zoolights/
+URL:https://weekendscout.app/e/phoenix/phoenix-zoolights/
+END:VEVENT
+BEGIN:VEVENT
+UID:phoenix-phoenix-zoolights-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261130T003000Z
+DTEND:20261130T053000Z
+SUMMARY:ZooLights
+LOCATION:Phoenix Zoo\, 455 N Galvin Pkwy\, Phoenix\, AZ 85008
+DESCRIPTION:The zoo's big light show\, nightly through mid-January. Kids 2
+  and under free. $35 ($30 members). Details: https://weekendscout.app/e/ph
+ oenix/phoenix-zoolights/
+URL:https://weekendscout.app/e/phoenix/phoenix-zoolights/
+END:VEVENT
+BEGIN:VEVENT
+UID:phoenix-glendale-glitters-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T000000Z
+DTEND:20261128T050000Z
+SUMMARY:Glendale Glitters
+LOCATION:Murphy Park\, Historic Downtown Glendale\, 7010 N 58th Ave\, Glen
+ dale\, AZ 85301
+DESCRIPTION:Downtown Glendale lights up for the season. The lighting cerem
+ ony is Friday at 5:30 p.m. Free. Details: https://weekendscout.app/e/phoen
+ ix/glendale-glitters/
+URL:https://weekendscout.app/e/phoenix/glendale-glitters/
+END:VEVENT
+BEGIN:VEVENT
+UID:phoenix-glendale-glitters-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T000000Z
+DTEND:20261129T050000Z
+SUMMARY:Glendale Glitters
+LOCATION:Murphy Park\, Historic Downtown Glendale\, 7010 N 58th Ave\, Glen
+ dale\, AZ 85301
+DESCRIPTION:Downtown Glendale lights up for the season. The lighting cerem
+ ony is Friday at 5:30 p.m. Free. Details: https://weekendscout.app/e/phoen
+ ix/glendale-glitters/
+URL:https://weekendscout.app/e/phoenix/glendale-glitters/
+END:VEVENT
+BEGIN:VEVENT
+UID:phoenix-glendale-glitters-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261130T000000Z
+DTEND:20261130T050000Z
+SUMMARY:Glendale Glitters
+LOCATION:Murphy Park\, Historic Downtown Glendale\, 7010 N 58th Ave\, Glen
+ dale\, AZ 85301
+DESCRIPTION:Downtown Glendale lights up for the season. The lighting cerem
+ ony is Friday at 5:30 p.m. Free. Details: https://weekendscout.app/e/phoen
+ ix/glendale-glitters/
+URL:https://weekendscout.app/e/phoenix/glendale-glitters/
+END:VEVENT
+BEGIN:VEVENT
+UID:phoenix-tempe-fantasy-of-lights-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T230000Z
+DTEND:20261129T030000Z
+SUMMARY:Fantasy of Lights Parade & Tree Lighting
+LOCATION:Mill Avenue\, Downtown Tempe\, Mill Ave & Centerpoint Plaza\, Tem
+ pe\, AZ 85281
+DESCRIPTION:A lighted street parade down Mill Ave at 6 p.m.\, then the tre
+ e lighting. Free. Details: https://weekendscout.app/e/phoenix/tempe-fantas
+ y-of-lights/
+URL:https://weekendscout.app/e/phoenix/tempe-fantasy-of-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:phoenix-pjs-in-the-park-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T010000Z
+DTEND:20261129T040000Z
+SUMMARY:PJs in the Park: The Polar Express
+LOCATION:Patriots Square at CityScape\, 11 W Washington St\, Phoenix\, AZ 
+ 85003
+DESCRIPTION:Wear your pajamas for an outdoor screening of The Polar Expres
+ s downtown. Free. Details: https://weekendscout.app/e/phoenix/pjs-in-the-p
+ ark/
+URL:https://weekendscout.app/e/phoenix/pjs-in-the-park/
+END:VEVENT
+BEGIN:VEVENT
+UID:phoenix-mesa-temple-lights-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T000000Z
+DTEND:20261128T050000Z
+SUMMARY:Mesa Temple Christmas Lights
+LOCATION:Mesa Arizona Temple\, 101 S LeSueur\, Mesa\, AZ 85204
+DESCRIPTION:One of the Valley's biggest free light displays\, with nativit
+ y scenes and music. Free. Details: https://weekendscout.app/e/phoenix/mesa
+ -temple-lights/
+URL:https://weekendscout.app/e/phoenix/mesa-temple-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:phoenix-mesa-temple-lights-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T000000Z
+DTEND:20261129T050000Z
+SUMMARY:Mesa Temple Christmas Lights
+LOCATION:Mesa Arizona Temple\, 101 S LeSueur\, Mesa\, AZ 85204
+DESCRIPTION:One of the Valley's biggest free light displays\, with nativit
+ y scenes and music. Free. Details: https://weekendscout.app/e/phoenix/mesa
+ -temple-lights/
+URL:https://weekendscout.app/e/phoenix/mesa-temple-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:phoenix-mesa-temple-lights-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261130T000000Z
+DTEND:20261130T050000Z
+SUMMARY:Mesa Temple Christmas Lights
+LOCATION:Mesa Arizona Temple\, 101 S LeSueur\, Mesa\, AZ 85204
+DESCRIPTION:One of the Valley's biggest free light displays\, with nativit
+ y scenes and music. Free. Details: https://weekendscout.app/e/phoenix/mesa
+ -temple-lights/
+URL:https://weekendscout.app/e/phoenix/mesa-temple-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:phoenix-christmas-at-the-princess-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261127T230000Z
+DTEND:20261128T060000Z
+SUMMARY:Christmas at the Princess
+LOCATION:Fairmont Scottsdale Princess\, 7575 E Princess Dr\, Scottsdale\, 
+ AZ 85255
+DESCRIPTION:A resort-wide holiday festival with millions of lights\, an ic
+ e rink and a 'snow' area. Parking extra. From $35. Details: https://weeken
+ dscout.app/e/phoenix/christmas-at-the-princess/
+URL:https://weekendscout.app/e/phoenix/christmas-at-the-princess/
+END:VEVENT
+BEGIN:VEVENT
+UID:phoenix-christmas-at-the-princess-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T230000Z
+DTEND:20261129T060000Z
+SUMMARY:Christmas at the Princess
+LOCATION:Fairmont Scottsdale Princess\, 7575 E Princess Dr\, Scottsdale\, 
+ AZ 85255
+DESCRIPTION:A resort-wide holiday festival with millions of lights\, an ic
+ e rink and a 'snow' area. Parking extra. From $35. Details: https://weeken
+ dscout.app/e/phoenix/christmas-at-the-princess/
+URL:https://weekendscout.app/e/phoenix/christmas-at-the-princess/
+END:VEVENT
+BEGIN:VEVENT
+UID:phoenix-christmas-at-the-princess-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T230000Z
+DTEND:20261130T060000Z
+SUMMARY:Christmas at the Princess
+LOCATION:Fairmont Scottsdale Princess\, 7575 E Princess Dr\, Scottsdale\, 
+ AZ 85255
+DESCRIPTION:A resort-wide holiday festival with millions of lights\, an ic
+ e rink and a 'snow' area. Parking extra. From $35. Details: https://weeken
+ dscout.app/e/phoenix/christmas-at-the-princess/
+URL:https://weekendscout.app/e/phoenix/christmas-at-the-princess/
+END:VEVENT
+BEGIN:VEVENT
+UID:phoenix-mccormick-stillman-holiday-lights-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T003000Z
+DTEND:20261128T043000Z
+SUMMARY:Holiday Lights at McCormick-Stillman Railroad Park
+LOCATION:McCormick-Stillman Railroad Park\, 7301 E Indian Bend Rd\, Scotts
+ dale\, AZ 85250
+DESCRIPTION:Ride the train through the lights and see Santa. $15 (ages 3+)
+ . Details: https://weekendscout.app/e/phoenix/mccormick-stillman-holiday-l
+ ights/
+URL:https://weekendscout.app/e/phoenix/mccormick-stillman-holiday-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:phoenix-mccormick-stillman-holiday-lights-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T003000Z
+DTEND:20261129T043000Z
+SUMMARY:Holiday Lights at McCormick-Stillman Railroad Park
+LOCATION:McCormick-Stillman Railroad Park\, 7301 E Indian Bend Rd\, Scotts
+ dale\, AZ 85250
+DESCRIPTION:Ride the train through the lights and see Santa. $15 (ages 3+)
+ . Details: https://weekendscout.app/e/phoenix/mccormick-stillman-holiday-l
+ ights/
+URL:https://weekendscout.app/e/phoenix/mccormick-stillman-holiday-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:phoenix-mccormick-stillman-holiday-lights-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261130T003000Z
+DTEND:20261130T043000Z
+SUMMARY:Holiday Lights at McCormick-Stillman Railroad Park
+LOCATION:McCormick-Stillman Railroad Park\, 7301 E Indian Bend Rd\, Scotts
+ dale\, AZ 85250
+DESCRIPTION:Ride the train through the lights and see Santa. $15 (ages 3+)
+ . Details: https://weekendscout.app/e/phoenix/mccormick-stillman-holiday-l
+ ights/
+URL:https://weekendscout.app/e/phoenix/mccormick-stillman-holiday-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:phoenix-ballet-etudes-nutcracker-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T020000Z
+DTEND:20261128T040000Z
+SUMMARY:Ballet Etudes' Nutcracker
+LOCATION:Chandler Center for the Arts\, 250 N Arizona Ave\, Chandler\, AZ 
+ 85225
+DESCRIPTION:The company's 40th-anniversary Nutcracker. $42.50. Details: ht
+ tps://weekendscout.app/e/phoenix/ballet-etudes-nutcracker/
+URL:https://weekendscout.app/e/phoenix/ballet-etudes-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:phoenix-ballet-etudes-nutcracker-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T210000Z
+DTEND:20261128T230000Z
+SUMMARY:Ballet Etudes' Nutcracker
+LOCATION:Chandler Center for the Arts\, 250 N Arizona Ave\, Chandler\, AZ 
+ 85225
+DESCRIPTION:The company's 40th-anniversary Nutcracker. $42.50. Details: ht
+ tps://weekendscout.app/e/phoenix/ballet-etudes-nutcracker/
+URL:https://weekendscout.app/e/phoenix/ballet-etudes-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:phoenix-ballet-etudes-nutcracker-sat-1@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T020000Z
+DTEND:20261129T040000Z
+SUMMARY:Ballet Etudes' Nutcracker
+LOCATION:Chandler Center for the Arts\, 250 N Arizona Ave\, Chandler\, AZ 
+ 85225
+DESCRIPTION:The company's 40th-anniversary Nutcracker. $42.50. Details: ht
+ tps://weekendscout.app/e/phoenix/ballet-etudes-nutcracker/
+URL:https://weekendscout.app/e/phoenix/ballet-etudes-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:phoenix-ballet-etudes-nutcracker-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T220000Z
+DTEND:20261130T000000Z
+SUMMARY:Ballet Etudes' Nutcracker
+LOCATION:Chandler Center for the Arts\, 250 N Arizona Ave\, Chandler\, AZ 
+ 85225
+DESCRIPTION:The company's 40th-anniversary Nutcracker. $42.50. Details: ht
+ tps://weekendscout.app/e/phoenix/ballet-etudes-nutcracker/
+URL:https://weekendscout.app/e/phoenix/ballet-etudes-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:phoenix-puppet-theater-little-red-hen-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261127T170000Z
+DTEND:20261127T190000Z
+SUMMARY:The Little Red Hen
+LOCATION:Great Arizona Puppet Theater\, 302 W Latham St\, Phoenix\, AZ 850
+ 03
+DESCRIPTION:A puppet show for young kids at Phoenix's historic puppet thea
+ ter. $10 kids\, $15 adults. Details: https://weekendscout.app/e/phoenix/pu
+ ppet-theater-little-red-hen/
+URL:https://weekendscout.app/e/phoenix/puppet-theater-little-red-hen/
+END:VEVENT
+BEGIN:VEVENT
+UID:phoenix-puppet-theater-little-red-hen-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T170000Z
+DTEND:20261128T190000Z
+SUMMARY:The Little Red Hen
+LOCATION:Great Arizona Puppet Theater\, 302 W Latham St\, Phoenix\, AZ 850
+ 03
+DESCRIPTION:A puppet show for young kids at Phoenix's historic puppet thea
+ ter. $10 kids\, $15 adults. Details: https://weekendscout.app/e/phoenix/pu
+ ppet-theater-little-red-hen/
+URL:https://weekendscout.app/e/phoenix/puppet-theater-little-red-hen/
+END:VEVENT
+BEGIN:VEVENT
+UID:phoenix-puppet-theater-little-red-hen-sat-1@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T210000Z
+DTEND:20261128T230000Z
+SUMMARY:The Little Red Hen
+LOCATION:Great Arizona Puppet Theater\, 302 W Latham St\, Phoenix\, AZ 850
+ 03
+DESCRIPTION:A puppet show for young kids at Phoenix's historic puppet thea
+ ter. $10 kids\, $15 adults. Details: https://weekendscout.app/e/phoenix/pu
+ ppet-theater-little-red-hen/
+URL:https://weekendscout.app/e/phoenix/puppet-theater-little-red-hen/
+END:VEVENT
+BEGIN:VEVENT
+UID:phoenix-puppet-theater-little-red-hen-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T210000Z
+DTEND:20261129T230000Z
+SUMMARY:The Little Red Hen
+LOCATION:Great Arizona Puppet Theater\, 302 W Latham St\, Phoenix\, AZ 850
+ 03
+DESCRIPTION:A puppet show for young kids at Phoenix's historic puppet thea
+ ter. $10 kids\, $15 adults. Details: https://weekendscout.app/e/phoenix/pu
+ ppet-theater-little-red-hen/
+URL:https://weekendscout.app/e/phoenix/puppet-theater-little-red-hen/
+END:VEVENT
+BEGIN:VEVENT
+UID:phoenix-scottsdale-farmers-market-santa-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T150000Z
+DTEND:20261128T200000Z
+SUMMARY:Old Town Scottsdale Farmers Market (with Santa)
+LOCATION:Old Town Scottsdale Farmers Market\, 3939 N Drinkwater Blvd\, Sco
+ ttsdale\, AZ 85251
+DESCRIPTION:Local food and crafts\, with free Santa photos 9 a.m.–noon. 
+ Free. Details: https://weekendscout.app/e/phoenix/scottsdale-farmers-marke
+ t-santa/
+URL:https://weekendscout.app/e/phoenix/scottsdale-farmers-market-santa/
+END:VEVENT
+BEGIN:VEVENT
+UID:phoenix-suns-mavericks-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Phoenix Suns vs. Dallas Mavericks
+LOCATION:Mortgage Matchup Center\, 201 E Jefferson St\, Phoenix\, AZ 85004
+DESCRIPTION:The Suns host the Mavericks downtown on Black Friday night. Ti
+ ckets. Details: https://weekendscout.app/e/phoenix/suns-mavericks-2026-11-
+ 27/
+URL:https://weekendscout.app/e/phoenix/suns-mavericks-2026-11-27/
+END:VEVENT
+END:VCALENDAR

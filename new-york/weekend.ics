@@ -1,0 +1,341 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · New York
+X-WR-CALDESC:Hand-checked weekend picks in New York, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:new-york-nycb-nutcracker-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:George Balanchine's The Nutcracker
+LOCATION:David H. Koch Theater\, Lincoln Center\, 20 Lincoln Center Plaza\
+ , New York\, NY 10023
+DESCRIPTION:New York City Ballet's holiday classic opens its run Thanksgiv
+ ing weekend\, with the famous growing tree and live orchestra. Tickets. De
+ tails: https://weekendscout.app/e/new-york/nycb-nutcracker/
+URL:https://weekendscout.app/e/new-york/nycb-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:new-york-nycb-nutcracker-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:George Balanchine's The Nutcracker
+LOCATION:David H. Koch Theater\, Lincoln Center\, 20 Lincoln Center Plaza\
+ , New York\, NY 10023
+DESCRIPTION:New York City Ballet's holiday classic opens its run Thanksgiv
+ ing weekend\, with the famous growing tree and live orchestra. Tickets. De
+ tails: https://weekendscout.app/e/new-york/nycb-nutcracker/
+URL:https://weekendscout.app/e/new-york/nycb-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:new-york-nycb-nutcracker-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:George Balanchine's The Nutcracker
+LOCATION:David H. Koch Theater\, Lincoln Center\, 20 Lincoln Center Plaza\
+ , New York\, NY 10023
+DESCRIPTION:New York City Ballet's holiday classic opens its run Thanksgiv
+ ing weekend\, with the famous growing tree and live orchestra. Tickets. De
+ tails: https://weekendscout.app/e/new-york/nycb-nutcracker/
+URL:https://weekendscout.app/e/new-york/nycb-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:new-york-macys-santaland-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Macy's Santaland
+LOCATION:Macy's Herald Square\, 151 W 34th St\, New York\, NY 10001
+DESCRIPTION:Walk through the eighth-floor winter village to visit Santa. L
+ ines are long on Black Friday\; go early. Free. Details: https://weekendsc
+ out.app/e/new-york/macys-santaland/
+URL:https://weekendscout.app/e/new-york/macys-santaland/
+END:VEVENT
+BEGIN:VEVENT
+UID:new-york-macys-santaland-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Macy's Santaland
+LOCATION:Macy's Herald Square\, 151 W 34th St\, New York\, NY 10001
+DESCRIPTION:Walk through the eighth-floor winter village to visit Santa. L
+ ines are long on Black Friday\; go early. Free. Details: https://weekendsc
+ out.app/e/new-york/macys-santaland/
+URL:https://weekendscout.app/e/new-york/macys-santaland/
+END:VEVENT
+BEGIN:VEVENT
+UID:new-york-macys-santaland-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Macy's Santaland
+LOCATION:Macy's Herald Square\, 151 W 34th St\, New York\, NY 10001
+DESCRIPTION:Walk through the eighth-floor winter village to visit Santa. L
+ ines are long on Black Friday\; go early. Free. Details: https://weekendsc
+ out.app/e/new-york/macys-santaland/
+URL:https://weekendscout.app/e/new-york/macys-santaland/
+END:VEVENT
+BEGIN:VEVENT
+UID:new-york-bluey-hudson-yards-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Bluey's Aussie Christmas
+LOCATION:Hudson Yards\, 20 Hudson Yards\, New York\, NY 10001
+DESCRIPTION:A Bluey-themed holiday stop at The Shops at Hudson Yards. Sant
+ a photos are on Level 3 from 5 p.m. Free. Details: https://weekendscout.ap
+ p/e/new-york/bluey-hudson-yards/
+URL:https://weekendscout.app/e/new-york/bluey-hudson-yards/
+END:VEVENT
+BEGIN:VEVENT
+UID:new-york-bluey-hudson-yards-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Bluey's Aussie Christmas
+LOCATION:Hudson Yards\, 20 Hudson Yards\, New York\, NY 10001
+DESCRIPTION:A Bluey-themed holiday stop at The Shops at Hudson Yards. Sant
+ a photos are on Level 3 from 5 p.m. Free. Details: https://weekendscout.ap
+ p/e/new-york/bluey-hudson-yards/
+URL:https://weekendscout.app/e/new-york/bluey-hudson-yards/
+END:VEVENT
+BEGIN:VEVENT
+UID:new-york-bluey-hudson-yards-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Bluey's Aussie Christmas
+LOCATION:Hudson Yards\, 20 Hudson Yards\, New York\, NY 10001
+DESCRIPTION:A Bluey-themed holiday stop at The Shops at Hudson Yards. Sant
+ a photos are on Level 3 from 5 p.m. Free. Details: https://weekendscout.ap
+ p/e/new-york/bluey-hudson-yards/
+URL:https://weekendscout.app/e/new-york/bluey-hudson-yards/
+END:VEVENT
+BEGIN:VEVENT
+UID:new-york-bryant-park-winter-village-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Winter Village at Bryant Park
+LOCATION:Bryant Park\, 6th Ave & W 42nd St\, New York\, NY 10018
+DESCRIPTION:Holiday shops\, food kiosks and a free-admission skating rink 
+ in Midtown. Skate rental and reserved skate times cost extra. Free entry. 
+ Details: https://weekendscout.app/e/new-york/bryant-park-winter-village/
+URL:https://weekendscout.app/e/new-york/bryant-park-winter-village/
+END:VEVENT
+BEGIN:VEVENT
+UID:new-york-bryant-park-winter-village-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Winter Village at Bryant Park
+LOCATION:Bryant Park\, 6th Ave & W 42nd St\, New York\, NY 10018
+DESCRIPTION:Holiday shops\, food kiosks and a free-admission skating rink 
+ in Midtown. Skate rental and reserved skate times cost extra. Free entry. 
+ Details: https://weekendscout.app/e/new-york/bryant-park-winter-village/
+URL:https://weekendscout.app/e/new-york/bryant-park-winter-village/
+END:VEVENT
+BEGIN:VEVENT
+UID:new-york-bryant-park-winter-village-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Winter Village at Bryant Park
+LOCATION:Bryant Park\, 6th Ave & W 42nd St\, New York\, NY 10018
+DESCRIPTION:Holiday shops\, food kiosks and a free-admission skating rink 
+ in Midtown. Skate rental and reserved skate times cost extra. Free entry. 
+ Details: https://weekendscout.app/e/new-york/bryant-park-winter-village/
+URL:https://weekendscout.app/e/new-york/bryant-park-winter-village/
+END:VEVENT
+BEGIN:VEVENT
+UID:new-york-rockefeller-rink-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:The Rink at Rockefeller Center
+LOCATION:Rockefeller Center\, 30 Rockefeller Plaza\, New York\, NY 10112
+DESCRIPTION:Skate under the giant tree (it's lit the following week). Book
+  a timed session online ahead of the holiday rush. Timed tickets. Details:
+  https://weekendscout.app/e/new-york/rockefeller-rink/
+URL:https://weekendscout.app/e/new-york/rockefeller-rink/
+END:VEVENT
+BEGIN:VEVENT
+UID:new-york-rockefeller-rink-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:The Rink at Rockefeller Center
+LOCATION:Rockefeller Center\, 30 Rockefeller Plaza\, New York\, NY 10112
+DESCRIPTION:Skate under the giant tree (it's lit the following week). Book
+  a timed session online ahead of the holiday rush. Timed tickets. Details:
+  https://weekendscout.app/e/new-york/rockefeller-rink/
+URL:https://weekendscout.app/e/new-york/rockefeller-rink/
+END:VEVENT
+BEGIN:VEVENT
+UID:new-york-rockefeller-rink-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:The Rink at Rockefeller Center
+LOCATION:Rockefeller Center\, 30 Rockefeller Plaza\, New York\, NY 10112
+DESCRIPTION:Skate under the giant tree (it's lit the following week). Book
+  a timed session online ahead of the holiday rush. Timed tickets. Details:
+  https://weekendscout.app/e/new-york/rockefeller-rink/
+URL:https://weekendscout.app/e/new-york/rockefeller-rink/
+END:VEVENT
+BEGIN:VEVENT
+UID:new-york-dyker-heights-lights-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Dyker Heights Christmas Lights
+LOCATION:Dyker Heights\, Brooklyn\, 11th–13th Aves & 83rd–86th Sts\, B
+ rooklyn\, NY 11228
+DESCRIPTION:Brooklyn's famous over-the-top house displays go up the day af
+ ter Thanksgiving. Best after dark\; take the D to 79th St. Free. Details: 
+ https://weekendscout.app/e/new-york/dyker-heights-lights/
+URL:https://weekendscout.app/e/new-york/dyker-heights-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:new-york-dyker-heights-lights-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Dyker Heights Christmas Lights
+LOCATION:Dyker Heights\, Brooklyn\, 11th–13th Aves & 83rd–86th Sts\, B
+ rooklyn\, NY 11228
+DESCRIPTION:Brooklyn's famous over-the-top house displays go up the day af
+ ter Thanksgiving. Best after dark\; take the D to 79th St. Free. Details: 
+ https://weekendscout.app/e/new-york/dyker-heights-lights/
+URL:https://weekendscout.app/e/new-york/dyker-heights-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:new-york-dyker-heights-lights-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Dyker Heights Christmas Lights
+LOCATION:Dyker Heights\, Brooklyn\, 11th–13th Aves & 83rd–86th Sts\, B
+ rooklyn\, NY 11228
+DESCRIPTION:Brooklyn's famous over-the-top house displays go up the day af
+ ter Thanksgiving. Best after dark\; take the D to 79th St. Free. Details: 
+ https://weekendscout.app/e/new-york/dyker-heights-lights/
+URL:https://weekendscout.app/e/new-york/dyker-heights-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:new-york-big-apple-circus-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Big Apple Circus
+LOCATION:Marx Brothers Playground\, 1st Ave & E 96th St\, New York\, NY 10
+ 029
+DESCRIPTION:The one-ring circus returns to its tent on the Upper East Side
+  for the holiday season. Tickets. Details: https://weekendscout.app/e/new-
+ york/big-apple-circus/
+URL:https://weekendscout.app/e/new-york/big-apple-circus/
+END:VEVENT
+BEGIN:VEVENT
+UID:new-york-big-apple-circus-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Big Apple Circus
+LOCATION:Marx Brothers Playground\, 1st Ave & E 96th St\, New York\, NY 10
+ 029
+DESCRIPTION:The one-ring circus returns to its tent on the Upper East Side
+  for the holiday season. Tickets. Details: https://weekendscout.app/e/new-
+ york/big-apple-circus/
+URL:https://weekendscout.app/e/new-york/big-apple-circus/
+END:VEVENT
+BEGIN:VEVENT
+UID:new-york-big-apple-circus-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Big Apple Circus
+LOCATION:Marx Brothers Playground\, 1st Ave & E 96th St\, New York\, NY 10
+ 029
+DESCRIPTION:The one-ring circus returns to its tent on the Upper East Side
+  for the holiday season. Tickets. Details: https://weekendscout.app/e/new-
+ york/big-apple-circus/
+URL:https://weekendscout.app/e/new-york/big-apple-circus/
+END:VEVENT
+BEGIN:VEVENT
+UID:new-york-pelham-bay-hibernation-hike-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T150000Z
+DTEND:20261128T160000Z
+SUMMARY:Hibernation Hike in Pelham Bay Park
+LOCATION:Pelham Bay Park\, Pelham Bay Park\, Bronx\, NY 10464
+DESCRIPTION:Urban Park Rangers lead an hour-long walk looking at how anima
+ ls get ready for winter. Free. Details: https://weekendscout.app/e/new-yor
+ k/pelham-bay-hibernation-hike/
+URL:https://weekendscout.app/e/new-york/pelham-bay-hibernation-hike/
+END:VEVENT
+BEGIN:VEVENT
+UID:new-york-park-slope-tree-lighting-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T213000Z
+DTEND:20261128T223000Z
+SUMMARY:Small Business Saturday Tree Lighting
+LOCATION:J.J. Byrne Park\, 5th Ave & 3rd St\, Brooklyn\, NY 11215
+DESCRIPTION:Park Slope's tree lighting with hot chocolate and a visit from
+  Santa. Free. Details: https://weekendscout.app/e/new-york/park-slope-tree
+ -lighting/
+URL:https://weekendscout.app/e/new-york/park-slope-tree-lighting/
+END:VEVENT
+BEGIN:VEVENT
+UID:new-york-charlie-brown-lehman-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T210000Z
+DTEND:20261129T230000Z
+SUMMARY:A Charlie Brown Christmas
+LOCATION:Lehman Center for the Performing Arts\, 250 Bedford Park Blvd W\,
+  Bronx\, NY 10468
+DESCRIPTION:The Peanuts gang's holiday special\, live on stage. Tickets. D
+ etails: https://weekendscout.app/e/new-york/charlie-brown-lehman/
+URL:https://weekendscout.app/e/new-york/charlie-brown-lehman/
+END:VEVENT
+BEGIN:VEVENT
+UID:new-york-knicks-heat-nba-cup-2026-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:NBA Cup: Knicks vs. Miami Heat
+LOCATION:Madison Square Garden\, 4 Pennsylvania Plaza\, New York\, NY 1000
+ 1
+DESCRIPTION:A Black Friday NBA Cup group-stage game at the Garden. Tickets
+ . Details: https://weekendscout.app/e/new-york/knicks-heat-nba-cup-2026/
+URL:https://weekendscout.app/e/new-york/knicks-heat-nba-cup-2026/
+END:VEVENT
+END:VCALENDAR

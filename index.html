@@ -271,6 +271,21 @@ dialog.sheet[open]{animation:sheetUp .22s cubic-bezier(.2,.8,.2,1)}
 .alts{margin-top:6px;font-size:.85rem;color:var(--muted);line-height:1.5}
 .alts span{font-weight:600}
 .alts small{color:var(--muted)}
+.more{margin:22px 0 6px}
+.more .rail-head{margin-bottom:8px}
+.up{list-style:none;margin:0;padding:0;border-top:1px solid var(--line)}
+.up li{display:grid;grid-template-columns:5.6rem 1fr;gap:10px;padding:10px 0;border-bottom:1px solid var(--line);align-items:baseline}
+.up-d{font-weight:700;font-size:.82rem;color:var(--accent)}
+.up-b{min-width:0}
+.up-b b{display:block;font-weight:650;line-height:1.3}
+.up-b a{color:inherit;text-decoration:underline;text-decoration-color:var(--line);text-underline-offset:3px}
+.up-b small{display:block;color:var(--muted);font-size:.84rem;margin-top:2px}
+.calbox{background:var(--surface);border:1px solid var(--line);border-radius:16px;padding:14px 16px}
+.calbox h2{font-size:1.05rem;margin:0 0 4px}
+.calbox p{margin:0 0 10px;color:var(--muted);font-size:.9rem}
+.cal-btns{display:flex;flex-wrap:wrap;gap:8px}
+.getthere{margin:10px 0 0;font-size:.9rem;color:var(--ink)}
+.getthere b{font-weight:650}
 </style>
 </head>
 <body>
@@ -415,14 +430,14 @@ dialog.sheet[open]{animation:sheetUp .22s cubic-bezier(.2,.8,.2,1)}
 
 <script>
 (() => {
-const APP_VERSION = '1.10.2';
+const APP_VERSION = '1.11.0';
 const SITE_URL = 'https://weekendscout.app/'; // the live address, so shared links point there
 const TZ0 = 'America/New_York';
 let TZ = TZ0; // switches to the chosen city's time zone
 const DAYS = ['fri','sat','sun'];
 const DAYNAME = {fri:'Friday',sat:'Saturday',sun:'Sunday'};
 const DAYABBR = {fri:'Fri',sat:'Sat',sun:'Sun'};
-const CATS = [['all','Everything'],['free','Free'],['music','Music'],['sports','Sports'],['arts','Arts'],['food','Food & Drink'],['family','Family'],['comedy','Comedy']];
+const CATS = [['all','Everything'],['free','Free'],['cheap','Under $25'],['music','Music'],['sports','Sports'],['arts','Arts'],['food','Food & Drink'],['family','Family'],['comedy','Comedy']];
 const CATLABEL = {music:'Music',sports:'Sports',arts:'Arts',food:'Food & Drink',family:'Family',comedy:'Comedy'};
 const $ = id => document.getElementById(id);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -538,11 +553,18 @@ function goodFor(ev){
   if (ev.ages) g.delete('family');
   return GOOD.map(([k]) => k).filter(k => g.has(k));
 }
+// Lowest known ticket price: priceMin when the update recorded it, 0 for free, else the first $ amount in the label
+function priceVal(ev){
+  if (typeof ev.priceMin === 'number') return ev.priceMin;
+  if (ev.price === 'free') return 0;
+  const m = String(ev.priceLabel || '').match(/\$\s?(\d+(?:\.\d+)?)/); return m ? +m[1] : null;
+}
 function matches(ev, day, cat, q, good = S.good){
   if (good !== 'any' && !goodFor(ev).includes(good)) return false;
   if (day !== 'all' && !(ev.times[day] || []).length) return false;
   if (cat === 'free' && ev.price !== 'free') return false;
-  if (cat !== 'all' && cat !== 'free' && ev.cat !== cat) return false;
+  if (cat === 'cheap'){ const v = priceVal(ev); if (v === null || v > 25) return false; }
+  if (cat !== 'all' && cat !== 'free' && cat !== 'cheap' && ev.cat !== cat) return false;
   if (q){
     const hay = [ev.title, ev.venue, ev.addr, ev.blurb, CATLABEL[ev.cat], ev.priceLabel, ...goodFor(ev).map(k => GOODLABEL[k] + ' ' + GOODALT[k])].join(' ').toLowerCase();
     if (!q.toLowerCase().split(/\s+/).filter(Boolean).every(w => hay.includes(w))) return false;
@@ -633,7 +655,7 @@ function renderControls(){
   $('days').innerHTML = [['all','All','weekend'], ...DAYS.map(d => [d, DAYABBR[d], w[d] === today ? 'Today' : prettyDate(w[d], { month:'short', day:'numeric' })])]
     .map(([k,a,b]) => { const x = k !== 'all' && wxFor(w[k]); return `<button type="button" data-day="${k}" aria-pressed="${S.day === k}"${x ? ` aria-label="${a} ${esc(b)}, ${x.hi} degrees, ${x.rain}% chance of rain"` : ''}>${a}<small>${esc(b)}</small>${x ? `<span class="wx" aria-hidden="true">${wxIcon(x.code)} ${x.hi}°</span>` : ''}</button>`; }).join('');
   $('chips').innerHTML = CATS
-    .filter(([k]) => k === 'all' || DATA.events.some(e => k === 'free' ? e.price === 'free' : e.cat === k))
+    .filter(([k]) => k === 'all' || DATA.events.some(e => k === 'free' ? e.price === 'free' : k === 'cheap' ? (priceVal(e) !== null && priceVal(e) <= 25) : e.cat === k))
     .map(([k,l]) => `<button type="button" class="chip" data-cat="${k}" aria-pressed="${S.cat === k}">${esc(l)}</button>`).join('');
   const goods = GOOD.filter(([k]) => DATA.events.some(e => goodFor(e).includes(k)));
   $('good').hidden = !goods.length;
@@ -657,9 +679,9 @@ function renderHome(){
   const plans = renderPlans(), fy = renderForYou();
   // Rails sit inside the list, after the first few events, so the list stays first.
   // With the Date night filter on, the ready-made date bundles lead the list.
-  if (plans) cards.splice(S.good === 'date' ? 0 : Math.min(4, cards.length), 0, plans);
+  if (plans) cards.splice(S.good !== 'any' ? 0 : Math.min(4, cards.length), 0, plans);
   if (fy) cards.splice(Math.min(plans ? 9 : 4, cards.length), 0, fy);
-  $('list').innerHTML = cards.join('');
+  $('list').innerHTML = cards.join('') + renderUpcoming() + renderAlways() + calRow();
 }
 
 function renderSaved(){
@@ -756,49 +778,107 @@ function dinnerStep(t, e, label = 'Dinner'){
   if (picks.length){ const p = picks[0]; return { t, what:`${label} at ${p.name}`, sub:`${p.cuisine} · ${p.area} · ${spotDist(p.mi)}`, picks, url:spotBook(p), link:'Book a table' }; }
   return { t, what:`${label} nearby`, sub:'Pick a cozy spot close to the venue. Book ahead on weekends.', url:nearURL('romantic restaurants', e), link:'Find date-night spots' };
 }
-function datePlans(){
+// A step at a hand-picked spot of one kind (dinner | lunch | drinks), or a Maps search when none is close
+function spotStep(t, e, kind, label, query, sub){
+  const picks = nearSpots(e, kind);
+  if (picks.length){ const p = picks[0]; const book = kind !== 'drinks';
+    return { t, what:`${label} at ${p.name}`, sub:`${p.cuisine} · ${p.area} · ${spotDist(p.mi)}`, picks, url:book ? spotBook(p) : spotMaps(p), link:book ? 'Book a table' : 'Directions', nodir:!book }; }
+  return { t, what:`${label} nearby`, sub, url:nearURL(query, e), link:'Find a spot' };
+}
+const PLAN_TYPES = {
+  date:{ title:'Date night plans', sub:'Ready-made evenings', kicker:'Date night plan', note:'Restaurants are date-night favorites near the venue, picked from OpenTable\'s date-night lists. Food and drinks are on you; book ahead on weekends.' },
+  family:{ title:'Family day plans', sub:'Ready-made days out', kicker:'Family day plan', note:'Food stops are kid-friendly places near the venue. Check hours before you go.' },
+  friends:{ title:'Night out with friends', sub:'Ready-made plans', kicker:'Friends night plan', note:'Bars are popular spots near the venue; 21+ with ID. Drink responsibly and get home safe.' }
+};
+function planType(){
+  if (S.q) return null;
+  if (S.good === 'family' || (S.cat === 'family' && S.good === 'any')) return 'family';
+  if (S.good === 'friends') return 'friends';
+  if ((S.cat === 'all' || S.cat === 'free' || S.cat === 'cheap') && (S.good === 'any' || S.good === 'date')) return 'date';
+  return null;
+}
+function buildPlans(type){
   const out = [], usedDay = new Set();
-  const cands = DATA.events.filter(e => goodFor(e).includes('date'))
+  const want = type === 'date' ? 'date' : type;
+  const prefer = s => type === 'family' ? (mins(s.s) >= 9*60 && mins(s.s) <= 15*60) : mins(s.s) >= 17*60;
+  const food = type === 'family' ? 'lunch' : type === 'friends' ? 'drinks' : 'dinner';
+  const cands = DATA.events.filter(e => goodFor(e).includes(want) && (type !== 'friends' || !e.ages || /21|18/.test(e.ages)))
     .flatMap(e => sessions(e).filter(s => s.s && (S.day === 'all' || s.day === S.day)).slice(0, 1).map(s => ({ e, s })))
-    .sort((a,b) => (mins(b.s.s) >= 17*60) - (mins(a.s.s) >= 17*60) || (nearSpots(b.e).length > 0) - (nearSpots(a.e).length > 0) || DAYS.indexOf(a.s.day) - DAYS.indexOf(b.s.day));
+    .sort((a,b) => prefer(b.s) - prefer(a.s) || (nearSpots(b.e, food).length > 0) - (nearSpots(a.e, food).length > 0) || DAYS.indexOf(a.s.day) - DAYS.indexOf(b.s.day));
   for (const c of cands){ if (out.length >= 3) break; if (usedDay.has(c.s.day) && cands.length > 3) continue; usedDay.add(c.s.day); out.push(c); }
   return out.map(({ e, s }) => {
     const st = mins(s.s), en = s.e ? Math.min(mins(s.e), st + 180) : st + 120;
+    const ev = { t:st, what:e.title, sub:e.venue, id:e.id };
     let steps;
-    if (st >= 17*60) steps = [
-      dinnerStep(st - 105, e),
-      { t:st, what:e.title, sub:e.venue, id:e.id },
-      { t:en, what:'Dessert or a nightcap', sub:'End the night somewhere cozy nearby.', url:nearURL('cocktail bar or dessert', e), link:'Find a spot' } ];
-    else if (st >= 11*60) steps = [
-      { t:st - 45, what:'Coffee first', sub:'Warm up before you go.', url:nearURL('coffee', e), link:'Find coffee' },
-      { t:st, what:e.title, sub:e.venue, id:e.id },
-      dinnerStep(Math.max(en, 17*60), e, 'Early dinner') ];
-    else steps = [
-      { t:st, what:e.title, sub:e.venue, id:e.id },
-      { t:en, what:'Brunch after', sub:'A slow late breakfast nearby.', url:nearURL('brunch', e), link:'Find brunch' } ];
-    return { e, s, steps };
+    if (type === 'family'){
+      steps = st < 11*60 + 30
+        ? [ ev, spotStep(Math.max(en, 11*60 + 30), e, 'lunch', 'Lunch', 'family friendly restaurant', 'Kid-friendly food close by.') ]
+        : st < 16*60
+          ? [ spotStep(Math.max(st - 90, 11*60 + 30), e, 'lunch', 'Lunch first', 'family friendly restaurant', 'Fuel up before the fun.'), ev, { t:en, what:'Treat on the way home', sub:'Ice cream, hot cocoa or a bakery stop.', url:nearURL('dessert', e), link:'Find a treat' } ]
+          : [ spotStep(st - 75, e, 'lunch', 'Early dinner', 'family friendly restaurant', 'Kid-friendly food close by.'), ev ];
+    } else if (type === 'friends'){
+      steps = st >= 17*60
+        ? [ { t:st - 90, what:'Grab a bite', sub:'Something quick and shareable nearby.', url:nearURL('food hall or tacos', e), link:'Find food' }, ev, spotStep(en, e, 'drinks', 'Drinks after', 'bar', 'Keep the night going.') ]
+        : [ ev, spotStep(Math.max(en, 17*60), e, 'drinks', 'Happy hour', 'bar', 'Keep the day going.') ];
+    } else {
+      if (st >= 17*60) steps = [ dinnerStep(st - 105, e), ev, spotStep(en, e, 'drinks', 'Nightcap', 'cocktail bar or dessert', 'End the night somewhere cozy nearby.') ];
+      else if (st >= 11*60) steps = [ { t:st - 45, what:'Coffee first', sub:'Warm up before you go.', url:nearURL('coffee', e), link:'Find coffee' }, ev, dinnerStep(Math.max(en, 17*60), e, 'Early dinner') ];
+      else steps = [ ev, { t:en, what:'Brunch after', sub:'A slow late breakfast nearby.', url:nearURL('brunch', e), link:'Find brunch' } ];
+    }
+    return { e, s, steps, type };
   });
 }
+const datePlans = () => buildPlans('date');
 let PLANS = [], planOpen = -1;
 function renderPlans(){
-  PLANS = (S.q || (S.cat !== 'all' && S.cat !== 'free') || (S.good !== 'any' && S.good !== 'date')) ? [] : datePlans();
+  const type = planType();
+  PLANS = type ? buildPlans(type) : [];
   if (!PLANS.length) return '';
-  return `<div class="inlist" role="region" aria-label="Date night plans"><div class="rail-head"><h2>Date night plans</h2><p>Ready-made evenings</p></div>
-    <div class="rail">${PLANS.map((p, i) => `<button class="plan date" type="button" data-plan="${i}">
+  const T = PLAN_TYPES[type];
+  return `<div class="inlist" role="region" aria-label="${esc(T.title)}"><div class="rail-head"><h2>${esc(T.title)}</h2><p>${esc(T.sub)}</p></div>
+    <div class="rail">${PLANS.map((p, i) => `<button class="plan ${type}" type="button" data-plan="${i}">
       <span class="k">${esc(DAYNAME[p.s.day])} · ${esc(p.e.priceLabel || '')}</span><h3>${esc(p.e.title)}</h3>
       <ol>${p.steps.map(x => `<li><b>${esc(fmtMins(x.t))}</b> ${esc(x.id ? 'The main event' : x.what)}</li>`).join('')}</ol></button>`).join('')}</div></div>`;
 }
 function openPlan(i){
   const p = PLANS[i]; if (!p) return;
+  const T = PLAN_TYPES[p.type || 'date'];
   openId = p.e.id; planOpen = i;
   $('sheet-in').innerHTML = `<div class="grab" aria-hidden="true"></div>
-    <div class="sheet-head"><div><span class="kicker">Date night plan · ${esc(DAYNAME[p.s.day])}, ${esc(prettyDate(DATA.weekend.days[p.s.day], { month:'short', day:'numeric' }))}</span><h2 id="s-title" style="margin-top:6px">${esc(p.e.title)}</h2></div>
+    <div class="sheet-head"><div><span class="kicker">${esc(T.kicker)} · ${esc(DAYNAME[p.s.day])}, ${esc(prettyDate(DATA.weekend.days[p.s.day], { month:'short', day:'numeric' }))}</span><h2 id="s-title" style="margin-top:6px">${esc(p.e.title)}</h2></div>
       <button class="x-btn" type="button" data-close aria-label="Close">${ICON.x}</button></div>
     <ol class="steps">${p.steps.map(x => `<li><span class="tm">${esc(fmtMins(x.t))}</span><div><div class="what">${esc(x.what)}</div><div class="sub">${esc(x.sub)}</div>
-      ${x.id ? `<button class="btn" type="button" data-open="${esc(x.id)}" style="margin-top:6px;min-height:40px">Event details ${ICON.ext}</button>` : x.picks ? `<div class="pick-links"><a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.link)} →</a><a href="${esc(spotMaps(x.picks[0]))}" target="_blank" rel="noopener">Directions →</a></div>${x.picks.length > 1 ? `<div class="alts"><span>Or nearby:</span>${x.picks.slice(1).map(s => `<div><a href="${esc(spotMaps(s))}" target="_blank" rel="noopener">${esc(s.name)}</a> <small>· ${esc(s.cuisine)} · ${esc(spotDist(s.mi))}</small></div>`).join('')}</div>` : ''}` : `<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.link)} →</a>`}</div></li>`).join('')}</ol>
-    <p style="font-size:.85rem;color:var(--muted)">Event: ${esc(p.e.priceLabel || 'see venue')}. Restaurants are date-night favorites near the venue, picked from OpenTable's date-night lists. Food and drinks are on you; book ahead on weekends.</p>
+      ${x.id ? `<button class="btn" type="button" data-open="${esc(x.id)}" style="margin-top:6px;min-height:40px">Event details ${ICON.ext}</button>` : x.picks ? `<div class="pick-links"><a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.link)} →</a>${x.nodir ? '' : `<a href="${esc(spotMaps(x.picks[0]))}" target="_blank" rel="noopener">Directions →</a>`}</div>${x.picks.length > 1 ? `<div class="alts"><span>Or nearby:</span>${x.picks.slice(1).map(s => `<div><a href="${esc(spotMaps(s))}" target="_blank" rel="noopener">${esc(s.name)}</a> <small>· ${esc(s.cuisine)} · ${esc(spotDist(s.mi))}</small></div>`).join('')}</div>` : ''}` : `<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.link)} →</a>`}</div></li>`).join('')}</ol>
+    <p style="font-size:.85rem;color:var(--muted)">Event: ${esc(p.e.priceLabel || 'see venue')}. ${esc(T.note)}</p>
     <div class="actions"><button class="btn" type="button" data-save="${esc(p.e.id)}" aria-pressed="${saved.has(p.e.id)}">${ICON.heart} ${saved.has(p.e.id) ? 'Saved' : 'Save the event'}</button><button class="btn" type="button" data-share>${ICON.share} Send this plan</button></div>`;
   if (!sheet.open){ try { sheet.showModal(); } catch { sheet.setAttribute('open',''); } }
+}
+
+/* ---------- coming up (next few weekends) and always-good picks ---------- */
+// Subscribe to the city's weekend in Google/Apple Calendar; the feed is rebuilt every week
+function calRow(){
+  if (S.q || S.cat !== 'all' || S.good !== 'any' || !CITY) return '';
+  const https = `https://weekendscout.app/${CITY.id}/weekend.ics`, web = https.replace('https://', 'webcal://');
+  const g = 'https://calendar.google.com/calendar/r?cid=' + encodeURIComponent(web);
+  return `<section class="more calbox" aria-label="Calendar"><h2>Get every weekend in your calendar</h2><p>Subscribe once and ${esc(CITY.name)}'s picks show up in your calendar each week, updated automatically.</p>
+    <div class="cal-btns"><a class="btn" href="${esc(g)}" target="_blank" rel="noopener">Google Calendar</a><a class="btn" href="${esc(web)}">Apple / Outlook</a></div></section>`;
+}
+function renderUpcoming(){
+  if (S.q || S.cat !== 'all' || S.good !== 'any') return '';
+  const after = DATA.weekend.days.sun;
+  const items = (DATA.upcoming || []).filter(u => u.date && u.date > after).sort((a,b) => a.date.localeCompare(b.date)).slice(0, 8);
+  if (!items.length) return '';
+  return `<section class="more" aria-label="Coming up"><div class="rail-head"><h2>Coming up</h2><p>Plan ahead</p></div>
+    <ul class="up">${items.map(u => `<li><span class="up-d">${esc(prettyDate(u.date, { weekday:'short', month:'short', day:'numeric' }))}</span><span class="up-b"><b>${u.url ? `<a href="${esc(affURL(u.url).url)}" target="_blank" rel="noopener">${esc(u.title)}</a>` : esc(u.title)}</b><small>${esc([u.venue, u.priceLabel].filter(Boolean).join(' · '))}</small></span></li>`).join('')}</ul></section>`;
+}
+function renderAlways(){
+  if (S.q || S.good !== 'any' || (S.cat !== 'all' && S.cat !== 'free')) return '';
+  let a = (DATA.spots || []).filter(x => x.kind === 'always');
+  if (S.cat === 'free') a = a.filter(x => /free/i.test(x.price || ''));
+  if (!a.length) return '';
+  if (S.near && POS) a = a.slice().sort((x,y) => milesBetween(POS[0],POS[1],x.lat,x.lon) - milesBetween(POS[0],POS[1],y.lat,y.lon));
+  return `<section class="more" aria-label="Always good in ${esc(CITY.name)}"><div class="rail-head"><h2>Always good in ${esc(CITY.name)}</h2><p>Any weekend</p></div>
+    <ul class="up">${a.slice(0, 8).map(x => `<li><span class="up-d">${esc(x.price || '')}</span><span class="up-b"><b><a href="${esc(spotMaps(x))}" target="_blank" rel="noopener">${esc(x.name)}</a></b><small>${esc(x.blurb || x.cuisine || '')}${x.area ? ' · ' + esc(x.area) : ''}</small></span></li>`).join('')}</ul></section>`;
 }
 
 /* ---------- structured data so Google can show these events ---------- */
@@ -920,6 +1000,7 @@ function openSheet(id, push = true){
       ${goodFor(ev).length ? `<div class="meta-row">${ICON.heart}<div>Good for: ${goodFor(ev).map(k => esc(GOODLABEL[k]).toLowerCase()).join(', ')}</div></div>` : ''}
     </div>
     ${ev.blurb ? `<p class="blurb">${esc(ev.blurb)}</p>` : ''}
+    ${ev.getThere ? `<p class="getthere"><b>Getting there:</b> ${esc(ev.getThere)}</p>` : ''}
     <div class="actions">
       ${link ? (() => { const a = affURL(link.url); return `<a class="btn primary wide" href="${esc(a.url)}" target="_blank" rel="noopener${ev.sponsored || a.aff ? ' sponsored' : ''}">${esc(link.label)} ${ICON.ext}</a>`; })() : `<a class="btn primary wide" href="${esc(infoURL(ev))}" target="_blank" rel="noopener">Find tickets &amp; info ${ICON.ext}</a>`}
       <a class="btn" href="${esc(mapsURL(ev))}" target="_blank" rel="noopener">${ICON.map} Directions</a>
@@ -964,9 +1045,10 @@ function shareURL(id){
 }
 async function sharePlan(i){
   const p = PLANS[i]; if (!p) return;
-  const text = `Date night, ${DAYNAME[p.s.day]}: ` + p.steps.map(x => `${fmtMins(x.t)} ${x.id ? x.what : x.what.toLowerCase()}`).join(', then ');
+  const T = PLAN_TYPES[p.type || 'date'];
+  const text = `${T.kicker}, ${DAYNAME[p.s.day]}: ` + p.steps.map(x => `${fmtMins(x.t)} ${x.id ? x.what : x.what.charAt(0).toLowerCase() + x.what.slice(1)}`).join(', then ');
   const url = shareURL(p.e.id);
-  try { if (navigator.share) { await navigator.share({ title:'Date night plan', text, url }); return; } } catch (err) { if (err && err.name === 'AbortError') return; }
+  try { if (navigator.share) { await navigator.share({ title:T.kicker, text, url }); return; } } catch (err) { if (err && err.name === 'AbortError') return; }
   try { await navigator.clipboard.writeText(`${text}\n${url}`); toast('Plan copied'); } catch { toast(text); }
 }
 async function share(id){
@@ -1191,6 +1273,9 @@ function renderHeaderCityOnly(){ $('city-label').textContent = cityName(CITY); $
   pickDefaultDay();
   renderHeader(); renderAll(); route();
   if (qp.get('near') === '1') toggleNear($('near-btn'));
+  // Deep links from the SEO pages: ?cat=free / ?good=date
+  const qc = qp.get('cat'), qg = qp.get('good');
+  if ((qc && CATS.some(([k]) => k === qc)) || (qg && GOOD.some(([k]) => k === qg))) { if (qc && CATS.some(([k]) => k === qc)) S.cat = qc; if (qg && GOOD.some(([k]) => k === qg)) S.good = qg; renderControls(); renderHome(); }
   $('feat-city').innerHTML = CITIES.map(c => `<option${c.id === CITY.id ? ' selected' : ''}>${esc(cityName(c))}</option>`).join('');
   if (store.get('ws-remind', false)) savePrefsForWorker();
   // First visit and more than one city: ask which city they're in
@@ -1237,6 +1322,7 @@ function renderNews(){
 }
 function startAnalytics(){
   const a = CFG.analytics || {};
+  if (a.cloudflareToken && !document.getElementById('cf-beacon')){ const s = document.createElement('script'); s.id = 'cf-beacon'; s.defer = true; s.src = 'https://static.cloudflareinsights.com/beacon.min.js'; s.setAttribute('data-cf-beacon', JSON.stringify({ token:a.cloudflareToken, spa:true })); document.head.appendChild(s); }
   if (a.plausibleDomain && !document.getElementById('plausible')){ const s = document.createElement('script'); s.id = 'plausible'; s.defer = true; s.dataset.domain = a.plausibleDomain; s.src = 'https://plausible.io/js/script.js'; document.head.appendChild(s); }
 }
 // "Get listed" form: opens an email to us with everything filled in

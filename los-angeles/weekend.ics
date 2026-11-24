@@ -1,0 +1,352 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Los Angeles
+X-WR-CALDESC:Hand-checked weekend picks in Los Angeles, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:los-angeles-home-alone-concert-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Home Alone in Concert
+LOCATION:Walt Disney Concert Hall\, 111 S Grand Ave\, Los Angeles\, CA 900
+ 12
+DESCRIPTION:The whole movie on the big screen with John Williams' score pl
+ ayed live. Tickets. Details: https://weekendscout.app/e/los-angeles/home-a
+ lone-concert/
+URL:https://weekendscout.app/e/los-angeles/home-alone-concert/
+END:VEVENT
+BEGIN:VEVENT
+UID:los-angeles-home-alone-concert-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Home Alone in Concert
+LOCATION:Walt Disney Concert Hall\, 111 S Grand Ave\, Los Angeles\, CA 900
+ 12
+DESCRIPTION:The whole movie on the big screen with John Williams' score pl
+ ayed live. Tickets. Details: https://weekendscout.app/e/los-angeles/home-a
+ lone-concert/
+URL:https://weekendscout.app/e/los-angeles/home-alone-concert/
+END:VEVENT
+BEGIN:VEVENT
+UID:los-angeles-elf-concert-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Elf in Concert
+LOCATION:Walt Disney Concert Hall\, 111 S Grand Ave\, Los Angeles\, CA 900
+ 12
+DESCRIPTION:Will Ferrell's holiday comedy with a live orchestra playing th
+ e score. Tickets. Details: https://weekendscout.app/e/los-angeles/elf-conc
+ ert/
+URL:https://weekendscout.app/e/los-angeles/elf-concert/
+END:VEVENT
+BEGIN:VEVENT
+UID:los-angeles-elf-concert-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Elf in Concert
+LOCATION:Walt Disney Concert Hall\, 111 S Grand Ave\, Los Angeles\, CA 900
+ 12
+DESCRIPTION:Will Ferrell's holiday comedy with a live orchestra playing th
+ e score. Tickets. Details: https://weekendscout.app/e/los-angeles/elf-conc
+ ert/
+URL:https://weekendscout.app/e/los-angeles/elf-concert/
+END:VEVENT
+BEGIN:VEVENT
+UID:los-angeles-la-kings-holiday-ice-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T010000Z
+DTEND:20261128T030000Z
+SUMMARY:LA Kings Holiday Ice Festival
+LOCATION:L.A. LIVE (Peacock Place)\, 800 W Olympic Blvd\, Los Angeles\, CA
+  90015
+DESCRIPTION:Downtown's outdoor rink and holiday village open for the seaso
+ n. Skating runs late into the night. Skate tickets. Details: https://weeke
+ ndscout.app/e/los-angeles/la-kings-holiday-ice/
+URL:https://weekendscout.app/e/los-angeles/la-kings-holiday-ice/
+END:VEVENT
+BEGIN:VEVENT
+UID:los-angeles-la-kings-holiday-ice-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:LA Kings Holiday Ice Festival
+LOCATION:L.A. LIVE (Peacock Place)\, 800 W Olympic Blvd\, Los Angeles\, CA
+  90015
+DESCRIPTION:Downtown's outdoor rink and holiday village open for the seaso
+ n. Skating runs late into the night. Skate tickets. Details: https://weeke
+ ndscout.app/e/los-angeles/la-kings-holiday-ice/
+URL:https://weekendscout.app/e/los-angeles/la-kings-holiday-ice/
+END:VEVENT
+BEGIN:VEVENT
+UID:los-angeles-la-kings-holiday-ice-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261130T010000Z
+DTEND:20261130T030000Z
+SUMMARY:LA Kings Holiday Ice Festival
+LOCATION:L.A. LIVE (Peacock Place)\, 800 W Olympic Blvd\, Los Angeles\, CA
+  90015
+DESCRIPTION:Downtown's outdoor rink and holiday village open for the seaso
+ n. Skating runs late into the night. Skate tickets. Details: https://weeke
+ ndscout.app/e/los-angeles/la-kings-holiday-ice/
+URL:https://weekendscout.app/e/los-angeles/la-kings-holiday-ice/
+END:VEVENT
+BEGIN:VEVENT
+UID:los-angeles-la-auto-show-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Los Angeles Auto Show
+LOCATION:Los Angeles Convention Center\, 1201 S Figueroa St\, Los Angeles\
+ , CA 90015
+DESCRIPTION:Hundreds of new cars\, concept vehicles and ride-and-drives. T
+ his is the last weekend. Tickets. Details: https://weekendscout.app/e/los-
+ angeles/la-auto-show/
+URL:https://weekendscout.app/e/los-angeles/la-auto-show/
+END:VEVENT
+BEGIN:VEVENT
+UID:los-angeles-la-auto-show-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Los Angeles Auto Show
+LOCATION:Los Angeles Convention Center\, 1201 S Figueroa St\, Los Angeles\
+ , CA 90015
+DESCRIPTION:Hundreds of new cars\, concept vehicles and ride-and-drives. T
+ his is the last weekend. Tickets. Details: https://weekendscout.app/e/los-
+ angeles/la-auto-show/
+URL:https://weekendscout.app/e/los-angeles/la-auto-show/
+END:VEVENT
+BEGIN:VEVENT
+UID:los-angeles-la-auto-show-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Los Angeles Auto Show
+LOCATION:Los Angeles Convention Center\, 1201 S Figueroa St\, Los Angeles\
+ , CA 90015
+DESCRIPTION:Hundreds of new cars\, concept vehicles and ride-and-drives. T
+ his is the last weekend. Tickets. Details: https://weekendscout.app/e/los-
+ angeles/la-auto-show/
+URL:https://weekendscout.app/e/los-angeles/la-auto-show/
+END:VEVENT
+BEGIN:VEVENT
+UID:los-angeles-la-zoo-lights-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:LA Zoo Lights
+LOCATION:Los Angeles Zoo\, 5333 Zoo Dr\, Los Angeles\, CA 90027
+DESCRIPTION:An after-dark walk through the zoo lit up with lights and proj
+ ections. Ice skating is a separate ticket. Tickets. Details: https://weeke
+ ndscout.app/e/los-angeles/la-zoo-lights/
+URL:https://weekendscout.app/e/los-angeles/la-zoo-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:los-angeles-la-zoo-lights-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:LA Zoo Lights
+LOCATION:Los Angeles Zoo\, 5333 Zoo Dr\, Los Angeles\, CA 90027
+DESCRIPTION:An after-dark walk through the zoo lit up with lights and proj
+ ections. Ice skating is a separate ticket. Tickets. Details: https://weeke
+ ndscout.app/e/los-angeles/la-zoo-lights/
+URL:https://weekendscout.app/e/los-angeles/la-zoo-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:los-angeles-la-zoo-lights-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:LA Zoo Lights
+LOCATION:Los Angeles Zoo\, 5333 Zoo Dr\, Los Angeles\, CA 90027
+DESCRIPTION:An after-dark walk through the zoo lit up with lights and proj
+ ections. Ice skating is a separate ticket. Tickets. Details: https://weeke
+ ndscout.app/e/los-angeles/la-zoo-lights/
+URL:https://weekendscout.app/e/los-angeles/la-zoo-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:los-angeles-hollywood-christmas-parade-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:The Hollywood Christmas Parade
+LOCATION:Hollywood Blvd\, Hollywood Blvd & Vine St\, Los Angeles\, CA 9002
+ 8
+DESCRIPTION:The 94th parade with floats\, marching bands and celebrities. 
+ Grandstand seats are sold separately. Free curbside. Details: https://week
+ endscout.app/e/los-angeles/hollywood-christmas-parade/
+URL:https://weekendscout.app/e/los-angeles/hollywood-christmas-parade/
+END:VEVENT
+BEGIN:VEVENT
+UID:los-angeles-descanso-enchanted-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Enchanted: Forest of Light
+LOCATION:Descanso Gardens\, 1418 Descanso Dr\, La Cañada Flintridge\, CA 
+ 91011
+DESCRIPTION:A mile-long nighttime walk through the gardens with interactiv
+ e light installations. Timed tickets. Details: https://weekendscout.app/e/
+ los-angeles/descanso-enchanted/
+URL:https://weekendscout.app/e/los-angeles/descanso-enchanted/
+END:VEVENT
+BEGIN:VEVENT
+UID:los-angeles-descanso-enchanted-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Enchanted: Forest of Light
+LOCATION:Descanso Gardens\, 1418 Descanso Dr\, La Cañada Flintridge\, CA 
+ 91011
+DESCRIPTION:A mile-long nighttime walk through the gardens with interactiv
+ e light installations. Timed tickets. Details: https://weekendscout.app/e/
+ los-angeles/descanso-enchanted/
+URL:https://weekendscout.app/e/los-angeles/descanso-enchanted/
+END:VEVENT
+BEGIN:VEVENT
+UID:los-angeles-descanso-enchanted-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Enchanted: Forest of Light
+LOCATION:Descanso Gardens\, 1418 Descanso Dr\, La Cañada Flintridge\, CA 
+ 91011
+DESCRIPTION:A mile-long nighttime walk through the gardens with interactiv
+ e light installations. Timed tickets. Details: https://weekendscout.app/e/
+ los-angeles/descanso-enchanted/
+URL:https://weekendscout.app/e/los-angeles/descanso-enchanted/
+END:VEVENT
+BEGIN:VEVENT
+UID:los-angeles-swiss-winter-village-santa-monica-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Swiss Winter Village
+LOCATION:Santa Monica Pier (Event Deck)\, 200 Santa Monica Pier\, Santa Mo
+ nica\, CA 90401
+DESCRIPTION:An alpine-style holiday market with fondue\, mulled wine and a
+  view of the ocean. Check prices. Details: https://weekendscout.app/e/los-
+ angeles/swiss-winter-village-santa-monica/
+URL:https://weekendscout.app/e/los-angeles/swiss-winter-village-santa-monica/
+END:VEVENT
+BEGIN:VEVENT
+UID:los-angeles-swiss-winter-village-santa-monica-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Swiss Winter Village
+LOCATION:Santa Monica Pier (Event Deck)\, 200 Santa Monica Pier\, Santa Mo
+ nica\, CA 90401
+DESCRIPTION:An alpine-style holiday market with fondue\, mulled wine and a
+  view of the ocean. Check prices. Details: https://weekendscout.app/e/los-
+ angeles/swiss-winter-village-santa-monica/
+URL:https://weekendscout.app/e/los-angeles/swiss-winter-village-santa-monica/
+END:VEVENT
+BEGIN:VEVENT
+UID:los-angeles-swiss-winter-village-santa-monica-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Swiss Winter Village
+LOCATION:Santa Monica Pier (Event Deck)\, 200 Santa Monica Pier\, Santa Mo
+ nica\, CA 90401
+DESCRIPTION:An alpine-style holiday market with fondue\, mulled wine and a
+  view of the ocean. Check prices. Details: https://weekendscout.app/e/los-
+ angeles/swiss-winter-village-santa-monica/
+URL:https://weekendscout.app/e/los-angeles/swiss-winter-village-santa-monica/
+END:VEVENT
+BEGIN:VEVENT
+UID:los-angeles-academy-museum-gremlins-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T190000Z
+DTEND:20261128T210000Z
+SUMMARY:Family Movie Screening: Gremlins
+LOCATION:Academy Museum of Motion Pictures\, 6067 Wilshire Blvd\, Los Ange
+ les\, CA 90036
+DESCRIPTION:A captioned\, lower-volume screening of the 1984 holiday creat
+ ure comedy. Check prices. Details: https://weekendscout.app/e/los-angeles/
+ academy-museum-gremlins/
+URL:https://weekendscout.app/e/los-angeles/academy-museum-gremlins/
+END:VEVENT
+BEGIN:VEVENT
+UID:los-angeles-universal-holidays-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Holidays at Universal Studios Hollywood
+LOCATION:Universal Studios Hollywood\, 100 Universal City Plaza\, Universa
+ l City\, CA 91608
+DESCRIPTION:Grinchmas and Christmas in the Wizarding World\, included with
+  park admission. Park admission. Details: https://weekendscout.app/e/los-a
+ ngeles/universal-holidays/
+URL:https://weekendscout.app/e/los-angeles/universal-holidays/
+END:VEVENT
+BEGIN:VEVENT
+UID:los-angeles-universal-holidays-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Holidays at Universal Studios Hollywood
+LOCATION:Universal Studios Hollywood\, 100 Universal City Plaza\, Universa
+ l City\, CA 91608
+DESCRIPTION:Grinchmas and Christmas in the Wizarding World\, included with
+  park admission. Park admission. Details: https://weekendscout.app/e/los-a
+ ngeles/universal-holidays/
+URL:https://weekendscout.app/e/los-angeles/universal-holidays/
+END:VEVENT
+BEGIN:VEVENT
+UID:los-angeles-universal-holidays-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Holidays at Universal Studios Hollywood
+LOCATION:Universal Studios Hollywood\, 100 Universal City Plaza\, Universa
+ l City\, CA 91608
+DESCRIPTION:Grinchmas and Christmas in the Wizarding World\, included with
+  park admission. Park admission. Details: https://weekendscout.app/e/los-a
+ ngeles/universal-holidays/
+URL:https://weekendscout.app/e/los-angeles/universal-holidays/
+END:VEVENT
+BEGIN:VEVENT
+UID:los-angeles-calbg-green-friday-2026-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261127T160000Z
+DTEND:20261128T010000Z
+SUMMARY:Green Friday at California Botanic Garden
+LOCATION:California Botanic Garden\, 1500 N College Ave\, Claremont\, CA 9
+ 1711
+DESCRIPTION:Skip the malls: the 86-acre native plant garden is free to vis
+ it the day after Thanksgiving. Free admission. Details: https://weekendsco
+ ut.app/e/los-angeles/calbg-green-friday-2026/
+URL:https://weekendscout.app/e/los-angeles/calbg-green-friday-2026/
+END:VEVENT
+END:VCALENDAR

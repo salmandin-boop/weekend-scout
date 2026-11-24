@@ -1,0 +1,315 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Houston
+X-WR-CALDESC:Hand-checked weekend picks in Houston, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:houston-houston-ballet-nutcracker-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T013000Z
+DTEND:20261128T033000Z
+SUMMARY:Houston Ballet's The Nutcracker
+LOCATION:Wortham Theater Center\, 501 Texas Ave\, Houston\, TX 77002
+DESCRIPTION:Houston Ballet's lavish holiday production\, with matinee and 
+ evening shows all weekend. Tickets. Details: https://weekendscout.app/e/ho
+ uston/houston-ballet-nutcracker/
+URL:https://weekendscout.app/e/houston/houston-ballet-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:houston-houston-ballet-nutcracker-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Houston Ballet's The Nutcracker
+LOCATION:Wortham Theater Center\, 501 Texas Ave\, Houston\, TX 77002
+DESCRIPTION:Houston Ballet's lavish holiday production\, with matinee and 
+ evening shows all weekend. Tickets. Details: https://weekendscout.app/e/ho
+ uston/houston-ballet-nutcracker/
+URL:https://weekendscout.app/e/houston/houston-ballet-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:houston-houston-ballet-nutcracker-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Houston Ballet's The Nutcracker
+LOCATION:Wortham Theater Center\, 501 Texas Ave\, Houston\, TX 77002
+DESCRIPTION:Houston Ballet's lavish holiday production\, with matinee and 
+ evening shows all weekend. Tickets. Details: https://weekendscout.app/e/ho
+ uston/houston-ballet-nutcracker/
+URL:https://weekendscout.app/e/houston/houston-ballet-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:houston-texas-renfest-celtic-christmas-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261127T150000Z
+DTEND:20261128T020000Z
+SUMMARY:Texas Renaissance Festival: Celtic Christmas
+LOCATION:Texas Renaissance Festival\, 21778 FM 1774\, Todd Mission\, TX 77
+ 363
+DESCRIPTION:The season's last weekend\, with a Celtic Christmas theme. Las
+ t entry 7 p.m. Tickets. Details: https://weekendscout.app/e/houston/texas-
+ renfest-celtic-christmas/
+URL:https://weekendscout.app/e/houston/texas-renfest-celtic-christmas/
+END:VEVENT
+BEGIN:VEVENT
+UID:houston-texas-renfest-celtic-christmas-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T150000Z
+DTEND:20261129T020000Z
+SUMMARY:Texas Renaissance Festival: Celtic Christmas
+LOCATION:Texas Renaissance Festival\, 21778 FM 1774\, Todd Mission\, TX 77
+ 363
+DESCRIPTION:The season's last weekend\, with a Celtic Christmas theme. Las
+ t entry 7 p.m. Tickets. Details: https://weekendscout.app/e/houston/texas-
+ renfest-celtic-christmas/
+URL:https://weekendscout.app/e/houston/texas-renfest-celtic-christmas/
+END:VEVENT
+BEGIN:VEVENT
+UID:houston-texas-renfest-celtic-christmas-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T150000Z
+DTEND:20261130T020000Z
+SUMMARY:Texas Renaissance Festival: Celtic Christmas
+LOCATION:Texas Renaissance Festival\, 21778 FM 1774\, Todd Mission\, TX 77
+ 363
+DESCRIPTION:The season's last weekend\, with a Celtic Christmas theme. Las
+ t entry 7 p.m. Tickets. Details: https://weekendscout.app/e/houston/texas-
+ renfest-celtic-christmas/
+URL:https://weekendscout.app/e/houston/texas-renfest-celtic-christmas/
+END:VEVENT
+BEGIN:VEVENT
+UID:houston-discovery-green-ice-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261127T230000Z
+DTEND:20261128T050000Z
+SUMMARY:Ice Rink at Discovery Green
+LOCATION:Discovery Green\, 1500 McKinney St\, Houston\, TX 77010
+DESCRIPTION:Downtown's outdoor rink. Timed 75-minute sessions include skat
+ e rental\; buy online ahead. $18 with skates. Details: https://weekendscou
+ t.app/e/houston/discovery-green-ice/
+URL:https://weekendscout.app/e/houston/discovery-green-ice/
+END:VEVENT
+BEGIN:VEVENT
+UID:houston-discovery-green-ice-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T170000Z
+DTEND:20261129T050000Z
+SUMMARY:Ice Rink at Discovery Green
+LOCATION:Discovery Green\, 1500 McKinney St\, Houston\, TX 77010
+DESCRIPTION:Downtown's outdoor rink. Timed 75-minute sessions include skat
+ e rental\; buy online ahead. $18 with skates. Details: https://weekendscou
+ t.app/e/houston/discovery-green-ice/
+URL:https://weekendscout.app/e/houston/discovery-green-ice/
+END:VEVENT
+BEGIN:VEVENT
+UID:houston-discovery-green-ice-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T170000Z
+DTEND:20261130T020000Z
+SUMMARY:Ice Rink at Discovery Green
+LOCATION:Discovery Green\, 1500 McKinney St\, Houston\, TX 77010
+DESCRIPTION:Downtown's outdoor rink. Timed 75-minute sessions include skat
+ e rental\; buy online ahead. $18 with skates. Details: https://weekendscou
+ t.app/e/houston/discovery-green-ice/
+URL:https://weekendscout.app/e/houston/discovery-green-ice/
+END:VEVENT
+BEGIN:VEVENT
+UID:houston-citycentre-holiday-plaza-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T180000Z
+DTEND:20261128T220000Z
+SUMMARY:Holiday in the Plaza
+LOCATION:CITYCENTRE\, 800 Town and Country Blvd\, Houston\, TX 77024
+DESCRIPTION:A free family afternoon of holiday activities on the plaza. Fr
+ ee. Details: https://weekendscout.app/e/houston/citycentre-holiday-plaza/
+URL:https://weekendscout.app/e/houston/citycentre-holiday-plaza/
+END:VEVENT
+BEGIN:VEVENT
+UID:houston-galaxy-lights-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T000000Z
+DTEND:20261128T040000Z
+SUMMARY:Galaxy Lights
+LOCATION:Space Center Houston\, 1601 E NASA Pkwy\, Houston\, TX 77058
+DESCRIPTION:A space-themed light show at NASA's visitor center. Runs selec
+ t nights and some sell out\, so book ahead. $19.95–$27.95. Details: http
+ s://weekendscout.app/e/houston/galaxy-lights/
+URL:https://weekendscout.app/e/houston/galaxy-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:houston-galaxy-lights-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T000000Z
+DTEND:20261129T040000Z
+SUMMARY:Galaxy Lights
+LOCATION:Space Center Houston\, 1601 E NASA Pkwy\, Houston\, TX 77058
+DESCRIPTION:A space-themed light show at NASA's visitor center. Runs selec
+ t nights and some sell out\, so book ahead. $19.95–$27.95. Details: http
+ s://weekendscout.app/e/houston/galaxy-lights/
+URL:https://weekendscout.app/e/houston/galaxy-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:houston-galaxy-lights-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261130T000000Z
+DTEND:20261130T040000Z
+SUMMARY:Galaxy Lights
+LOCATION:Space Center Houston\, 1601 E NASA Pkwy\, Houston\, TX 77058
+DESCRIPTION:A space-themed light show at NASA's visitor center. Runs selec
+ t nights and some sell out\, so book ahead. $19.95–$27.95. Details: http
+ s://weekendscout.app/e/houston/galaxy-lights/
+URL:https://weekendscout.app/e/houston/galaxy-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:houston-houston-zoo-lights-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261127T233000Z
+DTEND:20261128T043000Z
+SUMMARY:Zoo Lights
+LOCATION:Houston Zoo\, 6200 Hermann Park Dr\, Houston\, TX 77030
+DESCRIPTION:The zoo glows with millions of lights. Last entry 9:30 p.m. Ti
+ ckets. Details: https://weekendscout.app/e/houston/houston-zoo-lights/
+URL:https://weekendscout.app/e/houston/houston-zoo-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:houston-houston-zoo-lights-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T233000Z
+DTEND:20261129T043000Z
+SUMMARY:Zoo Lights
+LOCATION:Houston Zoo\, 6200 Hermann Park Dr\, Houston\, TX 77030
+DESCRIPTION:The zoo glows with millions of lights. Last entry 9:30 p.m. Ti
+ ckets. Details: https://weekendscout.app/e/houston/houston-zoo-lights/
+URL:https://weekendscout.app/e/houston/houston-zoo-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:houston-houston-zoo-lights-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T233000Z
+DTEND:20261130T043000Z
+SUMMARY:Zoo Lights
+LOCATION:Houston Zoo\, 6200 Hermann Park Dr\, Houston\, TX 77030
+DESCRIPTION:The zoo glows with millions of lights. Last entry 9:30 p.m. Ti
+ ckets. Details: https://weekendscout.app/e/houston/houston-zoo-lights/
+URL:https://weekendscout.app/e/houston/houston-zoo-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:houston-wwe-survivor-series-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:WWE Survivor Series: WarGames
+LOCATION:Daikin Park\, 501 Crawford St\, Houston\, TX 77002
+DESCRIPTION:WWE's Thanksgiving-weekend event comes to the Astros' ballpark
+ . Tickets. Details: https://weekendscout.app/e/houston/wwe-survivor-series
+ /
+URL:https://weekendscout.app/e/houston/wwe-survivor-series/
+END:VEVENT
+BEGIN:VEVENT
+UID:houston-trivium-in-flames-houston-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Trivium & In Flames
+LOCATION:Bayou Music Center\, 520 Texas Ave\, Houston\, TX 77002
+DESCRIPTION:A metal double bill with Orbit Culture and Frozen Soul opening
+ . Tickets. Details: https://weekendscout.app/e/houston/trivium-in-flames-h
+ ouston/
+URL:https://weekendscout.app/e/houston/trivium-in-flames-houston/
+END:VEVENT
+BEGIN:VEVENT
+UID:houston-post-houston-winter-wonderlawn-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261127T230000Z
+DTEND:20261128T010000Z
+SUMMARY:Winter Wonderlawn
+LOCATION:POST Houston Skylawn\, 401 Franklin St\, Houston\, TX 77201
+DESCRIPTION:Holiday lights and a winter setup on POST's rooftop park. Kids
+  6 and under free. $19 after 5 p.m.. Details: https://weekendscout.app/e/h
+ ouston/post-houston-winter-wonderlawn/
+URL:https://weekendscout.app/e/houston/post-houston-winter-wonderlawn/
+END:VEVENT
+BEGIN:VEVENT
+UID:houston-post-houston-winter-wonderlawn-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T230000Z
+DTEND:20261129T010000Z
+SUMMARY:Winter Wonderlawn
+LOCATION:POST Houston Skylawn\, 401 Franklin St\, Houston\, TX 77201
+DESCRIPTION:Holiday lights and a winter setup on POST's rooftop park. Kids
+  6 and under free. $19 after 5 p.m.. Details: https://weekendscout.app/e/h
+ ouston/post-houston-winter-wonderlawn/
+URL:https://weekendscout.app/e/houston/post-houston-winter-wonderlawn/
+END:VEVENT
+BEGIN:VEVENT
+UID:houston-post-houston-winter-wonderlawn-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T230000Z
+DTEND:20261130T010000Z
+SUMMARY:Winter Wonderlawn
+LOCATION:POST Houston Skylawn\, 401 Franklin St\, Houston\, TX 77201
+DESCRIPTION:Holiday lights and a winter setup on POST's rooftop park. Kids
+  6 and under free. $19 after 5 p.m.. Details: https://weekendscout.app/e/h
+ ouston/post-houston-winter-wonderlawn/
+URL:https://weekendscout.app/e/houston/post-houston-winter-wonderlawn/
+END:VEVENT
+BEGIN:VEVENT
+UID:houston-miss-may-i-houston-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T010000Z
+DTEND:20261128T030000Z
+SUMMARY:Miss May I with Born of Osiris
+LOCATION:Warehouse Live Midtown\, 2600 Travis St\, Houston\, TX 77006
+DESCRIPTION:Metalcore night in Midtown. Doors at 6 p.m. Tickets. Details: 
+ https://weekendscout.app/e/houston/miss-may-i-houston/
+URL:https://weekendscout.app/e/houston/miss-may-i-houston/
+END:VEVENT
+BEGIN:VEVENT
+UID:houston-houston-city-lights-tinsel-town-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:City Lights: Tinsel Town
+LOCATION:Market Square Park\, 301 Milam St\, Houston\, TX 77002
+DESCRIPTION:Downtown's free holiday light displays\, one of several City L
+ ights stops around Main Street and Discovery Green. Free. Details: https:/
+ /weekendscout.app/e/houston/houston-city-lights-tinsel-town/
+URL:https://weekendscout.app/e/houston/houston-city-lights-tinsel-town/
+END:VEVENT
+BEGIN:VEVENT
+UID:houston-houston-city-lights-tinsel-town-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:City Lights: Tinsel Town
+LOCATION:Market Square Park\, 301 Milam St\, Houston\, TX 77002
+DESCRIPTION:Downtown's free holiday light displays\, one of several City L
+ ights stops around Main Street and Discovery Green. Free. Details: https:/
+ /weekendscout.app/e/houston/houston-city-lights-tinsel-town/
+URL:https://weekendscout.app/e/houston/houston-city-lights-tinsel-town/
+END:VEVENT
+BEGIN:VEVENT
+UID:houston-houston-city-lights-tinsel-town-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:City Lights: Tinsel Town
+LOCATION:Market Square Park\, 301 Milam St\, Houston\, TX 77002
+DESCRIPTION:Downtown's free holiday light displays\, one of several City L
+ ights stops around Main Street and Discovery Green. Free. Details: https:/
+ /weekendscout.app/e/houston/houston-city-lights-tinsel-town/
+URL:https://weekendscout.app/e/houston/houston-city-lights-tinsel-town/
+END:VEVENT
+END:VCALENDAR

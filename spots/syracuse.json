@@ -42,6 +42,118 @@
    "area": "Eastwood",
    "lat": 43.0687,
    "lon": -76.1074
+  },
+  {
+   "name": "Phoebe's",
+   "kind": "drinks",
+   "cuisine": "Cocktails & small plates",
+   "area": "University Hill",
+   "lat": 43.0467,
+   "lon": -76.1376
+  },
+  {
+   "name": "Pastabilities",
+   "kind": "lunch",
+   "cuisine": "Pasta, family friendly",
+   "area": "Armory Square",
+   "lat": 43.0483,
+   "lon": -76.1554
+  },
+  {
+   "name": "Funk 'n Waffles",
+   "kind": "lunch",
+   "cuisine": "Waffles & comfort food",
+   "area": "Downtown",
+   "lat": 43.0484,
+   "lon": -76.1534
+  },
+  {
+   "name": "Dinosaur Bar-B-Que",
+   "kind": "lunch",
+   "cuisine": "BBQ, family friendly",
+   "area": "Downtown",
+   "lat": 43.0526,
+   "lon": -76.1555
+  },
+  {
+   "name": "Museum of Science & Technology (MOST)",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Armory Square",
+   "lat": 43.04708,
+   "lon": -76.15536,
+   "price": "Tickets",
+   "blurb": "Hands-on science museum with a planetarium and IMAX dome"
+  },
+  {
+   "name": "Everson Museum of Art",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 43.04472,
+   "lon": -76.14674,
+   "price": "Tickets",
+   "blurb": "I.M. Pei-designed art museum known for its ceramics"
+  },
+  {
+   "name": "Erie Canal Museum",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 43.05064,
+   "lon": -76.14872,
+   "price": "",
+   "blurb": "Canal history in the last surviving weighlock building"
+  },
+  {
+   "name": "Rosamond Gifford Zoo",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Burnet Park",
+   "lat": 43.0426,
+   "lon": -76.1809,
+   "price": "Tickets",
+   "blurb": "Elephants, Amur tigers and penguins, open year-round"
+  },
+  {
+   "name": "Onondaga Lake Park",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Liverpool",
+   "lat": 43.09975,
+   "lon": -76.2069,
+   "price": "Free",
+   "blurb": "Lakeside trails for walking, biking and skating"
+  },
+  {
+   "name": "Green Lakes State Park",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Fayetteville",
+   "lat": 43.0592,
+   "lon": -75.9711,
+   "price": "Vehicle fee in season",
+   "blurb": "Two blue-green glacial lakes with an easy loop trail"
+  },
+  {
+   "name": "Destiny USA",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Lakefront",
+   "lat": 43.0678,
+   "lon": -76.1708,
+   "price": "Free entry",
+   "blurb": "Huge mall with go-karts, mini golf, an arcade and restaurants"
+  },
+  {
+   "name": "Clinton Square",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 43.0509,
+   "lon": -76.15239,
+   "price": "Free",
+   "blurb": "The heart of downtown; ice skating in winter"
   }
  ]
 }

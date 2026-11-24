@@ -103,3 +103,14 @@ Android web visitors then see a "Get it on Google Play" badge, and people using 
 `spots/<city>.json` holds hand-picked date-night restaurants (`name, kind:"dinner", cuisine, area, lat, lon`).
 Date night plans pair each date-friendly event with the nearest spot within 3 miles (plus 2 alternatives), with a "Book a table" (OpenTable search) and "Directions" link. With no spot nearby, the plan falls back to a Google Maps search near the venue.
 The weekly update checks that every date-night event has at least 2 spots within 2 miles and adds verified, currently open ones when it doesn't.
+
+## v1.11 additions
+- **Bundles by filter:** Date night (dinner → event → nightcap), Kids (event + lunch), Groups (bite → event → drinks). They lead the list when that "Good for" filter is on.
+- **spots/<city>.json kinds:** `dinner` (date night), `lunch` (kid-friendly food), `drinks` (bars for nightcaps and friends' nights), `always` (evergreen picks: `price`, `blurb` extra). The weekly update keeps them stocked.
+- **Coming up:** optional `upcoming` array in events/<city>.json: `{title, date:"YYYY-MM-DD", venue, priceLabel, cat, url}` for notable events after this weekend (next ~6 weeks).
+- **Under $25 filter:** uses optional `priceMin` (number) on an event, else free = 0, else the first $ amount in `priceLabel`.
+- **Getting there:** optional `getThere` string on an event (parking, transit) shown in the event sheet.
+- **Calendar feed:** `<city>/weekend.ics`, built by tools/build_pages.py. Subscribe links: webcal://weekendscout.app/<city>/weekend.ics
+- **SEO pages:** `<city>/free/`, `<city>/date-night/`, `<city>/with-kids/` (built when 3+ events match). Deep links `/?city=x&cat=free` and `&good=date|family`.
+- **Analytics:** set `analytics.cloudflareToken` in config.json (free Cloudflare Web Analytics, no cookies). When switched on, update privacy.html and the Play Console Data safety form (app activity: page views, collected, not shared, not linked to identity).
+- **Social posts:** `node tools/social.js <outDir> [city,...]` makes a 7-slide 1080x1350 carousel + caption.txt per city (not committed).

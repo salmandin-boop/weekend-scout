@@ -1,0 +1,314 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Austin
+X-WR-CALDESC:Hand-checked weekend picks in Austin, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:austin-zilker-tree-lighting-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T231500Z
+DTEND:20261130T011500Z
+SUMMARY:Zilker Holiday Tree Lighting
+LOCATION:Zilker Park\, 2100 Barton Springs Rd\, Austin\, TX 78704
+DESCRIPTION:The 60th lighting of the giant tree made from a moonlight towe
+ r. Music starts at 5:15 p.m. Free. Details: https://weekendscout.app/e/aus
+ tin/zilker-tree-lighting/
+URL:https://weekendscout.app/e/austin/zilker-tree-lighting/
+END:VEVENT
+BEGIN:VEVENT
+UID:austin-luminations-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261127T234500Z
+DTEND:20261128T030000Z
+SUMMARY:Luminations
+LOCATION:Lady Bird Johnson Wildflower Center\, 4801 La Crosse Ave\, Austin
+ \, TX 78739
+DESCRIPTION:Thousands of luminarias and lights along the garden paths. Tim
+ ed entry 5:45–7:45 p.m. $30 adults\, $20 kids. Details: https://weekends
+ cout.app/e/austin/luminations/
+URL:https://weekendscout.app/e/austin/luminations/
+END:VEVENT
+BEGIN:VEVENT
+UID:austin-luminations-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T234500Z
+DTEND:20261129T030000Z
+SUMMARY:Luminations
+LOCATION:Lady Bird Johnson Wildflower Center\, 4801 La Crosse Ave\, Austin
+ \, TX 78739
+DESCRIPTION:Thousands of luminarias and lights along the garden paths. Tim
+ ed entry 5:45–7:45 p.m. $30 adults\, $20 kids. Details: https://weekends
+ cout.app/e/austin/luminations/
+URL:https://weekendscout.app/e/austin/luminations/
+END:VEVENT
+BEGIN:VEVENT
+UID:austin-luminations-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T234500Z
+DTEND:20261130T030000Z
+SUMMARY:Luminations
+LOCATION:Lady Bird Johnson Wildflower Center\, 4801 La Crosse Ave\, Austin
+ \, TX 78739
+DESCRIPTION:Thousands of luminarias and lights along the garden paths. Tim
+ ed entry 5:45–7:45 p.m. $30 adults\, $20 kids. Details: https://weekends
+ cout.app/e/austin/luminations/
+URL:https://weekendscout.app/e/austin/luminations/
+END:VEVENT
+BEGIN:VEVENT
+UID:austin-zach-christmas-carol-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261127T200000Z
+DTEND:20261127T220000Z
+SUMMARY:A Christmas Carol
+LOCATION:ZACH Theatre (Topfer)\, 202 S Lamar Blvd\, Austin\, TX 78704
+DESCRIPTION:ZACH's big-hearted take on the Dickens classic. $28–$183. De
+ tails: https://weekendscout.app/e/austin/zach-christmas-carol/
+URL:https://weekendscout.app/e/austin/zach-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:austin-zach-christmas-carol-fri-1@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T010000Z
+DTEND:20261128T030000Z
+SUMMARY:A Christmas Carol
+LOCATION:ZACH Theatre (Topfer)\, 202 S Lamar Blvd\, Austin\, TX 78704
+DESCRIPTION:ZACH's big-hearted take on the Dickens classic. $28–$183. De
+ tails: https://weekendscout.app/e/austin/zach-christmas-carol/
+URL:https://weekendscout.app/e/austin/zach-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:austin-zach-christmas-carol-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T200000Z
+DTEND:20261128T220000Z
+SUMMARY:A Christmas Carol
+LOCATION:ZACH Theatre (Topfer)\, 202 S Lamar Blvd\, Austin\, TX 78704
+DESCRIPTION:ZACH's big-hearted take on the Dickens classic. $28–$183. De
+ tails: https://weekendscout.app/e/austin/zach-christmas-carol/
+URL:https://weekendscout.app/e/austin/zach-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:austin-zach-christmas-carol-sat-1@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:A Christmas Carol
+LOCATION:ZACH Theatre (Topfer)\, 202 S Lamar Blvd\, Austin\, TX 78704
+DESCRIPTION:ZACH's big-hearted take on the Dickens classic. $28–$183. De
+ tails: https://weekendscout.app/e/austin/zach-christmas-carol/
+URL:https://weekendscout.app/e/austin/zach-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:austin-zach-christmas-carol-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T200000Z
+DTEND:20261129T220000Z
+SUMMARY:A Christmas Carol
+LOCATION:ZACH Theatre (Topfer)\, 202 S Lamar Blvd\, Austin\, TX 78704
+DESCRIPTION:ZACH's big-hearted take on the Dickens classic. $28–$183. De
+ tails: https://weekendscout.app/e/austin/zach-christmas-carol/
+URL:https://weekendscout.app/e/austin/zach-christmas-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:austin-dolly-smoky-mountain-carol-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261127T230000Z
+DTEND:20261128T010000Z
+SUMMARY:Dolly Parton's Smoky Mountain Christmas Carol
+LOCATION:Bass Concert Hall\, 2350 Robert Dedman Dr\, Austin\, TX 78712
+DESCRIPTION:The Christmas Carol story set in the Smoky Mountains\, with Do
+ lly's songs. $35.80–$83.80. Details: https://weekendscout.app/e/austin/d
+ olly-smoky-mountain-carol/
+URL:https://weekendscout.app/e/austin/dolly-smoky-mountain-carol/
+END:VEVENT
+BEGIN:VEVENT
+UID:austin-bob-schneider-moody-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T020000Z
+DTEND:20261129T040000Z
+SUMMARY:Bob Schneider & The Moonlight Orchestra
+LOCATION:ACL Live at The Moody Theater\, 310 W Willie Nelson Blvd\, Austin
+ \, TX 78701
+DESCRIPTION:An Austin favorite with a full orchestra. From $49. Details: h
+ ttps://weekendscout.app/e/austin/bob-schneider-moody/
+URL:https://weekendscout.app/e/austin/bob-schneider-moody/
+END:VEVENT
+BEGIN:VEVENT
+UID:austin-leslie-odom-christmas-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261130T013000Z
+DTEND:20261130T033000Z
+SUMMARY:Leslie Odom Jr.: The Christmas Tour
+LOCATION:The Long Center (Dell Hall)\, 701 W Riverside Dr\, Austin\, TX 78
+ 704
+DESCRIPTION:Holiday standards from the Tony-winning Hamilton star. From $6
+ 7. Details: https://weekendscout.app/e/austin/leslie-odom-christmas/
+URL:https://weekendscout.app/e/austin/leslie-odom-christmas/
+END:VEVENT
+BEGIN:VEVENT
+UID:austin-esthers-follies-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T010000Z
+DTEND:20261128T030000Z
+SUMMARY:Esther's Follies
+LOCATION:Esther's Follies\, 525 E 6th St\, Austin\, TX 78701
+DESCRIPTION:Austin's long-running musical comedy\, magic and political sat
+ ire show. $31–$46. Details: https://weekendscout.app/e/austin/esthers-fo
+ llies/
+URL:https://weekendscout.app/e/austin/esthers-follies/
+END:VEVENT
+BEGIN:VEVENT
+UID:austin-esthers-follies-fri-1@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T030000Z
+DTEND:20261128T050000Z
+SUMMARY:Esther's Follies
+LOCATION:Esther's Follies\, 525 E 6th St\, Austin\, TX 78701
+DESCRIPTION:Austin's long-running musical comedy\, magic and political sat
+ ire show. $31–$46. Details: https://weekendscout.app/e/austin/esthers-fo
+ llies/
+URL:https://weekendscout.app/e/austin/esthers-follies/
+END:VEVENT
+BEGIN:VEVENT
+UID:austin-esthers-follies-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:Esther's Follies
+LOCATION:Esther's Follies\, 525 E 6th St\, Austin\, TX 78701
+DESCRIPTION:Austin's long-running musical comedy\, magic and political sat
+ ire show. $31–$46. Details: https://weekendscout.app/e/austin/esthers-fo
+ llies/
+URL:https://weekendscout.app/e/austin/esthers-follies/
+END:VEVENT
+BEGIN:VEVENT
+UID:austin-esthers-follies-sat-1@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T030000Z
+DTEND:20261129T050000Z
+SUMMARY:Esther's Follies
+LOCATION:Esther's Follies\, 525 E 6th St\, Austin\, TX 78701
+DESCRIPTION:Austin's long-running musical comedy\, magic and political sat
+ ire show. $31–$46. Details: https://weekendscout.app/e/austin/esthers-fo
+ llies/
+URL:https://weekendscout.app/e/austin/esthers-follies/
+END:VEVENT
+BEGIN:VEVENT
+UID:austin-cotaland-peppermint-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261127T220000Z
+DTEND:20261128T040000Z
+SUMMARY:Peppermint in the Park
+LOCATION:COTALAND at Circuit of The Americas\, 9201 Circuit of the America
+ s Blvd\, Austin\, TX 78617
+DESCRIPTION:Holiday rides\, lights and treats at the racetrack's family pa
+ rk. Tickets. Details: https://weekendscout.app/e/austin/cotaland-peppermin
+ t/
+URL:https://weekendscout.app/e/austin/cotaland-peppermint/
+END:VEVENT
+BEGIN:VEVENT
+UID:austin-cotaland-peppermint-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T180000Z
+DTEND:20261129T040000Z
+SUMMARY:Peppermint in the Park
+LOCATION:COTALAND at Circuit of The Americas\, 9201 Circuit of the America
+ s Blvd\, Austin\, TX 78617
+DESCRIPTION:Holiday rides\, lights and treats at the racetrack's family pa
+ rk. Tickets. Details: https://weekendscout.app/e/austin/cotaland-peppermin
+ t/
+URL:https://weekendscout.app/e/austin/cotaland-peppermint/
+END:VEVENT
+BEGIN:VEVENT
+UID:austin-cotaland-peppermint-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T180000Z
+DTEND:20261130T040000Z
+SUMMARY:Peppermint in the Park
+LOCATION:COTALAND at Circuit of The Americas\, 9201 Circuit of the America
+ s Blvd\, Austin\, TX 78617
+DESCRIPTION:Holiday rides\, lights and treats at the racetrack's family pa
+ rk. Tickets. Details: https://weekendscout.app/e/austin/cotaland-peppermin
+ t/
+URL:https://weekendscout.app/e/austin/cotaland-peppermint/
+END:VEVENT
+BEGIN:VEVENT
+UID:austin-blue-genie-art-bazaar-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261127T160000Z
+DTEND:20261128T040000Z
+SUMMARY:Blue Genie Art Bazaar
+LOCATION:Blue Genie Art Bazaar\, 6100 Airport Blvd\, Austin\, TX 78752
+DESCRIPTION:A huge holiday market of work by local artists\, open daily th
+ rough Dec 24. Free entry. Details: https://weekendscout.app/e/austin/blue-
+ genie-art-bazaar/
+URL:https://weekendscout.app/e/austin/blue-genie-art-bazaar/
+END:VEVENT
+BEGIN:VEVENT
+UID:austin-blue-genie-art-bazaar-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T160000Z
+DTEND:20261129T040000Z
+SUMMARY:Blue Genie Art Bazaar
+LOCATION:Blue Genie Art Bazaar\, 6100 Airport Blvd\, Austin\, TX 78752
+DESCRIPTION:A huge holiday market of work by local artists\, open daily th
+ rough Dec 24. Free entry. Details: https://weekendscout.app/e/austin/blue-
+ genie-art-bazaar/
+URL:https://weekendscout.app/e/austin/blue-genie-art-bazaar/
+END:VEVENT
+BEGIN:VEVENT
+UID:austin-blue-genie-art-bazaar-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T160000Z
+DTEND:20261130T040000Z
+SUMMARY:Blue Genie Art Bazaar
+LOCATION:Blue Genie Art Bazaar\, 6100 Airport Blvd\, Austin\, TX 78752
+DESCRIPTION:A huge holiday market of work by local artists\, open daily th
+ rough Dec 24. Free entry. Details: https://weekendscout.app/e/austin/blue-
+ genie-art-bazaar/
+URL:https://weekendscout.app/e/austin/blue-genie-art-bazaar/
+END:VEVENT
+BEGIN:VEVENT
+UID:austin-mozarts-festival-of-lights-fri-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261128T000000Z
+DTEND:20261128T030000Z
+SUMMARY:Mozart's Festival of Lights
+LOCATION:Mozart's Coffee Roasters\, 3825 Lake Austin Blvd\, Austin\, TX 78
+ 703
+DESCRIPTION:A light-and-music show on Lake Austin\, best with a hot drink 
+ from the café. $7. Details: https://weekendscout.app/e/austin/mozarts-fes
+ tival-of-lights/
+URL:https://weekendscout.app/e/austin/mozarts-festival-of-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:austin-mozarts-festival-of-lights-sat-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261129T000000Z
+DTEND:20261129T030000Z
+SUMMARY:Mozart's Festival of Lights
+LOCATION:Mozart's Coffee Roasters\, 3825 Lake Austin Blvd\, Austin\, TX 78
+ 703
+DESCRIPTION:A light-and-music show on Lake Austin\, best with a hot drink 
+ from the café. $7. Details: https://weekendscout.app/e/austin/mozarts-fes
+ tival-of-lights/
+URL:https://weekendscout.app/e/austin/mozarts-festival-of-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:austin-mozarts-festival-of-lights-sun-0@weekendscout.app
+DTSTAMP:20261124T000227Z
+DTSTART:20261130T000000Z
+DTEND:20261130T030000Z
+SUMMARY:Mozart's Festival of Lights
+LOCATION:Mozart's Coffee Roasters\, 3825 Lake Austin Blvd\, Austin\, TX 78
+ 703
+DESCRIPTION:A light-and-music show on Lake Austin\, best with a hot drink 
+ from the café. $7. Details: https://weekendscout.app/e/austin/mozarts-fes
+ tival-of-lights/
+URL:https://weekendscout.app/e/austin/mozarts-festival-of-lights/
+END:VEVENT
+END:VCALENDAR

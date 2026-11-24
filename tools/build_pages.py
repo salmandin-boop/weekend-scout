@@ -7,11 +7,14 @@ Run from the repo root after every change to events/*.json:
 
 Outputs:
   <city>/index.html          a Google-friendly page per city ("Things to do in Austin this weekend")
+  <city>/free/, /date-night/, /with-kids/   the same page filtered (built when 3+ events match)
+  <city>/weekend.ics         calendar feed of this weekend's picks (subscribe once, refreshes weekly)
   e/<city>/<event>/index.html  a share page per event, so shared links preview with the event's name and day
   sitemap.xml
 """
 import json, os, re, shutil, html
-from datetime import date
+from datetime import date, datetime, timedelta
+from zoneinfo import ZoneInfo
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = 'https://weekendscout.app'
@@ -75,6 +78,49 @@ def head(title, desc, url, img, extra=''):
 def iso_start(day, s):
     return f'{day}T{s}:00' if s else day
 
+VARIANTS = [
+    ('', None, 'Things to do in {city} this weekend', '{n} hand-checked things to do in {cname} this weekend, {label}: concerts, games, markets, museums and family events. {free} are free.'),
+    ('free', lambda e: e['price'] == 'free', 'Free things to do in {city} this weekend', '{n} free things to do in {cname} this weekend, {label}: free concerts, markets, museums, lights and outdoor events, hand-checked.'),
+    ('date-night', lambda e: 'date' in (e.get('good') or []), 'Date night ideas in {city} this weekend', '{n} date night ideas in {cname} this weekend, {label}: shows, concerts, lights and food events, with ready-made dinner plans.'),
+    ('with-kids', lambda e: 'family' in (e.get('good') or []) and not e.get('ages'), 'Things to do with kids in {city} this weekend', '{n} kid-friendly things to do in {cname} this weekend, {label}: family shows, lights, museums and outdoor fun.'),
+]
+VLABEL = {'': 'Everything', 'free': 'Free', 'date-night': 'Date night', 'with-kids': 'With kids'}
+
+def ics_text(s):
+    return str(s or '').replace('\\', '\\\\').replace(';', '\\;').replace(',', '\\,').replace('\n', '\\n')
+
+def ics_fold(line):
+    out, b = [], line.encode('utf-8')
+    while len(b) > 74:
+        cut = 74
+        while (b[cut] & 0xC0) == 0x80: cut -= 1
+        out.append(b[:cut].decode('utf-8')); b = b[cut:]
+    out.append(b.decode('utf-8'))
+    return '\r\n '.join(out)
+
+def build_ics(c, d):
+    tz = ZoneInfo(c.get('tz') or 'America/New_York'); w = d['weekend']; stamp = datetime.now(ZoneInfo('UTC')).strftime('%Y%m%dT%H%M%SZ')
+    L = ['BEGIN:VCALENDAR', 'VERSION:2.0', 'PRODID:-//Weekend Scout//weekendscout.app//EN', 'CALSCALE:GREGORIAN', 'METHOD:PUBLISH',
+         f"X-WR-CALNAME:Weekend Scout · {c['name']}", f"X-WR-CALDESC:Hand-checked weekend picks in {c['name']}, updated every Wednesday", 'REFRESH-INTERVAL;VALUE=DURATION:P1D', 'X-PUBLISHED-TTL:P1D']
+    for e in d['events']:
+        for day in DAYS:
+            for i, ss in enumerate(e['times'].get(day) or []):
+                iso = w['days'][day]; uid = f"{c['id']}-{e['id']}-{day}-{i}@weekendscout.app"
+                L += ['BEGIN:VEVENT', f'UID:{uid}', f'DTSTAMP:{stamp}']
+                if ss.get('s'):
+                    st = datetime.fromisoformat(f"{iso}T{ss['s']}").replace(tzinfo=tz)
+                    en = datetime.fromisoformat(f"{iso}T{ss['e']}").replace(tzinfo=tz) if ss.get('e') else st + timedelta(hours=2)
+                    if en <= st: en += timedelta(days=1)
+                    L += [f"DTSTART:{st.astimezone(ZoneInfo('UTC')).strftime('%Y%m%dT%H%M%SZ')}", f"DTEND:{en.astimezone(ZoneInfo('UTC')).strftime('%Y%m%dT%H%M%SZ')}"]
+                else:
+                    nd = (date.fromisoformat(iso) + timedelta(days=1)).strftime('%Y%m%d')
+                    L += [f"DTSTART;VALUE=DATE:{iso.replace('-', '')}", f'DTEND;VALUE=DATE:{nd}', 'TRANSP:TRANSPARENT']
+                desc = f"{e.get('blurb', '')} {e.get('priceLabel', '')}. Details: {SITE}/e/{c['id']}/{e['id']}/"
+                L += [ics_fold('SUMMARY:' + ics_text(e['title'])), ics_fold('LOCATION:' + ics_text(f"{e['venue']}, {e['addr']}")),
+                      ics_fold('DESCRIPTION:' + ics_text(desc.strip())), f"URL:{SITE}/e/{c['id']}/{e['id']}/", 'END:VEVENT']
+    L.append('END:VCALENDAR')
+    return '\r\n'.join(L) + '\r\n'
+
 def main():
     cities = json.load(open(os.path.join(ROOT, 'cities.json')))['cities']
     datas = {c['id']: json.load(open(os.path.join(ROOT, c['file']))) for c in cities}
@@ -83,48 +129,62 @@ def main():
     urls = [f'{SITE}/']
     for c in cities:
         d = datas[c['id']]; w = d['weekend']; cname = f"{c['name']}, {c['state']}"
-        url = f"{SITE}/{c['id']}/"; img = f"{SITE}/og/{c['id']}.jpg"
-        title = f"Things to do in {c['name']} this weekend ({w['label']}) · Weekend Scout"
-        free = sum(1 for e in d['events'] if e['price'] == 'free')
-        desc = f"{len(d['events'])} hand-checked things to do in {cname} this weekend, {w['label']}: concerts, games, markets, museums and family events. {free} are free."
-        items = []
-        body_days = []
+        img = f"{SITE}/og/{c['id']}.jpg"
         feat = set([e['id'] for e in d['events'] if e.get('featured')][:3])  # max 3 Featured spots per city per weekend
-        for day in DAYS:
-            evs = [e for e in d['events'] if e['times'].get(day)]
-            if not evs: continue
-            evs.sort(key=lambda e: (0 if e['id'] in feat else 1, (e['times'][day][0].get('s') or '99:99')))
-            cards = []
-            for e in evs:
-                share = f"/e/{c['id']}/{e['id']}/"
-                pills = (f'<span class="pill free">{esc(e["priceLabel"])}</span>' if e['price'] == 'free' else f'<span class="pill">{esc(e["priceLabel"])}</span>') + f'<span class="pill">{esc(CAT.get(e["cat"], e["cat"]))}</span>' + (f'<span class="pill">Sponsored</span>' if e['id'] in feat else '')
-                cards.append(f'<a class="ev" href="{share}"><span class="t">{esc(DAYNAME[day][:3])} · {esc(when(e, day))}</span><span><h3>{esc(e["title"])}</h3><p>{esc(e["venue"])}</p>{pills}</span></a>')
-            body_days.append(f'<h2>{DAYNAME[day]}, {pretty(w["days"][day], True)}</h2>' + ''.join(cards))
-        for i, e in enumerate(d['events']):
-            day = next((k for k in DAYS if e['times'].get(k)), None)
-            if not day: continue
-            s = e['times'][day][0].get('s', '')
-            it = {'@type': 'Event', 'name': e['title'], 'startDate': iso_start(w['days'][day], s), 'eventStatus': 'https://schema.org/EventScheduled',
-                  'eventAttendanceMode': 'https://schema.org/OfflineEventAttendanceMode', 'location': {'@type': 'Place', 'name': e['venue'], 'address': e['addr']},
-                  'description': e.get('blurb', ''), 'url': f"{SITE}/e/{c['id']}/{e['id']}/"}
-            if e.get('link'): it['offers'] = {'@type': 'Offer', 'url': e['link']['url'], 'availability': 'https://schema.org/InStock', **({'price': 0, 'priceCurrency': 'USD'} if e['price'] == 'free' else {})}
-            items.append({'@type': 'ListItem', 'position': i + 1, 'item': it})
-        ld = json.dumps({'@context': 'https://schema.org', '@type': 'ItemList', 'name': f'Things to do in {cname} this weekend', 'itemListElement': items}, ensure_ascii=False).replace('</', '<\\/')
-        others = ''.join(f'<a href="/{o["id"]}/">{esc(o["name"])}</a>' for o in cities if o['id'] != c['id'])
-        page = head(title, desc, url, img, f'<script type="application/ld+json">{ld}</script>') + f"""
+        made = [v for v in VARIANTS if v[1] is None or sum(1 for e in d['events'] if v[1](e)) >= 3]
+        for slug, test, h1t, desct in made:
+            evs_all = [e for e in d['events'] if test is None or test(e)]
+            url = f"{SITE}/{c['id']}/" + (f"{slug}/" if slug else '')
+            free = sum(1 for e in evs_all if e['price'] == 'free')
+            h1 = h1t.format(city=c['name'])
+            title = f"{h1} ({w['label']}) · Weekend Scout"
+            desc = desct.format(n=len(evs_all), cname=cname, label=w['label'], free=free)
+            items = []
+            body_days = []
+            for day in DAYS:
+                evs = [e for e in evs_all if e['times'].get(day)]
+                if not evs: continue
+                evs.sort(key=lambda e: (0 if e['id'] in feat else 1, (e['times'][day][0].get('s') or '99:99')))
+                cards = []
+                for e in evs:
+                    share = f"/e/{c['id']}/{e['id']}/"
+                    pills = (f'<span class="pill free">{esc(e["priceLabel"])}</span>' if e['price'] == 'free' else f'<span class="pill">{esc(e["priceLabel"])}</span>') + f'<span class="pill">{esc(CAT.get(e["cat"], e["cat"]))}</span>' + (f'<span class="pill">Sponsored</span>' if e['id'] in feat else '')
+                    cards.append(f'<a class="ev" href="{share}"><span class="t">{esc(DAYNAME[day][:3])} · {esc(when(e, day))}</span><span><h3>{esc(e["title"])}</h3><p>{esc(e["venue"])}</p>{pills}</span></a>')
+                body_days.append(f'<h2>{DAYNAME[day]}, {pretty(w["days"][day], True)}</h2>' + ''.join(cards))
+            for i, e in enumerate(evs_all):
+                day = next((k for k in DAYS if e['times'].get(k)), None)
+                if not day: continue
+                s0 = e['times'][day][0].get('s', '')
+                it = {'@type': 'Event', 'name': e['title'], 'startDate': iso_start(w['days'][day], s0), 'eventStatus': 'https://schema.org/EventScheduled',
+                      'eventAttendanceMode': 'https://schema.org/OfflineEventAttendanceMode', 'location': {'@type': 'Place', 'name': e['venue'], 'address': e['addr']},
+                      'description': e.get('blurb', ''), 'url': f"{SITE}/e/{c['id']}/{e['id']}/"}
+                if e.get('link'): it['offers'] = {'@type': 'Offer', 'url': e['link']['url'], 'availability': 'https://schema.org/InStock', **({'price': 0, 'priceCurrency': 'USD'} if e['price'] == 'free' else {})}
+                items.append({'@type': 'ListItem', 'position': i + 1, 'item': it})
+            ld = json.dumps({'@context': 'https://schema.org', '@type': 'ItemList', 'name': f"{h1}", 'itemListElement': items}, ensure_ascii=False).replace('</', '<\\/')
+            others = ''.join(f'<a href="/{o["id"]}/{slug + "/" if slug else ""}">{esc(o["name"])}</a>' for o in cities if o['id'] != c['id'])
+            tabs = ''.join(f'<a href="/{c["id"]}/{v[0] + "/" if v[0] else ""}"{" aria-current=\"page\"" if v[0] == slug else ""}>{esc(VLABEL[v[0]])}</a>' for v in made)
+            app = f"/?city={c['id']}" + {'free': '&cat=free', 'date-night': '&good=date', 'with-kids': '&good=family'}.get(slug, '')
+            page = head(title, desc, url, img, f'<script type="application/ld+json">{ld}</script>') + f"""
 <body><div class="wrap">
 <a class="k" href="/">Weekend Scout</a>
-<h1 style="margin-top:6px">Things to do in {esc(c['name'])} this weekend</h1>
-<p class="sub">{esc(w['label'])} · {len(d['events'])} hand-checked picks, {free} free · Updated {pretty(d['updated'])}</p>
-<a class="cta" href="/?city={c['id']}">Open in the Weekend Scout app</a>
+<h1 style="margin-top:6px">{esc(h1)}</h1>
+<p class="sub">{esc(w['label'])} · {len(evs_all)} hand-checked picks, {free} free · Updated {pretty(d['updated'])}</p>
+<div class="cities">{tabs}</div>
+<a class="cta" href="{app}">Open in the Weekend Scout app</a>
 {''.join(body_days)}
+<h2>Get these in your calendar</h2><p class="sub">Subscribe once and every weekend's picks for {esc(c['name'])} show up automatically: <a href="webcal://weekendscout.app/{c['id']}/weekend.ics">Apple / Outlook</a> · <a href="https://calendar.google.com/calendar/r?cid={esc('webcal://weekendscout.app/' + c['id'] + '/weekend.ics')}">Google Calendar</a></p>
 <h2>Other cities</h2><div class="cities">{others}</div>
 <footer>Times and prices can change, so check with the venue before you go. Some ticket links may earn us a small commission. · <a href="/privacy.html">Privacy</a> · <a href="/terms.html">Terms</a> · © ENDins LLC</footer>
 </div></body></html>
 """
-        os.makedirs(os.path.join(ROOT, c['id']), exist_ok=True)
-        open(os.path.join(ROOT, c['id'], 'index.html'), 'w').write(page)
-        urls.append(url)
+            dirp = os.path.join(ROOT, c['id'], slug) if slug else os.path.join(ROOT, c['id'])
+            os.makedirs(dirp, exist_ok=True)
+            open(os.path.join(dirp, 'index.html'), 'w').write(page)
+            urls.append(url)
+        # stale variant folders (fewer than 3 matches this week) are removed
+        for v in VARIANTS:
+            if v[0] and v not in made: shutil.rmtree(os.path.join(ROOT, c['id'], v[0]), ignore_errors=True)
+        open(os.path.join(ROOT, c['id'], 'weekend.ics'), 'w', newline='').write(build_ics(c, d))
         # one share page per event
         for e in d['events']:
             day = next((k for k in DAYS if e['times'].get(k)), None)
