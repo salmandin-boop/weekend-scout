@@ -71,7 +71,7 @@ header.top{padding-top:calc(var(--sat) + 20px);padding-bottom:4px}
 .toprow .kicker{min-width:0;overflow:hidden;text-overflow:ellipsis}
 .skip{position:absolute;left:12px;top:-60px;z-index:30;background:var(--ink);color:var(--bg);padding:10px 14px;border-radius:10px;font-weight:700;text-decoration:none}
 .skip:focus{top:calc(var(--sat) + 8px)}
-.top h1{font-size:clamp(2rem,9vw,2.6rem);font-weight:800;margin-top:2px}
+.top h1{font-size:clamp(1.85rem,8vw,2.4rem);font-weight:800;margin-top:2px}
 .dates{color:var(--muted);font-size:.92rem;margin-top:4px}
 .banner{margin-top:12px;background:var(--accent-soft);border-radius:12px;padding:10px 12px;font-size:.9rem}
 
@@ -288,6 +288,24 @@ dialog.sheet[open]{animation:sheetUp .22s cubic-bezier(.2,.8,.2,1)}
 .cal-btns{display:flex;flex-wrap:wrap;gap:8px}
 .getthere{margin:10px 0 0;font-size:.9rem;color:var(--ink)}
 .getthere b{font-weight:650}
+/* compact filter bar */
+.ctrlrow{display:flex;gap:8px;align-items:stretch;margin-top:8px}
+.ctrlrow .days{flex:1;margin-top:0;min-width:0}
+.filt-btn{flex:none;display:inline-flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;min-width:68px;border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:12px;font:700 .78rem var(--body);cursor:pointer;position:relative;padding:4px 8px}
+.filt-btn svg{width:20px;height:20px;stroke:currentColor;fill:none;stroke-width:2;stroke-linecap:round}
+.filt-btn.on{border-color:var(--accent);color:var(--accent)}
+.filt-btn .fb{position:absolute;top:-6px;right:-6px;min-width:20px;height:20px;border-radius:10px;background:var(--accent);color:var(--accent-ink);font-size:.72rem;display:grid;place-items:center;padding:0 5px}
+.active-f{display:flex;gap:6px;overflow-x:auto;margin-top:8px;scrollbar-width:none}
+.active-f::-webkit-scrollbar{display:none}
+.active-f .chip{padding:4px 12px;font-size:.84rem}
+.chip.on{background:var(--navy);border-color:var(--navy);color:var(--bg)}
+.chip.on span{opacity:.8;margin-left:4px}
+.fs-h{font-size:.78rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:18px 0 8px;font-family:var(--body)}
+.fs-chips{display:flex;flex-wrap:wrap;gap:8px}
+.fs-actions{margin-top:22px}
+.holiday{background:none;padding:0;margin:4px 0 0;font-size:.85rem;color:var(--muted);display:flex;gap:8px;align-items:center}
+.holiday .hol-t{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.holiday .btn{flex:none;min-height:34px;padding:4px 10px;font-size:.8rem}
 </style>
 </head>
 <body>
@@ -334,12 +352,12 @@ dialog.sheet[open]{animation:sheetUp .22s cubic-bezier(.2,.8,.2,1)}
         <svg viewBox="0 0 24 24" fill="none" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
         <input id="q" type="search" placeholder="Search events, venues…" autocomplete="off" enterkeyhint="search" aria-label="Search events and venues">
       </label>
-      <div class="days" role="group" aria-label="Day" id="days"></div>
-      <div class="chips" role="group" aria-label="Category" id="chips"></div>
-      <div class="chips good" role="group" aria-label="Good for" id="good"></div>
+      <div class="ctrlrow"><div class="days" role="group" aria-label="Day" id="days"></div>
+        <button class="filt-btn" id="filt-btn" type="button" data-filters aria-haspopup="dialog"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h10M18 6h2M4 12h4M12 12h8M4 18h12M20 18h0"/><circle cx="16" cy="6" r="2"/><circle cx="10" cy="12" r="2"/><circle cx="18" cy="18" r="2"/></svg><span>Filters</span><b class="fb" id="filt-n" hidden></b></button></div>
+      <div class="active-f" id="active-f" hidden></div>
     </div>
     <div id="map" hidden></div>
-    <div class="countrow"><p class="count" id="count" aria-live="polite"></p><div class="viewtog"><button class="chip near" id="map-btn" type="button" data-map aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 4 3 6v14l6-2 6 2 6-2V4l-6 2-6-2ZM9 4v14M15 6v14"/></svg>Map</button><button class="chip near" id="near-btn" type="button" data-near aria-pressed="false" hidden><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7-6.2-7-11.5A7 7 0 0 1 19 9.5C19 14.8 12 21 12 21Z"/><circle cx="12" cy="9.5" r="2.5"/></svg>Nearest first</button></div></div>
+    <div class="countrow"><p class="count" id="count" aria-live="polite"></p><div class="viewtog"><button class="chip near" id="map-btn" type="button" data-map aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 4 3 6v14l6-2 6 2 6-2V4l-6 2-6-2ZM9 4v14M15 6v14"/></svg>Map</button><button class="chip near" id="near-btn" type="button" data-near aria-pressed="false" hidden data-keep-hidden><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7-6.2-7-11.5A7 7 0 0 1 19 9.5C19 14.8 12 21 12 21Z"/><circle cx="12" cy="9.5" r="2.5"/></svg>Nearest first</button></div></div>
     <div id="news-home"></div>
     <div class="list" id="list" tabindex="-1"><div class="skel"></div><div class="skel"></div><div class="skel"></div><div class="skel"></div></div>
     <div class="surprise"><button class="btn" type="button" data-surprise>🎲 Can't decide? Pick one for me</button></div>
@@ -432,7 +450,7 @@ dialog.sheet[open]{animation:sheetUp .22s cubic-bezier(.2,.8,.2,1)}
 
 <script>
 (() => {
-const APP_VERSION = '1.11.2';
+const APP_VERSION = '1.12.0';
 const SITE_URL = 'https://weekendscout.app/'; // the live address, so shared links point there
 const TZ0 = 'America/New_York';
 let TZ = TZ0; // switches to the chosen city's time zone
@@ -656,17 +674,39 @@ function renderControls(){
   loadWeather();
   $('days').innerHTML = [['all','All','weekend'], ...DAYS.map(d => [d, DAYABBR[d], w[d] === today ? 'Today' : prettyDate(w[d], { month:'short', day:'numeric' })])]
     .map(([k,a,b]) => { const x = k !== 'all' && wxFor(w[k]); return `<button type="button" data-day="${k}" aria-pressed="${S.day === k}"${x ? ` aria-label="${a} ${esc(b)}, ${x.hi} degrees, ${x.rain}% chance of rain"` : ''}>${a}<small>${esc(b)}</small>${x ? `<span class="wx" aria-hidden="true">${wxIcon(x.code)} ${x.hi}°</span>` : ''}</button>`; }).join('');
-  $('chips').innerHTML = CATS
-    .filter(([k]) => k === 'all' || DATA.events.some(e => k === 'free' ? e.price === 'free' : k === 'cheap' ? (priceVal(e) !== null && priceVal(e) <= 25) : e.cat === k))
-    .map(([k,l]) => `<button type="button" class="chip" data-cat="${k}" aria-pressed="${S.cat === k}">${esc(l)}</button>`).join('');
-  const goods = GOOD.filter(([k]) => DATA.events.some(e => goodFor(e).includes(k)));
-  $('good').hidden = !goods.length;
-  $('good').innerHTML = '<span class="good-label">Good for</span>' + goods
-    .map(([k,l]) => `<button type="button" class="chip" data-good="${k}" aria-pressed="${S.good === k}">${esc(l)}</button>`).join('');
+  // Active filters show as removable chips under the day row; everything else lives in the Filters sheet
+  const act = [];
+  if (S.cat !== 'all') act.push(`<button type="button" class="chip on" data-cat="all" aria-label="Remove filter ${esc(CATLABEL2(S.cat))}">${esc(CATLABEL2(S.cat))} <span aria-hidden="true">✕</span></button>`);
+  if (S.good !== 'any') act.push(`<button type="button" class="chip on" data-good="${S.good}" aria-label="Remove filter ${esc(GOODLABEL[S.good])}">${esc(GOODLABEL[S.good])} <span aria-hidden="true">✕</span></button>`);
+  if (S.near && POS) act.push(`<button type="button" class="chip on" data-near aria-label="Stop sorting by distance">Nearest first <span aria-hidden="true">✕</span></button>`);
+  $('active-f').innerHTML = act.join(''); $('active-f').hidden = !act.length;
+  const n = (S.cat !== 'all') + (S.good !== 'any') + (!!(S.near && POS));
+  $('filt-n').textContent = n; $('filt-n').hidden = !n; $('filt-btn').classList.toggle('on', !!n);
+  $('filt-btn').setAttribute('aria-label', n ? `Filters, ${n} on` : 'Filters');
+  if (FILT_OPEN) renderFilterSheet();
 }
 
+const CATLABEL2 = k => (CATS.find(([x]) => x === k) || [k, k])[1];
+let FILT_OPEN = false;
+function renderFilterSheet(){
+  const cats = CATS.filter(([k]) => k === 'all' || DATA.events.some(e => k === 'free' ? e.price === 'free' : k === 'cheap' ? (priceVal(e) !== null && priceVal(e) <= 25) : e.cat === k));
+  const goods = GOOD.filter(([k]) => DATA.events.some(e => goodFor(e).includes(k)));
+  const n = DATA.events.filter(e => matches(e, S.day, S.cat, S.q)).length;
+  const canNear = 'geolocation' in navigator && DATA.events.some(e => typeof e.lat === 'number');
+  $('sheet-in').innerHTML = `<div class="grab" aria-hidden="true"></div>
+    <div class="sheet-head"><h2 id="s-title">Filters</h2><button class="x-btn" type="button" data-close aria-label="Close">${ICON.x}</button></div>
+    <h3 class="fs-h">Type</h3><div class="fs-chips" role="group" aria-label="Type">${cats.map(([k,l]) => `<button type="button" class="chip" data-cat="${k}" aria-pressed="${S.cat === k}">${esc(l)}</button>`).join('')}</div>
+    ${goods.length ? `<h3 class="fs-h">Good for</h3><div class="fs-chips" role="group" aria-label="Good for"><button type="button" class="chip" data-good="any" aria-pressed="${S.good === 'any'}">Anything</button>${goods.map(([k,l]) => `<button type="button" class="chip" data-good="${k}" aria-pressed="${S.good === k}">${esc(l)}</button>`).join('')}</div>` : ''}
+    ${canNear ? `<h3 class="fs-h">Sort</h3><div class="fs-chips" role="group" aria-label="Sort"><button type="button" class="chip" data-sort="time" aria-pressed="${!(S.near && POS)}">Soonest first</button><button type="button" class="chip" data-sort="near" aria-pressed="${!!(S.near && POS)}">Nearest first</button></div>` : ''}
+    <div class="actions fs-actions"><button class="btn" type="button" data-fclear>Clear all</button><button class="btn primary" type="button" data-close>Show ${n} ${n === 1 ? 'event' : 'events'}</button></div>`;
+}
+function openFilters(){
+  FILT_OPEN = true; openId = null; planOpen = -1;
+  renderFilterSheet();
+  if (!sheet.open){ try { sheet.showModal(); } catch { sheet.setAttribute('open',''); } }
+}
 function renderHome(){
-  const nb = $('near-btn'); nb.hidden = !('geolocation' in navigator) || !DATA.events.some(e => typeof e.lat === 'number'); nb.setAttribute('aria-pressed', String(S.near && !!POS));
+  const nb = $('near-btn'); nb.hidden = true; nb.setAttribute('aria-pressed', String(S.near && !!POS));
   const evs = sorted(DATA.events.filter(e => matches(e, S.day, S.cat, S.q)), S.day);
   const dayTxt = S.day === 'all' ? 'this weekend' : 'on ' + DAYNAME[S.day];
   $('count').textContent = !evs.length ? '' : S.good !== 'any'
@@ -1028,12 +1068,17 @@ function clearEvHash(){
   const h = S.view === 'home' ? '' : '#' + S.view;
   if (location.hash.startsWith('#ev-')) history.replaceState(null, '', h || location.pathname + location.search);
 }
+// Bring the top of the results (plans first when a "Good for" filter is on) into view under the sticky bar
+function scrollToResults(){
+  const first = $('list').firstElementChild, bar = document.querySelector('.controls');
+  if (first && bar) { const y = first.getBoundingClientRect().top - bar.getBoundingClientRect().bottom - 8; if (y < 0 || y > innerHeight * 0.6) scrollBy({ top:y, behavior:matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' }); }
+}
 function closeSheet(){
   openId = null; planOpen = -1;
   if (sheet.open) sheet.close();
   clearEvHash();
 }
-sheet.addEventListener('close', () => { openId = null; planOpen = -1; clearEvHash(); });
+sheet.addEventListener('close', () => { openId = null; planOpen = -1; clearEvHash(); if (FILT_OPEN){ FILT_OPEN = false; scrollToResults(); } });
 sheet.addEventListener('click', e => { if (e.target === sheet) closeSheet(); });
 
 /* ---------- actions ---------- */
@@ -1073,12 +1118,11 @@ document.addEventListener('click', e => {
   if (t.dataset.save) return toggleSave(t.dataset.save);
   if (t.dataset.go) { closeSheet(); return show(t.dataset.go); }
   if (t.dataset.day) { S.day = t.dataset.day; renderControls(); renderHome(); return; }
-  if (t.dataset.cat) { S.cat = t.dataset.cat; renderControls(); renderHome(); return; }
-  if (t.dataset.good) { S.good = S.good === t.dataset.good ? 'any' : t.dataset.good; renderControls(); renderHome();
-    // Bring the top of the results (date bundles first, when Date night is on) into view under the sticky filters
-    const first = $('list').firstElementChild, bar = document.querySelector('.controls');
-    if (first && bar) { const y = first.getBoundingClientRect().top - bar.getBoundingClientRect().bottom - 8; if (y < 0 || y > innerHeight * 0.6) scrollBy({ top:y, behavior:matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' }); }
-    return; }
+  if ('filters' in t.dataset) return openFilters();
+  if ('fclear' in t.dataset) { S.cat = 'all'; S.good = 'any'; S.near = false; renderControls(); renderHome(); return; }
+  if (t.dataset.sort) { if ((t.dataset.sort === 'near') !== !!(S.near && POS)) toggleNear($('near-btn')); setTimeout(() => renderControls(), 0); return; }
+  if (t.dataset.cat) { S.cat = (FILT_OPEN || t.dataset.cat !== S.cat) ? t.dataset.cat : 'all'; renderControls(); renderHome(); if (!FILT_OPEN) scrollToResults(); return; }
+  if (t.dataset.good) { S.good = t.dataset.good === 'any' ? 'any' : (S.good === t.dataset.good && !FILT_OPEN ? 'any' : t.dataset.good); renderControls(); renderHome(); if (!FILT_OPEN) scrollToResults(); return; }
   if ('reset' in t.dataset) { S.day = 'all'; S.cat = 'all'; S.good = 'any'; S.q = ''; $('q').value = ''; renderControls(); renderHome(); return; }
   if ('close' in t.dataset) return closeSheet();
   if (t.id === 'city-btn') return openCityPicker();
@@ -1135,7 +1179,7 @@ function renderHoliday(){
   const dn = d => new Date(d + 'T12:00:00').toLocaleDateString('en-US', { weekday:'short' });
   const date = hits.some(x => /Valentine/.test(x.name)) && DATA.events.some(e => goodFor(e).includes('date'));
 
-  h.innerHTML = `<span>🎉 <strong>Holiday weekend</strong> · ${hits.map(x => `${esc(x.name)} (${dn(x.d)})`).join(' · ')}. Some hours change.</span>` +
+  h.innerHTML = `<span class="hol-t">🎉 ${hits.map(x => `${esc(x.name)} ${dn(x.d)}`).join(' · ')}. Some hours change.</span>` +
     (date ? '<button class="btn" type="button" data-good="date">Date night picks</button>' : '');
   h.hidden = false;
 }
@@ -1228,11 +1272,11 @@ function milesBetween(a, b, c, d){
   return 2 * R * Math.asin(Math.sqrt(h));
 }
 function toggleNear(btn){
-  if (S.near){ S.near = false; renderHome(); return; }
-  if (POS){ S.near = true; renderHome(); return; }
+  if (S.near){ S.near = false; renderControls(); renderHome(); return; }
+  if (POS){ S.near = true; renderControls(); renderHome(); return; }
   btn.disabled = true;
   navigator.geolocation.getCurrentPosition(pos => {
-    btn.disabled = false; POS = [pos.coords.latitude, pos.coords.longitude]; S.near = true; renderHome();
+    btn.disabled = false; POS = [pos.coords.latitude, pos.coords.longitude]; S.near = true; renderControls(); renderHome();
     const near = Math.min(...DATA.events.map(distOf).filter(d => d !== null));
     if (near > 100) toast(`You're about ${Math.round(near)} mi from ${CITY.name}. Try "Use my location" in the city picker.`); else toast('Closest events first');
   }, () => { btn.disabled = false; toast('Location is off, so we can\'t sort by distance.'); }, { enableHighAccuracy:false, timeout:10000, maximumAge:300000 });
