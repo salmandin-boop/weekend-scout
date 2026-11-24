@@ -1,0 +1,62 @@
+{
+ "city": "las-vegas",
+ "updated": "2026-11-24",
+ "source": "Long-running landmarks only for now (restaurants and bars to be added once verified); coordinates from vegas4locals.com Google Maps links for each venue",
+ "spots": [
+  {
+   "name": "High Roller",
+   "kind": "always",
+   "cuisine": "",
+   "area": "The LINQ Promenade",
+   "lat": 36.11777,
+   "lon": -115.17258,
+   "price": "Tickets",
+   "blurb": "550-foot observation wheel with Strip views from glass cabins",
+   "blurbEs": "Noria de observación de 550 pies con vistas del Strip desde cabinas de cristal"
+  },
+  {
+   "name": "The LINQ Promenade",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Center Strip",
+   "lat": 36.11777,
+   "lon": -115.17258,
+   "price": "Free",
+   "blurb": "Open-air pedestrian street of shops and restaurants off the Strip",
+   "blurbEs": "Calle peatonal al aire libre con tiendas y restaurantes junto al Strip"
+  },
+  {
+   "name": "Shark Reef Aquarium",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Mandalay Bay",
+   "lat": 36.09086,
+   "lon": -115.17503,
+   "price": "Tickets",
+   "blurb": "Walk-through aquarium with sharks, rays and sea turtles",
+   "blurbEs": "Acuario con túnel para ver tiburones, rayas y tortugas marinas"
+  },
+  {
+   "name": "Ethel M Chocolates Factory & Cactus Garden",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Henderson",
+   "lat": 36.07385,
+   "lon": -115.07208,
+   "price": "Free",
+   "blurb": "Chocolate factory with a free self-guided botanical cactus garden",
+   "blurbEs": "Fábrica de chocolate con un jardín botánico de cactus gratuito para recorrer por tu cuenta"
+  },
+  {
+   "name": "Downtown Summerlin",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Summerlin",
+   "lat": 36.15002,
+   "lon": -115.33317,
+   "price": "Free",
+   "blurb": "Open-air shopping and dining district on the west side",
+   "blurbEs": "Zona comercial y gastronómica al aire libre en el oeste de la ciudad"
+  }
+ ]
+}

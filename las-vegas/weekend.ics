@@ -1,0 +1,129 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Las Vegas
+X-WR-CALDESC:Hand-checked weekend picks in Las Vegas, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:las-vegas-golden-knights-canadiens-kids-day-sat-0@weekendscout.app
+DTSTAMP:20261124T130944Z
+DTSTART:20261128T210000Z
+DTEND:20261128T230000Z
+SUMMARY:Golden Knights vs. Canadiens
+LOCATION:T-Mobile Arena\, 3780 S Las Vegas Blvd\, Las Vegas\, NV 89158
+DESCRIPTION:The Golden Knights host Montreal in a Saturday matinee that th
+ e team has billed as Kid's Day. Tickets. Details: https://weekendscout.app
+ /e/las-vegas/golden-knights-canadiens-kids-day/
+URL:https://weekendscout.app/e/las-vegas/golden-knights-canadiens-kids-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:las-vegas-postmodern-jukebox-encore-theater-fri-0@weekendscout.app
+DTSTAMP:20261124T130944Z
+DTSTART:20261128T040000Z
+DTEND:20261128T060000Z
+SUMMARY:Scott Bradlee's Postmodern Jukebox: The Future Is Vintage World To
+ ur
+LOCATION:Encore Theater at Wynn Las Vegas\, 3131 S Las Vegas Blvd\, Las Ve
+ gas\, NV 89109
+DESCRIPTION:The vintage-style collective reworks modern pop hits as jazz\,
+  swing and doo-wop in its Encore Theater debut. Tickets. Details: https://
+ weekendscout.app/e/las-vegas/postmodern-jukebox-encore-theater/
+URL:https://weekendscout.app/e/las-vegas/postmodern-jukebox-encore-theater/
+END:VEVENT
+BEGIN:VEVENT
+UID:las-vegas-journey-final-frontier-mgm-grand-fri-0@weekendscout.app
+DTSTAMP:20261124T130944Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Journey: Final Frontier Tour
+LOCATION:MGM Grand Garden Arena\, 3799 S Las Vegas Blvd\, Las Vegas\, NV 8
+ 9109
+DESCRIPTION:Journey brings its farewell Final Frontier Tour to the MGM Gra
+ nd Garden Arena for one night. Tickets. Details: https://weekendscout.app/
+ e/las-vegas/journey-final-frontier-mgm-grand/
+URL:https://weekendscout.app/e/las-vegas/journey-final-frontier-mgm-grand/
+END:VEVENT
+BEGIN:VEVENT
+UID:las-vegas-jonas-brothers-burning-up-tour-sat-0@weekendscout.app
+DTSTAMP:20261124T130944Z
+DTSTART:20261129T033000Z
+DTEND:20261129T053000Z
+SUMMARY:Jonas Brothers: The Burning Up Tour All Over Again
+LOCATION:MGM Grand Garden Arena\, 3799 S Las Vegas Blvd\, Las Vegas\, NV 8
+ 9109
+DESCRIPTION:The Jonas Brothers play an arena show on the Strip\, with Magn
+ us Ferrell and Deleasa opening. Tickets. Details: https://weekendscout.app
+ /e/las-vegas/jonas-brothers-burning-up-tour/
+URL:https://weekendscout.app/e/las-vegas/jonas-brothers-burning-up-tour/
+END:VEVENT
+BEGIN:VEVENT
+UID:las-vegas-ethel-m-holiday-cactus-garden-lights-fri-0@weekendscout.app
+DTSTAMP:20261124T130944Z
+DTSTART:20261128T010000Z
+DTEND:20261128T060000Z
+SUMMARY:Holiday Cactus Garden Lights
+LOCATION:Ethel M Chocolates\, 2 Cactus Garden Dr\, Henderson\, NV 89014
+DESCRIPTION:The 33rd annual light display wraps Ethel M's botanical cactus
+  garden in holiday lights. Kids under 2 and seniors 65+ get in free\; pets
+  are not allowed. $3. Details: https://weekendscout.app/e/las-vegas/ethel-
+ m-holiday-cactus-garden-lights/
+URL:https://weekendscout.app/e/las-vegas/ethel-m-holiday-cactus-garden-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:las-vegas-ethel-m-holiday-cactus-garden-lights-sat-0@weekendscout.app
+DTSTAMP:20261124T130944Z
+DTSTART:20261129T010000Z
+DTEND:20261129T060000Z
+SUMMARY:Holiday Cactus Garden Lights
+LOCATION:Ethel M Chocolates\, 2 Cactus Garden Dr\, Henderson\, NV 89014
+DESCRIPTION:The 33rd annual light display wraps Ethel M's botanical cactus
+  garden in holiday lights. Kids under 2 and seniors 65+ get in free\; pets
+  are not allowed. $3. Details: https://weekendscout.app/e/las-vegas/ethel-
+ m-holiday-cactus-garden-lights/
+URL:https://weekendscout.app/e/las-vegas/ethel-m-holiday-cactus-garden-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:las-vegas-ethel-m-holiday-cactus-garden-lights-sun-0@weekendscout.app
+DTSTAMP:20261124T130944Z
+DTSTART:20261130T010000Z
+DTEND:20261130T060000Z
+SUMMARY:Holiday Cactus Garden Lights
+LOCATION:Ethel M Chocolates\, 2 Cactus Garden Dr\, Henderson\, NV 89014
+DESCRIPTION:The 33rd annual light display wraps Ethel M's botanical cactus
+  garden in holiday lights. Kids under 2 and seniors 65+ get in free\; pets
+  are not allowed. $3. Details: https://weekendscout.app/e/las-vegas/ethel-
+ m-holiday-cactus-garden-lights/
+URL:https://weekendscout.app/e/las-vegas/ethel-m-holiday-cactus-garden-lights/
+END:VEVENT
+BEGIN:VEVENT
+UID:las-vegas-downtown-summerlin-holiday-parade-sat-0@weekendscout.app
+DTSTAMP:20261124T130944Z
+DTSTART:20261129T020000Z
+DTEND:20261129T040000Z
+SUMMARY:Downtown Summerlin Holiday Parade
+LOCATION:Downtown Summerlin\, 1980 Festival Plaza Dr\, Las Vegas\, NV 8913
+ 5
+DESCRIPTION:Downtown Summerlin's weekend holiday parade rolls through the 
+ shopping district on Saturday evening. There is no parade on Black Friday.
+  Free. Details: https://weekendscout.app/e/las-vegas/downtown-summerlin-ho
+ liday-parade/
+URL:https://weekendscout.app/e/las-vegas/downtown-summerlin-holiday-parade/
+END:VEVENT
+BEGIN:VEVENT
+UID:las-vegas-luenell-jimmy-kimmels-comedy-club-sun-0@weekendscout.app
+DTSTAMP:20261124T130944Z
+DTSTART:20261130T053000Z
+DTEND:20261130T073000Z
+SUMMARY:Luenell
+LOCATION:Jimmy Kimmel's Comedy Club\, 3545 S Las Vegas Blvd\, Las Vegas\, 
+ NV 89109
+DESCRIPTION:Comedian and actress Luenell headlines a late Sunday show at t
+ he club on the LINQ Promenade. Tickets. Details: https://weekendscout.app/
+ e/las-vegas/luenell-jimmy-kimmels-comedy-club/
+URL:https://weekendscout.app/e/las-vegas/luenell-jimmy-kimmels-comedy-club/
+END:VEVENT
+END:VCALENDAR
