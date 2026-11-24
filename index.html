@@ -430,7 +430,7 @@ dialog.sheet[open]{animation:sheetUp .22s cubic-bezier(.2,.8,.2,1)}
 
 <script>
 (() => {
-const APP_VERSION = '1.11.0';
+const APP_VERSION = '1.11.1';
 const SITE_URL = 'https://weekendscout.app/'; // the live address, so shared links point there
 const TZ0 = 'America/New_York';
 let TZ = TZ0; // switches to the chosen city's time zone
@@ -542,12 +542,12 @@ function affURL(u){
 
 /* ---------- filtering ---------- */
 // "Good for" occasions. Events list them in `good`; anything marked 18+ or 21+ is never shown as family friendly.
-// Read as "Good for …": Date night / Kids / Groups / Rainy days
-const GOOD = [['date','Date night'],['family','Kids'],['friends','Groups'],['indoors','Rainy days']];
-const GOODTAG = { date:'Date night', family:'Kid friendly', friends:'Great for groups', indoors:'Indoors' };
-const GOODALT = { date:'date romantic couples', family:'family kids children', friends:'friends groups', indoors:'indoor indoors rain' };
+// Read as "Good for …": Date night / Kids / Groups / Indoors / Outdoors
+const GOOD = [['date','Date night'],['family','Kids'],['friends','Groups'],['indoors','Indoors'],['outdoors','Outdoors']];
+const GOODTAG = { date:'Date night', family:'Kid friendly', friends:'Great for groups', indoors:'Indoors', outdoors:'Outdoors' };
+const GOODALT = { date:'date romantic couples', family:'family kids children', friends:'friends groups', indoors:'indoor indoors inside rain rainy', outdoors:'outdoor outdoors outside open air fresh air' };
 const GOODLABEL = Object.fromEntries(GOOD);
-const GOODCOUNT = { date:['date night pick','date night picks'], family:['pick for kids','picks for kids'], friends:['pick for groups','picks for groups'], indoors:['rainy-day pick','rainy-day picks'] };
+const GOODCOUNT = { date:['date night pick','date night picks'], family:['pick for kids','picks for kids'], friends:['pick for groups','picks for groups'], indoors:['indoor pick','indoor picks'], outdoors:['outdoor pick','outdoor picks'] };
 function goodFor(ev){
   const g = new Set(Array.isArray(ev.good) ? ev.good : (ev.cat === 'family' ? ['family'] : []));
   if (ev.ages) g.delete('family');
@@ -674,7 +674,12 @@ function renderHome(){
   const cards = evs.map(e => card(e, S.day));
   const wet = DAYS.filter(d => (S.day === 'all' || S.day === d) && (wxFor(DATA.weekend.days[d]) || {}).rain >= 60);
   if (wet.length && S.good !== 'indoors' && DATA.events.some(e => goodFor(e).includes('indoors')))
-    cards.unshift(`<div class="nudge"><span>☂ Rain likely ${wet.map(d => DAYNAME[d]).join(' and ')} (${Math.max(...wet.map(d => wxFor(DATA.weekend.days[d]).rain))}%).</span><button class="btn" type="button" data-good="indoors">Show rainy-day picks</button></div>`);
+    cards.unshift(`<div class="nudge"><span>☂ Rain likely ${wet.map(d => DAYNAME[d]).join(' and ')} (${Math.max(...wet.map(d => wxFor(DATA.weekend.days[d]).rain))}%).</span><button class="btn" type="button" data-good="indoors">Show indoor picks</button></div>`);
+  else {
+    const nice = DAYS.filter(d => (S.day === 'all' || S.day === d) && (x => x && x.rain < 25 && x.hi >= 58 && x.hi <= 92)(wxFor(DATA.weekend.days[d])));
+    if (nice.length && S.good === 'any' && DATA.events.some(e => goodFor(e).includes('outdoors')))
+      cards.unshift(`<div class="nudge"><span>☀ Nice weather ${nice.map(d => DAYNAME[d]).join(' and ')} (${Math.max(...nice.map(d => wxFor(DATA.weekend.days[d]).hi))}°).</span><button class="btn" type="button" data-good="outdoors">Show outdoor picks</button></div>`);
+  }
   if (MAPON) drawMap(evs);
   const plans = renderPlans(), fy = renderForYou();
   // Rails sit inside the list, after the first few events, so the list stays first.
