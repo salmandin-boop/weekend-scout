@@ -8,6 +8,7 @@ Run from the repo root after every change to events/*.json:
 Outputs:
   <city>/index.html          a Google-friendly page per city ("Things to do in Austin this weekend")
   <city>/free/, /date-night/, /with-kids/   the same page filtered (built when 3+ events match)
+  <city>/<guide>/            seasonal guides from guides/<city>.json (Christmas lights, holiday markets, New Year's Eve)
   <city>/weekend.ics         calendar feed of this weekend's picks (subscribe once, refreshes weekly)
   e/<city>/<event>/index.html  a share page per event, so shared links preview with the event's name and day
   sitemap.xml
@@ -53,7 +54,8 @@ h1{font-size:clamp(2rem,7vw,2.8rem);font-weight:800}h2{font-size:1.3rem;margin:2
 .pill{display:inline-block;font-size:.72rem;font-weight:700;border-radius:999px;padding:1px 8px;margin:6px 6px 0 0;background:var(--bg);color:var(--muted);border:1px solid var(--line)}
 .pill.free{background:var(--free-bg);color:var(--free);border-color:transparent}
 .cities{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}.cities a{color:var(--ink);border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:8px 14px;text-decoration:none;font-weight:600;font-size:.9rem}
-footer{margin-top:36px;color:var(--muted);font-size:.85rem}footer a{color:inherit}"""
+footer{margin-top:36px;color:var(--muted);font-size:.85rem}footer a{color:inherit}
+div.ev a{color:var(--accent);font-weight:700}"""
 
 def head(title, desc, url, img, extra=''):
     return f"""<!doctype html>
@@ -121,12 +123,69 @@ def build_ics(c, d):
     L.append('END:VCALENDAR')
     return '\r\n'.join(L) + '\r\n'
 
+GUIDE_SLUGS = ['christmas-lights', 'holiday-markets', 'new-years-eve']  # folders this tool owns; stale ones are removed
+
+def load_guides(c):
+    p = os.path.join(ROOT, 'guides', c['id'] + '.json')
+    if not os.path.exists(p): return []
+    today = date.today().isoformat()
+    g = json.load(open(p)).get('guides') or []
+    return [x for x in g if x.get('slug') and x.get('title') and x.get('items') and not (x.get('until') and x['until'] < today)]
+
+def build_guides(c, guides, all_guides, img):
+    urls = []
+    for g in guides:
+        url = f"{SITE}/{c['id']}/{g['slug']}/"
+        year = (g.get('until') or date.today().isoformat())[:4]
+        h1 = f"{g['title']} in {c['name']}"
+        title = f"{h1} {year} · Weekend Scout"
+        free = sum(1 for it in g['items'] if it.get('price') == 'free')
+        desc = g.get('intro') or f"{len(g['items'])} hand-checked {g['title'].lower()} in {c['name']}, {c['state']}, with dates, hours and prices."
+        cards, ld = [], []
+        for i, it in enumerate(g['items']):
+            pill = f'<span class="pill free">{esc(it.get("priceLabel") or "Free")}</span>' if it.get('price') == 'free' else f'<span class="pill">{esc(it.get("priceLabel") or "Tickets")}</span>'
+            maps = 'https://www.google.com/maps/search/?api=1&query=' + html.escape(re.sub(r'\s+', '+', f"{it.get('venue') or it['name']} {it.get('addr') or ''}".strip()), quote=True)
+            links = (f'<a href="{esc(it["url"])}" rel="noopener">Official site</a>' if it.get('url') else '') + f' · <a href="{maps}" rel="noopener">Map</a>'
+            cards.append(f'<div class="ev" style="grid-template-columns:1fr"><span><span class="t">{esc(it.get("dates", ""))}</span><h3 style="margin-top:4px">{esc(it["name"])}</h3>'
+                         f'<p>{esc(", ".join(x for x in [it.get("venue"), it.get("area")] if x))}</p><p>{esc(it.get("blurb", ""))}</p>{pill}{"<span class=\"pill\">Good with kids</span>" if it.get("kids") else ""}<p style="margin-top:8px">{links}</p></span></div>')
+            ev = {'@type': 'Event', 'name': it['name'], 'eventStatus': 'https://schema.org/EventScheduled', 'eventAttendanceMode': 'https://schema.org/OfflineEventAttendanceMode',
+                  'location': {'@type': 'Place', 'name': it.get('venue') or it['name'], 'address': it.get('addr', '')}, 'description': it.get('blurb', '')}
+            if it.get('start'): ev['startDate'] = it['start']
+            if it.get('end'): ev['endDate'] = it['end']
+            if it.get('url'): ev['url'] = it['url']
+            if it.get('price') == 'free': ev['offers'] = {'@type': 'Offer', 'price': 0, 'priceCurrency': 'USD', 'url': it.get('url', url)}
+            ld.append({'@type': 'ListItem', 'position': i + 1, 'item': ev if it.get('start') else {'@type': 'Thing', 'name': it['name'], 'description': it.get('blurb', '')}})
+        ldj = json.dumps({'@context': 'https://schema.org', '@type': 'ItemList', 'name': h1, 'itemListElement': ld}, ensure_ascii=False).replace('</', '<\\/')
+        mine = ''.join(f'<a href="/{c["id"]}/{x["slug"]}/"{" aria-current=\"page\"" if x["slug"] == g["slug"] else ""}>{esc(x.get("icon", ""))} {esc(x["title"])}</a>' for x in guides)
+        others = ''.join(f'<a href="/{oid}/{g["slug"]}/">{esc(oname)}</a>' for oid, oname, ogs in all_guides if oid != c['id'] and any(x['slug'] == g['slug'] for x in ogs))
+        page = head(title, desc, url, img, f'<script type="application/ld+json">{ldj}</script>') + f"""
+<body><div class="wrap">
+<a class="k" href="/{c['id']}/">Weekend Scout · {esc(c['name'])}</a>
+<h1 style="margin-top:6px">{esc(g.get('icon', ''))} {esc(h1)}</h1>
+<p class="sub">{len(g['items'])} hand-checked picks{f', {free} free' if free else ''} · Updated {pretty(g.get('updated') or date.today().isoformat())}</p>
+{f'<p>{esc(g["intro"])}</p>' if g.get('intro') else ''}
+<div class="cities">{mine}</div>
+<a class="cta" href="/?city={c['id']}">See this weekend in {esc(c['name'])}</a>
+{''.join(cards)}
+{f'<h2>{esc(g["title"])} in other cities</h2><div class="cities">{others}</div>' if others else ''}
+<footer>Dates, hours and prices can change, so check the official site before you go. · <a href="/privacy.html">Privacy</a> · <a href="/terms.html">Terms</a> · © ENDins LLC</footer>
+</div></body></html>
+"""
+        dirp = os.path.join(ROOT, c['id'], g['slug']); os.makedirs(dirp, exist_ok=True)
+        open(os.path.join(dirp, 'index.html'), 'w').write(page)
+        urls.append(url)
+    for slug in GUIDE_SLUGS:
+        if not any(x['slug'] == slug for x in guides): shutil.rmtree(os.path.join(ROOT, c['id'], slug), ignore_errors=True)
+    return urls
+
 def main():
     cities = json.load(open(os.path.join(ROOT, 'cities.json')))['cities']
     datas = {c['id']: json.load(open(os.path.join(ROOT, c['file']))) for c in cities}
     # wipe generated folders so old weekends disappear
     shutil.rmtree(os.path.join(ROOT, 'e'), ignore_errors=True)
     urls = [f'{SITE}/']
+    guides = {c['id']: load_guides(c) for c in cities}
+    all_guides = [(c['id'], c['name'], guides[c['id']]) for c in cities]
     for c in cities:
         d = datas[c['id']]; w = d['weekend']; cname = f"{c['name']}, {c['state']}"
         img = f"{SITE}/og/{c['id']}.jpg"
@@ -172,6 +231,7 @@ def main():
 <div class="cities">{tabs}</div>
 <a class="cta" href="{app}">Open in the Weekend Scout app</a>
 {''.join(body_days)}
+{('<h2>Holiday guides</h2><div class="cities">' + ''.join(f'<a href="/{c["id"]}/{x["slug"]}/">{esc(x.get("icon", ""))} {esc(x["title"])}</a>' for x in guides[c['id']]) + '</div>') if guides[c['id']] else ''}
 <h2>Get these in your calendar</h2><p class="sub">Subscribe once and every weekend's picks for {esc(c['name'])} show up automatically: <a href="webcal://weekendscout.app/{c['id']}/weekend.ics">Apple / Outlook</a> · <a href="https://calendar.google.com/calendar/r?cid={esc('webcal://weekendscout.app/' + c['id'] + '/weekend.ics')}">Google Calendar</a></p>
 <h2>Other cities</h2><div class="cities">{others}</div>
 <footer>Times and prices can change, so check with the venue before you go. Some ticket links may earn us a small commission. · <a href="/privacy.html">Privacy</a> · <a href="/terms.html">Terms</a> · © ENDins LLC</footer>
@@ -185,6 +245,7 @@ def main():
         for v in VARIANTS:
             if v[0] and v not in made: shutil.rmtree(os.path.join(ROOT, c['id'], v[0]), ignore_errors=True)
         open(os.path.join(ROOT, c['id'], 'weekend.ics'), 'w', newline='').write(build_ics(c, d))
+        urls += build_guides(c, guides[c['id']], all_guides, img)
         # one share page per event
         for e in d['events']:
             day = next((k for k in DAYS if e['times'].get(k)), None)
@@ -204,7 +265,7 @@ def main():
         f'  <url><loc>{u}</loc><changefreq>weekly</changefreq><priority>{"1.0" if u == SITE + "/" else "0.8"}</priority></url>\n' for u in urls) + \
         f'  <url><loc>{SITE}/privacy.html</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>\n  <url><loc>{SITE}/terms.html</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>\n</urlset>\n'
     open(os.path.join(ROOT, 'sitemap.xml'), 'w').write(sm)
-    print(f'built {len(cities)} city pages, {sum(len(datas[c["id"]]["events"]) for c in cities)} event pages')
+    print(f'built {len(cities)} city pages, {sum(len(datas[c["id"]]["events"]) for c in cities)} event pages, {sum(len(v) for v in guides.values())} guide pages')
 
 if __name__ == '__main__':
     main()

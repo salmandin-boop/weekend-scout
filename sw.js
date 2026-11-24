@@ -1,5 +1,5 @@
 // Weekend Scout service worker: app shell works offline; city lists and events are network-first.
-const VERSION = 'ws-v1.14.0';
+const VERSION = 'ws-v1.15.0';
 const SHELL = ['./', 'index.html', 'es.js', '404.html', 'privacy.html', 'terms.html', 'manifest.webmanifest', 'icons/icon.svg', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/apple-touch-icon.png'];
 
 self.addEventListener('install', e => {
@@ -38,15 +38,22 @@ self.addEventListener('periodicsync', e => {
   e.waitUntil((async () => {
     const pc = await caches.open('ws-prefs'); const hit = await pc.match('/__prefs'); if (!hit) return;
     const prefs = await hit.json();
+    // Friday morning (8 AM or later) in the city's time zone, once per weekend
+    const now = new Date(), tz = prefs.tz || 'America/New_York';
+    const day = new Intl.DateTimeFormat('en-US', { timeZone: tz, weekday: 'short' }).format(now);
+    const hour = +new Intl.DateTimeFormat('en-US', { timeZone: tz, hour: 'numeric', hourCycle: 'h23' }).format(now);
+    if (day !== 'Fri' || hour < 8 || hour > 20) return;
     const res = await fetch('/' + prefs.file, { cache: 'no-store' }); if (!res.ok) return;
     const data = await res.json();
-    if (data.updated && data.updated !== prefs.updated) {
-      prefs.updated = data.updated; await pc.put('/__prefs', new Response(JSON.stringify(prefs)));
-      await self.registration.showNotification(`New weekend list for ${prefs.name}`, {
-        body: `${data.events.length} things to do, ${data.weekend.label}. Tap to see what's on.`,
-        icon: '/icons/icon-192.png', badge: '/icons/icon-192.png', tag: 'ws-weekly', data: { url: '/?city=' + prefs.city }
-      });
-    }
+    const fri = data.weekend && data.weekend.days && data.weekend.days.fri;
+    if (!fri || prefs.notified === fri) return;
+    prefs.notified = fri; prefs.updated = data.updated; await pc.put('/__prefs', new Response(JSON.stringify(prefs)));
+    const evs = (data.events || []).filter(x => !x.featured), free = evs.filter(x => x.price === 'free').length;
+    const top = evs.find(x => (x.good || []).includes('date')) || evs[0];
+    await self.registration.showNotification(`This weekend in ${prefs.name}`, {
+      body: `${data.events.length} picks${free ? `, ${free} free` : ''}.` + (top ? ` Top pick: ${top.title}.` : '') + ' Tap to see them all.',
+      icon: '/icons/icon-192.png', badge: '/icons/icon-192.png', tag: 'ws-weekly', data: { url: '/?city=' + prefs.city }
+    });
   })());
 });
 self.addEventListener('notificationclick', e => {

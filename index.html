@@ -145,6 +145,7 @@ header.top{padding-top:calc(var(--sat) + 20px);padding-bottom:4px}
 .rail-head h2{white-space:nowrap}
 .rail-head h2{font-size:1.15rem;font-weight:800}
 .rail-head p{font-size:.82rem;color:var(--muted)}
+.guide-btns{display:grid;gap:8px}.guide-btns .btn{justify-content:space-between;width:100%;text-decoration:none}.guide-btns small{color:var(--muted);font-weight:600;font-size:.8rem}
 .rail{display:flex;gap:10px;overflow-x:auto;scroll-snap-type:x mandatory;scroll-padding-inline:var(--gl);margin-left:calc(-1 * var(--gl));margin-right:calc(-1 * var(--gr));padding:2px var(--gr) 6px var(--gl);scrollbar-width:none}
 .rail::-webkit-scrollbar{display:none}
 .plan{flex:none;width:min(78vw,300px);scroll-snap-align:start;text-align:left;border:1px solid var(--line);background:var(--surface);border-radius:16px;padding:14px;cursor:pointer;display:grid;gap:8px;box-shadow:var(--shadow);color:var(--ink)}
@@ -386,9 +387,9 @@ dialog.sheet[open]{animation:sheetUp .22s cubic-bezier(.2,.8,.2,1)}
       <a class="play-badge" id="play-badge" hidden target="_blank" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="#34a853" d="M3.6 2.2 13.3 12l-9.7 9.8c-.4-.2-.6-.7-.6-1.2V3.4c0-.5.2-1 .6-1.2Z"/><path fill="#fbbc04" d="m16.6 15.3-3.3-3.3 3.3-3.3 3.8 2.2c1 .6 1 1.7 0 2.3l-3.8 2.1Z"/><path fill="#ea4335" d="M16.6 15.3 13.3 12l-9.7 9.8c.4.2.9.2 1.4-.1l11.6-6.4Z"/><path fill="#4285f4" d="M16.6 8.7 5 2.3c-.5-.3-1-.3-1.4-.1l9.7 9.8 3.3-3.3Z"/></svg><span><small>GET IT ON</small>Google Play</span></a>
     </div>
     <div class="section" id="remind-box">
-      <h2>Get a reminder every Wednesday</h2>
-      <p>We'll let you know when the new weekend list is out.</p>
-      <button class="btn primary" type="button" data-remind>Remind me on Wednesdays</button>
+      <h2>Get a reminder every Friday morning</h2>
+      <p>A heads-up with your city's weekend picks before the weekend starts.</p>
+      <button class="btn primary" type="button" data-remind>Remind me on Fridays</button>
       <p id="remind-note" style="font-size:.85rem" hidden></p>
     </div>
     <div id="news-about"></div>
@@ -453,7 +454,7 @@ dialog.sheet[open]{animation:sheetUp .22s cubic-bezier(.2,.8,.2,1)}
 
 <script>
 (() => {
-const APP_VERSION = '1.14.0';
+const APP_VERSION = '1.15.0';
 const SITE_URL = 'https://weekendscout.app/'; // the live address, so shared links point there
 const TZ0 = 'America/New_York';
 let TZ = TZ0; // switches to the chosen city's time zone
@@ -554,10 +555,12 @@ async function loadCities(){
   return list;
 }
 async function loadCity(city){
-  const [res, sp] = await Promise.all([getJSON(city.file, 'ws-data-' + city.id), getJSON('spots/' + city.id + '.json', 'ws-spots-' + city.id).catch(() => null)]);
+  const [res, sp, gd] = await Promise.all([getJSON(city.file, 'ws-data-' + city.id), getJSON('spots/' + city.id + '.json', 'ws-spots-' + city.id).catch(() => null), getJSON('guides/' + city.id + '.json', 'ws-guides-' + city.id).catch(() => null)]);
   if (!res || !Array.isArray(res.j.events)) return null;
   offline = res.cached;
   res.j.spots = (sp && sp.j && Array.isArray(sp.j.spots)) ? sp.j.spots : [];
+  const today = new Date().toISOString().slice(0, 10);
+  res.j.guides = (gd && gd.j && Array.isArray(gd.j.guides)) ? gd.j.guides.filter(g => g.slug && g.title && (g.items || []).length && !(g.until && g.until < today)) : [];
   return res.j;
 }
 const cityName = c => c.state ? `${c.name}, ${c.state}` : c.name;
@@ -738,7 +741,7 @@ function renderHome(){
   // With the Date night filter on, the ready-made date bundles lead the list.
   if (plans) cards.splice(S.good !== 'any' ? 0 : Math.min(4, cards.length), 0, plans);
   if (fy) cards.splice(Math.min(plans ? 9 : 4, cards.length), 0, fy);
-  $('list').innerHTML = cards.join('') + renderUpcoming() + renderAlways() + calRow();
+  $('list').innerHTML = cards.join('') + renderGuides() + renderUpcoming() + renderAlways() + remindRow() + calRow();
 }
 
 function renderSaved(){
@@ -919,6 +922,18 @@ function calRow(){
   const g = 'https://calendar.google.com/calendar/r?cid=' + encodeURIComponent(web);
   return `<section class="more calbox" aria-label="Calendar"><h2>Get every weekend in your calendar</h2><p>Subscribe once and ${esc(CITY.name)}'s picks show up in your calendar each week, updated automatically.</p>
     <div class="cal-btns"><a class="btn" href="${esc(g)}" target="_blank" rel="noopener">Google Calendar</a><a class="btn" href="${esc(web)}">Apple / Outlook</a></div></section>`;
+}
+// Seasonal guides (Christmas lights, holiday markets, New Year's Eve): static pages built by tools/build_pages.py
+function renderGuides(){
+  if (S.q || S.good !== 'any' || (S.cat !== 'all' && S.cat !== 'free') || !(DATA.guides || []).length) return '';
+  return `<section class="more" aria-label="Holiday guides"><div class="rail-head"><h2>Holiday guides</h2><p>All season</p></div>
+    <div class="guide-btns">${DATA.guides.map(g => `<a class="btn" href="/${esc(CITY.id)}/${esc(g.slug)}/"><span><span aria-hidden="true">${esc(g.icon || '')}</span> <span>${esc(g.title)}</span></span><small>${g.items.length} ${g.items.length === 1 ? 'pick' : 'picks'}</small></a>`).join('')}</div></section>`;
+}
+// Friday-morning heads-up, offered under the list until it's switched on (or dismissed)
+function remindRow(){
+  if (S.q || S.cat !== 'all' || S.good !== 'any' || !CITY || store.get('ws-remind', false) || store.get('ws-remind-x', false)) return '';
+  return `<section class="more calbox" aria-label="Friday reminder"><h2>Get a heads-up every Friday morning</h2><p>A quick reminder with ${esc(CITY.name)}'s picks before the weekend starts.</p>
+    <div class="cal-btns"><button class="btn primary" type="button" data-remind>Remind me on Fridays</button><button class="btn" type="button" data-remindx>No thanks</button></div><p class="remind-note" hidden style="margin:8px 0 0"></p></section>`;
 }
 function renderUpcoming(){
   if (S.q || S.cat !== 'all' || S.good !== 'any') return '';
@@ -1157,6 +1172,7 @@ document.addEventListener('click', e => {
   if ('story' in t.dataset) return storyImage(openId, t);
   if ('surprise' in t.dataset) return surprise();
   if ('remind' in t.dataset) return remindMe(t);
+  if ('remindx' in t.dataset) { store.set('ws-remind-x', true); t.closest('section')?.remove(); return; }
   if ('caltoggle' in t.dataset) { const c = $('cal'); c.hidden = !c.hidden; t.setAttribute('aria-expanded', String(!c.hidden)); return; }
   if (t.dataset.ics !== undefined) { const ev = DATA.events.find(x => x.id === openId); const s = sessions(ev).filter(s => s.s)[+t.dataset.ics]; downloadICS(ev, s); return; }
   if (t.dataset.copy) {
@@ -1356,33 +1372,38 @@ function renderHeaderCityOnly(){ $('city-label').textContent = cityName(CITY); $
   if (!want && CITIES.length > 1 && !location.hash) (window.__introGone || Promise.resolve()).then(() => { if (!sheet.open) openCityPicker(); });
 })();
 
-/* ---------- Wednesday reminder ----------
-   Installed on Android: the app checks for the new list in the background and sends a notification.
-   Everywhere else: a repeating Wednesday reminder is added to the phone's calendar instead. */
+/* ---------- Friday-morning reminder ----------
+   Installed on Android: the app checks in the background and sends a notification on Friday morning (city's time zone).
+   Everywhere else: a repeating Friday 9 AM reminder is added to the phone's calendar instead. */
 async function savePrefsForWorker(){
-  try { const c = await caches.open('ws-prefs'); await c.put('/__prefs', new Response(JSON.stringify({ city:CITY.id, file:CITY.file, name:CITY.name, updated:DATA.updated }))); } catch {}
+  try {
+    const c = await caches.open('ws-prefs'), hit = await c.match('/__prefs');
+    const prev = hit ? await hit.json().catch(() => ({})) : {};
+    const p = { city:CITY.id, file:CITY.file, name:CITY.name, tz:CITY.tz || TZ0, updated:DATA.updated, notified: prev.city === CITY.id ? prev.notified : undefined };
+    await c.put('/__prefs', new Response(JSON.stringify(p)));
+  } catch {}
 }
 async function remindMe(btn){
-  const note = $('remind-note');
+  const note = btn.closest('section, .section')?.querySelector('.remind-note, #remind-note') || $('remind-note');
   let reg = null; try { reg = await navigator.serviceWorker?.ready; } catch {}
   if (reg && 'periodicSync' in reg && 'Notification' in window){
     try {
       const perm = await Notification.requestPermission();
       if (perm === 'granted'){
         await savePrefsForWorker();
-        await reg.periodicSync.register('ws-weekly', { minInterval: 12 * 60 * 60 * 1000 });
-        store.set('ws-remind', true); note.hidden = false; note.textContent = `Done. We'll send a notification when the new ${CITY.name} list is out.`; btn.textContent = 'Reminders are on'; return;
+        await reg.periodicSync.register('ws-weekly', { minInterval: 4 * 60 * 60 * 1000 });
+        store.set('ws-remind', true); note.hidden = false; note.textContent = `Done. You'll get a notification on Friday mornings with ${CITY.name}'s picks.`; btn.textContent = 'Reminders are on'; return;
       }
     } catch {}
   }
-  // Fallback: a repeating calendar reminder every Wednesday at noon
+  // Fallback: a repeating calendar reminder every Friday at 9 AM
   const ics = ['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//Weekend Scout//EN','BEGIN:VEVENT','UID:weekly-reminder@weekendscout','DTSTAMP:' + new Date().toISOString().replace(/[-:]/g,'').replace(/\.\d+/,''),
-    'DTSTART;TZID=' + TZ + ':' + nextWednesday() + 'T120000','DURATION:PT15M','RRULE:FREQ=WEEKLY;BYDAY=WE','SUMMARY:New Weekend Scout list is out','DESCRIPTION:See what\'s on this weekend: ' + SITE_URL,'URL:' + SITE_URL,
-    'BEGIN:VALARM','ACTION:DISPLAY','DESCRIPTION:New Weekend Scout list','TRIGGER:PT0M','END:VALARM','END:VEVENT','END:VCALENDAR'].join('\r\n');
+    'DTSTART;TZID=' + TZ + ':' + nextFriday() + 'T090000','DURATION:PT15M','RRULE:FREQ=WEEKLY;BYDAY=FR','SUMMARY:Weekend Scout: this weekend in ' + CITY.name,'DESCRIPTION:See what\'s on this weekend: ' + SITE_URL + '?city=' + CITY.id,'URL:' + SITE_URL + '?city=' + CITY.id,
+    'BEGIN:VALARM','ACTION:DISPLAY','DESCRIPTION:This weekend in ' + CITY.name,'TRIGGER:PT0M','END:VALARM','END:VEVENT','END:VCALENDAR'].join('\r\n');
   saveFile('weekend-scout-reminder.ics', ics, 'text/calendar;charset=utf-8');
-  note.hidden = false; note.textContent = 'Open the file we just saved to add a Wednesday reminder to your calendar.';
+  store.set('ws-remind', true); note.hidden = false; note.textContent = 'Open the file we just saved to add a Friday 9 AM reminder to your calendar.';
 }
-function nextWednesday(){ const d = new Date(); d.setDate(d.getDate() + ((3 - d.getDay() + 7) % 7 || 7)); return d.toISOString().slice(0,10).replace(/-/g,''); }
+function nextFriday(){ const d = new Date(); d.setDate(d.getDate() + ((5 - d.getDay() + 7) % 7 || 7)); return d.toISOString().slice(0,10).replace(/-/g,''); }
 
 function renderNews(){
   const n = CFG.newsletter || {};
