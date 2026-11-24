@@ -1,0 +1,37 @@
+{
+ "city": "pittsburgh",
+ "updated": "2026-11-24",
+ "source": "Partial: Gaucho picked from Wanderlog's Pittsburgh restaurant list with coordinates from its Wanderlog page; Phipps coordinates from the University of Pittsburgh events map; Market Square from latitude.to. Other picks dropped because coordinate lookups were blocked or rate-limited",
+ "spots": [
+  {
+   "name": "Gaucho Parrilla Argentina",
+   "kind": "dinner",
+   "cuisine": "Argentinian grill",
+   "area": "Cultural District",
+   "lat": 40.44278,
+   "lon": -80.00251
+  },
+  {
+   "name": "Phipps Conservatory and Botanical Gardens",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Oakland",
+   "lat": 40.43821,
+   "lon": -79.94852,
+   "price": "Tickets",
+   "blurb": "Victorian glasshouse conservatory with seasonal flower shows in Schenley Park",
+   "blurbEs": "Invernadero victoriano con exposiciones de flores de temporada en Schenley Park"
+  },
+  {
+   "name": "Market Square",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 40.44067,
+   "lon": -80.00255,
+   "price": "Free",
+   "blurb": "Downtown's historic public square ringed by restaurants and cafes",
+   "blurbEs": "Histórica plaza pública del centro rodeada de restaurantes y cafés"
+  }
+ ]
+}

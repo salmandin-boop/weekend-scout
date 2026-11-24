@@ -1,0 +1,134 @@
+{
+ "city": "st-louis",
+ "updated": "2026-11-24",
+ "source": "Dinner picks from Time Out St. Louis (Sept 2025) and St. Louis Magazine's Downtown & Midtown dining guide (updated Sept 2025); coordinates from latlong.net, latitude.to and mapcarta place pages",
+ "spots": [
+  {
+   "name": "Vicia",
+   "kind": "dinner",
+   "cuisine": "Vegetable-forward American",
+   "area": "Central West End",
+   "lat": 38.63581,
+   "lon": -90.25197
+  },
+  {
+   "name": "Commonwealth",
+   "kind": "dinner",
+   "cuisine": "Commonwealth-inspired, rooftop bar",
+   "area": "Grand Center",
+   "lat": 38.63965,
+   "lon": -90.23084
+  },
+  {
+   "name": "Sado",
+   "kind": "dinner",
+   "cuisine": "Japanese sushi",
+   "area": "The Hill",
+   "lat": 38.61811,
+   "lon": -90.27258
+  },
+  {
+   "name": "Clark & Bourbon",
+   "kind": "dinner",
+   "cuisine": "Steakhouse",
+   "area": "Downtown",
+   "lat": 38.62411,
+   "lon": -90.19381
+  },
+  {
+   "name": "Carmine's Steak House",
+   "kind": "dinner",
+   "cuisine": "Steakhouse",
+   "area": "Downtown",
+   "lat": 38.6244,
+   "lon": -90.18883
+  },
+  {
+   "name": "Rooster",
+   "kind": "lunch",
+   "cuisine": "Crêpes and breakfast",
+   "area": "Downtown",
+   "lat": 38.63149,
+   "lon": -90.19469
+  },
+  {
+   "name": "Salt + Smoke",
+   "kind": "lunch",
+   "cuisine": "Barbecue",
+   "area": "Delmar Loop",
+   "lat": 38.6561,
+   "lon": -90.30506
+  },
+  {
+   "name": "The Fountain on Locust",
+   "kind": "lunch",
+   "cuisine": "Sandwiches and ice cream",
+   "area": "Midtown",
+   "lat": 38.63615,
+   "lon": -90.22305
+  },
+  {
+   "name": "Beffa's",
+   "kind": "drinks",
+   "cuisine": "Historic bar and sandwich shop",
+   "area": "Midtown",
+   "lat": 38.6335,
+   "lon": -90.21669
+  },
+  {
+   "name": "Gateway Arch",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Riverfront",
+   "lat": 38.62469,
+   "lon": -90.18478,
+   "price": "Free grounds; tram tickets",
+   "blurb": "The 630-foot steel arch, with a tram ride to the top and a museum underneath",
+   "blurbEs": "El arco de acero de 630 pies, con tranvía hasta la cima y un museo debajo"
+  },
+  {
+   "name": "City Museum",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown West",
+   "lat": 38.63364,
+   "lon": -90.20083,
+   "price": "Tickets",
+   "blurb": "Giant climbable playground built from salvaged materials in an old shoe factory",
+   "blurbEs": "Enorme espacio de juegos para trepar, hecho con materiales reciclados en una antigua fábrica de zapatos"
+  },
+  {
+   "name": "Saint Louis Zoo",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Forest Park",
+   "lat": 38.6355,
+   "lon": -90.2905,
+   "price": "Free",
+   "blurb": "Big free zoo in Forest Park",
+   "blurbEs": "Gran zoológico gratuito en Forest Park"
+  },
+  {
+   "name": "Missouri Botanical Garden",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Shaw",
+   "lat": 38.6141,
+   "lon": -90.2589,
+   "price": "Tickets",
+   "blurb": "Historic botanical garden with a Japanese garden and the Climatron conservatory",
+   "blurbEs": "Jardín botánico histórico con jardín japonés y el invernadero Climatron"
+  },
+  {
+   "name": "Tower Grove Park",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Tower Grove",
+   "lat": 38.60631,
+   "lon": -90.2553,
+   "price": "Free",
+   "blurb": "289-acre Victorian park with ornate pavilions, a short walk from the Botanical Garden",
+   "blurbEs": "Parque victoriano de 289 acres con pabellones ornamentados, a poca distancia del Jardín Botánico"
+  }
+ ]
+}

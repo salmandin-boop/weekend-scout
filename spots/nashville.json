@@ -1,0 +1,86 @@
+{
+ "city": "nashville",
+ "updated": "2026-11-24",
+ "source": "Dinner picks from Resy's 2025 Nashville top-10 (Dec 2025); restaurant coordinates from latlong.net Nashville POI lists; sight coordinates from latitude.to, Mapcarta and Nashville Sites",
+ "spots": [
+  {
+   "name": "Husk",
+   "kind": "dinner",
+   "cuisine": "Southern",
+   "area": "Rutledge Hill",
+   "lat": 36.15534,
+   "lon": -86.76983
+  },
+  {
+   "name": "Iggy's",
+   "kind": "dinner",
+   "cuisine": "Fresh pasta",
+   "area": "Wedgewood-Houston",
+   "lat": 36.13976,
+   "lon": -86.7705
+  },
+  {
+   "name": "Martin's Bar-B-Que Joint",
+   "kind": "lunch",
+   "cuisine": "Barbecue",
+   "area": "Downtown",
+   "lat": 36.15676,
+   "lon": -86.77426
+  },
+  {
+   "name": "Country Music Hall of Fame and Museum",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 36.155,
+   "lon": -86.7724,
+   "price": "Tickets",
+   "blurb": "Big museum of country music history, from costumes and guitars to Elvis's gold Cadillac",
+   "blurbEs": "Gran museo de la historia de la música country, con trajes, guitarras y el Cadillac dorado de Elvis"
+  },
+  {
+   "name": "Ryman Auditorium",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 36.16171,
+   "lon": -86.77767,
+   "price": "Tickets",
+   "blurb": "The historic \"Mother Church of Country Music,\" open for daytime tours",
+   "blurbEs": "La histórica \"Mother Church of Country Music\", con recorridos durante el día"
+  },
+  {
+   "name": "Bicentennial Capitol Mall State Park",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Capitol Hill",
+   "lat": 36.1707,
+   "lon": -86.7875,
+   "price": "Free",
+   "blurb": "State park below the Capitol with a Tennessee history walk and carillon",
+   "blurbEs": "Parque estatal al pie del Capitolio con un recorrido por la historia de Tennessee y un carillón"
+  },
+  {
+   "name": "The Parthenon",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Centennial Park",
+   "lat": 36.14972,
+   "lon": -86.81338,
+   "price": "Tickets",
+   "blurb": "Full-scale replica of the Athens Parthenon with a 42-foot Athena inside",
+   "blurbEs": "Réplica a escala real del Partenón de Atenas con una Atenea de 42 pies en su interior"
+  },
+  {
+   "name": "Nashville Zoo at Grassmere",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Grassmere",
+   "lat": 36.0885,
+   "lon": -86.7422,
+   "price": "Tickets",
+   "blurb": "Large zoo on a historic farm with giraffes, red pandas and a big playground",
+   "blurbEs": "Gran zoológico en una granja histórica con jirafas, pandas rojos y un parque infantil grande"
+  }
+ ]
+}

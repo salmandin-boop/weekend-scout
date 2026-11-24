@@ -1,0 +1,89 @@
+{
+ "city": "tampa",
+ "updated": "2026-11-24",
+ "source": "Columbia and Armature Works coordinates from latitude.to and Mapcarta (OpenStreetMap); sights from Mapcarta, latitude.to and arenasmap; restaurant openness from Visit Tampa Bay MICHELIN page and Time Out (2025/2026)",
+ "spots": [
+  {
+   "name": "Columbia Restaurant",
+   "kind": "dinner",
+   "cuisine": "Spanish-Cuban",
+   "area": "Ybor City",
+   "lat": 27.956,
+   "lon": -82.4343
+  },
+  {
+   "name": "Armature Works",
+   "kind": "lunch",
+   "cuisine": "Food hall",
+   "area": "Tampa Heights",
+   "lat": 27.96116,
+   "lon": -82.46403
+  },
+  {
+   "name": "The Florida Aquarium",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Channel District",
+   "lat": 27.9398,
+   "lon": -82.4403,
+   "price": "Tickets",
+   "blurb": "Big waterfront aquarium with sharks, sea turtles and a coral reef tank",
+   "blurbEs": "Gran acuario junto al agua con tiburones, tortugas marinas y un tanque de arrecife de coral"
+  },
+  {
+   "name": "ZooTampa at Lowry Park",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Lowry Park",
+   "lat": 28.0133,
+   "lon": -82.4697,
+   "price": "Tickets",
+   "blurb": "Large zoo known for its manatee rescue center and Florida wildlife",
+   "blurbEs": "Gran zoológico conocido por su centro de rescate de manatíes y su fauna de Florida"
+  },
+  {
+   "name": "Tampa Museum of Art",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 27.94943,
+   "lon": -82.4623,
+   "price": "Tickets",
+   "blurb": "Riverfront art museum with Greek and Roman antiquities and modern art",
+   "blurbEs": "Museo de arte junto al río con antigüedades griegas y romanas y arte moderno"
+  },
+  {
+   "name": "Henry B. Plant Museum",
+   "kind": "always",
+   "cuisine": "",
+   "area": "University of Tampa",
+   "lat": 27.94671,
+   "lon": -82.46426,
+   "price": "Tickets",
+   "blurb": "Gilded Age hotel museum inside the minaret-topped Plant Hall",
+   "blurbEs": "Museo de un hotel de la Época Dorada dentro del Plant Hall, coronado de minaretes"
+  },
+  {
+   "name": "Tampa Theatre",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 27.95038,
+   "lon": -82.45881,
+   "price": "Tickets",
+   "blurb": "Restored 1926 movie palace showing classic and independent films",
+   "blurbEs": "Palacio de cine de 1926 restaurado que proyecta clásicos y cine independiente"
+  },
+  {
+   "name": "Curtis Hixon Waterfront Park",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 27.94896,
+   "lon": -82.46224,
+   "price": "Free",
+   "blurb": "Riverfront park on the Tampa Riverwalk with lawns and a playground",
+   "blurbEs": "Parque junto al río en el Tampa Riverwalk con jardines y área de juegos"
+  }
+ ]
+}

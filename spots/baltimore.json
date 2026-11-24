@@ -1,0 +1,88 @@
+{
+ "city": "baltimore",
+ "updated": "2026-11-24",
+ "source": "Picks from Baltimore Magazine's Best Restaurants 2026 and Visit Baltimore (baltimore.org) date-night and cocktail guides (2026); coordinates from the baltimore.org listing/event pages' Google Maps links.",
+ "spots": [
+  {
+   "name": "The Prime Rib",
+   "kind": "dinner",
+   "cuisine": "Steakhouse",
+   "area": "Mount Vernon",
+   "lat": 39.30273,
+   "lon": -76.61299
+  },
+  {
+   "name": "Charleston",
+   "kind": "dinner",
+   "cuisine": "Seasonal fine dining",
+   "area": "Harbor East",
+   "lat": 39.28272,
+   "lon": -76.59939
+  },
+  {
+   "name": "Cosima",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "Hampden (Mill No. 1)",
+   "lat": 39.32297,
+   "lon": -76.63056
+  },
+  {
+   "name": "The Bluebird Cocktail Room",
+   "kind": "drinks",
+   "cuisine": "Cocktails",
+   "area": "Hampden",
+   "lat": 39.33124,
+   "lon": -76.634
+  },
+  {
+   "name": "Keystone Korner Baltimore",
+   "kind": "drinks",
+   "cuisine": "Jazz club and bar",
+   "area": "Harbor East",
+   "lat": 39.28246,
+   "lon": -76.59787
+  },
+  {
+   "name": "Gertrude's",
+   "kind": "lunch",
+   "cuisine": "Chesapeake",
+   "area": "Baltimore Museum of Art, Charles Village",
+   "lat": 39.32576,
+   "lon": -76.61944
+  },
+  {
+   "name": "B&O Railroad Museum",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Southwest Baltimore",
+   "lat": 39.28542,
+   "lon": -76.63259,
+   "price": "Tickets",
+   "blurb": "Historic roundhouse full of locomotives and train cars, with short train rides",
+   "blurbEs": "Histórica rotonda ferroviaria llena de locomotoras y vagones, con paseos cortos en tren"
+  },
+  {
+   "name": "The Walters Art Museum",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Mount Vernon",
+   "lat": 39.29659,
+   "lon": -76.6161,
+   "price": "Free",
+   "blurb": "Free art museum with everything from ancient Egyptian objects to medieval armor and 19th-century paintings",
+   "blurbEs": "Museo de arte gratuito con piezas desde el antiguo Egipto hasta armaduras medievales y pinturas del siglo XIX"
+  },
+  {
+   "name": "The Baltimore Museum of Art",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Charles Village",
+   "lat": 39.32576,
+   "lon": -76.61944,
+   "price": "Free",
+   "blurb": "Free art museum known for its Matisse collection and sculpture gardens",
+   "blurbEs": "Museo de arte gratuito conocido por su colección de Matisse y sus jardines de esculturas"
+  }
+ ]
+}

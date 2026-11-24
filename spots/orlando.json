@@ -1,0 +1,137 @@
+{
+ "city": "orlando",
+ "updated": "2026-11-24",
+ "source": "Restaurant and bar picks from the 2026 MICHELIN Guide (Orlando) and Time Out Orlando (Jan 2026); coordinates from MICHELIN Guide restaurant pages, latlong.net, Waymarking, Sygic Travel and official/Wikiwand pages",
+ "spots": [
+  {
+   "name": "Kaya",
+   "kind": "dinner",
+   "cuisine": "Filipino",
+   "area": "Mills 50",
+   "lat": 28.55208,
+   "lon": -81.36558
+  },
+  {
+   "name": "Edoboy",
+   "kind": "dinner",
+   "cuisine": "Sushi",
+   "area": "Mills 50",
+   "lat": 28.55427,
+   "lon": -81.36591
+  },
+  {
+   "name": "Kadence",
+   "kind": "dinner",
+   "cuisine": "Japanese omakase",
+   "area": "Audubon Park",
+   "lat": 28.56873,
+   "lon": -81.34587
+  },
+  {
+   "name": "Coro",
+   "kind": "dinner",
+   "cuisine": "Contemporary small plates",
+   "area": "Audubon Park",
+   "lat": 28.5678,
+   "lon": -81.34536
+  },
+  {
+   "name": "Mills Market",
+   "kind": "lunch",
+   "cuisine": "Asian food hall",
+   "area": "Mills 50",
+   "lat": 28.55299,
+   "lon": -81.36504
+  },
+  {
+   "name": "Swine & Sons",
+   "kind": "lunch",
+   "cuisine": "Sandwiches and burgers",
+   "area": "Milk District",
+   "lat": 28.5449,
+   "lon": -81.3518
+  },
+  {
+   "name": "Tori Tori",
+   "kind": "drinks",
+   "cuisine": "Japanese pub and cocktails",
+   "area": "Mills 50",
+   "lat": 28.55395,
+   "lon": -81.36466
+  },
+  {
+   "name": "Otto's High Dive",
+   "kind": "drinks",
+   "cuisine": "Cuban rum bar",
+   "area": "Milk District",
+   "lat": 28.54581,
+   "lon": -81.35262
+  },
+  {
+   "name": "Lake Eola Park",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 28.54502,
+   "lon": -81.37286,
+   "price": "Free",
+   "blurb": "Downtown lake loop with swan boats, the fountain and city views",
+   "blurbEs": "Lago del centro con paseo, botes en forma de cisne, la fuente y vistas de la ciudad"
+  },
+  {
+   "name": "Orlando Science Center",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Loch Haven Park",
+   "lat": 28.5724,
+   "lon": -81.3681,
+   "price": "Tickets",
+   "blurb": "Four floors of hands-on science exhibits, plus a giant-screen dome theater",
+   "blurbEs": "Cuatro pisos de exhibiciones científicas interactivas y un cine de pantalla gigante"
+  },
+  {
+   "name": "Orlando Museum of Art",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Loch Haven Park",
+   "lat": 28.5724,
+   "lon": -81.36575,
+   "price": "Tickets",
+   "blurb": "The city's art museum, with American and contemporary collections",
+   "blurbEs": "El museo de arte de la ciudad, con colecciones de arte estadounidense y contemporáneo"
+  },
+  {
+   "name": "Harry P. Leu Gardens",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Audubon Park",
+   "lat": 28.56777,
+   "lon": -81.35725,
+   "price": "Tickets",
+   "blurb": "Botanical garden and historic house museum near downtown",
+   "blurbEs": "Jardín botánico y casa museo histórica cerca del centro"
+  },
+  {
+   "name": "Charles Hosmer Morse Museum of American Art",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Winter Park",
+   "lat": 28.60081,
+   "lon": -81.3513,
+   "price": "Tickets",
+   "blurb": "World's largest collection of Louis Comfort Tiffany glass, including his chapel",
+   "blurbEs": "La mayor colección del mundo de vidrio de Louis Comfort Tiffany, incluida su capilla"
+  },
+  {
+   "name": "Loch Haven Park",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Loch Haven Park",
+   "lat": 28.5725,
+   "lon": -81.3668,
+   "price": "Free",
+   "blurb": "Lakeside park that ties together the city's museums and theaters",
+   "blurbEs": "Parque junto a lagos que reúne los museos y teatros de la ciudad"
+  }
+ ]
+}

@@ -1,0 +1,209 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Nashville
+X-WR-CALDESC:Hand-checked weekend picks in Nashville, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:nashville-brett-eldredge-ryman-fri-0@weekendscout.app
+DTSTAMP:20261124T140636Z
+DTSTART:20261128T020000Z
+DTEND:20261128T040000Z
+SUMMARY:Brett Eldredge: Glow 10 Year Anniversary Tour
+LOCATION:Ryman Auditorium\, 116 Rep. John Lewis Way N\, Nashville\, TN 372
+ 19
+DESCRIPTION:Brett Eldredge marks ten years of his Christmas album Glow wit
+ h three nights at the Ryman. Tickets. Details: https://weekendscout.app/e/
+ nashville/brett-eldredge-ryman/
+URL:https://weekendscout.app/e/nashville/brett-eldredge-ryman/
+END:VEVENT
+BEGIN:VEVENT
+UID:nashville-brett-eldredge-ryman-sat-0@weekendscout.app
+DTSTAMP:20261124T140636Z
+DTSTART:20261129T020000Z
+DTEND:20261129T040000Z
+SUMMARY:Brett Eldredge: Glow 10 Year Anniversary Tour
+LOCATION:Ryman Auditorium\, 116 Rep. John Lewis Way N\, Nashville\, TN 372
+ 19
+DESCRIPTION:Brett Eldredge marks ten years of his Christmas album Glow wit
+ h three nights at the Ryman. Tickets. Details: https://weekendscout.app/e/
+ nashville/brett-eldredge-ryman/
+URL:https://weekendscout.app/e/nashville/brett-eldredge-ryman/
+END:VEVENT
+BEGIN:VEVENT
+UID:nashville-brett-eldredge-ryman-sun-0@weekendscout.app
+DTSTAMP:20261124T140636Z
+DTSTART:20261130T013000Z
+DTEND:20261130T033000Z
+SUMMARY:Brett Eldredge: Glow 10 Year Anniversary Tour
+LOCATION:Ryman Auditorium\, 116 Rep. John Lewis Way N\, Nashville\, TN 372
+ 19
+DESCRIPTION:Brett Eldredge marks ten years of his Christmas album Glow wit
+ h three nights at the Ryman. Tickets. Details: https://weekendscout.app/e/
+ nashville/brett-eldredge-ryman/
+URL:https://weekendscout.app/e/nashville/brett-eldredge-ryman/
+END:VEVENT
+BEGIN:VEVENT
+UID:nashville-predators-mammoth-black-friday-fri-0@weekendscout.app
+DTSTAMP:20261124T140636Z
+DTSTART:20261127T180000Z
+DTEND:20261127T200000Z
+SUMMARY:Predators vs. Utah Mammoth
+LOCATION:Bridgestone Arena\, 501 Broadway\, Nashville\, TN 37203
+DESCRIPTION:The Preds host Utah in a Black Friday matinee at noon. Tickets
+ . Details: https://weekendscout.app/e/nashville/predators-mammoth-black-fr
+ iday/
+URL:https://weekendscout.app/e/nashville/predators-mammoth-black-friday/
+END:VEVENT
+BEGIN:VEVENT
+UID:nashville-nashville-ballet-nutcracker-fri-0@weekendscout.app
+DTSTAMP:20261124T140636Z
+DTSTART:20261127T200000Z
+DTEND:20261127T220000Z
+SUMMARY:Nashville's Nutcracker
+LOCATION:TPAC Jackson Hall\, 505 Deaderick St\, Nashville\, TN 37243
+DESCRIPTION:Nashville Ballet's holiday production opens with 2 p.m. matine
+ es Friday and Saturday and runs through Dec. 27. Tickets. Details: https:/
+ /weekendscout.app/e/nashville/nashville-ballet-nutcracker/
+URL:https://weekendscout.app/e/nashville/nashville-ballet-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:nashville-nashville-ballet-nutcracker-sat-0@weekendscout.app
+DTSTAMP:20261124T140636Z
+DTSTART:20261128T200000Z
+DTEND:20261128T220000Z
+SUMMARY:Nashville's Nutcracker
+LOCATION:TPAC Jackson Hall\, 505 Deaderick St\, Nashville\, TN 37243
+DESCRIPTION:Nashville Ballet's holiday production opens with 2 p.m. matine
+ es Friday and Saturday and runs through Dec. 27. Tickets. Details: https:/
+ /weekendscout.app/e/nashville/nashville-ballet-nutcracker/
+URL:https://weekendscout.app/e/nashville/nashville-ballet-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:nashville-nashville-zoo-glow-wild-fri-0@weekendscout.app
+DTSTAMP:20261124T140636Z
+DTSTART:20261127T230000Z
+DTEND:20261128T030000Z
+SUMMARY:Glow Wild at Nashville Zoo
+LOCATION:Nashville Zoo at Grassmere\, 3777 Nolensville Pike\, Nashville\, 
+ TN 37211
+DESCRIPTION:The zoo's new holiday lights event runs nightly through Jan. 3
+ \, with Santa on Festival Field starting Friday. Kids under 2 are free. $2
+ 7. Details: https://weekendscout.app/e/nashville/nashville-zoo-glow-wild/
+URL:https://weekendscout.app/e/nashville/nashville-zoo-glow-wild/
+END:VEVENT
+BEGIN:VEVENT
+UID:nashville-nashville-zoo-glow-wild-sat-0@weekendscout.app
+DTSTAMP:20261124T140636Z
+DTSTART:20261128T230000Z
+DTEND:20261129T030000Z
+SUMMARY:Glow Wild at Nashville Zoo
+LOCATION:Nashville Zoo at Grassmere\, 3777 Nolensville Pike\, Nashville\, 
+ TN 37211
+DESCRIPTION:The zoo's new holiday lights event runs nightly through Jan. 3
+ \, with Santa on Festival Field starting Friday. Kids under 2 are free. $2
+ 7. Details: https://weekendscout.app/e/nashville/nashville-zoo-glow-wild/
+URL:https://weekendscout.app/e/nashville/nashville-zoo-glow-wild/
+END:VEVENT
+BEGIN:VEVENT
+UID:nashville-nashville-zoo-glow-wild-sun-0@weekendscout.app
+DTSTAMP:20261124T140636Z
+DTSTART:20261129T230000Z
+DTEND:20261130T030000Z
+SUMMARY:Glow Wild at Nashville Zoo
+LOCATION:Nashville Zoo at Grassmere\, 3777 Nolensville Pike\, Nashville\, 
+ TN 37211
+DESCRIPTION:The zoo's new holiday lights event runs nightly through Jan. 3
+ \, with Santa on Festival Field starting Friday. Kids under 2 are free. $2
+ 7. Details: https://weekendscout.app/e/nashville/nashville-zoo-glow-wild/
+URL:https://weekendscout.app/e/nashville/nashville-zoo-glow-wild/
+END:VEVENT
+BEGIN:VEVENT
+UID:nashville-nashville-yards-tree-lighting-sat-0@weekendscout.app
+DTSTAMP:20261124T140636Z
+DTSTART:20261128T230000Z
+DTEND:20261129T010000Z
+SUMMARY:Nashville Yards Christmas Tree Lighting
+LOCATION:Nashville Yards\, 21 Platform Way\, Nashville\, TN 37203
+DESCRIPTION:Nashville Yards lights its Christmas tree at 5 p.m. as part of
+  its Holiday Central season\, with photos with Santa. Free RSVP. Free. Det
+ ails: https://weekendscout.app/e/nashville/nashville-yards-tree-lighting/
+URL:https://weekendscout.app/e/nashville/nashville-yards-tree-lighting/
+END:VEVENT
+BEGIN:VEVENT
+UID:nashville-nashville-yards-merry-market-sat-0@weekendscout.app
+DTSTAMP:20261124T140636Z
+DTSTART:20261128T220000Z
+DTEND:20261129T000000Z
+SUMMARY:Merry Market
+LOCATION:Nashville Yards\, 21 Platform Way\, Nashville\, TN 37203
+DESCRIPTION:A holiday pop-up market at Nashville Yards on Saturday and Sun
+ day. Free RSVP. Free. Details: https://weekendscout.app/e/nashville/nashvi
+ lle-yards-merry-market/
+URL:https://weekendscout.app/e/nashville/nashville-yards-merry-market/
+END:VEVENT
+BEGIN:VEVENT
+UID:nashville-nashville-yards-merry-market-sun-0@weekendscout.app
+DTSTAMP:20261124T140636Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Merry Market
+LOCATION:Nashville Yards\, 21 Platform Way\, Nashville\, TN 37203
+DESCRIPTION:A holiday pop-up market at Nashville Yards on Saturday and Sun
+ day. Free RSVP. Free. Details: https://weekendscout.app/e/nashville/nashvi
+ lle-yards-merry-market/
+URL:https://weekendscout.app/e/nashville/nashville-yards-merry-market/
+END:VEVENT
+BEGIN:VEVENT
+UID:nashville-gaylord-opryland-country-christmas-fri-0@weekendscout.app
+DTSTAMP:20261124T140636Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:A Country Christmas at Gaylord Opryland
+LOCATION:Gaylord Opryland Resort\, 2800 Opryland Dr\, Nashville\, TN 37214
+DESCRIPTION:Walk the resort's holiday displays and catch the free light an
+ d fountain show in the Delta Atrium\; ICE! and other attractions are ticke
+ ted. On Friday and Saturday\, visitors without a reservation should arrive
+  before 3 p.m.\; Sunday is open all day. Free to look\; ICE! ticketed. Det
+ ails: https://weekendscout.app/e/nashville/gaylord-opryland-country-christ
+ mas/
+URL:https://weekendscout.app/e/nashville/gaylord-opryland-country-christmas/
+END:VEVENT
+BEGIN:VEVENT
+UID:nashville-gaylord-opryland-country-christmas-sat-0@weekendscout.app
+DTSTAMP:20261124T140636Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:A Country Christmas at Gaylord Opryland
+LOCATION:Gaylord Opryland Resort\, 2800 Opryland Dr\, Nashville\, TN 37214
+DESCRIPTION:Walk the resort's holiday displays and catch the free light an
+ d fountain show in the Delta Atrium\; ICE! and other attractions are ticke
+ ted. On Friday and Saturday\, visitors without a reservation should arrive
+  before 3 p.m.\; Sunday is open all day. Free to look\; ICE! ticketed. Det
+ ails: https://weekendscout.app/e/nashville/gaylord-opryland-country-christ
+ mas/
+URL:https://weekendscout.app/e/nashville/gaylord-opryland-country-christmas/
+END:VEVENT
+BEGIN:VEVENT
+UID:nashville-gaylord-opryland-country-christmas-sun-0@weekendscout.app
+DTSTAMP:20261124T140636Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:A Country Christmas at Gaylord Opryland
+LOCATION:Gaylord Opryland Resort\, 2800 Opryland Dr\, Nashville\, TN 37214
+DESCRIPTION:Walk the resort's holiday displays and catch the free light an
+ d fountain show in the Delta Atrium\; ICE! and other attractions are ticke
+ ted. On Friday and Saturday\, visitors without a reservation should arrive
+  before 3 p.m.\; Sunday is open all day. Free to look\; ICE! ticketed. Det
+ ails: https://weekendscout.app/e/nashville/gaylord-opryland-country-christ
+ mas/
+URL:https://weekendscout.app/e/nashville/gaylord-opryland-country-christmas/
+END:VEVENT
+END:VCALENDAR

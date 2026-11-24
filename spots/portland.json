@@ -1,0 +1,129 @@
+{
+ "city": "portland",
+ "updated": "2026-11-24",
+ "source": "Dinner/drinks picks from Portland Monthly's 50 best restaurants (Nov 2026) plus Deschutes Brewery's own pub page; restaurant coordinates from OpenTable listing metadata; sights from Mapcarta, latitude.to, Wikiwand and Lewis & Clark travel listing",
+ "spots": [
+  {
+   "name": "Le Pigeon",
+   "kind": "dinner",
+   "cuisine": "French tasting menu",
+   "area": "Buckman",
+   "lat": 45.52281,
+   "lon": -122.65784
+  },
+  {
+   "name": "Higgins",
+   "kind": "dinner",
+   "cuisine": "Pacific Northwest seasonal",
+   "area": "Downtown",
+   "lat": 45.51557,
+   "lon": -122.682
+  },
+  {
+   "name": "Nodoguro",
+   "kind": "dinner",
+   "cuisine": "Japanese kaiseki",
+   "area": "Downtown",
+   "lat": 45.52056,
+   "lon": -122.67957
+  },
+  {
+   "name": "RingSide Steakhouse",
+   "kind": "dinner",
+   "cuisine": "Steakhouse",
+   "area": "Northwest District",
+   "lat": 45.52348,
+   "lon": -122.6958
+  },
+  {
+   "name": "Nostrana",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "Buckman",
+   "lat": 45.51773,
+   "lon": -122.65116
+  },
+  {
+   "name": "Deschutes Brewery Portland Public House",
+   "kind": "lunch",
+   "cuisine": "Brewpub",
+   "area": "Pearl District",
+   "lat": 45.52465,
+   "lon": -122.68187
+  },
+  {
+   "name": "Arden",
+   "kind": "drinks",
+   "cuisine": "Wine bar",
+   "area": "Pearl District",
+   "lat": 45.52609,
+   "lon": -122.68148
+  },
+  {
+   "name": "Powell's City of Books",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Pearl District",
+   "lat": 45.52334,
+   "lon": -122.68164,
+   "price": "Free",
+   "blurb": "Block-sized new and used bookstore with color-coded rooms",
+   "blurbEs": "Enorme librería de libros nuevos y usados que ocupa toda una manzana"
+  },
+  {
+   "name": "Portland Japanese Garden",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Washington Park",
+   "lat": 45.51886,
+   "lon": -122.70804,
+   "price": "Tickets",
+   "blurb": "Hillside Japanese garden with ponds, a tea house and city views",
+   "blurbEs": "Jardín japonés en la colina con estanques, casa de té y vistas de la ciudad"
+  },
+  {
+   "name": "International Rose Test Garden",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Washington Park",
+   "lat": 45.51908,
+   "lon": -122.70557,
+   "price": "Free",
+   "blurb": "Terraced rose garden with thousands of bushes and views of downtown",
+   "blurbEs": "Rosaleda en terrazas con miles de rosales y vistas del centro"
+  },
+  {
+   "name": "Lan Su Chinese Garden",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Old Town Chinatown",
+   "lat": 45.52565,
+   "lon": -122.67299,
+   "price": "Tickets",
+   "blurb": "Walled Ming-style Chinese garden with a teahouse in Old Town",
+   "blurbEs": "Jardín chino amurallado al estilo Ming con casa de té en Old Town"
+  },
+  {
+   "name": "Portland Art Museum",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 45.51621,
+   "lon": -122.68351,
+   "price": "Tickets",
+   "blurb": "The city's main art museum, from Native American art to modern works",
+   "blurbEs": "El principal museo de arte de la ciudad, desde arte nativo americano hasta obras modernas"
+  },
+  {
+   "name": "OMSI",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Central Eastside",
+   "lat": 45.50833,
+   "lon": -122.66556,
+   "price": "Tickets",
+   "blurb": "Hands-on science museum on the river with a planetarium and a submarine",
+   "blurbEs": "Museo de ciencias interactivo junto al río con planetario y submarino"
+  }
+ ]
+}
