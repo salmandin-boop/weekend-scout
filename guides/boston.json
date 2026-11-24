@@ -1,0 +1,150 @@
+{
+ "city": "boston",
+ "updated": "2026-11-24",
+ "source": "Meet Boston 2026 lights trail; WBUR (Nov 6, 2026); Boston.com",
+ "guides": [
+  {
+   "slug": "christmas-lights",
+   "title": "Christmas lights",
+   "icon": "🎄",
+   "until": "2027-01-03",
+   "updated": "2026-11-24",
+   "intro": "The best holiday light displays in and around Boston this season, with 2026 dates checked against the organizers and local guides.",
+   "items": [
+    {
+     "name": "Boston Common tree lighting",
+     "dates": "Thu Dec 3",
+     "venue": "Boston Common",
+     "area": "Downtown",
+     "addr": "139 Tremont St, Boston, MA 02111",
+     "price": "free",
+     "priceLabel": "Free",
+     "start": "2026-12-03",
+     "blurb": "The city lights the Common and the Public Garden, including the spruce Nova Scotia sends every year.",
+     "blurbEs": "La ciudad ilumina el Common y el Public Garden, incluido el abeto que envía Nueva Escocia cada año.",
+     "kids": true
+    },
+    {
+     "name": "Commonwealth Avenue Mall lights",
+     "dates": "Lit from Thu Dec 3",
+     "venue": "Commonwealth Avenue Mall",
+     "area": "Back Bay",
+     "addr": "Commonwealth Ave & Arlington St, Boston, MA 02116",
+     "price": "free",
+     "priceLabel": "Free",
+     "start": "2026-12-03",
+     "blurb": "White lights in the trees along the mall, framed by Victorian brownstones. A classic evening walk.",
+     "blurbEs": "Luces blancas en los árboles del paseo, entre casas victorianas. Un clásico paseo nocturno."
+    },
+    {
+     "name": "Faneuil Hall tree",
+     "dates": "Lit Sat Nov 21",
+     "venue": "Faneuil Hall Marketplace",
+     "area": "Downtown",
+     "addr": "4 S Market St, Boston, MA 02109",
+     "price": "free",
+     "priceLabel": "Free",
+     "start": "2026-11-21",
+     "blurb": "One of the city's tallest holiday trees, with white-lit trees all around the marketplace.",
+     "blurbEs": "Uno de los árboles navideños más altos de la ciudad, con árboles de luces blancas alrededor.",
+     "kids": true
+    },
+    {
+     "name": "Christopher Columbus Park trellis",
+     "dates": "Lit from Mon Nov 23",
+     "venue": "Christopher Columbus Park",
+     "area": "North End waterfront",
+     "addr": "110 Atlantic Ave, Boston, MA 02110",
+     "price": "free",
+     "priceLabel": "Free",
+     "start": "2026-11-23",
+     "blurb": "A curved trellis glowing blue that you can walk through, right on the harbor.",
+     "blurbEs": "Una pérgola curva iluminada de azul que puedes atravesar, junto al puerto.",
+     "kids": true
+    },
+    {
+     "name": "Light Up Seaport",
+     "dates": "Tree lit Fri Dec 4, 6 PM",
+     "venue": "Seaport",
+     "area": "Seaport",
+     "addr": "85 Northern Ave, Boston, MA 02210",
+     "price": "free",
+     "priceLabel": "Free",
+     "start": "2026-12-04",
+     "blurb": "A 52-foot tree with 10,000 lights is switched on next to the Snowport market.",
+     "blurbEs": "Un árbol de 52 pies con 10,000 luces se enciende junto al mercado Snowport.",
+     "kids": true
+    }
+   ]
+  },
+  {
+   "slug": "holiday-markets",
+   "title": "Holiday markets",
+   "icon": "🛍️",
+   "until": "2026-12-27",
+   "updated": "2026-11-24",
+   "intro": "Where to shop local for the holidays in Boston: Christmas markets, makers fairs and holiday villages running this season.",
+   "items": [
+    {
+     "name": "Snowport",
+     "dates": "Nov 6 – Dec 27 (closed Thanksgiving & Christmas)",
+     "venue": "Seaport",
+     "area": "Seaport",
+     "addr": "100 Seaport Blvd, Boston, MA 02210",
+     "price": "free",
+     "priceLabel": "Free entry; fast pass $15",
+     "start": "2026-11-06",
+     "end": "2026-12-27",
+     "url": "https://www.bostonseaport.xyz/holidaymarket",
+     "blurb": "Boston's biggest holiday market: 125+ vendors, food, themed bars and iceless curling.",
+     "blurbEs": "El mayor mercado navideño de Boston: más de 125 vendedores, comida, bares temáticos y curling sin hielo.",
+     "kids": true
+    },
+    {
+     "name": "SoWa Christmas Market",
+     "dates": "Nov 20 – Dec 27",
+     "venue": "SoWa Power Station",
+     "area": "South End",
+     "addr": "550 Harrison Ave, Boston, MA 02118",
+     "price": "paid",
+     "priceLabel": "$10; 12 and under free",
+     "start": "2026-11-20",
+     "end": "2026-12-27",
+     "url": "https://www.sowaboston.com/sowa-christmas-market/",
+     "blurb": "100+ vendors in a historic power station, with Santa photos and live music.",
+     "blurbEs": "Más de 100 vendedores en una antigua central eléctrica, con fotos con Santa y música en vivo.",
+     "kids": true
+    },
+    {
+     "name": "Harvard Square Holiday Fair",
+     "dates": "Dec 11–13 & 18–20; Fri noon–7, Sat 11–7, Sun noon–6",
+     "venue": "The Galeria",
+     "area": "Cambridge",
+     "addr": "57 John F Kennedy St, Cambridge, MA 02138",
+     "price": "free",
+     "priceLabel": "Free",
+     "start": "2026-12-11",
+     "end": "2026-12-20",
+     "url": "https://www.harvardsquareholidayfair.com/",
+     "blurb": "A long-running artisan fair with jewelry, pottery and handmade gifts.",
+     "blurbEs": "Una feria de artesanos de larga tradición con joyería, cerámica y regalos hechos a mano.",
+     "kids": true
+    },
+    {
+     "name": "Boston Women's Market",
+     "dates": "Sun Nov 29, 11 AM–4 PM",
+     "venue": "Arts at the Armory",
+     "area": "Somerville",
+     "addr": "191 Highland Ave, Somerville, MA 02143",
+     "price": "free",
+     "priceLabel": "Free",
+     "start": "2026-11-29",
+     "url": "https://www.bostonwomensmarket.com/events-calendar",
+     "blurb": "More than 30 local, women-owned businesses in one place.",
+     "blurbEs": "Más de 30 negocios locales de mujeres en un solo lugar.",
+     "kids": true
+    }
+   ]
+  }
+ ]
+}

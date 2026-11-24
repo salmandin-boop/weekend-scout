@@ -1,0 +1,161 @@
+{
+ "city": "philadelphia",
+ "updated": "2026-11-24",
+ "source": "Visit Philadelphia (updated Nov 20, 2026); PhillyVoice 2026",
+ "guides": [
+  {
+   "slug": "christmas-lights",
+   "title": "Christmas lights",
+   "icon": "🎄",
+   "until": "2027-01-10",
+   "updated": "2026-11-24",
+   "intro": "The best holiday light displays in and around Philadelphia this season, with 2026 dates checked against the organizers and local guides.",
+   "items": [
+    {
+     "name": "Philly Holiday Tree at City Hall",
+     "dates": "Lit Dec 3 at 6 PM; through Jan 2",
+     "venue": "City Hall",
+     "area": "Center City",
+     "addr": "1400 John F Kennedy Blvd, Philadelphia, PA 19107",
+     "price": "free",
+     "priceLabel": "Free",
+     "start": "2026-12-03",
+     "end": "2027-01-02",
+     "url": "https://phillyholidaytree.com/event/6abc-presents-city-of-philadelphia-tree-lighting-celebration/",
+     "blurb": "The city's tree outside City Hall, lit at a free celebration on Dec 3.",
+     "blurbEs": "El árbol de la ciudad frente al Ayuntamiento, encendido en una celebración gratis el 3 de diciembre.",
+     "kids": true
+    },
+    {
+     "name": "Electrical Spectacle Light Show",
+     "dates": "Nov 19 – Jan 3 (select dates)",
+     "venue": "Franklin Square",
+     "area": "Old City",
+     "addr": "200 N 6th St, Philadelphia, PA 19106",
+     "price": "free",
+     "priceLabel": "Free",
+     "start": "2026-11-19",
+     "end": "2027-01-03",
+     "url": "https://www.visitphilly.com/things-to-do/events/electrical-spectacle-holiday-light-show-at-franklin-square/",
+     "blurb": "Hundreds of thousands of lights choreographed to holiday music, plus mini golf.",
+     "blurbEs": "Cientos de miles de luces coreografiadas con música navideña, además de minigolf.",
+     "kids": true
+    },
+    {
+     "name": "LumiNature at the Philadelphia Zoo",
+     "dates": "Nov 19 – Jan 2 (select dates)",
+     "venue": "Philadelphia Zoo",
+     "area": "West Philadelphia",
+     "addr": "3400 W Girard Ave, Philadelphia, PA 19104",
+     "price": "paid",
+     "priceLabel": "Tickets",
+     "start": "2026-11-19",
+     "end": "2027-01-02",
+     "url": "https://www.visitphilly.com/things-to-do/events/luminature-philadelphia-zoo/",
+     "blurb": "Thousands of lights across the zoo, a Santa lodge, seasonal food and live performers.",
+     "blurbEs": "Miles de luces en el zoológico, la cabaña de Santa, comida de temporada y artistas en vivo.",
+     "kids": true
+    },
+    {
+     "name": "Boathouse Row Holiday Lights",
+     "dates": "Dec 3 – Jan 1",
+     "venue": "Boathouse Row",
+     "area": "Fairmount Park",
+     "addr": "1 Boathouse Row, Philadelphia, PA 19130",
+     "price": "free",
+     "priceLabel": "Free",
+     "start": "2026-12-03",
+     "end": "2027-01-01",
+     "url": "https://myphillypark.org/boathouse-row-lights-celebrate-the-winter-holidays/",
+     "blurb": "The famous boathouses glow in colors for Hanukkah, Christmas and Kwanzaa. Best seen from Kelly Drive.",
+     "blurbEs": "Las famosas casas de botes brillan con colores de Janucá, Navidad y Kwanzaa. Mejor desde Kelly Drive.",
+     "kids": true
+    },
+    {
+     "name": "Miracle on South 13th Street",
+     "dates": "Nov 28 – Jan 1, 5–10 PM nightly",
+     "venue": "1600 block of S 13th St",
+     "area": "South Philly",
+     "addr": "1600 S 13th St, Philadelphia, PA 19148",
+     "price": "free",
+     "priceLabel": "Free",
+     "start": "2026-11-28",
+     "end": "2027-01-01",
+     "blurb": "A whole block of over-the-top decorated rowhomes in South Philly.",
+     "blurbEs": "Una cuadra entera de casas decoradas a lo grande en el sur de Filadelfia.",
+     "kids": true
+    },
+    {
+     "name": "A Longwood Christmas",
+     "dates": "Nov 20 – Jan 10",
+     "venue": "Longwood Gardens",
+     "area": "Kennett Square (45 min)",
+     "addr": "1001 Longwood Rd, Kennett Square, PA 19348",
+     "price": "paid",
+     "priceLabel": "Timed tickets",
+     "start": "2026-11-20",
+     "end": "2027-01-10",
+     "url": "https://www.visitphilly.com/things-to-do/events/longwood-gardens-christmas/",
+     "blurb": "Outdoor lights, illuminated fountain shows and decorated conservatories.",
+     "blurbEs": "Luces al aire libre, espectáculos de fuentes iluminadas e invernaderos decorados.",
+     "kids": true
+    }
+   ]
+  },
+  {
+   "slug": "holiday-markets",
+   "title": "Holiday markets",
+   "icon": "🛍️",
+   "until": "2027-01-01",
+   "updated": "2026-11-24",
+   "intro": "Where to shop local for the holidays in Philadelphia: Christmas markets, makers fairs and holiday villages running this season.",
+   "items": [
+    {
+     "name": "Christmas Village in Philadelphia",
+     "dates": "Nov 21–22 preview; Nov 26 – Dec 27 (closed Dec 25); Sun–Thu noon–8, Fri–Sat to 9",
+     "venue": "LOVE Park & City Hall",
+     "area": "Center City",
+     "addr": "1500 Arch St, Philadelphia, PA 19102",
+     "price": "free",
+     "priceLabel": "Free entry",
+     "start": "2026-11-21",
+     "end": "2026-12-27",
+     "url": "https://www.visitphilly.com/things-to-do/attractions/christmas-village-in-philadelphia/",
+     "blurb": "An open-air German-style market with 100+ vendors, a Ferris wheel and a carousel.",
+     "blurbEs": "Un mercado alemán al aire libre con más de 100 vendedores, rueda de la fortuna y carrusel.",
+     "kids": true
+    },
+    {
+     "name": "Made in Philadelphia Holiday Market",
+     "dates": "Through Jan 1",
+     "venue": "Dilworth Park",
+     "area": "Center City",
+     "addr": "1 S 15th St, Philadelphia, PA 19102",
+     "price": "free",
+     "priceLabel": "Free to browse",
+     "start": "2026-11-13",
+     "end": "2027-01-01",
+     "url": "https://www.madeinphila.com",
+     "blurb": "Local artisans, designers and jewelers next to the Dilworth Park rink and Wintergarden.",
+     "blurbEs": "Artesanos, diseñadores y joyeros locales junto a la pista y el jardín de invierno de Dilworth Park.",
+     "kids": true
+    },
+    {
+     "name": "Holidays at Peddler's Village",
+     "dates": "Nov 20 – Jan 18",
+     "venue": "Peddler's Village",
+     "area": "Lahaska (45 min)",
+     "addr": "100 Peddlers Village, Lahaska, PA 18931",
+     "price": "free",
+     "priceLabel": "Free",
+     "start": "2026-11-20",
+     "end": "2027-01-18",
+     "url": "https://www.visitphilly.com/things-to-do/events/christmas-in-peddlers-village/",
+     "blurb": "A village of 65+ specialty shops under a million lights, with a gingerbread display.",
+     "blurbEs": "Un pueblo con más de 65 tiendas bajo un millón de luces y una exhibición de casitas de jengibre.",
+     "kids": true
+    }
+   ]
+  }
+ ]
+}

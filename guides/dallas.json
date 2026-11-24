@@ -1,0 +1,105 @@
+{
+ "city": "dallas",
+ "updated": "2026-11-24",
+ "source": "resident.com DFW Nov 2026; Dallas Arboretum",
+ "guides": [
+  {
+   "slug": "christmas-lights",
+   "title": "Christmas lights",
+   "icon": "🎄",
+   "until": "2027-01-03",
+   "updated": "2026-11-24",
+   "intro": "The best holiday light displays in and around Dallas this season, with 2026 dates checked against the organizers and local guides.",
+   "items": [
+    {
+     "name": "Holiday at the Arboretum",
+     "dates": "Nov 11 – Jan 3; evenings 5–10 PM",
+     "venue": "Dallas Arboretum",
+     "area": "White Rock Lake",
+     "addr": "8525 Garland Rd, Dallas, TX 75218",
+     "price": "paid",
+     "priceLabel": "$35–$40 evenings; Night Owl $15",
+     "start": "2026-11-11",
+     "end": "2027-01-03",
+     "url": "https://www.dallasarboretum.org/events-activities/holiday-at-the-arboretum/",
+     "blurb": "The final season of the 12 Days of Christmas gazebos, a Christmas Village and lit gardens over White Rock Lake.",
+     "blurbEs": "La última temporada de los kioscos de los 12 días de Navidad, un pueblo navideño y jardines iluminados.",
+     "kids": true
+    },
+    {
+     "name": "Dallas Zoo Lights",
+     "dates": "Nov 13 – Jan 3",
+     "venue": "Dallas Zoo",
+     "area": "Oak Cliff",
+     "addr": "650 S R L Thornton Fwy, Dallas, TX 75203",
+     "price": "paid",
+     "priceLabel": "From $19; parking $15",
+     "start": "2026-11-13",
+     "end": "2027-01-03",
+     "url": "https://www.dallaszoo.com/event/lights/",
+     "blurb": "A walking trail of more than two million lights and glowing animal sculptures.",
+     "blurbEs": "Un sendero con más de dos millones de luces y esculturas de animales iluminadas.",
+     "kids": true
+    },
+    {
+     "name": "The Trains at NorthPark",
+     "dates": "Nov 14 – Jan 3",
+     "venue": "NorthPark Center",
+     "area": "North Dallas",
+     "addr": "8687 N Central Expy, Dallas, TX 75225",
+     "price": "paid",
+     "priceLabel": "Tickets (benefits Ronald McDonald House)",
+     "start": "2026-11-14",
+     "end": "2027-01-03",
+     "url": "https://rmhdallas.org/event/the-trains-at-northpark/",
+     "blurb": "A beloved model-railway exhibit with tiny landmarks and holiday scenes.",
+     "blurbEs": "Una querida exhibición de trenes a escala con monumentos en miniatura y escenas navideñas.",
+     "kids": true
+    },
+    {
+     "name": "ICE! at Gaylord Texan",
+     "dates": "Nov 13 – Jan 3",
+     "venue": "Gaylord Texan Resort",
+     "area": "Grapevine (25 min)",
+     "addr": "1501 Gaylord Trail, Grapevine, TX 76051",
+     "price": "paid",
+     "priceLabel": "Tickets",
+     "start": "2026-11-13",
+     "end": "2027-01-03",
+     "blurb": "Over two million pounds of carved ice with Harry Potter scenes and ice slides. It's 9°F inside; parkas provided.",
+     "blurbEs": "Más de dos millones de libras de hielo tallado con escenas de Harry Potter y toboganes. Hace 9°F adentro.",
+     "kids": true
+    },
+    {
+     "name": "Prairie Lights",
+     "dates": "Nov 26 – Dec 31, 6–10 PM nightly",
+     "venue": "Lynn Creek Park",
+     "area": "Grand Prairie (25 min)",
+     "addr": "5610 Lake Ridge Pkwy, Grand Prairie, TX 75052",
+     "price": "paid",
+     "priceLabel": "Per vehicle",
+     "start": "2026-11-26",
+     "end": "2026-12-31",
+     "url": "https://www.gptx.org/Community-Calendar/Prairie-Lights-2026",
+     "blurb": "A two-mile drive-through with about four million lights and light tunnels.",
+     "blurbEs": "Un recorrido en auto de dos millas con unos cuatro millones de luces y túneles de luz.",
+     "kids": true
+    },
+    {
+     "name": "Christmas in the Garden",
+     "dates": "Nov 20 – Jan 3, 5:30–9 PM",
+     "venue": "Fort Worth Botanic Garden",
+     "area": "Fort Worth (40 min)",
+     "addr": "3220 Botanic Garden Blvd, Fort Worth, TX 76107",
+     "price": "paid",
+     "priceLabel": "Tickets",
+     "start": "2026-11-20",
+     "end": "2027-01-03",
+     "blurb": "A one-mile trail of light installations set to holiday music, with Santa nightly through Dec 24.",
+     "blurbEs": "Un sendero de una milla con instalaciones de luz y música navideña, con Santa hasta el 24.",
+     "kids": true
+    }
+   ]
+  }
+ ]
+}

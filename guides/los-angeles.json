@@ -1,0 +1,143 @@
+{
+ "city": "los-angeles",
+ "updated": "2026-11-24",
+ "source": "resident.com and HOLA! USA Nov 2026 guides; organizers' sites",
+ "guides": [
+  {
+   "slug": "christmas-lights",
+   "title": "Christmas lights",
+   "icon": "🎄",
+   "until": "2027-01-10",
+   "updated": "2026-11-24",
+   "intro": "The best holiday light displays in and around Los Angeles this season, with 2026 dates checked against the organizers and local guides.",
+   "items": [
+    {
+     "name": "L.A. Zoo Lights",
+     "dates": "Nov 20 – Jan 10 (closed Nov 26, Dec 24, 25, 31)",
+     "venue": "Los Angeles Zoo",
+     "area": "Griffith Park",
+     "addr": "5333 Zoo Dr, Los Angeles, CA 90027",
+     "price": "paid",
+     "priceLabel": "Tickets",
+     "start": "2026-11-20",
+     "end": "2027-01-10",
+     "url": "https://lazoo.org/plan-your-visit/special-experiences/zoolights/",
+     "blurb": "Illuminated animal sculptures, glowing paths and projections, with a skating rink and Santa visits.",
+     "blurbEs": "Esculturas de animales iluminadas, senderos brillantes y proyecciones, con pista de patinaje y visitas de Santa.",
+     "kids": true
+    },
+    {
+     "name": "Enchanted: Forest of Light",
+     "dates": "Nov 22 – Jan 9 (closed Thanksgiving & Christmas)",
+     "venue": "Descanso Gardens",
+     "area": "La Cañada Flintridge (20 min)",
+     "addr": "1418 Descanso Dr, La Cañada Flintridge, CA 91011",
+     "price": "paid",
+     "priceLabel": "Timed tickets",
+     "start": "2026-11-22",
+     "end": "2027-01-09",
+     "url": "https://www.descansogardens.org/enchanted/",
+     "blurb": "A nighttime walk through illuminated gardens and art installations, now in its 10th year.",
+     "blurbEs": "Un paseo nocturno entre jardines iluminados e instalaciones de arte, en su décimo año.",
+     "kids": true
+    },
+    {
+     "name": "Christmas at The Grove tree lighting",
+     "dates": "Mon Nov 16, evening",
+     "venue": "The Grove",
+     "area": "Fairfax",
+     "addr": "189 The Grove Dr, Los Angeles, CA 90036",
+     "price": "free",
+     "priceLabel": "Free (space limited)",
+     "start": "2026-11-16",
+     "url": "https://thegrovela.com/events/25th-annual-christmas-at-the-grove/",
+     "blurb": "The 25th tree lighting with live performances, fireworks, a drone show and falling 'snow'.",
+     "blurbEs": "El encendido número 25 con espectáculos, fuegos artificiales, drones y 'nieve'.",
+     "kids": true
+    },
+    {
+     "name": "Enchant Los Angeles",
+     "dates": "Nov 20 – Dec 27, timed entry",
+     "venue": "Santa Anita Park",
+     "area": "Arcadia (25 min)",
+     "addr": "285 W Huntington Dr, Arcadia, CA 91007",
+     "price": "paid",
+     "priceLabel": "Timed tickets",
+     "start": "2026-11-20",
+     "end": "2026-12-27",
+     "url": "https://www.enchantchristmas.com/los-angeles/",
+     "blurb": "A light maze of huge illuminated sculptures, plus an ice-skating trail and holiday market stalls.",
+     "blurbEs": "Un laberinto de luces con esculturas gigantes, sendero de patinaje y puestos navideños.",
+     "kids": true
+    },
+    {
+     "name": "Holidays at Universal Studios Hollywood",
+     "dates": "Nov 21 – Jan 3",
+     "venue": "Universal Studios Hollywood",
+     "area": "Universal City",
+     "addr": "100 Universal City Plaza, Universal City, CA 91608",
+     "price": "paid",
+     "priceLabel": "Included with park admission",
+     "start": "2026-11-21",
+     "end": "2027-01-03",
+     "blurb": "Grinchmas in Whoville, Christmas in the Wizarding World and a nightly projection show on Hogwarts Castle.",
+     "blurbEs": "Grinchmas en Villa Quién, Navidad en el Mundo Mágico y un espectáculo nocturno en el castillo de Hogwarts.",
+     "kids": true
+    }
+   ]
+  },
+  {
+   "slug": "holiday-markets",
+   "title": "Holiday markets",
+   "icon": "🛍️",
+   "until": "2027-01-03",
+   "updated": "2026-11-24",
+   "intro": "Where to shop local for the holidays in Los Angeles: Christmas markets, makers fairs and holiday villages running this season.",
+   "items": [
+    {
+     "name": "Swiss Winter Village",
+     "dates": "Nov 18 – Jan 3",
+     "venue": "Santa Monica Pier",
+     "area": "Santa Monica",
+     "addr": "200 Santa Monica Pier, Santa Monica, CA 90401",
+     "price": "check",
+     "priceLabel": "Check details",
+     "start": "2026-11-18",
+     "end": "2027-01-03",
+     "blurb": "A Zurich-style market with 60+ chalets, Swiss food and drink, live music and an oceanfront ice rink.",
+     "blurbEs": "Un mercado al estilo de Zúrich con más de 60 casetas, comida suiza, música y una pista de hielo frente al mar.",
+     "kids": true
+    },
+    {
+     "name": "Holiday Ice Festival & Village",
+     "dates": "Nov 27 – Jan 3; village to 10 PM",
+     "venue": "L.A. LIVE",
+     "area": "Downtown",
+     "addr": "800 W Olympic Blvd, Los Angeles, CA 90015",
+     "price": "check",
+     "priceLabel": "Free village; skating extra",
+     "start": "2026-11-27",
+     "end": "2027-01-03",
+     "url": "https://www.lalive.com/events/detail/holiday-ice-26-27",
+     "blurb": "Outdoor skating beside a holiday village of 20+ market vendors, food and Santa's Workshop.",
+     "blurbEs": "Patinaje al aire libre junto a un pueblo navideño con más de 20 vendedores, comida y el taller de Santa.",
+     "kids": true
+    },
+    {
+     "name": "Ovation Hollywood Holiday Market",
+     "dates": "Nov 21 – Dec 24",
+     "venue": "Ovation Hollywood",
+     "area": "Hollywood",
+     "addr": "6801 Hollywood Blvd, Los Angeles, CA 90028",
+     "price": "free",
+     "priceLabel": "Mostly free",
+     "start": "2026-11-21",
+     "end": "2026-12-24",
+     "blurb": "A family-friendly market of women-owned small businesses, plus crafts, screenings and Santa photos.",
+     "blurbEs": "Un mercado familiar de pequeños negocios de mujeres, con manualidades, películas y fotos con Santa.",
+     "kids": true
+    }
+   ]
+  }
+ ]
+}

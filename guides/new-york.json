@@ -1,0 +1,182 @@
+{
+ "city": "new-york",
+ "updated": "2026-11-24",
+ "source": "resident.com and Time Out New York 2026 guides; organizers' sites (Nov 2026)",
+ "guides": [
+  {
+   "slug": "christmas-lights",
+   "title": "Christmas lights",
+   "icon": "🎄",
+   "until": "2027-01-07",
+   "updated": "2026-11-24",
+   "intro": "The best holiday light displays in and around New York this season, with 2026 dates checked against the organizers and local guides.",
+   "items": [
+    {
+     "name": "Rockefeller Center Christmas Tree",
+     "dates": "Lit Dec 2; on view through the holidays",
+     "venue": "Rockefeller Plaza",
+     "area": "Midtown",
+     "addr": "Rockefeller Plaza, New York, NY 10111",
+     "price": "free",
+     "priceLabel": "Free to see",
+     "start": "2026-12-02",
+     "blurb": "The city's most famous tree is lit on Dec 2 and stays up through the season. Go late at night or early morning to skip the crowds.",
+     "blurbEs": "El árbol más famoso de la ciudad se enciende el 2 de diciembre y sigue toda la temporada. Ve tarde en la noche o temprano para evitar multitudes.",
+     "kids": true
+    },
+    {
+     "name": "Lightscape at Brooklyn Botanic Garden",
+     "dates": "Select evenings, Nov 20 – Jan 3",
+     "venue": "Brooklyn Botanic Garden",
+     "area": "Prospect Heights, Brooklyn",
+     "addr": "990 Washington Ave, Brooklyn, NY 11225",
+     "price": "paid",
+     "priceLabel": "Timed tickets",
+     "start": "2026-11-20",
+     "end": "2027-01-03",
+     "url": "https://www.bbg.org/lightscape",
+     "blurb": "An after-dark trail of large light sculptures, projections across trees and water, and sound installations.",
+     "blurbEs": "Un recorrido nocturno con grandes esculturas de luz, proyecciones sobre árboles y agua, e instalaciones de sonido.",
+     "kids": true
+    },
+    {
+     "name": "Bronx Zoo Holiday Lights",
+     "dates": "Nov 21 – Jan 3; lantern trails from 4:30 PM",
+     "venue": "Bronx Zoo",
+     "area": "The Bronx",
+     "addr": "2300 Southern Blvd, Bronx, NY 10460",
+     "price": "paid",
+     "priceLabel": "Advance tickets online",
+     "start": "2026-11-21",
+     "end": "2027-01-03",
+     "url": "https://bronxzoo.com/holiday-lights",
+     "blurb": "Animal lanterns, glowing trails and musical light shows, with the Children's Zoo farmyard open at night. Regular zoo tickets don't include it.",
+     "blurbEs": "Faroles de animales, senderos iluminados y espectáculos de luces con música. La entrada normal del zoológico no lo incluye.",
+     "kids": true
+    },
+    {
+     "name": "Shine Bright at Hudson Yards",
+     "dates": "Nov 16 – Jan 7",
+     "venue": "Hudson Yards",
+     "area": "West Side",
+     "addr": "20 Hudson Yards, New York, NY 10001",
+     "price": "free",
+     "priceLabel": "Free",
+     "start": "2026-11-16",
+     "end": "2027-01-07",
+     "url": "https://www.hudsonyardsnewyork.com/shine-bright-hudson-yards",
+     "blurb": "More than two million lights across the neighborhood and a new light show on the outside of the Vessel.",
+     "blurbEs": "Más de dos millones de luces en el barrio y un nuevo espectáculo de luces en el exterior del Vessel.",
+     "kids": true
+    },
+    {
+     "name": "Winter Lantern Festival: Illuminate the Farm",
+     "dates": "Select evenings, Nov 19 – Jan 3",
+     "venue": "Queens County Farm Museum",
+     "area": "Glen Oaks, Queens",
+     "addr": "73-50 Little Neck Pkwy, Glen Oaks, NY 11004",
+     "price": "paid",
+     "priceLabel": "Tickets",
+     "start": "2026-11-19",
+     "end": "2027-01-03",
+     "blurb": "Handcrafted Chinese lanterns, live performances and food vendors on a historic working farm. Free parking; under 3 free.",
+     "blurbEs": "Faroles chinos artesanales, espectáculos en vivo y comida en una granja histórica. Estacionamiento gratis; menores de 3 gratis.",
+     "kids": true
+    }
+   ]
+  },
+  {
+   "slug": "holiday-markets",
+   "title": "Holiday markets",
+   "icon": "🛍️",
+   "until": "2027-01-03",
+   "updated": "2026-11-24",
+   "intro": "Where to shop local for the holidays in New York: Christmas markets, makers fairs and holiday villages running this season.",
+   "items": [
+    {
+     "name": "Bryant Park Winter Village",
+     "dates": "Through Jan 3; Mon–Fri 11 AM–8 PM, Sat–Sun 10 AM–8 PM",
+     "venue": "Bryant Park",
+     "area": "Midtown",
+     "addr": "6th Ave between 40th & 42nd St, New York, NY 10018",
+     "price": "free",
+     "priceLabel": "Free to browse",
+     "start": "2026-10-30",
+     "end": "2027-01-03",
+     "blurb": "Over 180 holiday kiosks around a free-admission skating rink (bring your own skates).",
+     "blurbEs": "Más de 180 casetas navideñas junto a una pista de patinaje gratis (trae tus patines).",
+     "kids": true
+    },
+    {
+     "name": "Union Square Holiday Market",
+     "dates": "Nov 12 – Dec 24; Sun–Wed 11 AM–8 PM, Thu–Fri to 9, Sat 10 AM–9 PM",
+     "venue": "Union Square Park",
+     "area": "Union Square",
+     "addr": "Union Square Park, New York, NY 10003",
+     "price": "free",
+     "priceLabel": "Free to browse",
+     "start": "2026-11-12",
+     "end": "2026-12-24",
+     "blurb": "A European-style market with 185+ vendors, food, wine and beer.",
+     "blurbEs": "Un mercado al estilo europeo con más de 185 vendedores, comida, vino y cerveza.",
+     "kids": true
+    },
+    {
+     "name": "Grand Central Holiday Fair",
+     "dates": "Nov 9 – Dec 24; Mon–Sat 10 AM–7 PM, Sun 11 AM–6 PM",
+     "venue": "Vanderbilt Hall, Grand Central Terminal",
+     "area": "Midtown East",
+     "addr": "89 E 42nd St, New York, NY 10017",
+     "price": "free",
+     "priceLabel": "Free to browse",
+     "start": "2026-11-09",
+     "end": "2026-12-24",
+     "blurb": "An indoor fair with 35 local food and craft vendors, right inside the terminal.",
+     "blurbEs": "Una feria bajo techo con 35 vendedores locales de comida y artesanías, dentro de la terminal.",
+     "kids": true
+    },
+    {
+     "name": "Columbus Circle Holiday Market",
+     "dates": "Dec 1–31; Mon–Thu 11 AM–7 PM, Fri–Sun 10 AM–8 PM",
+     "venue": "Columbus Circle",
+     "area": "Central Park South",
+     "addr": "Columbus Circle, New York, NY 10019",
+     "price": "free",
+     "priceLabel": "Free to browse",
+     "start": "2026-12-01",
+     "end": "2026-12-31",
+     "blurb": "A parkside market of handmade goods from local artisans and food vendors.",
+     "blurbEs": "Un mercado junto al parque con artesanías locales y puestos de comida.",
+     "kids": true
+    },
+    {
+     "name": "Macy's Holiday Square",
+     "dates": "Dec 3 – Jan 2; Mon–Sat 11 AM–8 PM, Sun 11 AM–7 PM",
+     "venue": "Herald Square",
+     "area": "Midtown",
+     "addr": "Broadway from 32nd to 36th St, New York, NY 10001",
+     "price": "free",
+     "priceLabel": "Free to browse",
+     "start": "2026-12-03",
+     "end": "2027-01-02",
+     "blurb": "Food, drinks and shopping steps from Macy's holiday windows.",
+     "blurbEs": "Comida, bebidas y compras a pasos de las vitrinas navideñas de Macy's.",
+     "kids": true
+    },
+    {
+     "name": "FAD Market Dumbo",
+     "dates": "Daily Nov 30 – Dec 20, 11 AM–6 PM",
+     "venue": "Empire Stores",
+     "area": "Dumbo, Brooklyn",
+     "addr": "55 Water St, Brooklyn, NY 11201",
+     "price": "free",
+     "priceLabel": "Free to browse",
+     "start": "2026-11-30",
+     "end": "2026-12-20",
+     "blurb": "A curated pop-up of fashion, art, design and food from local makers.",
+     "blurbEs": "Un pop-up de moda, arte, diseño y comida de creadores locales."
+    }
+   ]
+  }
+ ]
+}

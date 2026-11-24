@@ -1,0 +1,154 @@
+{
+ "city": "chicago",
+ "updated": "2026-11-24",
+ "source": "Choose Chicago 2026 holiday lights guide; NBC Chicago (Nov 15, 2026)",
+ "guides": [
+  {
+   "slug": "christmas-lights",
+   "title": "Christmas lights",
+   "icon": "🎄",
+   "until": "2027-01-10",
+   "updated": "2026-11-24",
+   "intro": "The best holiday light displays in and around Chicago this season, with 2026 dates checked against the organizers and local guides.",
+   "items": [
+    {
+     "name": "ZooLights",
+     "dates": "Nov 20 – Jan 3",
+     "venue": "Lincoln Park Zoo",
+     "area": "Lincoln Park",
+     "addr": "2001 N Clark St, Chicago, IL 60614",
+     "price": "check",
+     "priceLabel": "Free Mondays with reservation",
+     "start": "2026-11-20",
+     "end": "2027-01-03",
+     "blurb": "Millions of lights across the zoo with light shows, a Ferris wheel and Santa visits.",
+     "blurbEs": "Millones de luces en el zoológico, con espectáculos de luces, rueda de la fortuna y visitas de Santa.",
+     "kids": true
+    },
+    {
+     "name": "City of Chicago Christmas Tree",
+     "dates": "Nov 20 – Jan 10",
+     "venue": "Millennium Park",
+     "area": "Loop",
+     "addr": "201 E Randolph St, Chicago, IL 60602",
+     "price": "free",
+     "priceLabel": "Free",
+     "start": "2026-11-20",
+     "end": "2027-01-10",
+     "blurb": "The city's tree on Michigan Avenue, lit with music and fireworks.",
+     "blurbEs": "El árbol de la ciudad en Michigan Avenue, encendido con música y fuegos artificiales.",
+     "kids": true
+    },
+    {
+     "name": "Lightscape",
+     "dates": "Nov 13 – Jan 3",
+     "venue": "Chicago Botanic Garden",
+     "area": "Glencoe (35 min)",
+     "addr": "1000 Lake Cook Rd, Glencoe, IL 60022",
+     "price": "paid",
+     "priceLabel": "Timed tickets",
+     "start": "2026-11-13",
+     "end": "2027-01-03",
+     "blurb": "A mile-long night trail of light, color and sound installations by artists from around the world.",
+     "blurbEs": "Un recorrido nocturno de una milla con instalaciones de luz, color y sonido.",
+     "kids": true
+    },
+    {
+     "name": "Illumination: Tree Lights",
+     "dates": "Nov 14 – Jan 2",
+     "venue": "The Morton Arboretum",
+     "area": "Lisle (40 min)",
+     "addr": "4100 IL-53, Lisle, IL 60532",
+     "price": "paid",
+     "priceLabel": "Timed tickets",
+     "start": "2026-11-14",
+     "end": "2027-01-02",
+     "blurb": "Nature-inspired light installations along a one-mile path, with fire pits and a model train. Some dog-friendly nights.",
+     "blurbEs": "Instalaciones de luz inspiradas en la naturaleza en un sendero de una milla, con fogatas y un tren a escala.",
+     "kids": true
+    },
+    {
+     "name": "Holiday Magic",
+     "dates": "Nov 21 – Jan 3",
+     "venue": "Brookfield Zoo Chicago",
+     "area": "Brookfield (30 min)",
+     "addr": "8400 31st St, Brookfield, IL 60513",
+     "price": "paid",
+     "priceLabel": "Tickets",
+     "start": "2026-11-21",
+     "end": "2027-01-03",
+     "blurb": "More than 3.5 million lights, glowing tunnels, a light maze and a carousel.",
+     "blurbEs": "Más de 3.5 millones de luces, túneles brillantes, un laberinto de luz y un carrusel.",
+     "kids": true
+    },
+    {
+     "name": "Christmas Around the World",
+     "dates": "Nov 7 – early January",
+     "venue": "Griffin Museum of Science and Industry",
+     "area": "Hyde Park",
+     "addr": "5700 S DuSable Lake Shore Dr, Chicago, IL 60637",
+     "price": "paid",
+     "priceLabel": "Museum admission",
+     "start": "2026-11-07",
+     "blurb": "A four-story Grand Tree surrounded by trees decorated for holiday traditions from around the world.",
+     "blurbEs": "Un gran árbol de cuatro pisos rodeado de árboles decorados según tradiciones de todo el mundo.",
+     "kids": true
+    }
+   ]
+  },
+  {
+   "slug": "holiday-markets",
+   "title": "Holiday markets",
+   "icon": "🛍️",
+   "until": "2026-12-31",
+   "updated": "2026-11-24",
+   "intro": "Where to shop local for the holidays in Chicago: Christmas markets, makers fairs and holiday villages running this season.",
+   "items": [
+    {
+     "name": "Christkindlmarket Chicago",
+     "dates": "Nov 20 – Dec 24; Fri–Sat 11 AM–9 PM, Sun–Thu to 8 PM",
+     "venue": "Daley Plaza",
+     "area": "Loop",
+     "addr": "50 W Washington St, Chicago, IL 60602",
+     "price": "free",
+     "priceLabel": "Free entry",
+     "start": "2026-11-20",
+     "end": "2026-12-24",
+     "url": "https://www.christkindlmarket.com/",
+     "blurb": "The 30th year of Chicago's German-style market: ornaments, mulled wine in souvenir mugs and bratwurst.",
+     "blurbEs": "El año 30 del mercado alemán de Chicago: adornos, vino caliente en tazas de recuerdo y salchichas.",
+     "kids": true
+    },
+    {
+     "name": "Christkindlmarket Wrigleyville",
+     "dates": "Nov 20 – Dec 31; Mon–Thu 3–9 PM, Fri–Sat 11 AM–9 PM, Sun to 7 PM",
+     "venue": "Gallagher Way",
+     "area": "Wrigleyville",
+     "addr": "3635 N Clark St, Chicago, IL 60613",
+     "price": "free",
+     "priceLabel": "Free entry",
+     "start": "2026-11-20",
+     "end": "2026-12-31",
+     "url": "https://www.christkindlmarket.com/wrigleyville/",
+     "blurb": "The market's second Chicago location, right outside Wrigley Field. Open through New Year's Eve.",
+     "blurbEs": "La segunda sede del mercado, junto a Wrigley Field. Abierto hasta Nochevieja.",
+     "kids": true
+    },
+    {
+     "name": "Christkindlmarket Aurora",
+     "dates": "Nov 20 – Dec 24, Thu–Sun",
+     "venue": "RiverEdge Park",
+     "area": "Aurora (45 min)",
+     "addr": "360 N Broadway, Aurora, IL 60505",
+     "price": "free",
+     "priceLabel": "Free entry",
+     "start": "2026-11-20",
+     "end": "2026-12-24",
+     "blurb": "A riverside suburban edition of the market, open Thursday through Sunday.",
+     "blurbEs": "Una versión del mercado junto al río, abierta de jueves a domingo.",
+     "kids": true
+    }
+   ]
+  }
+ ]
+}

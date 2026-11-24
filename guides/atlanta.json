@@ -1,0 +1,141 @@
+{
+ "city": "atlanta",
+ "updated": "2026-11-24",
+ "source": "FOX 5 Atlanta 2026 holiday guide",
+ "guides": [
+  {
+   "slug": "christmas-lights",
+   "title": "Christmas lights",
+   "icon": "🎄",
+   "until": "2027-01-10",
+   "updated": "2026-11-24",
+   "intro": "The best holiday light displays in and around Atlanta this season, with 2026 dates checked against the organizers and local guides.",
+   "items": [
+    {
+     "name": "Garden Lights, Holiday Nights",
+     "dates": "Nov 14 – Jan 10",
+     "venue": "Atlanta Botanical Garden",
+     "area": "Midtown",
+     "addr": "1345 Piedmont Ave NE, Atlanta, GA 30309",
+     "price": "paid",
+     "priceLabel": "Timed tickets",
+     "start": "2026-11-14",
+     "end": "2027-01-10",
+     "blurb": "The Garden's 16th light show, with the Tunnel of Light and a giant dragon.",
+     "blurbEs": "El 16.º espectáculo de luces del jardín, con el Túnel de Luz y un dragón gigante.",
+     "kids": true
+    },
+    {
+     "name": "Lights of Life",
+     "dates": "Nov 26 – Dec 31; sunset to 9 PM (10 PM Fri–Sat)",
+     "venue": "Life University",
+     "area": "Marietta (25 min)",
+     "addr": "1269 Barclay Cir, Marietta, GA 30060",
+     "price": "paid",
+     "priceLabel": "$15 per car",
+     "start": "2026-11-26",
+     "end": "2026-12-31",
+     "blurb": "A drive-through of more than a million lights with walk-around photo spots.",
+     "blurbEs": "Un recorrido en auto con más de un millón de luces y lugares para fotos.",
+     "kids": true
+    },
+    {
+     "name": "Stone Mountain Christmas",
+     "dates": "Through Dec 31",
+     "venue": "Stone Mountain Park",
+     "area": "Stone Mountain (30 min)",
+     "addr": "1000 Robert E Lee Blvd, Stone Mountain, GA 30083",
+     "price": "paid",
+     "priceLabel": "Tickets",
+     "start": "2026-11-14",
+     "end": "2026-12-31",
+     "blurb": "Over two million lights, holiday shows and park attractions.",
+     "blurbEs": "Más de dos millones de luces, espectáculos navideños y atracciones del parque.",
+     "kids": true
+    },
+    {
+     "name": "Lights on the Loop",
+     "dates": "Dec 4 – Jan 4, 5:30–11 PM",
+     "venue": "Alpha Loop",
+     "area": "Alpharetta (35 min)",
+     "addr": "Alpha Loop, Alpharetta, GA 30009",
+     "price": "free",
+     "priceLabel": "Free",
+     "start": "2026-12-04",
+     "end": "2027-01-04",
+     "blurb": "A mile-long light display along the trail, with live music on select nights.",
+     "blurbEs": "Una milla de luces a lo largo del sendero, con música en vivo algunas noches.",
+     "kids": true
+    },
+    {
+     "name": "Magical Nights of Lights",
+     "dates": "Nov 20 – Jan 3, 5–10 PM",
+     "venue": "Lanier Islands",
+     "area": "Buford (50 min)",
+     "addr": "7000 Lanier Islands Pkwy, Buford, GA 30518",
+     "price": "paid",
+     "priceLabel": "Per vehicle",
+     "start": "2026-11-20",
+     "end": "2027-01-03",
+     "blurb": "A classic drive-through light show at the lakeside resort.",
+     "blurbEs": "Un clásico recorrido en auto de luces en el resort junto al lago.",
+     "kids": true
+    }
+   ]
+  },
+  {
+   "slug": "holiday-markets",
+   "title": "Holiday markets",
+   "icon": "🛍️",
+   "until": "2026-12-24",
+   "updated": "2026-11-24",
+   "intro": "Where to shop local for the holidays in Atlanta: Christmas markets, makers fairs and holiday villages running this season.",
+   "items": [
+    {
+     "name": "Christkindl Market Lawrenceville",
+     "dates": "Nov 20 – Dec 24 (closed Thanksgiving)",
+     "venue": "Lawrenceville Lawn",
+     "area": "Lawrenceville (40 min)",
+     "addr": "210 Luckie St, Lawrenceville, GA 30046",
+     "price": "free",
+     "priceLabel": "Free",
+     "start": "2026-11-20",
+     "end": "2026-12-24",
+     "url": "https://christkindlmarket.org/lawrenceville",
+     "blurb": "An Old World-style market with handmade goods, food and drinks.",
+     "blurbEs": "Un mercado al estilo europeo con productos artesanales, comida y bebidas.",
+     "kids": true
+    },
+    {
+     "name": "Holiday Spirit at Oakland Cemetery",
+     "dates": "Dec 4–5",
+     "venue": "Historic Oakland Cemetery",
+     "area": "Grant Park",
+     "addr": "248 Oakland Ave SE, Atlanta, GA 30312",
+     "price": "check",
+     "priceLabel": "Check details",
+     "start": "2026-12-04",
+     "end": "2026-12-05",
+     "blurb": "A Victorian-style holiday market with live music and photos with Santa.",
+     "blurbEs": "Un mercado navideño de estilo victoriano con música en vivo y fotos con Santa.",
+     "kids": true
+    },
+    {
+     "name": "Brookhaven Holiday Bazaar",
+     "dates": "Sat Dec 5, 9 AM–noon; Sun Dec 6, 11 AM–2 PM",
+     "venue": "Brookhaven City Centre",
+     "area": "Brookhaven",
+     "addr": "Brookhaven City Centre, Brookhaven, GA 30319",
+     "price": "free",
+     "priceLabel": "Free",
+     "start": "2026-12-05",
+     "end": "2026-12-06",
+     "url": "https://brookhavenfarmersmarket.com/holiday-bazaar",
+     "blurb": "20+ local vendors selling artisan goods and gifts.",
+     "blurbEs": "Más de 20 vendedores locales con productos artesanales y regalos.",
+     "kids": true
+    }
+   ]
+  }
+ ]
+}

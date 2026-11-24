@@ -1,0 +1,120 @@
+{
+ "city": "houston",
+ "updated": "2026-11-24",
+ "source": "Visit Houston 2026 holiday lights guide",
+ "guides": [
+  {
+   "slug": "christmas-lights",
+   "title": "Christmas lights",
+   "icon": "🎄",
+   "until": "2027-01-03",
+   "updated": "2026-11-24",
+   "intro": "The best holiday light displays in and around Houston this season, with 2026 dates checked against the organizers and local guides.",
+   "items": [
+    {
+     "name": "Zoo Lights",
+     "dates": "Nov 19 – Jan 3, 5:30–10:30 PM (last entry 9:30)",
+     "venue": "Houston Zoo",
+     "area": "Museum District",
+     "addr": "6200 Hermann Park Dr, Houston, TX 77030",
+     "price": "paid",
+     "priceLabel": "Advance tickets only; under 2 free",
+     "start": "2026-11-19",
+     "end": "2027-01-03",
+     "url": "https://www.houstonzoo.org/events/txu-energy-presents-zoo-lights/",
+     "blurb": "Themed light areas, animal lanterns and oak trees wrapped in lights. No tickets sold at the gate.",
+     "blurbEs": "Zonas temáticas de luces, faroles de animales y robles cubiertos de luces. No se venden entradas en la puerta.",
+     "kids": true
+    },
+    {
+     "name": "City Lights Downtown Holiday Magic",
+     "dates": "Nov 21 – Dec 31",
+     "venue": "Downtown Houston",
+     "area": "Downtown",
+     "addr": "Downtown Houston, TX 77002",
+     "price": "free",
+     "priceLabel": "Mostly free",
+     "start": "2026-11-21",
+     "end": "2026-12-31",
+     "url": "https://www.visithoustontexas.com/citylights/",
+     "blurb": "Twelve themed holiday villages across downtown, an ice rink and family activities.",
+     "blurbEs": "Doce pueblos navideños temáticos en el centro, pista de hielo y actividades familiares.",
+     "kids": true
+    },
+    {
+     "name": "Galaxy Lights",
+     "dates": "Nov 14 – Jan 3",
+     "venue": "Space Center Houston",
+     "area": "Clear Lake (30 min)",
+     "addr": "1601 E NASA Pkwy, Houston, TX 77058",
+     "price": "paid",
+     "priceLabel": "Tickets",
+     "start": "2026-11-14",
+     "end": "2027-01-03",
+     "url": "https://spacecenter.org/galaxy-lights/",
+     "blurb": "Space-themed evening light displays and interactive experiences at NASA's visitor center.",
+     "blurbEs": "Luces nocturnas con tema espacial y experiencias interactivas en el centro de visitantes de la NASA.",
+     "kids": true
+    },
+    {
+     "name": "Radiant Nature",
+     "dates": "Nov 20 – Feb 21",
+     "venue": "Houston Botanic Garden",
+     "area": "Southeast Houston",
+     "addr": "1 Botanic Ln, Houston, TX 77017",
+     "price": "paid",
+     "priceLabel": "Tickets",
+     "start": "2026-11-20",
+     "end": "2027-02-21",
+     "url": "https://hbg.org/series/radiant-nature/",
+     "blurb": "A lantern festival with large installations, illuminated swings and photo spots.",
+     "blurbEs": "Un festival de faroles con grandes instalaciones, columpios iluminados y lugares para fotos.",
+     "kids": true
+    },
+    {
+     "name": "Christmas Village at Bayou Bend",
+     "dates": "Dec 4 – Dec 30",
+     "venue": "Bayou Bend Collection and Gardens",
+     "area": "River Oaks",
+     "addr": "6003 Memorial Dr, Houston, TX 77007",
+     "price": "paid",
+     "priceLabel": "Tickets",
+     "start": "2026-12-04",
+     "end": "2026-12-30",
+     "blurb": "Thousands of lights across a 14-acre estate, with house tours and sensory-friendly nights.",
+     "blurbEs": "Miles de luces en una finca de 14 acres, con visitas a la casa y noches para sensibilidad sensorial.",
+     "kids": true
+    },
+    {
+     "name": "Lights in the Heights",
+     "dates": "Sat Dec 12, evening",
+     "venue": "Woodland Heights",
+     "area": "The Heights",
+     "addr": "Woodland Heights, Houston, TX 77009",
+     "price": "free",
+     "priceLabel": "Free",
+     "start": "2026-12-12",
+     "url": "https://www.woodland-heights.org/2026-lights-in-the-heights",
+     "blurb": "A one-night neighborhood tradition of creative home displays on historic streets.",
+     "blurbEs": "Una tradición de una noche con casas decoradas de forma creativa en calles históricas.",
+     "kids": true
+    },
+    {
+     "name": "Sugar Land Holiday Lights",
+     "dates": "Nov 20 – Jan 3",
+     "venue": "Constellation Field",
+     "area": "Sugar Land (25 min)",
+     "addr": "1 Stadium Dr, Sugar Land, TX 77498",
+     "price": "paid",
+     "priceLabel": "Tickets (mini-golf included)",
+     "start": "2026-11-20",
+     "end": "2027-01-03",
+     "url": "https://www.sugarlandholidaylights.com/",
+     "blurb": "Millions of lights at the ballpark, nightly Santa visits through Dec 23, vendors and food.",
+     "blurbEs": "Millones de luces en el estadio, visitas de Santa hasta el 23 de diciembre, vendedores y comida.",
+     "kids": true
+    }
+   ]
+  }
+ ]
+}

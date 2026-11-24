@@ -1,0 +1,106 @@
+{
+ "city": "washington-dc",
+ "updated": "2026-11-24",
+ "source": "Washingtonian (Nov 19, 2026)",
+ "guides": [
+  {
+   "slug": "christmas-lights",
+   "title": "Christmas lights",
+   "icon": "🎄",
+   "until": "2027-01-03",
+   "updated": "2026-11-24",
+   "intro": "The best holiday light displays in and around Washington this season, with 2026 dates checked against the organizers and local guides.",
+   "items": [
+    {
+     "name": "ZooLights",
+     "dates": "Select nights Nov 20 – Jan 3",
+     "venue": "Smithsonian's National Zoo",
+     "area": "Woodley Park",
+     "addr": "3001 Connecticut Ave NW, Washington, DC 20008",
+     "price": "paid",
+     "priceLabel": "$10 ($19 adults-only night Dec 16)",
+     "start": "2026-11-20",
+     "end": "2027-01-03",
+     "url": "https://nationalzoo.si.edu/visit/events/zoolights",
+     "blurb": "Illuminated paths and light installations throughout the zoo, with hot cocoa.",
+     "blurbEs": "Senderos iluminados e instalaciones de luz en todo el zoológico, con chocolate caliente.",
+     "kids": true
+    },
+    {
+     "name": "Season's Greenings",
+     "dates": "Nov 26 – Jan 3 (closed Dec 25)",
+     "venue": "U.S. Botanic Garden",
+     "area": "National Mall",
+     "addr": "100 Maryland Ave SW, Washington, DC 20001",
+     "price": "free",
+     "priceLabel": "Free",
+     "start": "2026-11-26",
+     "end": "2027-01-03",
+     "url": "https://www.usbg.gov/holiday",
+     "blurb": "Model trains, plant-made replicas of national landmarks and festive lights. Free.",
+     "blurbEs": "Trenes a escala, réplicas de monumentos hechas de plantas y luces festivas. Gratis.",
+     "kids": true
+    },
+    {
+     "name": "Enchant at Nationals Park",
+     "dates": "Nov 20 – Dec 27",
+     "venue": "Nationals Park",
+     "area": "Navy Yard",
+     "addr": "1500 S Capitol St SE, Washington, DC 20003",
+     "price": "paid",
+     "priceLabel": "From $10",
+     "start": "2026-11-20",
+     "end": "2026-12-27",
+     "url": "https://www.mlb.com/nationals/tickets/events/enchant",
+     "blurb": "Light mazes, an ice-skating trail and Santa visits inside the ballpark.",
+     "blurbEs": "Laberintos de luz, un sendero de patinaje y visitas de Santa dentro del estadio.",
+     "kids": true
+    },
+    {
+     "name": "Wharf Holiday Boat Parade",
+     "dates": "Sat Dec 5",
+     "venue": "The Wharf",
+     "area": "Southwest Waterfront",
+     "addr": "45 Sutton Sq SW, Washington, DC 20024",
+     "price": "free",
+     "priceLabel": "Free",
+     "start": "2026-12-05",
+     "url": "https://www.wharfdc.com/boatparade/",
+     "blurb": "More than 60 lit-up boats parade past the Wharf, followed by fireworks.",
+     "blurbEs": "Más de 60 barcos iluminados desfilan por el Wharf, seguidos de fuegos artificiales.",
+     "kids": true
+    },
+    {
+     "name": "Spectacular Factory at ARTECHOUSE",
+     "dates": "Dec 4 – Jan 3",
+     "venue": "ARTECHOUSE",
+     "area": "Southwest",
+     "addr": "1238 Maryland Ave SW, Washington, DC 20024",
+     "price": "paid",
+     "priceLabel": "From $29; kids from $19",
+     "start": "2026-12-04",
+     "end": "2027-01-03",
+     "url": "https://www.artechouse.com/program/dc-holiday-special/",
+     "blurb": "An indoor digital-art holiday 'gift factory' with giant nutcrackers and a candy cane carousel, plus a themed bar.",
+     "blurbEs": "Una 'fábrica de regalos' de arte digital con cascanueces gigantes y un carrusel, más un bar temático.",
+     "kids": true
+    },
+    {
+     "name": "Meadowlark's Winter Walk of Lights",
+     "dates": "Through Jan 3",
+     "venue": "Meadowlark Botanical Gardens",
+     "area": "Vienna, VA (30 min)",
+     "addr": "9750 Meadowlark Gardens Ct, Vienna, VA 22182",
+     "price": "paid",
+     "priceLabel": "$20",
+     "start": "2026-11-13",
+     "end": "2027-01-03",
+     "url": "https://www.novaparks.com/events/winter-walk-of-lights",
+     "blurb": "A half-mile garden trail of nature-themed lights with a fire for s'mores.",
+     "blurbEs": "Un sendero de media milla con luces inspiradas en la naturaleza y fogata para malvaviscos.",
+     "kids": true
+    }
+   ]
+  }
+ ]
+}
