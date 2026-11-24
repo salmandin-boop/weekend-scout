@@ -134,3 +134,6 @@ The weekly update checks that every date-night event has at least 2 spots within
 ## v1.16 additions
 - **Help us pick:** in Saved, "Help us pick" lets someone choose 2–4 saved events and send one link (`/?city=x&vote=id,id,id&by=Name`). Friends see the options side by side; "Vote for this" opens their share sheet (or copies) with a reply message to send back. No accounts or server.
 - **Visiting pages:** `/<city>/visiting/` ("Visiting Buffalo this weekend?") built by build_pages.py from the events and spots files: a suggested Saturday (or Sunday) with a morning "always" pick, lunch, an afternoon event, dinner near the evening event, the evening event and a nightcap; then the best of the weekend and places worth seeing any time. The plan is only as good as spots/<city>.json: the weekly update keeps always/lunch/dinner/drinks stocked. Linked from the app ("Visiting X? See a one-day plan") and every city page.
+
+## v1.17 additions
+- **Now:** on Fri/Sat/Sun of the listed weekend a pulsing "Now" button appears next to Map. It shows only what's still ahead today (city time): events on now first (soonest-ending first), then by start time, with "Happening now" / "Starts in 40 min" badges refreshed every minute. When the day is done it offers "See <tomorrow>". Untimed listings (s:"") don't appear in Now.

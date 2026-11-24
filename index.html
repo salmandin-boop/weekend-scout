@@ -254,6 +254,10 @@ dialog.sheet[open]{animation:sheetUp .22s cubic-bezier(.2,.8,.2,1)}
 .nudge .btn{min-height:40px;padding:6px 12px}
 .form{display:grid;gap:10px}
 .muted-p{color:var(--muted);font-size:.9rem;margin:0 0 12px}
+.nowbtn .dot{width:8px;height:8px;border-radius:50%;background:#d93025;display:inline-block;margin-right:6px;box-shadow:0 0 0 0 rgba(217,48,37,.5);animation:nowpulse 2s infinite}
+.nowbtn[aria-pressed="true"]{background:var(--navy);color:var(--bg);border-color:var(--navy)}
+@keyframes nowpulse{70%{box-shadow:0 0 0 6px rgba(217,48,37,0)}100%{box-shadow:0 0 0 0 rgba(217,48,37,0)}}
+@media (prefers-reduced-motion:reduce){.nowbtn .dot{animation:none}}
 .visit-link{margin:18px 0 4px;font-weight:700}.visit-link a{color:var(--accent);text-decoration:none}
 .vote-list{display:grid;gap:10px}.vote-opt{border:1px solid var(--line);border-radius:14px;padding:12px 14px;background:var(--bg);display:grid;gap:4px}
 .vote-opt small{color:var(--muted)}.vote-opt p{margin:2px 0 6px;font-size:.9rem;color:var(--muted)}
@@ -365,7 +369,7 @@ dialog.sheet[open]{animation:sheetUp .22s cubic-bezier(.2,.8,.2,1)}
       <div class="active-f" id="active-f" hidden></div>
     </div>
     <div id="map" hidden></div>
-    <div class="countrow"><p class="count" id="count" aria-live="polite"></p><div class="viewtog"><button class="chip near" id="map-btn" type="button" data-map aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 4 3 6v14l6-2 6 2 6-2V4l-6 2-6-2ZM9 4v14M15 6v14"/></svg>Map</button><button class="chip near" id="share-city" type="button" data-sharecity aria-label="Send this weekend to a friend"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12M7 8l5-5 5 5M5 13v6a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-6"/></svg>Send</button><button class="chip near" id="near-btn" type="button" data-near aria-pressed="false" hidden data-keep-hidden><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7-6.2-7-11.5A7 7 0 0 1 19 9.5C19 14.8 12 21 12 21Z"/><circle cx="12" cy="9.5" r="2.5"/></svg>Nearest first</button></div></div>
+    <div class="countrow"><p class="count" id="count" aria-live="polite"></p><div class="viewtog"><button class="chip near nowbtn" id="now-btn" type="button" data-now aria-pressed="false" hidden><span class="dot" aria-hidden="true"></span>Now</button><button class="chip near" id="map-btn" type="button" data-map aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 4 3 6v14l6-2 6 2 6-2V4l-6 2-6-2ZM9 4v14M15 6v14"/></svg>Map</button><button class="chip near" id="share-city" type="button" data-sharecity aria-label="Send this weekend to a friend"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12M7 8l5-5 5 5M5 13v6a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-6"/></svg>Send</button><button class="chip near" id="near-btn" type="button" data-near aria-pressed="false" hidden data-keep-hidden><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7-6.2-7-11.5A7 7 0 0 1 19 9.5C19 14.8 12 21 12 21Z"/><circle cx="12" cy="9.5" r="2.5"/></svg>Nearest first</button></div></div>
     <div id="news-home"></div>
     <div class="list" id="list" tabindex="-1"><div class="skel"></div><div class="skel"></div><div class="skel"></div><div class="skel"></div></div>
     <div class="surprise"><button class="btn" type="button" data-surprise>🎲 Can't decide? Pick one for me</button></div>
@@ -458,7 +462,7 @@ dialog.sheet[open]{animation:sheetUp .22s cubic-bezier(.2,.8,.2,1)}
 
 <script>
 (() => {
-const APP_VERSION = '1.16.0';
+const APP_VERSION = '1.17.0';
 const SITE_URL = 'https://weekendscout.app/'; // the live address, so shared links point there
 const TZ0 = 'America/New_York';
 let TZ = TZ0; // switches to the chosen city's time zone
@@ -495,7 +499,7 @@ const ICON = {
 const APP_JSONLD_ID = 'ld-events';
 
 let DATA = null, offline = false, CITIES = [], CITY = null;
-const S = { view:'home', day:'all', cat:'all', good:'any', q:'', near:false };
+const S = { view:'home', day:'all', cat:'all', good:'any', q:'', near:false, now:false };
 let POS = null; // the phone's location, kept in memory only while the app is open
 let saved = new Set(store.get('ws-saved', store.get('stw-saved', [])));
 
@@ -523,6 +527,23 @@ function nowMins(){
   catch { const d = new Date(); return d.getHours() * 60 + d.getMinutes(); }
 }
 const fmtMins = m => { m = Math.max(0, Math.min(m, 23*60+59)); return fmt(`${String(Math.floor(m/60)).padStart(2,'0')}:${String(m%60).padStart(2,'0')}`); };
+// While Now is on, refresh countdowns every minute
+setInterval(() => { if (S.now && S.view === 'home' && DATA && !sheet.open && !document.hidden) renderHome(); }, 60000);
+/* ---------- Now: only what's still ahead today (on Fri/Sat/Sun of the listed weekend) ---------- */
+const todayKey = () => DATA ? DAYS.find(k => DATA.weekend.days[k] === todayISO()) || null : null;
+// Minutes until the next session today that hasn't ended: negative = already running (minus minutes left), null = nothing left
+function nowState(ev){
+  const d = todayKey(); if (!d) return null;
+  const now = nowMins(); let best = null;
+  for (const s of (ev.times[d] || [])){
+    if (!s.s) continue;
+    const st = mins(s.s), en = s.e ? mins(s.e) + (mins(s.e) <= st ? 1440 : 0) : st + 120;
+    if (en <= now) continue;
+    const v = st <= now ? -(en - now) : st - now;
+    if (best === null || (v < 0) > (best < 0) || ((v < 0) === (best < 0) && Math.abs(v) < Math.abs(best))) best = v;
+  }
+  return best;
+}
 // "Happening now" / "Starts in 2h" for today's sessions
 function liveLabel(ev){
   if (!DATA) return '';
@@ -532,7 +553,7 @@ function liveLabel(ev){
     if (!s.s) continue;
     const st = mins(s.s), en = s.e ? mins(s.e) : st + 120;
     if (now >= st && now < en) return '<span class="live now">Happening now</span>';
-    if (st > now && st - now <= 180){ const m = st - now; return `<span class="live">Starts in ${m < 60 ? m + ' min' : Math.round(m/60) + 'h'}</span>`; }
+    if (st > now && (S.now || st - now <= 180)){ const m = st - now; return `<span class="live">Starts in ${m < 60 ? m + ' min' : m < 600 ? (Math.round(m / 30) / 2) + 'h' : Math.round(m/60) + 'h'}</span>`; }
   }
   return '';
 }
@@ -598,6 +619,7 @@ function priceVal(ev){
 }
 function matches(ev, day, cat, q, good = S.good){
   if (good !== 'any' && !goodFor(ev).includes(good)) return false;
+  if (S.now && nowState(ev) === null) return false;
   if (day !== 'all' && !(ev.times[day] || []).length) return false;
   if (cat === 'free' && ev.price !== 'free') return false;
   if (cat === 'cheap'){ const v = priceVal(ev); if (v === null || v > 25) return false; }
@@ -628,6 +650,7 @@ function sortKey(ev, day){
 const distOf = ev => (POS && typeof ev.lat === 'number') ? milesBetween(POS[0], POS[1], ev.lat, ev.lon) : null;
 const distTxt = ev => { const d = distOf(ev); return d === null ? '' : d < 0.1 ? 'Here' : (d < 10 ? d.toFixed(1) : Math.round(d)) + ' mi'; };
 function sorted(evs, day){
+  if (S.now) return evs.slice().sort((a,b) => { const x = nowState(a), y = nowState(b); return (x < 0 ? -1e5 - x : x) - (y < 0 ? -1e5 - y : y) || a.title.localeCompare(b.title); });
   if (S.near && POS) return evs.slice().sort((a,b) => (isFeat(b) ? 1 : 0) - (isFeat(a) ? 1 : 0) || (isFeat(a) && isFeat(b) ? featIds().indexOf(a.id) - featIds().indexOf(b.id) : 0) || (distOf(a) ?? 1e9) - (distOf(b) ?? 1e9) || sortKey(a,day) - sortKey(b,day));
   return evs.slice().sort((a,b) => sortKey(a,day) - sortKey(b,day) || a.title.localeCompare(b.title));
 }
@@ -725,10 +748,12 @@ function openFilters(){
 function renderHome(){
   const nb = $('near-btn'); nb.hidden = true; nb.setAttribute('aria-pressed', String(S.near && !!POS));
   const evs = sorted(DATA.events.filter(e => matches(e, S.day, S.cat, S.q)), S.day);
-  const dayTxt = S.day === 'all' ? 'this weekend' : 'on ' + DAYNAME[S.day];
+  const nb2 = $('now-btn'), tk = todayKey(); nb2.hidden = !tk; if (!tk && S.now) S.now = false; nb2.setAttribute('aria-pressed', String(S.now));
+  const dayTxt = S.now ? (nowMins() >= 17 * 60 ? 'still ahead tonight' : 'still ahead today') : S.day === 'all' ? 'this weekend' : 'on ' + DAYNAME[S.day];
   $('count').textContent = !evs.length ? '' : S.good !== 'any'
     ? `${evs.length} ${GOODCOUNT[S.good][evs.length === 1 ? 0 : 1]} ${dayTxt}`
-    : `${evs.length} ${evs.length === 1 ? 'thing' : 'things'} to do ${dayTxt}`;
+    : S.now ? `${evs.length} ${evs.length === 1 ? 'thing' : 'things'} ${dayTxt}` : `${evs.length} ${evs.length === 1 ? 'thing' : 'things'} to do ${dayTxt}`;
+  if (!evs.length && S.now){ const nx = DAYS[DAYS.indexOf(todayKey()) + 1]; $('list').innerHTML = `<div class="empty"><h2>That's it for today</h2><p>Everything on today's list has wrapped up. Tomorrow's picks are ready.</p><div class="row-btns" style="justify-content:center"><button class="btn" type="button" data-now>Show all of ${esc(DAYNAME[S.day])}</button>${nx ? `<button class="btn primary" type="button" data-day="${nx}">See ${esc(DAYNAME[nx])}</button>` : ''}</div></div>`; return; }
   if (!evs.length){ $('list').innerHTML = `<div class="empty"><h2>Nothing matches</h2><p>Try another day or filter, or clear your search.</p><button class="btn" type="button" data-reset>Show everything</button></div>`; return; }
   const cards = evs.map(e => card(e, S.day));
   const wet = DAYS.filter(d => (S.day === 'all' || S.day === d) && (wxFor(DATA.weekend.days[d]) || {}).rain >= 60);
@@ -1208,7 +1233,8 @@ document.addEventListener('click', e => {
   if (t.dataset.open) return openSheet(t.dataset.open);
   if (t.dataset.save) return toggleSave(t.dataset.save);
   if (t.dataset.go) { closeSheet(); return show(t.dataset.go); }
-  if (t.dataset.day) { S.day = t.dataset.day; renderControls(); renderHome(); return; }
+  if (t.dataset.day) { S.day = t.dataset.day; S.now = false; renderControls(); renderHome(); return; }
+  if ('now' in t.dataset) { const k = todayKey(); if (!k) return; S.now = !S.now; if (S.now) S.day = k; closeSheet(); renderControls(); renderHome(); if (S.now) scrollToResults(); return; }
   if ('filters' in t.dataset) return openFilters();
   if ('lang' in t.dataset) return setLang(LANG === 'es' ? 'en' : 'es');
   if ('sharecity' in t.dataset) return shareCity();
@@ -1216,7 +1242,7 @@ document.addEventListener('click', e => {
   if (t.dataset.sort) { if ((t.dataset.sort === 'near') !== !!(S.near && POS)) toggleNear($('near-btn')); setTimeout(() => renderControls(), 0); return; }
   if (t.dataset.cat) { S.cat = (FILT_OPEN || t.dataset.cat !== S.cat) ? t.dataset.cat : 'all'; renderControls(); renderHome(); if (!FILT_OPEN) scrollToResults(); return; }
   if (t.dataset.good) { S.good = t.dataset.good === 'any' ? 'any' : (S.good === t.dataset.good && !FILT_OPEN ? 'any' : t.dataset.good); renderControls(); renderHome(); if (!FILT_OPEN) scrollToResults(); return; }
-  if ('reset' in t.dataset) { S.day = 'all'; S.cat = 'all'; S.good = 'any'; S.q = ''; $('q').value = ''; renderControls(); renderHome(); return; }
+  if ('reset' in t.dataset) { S.now = false; S.day = 'all'; S.cat = 'all'; S.good = 'any'; S.q = ''; $('q').value = ''; renderControls(); renderHome(); return; }
   if ('close' in t.dataset) return closeSheet();
   if (t.id === 'city-btn') return openCityPicker();
   if (t.dataset.city) { closeSheet(); return switchCity(t.dataset.city); }
