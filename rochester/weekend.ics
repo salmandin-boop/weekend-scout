@@ -1,0 +1,280 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Rochester
+X-WR-CALDESC:Hand-checked weekend picks in Rochester, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:rochester-roc-holiday-village-2026-fri-0@weekendscout.app
+DTSTAMP:20261124T004901Z
+DTSTART:20261127T160000Z
+DTEND:20261128T040000Z
+SUMMARY:ROC Holiday Village
+LOCATION:MLK Jr. Memorial Park\, 353 Court St\, Rochester\, NY 14607
+DESCRIPTION:Opens Black Friday: free outdoor skating\, a shopping village\
+ , Santa’s Workshop\, fire pits and food trucks downtown. Free. Details: 
+ https://weekendscout.app/e/rochester/roc-holiday-village-2026/
+URL:https://weekendscout.app/e/rochester/roc-holiday-village-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:rochester-roc-holiday-village-2026-sat-0@weekendscout.app
+DTSTAMP:20261124T004901Z
+DTSTART:20261128T160000Z
+DTEND:20261128T180000Z
+SUMMARY:ROC Holiday Village
+LOCATION:MLK Jr. Memorial Park\, 353 Court St\, Rochester\, NY 14607
+DESCRIPTION:Opens Black Friday: free outdoor skating\, a shopping village\
+ , Santa’s Workshop\, fire pits and food trucks downtown. Free. Details: 
+ https://weekendscout.app/e/rochester/roc-holiday-village-2026/
+URL:https://weekendscout.app/e/rochester/roc-holiday-village-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:rochester-roc-holiday-village-2026-sun-0@weekendscout.app
+DTSTAMP:20261124T004901Z
+DTSTART:20261129T160000Z
+DTEND:20261129T180000Z
+SUMMARY:ROC Holiday Village
+LOCATION:MLK Jr. Memorial Park\, 353 Court St\, Rochester\, NY 14607
+DESCRIPTION:Opens Black Friday: free outdoor skating\, a shopping village\
+ , Santa’s Workshop\, fire pits and food trucks downtown. Free. Details: 
+ https://weekendscout.app/e/rochester/roc-holiday-village-2026/
+URL:https://weekendscout.app/e/rochester/roc-holiday-village-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:rochester-nutcracker-rpo-2026-fri-0@weekendscout.app
+DTSTAMP:20261124T004901Z
+DTSTART:20261127T190000Z
+DTEND:20261127T210000Z
+SUMMARY:The Nutcracker
+LOCATION:Kodak Hall at Eastman Theatre\, 60 Gibbs St\, Rochester\, NY 1460
+ 4
+DESCRIPTION:Rochester City Ballet dances the holiday classic with the Roch
+ ester Philharmonic playing live. Tickets. Details: https://weekendscout.ap
+ p/e/rochester/nutcracker-rpo-2026/
+URL:https://weekendscout.app/e/rochester/nutcracker-rpo-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:rochester-nutcracker-rpo-2026-fri-1@weekendscout.app
+DTSTAMP:20261124T004901Z
+DTSTART:20261128T000000Z
+DTEND:20261128T020000Z
+SUMMARY:The Nutcracker
+LOCATION:Kodak Hall at Eastman Theatre\, 60 Gibbs St\, Rochester\, NY 1460
+ 4
+DESCRIPTION:Rochester City Ballet dances the holiday classic with the Roch
+ ester Philharmonic playing live. Tickets. Details: https://weekendscout.ap
+ p/e/rochester/nutcracker-rpo-2026/
+URL:https://weekendscout.app/e/rochester/nutcracker-rpo-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:rochester-nutcracker-rpo-2026-sat-0@weekendscout.app
+DTSTAMP:20261124T004901Z
+DTSTART:20261128T190000Z
+DTEND:20261128T210000Z
+SUMMARY:The Nutcracker
+LOCATION:Kodak Hall at Eastman Theatre\, 60 Gibbs St\, Rochester\, NY 1460
+ 4
+DESCRIPTION:Rochester City Ballet dances the holiday classic with the Roch
+ ester Philharmonic playing live. Tickets. Details: https://weekendscout.ap
+ p/e/rochester/nutcracker-rpo-2026/
+URL:https://weekendscout.app/e/rochester/nutcracker-rpo-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:rochester-nutcracker-rpo-2026-sat-1@weekendscout.app
+DTSTAMP:20261124T004901Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:The Nutcracker
+LOCATION:Kodak Hall at Eastman Theatre\, 60 Gibbs St\, Rochester\, NY 1460
+ 4
+DESCRIPTION:Rochester City Ballet dances the holiday classic with the Roch
+ ester Philharmonic playing live. Tickets. Details: https://weekendscout.ap
+ p/e/rochester/nutcracker-rpo-2026/
+URL:https://weekendscout.app/e/rochester/nutcracker-rpo-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:rochester-nutcracker-rpo-2026-sun-0@weekendscout.app
+DTSTAMP:20261124T004901Z
+DTSTART:20261129T190000Z
+DTEND:20261129T210000Z
+SUMMARY:The Nutcracker
+LOCATION:Kodak Hall at Eastman Theatre\, 60 Gibbs St\, Rochester\, NY 1460
+ 4
+DESCRIPTION:Rochester City Ballet dances the holiday classic with the Roch
+ ester Philharmonic playing live. Tickets. Details: https://weekendscout.ap
+ p/e/rochester/nutcracker-rpo-2026/
+URL:https://weekendscout.app/e/rochester/nutcracker-rpo-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:rochester-geva-christmas-carol-2026-sat-0@weekendscout.app
+DTSTAMP:20261124T004901Z
+DTSTART:20261129T003000Z
+DTEND:20261129T023000Z
+SUMMARY:A Christmas Carol
+LOCATION:Geva Theatre\, 75 Woodbury Blvd\, Rochester\, NY 14607
+DESCRIPTION:Geva’s yearly staging of Dickens\, with kids’ tickets (age
+ s 5–12) from $24. From $32. Details: https://weekendscout.app/e/rocheste
+ r/geva-christmas-carol-2026/
+URL:https://weekendscout.app/e/rochester/geva-christmas-carol-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:rochester-holiday-laser-rmsc-2026-fri-0@weekendscout.app
+DTSTAMP:20261124T004901Z
+DTSTART:20261127T150000Z
+DTEND:20261127T170000Z
+SUMMARY:Holiday Laser
+LOCATION:Strasenburgh Planetarium\, 657 East Ave\, Rochester\, NY 14607
+DESCRIPTION:Holiday songs set to lasers on the planetarium dome. Saturday 
+ night also has Laser Daft Punk and Dark Side of the Moon. Tickets. Details
+ : https://weekendscout.app/e/rochester/holiday-laser-rmsc-2026/
+URL:https://weekendscout.app/e/rochester/holiday-laser-rmsc-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:rochester-holiday-laser-rmsc-2026-fri-1@weekendscout.app
+DTSTAMP:20261124T004901Z
+DTSTART:20261127T170000Z
+DTEND:20261127T190000Z
+SUMMARY:Holiday Laser
+LOCATION:Strasenburgh Planetarium\, 657 East Ave\, Rochester\, NY 14607
+DESCRIPTION:Holiday songs set to lasers on the planetarium dome. Saturday 
+ night also has Laser Daft Punk and Dark Side of the Moon. Tickets. Details
+ : https://weekendscout.app/e/rochester/holiday-laser-rmsc-2026/
+URL:https://weekendscout.app/e/rochester/holiday-laser-rmsc-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:rochester-holiday-laser-rmsc-2026-fri-2@weekendscout.app
+DTSTAMP:20261124T004901Z
+DTSTART:20261127T211500Z
+DTEND:20261127T231500Z
+SUMMARY:Holiday Laser
+LOCATION:Strasenburgh Planetarium\, 657 East Ave\, Rochester\, NY 14607
+DESCRIPTION:Holiday songs set to lasers on the planetarium dome. Saturday 
+ night also has Laser Daft Punk and Dark Side of the Moon. Tickets. Details
+ : https://weekendscout.app/e/rochester/holiday-laser-rmsc-2026/
+URL:https://weekendscout.app/e/rochester/holiday-laser-rmsc-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:rochester-holiday-laser-rmsc-2026-sat-0@weekendscout.app
+DTSTAMP:20261124T004901Z
+DTSTART:20261128T160000Z
+DTEND:20261128T180000Z
+SUMMARY:Holiday Laser
+LOCATION:Strasenburgh Planetarium\, 657 East Ave\, Rochester\, NY 14607
+DESCRIPTION:Holiday songs set to lasers on the planetarium dome. Saturday 
+ night also has Laser Daft Punk and Dark Side of the Moon. Tickets. Details
+ : https://weekendscout.app/e/rochester/holiday-laser-rmsc-2026/
+URL:https://weekendscout.app/e/rochester/holiday-laser-rmsc-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:rochester-holiday-laser-rmsc-2026-sat-1@weekendscout.app
+DTSTAMP:20261124T004901Z
+DTSTART:20261128T201500Z
+DTEND:20261128T221500Z
+SUMMARY:Holiday Laser
+LOCATION:Strasenburgh Planetarium\, 657 East Ave\, Rochester\, NY 14607
+DESCRIPTION:Holiday songs set to lasers on the planetarium dome. Saturday 
+ night also has Laser Daft Punk and Dark Side of the Moon. Tickets. Details
+ : https://weekendscout.app/e/rochester/holiday-laser-rmsc-2026/
+URL:https://weekendscout.app/e/rochester/holiday-laser-rmsc-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:rochester-holiday-laser-rmsc-2026-sun-0@weekendscout.app
+DTSTAMP:20261124T004901Z
+DTSTART:20261129T191500Z
+DTEND:20261129T211500Z
+SUMMARY:Holiday Laser
+LOCATION:Strasenburgh Planetarium\, 657 East Ave\, Rochester\, NY 14607
+DESCRIPTION:Holiday songs set to lasers on the planetarium dome. Saturday 
+ night also has Laser Daft Punk and Dark Side of the Moon. Tickets. Details
+ : https://weekendscout.app/e/rochester/holiday-laser-rmsc-2026/
+URL:https://weekendscout.app/e/rochester/holiday-laser-rmsc-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:rochester-holiday-laser-rmsc-2026-sun-1@weekendscout.app
+DTSTAMP:20261124T004901Z
+DTSTART:20261129T201500Z
+DTEND:20261129T221500Z
+SUMMARY:Holiday Laser
+LOCATION:Strasenburgh Planetarium\, 657 East Ave\, Rochester\, NY 14607
+DESCRIPTION:Holiday songs set to lasers on the planetarium dome. Saturday 
+ night also has Laser Daft Punk and Dark Side of the Moon. Tickets. Details
+ : https://weekendscout.app/e/rochester/holiday-laser-rmsc-2026/
+URL:https://weekendscout.app/e/rochester/holiday-laser-rmsc-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:rochester-casa-larga-holiday-market-2026-fri-0@weekendscout.app
+DTSTAMP:20261124T004901Z
+DTSTART:20261127T160000Z
+DTEND:20261127T210000Z
+SUMMARY:Holiday Wine & Craft Marketplace
+LOCATION:Casa Larga Vineyards\, 2287 Turk Hill Rd\, Fairport\, NY 14450
+DESCRIPTION:Gifts from 40 local artisans\, bakers and distillers\, plus ho
+ liday wines\, wine slushies and mimosas. Free. Details: https://weekendsco
+ ut.app/e/rochester/casa-larga-holiday-market-2026/
+URL:https://weekendscout.app/e/rochester/casa-larga-holiday-market-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:rochester-casa-larga-holiday-market-2026-sat-0@weekendscout.app
+DTSTAMP:20261124T004901Z
+DTSTART:20261128T160000Z
+DTEND:20261128T210000Z
+SUMMARY:Holiday Wine & Craft Marketplace
+LOCATION:Casa Larga Vineyards\, 2287 Turk Hill Rd\, Fairport\, NY 14450
+DESCRIPTION:Gifts from 40 local artisans\, bakers and distillers\, plus ho
+ liday wines\, wine slushies and mimosas. Free. Details: https://weekendsco
+ ut.app/e/rochester/casa-larga-holiday-market-2026/
+URL:https://weekendscout.app/e/rochester/casa-larga-holiday-market-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:rochester-native-made-market-2026-sat-0@weekendscout.app
+DTSTAMP:20261124T004901Z
+DTSTART:20261128T150000Z
+DTEND:20261128T220000Z
+SUMMARY:Native Made Market
+LOCATION:Central Library of Rochester\, 115 South Ave\, Rochester\, NY 146
+ 04
+DESCRIPTION:Indigenous artists sell beadwork\, art\, leather goods and fas
+ hion\, with runway shows at 11\, 1:40 and 3:30. Free. Details: https://wee
+ kendscout.app/e/rochester/native-made-market-2026/
+URL:https://weekendscout.app/e/rochester/native-made-market-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:rochester-themata-holiday-market-2026-fri-0@weekendscout.app
+DTSTAMP:20261124T004901Z
+DTSTART:20261127T150000Z
+DTEND:20261127T210000Z
+SUMMARY:Themata Holiday Homemade Market
+LOCATION:Culver Road Armory\, 145 Culver Rd\, Rochester\, NY 14620
+DESCRIPTION:A big handmade market in the old armory for Black Friday and S
+ mall Business Saturday. Free parking. Check details. Details: https://week
+ endscout.app/e/rochester/themata-holiday-market-2026/
+URL:https://weekendscout.app/e/rochester/themata-holiday-market-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:rochester-themata-holiday-market-2026-sat-0@weekendscout.app
+DTSTAMP:20261124T004901Z
+DTSTART:20261128T150000Z
+DTEND:20261128T210000Z
+SUMMARY:Themata Holiday Homemade Market
+LOCATION:Culver Road Armory\, 145 Culver Rd\, Rochester\, NY 14620
+DESCRIPTION:A big handmade market in the old armory for Black Friday and S
+ mall Business Saturday. Free parking. Check details. Details: https://week
+ endscout.app/e/rochester/themata-holiday-market-2026/
+URL:https://weekendscout.app/e/rochester/themata-holiday-market-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:rochester-holidays-at-the-market-2026-sun-0@weekendscout.app
+DTSTAMP:20261124T004901Z
+DTSTART:20261129T110000Z
+DTEND:20261129T200000Z
+SUMMARY:Holidays at the Market
+LOCATION:Rochester Public Market\, 280 N Union St\, Rochester\, NY 14605
+DESCRIPTION:The first Sunday of the city’s holiday market: fresh-cut tre
+ es and wreaths\, local food\, crafts and holiday lights. Free. Details: ht
+ tps://weekendscout.app/e/rochester/holidays-at-the-market-2026/
+URL:https://weekendscout.app/e/rochester/holidays-at-the-market-2026/
+END:VEVENT
+END:VCALENDAR

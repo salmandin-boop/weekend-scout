@@ -1,6 +1,6 @@
 # Weekend Scout
 
-An installable web app (PWA) listing what's happening each weekend in 11 US cities. No build step, no dependencies.
+An installable web app (PWA) listing what's happening each weekend in 15 US cities. No build step, no dependencies.
 
 | File | What it is |
 |---|---|
@@ -39,7 +39,7 @@ Each event looks like this:
 ```
 
 - `s` is the start time and `e` the optional end time, in 24-hour format. `"s": ""` means "see venue for hours".
-- `good` lists what the event is good for: `date` (date night), `family` (family friendly), `friends` (a group outing) and `indoors`. Use any that fit. Events marked 18+ or 21+ are never shown as family friendly.
+- `good` lists what the event is good for: `date` (date night), `family` (family friendly), `friends` (a group outing), `indoors`, `outdoors`, `dogs` (dog friendly) and `access` (wheelchair accessible). Use any that fit; add `dogs` or `access` only when the venue or organizer says so. Optional `blurbEs` holds the Spanish blurb. Events marked 18+ or 21+ are never shown as family friendly.
 - `featured: true` pins a paid listing to the top with a Sponsored badge. Max 3 per city per weekend: only the first 3 marked in the file count, and their order rotates per visitor. Only show on the days the event runs (automatic).
 - `sponsored: true` marks the ticket link as an affiliate link.
 
@@ -114,3 +114,9 @@ The weekly update checks that every date-night event has at least 2 spots within
 - **SEO pages:** `<city>/free/`, `<city>/date-night/`, `<city>/with-kids/` (built when 3+ events match). Deep links `/?city=x&cat=free` and `&good=date|family`.
 - **Analytics:** set `analytics.cloudflareToken` in config.json (free Cloudflare Web Analytics, no cookies). When switched on, update privacy.html and the Play Console Data safety form (app activity: page views, collected, not shared, not linked to identity).
 - **Social posts:** `node tools/social.js <outDir> [city,...]` makes a 7-slide 1080x1350 carousel + caption.txt per city (not committed).
+
+## v1.13 additions
+- **Español:** the ES/EN button switches the app's own words to Spanish (saved per phone; Spanish phones start in Spanish). The words live in `es.js`, loaded only in Spanish. Event names and venues stay as published; `blurbEs` on events and `always` spots gives the Spanish blurb (falls back to English).
+- **Send:** the Send button shares the city's weekend list (native share sheet, or copies the link).
+- **Dog friendly / Accessible:** `good` tags `dogs` and `access`, shown in the Filters sheet only when a city has them.
+- **Cities:** 15 now, adding Rochester, Buffalo, Albany and Ithaca. The newer cities start with shorter lists (3+ events, verified only) plus "Always good" picks.

@@ -1,7 +1,7 @@
 {
   "name": "Weekend Scout",
   "short_name": "Weekend Scout",
-  "description": "A hand-checked list of what's happening this weekend in 11 US cities: concerts, games, markets, museums and family events, updated every Wednesday.",
+  "description": "A hand-checked list of what's happening this weekend in 15 US cities: concerts, games, markets, museums and family events, updated every Wednesday.",
   "id": "./",
   "start_url": "./",
   "scope": "./",

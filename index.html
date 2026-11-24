@@ -16,14 +16,14 @@
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Weekend Scout">
 <meta property="og:title" content="Weekend Scout: what's on this weekend">
-<meta property="og:description" content="Hand-checked concerts, games, markets and family events in 11 US cities, updated every Wednesday.">
+<meta property="og:description" content="Hand-checked concerts, games, markets and family events in 15 US cities, updated every Wednesday.">
 <meta property="og:url" content="https://weekendscout.app/">
 <meta property="og:image" content="https://weekendscout.app/icons/og-image.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Weekend Scout app showing this weekend's events">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","name":"Weekend Scout","url":"https://weekendscout.app/","description":"Hand-checked concerts, games, markets and family events in 11 US cities, updated every Wednesday."},{"@type":"Organization","name":"ENDins LLC","url":"https://weekendscout.app/","logo":"https://weekendscout.app/icons/icon-512.png","email":"support@weekendscout.app","telephone":"+1-315-383-9602","address":{"@type":"PostalAddress","addressLocality":"East Syracuse","addressRegion":"NY","addressCountry":"US"}}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","name":"Weekend Scout","url":"https://weekendscout.app/","description":"Hand-checked concerts, games, markets and family events in 15 US cities, updated every Wednesday."},{"@type":"Organization","name":"ENDins LLC","url":"https://weekendscout.app/","logo":"https://weekendscout.app/icons/icon-512.png","email":"support@weekendscout.app","telephone":"+1-315-383-9602","address":{"@type":"PostalAddress","addressLocality":"East Syracuse","addressRegion":"NY","addressCountry":"US"}}]}</script>
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
@@ -306,6 +306,7 @@ dialog.sheet[open]{animation:sheetUp .22s cubic-bezier(.2,.8,.2,1)}
 .holiday{background:none;padding:0;margin:4px 0 0;font-size:.85rem;color:var(--muted);display:flex;gap:8px;align-items:center}
 .holiday .hol-t{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .holiday .btn{flex:none;min-height:34px;padding:4px 10px;font-size:.8rem}
+.lang-btn{margin-left:auto;flex:none;min-width:44px;min-height:44px;border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:999px;font:700 .8rem var(--body);cursor:pointer;box-shadow:var(--shadow)}
 </style>
 </head>
 <body>
@@ -341,6 +342,7 @@ dialog.sheet[open]{animation:sheetUp .22s cubic-bezier(.2,.8,.2,1)}
   <section id="view-home" class="wrap" aria-labelledby="h-home">
     <header class="top">
       <div class="toprow"><div class="kicker"><span class="brand">Weekend Scout</span></div>
+        <button class="lang-btn" type="button" data-lang aria-label="Español / English"><span data-notr>ES</span></button>
         <button class="city-btn" id="city-btn" type="button" aria-haspopup="dialog" aria-label="Change city"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7-6.2-7-11.5A7 7 0 0 1 19 9.5C19 14.8 12 21 12 21Z"/><circle cx="12" cy="9.5" r="2.5"/></svg><span id="city-label">Choose city</span><svg viewBox="0 0 24 24" aria-hidden="true" style="stroke:var(--muted)"><path d="m6 9 6 6 6-6"/></svg></button></div>
       <h1 id="h-home">This Weekend</h1>
       <p class="dates" id="dates">Loading this weekend…</p>
@@ -357,7 +359,7 @@ dialog.sheet[open]{animation:sheetUp .22s cubic-bezier(.2,.8,.2,1)}
       <div class="active-f" id="active-f" hidden></div>
     </div>
     <div id="map" hidden></div>
-    <div class="countrow"><p class="count" id="count" aria-live="polite"></p><div class="viewtog"><button class="chip near" id="map-btn" type="button" data-map aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 4 3 6v14l6-2 6 2 6-2V4l-6 2-6-2ZM9 4v14M15 6v14"/></svg>Map</button><button class="chip near" id="near-btn" type="button" data-near aria-pressed="false" hidden data-keep-hidden><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7-6.2-7-11.5A7 7 0 0 1 19 9.5C19 14.8 12 21 12 21Z"/><circle cx="12" cy="9.5" r="2.5"/></svg>Nearest first</button></div></div>
+    <div class="countrow"><p class="count" id="count" aria-live="polite"></p><div class="viewtog"><button class="chip near" id="map-btn" type="button" data-map aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 4 3 6v14l6-2 6 2 6-2V4l-6 2-6-2ZM9 4v14M15 6v14"/></svg>Map</button><button class="chip near" id="share-city" type="button" data-sharecity aria-label="Send this weekend to a friend"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12M7 8l5-5 5 5M5 13v6a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-6"/></svg>Send</button><button class="chip near" id="near-btn" type="button" data-near aria-pressed="false" hidden data-keep-hidden><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7-6.2-7-11.5A7 7 0 0 1 19 9.5C19 14.8 12 21 12 21Z"/><circle cx="12" cy="9.5" r="2.5"/></svg>Nearest first</button></div></div>
     <div id="news-home"></div>
     <div class="list" id="list" tabindex="-1"><div class="skel"></div><div class="skel"></div><div class="skel"></div><div class="skel"></div></div>
     <div class="surprise"><button class="btn" type="button" data-surprise>🎲 Can't decide? Pick one for me</button></div>
@@ -450,13 +452,20 @@ dialog.sheet[open]{animation:sheetUp .22s cubic-bezier(.2,.8,.2,1)}
 
 <script>
 (() => {
-const APP_VERSION = '1.12.0';
+const APP_VERSION = '1.13.0';
 const SITE_URL = 'https://weekendscout.app/'; // the live address, so shared links point there
 const TZ0 = 'America/New_York';
 let TZ = TZ0; // switches to the chosen city's time zone
 const DAYS = ['fri','sat','sun'];
 const DAYNAME = {fri:'Friday',sat:'Saturday',sun:'Sunday'};
 const DAYABBR = {fri:'Fri',sat:'Sat',sun:'Sun'};
+/* ---------- Español: the app's own words are translated; event names and venues stay as published ---------- */
+const LANG = (() => { try { const v = JSON.parse(localStorage.getItem('ws-lang') || 'null'); if (v === 'es' || v === 'en') return v; } catch {} return /^es\b/i.test(navigator.language || '') ? 'es' : 'en'; })();
+const LOCALE = LANG === 'es' ? 'es-US' : 'en-US';
+if (LANG === 'es'){ Object.assign(DAYNAME, { fri:'Viernes', sat:'Sábado', sun:'Domingo' }); Object.assign(DAYABBR, { fri:'Vie', sat:'Sáb', sun:'Dom' }); document.documentElement.lang = 'es'; }
+if (LANG === 'es') document.write('<script src="es.js"><\/script>'); // the Spanish words live in es.js
+function setLang(l){ try { localStorage.setItem('ws-lang', JSON.stringify(l)); } catch {} location.reload(); }
+
 const CATS = [['all','Everything'],['free','Free'],['cheap','Under $25'],['music','Music'],['sports','Sports'],['arts','Arts'],['food','Food & Drink'],['family','Family'],['comedy','Comedy']];
 const CATLABEL = {music:'Music',sports:'Sports',arts:'Arts',food:'Food & Drink',family:'Family',comedy:'Comedy'};
 const $ = id => document.getElementById(id);
@@ -500,7 +509,7 @@ function todayISO(){
 }
 function prettyDate(iso, opts = { weekday:'short', month:'short', day:'numeric' }){
   const [y,m,d] = iso.split('-').map(Number);
-  return new Date(Date.UTC(y, m-1, d, 12)).toLocaleDateString('en-US', { ...opts, timeZone:'UTC' });
+  return new Date(Date.UTC(y, m-1, d, 12)).toLocaleDateString(LOCALE, { ...opts, timeZone:'UTC' });
 }
 // Minutes past midnight right now, in the city's time zone
 function nowMins(){
@@ -563,11 +572,11 @@ function affURL(u){
 /* ---------- filtering ---------- */
 // "Good for" occasions. Events list them in `good`; anything marked 18+ or 21+ is never shown as family friendly.
 // Read as "Good for …": Date night / Kids / Groups / Indoors / Outdoors
-const GOOD = [['date','Date night'],['family','Kids'],['friends','Groups'],['indoors','Indoors'],['outdoors','Outdoors']];
-const GOODTAG = { date:'Date night', family:'Kid friendly', friends:'Great for groups', indoors:'Indoors', outdoors:'Outdoors' };
-const GOODALT = { date:'date romantic couples', family:'family kids children', friends:'friends groups', indoors:'indoor indoors inside rain rainy', outdoors:'outdoor outdoors outside open air fresh air' };
+const GOOD = [['date','Date night'],['family','Kids'],['friends','Groups'],['indoors','Indoors'],['outdoors','Outdoors'],['dogs','Dog friendly'],['access','Accessible']];
+const GOODTAG = { date:'Date night', family:'Kid friendly', friends:'Great for groups', indoors:'Indoors', outdoors:'Outdoors', dogs:'Dog friendly', access:'Accessible' };
+const GOODALT = { date:'date romantic couples', family:'family kids children', friends:'friends groups', indoors:'indoor indoors inside rain rainy', outdoors:'outdoor outdoors outside open air fresh air', dogs:'dog dogs pet pets dog-friendly', access:'accessible wheelchair accessibility sensory-friendly ada' };
 const GOODLABEL = Object.fromEntries(GOOD);
-const GOODCOUNT = { date:['date night pick','date night picks'], family:['pick for kids','picks for kids'], friends:['pick for groups','picks for groups'], indoors:['indoor pick','indoor picks'], outdoors:['outdoor pick','outdoor picks'] };
+const GOODCOUNT = { date:['date night pick','date night picks'], family:['pick for kids','picks for kids'], friends:['pick for groups','picks for groups'], indoors:['indoor pick','indoor picks'], outdoors:['outdoor pick','outdoor picks'], dogs:['dog-friendly pick','dog-friendly picks'], access:['accessible pick','accessible picks'] };
 function goodFor(ev){
   const g = new Set(Array.isArray(ev.good) ? ev.good : (ev.cat === 'family' ? ['family'] : []));
   if (ev.ages) g.delete('family');
@@ -925,7 +934,7 @@ function renderAlways(){
   if (!a.length) return '';
   if (S.near && POS) a = a.slice().sort((x,y) => milesBetween(POS[0],POS[1],x.lat,x.lon) - milesBetween(POS[0],POS[1],y.lat,y.lon));
   return `<section class="more" aria-label="Always good in ${esc(CITY.name)}"><div class="rail-head"><h2>Always good in ${esc(CITY.name)}</h2><p>Any weekend</p></div>
-    <ul class="up">${a.slice(0, 8).map(x => `<li><span class="up-d">${esc(x.price || '')}</span><span class="up-b"><b><a href="${esc(spotMaps(x))}" target="_blank" rel="noopener">${esc(x.name)}</a></b><small>${esc(x.blurb || x.cuisine || '')}${x.area ? ' · ' + esc(x.area) : ''}</small></span></li>`).join('')}</ul></section>`;
+    <ul class="up">${a.slice(0, 8).map(x => `<li><span class="up-d">${esc(x.price || '')}</span><span class="up-b"><b><a href="${esc(spotMaps(x))}" target="_blank" rel="noopener">${esc(x.name)}</a></b><small data-notr>${esc((LANG === 'es' && x.blurbEs) || x.blurb || x.cuisine || '')}${x.area ? ' · ' + esc(x.area) : ''}</small></span></li>`).join('')}</ul></section>`;
 }
 
 /* ---------- structured data so Google can show these events ---------- */
@@ -1006,6 +1015,14 @@ function saveFile(name, text, type){
   const blob = new Blob([text], { type }); const a = document.createElement('a');
   a.href = URL.createObjectURL(blob); a.download = name; document.body.appendChild(a); a.click(); a.remove(); setTimeout(() => URL.revokeObjectURL(a.href), 4000);
 }
+// Send the whole city list (the city page has a rich preview card)
+async function shareCity(){
+  const evs = sorted(DATA.events, 'all'), free = evs.filter(e => e.price === 'free').length;
+  const text = `This weekend in ${CITY.name} (${DATA.weekend.label}): ${evs.length} hand-checked picks, ${free} free.\n` + evs.filter(e => !isFeat(e)).slice(0, 3).map(e => `• ${e.title}`).join('\n');
+  const url = `${SITE_URL}${CITY.id}/`;
+  try { if (navigator.share) { await navigator.share({ title:`This weekend in ${CITY.name}`, text, url }); return; } } catch (err) { if (err && err.name === 'AbortError') return; }
+  try { await navigator.clipboard.writeText(`${text}\n${url}`); toast('Copied. Paste it to a friend'); } catch { toast(url); }
+}
 async function shareWeekend(){
   const evs = sorted(DATA.events.filter(e => saved.has(e.id)), 'all'); if (!evs.length) return;
   const text = `My weekend in ${CITY.name}:\n` + evs.map(e => { const s = sessions(e)[0]; return `• ${e.title}${s ? ` (${DAYABBR[s.day]}${s.s ? ' ' + fmt(s.s) : ''})` : ''}`; }).join('\n');
@@ -1046,7 +1063,7 @@ function openSheet(id, push = true){
       <div class="meta-row">${ICON.tag}<div>${esc(ev.priceLabel || '')}${ev.ages ? ` · ${esc(ev.ages)}` : ''}</div></div>
       ${goodFor(ev).length ? `<div class="meta-row">${ICON.heart}<div>Good for: ${goodFor(ev).map(k => esc(GOODLABEL[k]).toLowerCase()).join(', ')}</div></div>` : ''}
     </div>
-    ${ev.blurb ? `<p class="blurb">${esc(ev.blurb)}</p>` : ''}
+    ${ev.blurb ? `<p class="blurb" data-notr>${esc((LANG === 'es' && ev.blurbEs) || ev.blurb)}</p>` : ''}
     ${ev.getThere ? `<p class="getthere"><b>Getting there:</b> ${esc(ev.getThere)}</p>` : ''}
     <div class="actions">
       ${link ? (() => { const a = affURL(link.url); return `<a class="btn primary wide" href="${esc(a.url)}" target="_blank" rel="noopener${ev.sponsored || a.aff ? ' sponsored' : ''}">${esc(link.label)} ${ICON.ext}</a>`; })() : `<a class="btn primary wide" href="${esc(infoURL(ev))}" target="_blank" rel="noopener">Find tickets &amp; info ${ICON.ext}</a>`}
@@ -1119,6 +1136,8 @@ document.addEventListener('click', e => {
   if (t.dataset.go) { closeSheet(); return show(t.dataset.go); }
   if (t.dataset.day) { S.day = t.dataset.day; renderControls(); renderHome(); return; }
   if ('filters' in t.dataset) return openFilters();
+  if ('lang' in t.dataset) return setLang(LANG === 'es' ? 'en' : 'es');
+  if ('sharecity' in t.dataset) return shareCity();
   if ('fclear' in t.dataset) { S.cat = 'all'; S.good = 'any'; S.near = false; renderControls(); renderHome(); return; }
   if (t.dataset.sort) { if ((t.dataset.sort === 'near') !== !!(S.near && POS)) toggleNear($('near-btn')); setTimeout(() => renderControls(), 0); return; }
   if (t.dataset.cat) { S.cat = (FILT_OPEN || t.dataset.cat !== S.cat) ? t.dataset.cat : 'all'; renderControls(); renderHome(); if (!FILT_OPEN) scrollToResults(); return; }
@@ -1176,7 +1195,7 @@ function renderHoliday(){
   const span = [addDays(w.fri, -1), w.fri, w.sat, w.sun, addDays(w.sun, 1)];
   const hits = span.map(d => HOLI[d] && { d, name:HOLI[d] }).filter(Boolean);
   if (!hits.length){ h.hidden = true; return; }
-  const dn = d => new Date(d + 'T12:00:00').toLocaleDateString('en-US', { weekday:'short' });
+  const dn = d => new Date(d + 'T12:00:00').toLocaleDateString(LOCALE, { weekday:'short' });
   const date = hits.some(x => /Valentine/.test(x.name)) && DATA.events.some(e => goodFor(e).includes('date'));
 
   h.innerHTML = `<span class="hol-t">🎉 ${hits.map(x => `${esc(x.name)} ${dn(x.d)}`).join(' · ')}. Some hours change.</span>` +
@@ -1243,7 +1262,7 @@ async function storyImage(id, btn){
     // footer
     x.fillStyle = '#fff'; x.font = `800 56px ${D}`; x.fillText('More hand-picked plans at', 90, H - 300);
     x.fillStyle = '#ff8a52'; x.font = `800 72px ${D}`; x.fillText('weekendscout.app', 90, H - 210);
-    x.fillStyle = '#c9d2e6'; x.font = `600 38px ${B}`; x.fillText('New list every Wednesday · 11 US cities', 90, H - 140);
+    x.fillStyle = '#c9d2e6'; x.font = `600 38px ${B}`; x.fillText('New list every Wednesday · 15 US cities', 90, H - 140);
     const blob = await new Promise(r => c.toBlob(r, 'image/png'));
     const file = new File([blob], `weekend-scout-${ev.id}.png`, { type:'image/png' });
     try { if (navigator.canShare && navigator.canShare({ files:[file] })) { await navigator.share({ files:[file], title:ev.title, text:`${ev.title} · ${shareURL(ev.id)}` }); return; } } catch (err) { if (err && err.name === 'AbortError') return; }
@@ -1313,6 +1332,7 @@ function renderHeaderCityOnly(){ $('city-label').textContent = cityName(CITY); $
 
 /* ---------- start ---------- */
 (async () => {
+  { const lb = document.querySelector('.lang-btn span'); if (lb) lb.textContent = LANG === 'es' ? 'EN' : 'ES'; }
   CITIES = await loadCities();
   loadConfig().then(() => { renderNews(); startAnalytics(); renderPlay(); });
   const qp = new URLSearchParams(location.search), fromURL = qp.get('city');

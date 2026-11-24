@@ -1,0 +1,210 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Buffalo
+X-WR-CALDESC:Hand-checked weekend picks in Buffalo, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:buffalo-sabres-penguins-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261124T004901Z
+DTSTART:20261128T010000Z
+DTEND:20261128T030000Z
+SUMMARY:Sabres vs. Penguins
+LOCATION:KeyBank Center\, 1 Seymour H. Knox III Plaza\, Buffalo\, NY 14203
+DESCRIPTION:The Sabres host Pittsburgh on Black Friday night\, a short wal
+ k from the Canalside rink. Tickets. Details: https://weekendscout.app/e/bu
+ ffalo/sabres-penguins-2026-11-27/
+URL:https://weekendscout.app/e/buffalo/sabres-penguins-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:buffalo-ice-at-canalside-2026-fri-0@weekendscout.app
+DTSTAMP:20261124T004901Z
+DTSTART:20261127T180000Z
+DTEND:20261128T020000Z
+SUMMARY:Skating at Ice at Canalside
+LOCATION:Ice at Canalside\, 44 Prime St\, Buffalo\, NY 14202
+DESCRIPTION:Outdoor skating on the waterfront in its new spot next to Expl
+ ore & More. Ages 5 and under skate free\; rentals are $6. $8 adults\, $5 k
+ ids 6–12. Details: https://weekendscout.app/e/buffalo/ice-at-canalside-2
+ 026/
+URL:https://weekendscout.app/e/buffalo/ice-at-canalside-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:buffalo-ice-at-canalside-2026-sat-0@weekendscout.app
+DTSTAMP:20261124T004901Z
+DTSTART:20261128T160000Z
+DTEND:20261129T020000Z
+SUMMARY:Skating at Ice at Canalside
+LOCATION:Ice at Canalside\, 44 Prime St\, Buffalo\, NY 14202
+DESCRIPTION:Outdoor skating on the waterfront in its new spot next to Expl
+ ore & More. Ages 5 and under skate free\; rentals are $6. $8 adults\, $5 k
+ ids 6–12. Details: https://weekendscout.app/e/buffalo/ice-at-canalside-2
+ 026/
+URL:https://weekendscout.app/e/buffalo/ice-at-canalside-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:buffalo-ice-at-canalside-2026-sun-0@weekendscout.app
+DTSTAMP:20261124T004901Z
+DTSTART:20261129T160000Z
+DTEND:20261130T010000Z
+SUMMARY:Skating at Ice at Canalside
+LOCATION:Ice at Canalside\, 44 Prime St\, Buffalo\, NY 14202
+DESCRIPTION:Outdoor skating on the waterfront in its new spot next to Expl
+ ore & More. Ages 5 and under skate free\; rentals are $6. $8 adults\, $5 k
+ ids 6–12. Details: https://weekendscout.app/e/buffalo/ice-at-canalside-2
+ 026/
+URL:https://weekendscout.app/e/buffalo/ice-at-canalside-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:buffalo-home-alone-bpo-2026-sat-0@weekendscout.app
+DTSTAMP:20261124T004901Z
+DTSTART:20261129T003000Z
+DTEND:20261129T023000Z
+SUMMARY:Home Alone in Concert
+LOCATION:Kleinhans Music Hall\, 3 Symphony Circle\, Buffalo\, NY 14201
+DESCRIPTION:The Buffalo Philharmonic plays John Williams’ score live whi
+ le the movie runs on the big screen. From $57. Details: https://weekendsco
+ ut.app/e/buffalo/home-alone-bpo-2026/
+URL:https://weekendscout.app/e/buffalo/home-alone-bpo-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:buffalo-home-alone-bpo-2026-sun-0@weekendscout.app
+DTSTAMP:20261124T004901Z
+DTSTART:20261129T193000Z
+DTEND:20261129T213000Z
+SUMMARY:Home Alone in Concert
+LOCATION:Kleinhans Music Hall\, 3 Symphony Circle\, Buffalo\, NY 14201
+DESCRIPTION:The Buffalo Philharmonic plays John Williams’ score live whi
+ le the movie runs on the big screen. From $57. Details: https://weekendsco
+ ut.app/e/buffalo/home-alone-bpo-2026/
+URL:https://weekendscout.app/e/buffalo/home-alone-bpo-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:buffalo-frozen-sheas-710-2026-sat-0@weekendscout.app
+DTSTAMP:20261124T004901Z
+DTSTART:20261128T193000Z
+DTEND:20261128T213000Z
+SUMMARY:Disney's Frozen
+LOCATION:Shea's 710 Theatre\, 710 Main St\, Buffalo\, NY 14202
+DESCRIPTION:The Broadway musical opens its holiday run this weekend\, with
+  three shows Saturday and Sunday. From $69. Details: https://weekendscout.
+ app/e/buffalo/frozen-sheas-710-2026/
+URL:https://weekendscout.app/e/buffalo/frozen-sheas-710-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:buffalo-frozen-sheas-710-2026-sat-1@weekendscout.app
+DTSTAMP:20261124T004901Z
+DTSTART:20261129T003000Z
+DTEND:20261129T023000Z
+SUMMARY:Disney's Frozen
+LOCATION:Shea's 710 Theatre\, 710 Main St\, Buffalo\, NY 14202
+DESCRIPTION:The Broadway musical opens its holiday run this weekend\, with
+  three shows Saturday and Sunday. From $69. Details: https://weekendscout.
+ app/e/buffalo/frozen-sheas-710-2026/
+URL:https://weekendscout.app/e/buffalo/frozen-sheas-710-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:buffalo-frozen-sheas-710-2026-sun-0@weekendscout.app
+DTSTAMP:20261124T004901Z
+DTSTART:20261129T190000Z
+DTEND:20261129T210000Z
+SUMMARY:Disney's Frozen
+LOCATION:Shea's 710 Theatre\, 710 Main St\, Buffalo\, NY 14202
+DESCRIPTION:The Broadway musical opens its holiday run this weekend\, with
+  three shows Saturday and Sunday. From $69. Details: https://weekendscout.
+ app/e/buffalo/frozen-sheas-710-2026/
+URL:https://weekendscout.app/e/buffalo/frozen-sheas-710-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:buffalo-bandits-swarm-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261124T004901Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:Bandits vs. Georgia Swarm
+LOCATION:KeyBank Center\, 1 Seymour H. Knox III Plaza\, Buffalo\, NY 14203
+DESCRIPTION:The Bandits open their home season against Georgia. Pro lacros
+ se is loud\, fast and great with a group. Tickets. Details: https://weeken
+ dscout.app/e/buffalo/bandits-swarm-2026-11-28/
+URL:https://weekendscout.app/e/buffalo/bandits-swarm-2026-11-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:buffalo-akg-holiday-sip-shop-2026-sat-0@weekendscout.app
+DTSTAMP:20261124T004901Z
+DTSTART:20261128T150000Z
+DTEND:20261128T220000Z
+SUMMARY:Holiday Sip & Shop
+LOCATION:Buffalo AKG Art Museum\, 1285 Elmwood Ave\, Buffalo\, NY 14222
+DESCRIPTION:Twenty local artisans\, live music and a Mini Makers showcase 
+ of work by young artists in Wilson Town Square. Check details. Details: ht
+ tps://weekendscout.app/e/buffalo/akg-holiday-sip-shop-2026/
+URL:https://weekendscout.app/e/buffalo/akg-holiday-sip-shop-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:buffalo-botanical-gardens-poinsettias-2026-fri-0@weekendscout.app
+DTSTAMP:20261124T004901Z
+DTSTART:20261127T150000Z
+DTEND:20261127T210000Z
+SUMMARY:Poinsettia Exhibit
+LOCATION:Buffalo Botanical Gardens\, 2655 South Park Ave\, Buffalo\, NY 14
+ 218
+DESCRIPTION:Thousands of poinsettias fill the Victorian glass conservatory
+  for the holidays. Last entry is 3:30 p.m. Garden admission. Details: http
+ s://weekendscout.app/e/buffalo/botanical-gardens-poinsettias-2026/
+URL:https://weekendscout.app/e/buffalo/botanical-gardens-poinsettias-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:buffalo-botanical-gardens-poinsettias-2026-sat-0@weekendscout.app
+DTSTAMP:20261124T004901Z
+DTSTART:20261128T150000Z
+DTEND:20261128T210000Z
+SUMMARY:Poinsettia Exhibit
+LOCATION:Buffalo Botanical Gardens\, 2655 South Park Ave\, Buffalo\, NY 14
+ 218
+DESCRIPTION:Thousands of poinsettias fill the Victorian glass conservatory
+  for the holidays. Last entry is 3:30 p.m. Garden admission. Details: http
+ s://weekendscout.app/e/buffalo/botanical-gardens-poinsettias-2026/
+URL:https://weekendscout.app/e/buffalo/botanical-gardens-poinsettias-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:buffalo-botanical-gardens-poinsettias-2026-sun-0@weekendscout.app
+DTSTAMP:20261124T004901Z
+DTSTART:20261129T150000Z
+DTEND:20261129T210000Z
+SUMMARY:Poinsettia Exhibit
+LOCATION:Buffalo Botanical Gardens\, 2655 South Park Ave\, Buffalo\, NY 14
+ 218
+DESCRIPTION:Thousands of poinsettias fill the Victorian glass conservatory
+  for the holidays. Last entry is 3:30 p.m. Garden admission. Details: http
+ s://weekendscout.app/e/buffalo/botanical-gardens-poinsettias-2026/
+URL:https://weekendscout.app/e/buffalo/botanical-gardens-poinsettias-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:buffalo-martin-house-candlelight-2026-fri-0@weekendscout.app
+DTSTAMP:20261124T004901Z
+DTSTART:20261127T211500Z
+DTEND:20261127T231500Z
+SUMMARY:Candlelight Tour at the Martin House
+LOCATION:Frank Lloyd Wright’s Martin House\, 143 Jewett Pkwy\, Buffalo\,
+  NY 14214
+DESCRIPTION:A 90-minute docent-led tour of Wright’s Prairie house lit by
+  candlelight. Three start times\; book ahead. Reservations. Details: https
+ ://weekendscout.app/e/buffalo/martin-house-candlelight-2026/
+URL:https://weekendscout.app/e/buffalo/martin-house-candlelight-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:buffalo-light-up-lancaster-2026-fri-0@weekendscout.app
+DTSTAMP:20261124T004901Z
+DTSTART:20261127T220000Z
+DTEND:20261128T020000Z
+SUMMARY:Light Up Lancaster
+LOCATION:Girl Scout Garden\, 4 Central Ave\, Lancaster\, NY 14086
+DESCRIPTION:The village tree lighting about 20 minutes east of downtown: l
+ ive music\, food and warm drinks\, local vendors and a countdown to the li
+ ghts. Free. Details: https://weekendscout.app/e/buffalo/light-up-lancaster
+ -2026/
+URL:https://weekendscout.app/e/buffalo/light-up-lancaster-2026/
+END:VEVENT
+END:VCALENDAR
