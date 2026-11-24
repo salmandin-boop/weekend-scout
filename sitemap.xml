@@ -229,6 +229,10 @@
   <url><loc>https://weekendscout.app/pittsburgh/date-night/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/pittsburgh/with-kids/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/pittsburgh/visiting/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://weekendscout.app/charlotte/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://weekendscout.app/charlotte/free/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://weekendscout.app/charlotte/date-night/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://weekendscout.app/charlotte/visiting/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/privacy.html</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
   <url><loc>https://weekendscout.app/terms.html</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
 </urlset>
