@@ -1,0 +1,159 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Knoxville
+X-WR-CALDESC:Hand-checked weekend picks in Knoxville, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:knoxville-regal-celebration-of-lights-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART:20261127T221500Z
+DTEND:20261128T020000Z
+SUMMARY:Regal Celebration of Lights
+LOCATION:Krutch Park Extension\, Market Square\, Market St\, Knoxville\, T
+ N 37902
+DESCRIPTION:The city’s official tree lighting kicks off Christmas in the
+  City in Market Square. Free. Details: https://weekendscout.app/e/knoxvill
+ e/regal-celebration-of-lights-2026-11/
+URL:https://weekendscout.app/e/knoxville/regal-celebration-of-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:knoxville-death-becomes-her-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART:20261127T190000Z
+DTEND:20261127T210000Z
+SUMMARY:Death Becomes Her
+LOCATION:Tennessee Theatre\, 604 S Gay St\, Knoxville\, TN 37902
+DESCRIPTION:The Broadway musical comedy on tour\, with seven shows this we
+ ekend. Tickets. Details: https://weekendscout.app/e/knoxville/death-become
+ s-her-2026-11/
+URL:https://weekendscout.app/e/knoxville/death-becomes-her-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:knoxville-death-becomes-her-2026-11-fri-1@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART:20261128T010000Z
+DTEND:20261128T030000Z
+SUMMARY:Death Becomes Her
+LOCATION:Tennessee Theatre\, 604 S Gay St\, Knoxville\, TN 37902
+DESCRIPTION:The Broadway musical comedy on tour\, with seven shows this we
+ ekend. Tickets. Details: https://weekendscout.app/e/knoxville/death-become
+ s-her-2026-11/
+URL:https://weekendscout.app/e/knoxville/death-becomes-her-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:knoxville-death-becomes-her-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART:20261128T190000Z
+DTEND:20261128T210000Z
+SUMMARY:Death Becomes Her
+LOCATION:Tennessee Theatre\, 604 S Gay St\, Knoxville\, TN 37902
+DESCRIPTION:The Broadway musical comedy on tour\, with seven shows this we
+ ekend. Tickets. Details: https://weekendscout.app/e/knoxville/death-become
+ s-her-2026-11/
+URL:https://weekendscout.app/e/knoxville/death-becomes-her-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:knoxville-death-becomes-her-2026-11-sat-1@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:Death Becomes Her
+LOCATION:Tennessee Theatre\, 604 S Gay St\, Knoxville\, TN 37902
+DESCRIPTION:The Broadway musical comedy on tour\, with seven shows this we
+ ekend. Tickets. Details: https://weekendscout.app/e/knoxville/death-become
+ s-her-2026-11/
+URL:https://weekendscout.app/e/knoxville/death-becomes-her-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:knoxville-death-becomes-her-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART:20261129T183000Z
+DTEND:20261129T203000Z
+SUMMARY:Death Becomes Her
+LOCATION:Tennessee Theatre\, 604 S Gay St\, Knoxville\, TN 37902
+DESCRIPTION:The Broadway musical comedy on tour\, with seven shows this we
+ ekend. Tickets. Details: https://weekendscout.app/e/knoxville/death-become
+ s-her-2026-11/
+URL:https://weekendscout.app/e/knoxville/death-becomes-her-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:knoxville-death-becomes-her-2026-11-sun-1@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART:20261130T000000Z
+DTEND:20261130T020000Z
+SUMMARY:Death Becomes Her
+LOCATION:Tennessee Theatre\, 604 S Gay St\, Knoxville\, TN 37902
+DESCRIPTION:The Broadway musical comedy on tour\, with seven shows this we
+ ekend. Tickets. Details: https://weekendscout.app/e/knoxville/death-become
+ s-her-2026-11/
+URL:https://weekendscout.app/e/knoxville/death-becomes-her-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:knoxville-a-christmas-carol-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART:20261128T003000Z
+DTEND:20261128T023000Z
+SUMMARY:A Christmas Carol
+LOCATION:Clarence Brown Theatre\, 1714 Andy Holt Ave\, Knoxville\, TN 3799
+ 6
+DESCRIPTION:UT’s professional theater stages the Dickens classic. Ticket
+ s. Details: https://weekendscout.app/e/knoxville/a-christmas-carol-2026-11
+ /
+URL:https://weekendscout.app/e/knoxville/a-christmas-carol-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:knoxville-a-christmas-carol-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART:20261129T003000Z
+DTEND:20261129T023000Z
+SUMMARY:A Christmas Carol
+LOCATION:Clarence Brown Theatre\, 1714 Andy Holt Ave\, Knoxville\, TN 3799
+ 6
+DESCRIPTION:UT’s professional theater stages the Dickens classic. Ticket
+ s. Details: https://weekendscout.app/e/knoxville/a-christmas-carol-2026-11
+ /
+URL:https://weekendscout.app/e/knoxville/a-christmas-carol-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:knoxville-a-christmas-carol-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART:20261129T190000Z
+DTEND:20261129T210000Z
+SUMMARY:A Christmas Carol
+LOCATION:Clarence Brown Theatre\, 1714 Andy Holt Ave\, Knoxville\, TN 3799
+ 6
+DESCRIPTION:UT’s professional theater stages the Dickens classic. Ticket
+ s. Details: https://weekendscout.app/e/knoxville/a-christmas-carol-2026-11
+ /
+URL:https://weekendscout.app/e/knoxville/a-christmas-carol-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:knoxville-knoxville-ice-bears-vs-athens-rock-lobsters-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART:20261127T230000Z
+DTEND:20261128T010000Z
+SUMMARY:Knoxville Ice Bears vs. Athens Rock Lobsters
+LOCATION:Knoxville Civic Coliseum\, 500 Howard Baker Jr Ave\, Knoxville\, 
+ TN 37915
+DESCRIPTION:SPHL hockey on Black Friday. Tickets. Details: https://weekend
+ scout.app/e/knoxville/knoxville-ice-bears-vs-athens-rock-lobsters-2026-11/
+URL:https://weekendscout.app/e/knoxville/knoxville-ice-bears-vs-athens-rock-lobsters-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:knoxville-knoxville-symphony-how-the-grinch-stole-christmas-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART:20261129T200000Z
+DTEND:20261129T220000Z
+SUMMARY:Knoxville Symphony: How the Grinch Stole Christmas
+LOCATION:Knoxville Civic Auditorium\, 500 Howard Baker Jr Ave\, Knoxville\
+ , TN 37915
+DESCRIPTION:The KSO’s family holiday concert. Tickets. Details: https://
+ weekendscout.app/e/knoxville/knoxville-symphony-how-the-grinch-stole-chris
+ tmas-2026-11/
+URL:https://weekendscout.app/e/knoxville/knoxville-symphony-how-the-grinch-stole-christmas-2026-11/
+END:VEVENT
+END:VCALENDAR

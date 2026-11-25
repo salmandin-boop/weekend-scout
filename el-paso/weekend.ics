@@ -1,0 +1,108 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · El Paso
+X-WR-CALDESC:Hand-checked weekend picks in El Paso, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:el-paso-winterfest-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:WinterFest
+LOCATION:San Jacinto Plaza and Downtown El Paso\, San Jacinto Plaza\, El P
+ aso\, TX 79901
+DESCRIPTION:Downtown’s holiday festival: lights\, the holiday market and
+  ice skating around San Jacinto Plaza\, through Jan. 3. Free to attend. De
+ tails: https://weekendscout.app/e/el-paso/winterfest-2026-11/
+URL:https://weekendscout.app/e/el-paso/winterfest-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:el-paso-winterfest-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:WinterFest
+LOCATION:San Jacinto Plaza and Downtown El Paso\, San Jacinto Plaza\, El P
+ aso\, TX 79901
+DESCRIPTION:Downtown’s holiday festival: lights\, the holiday market and
+  ice skating around San Jacinto Plaza\, through Jan. 3. Free to attend. De
+ tails: https://weekendscout.app/e/el-paso/winterfest-2026-11/
+URL:https://weekendscout.app/e/el-paso/winterfest-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:el-paso-winterfest-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:WinterFest
+LOCATION:San Jacinto Plaza and Downtown El Paso\, San Jacinto Plaza\, El P
+ aso\, TX 79901
+DESCRIPTION:Downtown’s holiday festival: lights\, the holiday market and
+  ice skating around San Jacinto Plaza\, through Jan. 3. Free to attend. De
+ tails: https://weekendscout.app/e/el-paso/winterfest-2026-11/
+URL:https://weekendscout.app/e/el-paso/winterfest-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:el-paso-bo-dacious-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART:20261128T030000Z
+DTEND:20261128T050000Z
+SUMMARY:Bo Dacious
+LOCATION:El Paso Comic Strip\, 1201 Airway Blvd\, El Paso\, TX 79925
+DESCRIPTION:Four stand-up shows over the weekend. Tickets. Details: https:
+ //weekendscout.app/e/el-paso/bo-dacious-2026-11/
+URL:https://weekendscout.app/e/el-paso/bo-dacious-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:el-paso-bo-dacious-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART:20261129T023000Z
+DTEND:20261129T043000Z
+SUMMARY:Bo Dacious
+LOCATION:El Paso Comic Strip\, 1201 Airway Blvd\, El Paso\, TX 79925
+DESCRIPTION:Four stand-up shows over the weekend. Tickets. Details: https:
+ //weekendscout.app/e/el-paso/bo-dacious-2026-11/
+URL:https://weekendscout.app/e/el-paso/bo-dacious-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:el-paso-bo-dacious-2026-11-sat-1@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART:20261129T050000Z
+DTEND:20261129T070000Z
+SUMMARY:Bo Dacious
+LOCATION:El Paso Comic Strip\, 1201 Airway Blvd\, El Paso\, TX 79925
+DESCRIPTION:Four stand-up shows over the weekend. Tickets. Details: https:
+ //weekendscout.app/e/el-paso/bo-dacious-2026-11/
+URL:https://weekendscout.app/e/el-paso/bo-dacious-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:el-paso-bo-dacious-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART:20261130T023000Z
+DTEND:20261130T043000Z
+SUMMARY:Bo Dacious
+LOCATION:El Paso Comic Strip\, 1201 Airway Blvd\, El Paso\, TX 79925
+DESCRIPTION:Four stand-up shows over the weekend. Tickets. Details: https:
+ //weekendscout.app/e/el-paso/bo-dacious-2026-11/
+URL:https://weekendscout.app/e/el-paso/bo-dacious-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:el-paso-adri-n-uribe-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART:20261130T030000Z
+DTEND:20261130T050000Z
+SUMMARY:Adrián Uribe
+LOCATION:Plaza Theatre\, 125 Pioneer Plaza\, El Paso\, TX 79901
+DESCRIPTION:The Mexican comedian and actor in the restored 1930 Plaza Thea
+ tre. Tickets. Details: https://weekendscout.app/e/el-paso/adri-n-uribe-202
+ 6-11/
+URL:https://weekendscout.app/e/el-paso/adri-n-uribe-2026-11/
+END:VEVENT
+END:VCALENDAR

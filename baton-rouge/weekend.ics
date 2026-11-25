@@ -1,0 +1,114 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Baton Rouge
+X-WR-CALDESC:Hand-checked weekend picks in Baton Rouge, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:baton-rouge-small-business-saturday-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Small Business Saturday
+LOCATION:Local shops across Baton Rouge\, Baton Rouge\, LA
+DESCRIPTION:Visit Baton Rouge’s pick for the weekend: shop the city’s 
+ boutiques\, gift shops and local grocers. Free to browse. Details: https:/
+ /weekendscout.app/e/baton-rouge/small-business-saturday-2026-11/
+URL:https://weekendscout.app/e/baton-rouge/small-business-saturday-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:baton-rouge-louisiana-lights-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Louisiana Lights
+LOCATION:Burden Museum & Gardens\, 4560 Essen Ln\, Baton Rouge\, LA 70809
+DESCRIPTION:Opening weekend of the walk-through light show in the gardens.
+  Tickets. Details: https://weekendscout.app/e/baton-rouge/louisiana-lights
+ -2026-11/
+URL:https://weekendscout.app/e/baton-rouge/louisiana-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:baton-rouge-louisiana-lights-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Louisiana Lights
+LOCATION:Burden Museum & Gardens\, 4560 Essen Ln\, Baton Rouge\, LA 70809
+DESCRIPTION:Opening weekend of the walk-through light show in the gardens.
+  Tickets. Details: https://weekendscout.app/e/baton-rouge/louisiana-lights
+ -2026-11/
+URL:https://weekendscout.app/e/baton-rouge/louisiana-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:baton-rouge-louisiana-lights-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Louisiana Lights
+LOCATION:Burden Museum & Gardens\, 4560 Essen Ln\, Baton Rouge\, LA 70809
+DESCRIPTION:Opening weekend of the walk-through light show in the gardens.
+  Tickets. Details: https://weekendscout.app/e/baton-rouge/louisiana-lights
+ -2026-11/
+URL:https://weekendscout.app/e/baton-rouge/louisiana-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:baton-rouge-zoo-lights-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Zoo Lights
+LOCATION:BREC’s Baton Rouge Zoo\, 3601 Thomas Rd\, Baton Rouge\, LA 7080
+ 7
+DESCRIPTION:The zoo’s holiday lights open on Black Friday. Tickets. Deta
+ ils: https://weekendscout.app/e/baton-rouge/zoo-lights-2026-11/
+URL:https://weekendscout.app/e/baton-rouge/zoo-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:baton-rouge-zoo-lights-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Zoo Lights
+LOCATION:BREC’s Baton Rouge Zoo\, 3601 Thomas Rd\, Baton Rouge\, LA 7080
+ 7
+DESCRIPTION:The zoo’s holiday lights open on Black Friday. Tickets. Deta
+ ils: https://weekendscout.app/e/baton-rouge/zoo-lights-2026-11/
+URL:https://weekendscout.app/e/baton-rouge/zoo-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:baton-rouge-zoo-lights-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Zoo Lights
+LOCATION:BREC’s Baton Rouge Zoo\, 3601 Thomas Rd\, Baton Rouge\, LA 7080
+ 7
+DESCRIPTION:The zoo’s holiday lights open on Black Friday. Tickets. Deta
+ ils: https://weekendscout.app/e/baton-rouge/zoo-lights-2026-11/
+URL:https://weekendscout.app/e/baton-rouge/zoo-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:baton-rouge-baton-rouge-kingfish-vs-mid-south-monarchs-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART:20261128T010500Z
+DTEND:20261128T030500Z
+SUMMARY:Baton Rouge Kingfish vs. Mid-South Monarchs
+LOCATION:Raising Cane’s River Center\, 275 S River Rd\, Baton Rouge\, LA
+  70802
+DESCRIPTION:Hockey downtown on Black Friday night. Tickets. Details: https
+ ://weekendscout.app/e/baton-rouge/baton-rouge-kingfish-vs-mid-south-monarc
+ hs-2026-11/
+URL:https://weekendscout.app/e/baton-rouge/baton-rouge-kingfish-vs-mid-south-monarchs-2026-11/
+END:VEVENT
+END:VCALENDAR

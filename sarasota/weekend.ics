@@ -1,0 +1,117 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Sarasota
+X-WR-CALDESC:Hand-checked weekend picks in Sarasota, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:sarasota-sarasota-farmers-market-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART:20261128T120000Z
+DTEND:20261128T180000Z
+SUMMARY:Sarasota Farmers Market
+LOCATION:Downtown Sarasota\, Lemon Ave & Main St\, Sarasota\, FL 34236
+DESCRIPTION:The big Saturday market downtown: produce\, food stalls\, flow
+ ers and crafts. Free to browse. Details: https://weekendscout.app/e/saraso
+ ta/sarasota-farmers-market-2026-11/
+URL:https://weekendscout.app/e/sarasota/sarasota-farmers-market-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:sarasota-wonderland-circus-home-for-the-holidays-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART:20261127T190000Z
+DTEND:20261127T210000Z
+SUMMARY:Wonderland Circus: Home for the Holidays
+LOCATION:Wonderland Big Top\, 191 University Town Center Dr\, Sarasota\, F
+ L 34243
+DESCRIPTION:Nik Wallenda’s holiday big-top circus next to the Mall at Un
+ iversity Town Center\, five shows this weekend. $20–$110. Details: https
+ ://weekendscout.app/e/sarasota/wonderland-circus-home-for-the-holidays-202
+ 6-11/
+URL:https://weekendscout.app/e/sarasota/wonderland-circus-home-for-the-holidays-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:sarasota-wonderland-circus-home-for-the-holidays-2026-11-fri-1@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART:20261128T000000Z
+DTEND:20261128T020000Z
+SUMMARY:Wonderland Circus: Home for the Holidays
+LOCATION:Wonderland Big Top\, 191 University Town Center Dr\, Sarasota\, F
+ L 34243
+DESCRIPTION:Nik Wallenda’s holiday big-top circus next to the Mall at Un
+ iversity Town Center\, five shows this weekend. $20–$110. Details: https
+ ://weekendscout.app/e/sarasota/wonderland-circus-home-for-the-holidays-202
+ 6-11/
+URL:https://weekendscout.app/e/sarasota/wonderland-circus-home-for-the-holidays-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:sarasota-wonderland-circus-home-for-the-holidays-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART:20261128T190000Z
+DTEND:20261128T210000Z
+SUMMARY:Wonderland Circus: Home for the Holidays
+LOCATION:Wonderland Big Top\, 191 University Town Center Dr\, Sarasota\, F
+ L 34243
+DESCRIPTION:Nik Wallenda’s holiday big-top circus next to the Mall at Un
+ iversity Town Center\, five shows this weekend. $20–$110. Details: https
+ ://weekendscout.app/e/sarasota/wonderland-circus-home-for-the-holidays-202
+ 6-11/
+URL:https://weekendscout.app/e/sarasota/wonderland-circus-home-for-the-holidays-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:sarasota-wonderland-circus-home-for-the-holidays-2026-11-sat-1@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:Wonderland Circus: Home for the Holidays
+LOCATION:Wonderland Big Top\, 191 University Town Center Dr\, Sarasota\, F
+ L 34243
+DESCRIPTION:Nik Wallenda’s holiday big-top circus next to the Mall at Un
+ iversity Town Center\, five shows this weekend. $20–$110. Details: https
+ ://weekendscout.app/e/sarasota/wonderland-circus-home-for-the-holidays-202
+ 6-11/
+URL:https://weekendscout.app/e/sarasota/wonderland-circus-home-for-the-holidays-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:sarasota-wonderland-circus-home-for-the-holidays-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART:20261129T180000Z
+DTEND:20261129T200000Z
+SUMMARY:Wonderland Circus: Home for the Holidays
+LOCATION:Wonderland Big Top\, 191 University Town Center Dr\, Sarasota\, F
+ L 34243
+DESCRIPTION:Nik Wallenda’s holiday big-top circus next to the Mall at Un
+ iversity Town Center\, five shows this weekend. $20–$110. Details: https
+ ://weekendscout.app/e/sarasota/wonderland-circus-home-for-the-holidays-202
+ 6-11/
+URL:https://weekendscout.app/e/sarasota/wonderland-circus-home-for-the-holidays-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:sarasota-wonderland-circus-home-for-the-holidays-2026-11-sun-1@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART:20261129T220000Z
+DTEND:20261130T000000Z
+SUMMARY:Wonderland Circus: Home for the Holidays
+LOCATION:Wonderland Big Top\, 191 University Town Center Dr\, Sarasota\, F
+ L 34243
+DESCRIPTION:Nik Wallenda’s holiday big-top circus next to the Mall at Un
+ iversity Town Center\, five shows this weekend. $20–$110. Details: https
+ ://weekendscout.app/e/sarasota/wonderland-circus-home-for-the-holidays-202
+ 6-11/
+URL:https://weekendscout.app/e/sarasota/wonderland-circus-home-for-the-holidays-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:sarasota-ahoy-hoy-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART:20261129T190000Z
+DTEND:20261129T210000Z
+SUMMARY:Ahoy-Hoy
+LOCATION:Urbanite Theatre\, 1487 2nd St\, Sarasota\, FL 34236
+DESCRIPTION:New work at downtown’s small\, adventurous theater. Tickets.
+  Details: https://weekendscout.app/e/sarasota/ahoy-hoy-2026-11/
+URL:https://weekendscout.app/e/sarasota/ahoy-hoy-2026-11/
+END:VEVENT
+END:VCALENDAR

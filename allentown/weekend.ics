@@ -1,0 +1,97 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Allentown
+X-WR-CALDESC:Hand-checked weekend picks in Allentown, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:allentown-allentown-art-museum-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Allentown Art Museum
+LOCATION:Allentown Art Museum\, 31 N 5th St\, Allentown\, PA 18101
+DESCRIPTION:Downtown’s art museum\, free for everyone every day. Free ad
+ mission. Details: https://weekendscout.app/e/allentown/allentown-art-museu
+ m-2026-11/
+URL:https://weekendscout.app/e/allentown/allentown-art-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:allentown-allentown-art-museum-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Allentown Art Museum
+LOCATION:Allentown Art Museum\, 31 N 5th St\, Allentown\, PA 18101
+DESCRIPTION:Downtown’s art museum\, free for everyone every day. Free ad
+ mission. Details: https://weekendscout.app/e/allentown/allentown-art-museu
+ m-2026-11/
+URL:https://weekendscout.app/e/allentown/allentown-art-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:allentown-allentown-art-museum-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Allentown Art Museum
+LOCATION:Allentown Art Museum\, 31 N 5th St\, Allentown\, PA 18101
+DESCRIPTION:Downtown’s art museum\, free for everyone every day. Free ad
+ mission. Details: https://weekendscout.app/e/allentown/allentown-art-museu
+ m-2026-11/
+URL:https://weekendscout.app/e/allentown/allentown-art-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:allentown-lehigh-valley-phantoms-vs-providence-bruins-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART:20261129T000500Z
+DTEND:20261129T020500Z
+SUMMARY:Lehigh Valley Phantoms vs. Providence Bruins
+LOCATION:PPL Center\, 701 Hamilton St\, Allentown\, PA 18101
+DESCRIPTION:AHL hockey downtown on Saturday night. Tickets. Details: https
+ ://weekendscout.app/e/allentown/lehigh-valley-phantoms-vs-providence-bruin
+ s-2026-11/
+URL:https://weekendscout.app/e/allentown/lehigh-valley-phantoms-vs-providence-bruins-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:allentown-christkindlmarkt-bethlehem-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART:20261127T150000Z
+DTEND:20261128T010000Z
+SUMMARY:Christkindlmarkt Bethlehem
+LOCATION:PNC Plaza at SteelStacks\, 645 E 1st St\, Bethlehem\, PA 18015
+DESCRIPTION:The German-style Christmas market under the old blast furnaces
+ \, 15 minutes from Allentown. Cashless. Tickets. Details: https://weekends
+ cout.app/e/allentown/christkindlmarkt-bethlehem-2026-11/
+URL:https://weekendscout.app/e/allentown/christkindlmarkt-bethlehem-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:allentown-christkindlmarkt-bethlehem-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART:20261128T150000Z
+DTEND:20261129T010000Z
+SUMMARY:Christkindlmarkt Bethlehem
+LOCATION:PNC Plaza at SteelStacks\, 645 E 1st St\, Bethlehem\, PA 18015
+DESCRIPTION:The German-style Christmas market under the old blast furnaces
+ \, 15 minutes from Allentown. Cashless. Tickets. Details: https://weekends
+ cout.app/e/allentown/christkindlmarkt-bethlehem-2026-11/
+URL:https://weekendscout.app/e/allentown/christkindlmarkt-bethlehem-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:allentown-christkindlmarkt-bethlehem-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261124T235854Z
+DTSTART:20261129T150000Z
+DTEND:20261129T230000Z
+SUMMARY:Christkindlmarkt Bethlehem
+LOCATION:PNC Plaza at SteelStacks\, 645 E 1st St\, Bethlehem\, PA 18015
+DESCRIPTION:The German-style Christmas market under the old blast furnaces
+ \, 15 minutes from Allentown. Cashless. Tickets. Details: https://weekends
+ cout.app/e/allentown/christkindlmarkt-bethlehem-2026-11/
+URL:https://weekendscout.app/e/allentown/christkindlmarkt-bethlehem-2026-11/
+END:VEVENT
+END:VCALENDAR
