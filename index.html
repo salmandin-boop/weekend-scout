@@ -68,6 +68,12 @@ header.top{padding-top:calc(var(--sat) + 20px);padding-bottom:4px}
 .city-list .btn{justify-content:space-between;width:100%}
 .city-q{width:100%;font:inherit;font-size:1rem;color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:11px 12px;min-height:44px;margin:0 0 10px;-webkit-appearance:none;appearance:none}
 .btn.locate{justify-content:center;width:100%;border-style:dashed;border-color:var(--accent);color:var(--accent)}
+.loc-ask{display:grid;gap:12px;text-align:center;padding:4px 0 8px}
+.loc-ask .btn{justify-content:center;width:100%}
+.loc-ic{width:64px;height:64px;margin:4px auto 0;border-radius:50%;display:grid;place-items:center;background:color-mix(in srgb,var(--accent) 14%,transparent);color:var(--accent)}
+.loc-ic svg{width:30px!important;height:30px!important}
+.loc-ask p{color:var(--muted);font-size:.95rem;margin:0}
+.loc-ask .loc-note{font-size:.82rem}
 .kicker{white-space:nowrap;font-size:.75rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--accent)}
 .toprow .kicker{min-width:0;overflow:hidden;text-overflow:ellipsis}
 .skip{position:absolute;left:12px;top:-60px;z-index:30;background:var(--ink);color:var(--bg);padding:10px 14px;border-radius:10px;font-weight:700;text-decoration:none}
@@ -1312,6 +1318,8 @@ document.addEventListener('click', e => {
   if ('share' in t.dataset) return planOpen >= 0 ? sharePlan(planOpen) : share(openId);
   if (t.dataset.plan !== undefined) return openPlan(+t.dataset.plan);
   if ('locate' in t.dataset) return locateMe(t);
+  if ('locfirst' in t.dataset) return locateMe(t, true);
+  if ('pickcity' in t.dataset) return openCityPicker();
   if ('near' in t.dataset) return toggleNear(t);
   if ('map' in t.dataset) return toggleMap();
   if ('calall' in t.dataset) { const ics = allICS(); if (!ics) return toast('None of your saved events has a set time yet'); saveFile('my-weekend.ics', ics, 'text/calendar;charset=utf-8'); return; }
@@ -1469,15 +1477,39 @@ function toggleNear(btn){
     if (near > 100) toast(`You're about ${Math.round(near)} mi from ${CITY.name}. Try "Use my location" in the city picker.`); else toast('Closest events first');
   }, () => { btn.disabled = false; toast('Location is off, so we can\'t sort by distance.'); }, { enableHighAccuracy:false, timeout:10000, maximumAge:300000 });
 }
-function locateMe(btn){
-  if (!('geolocation' in navigator)) return toast("Your browser can't share location");
-  btn.disabled = true; btn.textContent = 'Finding your city…';
+function locateMe(btn, firstRun){
+  if (!('geolocation' in navigator)) { if (firstRun) openCityPicker(); return toast("Your browser can't share location"); }
+  if (btn) { btn.disabled = true; btn.textContent = 'Finding your city…'; }
+  const reset = () => { if (btn && btn.isConnected) { btn.disabled = false; btn.innerHTML = `${ICON.locate} ${firstRun ? 'Allow location' : 'Use my location'}`; } };
   navigator.geolocation.getCurrentPosition(pos => {
     const { latitude:la, longitude:lo } = pos.coords; POS = [la, lo];
     const near = CITIES.map(c => ({ c, mi:milesBetween(la, lo, c.lat, c.lon) })).sort((a,b) => a.mi - b.mi)[0];
-    if (near.mi <= 100){ closeSheet(); switchCity(near.c.id).then(() => toast(`Showing ${cityName(near.c)}`)); if (near.c.id === CITY.id) toast(`You're in ${cityName(near.c)}`); }
-    else { btn.disabled = false; btn.innerHTML = `${ICON.locate} Use my location`; toast(`We're not in your area yet. Closest: ${cityName(near.c)}, ${Math.round(near.mi)} mi`); }
-  }, () => { btn.disabled = false; btn.innerHTML = `${ICON.locate} Use my location`; toast('Location is off. Pick your city below.'); }, { enableHighAccuracy:false, timeout:10000, maximumAge:600000 });
+    if (near.mi <= 100){ closeSheet(); store.set('ws-city', near.c.id); const nearFirst = () => { if (firstRun && DATA){ S.near = true; renderControls(); renderHome(); } }; if (near.c.id === CITY.id) { nearFirst(); toast(`You're in ${cityName(near.c)}`); } else switchCity(near.c.id).then(() => { nearFirst(); toast(`Showing ${cityName(near.c)}`); }); }
+    else { reset(); if (firstRun) openCityPicker(); toast(`We're not in your area yet. Closest: ${cityName(near.c)}, ${Math.round(near.mi)} mi`); }
+  }, () => { reset(); if (firstRun) openCityPicker(); toast('Location is off. Pick your city below.'); }, { enableHighAccuracy:false, timeout:10000, maximumAge:600000 });
+}
+/* First open: ask for location before anything else, so the app can open the nearest city */
+function openLocationAsk(){
+  openId = null; planOpen = -1;
+  $('sheet-in').innerHTML = `<div class="grab" aria-hidden="true"></div>
+    <div class="sheet-head"><h2 id="s-title">Find what's on near you</h2><button class="x-btn" type="button" data-pickcity aria-label="Close">${ICON.x}</button></div>
+    <div class="loc-ask">
+      <div class="loc-ic" aria-hidden="true">${ICON.locate}</div>
+      <p>Allow location and we'll open the closest Weekend Scout city, with this weekend's picks sorted nearest first.</p>
+      <button class="btn primary" type="button" data-locfirst>${ICON.locate} Allow location</button>
+      <button class="btn" type="button" data-pickcity>Choose my city instead</button>
+      <p class="loc-note">Your location stays on your phone. It's never sent to us or stored.</p>
+    </div>`;
+  if (!sheet.open){ try { sheet.showModal(); } catch { sheet.setAttribute('open',''); } }
+}
+async function firstRunLocation(){
+  store.set('ws-loc-asked', true);
+  if (!('geolocation' in navigator)) return openCityPicker();
+  let st = 'prompt';
+  try { if (navigator.permissions) st = (await navigator.permissions.query({ name:'geolocation' })).state; } catch {}
+  if (st === 'granted') return locateMe(null, true);
+  if (st === 'denied') return openCityPicker();
+  openLocationAsk();
 }
 function noData(){
   $('dates').textContent = "Couldn't load this weekend's events.";
@@ -1522,8 +1554,8 @@ function renderHeaderCityOnly(){ $('city-label').textContent = cityName(CITY); $
   if (qp.get('go') === 'submit') { (window.__introGone || Promise.resolve()).then(goSubmit); return; }
   const qv = qp.get('vote');
   if (qv) { const ids = qv.split(',').slice(0, 4); (window.__introGone || Promise.resolve()).then(() => openVote(ids, (qp.get('by') || '').slice(0, 24))); return; }
-  // First visit and more than one city: ask which city they're in
-  if (!want && CITIES.length > 1 && !location.hash) (window.__introGone || Promise.resolve()).then(() => { if (!sheet.open) openCityPicker(); });
+  // First visit and more than one city: ask for location (nearest city), falling back to the city list
+  if (!want && CITIES.length > 1 && !location.hash) (window.__introGone || Promise.resolve()).then(() => { if (sheet.open) return; if (!store.get('ws-loc-asked', false)) firstRunLocation(); else openCityPicker(); });
 })();
 
 /* ---------- Friday-morning reminder ----------
