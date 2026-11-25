@@ -1,0 +1,82 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Boise
+X-WR-CALDESC:Hand-checked weekend picks in Boise, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:boise-downtown-boise-holiday-tree-lighting-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T000523Z
+DTSTART:20261128T000000Z
+DTEND:20261128T020000Z
+SUMMARY:Downtown Boise Holiday Tree Lighting
+LOCATION:Grove Plaza\, Grove Plaza\, Boise\, ID 83702
+DESCRIPTION:The city’s big tree lights up on the Grove on the night afte
+ r Thanksgiving. Free to attend. Details: https://weekendscout.app/e/boise/
+ downtown-boise-holiday-tree-lighting-2026-11/
+URL:https://weekendscout.app/e/boise/downtown-boise-holiday-tree-lighting-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:boise-trans-siberian-orchestra-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T000523Z
+DTSTART:20261127T213000Z
+DTEND:20261127T233000Z
+SUMMARY:Trans-Siberian Orchestra
+LOCATION:ExtraMile Arena\, 1401 Bronco Ln\, Boise\, ID 83725
+DESCRIPTION:The rock orchestra’s holiday tour\, matinee and evening show
+ s. Tickets. Details: https://weekendscout.app/e/boise/trans-siberian-orche
+ stra-2026-11/
+URL:https://weekendscout.app/e/boise/trans-siberian-orchestra-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:boise-trans-siberian-orchestra-2026-11-fri-1@weekendscout.app
+DTSTAMP:20261125T000523Z
+DTSTART:20261128T020000Z
+DTEND:20261128T040000Z
+SUMMARY:Trans-Siberian Orchestra
+LOCATION:ExtraMile Arena\, 1401 Bronco Ln\, Boise\, ID 83725
+DESCRIPTION:The rock orchestra’s holiday tour\, matinee and evening show
+ s. Tickets. Details: https://weekendscout.app/e/boise/trans-siberian-orche
+ stra-2026-11/
+URL:https://weekendscout.app/e/boise/trans-siberian-orchestra-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:boise-a-little-princess-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T000523Z
+DTSTART:20261128T023000Z
+DTEND:20261128T043000Z
+SUMMARY:A Little Princess
+LOCATION:Boise Little Theater\, 100 E Fort St\, Boise\, ID 83702
+DESCRIPTION:The community theater’s family production of the classic sto
+ ry. Tickets. Details: https://weekendscout.app/e/boise/a-little-princess-2
+ 026-11/
+URL:https://weekendscout.app/e/boise/a-little-princess-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:boise-a-little-princess-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T000523Z
+DTSTART:20261129T023000Z
+DTEND:20261129T043000Z
+SUMMARY:A Little Princess
+LOCATION:Boise Little Theater\, 100 E Fort St\, Boise\, ID 83702
+DESCRIPTION:The community theater’s family production of the classic sto
+ ry. Tickets. Details: https://weekendscout.app/e/boise/a-little-princess-2
+ 026-11/
+URL:https://weekendscout.app/e/boise/a-little-princess-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:boise-a-little-princess-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T000523Z
+DTSTART:20261129T210000Z
+DTEND:20261129T230000Z
+SUMMARY:A Little Princess
+LOCATION:Boise Little Theater\, 100 E Fort St\, Boise\, ID 83702
+DESCRIPTION:The community theater’s family production of the classic sto
+ ry. Tickets. Details: https://weekendscout.app/e/boise/a-little-princess-2
+ 026-11/
+URL:https://weekendscout.app/e/boise/a-little-princess-2026-11/
+END:VEVENT
+END:VCALENDAR

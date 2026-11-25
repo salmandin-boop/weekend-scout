@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:minneapolis-wild-vs-avalanche-fri-0@weekendscout.app
-DTSTAMP:20261124T235854Z
+DTSTAMP:20261125T000523Z
 DTSTART:20261127T210000Z
 DTEND:20261127T230000Z
 SUMMARY:Minnesota Wild vs. Colorado Avalanche
@@ -21,7 +21,7 @@ URL:https://weekendscout.app/e/minneapolis/wild-vs-avalanche/
 END:VEVENT
 BEGIN:VEVENT
 UID:minneapolis-timberwolves-vs-grizzlies-fri-0@weekendscout.app
-DTSTAMP:20261124T235854Z
+DTSTAMP:20261125T000523Z
 DTSTART:20261128T013000Z
 DTEND:20261128T033000Z
 SUMMARY:Timberwolves vs. Memphis Grizzlies
@@ -33,7 +33,7 @@ URL:https://weekendscout.app/e/minneapolis/timberwolves-vs-grizzlies/
 END:VEVENT
 BEGIN:VEVENT
 UID:minneapolis-vikings-vs-falcons-sun-0@weekendscout.app
-DTSTAMP:20261124T235854Z
+DTSTAMP:20261125T000523Z
 DTSTART:20261129T180000Z
 DTEND:20261129T200000Z
 SUMMARY:Vikings vs. Atlanta Falcons
@@ -45,7 +45,7 @@ URL:https://weekendscout.app/e/minneapolis/vikings-vs-falcons/
 END:VEVENT
 BEGIN:VEVENT
 UID:minneapolis-guthrie-christmas-carol-fri-0@weekendscout.app
-DTSTAMP:20261124T235854Z
+DTSTAMP:20261125T000523Z
 DTSTART:20261128T013000Z
 DTEND:20261128T033000Z
 SUMMARY:A Christmas Carol
@@ -58,7 +58,7 @@ URL:https://weekendscout.app/e/minneapolis/guthrie-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:minneapolis-guthrie-christmas-carol-sat-0@weekendscout.app
-DTSTAMP:20261124T235854Z
+DTSTAMP:20261125T000523Z
 DTSTART:20261128T190000Z
 DTEND:20261128T210000Z
 SUMMARY:A Christmas Carol
@@ -71,7 +71,7 @@ URL:https://weekendscout.app/e/minneapolis/guthrie-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:minneapolis-guthrie-christmas-carol-sun-0@weekendscout.app
-DTSTAMP:20261124T235854Z
+DTSTAMP:20261125T000523Z
 DTSTART:20261130T000000Z
 DTEND:20261130T020000Z
 SUMMARY:A Christmas Carol
@@ -84,7 +84,7 @@ URL:https://weekendscout.app/e/minneapolis/guthrie-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:minneapolis-ctc-grinch-fri-0@weekendscout.app
-DTSTAMP:20261124T235854Z
+DTSTAMP:20261125T000523Z
 DTSTART:20261127T200000Z
 DTEND:20261127T220000Z
 SUMMARY:Dr. Seuss's How the Grinch Stole Christmas
@@ -98,7 +98,7 @@ URL:https://weekendscout.app/e/minneapolis/ctc-grinch/
 END:VEVENT
 BEGIN:VEVENT
 UID:minneapolis-ctc-grinch-fri-1@weekendscout.app
-DTSTAMP:20261124T235854Z
+DTSTAMP:20261125T000523Z
 DTSTART:20261128T010000Z
 DTEND:20261128T030000Z
 SUMMARY:Dr. Seuss's How the Grinch Stole Christmas
@@ -112,7 +112,7 @@ URL:https://weekendscout.app/e/minneapolis/ctc-grinch/
 END:VEVENT
 BEGIN:VEVENT
 UID:minneapolis-ctc-grinch-sat-0@weekendscout.app
-DTSTAMP:20261124T235854Z
+DTSTAMP:20261125T000523Z
 DTSTART:20261128T170000Z
 DTEND:20261128T190000Z
 SUMMARY:Dr. Seuss's How the Grinch Stole Christmas
@@ -126,7 +126,7 @@ URL:https://weekendscout.app/e/minneapolis/ctc-grinch/
 END:VEVENT
 BEGIN:VEVENT
 UID:minneapolis-ctc-grinch-sun-0@weekendscout.app
-DTSTAMP:20261124T235854Z
+DTSTAMP:20261125T000523Z
 DTSTART:20261129T200000Z
 DTEND:20261129T220000Z
 SUMMARY:Dr. Seuss's How the Grinch Stole Christmas
@@ -140,7 +140,7 @@ URL:https://weekendscout.app/e/minneapolis/ctc-grinch/
 END:VEVENT
 BEGIN:VEVENT
 UID:minneapolis-ctc-grinch-sun-1@weekendscout.app
-DTSTAMP:20261124T235854Z
+DTSTAMP:20261125T000523Z
 DTSTART:20261129T230000Z
 DTEND:20261130T010000Z
 SUMMARY:Dr. Seuss's How the Grinch Stole Christmas
@@ -154,7 +154,7 @@ URL:https://weekendscout.app/e/minneapolis/ctc-grinch/
 END:VEVENT
 BEGIN:VEVENT
 UID:minneapolis-mn-orchestra-httyd-sat-0@weekendscout.app
-DTSTAMP:20261124T235854Z
+DTSTAMP:20261125T000523Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -167,7 +167,7 @@ URL:https://weekendscout.app/e/minneapolis/mn-orchestra-httyd/
 END:VEVENT
 BEGIN:VEVENT
 UID:minneapolis-mn-orchestra-httyd-sun-0@weekendscout.app
-DTSTAMP:20261124T235854Z
+DTSTAMP:20261125T000523Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -180,7 +180,7 @@ URL:https://weekendscout.app/e/minneapolis/mn-orchestra-httyd/
 END:VEVENT
 BEGIN:VEVENT
 UID:minneapolis-acme-tommy-ryman-fri-0@weekendscout.app
-DTSTAMP:20261124T235854Z
+DTSTAMP:20261125T000523Z
 DTSTART:20261128T010000Z
 DTEND:20261128T030000Z
 SUMMARY:Tommy Ryman
@@ -192,7 +192,7 @@ URL:https://weekendscout.app/e/minneapolis/acme-tommy-ryman/
 END:VEVENT
 BEGIN:VEVENT
 UID:minneapolis-acme-tommy-ryman-fri-1@weekendscout.app
-DTSTAMP:20261124T235854Z
+DTSTAMP:20261125T000523Z
 DTSTART:20261128T033000Z
 DTEND:20261128T053000Z
 SUMMARY:Tommy Ryman
@@ -204,7 +204,7 @@ URL:https://weekendscout.app/e/minneapolis/acme-tommy-ryman/
 END:VEVENT
 BEGIN:VEVENT
 UID:minneapolis-acme-tommy-ryman-sat-0@weekendscout.app
-DTSTAMP:20261124T235854Z
+DTSTAMP:20261125T000523Z
 DTSTART:20261129T010000Z
 DTEND:20261129T030000Z
 SUMMARY:Tommy Ryman
@@ -216,7 +216,7 @@ URL:https://weekendscout.app/e/minneapolis/acme-tommy-ryman/
 END:VEVENT
 BEGIN:VEVENT
 UID:minneapolis-acme-tommy-ryman-sat-1@weekendscout.app
-DTSTAMP:20261124T235854Z
+DTSTAMP:20261125T000523Z
 DTSTART:20261129T033000Z
 DTEND:20261129T053000Z
 SUMMARY:Tommy Ryman
@@ -228,7 +228,7 @@ URL:https://weekendscout.app/e/minneapolis/acme-tommy-ryman/
 END:VEVENT
 BEGIN:VEVENT
 UID:minneapolis-european-christmas-market-fri-0@weekendscout.app
-DTSTAMP:20261124T235854Z
+DTSTAMP:20261125T000523Z
 DTSTART:20261127T190000Z
 DTEND:20261128T030000Z
 SUMMARY:European Christmas Market
@@ -241,7 +241,7 @@ URL:https://weekendscout.app/e/minneapolis/european-christmas-market/
 END:VEVENT
 BEGIN:VEVENT
 UID:minneapolis-european-christmas-market-sat-0@weekendscout.app
-DTSTAMP:20261124T235854Z
+DTSTAMP:20261125T000523Z
 DTSTART:20261128T170000Z
 DTEND:20261129T030000Z
 SUMMARY:European Christmas Market
@@ -254,7 +254,7 @@ URL:https://weekendscout.app/e/minneapolis/european-christmas-market/
 END:VEVENT
 BEGIN:VEVENT
 UID:minneapolis-european-christmas-market-sun-0@weekendscout.app
-DTSTAMP:20261124T235854Z
+DTSTAMP:20261125T000523Z
 DTSTART:20261129T170000Z
 DTEND:20261130T000000Z
 SUMMARY:European Christmas Market
@@ -267,7 +267,7 @@ URL:https://weekendscout.app/e/minneapolis/european-christmas-market/
 END:VEVENT
 BEGIN:VEVENT
 UID:minneapolis-minneapolis-christkindl-market-fri-0@weekendscout.app
-DTSTAMP:20261124T235854Z
+DTSTAMP:20261125T000523Z
 DTSTART:20261127T220000Z
 DTEND:20261128T030000Z
 SUMMARY:Minneapolis Christkindl Market
@@ -279,7 +279,7 @@ URL:https://weekendscout.app/e/minneapolis/minneapolis-christkindl-market/
 END:VEVENT
 BEGIN:VEVENT
 UID:minneapolis-minneapolis-christkindl-market-sat-0@weekendscout.app
-DTSTAMP:20261124T235854Z
+DTSTAMP:20261125T000523Z
 DTSTART:20261128T170000Z
 DTEND:20261129T030000Z
 SUMMARY:Minneapolis Christkindl Market
@@ -291,7 +291,7 @@ URL:https://weekendscout.app/e/minneapolis/minneapolis-christkindl-market/
 END:VEVENT
 BEGIN:VEVENT
 UID:minneapolis-minneapolis-christkindl-market-sun-0@weekendscout.app
-DTSTAMP:20261124T235854Z
+DTSTAMP:20261125T000523Z
 DTSTART:20261129T170000Z
 DTEND:20261130T010000Z
 SUMMARY:Minneapolis Christkindl Market
@@ -303,7 +303,7 @@ URL:https://weekendscout.app/e/minneapolis/minneapolis-christkindl-market/
 END:VEVENT
 BEGIN:VEVENT
 UID:minneapolis-shine-on-black-friday-block-party-fri-0@weekendscout.app
-DTSTAMP:20261124T235854Z
+DTSTAMP:20261125T000523Z
 DTSTART:20261127T230000Z
 DTEND:20261128T040000Z
 SUMMARY:Shine On Black Friday Block Party
@@ -317,7 +317,7 @@ URL:https://weekendscout.app/e/minneapolis/shine-on-black-friday-block-party/
 END:VEVENT
 BEGIN:VEVENT
 UID:minneapolis-norway-house-gingerbread-wonderland-fri-0@weekendscout.app
-DTSTAMP:20261124T235854Z
+DTSTAMP:20261125T000523Z
 DTSTART:20261127T160000Z
 DTEND:20261127T230000Z
 SUMMARY:Gingerbread Wonderland
@@ -330,7 +330,7 @@ URL:https://weekendscout.app/e/minneapolis/norway-house-gingerbread-wonderland/
 END:VEVENT
 BEGIN:VEVENT
 UID:minneapolis-norway-house-gingerbread-wonderland-sat-0@weekendscout.app
-DTSTAMP:20261124T235854Z
+DTSTAMP:20261125T000523Z
 DTSTART:20261128T160000Z
 DTEND:20261128T230000Z
 SUMMARY:Gingerbread Wonderland
@@ -343,7 +343,7 @@ URL:https://weekendscout.app/e/minneapolis/norway-house-gingerbread-wonderland/
 END:VEVENT
 BEGIN:VEVENT
 UID:minneapolis-norway-house-gingerbread-wonderland-sun-0@weekendscout.app
-DTSTAMP:20261124T235854Z
+DTSTAMP:20261125T000523Z
 DTSTART:20261129T180000Z
 DTEND:20261129T230000Z
 SUMMARY:Gingerbread Wonderland
@@ -356,7 +356,7 @@ URL:https://weekendscout.app/e/minneapolis/norway-house-gingerbread-wonderland/
 END:VEVENT
 BEGIN:VEVENT
 UID:minneapolis-arboretum-northern-lights-fri-0@weekendscout.app
-DTSTAMP:20261124T235854Z
+DTSTAMP:20261125T000523Z
 DTSTART:20261127T223000Z
 DTEND:20261128T033000Z
 SUMMARY:Northern Lights at the Arboretum
@@ -370,7 +370,7 @@ URL:https://weekendscout.app/e/minneapolis/arboretum-northern-lights/
 END:VEVENT
 BEGIN:VEVENT
 UID:minneapolis-arboretum-northern-lights-sat-0@weekendscout.app
-DTSTAMP:20261124T235854Z
+DTSTAMP:20261125T000523Z
 DTSTART:20261128T223000Z
 DTEND:20261129T033000Z
 SUMMARY:Northern Lights at the Arboretum
@@ -384,7 +384,7 @@ URL:https://weekendscout.app/e/minneapolis/arboretum-northern-lights/
 END:VEVENT
 BEGIN:VEVENT
 UID:minneapolis-arboretum-northern-lights-sun-0@weekendscout.app
-DTSTAMP:20261124T235854Z
+DTSTAMP:20261125T000523Z
 DTSTART:20261129T223000Z
 DTEND:20261130T033000Z
 SUMMARY:Northern Lights at the Arboretum
