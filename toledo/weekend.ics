@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Toledo
+X-WR-CALDESC:Hand-checked weekend picks in Toledo, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:toledo-toledo-museum-of-art-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Toledo Museum of Art
+LOCATION:Toledo Museum of Art\, 2445 Monroe St\, Toledo\, OH 43620
+DESCRIPTION:A world-class collection and the Glass Pavilion\, with free ge
+ neral admission. Free admission. Details: https://weekendscout.app/e/toled
+ o/toledo-museum-of-art-2026-11/
+URL:https://weekendscout.app/e/toledo/toledo-museum-of-art-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:toledo-toledo-museum-of-art-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Toledo Museum of Art
+LOCATION:Toledo Museum of Art\, 2445 Monroe St\, Toledo\, OH 43620
+DESCRIPTION:A world-class collection and the Glass Pavilion\, with free ge
+ neral admission. Free admission. Details: https://weekendscout.app/e/toled
+ o/toledo-museum-of-art-2026-11/
+URL:https://weekendscout.app/e/toledo/toledo-museum-of-art-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:toledo-toledo-museum-of-art-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Toledo Museum of Art
+LOCATION:Toledo Museum of Art\, 2445 Monroe St\, Toledo\, OH 43620
+DESCRIPTION:A world-class collection and the Glass Pavilion\, with free ge
+ neral admission. Free admission. Details: https://weekendscout.app/e/toled
+ o/toledo-museum-of-art-2026-11/
+URL:https://weekendscout.app/e/toledo/toledo-museum-of-art-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:toledo-toledo-walleye-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART:20261128T001500Z
+DTEND:20261128T021500Z
+SUMMARY:Toledo Walleye
+LOCATION:Huntington Center\, 500 Jefferson Ave\, Toledo\, OH 43604
+DESCRIPTION:ECHL hockey downtown: Wheeling on Friday\, Fort Wayne on Sunda
+ y. Tickets. Details: https://weekendscout.app/e/toledo/toledo-walleye-2026
+ -11/
+URL:https://weekendscout.app/e/toledo/toledo-walleye-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:toledo-toledo-walleye-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART:20261129T221500Z
+DTEND:20261130T001500Z
+SUMMARY:Toledo Walleye
+LOCATION:Huntington Center\, 500 Jefferson Ave\, Toledo\, OH 43604
+DESCRIPTION:ECHL hockey downtown: Wheeling on Friday\, Fort Wayne on Sunda
+ y. Tickets. Details: https://weekendscout.app/e/toledo/toledo-walleye-2026
+ -11/
+URL:https://weekendscout.app/e/toledo/toledo-walleye-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:toledo-cirque-dreams-holidaze-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART:20261128T210000Z
+DTEND:20261128T230000Z
+SUMMARY:Cirque Dreams Holidaze
+LOCATION:Stranahan Theater\, 4645 Heatherdowns Blvd\, Toledo\, OH 43614
+DESCRIPTION:The holiday acrobatics spectacular. Tickets. Details: https://
+ weekendscout.app/e/toledo/cirque-dreams-holidaze-2026-11/
+URL:https://weekendscout.app/e/toledo/cirque-dreams-holidaze-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:toledo-cirque-dreams-holidaze-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART:20261129T190000Z
+DTEND:20261129T210000Z
+SUMMARY:Cirque Dreams Holidaze
+LOCATION:Stranahan Theater\, 4645 Heatherdowns Blvd\, Toledo\, OH 43614
+DESCRIPTION:The holiday acrobatics spectacular. Tickets. Details: https://
+ weekendscout.app/e/toledo/cirque-dreams-holidaze-2026-11/
+URL:https://weekendscout.app/e/toledo/cirque-dreams-holidaze-2026-11/
+END:VEVENT
+END:VCALENDAR

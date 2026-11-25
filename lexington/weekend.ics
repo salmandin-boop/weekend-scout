@@ -1,0 +1,121 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Lexington
+X-WR-CALDESC:Hand-checked weekend picks in Lexington, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:lexington-the-arboretum-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:The Arboretum
+LOCATION:The Arboretum\, State Botanical Garden of Kentucky\, 500 Alumni D
+ r\, Lexington\, KY 40503
+DESCRIPTION:100 acres of gardens and woodland walks\, open every day. Free
+ . Details: https://weekendscout.app/e/lexington/the-arboretum-2026-11/
+URL:https://weekendscout.app/e/lexington/the-arboretum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:lexington-the-arboretum-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:The Arboretum
+LOCATION:The Arboretum\, State Botanical Garden of Kentucky\, 500 Alumni D
+ r\, Lexington\, KY 40503
+DESCRIPTION:100 acres of gardens and woodland walks\, open every day. Free
+ . Details: https://weekendscout.app/e/lexington/the-arboretum-2026-11/
+URL:https://weekendscout.app/e/lexington/the-arboretum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:lexington-the-arboretum-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:The Arboretum
+LOCATION:The Arboretum\, State Botanical Garden of Kentucky\, 500 Alumni D
+ r\, Lexington\, KY 40503
+DESCRIPTION:100 acres of gardens and woodland walks\, open every day. Free
+ . Details: https://weekendscout.app/e/lexington/the-arboretum-2026-11/
+URL:https://weekendscout.app/e/lexington/the-arboretum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:lexington-kentucky-wildcats-vs-louisville-cardinals-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART:20261128T170000Z
+DTEND:20261128T190000Z
+SUMMARY:Kentucky Wildcats vs. Louisville Cardinals
+LOCATION:Kroger Field\, 1540 University Dr\, Lexington\, KY 40506
+DESCRIPTION:The Governor’s Cup rivalry game at noon Saturday. Tickets. D
+ etails: https://weekendscout.app/e/lexington/kentucky-wildcats-vs-louisvil
+ le-cardinals-2026-11/
+URL:https://weekendscout.app/e/lexington/kentucky-wildcats-vs-louisville-cardinals-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:lexington-kentucky-wildcats-vs-wichita-state-shockers-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART:20261128T020000Z
+DTEND:20261128T040000Z
+SUMMARY:Kentucky Wildcats vs. Wichita State Shockers
+LOCATION:Rupp Arena\, 430 W Vine St\, Lexington\, KY 40507
+DESCRIPTION:UK men’s basketball on Black Friday night. Tickets. Details:
+  https://weekendscout.app/e/lexington/kentucky-wildcats-vs-wichita-state-s
+ hockers-2026-11/
+URL:https://weekendscout.app/e/lexington/kentucky-wildcats-vs-wichita-state-shockers-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:lexington-black-stone-cherry-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART:20261128T010000Z
+DTEND:20261128T030000Z
+SUMMARY:Black Stone Cherry
+LOCATION:Manchester Music Hall\, 899 Manchester St\, Lexington\, KY 40508
+DESCRIPTION:The Kentucky hard-rock band in the Distillery District. Ticket
+ s. Details: https://weekendscout.app/e/lexington/black-stone-cherry-2026-1
+ 1/
+URL:https://weekendscout.app/e/lexington/black-stone-cherry-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:lexington-trish-suhr-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART:20261127T230000Z
+DTEND:20261128T010000Z
+SUMMARY:Trish Suhr
+LOCATION:Comedy Off Broadway\, 161 Lexington Green Cir\, Lexington\, KY 40
+ 503
+DESCRIPTION:Stand-up\, three shows. Tickets. Details: https://weekendscout
+ .app/e/lexington/trish-suhr-2026-11/
+URL:https://weekendscout.app/e/lexington/trish-suhr-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:lexington-trish-suhr-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART:20261128T230000Z
+DTEND:20261129T010000Z
+SUMMARY:Trish Suhr
+LOCATION:Comedy Off Broadway\, 161 Lexington Green Cir\, Lexington\, KY 40
+ 503
+DESCRIPTION:Stand-up\, three shows. Tickets. Details: https://weekendscout
+ .app/e/lexington/trish-suhr-2026-11/
+URL:https://weekendscout.app/e/lexington/trish-suhr-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:lexington-trish-suhr-2026-11-sat-1@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART:20261129T013000Z
+DTEND:20261129T033000Z
+SUMMARY:Trish Suhr
+LOCATION:Comedy Off Broadway\, 161 Lexington Green Cir\, Lexington\, KY 40
+ 503
+DESCRIPTION:Stand-up\, three shows. Tickets. Details: https://weekendscout
+ .app/e/lexington/trish-suhr-2026-11/
+URL:https://weekendscout.app/e/lexington/trish-suhr-2026-11/
+END:VEVENT
+END:VCALENDAR

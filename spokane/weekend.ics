@@ -1,0 +1,120 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Spokane
+X-WR-CALDESC:Hand-checked weekend picks in Spokane, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:spokane-riverfront-park-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Riverfront Park
+LOCATION:Riverfront Park\, 507 N Howard St\, Spokane\, WA 99201
+DESCRIPTION:The 100-acre downtown park around Spokane Falls\, with the Pav
+ ilion and the Garbage Goat. Free. Details: https://weekendscout.app/e/spok
+ ane/riverfront-park-2026-11/
+URL:https://weekendscout.app/e/spokane/riverfront-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:spokane-riverfront-park-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Riverfront Park
+LOCATION:Riverfront Park\, 507 N Howard St\, Spokane\, WA 99201
+DESCRIPTION:The 100-acre downtown park around Spokane Falls\, with the Pav
+ ilion and the Garbage Goat. Free. Details: https://weekendscout.app/e/spok
+ ane/riverfront-park-2026-11/
+URL:https://weekendscout.app/e/spokane/riverfront-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:spokane-riverfront-park-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Riverfront Park
+LOCATION:Riverfront Park\, 507 N Howard St\, Spokane\, WA 99201
+DESCRIPTION:The 100-acre downtown park around Spokane Falls\, with the Pav
+ ilion and the Garbage Goat. Free. Details: https://weekendscout.app/e/spok
+ ane/riverfront-park-2026-11/
+URL:https://weekendscout.app/e/spokane/riverfront-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:spokane-alter-bridge-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART:20261128T030000Z
+DTEND:20261128T050000Z
+SUMMARY:Alter Bridge
+LOCATION:Martin Woldson Theater at the Fox\, 1001 W Sprague Ave\, Spokane\
+ , WA 99201
+DESCRIPTION:The rock band in the restored art deco Fox Theater. Tickets. D
+ etails: https://weekendscout.app/e/spokane/alter-bridge-2026-11/
+URL:https://weekendscout.app/e/spokane/alter-bridge-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:spokane-jay-chandrasekhar-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART:20261128T030000Z
+DTEND:20261128T050000Z
+SUMMARY:Jay Chandrasekhar
+LOCATION:Spokane Comedy Club\, 315 W Sprague Ave\, Spokane\, WA 99201
+DESCRIPTION:The Super Troopers director and Broken Lizard comic\, four sho
+ ws. Tickets. Details: https://weekendscout.app/e/spokane/jay-chandrasekhar
+ -2026-11/
+URL:https://weekendscout.app/e/spokane/jay-chandrasekhar-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:spokane-jay-chandrasekhar-2026-11-fri-1@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART:20261128T054500Z
+DTEND:20261128T074500Z
+SUMMARY:Jay Chandrasekhar
+LOCATION:Spokane Comedy Club\, 315 W Sprague Ave\, Spokane\, WA 99201
+DESCRIPTION:The Super Troopers director and Broken Lizard comic\, four sho
+ ws. Tickets. Details: https://weekendscout.app/e/spokane/jay-chandrasekhar
+ -2026-11/
+URL:https://weekendscout.app/e/spokane/jay-chandrasekhar-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:spokane-jay-chandrasekhar-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART:20261129T030000Z
+DTEND:20261129T050000Z
+SUMMARY:Jay Chandrasekhar
+LOCATION:Spokane Comedy Club\, 315 W Sprague Ave\, Spokane\, WA 99201
+DESCRIPTION:The Super Troopers director and Broken Lizard comic\, four sho
+ ws. Tickets. Details: https://weekendscout.app/e/spokane/jay-chandrasekhar
+ -2026-11/
+URL:https://weekendscout.app/e/spokane/jay-chandrasekhar-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:spokane-jay-chandrasekhar-2026-11-sat-1@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART:20261129T054500Z
+DTEND:20261129T074500Z
+SUMMARY:Jay Chandrasekhar
+LOCATION:Spokane Comedy Club\, 315 W Sprague Ave\, Spokane\, WA 99201
+DESCRIPTION:The Super Troopers director and Broken Lizard comic\, four sho
+ ws. Tickets. Details: https://weekendscout.app/e/spokane/jay-chandrasekhar
+ -2026-11/
+URL:https://weekendscout.app/e/spokane/jay-chandrasekhar-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:spokane-spokane-chiefs-vs-kelowna-rockets-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART:20261129T020500Z
+DTEND:20261129T040500Z
+SUMMARY:Spokane Chiefs vs. Kelowna Rockets
+LOCATION:Numerica Veterans Arena\, 720 W Mallon Ave\, Spokane\, WA 99201
+DESCRIPTION:WHL junior hockey on Saturday night. Tickets. Details: https:/
+ /weekendscout.app/e/spokane/spokane-chiefs-vs-kelowna-rockets-2026-11/
+URL:https://weekendscout.app/e/spokane/spokane-chiefs-vs-kelowna-rockets-2026-11/
+END:VEVENT
+END:VCALENDAR

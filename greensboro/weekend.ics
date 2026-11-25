@@ -1,0 +1,168 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Greensboro
+X-WR-CALDESC:Hand-checked weekend picks in Greensboro, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:greensboro-weatherspoon-art-museum-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Weatherspoon Art Museum
+LOCATION:Weatherspoon Art Museum\, 500 Tate St\, Greensboro\, NC 27403
+DESCRIPTION:UNCG’s modern and contemporary art museum\, free to visit. F
+ ree admission. Details: https://weekendscout.app/e/greensboro/weatherspoon
+ -art-museum-2026-11/
+URL:https://weekendscout.app/e/greensboro/weatherspoon-art-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:greensboro-weatherspoon-art-museum-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Weatherspoon Art Museum
+LOCATION:Weatherspoon Art Museum\, 500 Tate St\, Greensboro\, NC 27403
+DESCRIPTION:UNCG’s modern and contemporary art museum\, free to visit. F
+ ree admission. Details: https://weekendscout.app/e/greensboro/weatherspoon
+ -art-museum-2026-11/
+URL:https://weekendscout.app/e/greensboro/weatherspoon-art-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:greensboro-wicked-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART:20261127T190000Z
+DTEND:20261127T210000Z
+SUMMARY:Wicked
+LOCATION:Steven Tanger Center for the Performing Arts\, 300 N Elm St\, Gre
+ ensboro\, NC 27401
+DESCRIPTION:The Broadway blockbuster on tour\, five shows this weekend. Ti
+ ckets. Details: https://weekendscout.app/e/greensboro/wicked-2026-11/
+URL:https://weekendscout.app/e/greensboro/wicked-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:greensboro-wicked-2026-11-fri-1@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART:20261128T010000Z
+DTEND:20261128T030000Z
+SUMMARY:Wicked
+LOCATION:Steven Tanger Center for the Performing Arts\, 300 N Elm St\, Gre
+ ensboro\, NC 27401
+DESCRIPTION:The Broadway blockbuster on tour\, five shows this weekend. Ti
+ ckets. Details: https://weekendscout.app/e/greensboro/wicked-2026-11/
+URL:https://weekendscout.app/e/greensboro/wicked-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:greensboro-wicked-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART:20261128T190000Z
+DTEND:20261128T210000Z
+SUMMARY:Wicked
+LOCATION:Steven Tanger Center for the Performing Arts\, 300 N Elm St\, Gre
+ ensboro\, NC 27401
+DESCRIPTION:The Broadway blockbuster on tour\, five shows this weekend. Ti
+ ckets. Details: https://weekendscout.app/e/greensboro/wicked-2026-11/
+URL:https://weekendscout.app/e/greensboro/wicked-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:greensboro-wicked-2026-11-sat-1@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:Wicked
+LOCATION:Steven Tanger Center for the Performing Arts\, 300 N Elm St\, Gre
+ ensboro\, NC 27401
+DESCRIPTION:The Broadway blockbuster on tour\, five shows this weekend. Ti
+ ckets. Details: https://weekendscout.app/e/greensboro/wicked-2026-11/
+URL:https://weekendscout.app/e/greensboro/wicked-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:greensboro-wicked-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART:20261129T200000Z
+DTEND:20261129T220000Z
+SUMMARY:Wicked
+LOCATION:Steven Tanger Center for the Performing Arts\, 300 N Elm St\, Gre
+ ensboro\, NC 27401
+DESCRIPTION:The Broadway blockbuster on tour\, five shows this weekend. Ti
+ ckets. Details: https://weekendscout.app/e/greensboro/wicked-2026-11/
+URL:https://weekendscout.app/e/greensboro/wicked-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:greensboro-greensboro-swarm-vs-college-park-skyhawks-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART:20261128T000000Z
+DTEND:20261128T020000Z
+SUMMARY:Greensboro Swarm vs. College Park Skyhawks
+LOCATION:Novant Health Fieldhouse\, 1921 W Gate City Blvd\, Greensboro\, N
+ C 27403
+DESCRIPTION:NBA G League basketball\, Friday and Saturday. Tickets. Detail
+ s: https://weekendscout.app/e/greensboro/greensboro-swarm-vs-college-park-
+ skyhawks-2026-11/
+URL:https://weekendscout.app/e/greensboro/greensboro-swarm-vs-college-park-skyhawks-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:greensboro-greensboro-swarm-vs-college-park-skyhawks-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART:20261128T230000Z
+DTEND:20261129T010000Z
+SUMMARY:Greensboro Swarm vs. College Park Skyhawks
+LOCATION:Novant Health Fieldhouse\, 1921 W Gate City Blvd\, Greensboro\, N
+ C 27403
+DESCRIPTION:NBA G League basketball\, Friday and Saturday. Tickets. Detail
+ s: https://weekendscout.app/e/greensboro/greensboro-swarm-vs-college-park-
+ skyhawks-2026-11/
+URL:https://weekendscout.app/e/greensboro/greensboro-swarm-vs-college-park-skyhawks-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:greensboro-ladies-love-r-b-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:Ladies Love R&B
+LOCATION:First Horizon Coliseum\, 1921 W Gate City Blvd\, Greensboro\, NC 
+ 27403
+DESCRIPTION:Keyshia Cole\, Tyrese\, Ginuwine\, 112 and Pleasure P on one b
+ ill. Tickets. Details: https://weekendscout.app/e/greensboro/ladies-love-r
+ -b-2026-11/
+URL:https://weekendscout.app/e/greensboro/ladies-love-r-b-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:greensboro-mario-tory-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART:20261128T000000Z
+DTEND:20261128T020000Z
+SUMMARY:Mario Tory
+LOCATION:Comedy Zone\, 1126 S Holden Rd\, Greensboro\, NC 27407
+DESCRIPTION:Stand-up\, three shows. Tickets. Details: https://weekendscout
+ .app/e/greensboro/mario-tory-2026-11/
+URL:https://weekendscout.app/e/greensboro/mario-tory-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:greensboro-mario-tory-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:Mario Tory
+LOCATION:Comedy Zone\, 1126 S Holden Rd\, Greensboro\, NC 27407
+DESCRIPTION:Stand-up\, three shows. Tickets. Details: https://weekendscout
+ .app/e/greensboro/mario-tory-2026-11/
+URL:https://weekendscout.app/e/greensboro/mario-tory-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:greensboro-mario-tory-2026-11-sat-1@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART:20261129T020000Z
+DTEND:20261129T040000Z
+SUMMARY:Mario Tory
+LOCATION:Comedy Zone\, 1126 S Holden Rd\, Greensboro\, NC 27407
+DESCRIPTION:Stand-up\, three shows. Tickets. Details: https://weekendscout
+ .app/e/greensboro/mario-tory-2026-11/
+URL:https://weekendscout.app/e/greensboro/mario-tory-2026-11/
+END:VEVENT
+END:VCALENDAR

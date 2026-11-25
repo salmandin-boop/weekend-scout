@@ -1,0 +1,184 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Durham
+X-WR-CALDESC:Hand-checked weekend picks in Durham, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:durham-sarah-p-duke-gardens-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Sarah P. Duke Gardens
+LOCATION:Sarah P. Duke Gardens\, 420 Anderson St\, Durham\, NC 27705
+DESCRIPTION:Fifty-five acres of landscaped gardens on Duke’s campus\, op
+ en every day. Free. Details: https://weekendscout.app/e/durham/sarah-p-duk
+ e-gardens-2026-11/
+URL:https://weekendscout.app/e/durham/sarah-p-duke-gardens-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:durham-sarah-p-duke-gardens-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Sarah P. Duke Gardens
+LOCATION:Sarah P. Duke Gardens\, 420 Anderson St\, Durham\, NC 27705
+DESCRIPTION:Fifty-five acres of landscaped gardens on Duke’s campus\, op
+ en every day. Free. Details: https://weekendscout.app/e/durham/sarah-p-duk
+ e-gardens-2026-11/
+URL:https://weekendscout.app/e/durham/sarah-p-duke-gardens-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:durham-sarah-p-duke-gardens-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Sarah P. Duke Gardens
+LOCATION:Sarah P. Duke Gardens\, 420 Anderson St\, Durham\, NC 27705
+DESCRIPTION:Fifty-five acres of landscaped gardens on Duke’s campus\, op
+ en every day. Free. Details: https://weekendscout.app/e/durham/sarah-p-duk
+ e-gardens-2026-11/
+URL:https://weekendscout.app/e/durham/sarah-p-duke-gardens-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:durham-duke-chapel-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Duke Chapel
+LOCATION:Duke Chapel\, 401 Chapel Dr\, Durham\, NC 27708
+DESCRIPTION:The Gothic Revival landmark at the heart of Duke’s West Camp
+ us. Free to visit. Details: https://weekendscout.app/e/durham/duke-chapel-
+ 2026-11/
+URL:https://weekendscout.app/e/durham/duke-chapel-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:durham-duke-chapel-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Duke Chapel
+LOCATION:Duke Chapel\, 401 Chapel Dr\, Durham\, NC 27708
+DESCRIPTION:The Gothic Revival landmark at the heart of Duke’s West Camp
+ us. Free to visit. Details: https://weekendscout.app/e/durham/duke-chapel-
+ 2026-11/
+URL:https://weekendscout.app/e/durham/duke-chapel-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:durham-duke-chapel-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Duke Chapel
+LOCATION:Duke Chapel\, 401 Chapel Dr\, Durham\, NC 27708
+DESCRIPTION:The Gothic Revival landmark at the heart of Duke’s West Camp
+ us. Free to visit. Details: https://weekendscout.app/e/durham/duke-chapel-
+ 2026-11/
+URL:https://weekendscout.app/e/durham/duke-chapel-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:durham-cirque-du-soleil-twas-the-night-before-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART:20261127T180000Z
+DTEND:20261127T200000Z
+SUMMARY:Cirque du Soleil: ’Twas the Night Before…
+LOCATION:Durham Performing Arts Center\, 123 Vivian St\, Durham\, NC 27701
+DESCRIPTION:Cirque’s holiday show\, eight performances this weekend. Tic
+ kets. Details: https://weekendscout.app/e/durham/cirque-du-soleil-twas-the
+ -night-before-2026-11/
+URL:https://weekendscout.app/e/durham/cirque-du-soleil-twas-the-night-before-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:durham-cirque-du-soleil-twas-the-night-before-2026-11-fri-1@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART:20261127T210000Z
+DTEND:20261127T230000Z
+SUMMARY:Cirque du Soleil: ’Twas the Night Before…
+LOCATION:Durham Performing Arts Center\, 123 Vivian St\, Durham\, NC 27701
+DESCRIPTION:Cirque’s holiday show\, eight performances this weekend. Tic
+ kets. Details: https://weekendscout.app/e/durham/cirque-du-soleil-twas-the
+ -night-before-2026-11/
+URL:https://weekendscout.app/e/durham/cirque-du-soleil-twas-the-night-before-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:durham-cirque-du-soleil-twas-the-night-before-2026-11-fri-2@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART:20261128T003000Z
+DTEND:20261128T023000Z
+SUMMARY:Cirque du Soleil: ’Twas the Night Before…
+LOCATION:Durham Performing Arts Center\, 123 Vivian St\, Durham\, NC 27701
+DESCRIPTION:Cirque’s holiday show\, eight performances this weekend. Tic
+ kets. Details: https://weekendscout.app/e/durham/cirque-du-soleil-twas-the
+ -night-before-2026-11/
+URL:https://weekendscout.app/e/durham/cirque-du-soleil-twas-the-night-before-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:durham-cirque-du-soleil-twas-the-night-before-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART:20261128T180000Z
+DTEND:20261128T200000Z
+SUMMARY:Cirque du Soleil: ’Twas the Night Before…
+LOCATION:Durham Performing Arts Center\, 123 Vivian St\, Durham\, NC 27701
+DESCRIPTION:Cirque’s holiday show\, eight performances this weekend. Tic
+ kets. Details: https://weekendscout.app/e/durham/cirque-du-soleil-twas-the
+ -night-before-2026-11/
+URL:https://weekendscout.app/e/durham/cirque-du-soleil-twas-the-night-before-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:durham-cirque-du-soleil-twas-the-night-before-2026-11-sat-1@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART:20261128T210000Z
+DTEND:20261128T230000Z
+SUMMARY:Cirque du Soleil: ’Twas the Night Before…
+LOCATION:Durham Performing Arts Center\, 123 Vivian St\, Durham\, NC 27701
+DESCRIPTION:Cirque’s holiday show\, eight performances this weekend. Tic
+ kets. Details: https://weekendscout.app/e/durham/cirque-du-soleil-twas-the
+ -night-before-2026-11/
+URL:https://weekendscout.app/e/durham/cirque-du-soleil-twas-the-night-before-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:durham-cirque-du-soleil-twas-the-night-before-2026-11-sat-2@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART:20261129T003000Z
+DTEND:20261129T023000Z
+SUMMARY:Cirque du Soleil: ’Twas the Night Before…
+LOCATION:Durham Performing Arts Center\, 123 Vivian St\, Durham\, NC 27701
+DESCRIPTION:Cirque’s holiday show\, eight performances this weekend. Tic
+ kets. Details: https://weekendscout.app/e/durham/cirque-du-soleil-twas-the
+ -night-before-2026-11/
+URL:https://weekendscout.app/e/durham/cirque-du-soleil-twas-the-night-before-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:durham-cirque-du-soleil-twas-the-night-before-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART:20261129T170000Z
+DTEND:20261129T190000Z
+SUMMARY:Cirque du Soleil: ’Twas the Night Before…
+LOCATION:Durham Performing Arts Center\, 123 Vivian St\, Durham\, NC 27701
+DESCRIPTION:Cirque’s holiday show\, eight performances this weekend. Tic
+ kets. Details: https://weekendscout.app/e/durham/cirque-du-soleil-twas-the
+ -night-before-2026-11/
+URL:https://weekendscout.app/e/durham/cirque-du-soleil-twas-the-night-before-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:durham-cirque-du-soleil-twas-the-night-before-2026-11-sun-1@weekendscout.app
+DTSTAMP:20261125T001049Z
+DTSTART:20261129T200000Z
+DTEND:20261129T220000Z
+SUMMARY:Cirque du Soleil: ’Twas the Night Before…
+LOCATION:Durham Performing Arts Center\, 123 Vivian St\, Durham\, NC 27701
+DESCRIPTION:Cirque’s holiday show\, eight performances this weekend. Tic
+ kets. Details: https://weekendscout.app/e/durham/cirque-du-soleil-twas-the
+ -night-before-2026-11/
+URL:https://weekendscout.app/e/durham/cirque-du-soleil-twas-the-night-before-2026-11/
+END:VEVENT
+END:VCALENDAR
