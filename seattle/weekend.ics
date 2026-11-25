@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:seattle-westlake-tree-lighting-fri-0@weekendscout.app
-DTSTAMP:20261125T210758Z
+DTSTAMP:20261125T222212Z
 DTSTART:20261127T190000Z
 DTEND:20261128T020000Z
 SUMMARY:Tree Lighting Celebration
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/seattle/westlake-tree-lighting/
 END:VEVENT
 BEGIN:VEVENT
 UID:seattle-pnb-nutcracker-fri-0@weekendscout.app
-DTSTAMP:20261125T210758Z
+DTSTAMP:20261125T222212Z
 DTSTART:20261127T220000Z
 DTEND:20261128T000000Z
 SUMMARY:George Balanchine's The Nutcracker
@@ -34,7 +34,7 @@ URL:https://weekendscout.app/e/seattle/pnb-nutcracker/
 END:VEVENT
 BEGIN:VEVENT
 UID:seattle-pnb-nutcracker-fri-1@weekendscout.app
-DTSTAMP:20261125T210758Z
+DTSTAMP:20261125T222212Z
 DTSTART:20261128T033000Z
 DTEND:20261128T053000Z
 SUMMARY:George Balanchine's The Nutcracker
@@ -46,7 +46,7 @@ URL:https://weekendscout.app/e/seattle/pnb-nutcracker/
 END:VEVENT
 BEGIN:VEVENT
 UID:seattle-pnb-nutcracker-sat-0@weekendscout.app
-DTSTAMP:20261125T210758Z
+DTSTAMP:20261125T222212Z
 DTSTART:20261128T220000Z
 DTEND:20261129T000000Z
 SUMMARY:George Balanchine's The Nutcracker
@@ -58,7 +58,7 @@ URL:https://weekendscout.app/e/seattle/pnb-nutcracker/
 END:VEVENT
 BEGIN:VEVENT
 UID:seattle-pnb-nutcracker-sat-1@weekendscout.app
-DTSTAMP:20261125T210758Z
+DTSTAMP:20261125T222212Z
 DTSTART:20261129T033000Z
 DTEND:20261129T053000Z
 SUMMARY:George Balanchine's The Nutcracker
@@ -70,7 +70,7 @@ URL:https://weekendscout.app/e/seattle/pnb-nutcracker/
 END:VEVENT
 BEGIN:VEVENT
 UID:seattle-pnb-nutcracker-sun-0@weekendscout.app
-DTSTAMP:20261125T210758Z
+DTSTAMP:20261125T222212Z
 DTSTART:20261129T203000Z
 DTEND:20261129T223000Z
 SUMMARY:George Balanchine's The Nutcracker
@@ -82,7 +82,7 @@ URL:https://weekendscout.app/e/seattle/pnb-nutcracker/
 END:VEVENT
 BEGIN:VEVENT
 UID:seattle-pnb-nutcracker-sun-1@weekendscout.app
-DTSTAMP:20261125T210758Z
+DTSTAMP:20261125T222212Z
 DTSTART:20261130T013000Z
 DTEND:20261130T033000Z
 SUMMARY:George Balanchine's The Nutcracker
@@ -94,7 +94,7 @@ URL:https://weekendscout.app/e/seattle/pnb-nutcracker/
 END:VEVENT
 BEGIN:VEVENT
 UID:seattle-kraken-oilers-sat-0@weekendscout.app
-DTSTAMP:20261125T210758Z
+DTSTAMP:20261125T222212Z
 DTSTART:20261129T030000Z
 DTEND:20261129T050000Z
 SUMMARY:Seattle Kraken vs. Edmonton Oilers
@@ -106,7 +106,7 @@ URL:https://weekendscout.app/e/seattle/kraken-oilers/
 END:VEVENT
 BEGIN:VEVENT
 UID:seattle-christmas-ship-opening-night-fri-0@weekendscout.app
-DTSTAMP:20261125T210758Z
+DTSTAMP:20261125T222212Z
 DTSTART:20261128T010000Z
 DTEND:20261128T023000Z
 SUMMARY:Christmas Ship Festival: Opening Night
@@ -120,7 +120,7 @@ URL:https://weekendscout.app/e/seattle/christmas-ship-opening-night/
 END:VEVENT
 BEGIN:VEVENT
 UID:seattle-christmas-ship-opening-night-fri-1@weekendscout.app
-DTSTAMP:20261125T210758Z
+DTSTAMP:20261125T222212Z
 DTSTART:20261128T040000Z
 DTEND:20261128T053000Z
 SUMMARY:Christmas Ship Festival: Opening Night
@@ -134,7 +134,7 @@ URL:https://weekendscout.app/e/seattle/christmas-ship-opening-night/
 END:VEVENT
 BEGIN:VEVENT
 UID:seattle-magic-in-the-market-sat-0@weekendscout.app
-DTSTAMP:20261125T210758Z
+DTSTAMP:20261125T222212Z
 DTSTART:20261128T190000Z
 DTEND:20261129T020000Z
 SUMMARY:31st Annual Magic in the Market
@@ -147,7 +147,7 @@ URL:https://weekendscout.app/e/seattle/magic-in-the-market/
 END:VEVENT
 BEGIN:VEVENT
 UID:seattle-wildlanterns-woodland-park-zoo-fri-0@weekendscout.app
-DTSTAMP:20261125T210758Z
+DTSTAMP:20261125T222212Z
 DTSTART:20261128T000000Z
 DTEND:20261128T050000Z
 SUMMARY:WildLanterns
@@ -159,7 +159,7 @@ URL:https://weekendscout.app/e/seattle/wildlanterns-woodland-park-zoo/
 END:VEVENT
 BEGIN:VEVENT
 UID:seattle-wildlanterns-woodland-park-zoo-sat-0@weekendscout.app
-DTSTAMP:20261125T210758Z
+DTSTAMP:20261125T222212Z
 DTSTART:20261129T000000Z
 DTEND:20261129T050000Z
 SUMMARY:WildLanterns
@@ -171,7 +171,7 @@ URL:https://weekendscout.app/e/seattle/wildlanterns-woodland-park-zoo/
 END:VEVENT
 BEGIN:VEVENT
 UID:seattle-wildlanterns-woodland-park-zoo-sun-0@weekendscout.app
-DTSTAMP:20261125T210758Z
+DTSTAMP:20261125T222212Z
 DTSTART:20261130T000000Z
 DTEND:20261130T050000Z
 SUMMARY:WildLanterns
@@ -183,7 +183,7 @@ URL:https://weekendscout.app/e/seattle/wildlanterns-woodland-park-zoo/
 END:VEVENT
 BEGIN:VEVENT
 UID:seattle-seattle-christmas-market-fri-0@weekendscout.app
-DTSTAMP:20261125T210758Z
+DTSTAMP:20261125T222212Z
 DTSTART:20261127T193000Z
 DTEND:20261128T050000Z
 SUMMARY:Seattle Christmas Market
@@ -197,7 +197,7 @@ URL:https://weekendscout.app/e/seattle/seattle-christmas-market/
 END:VEVENT
 BEGIN:VEVENT
 UID:seattle-seattle-christmas-market-sat-0@weekendscout.app
-DTSTAMP:20261125T210758Z
+DTSTAMP:20261125T222212Z
 DTSTART:20261128T193000Z
 DTEND:20261129T050000Z
 SUMMARY:Seattle Christmas Market
@@ -211,7 +211,7 @@ URL:https://weekendscout.app/e/seattle/seattle-christmas-market/
 END:VEVENT
 BEGIN:VEVENT
 UID:seattle-seattle-christmas-market-sun-0@weekendscout.app
-DTSTAMP:20261125T210758Z
+DTSTAMP:20261125T222212Z
 DTSTART:20261129T193000Z
 DTEND:20261130T050000Z
 SUMMARY:Seattle Christmas Market
@@ -225,7 +225,7 @@ URL:https://weekendscout.app/e/seattle/seattle-christmas-market/
 END:VEVENT
 BEGIN:VEVENT
 UID:seattle-winterfest-train-village-fri-0@weekendscout.app
-DTSTAMP:20261125T210758Z
+DTSTAMP:20261125T222212Z
 DTSTART:20261127T180000Z
 DTEND:20261128T040000Z
 SUMMARY:Winterfest Train & Village
@@ -238,7 +238,7 @@ URL:https://weekendscout.app/e/seattle/winterfest-train-village/
 END:VEVENT
 BEGIN:VEVENT
 UID:seattle-winterfest-train-village-sat-0@weekendscout.app
-DTSTAMP:20261125T210758Z
+DTSTAMP:20261125T222212Z
 DTSTART:20261128T180000Z
 DTEND:20261129T020000Z
 SUMMARY:Winterfest Train & Village
@@ -251,7 +251,7 @@ URL:https://weekendscout.app/e/seattle/winterfest-train-village/
 END:VEVENT
 BEGIN:VEVENT
 UID:seattle-winterfest-train-village-sun-0@weekendscout.app
-DTSTAMP:20261125T210758Z
+DTSTAMP:20261125T222212Z
 DTSTART:20261129T180000Z
 DTEND:20261130T020000Z
 SUMMARY:Winterfest Train & Village
@@ -264,7 +264,7 @@ URL:https://weekendscout.app/e/seattle/winterfest-train-village/
 END:VEVENT
 BEGIN:VEVENT
 UID:seattle-snowflake-lane-bellevue-fri-0@weekendscout.app
-DTSTAMP:20261125T210758Z
+DTSTAMP:20261125T222212Z
 DTSTART:20261128T030000Z
 DTEND:20261128T050000Z
 SUMMARY:Snowflake Lane
@@ -278,7 +278,7 @@ URL:https://weekendscout.app/e/seattle/snowflake-lane-bellevue/
 END:VEVENT
 BEGIN:VEVENT
 UID:seattle-snowflake-lane-bellevue-sat-0@weekendscout.app
-DTSTAMP:20261125T210758Z
+DTSTAMP:20261125T222212Z
 DTSTART:20261129T030000Z
 DTEND:20261129T050000Z
 SUMMARY:Snowflake Lane
@@ -292,7 +292,7 @@ URL:https://weekendscout.app/e/seattle/snowflake-lane-bellevue/
 END:VEVENT
 BEGIN:VEVENT
 UID:seattle-snowflake-lane-bellevue-sun-0@weekendscout.app
-DTSTAMP:20261125T210758Z
+DTSTAMP:20261125T222212Z
 DTSTART:20261130T030000Z
 DTEND:20261130T050000Z
 SUMMARY:Snowflake Lane
@@ -306,7 +306,7 @@ URL:https://weekendscout.app/e/seattle/snowflake-lane-bellevue/
 END:VEVENT
 BEGIN:VEVENT
 UID:seattle-act-christmas-carol-fri-0@weekendscout.app
-DTSTAMP:20261125T210758Z
+DTSTAMP:20261125T222212Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -320,7 +320,7 @@ URL:https://weekendscout.app/e/seattle/act-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:seattle-act-christmas-carol-sat-0@weekendscout.app
-DTSTAMP:20261125T210758Z
+DTSTAMP:20261125T222212Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -334,7 +334,7 @@ URL:https://weekendscout.app/e/seattle/act-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:seattle-act-christmas-carol-sun-0@weekendscout.app
-DTSTAMP:20261125T210758Z
+DTSTAMP:20261125T222212Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -348,7 +348,7 @@ URL:https://weekendscout.app/e/seattle/act-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:seattle-winterfest-zaniac-comedy-fri-0@weekendscout.app
-DTSTAMP:20261125T210758Z
+DTSTAMP:20261125T222212Z
 DTSTART:20261127T203000Z
 DTEND:20261127T213000Z
 SUMMARY:Winterfest: Zaniac Comedy Show
@@ -360,7 +360,7 @@ URL:https://weekendscout.app/e/seattle/winterfest-zaniac-comedy/
 END:VEVENT
 BEGIN:VEVENT
 UID:seattle-ben-palmer-emerald-city-fri-0@weekendscout.app
-DTSTAMP:20261125T210758Z
+DTSTAMP:20261125T222212Z
 DTSTART:20261128T030000Z
 DTEND:20261128T050000Z
 SUMMARY:Ben Palmer
@@ -372,7 +372,7 @@ URL:https://weekendscout.app/e/seattle/ben-palmer-emerald-city/
 END:VEVENT
 BEGIN:VEVENT
 UID:seattle-ben-palmer-emerald-city-fri-1@weekendscout.app
-DTSTAMP:20261125T210758Z
+DTSTAMP:20261125T222212Z
 DTSTART:20261128T053000Z
 DTEND:20261128T073000Z
 SUMMARY:Ben Palmer
@@ -384,7 +384,7 @@ URL:https://weekendscout.app/e/seattle/ben-palmer-emerald-city/
 END:VEVENT
 BEGIN:VEVENT
 UID:seattle-ben-palmer-emerald-city-sat-0@weekendscout.app
-DTSTAMP:20261125T210758Z
+DTSTAMP:20261125T222212Z
 DTSTART:20261129T030000Z
 DTEND:20261129T050000Z
 SUMMARY:Ben Palmer
@@ -396,7 +396,7 @@ URL:https://weekendscout.app/e/seattle/ben-palmer-emerald-city/
 END:VEVENT
 BEGIN:VEVENT
 UID:seattle-ben-palmer-emerald-city-sat-1@weekendscout.app
-DTSTAMP:20261125T210758Z
+DTSTAMP:20261125T222212Z
 DTSTART:20261129T053000Z
 DTEND:20261129T073000Z
 SUMMARY:Ben Palmer

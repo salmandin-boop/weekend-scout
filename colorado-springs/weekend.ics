@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:colorado-springs-christmas-stroll-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261125T210758Z
+DTSTAMP:20261125T222212Z
 DTSTART:20261128T230000Z
 DTEND:20261129T020000Z
 SUMMARY:Christmas Stroll
@@ -21,7 +21,7 @@ URL:https://weekendscout.app/e/colorado-springs/christmas-stroll-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:colorado-springs-the-nutcracker-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261125T210758Z
+DTSTAMP:20261125T222212Z
 DTSTART:20261127T210000Z
 DTEND:20261127T230000Z
 SUMMARY:The Nutcracker
@@ -34,7 +34,7 @@ URL:https://weekendscout.app/e/colorado-springs/the-nutcracker-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:colorado-springs-the-nutcracker-2026-11-fri-1@weekendscout.app
-DTSTAMP:20261125T210758Z
+DTSTAMP:20261125T222212Z
 DTSTART:20261128T020000Z
 DTEND:20261128T040000Z
 SUMMARY:The Nutcracker
@@ -47,7 +47,7 @@ URL:https://weekendscout.app/e/colorado-springs/the-nutcracker-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:colorado-springs-the-nutcracker-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261125T210758Z
+DTSTAMP:20261125T222212Z
 DTSTART:20261128T210000Z
 DTEND:20261128T230000Z
 SUMMARY:The Nutcracker
@@ -60,7 +60,7 @@ URL:https://weekendscout.app/e/colorado-springs/the-nutcracker-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:colorado-springs-the-nutcracker-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261125T210758Z
+DTSTAMP:20261125T222212Z
 DTSTART:20261129T020000Z
 DTEND:20261129T040000Z
 SUMMARY:The Nutcracker
@@ -73,7 +73,7 @@ URL:https://weekendscout.app/e/colorado-springs/the-nutcracker-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:colorado-springs-the-nutcracker-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261125T210758Z
+DTSTAMP:20261125T222212Z
 DTSTART:20261129T210000Z
 DTEND:20261129T230000Z
 SUMMARY:The Nutcracker
@@ -86,7 +86,7 @@ URL:https://weekendscout.app/e/colorado-springs/the-nutcracker-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:colorado-springs-an-irish-christmas-in-america-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261125T210758Z
+DTSTAMP:20261125T222212Z
 DTSTART:20261128T020000Z
 DTEND:20261128T040000Z
 SUMMARY:An Irish Christmas in America
@@ -99,7 +99,7 @@ URL:https://weekendscout.app/e/colorado-springs/an-irish-christmas-in-america-20
 END:VEVENT
 BEGIN:VEVENT
 UID:colorado-springs-blue-violin-s-retro-rock-roll-christmas-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261125T210758Z
+DTSTAMP:20261125T222212Z
 DTSTART:20261130T000000Z
 DTEND:20261130T020000Z
 SUMMARY:Blue Violin’s Retro Rock & Roll Christmas
@@ -112,7 +112,7 @@ URL:https://weekendscout.app/e/colorado-springs/blue-violin-s-retro-rock-roll-ch
 END:VEVENT
 BEGIN:VEVENT
 UID:colorado-springs-magic-of-lights-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261125T210758Z
+DTSTAMP:20261125T222212Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -126,7 +126,7 @@ URL:https://weekendscout.app/e/colorado-springs/magic-of-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:colorado-springs-magic-of-lights-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261125T210758Z
+DTSTAMP:20261125T222212Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -140,7 +140,7 @@ URL:https://weekendscout.app/e/colorado-springs/magic-of-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:colorado-springs-magic-of-lights-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261125T210758Z
+DTSTAMP:20261125T222212Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
