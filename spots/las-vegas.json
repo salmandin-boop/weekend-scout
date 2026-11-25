@@ -1,7 +1,7 @@
 {
  "city": "las-vegas",
- "updated": "2026-11-24",
- "source": "Long-running landmarks only for now (restaurants and bars to be added once verified); coordinates from vegas4locals.com Google Maps links for each venue",
+ "updated": "2026-11-25",
+ "source": "Restaurants and bars from Visit Las Vegas (LVCVA) Thanksgiving 2026 guide and Vegas4Locals Thanksgiving 2026 list; landmarks as before; coordinates from latitude.to/Wikipedia resort coordinates (Nominatim unreachable) and vegas4locals Google Maps links for earlier picks",
  "spots": [
   {
    "name": "High Roller",
@@ -57,6 +57,89 @@
    "price": "Free",
    "blurb": "Open-air shopping and dining district on the west side",
    "blurbEs": "Zona comercial y gastronómica al aire libre en el oeste de la ciudad"
+  },
+  {
+   "name": "Delmonico Steakhouse",
+   "kind": "dinner",
+   "cuisine": "Steakhouse",
+   "area": "The Venetian",
+   "lat": 36.1195,
+   "lon": -115.168
+  },
+  {
+   "name": "Mon Ami Gabi",
+   "kind": "dinner",
+   "cuisine": "French bistro",
+   "area": "Paris Las Vegas",
+   "lat": 36.1125,
+   "lon": -115.17222
+  },
+  {
+   "name": "Eiffel Tower Restaurant",
+   "kind": "dinner",
+   "cuisine": "French",
+   "area": "Paris Las Vegas",
+   "lat": 36.1125,
+   "lon": -115.17222
+  },
+  {
+   "name": "Balla Italian Soul",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "SAHARA Las Vegas",
+   "lat": 36.14222,
+   "lon": -115.15639
+  },
+  {
+   "name": "Barry's Downtown Prime",
+   "kind": "dinner",
+   "cuisine": "Steakhouse",
+   "area": "Circa, Downtown",
+   "lat": 36.17167,
+   "lon": -115.14556
+  },
+  {
+   "name": "Terrace Pointe Café",
+   "kind": "lunch",
+   "cuisine": "American café",
+   "area": "Wynn Las Vegas",
+   "lat": 36.1243,
+   "lon": -115.1597
+  },
+  {
+   "name": "The Buffet at Wynn Las Vegas",
+   "kind": "lunch",
+   "cuisine": "Buffet",
+   "area": "Wynn Las Vegas",
+   "lat": 36.1243,
+   "lon": -115.1597
+  },
+  {
+   "name": "La Cave Wine & Food Hideaway",
+   "kind": "drinks",
+   "cuisine": "Wine bar, small plates",
+   "area": "Wynn Las Vegas",
+   "lat": 36.1243,
+   "lon": -115.1597
+  },
+  {
+   "name": "PISCES Bar & Seafare",
+   "kind": "drinks",
+   "cuisine": "Cocktails, seafood",
+   "area": "Wynn Las Vegas",
+   "lat": 36.1243,
+   "lon": -115.1597
+  },
+  {
+   "name": "Bellagio Conservatory & Botanical Gardens",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Bellagio",
+   "lat": 36.11306,
+   "lon": -115.17639,
+   "price": "Free",
+   "blurb": "Free glass-roofed garden by the Bellagio lobby with seasonal floral displays; the holiday show runs through Jan. 2",
+   "blurbEs": "Jardín gratuito con techo de cristal junto al vestíbulo del Bellagio, con exhibiciones florales de temporada; la navideña sigue hasta el 2 de enero"
   }
  ]
 }

@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:college-station-texas-a-m-vs-texas-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART:20261128T003000Z
 DTEND:20261128T023000Z
 SUMMARY:Texas A&M vs. Texas
@@ -20,7 +20,7 @@ URL:https://weekendscout.app/e/college-station/texas-a-m-vs-texas-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:college-station-the-gardens-at-texas-a-m-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -34,7 +34,7 @@ URL:https://weekendscout.app/e/college-station/the-gardens-at-texas-a-m-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:college-station-the-gardens-at-texas-a-m-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -48,7 +48,7 @@ URL:https://weekendscout.app/e/college-station/the-gardens-at-texas-a-m-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:college-station-the-gardens-at-texas-a-m-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -62,7 +62,7 @@ URL:https://weekendscout.app/e/college-station/the-gardens-at-texas-a-m-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:college-station-george-h-w-bush-presidential-library-and-museum-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -75,7 +75,7 @@ URL:https://weekendscout.app/e/college-station/george-h-w-bush-presidential-libr
 END:VEVENT
 BEGIN:VEVENT
 UID:college-station-george-h-w-bush-presidential-library-and-museum-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -88,7 +88,7 @@ URL:https://weekendscout.app/e/college-station/george-h-w-bush-presidential-libr
 END:VEVENT
 BEGIN:VEVENT
 UID:college-station-george-h-w-bush-presidential-library-and-museum-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT

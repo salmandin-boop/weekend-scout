@@ -9,37 +9,35 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:tampa-lightning-senators-black-friday-fri-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART:20261127T200000Z
 DTEND:20261127T220000Z
 SUMMARY:Lightning vs. Senators
 LOCATION:Benchmark International Arena\, 401 Channelside Dr\, Tampa\, FL 3
  3602
-DESCRIPTION:The Lightning close a six-game homestand with a 3 p.m. Black F
- riday matinee against Ottawa. Tickets. Details: https://weekendscout.app/e
- /tampa/lightning-senators-black-friday/
+DESCRIPTION:The Lightning host the Ottawa Senators in a 3 p.m. Black Frida
+ y matinee downtown. Tickets. Details: https://weekendscout.app/e/tampa/lig
+ htning-senators-black-friday/
 URL:https://weekendscout.app/e/tampa/lightning-senators-black-friday/
 END:VEVENT
 BEGIN:VEVENT
 UID:tampa-disney-worlds-collide-tampa-sat-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART:20261129T000000Z
 DTEND:20261129T020000Z
 SUMMARY:Disney's Worlds Collide Concert Tour
 LOCATION:Benchmark International Arena\, 401 Channelside Dr\, Tampa\, FL 3
  3602
-DESCRIPTION:Cast members from Descendants\, ZOMBIES and Camp Rock sing the
-  franchises' hits in one arena show. Fans are invited to come in costume. 
- Tickets. Details: https://weekendscout.app/e/tampa/disney-worlds-collide-t
- ampa/
+DESCRIPTION:Disney's arena concert tour built on the music of Descendants\
+ , ZOMBIES and Camp Rock. Tickets. Details: https://weekendscout.app/e/tamp
+ a/disney-worlds-collide-tampa/
 URL:https://weekendscout.app/e/tampa/disney-worlds-collide-tampa/
 END:VEVENT
 BEGIN:VEVENT
 UID:tampa-for-king-country-drummer-boy-christmas-sun-0@weekendscout.app
-DTSTAMP:20261125T194629Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
+DTSTAMP:20261125T210758Z
+DTSTART:20261130T000000Z
+DTEND:20261130T020000Z
 SUMMARY:for KING + COUNTRY: A Drummer Boy Christmas
 LOCATION:Benchmark International Arena\, 401 Channelside Dr\, Tampa\, FL 3
  3602
@@ -50,7 +48,7 @@ URL:https://weekendscout.app/e/tampa/for-king-country-drummer-boy-christmas/
 END:VEVENT
 BEGIN:VEVENT
 UID:tampa-cirque-twas-the-night-before-straz-fri-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -64,7 +62,7 @@ URL:https://weekendscout.app/e/tampa/cirque-twas-the-night-before-straz/
 END:VEVENT
 BEGIN:VEVENT
 UID:tampa-cirque-twas-the-night-before-straz-sat-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -78,7 +76,7 @@ URL:https://weekendscout.app/e/tampa/cirque-twas-the-night-before-straz/
 END:VEVENT
 BEGIN:VEVENT
 UID:tampa-cirque-twas-the-night-before-straz-sun-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -92,7 +90,7 @@ URL:https://weekendscout.app/e/tampa/cirque-twas-the-night-before-straz/
 END:VEVENT
 BEGIN:VEVENT
 UID:tampa-hallmarkish-parody-musical-straz-sat-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART:20261128T200000Z
 DTEND:20261128T220000Z
 SUMMARY:The Unauthorized Hallmark(ish) Parody Musical
@@ -105,49 +103,49 @@ URL:https://weekendscout.app/e/tampa/hallmarkish-parody-musical-straz/
 END:VEVENT
 BEGIN:VEVENT
 UID:tampa-winter-village-curtis-hixon-fri-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
 SUMMARY:Winter Village
 LOCATION:Curtis Hixon Waterfront Park\, 600 N Ashley Dr\, Tampa\, FL 33602
-DESCRIPTION:A holiday village on the Riverwalk with an outdoor ice rink\, 
- pop-up shops and lights. Entry is free\; 75-minute skate sessions are $17\
- , or $15 under 12\, with rentals. Free (skating $17). Details: https://wee
- kendscout.app/e/tampa/winter-village-curtis-hixon/
+DESCRIPTION:The holiday village on the Riverwalk with an outdoor ice rink\
+ , a café\, shops and the River of Lights. Entry is free\; skating session
+ s are ticketed. Free entry (skating extra). Details: https://weekendscout.
+ app/e/tampa/winter-village-curtis-hixon/
 URL:https://weekendscout.app/e/tampa/winter-village-curtis-hixon/
 END:VEVENT
 BEGIN:VEVENT
 UID:tampa-winter-village-curtis-hixon-sat-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
 SUMMARY:Winter Village
 LOCATION:Curtis Hixon Waterfront Park\, 600 N Ashley Dr\, Tampa\, FL 33602
-DESCRIPTION:A holiday village on the Riverwalk with an outdoor ice rink\, 
- pop-up shops and lights. Entry is free\; 75-minute skate sessions are $17\
- , or $15 under 12\, with rentals. Free (skating $17). Details: https://wee
- kendscout.app/e/tampa/winter-village-curtis-hixon/
+DESCRIPTION:The holiday village on the Riverwalk with an outdoor ice rink\
+ , a café\, shops and the River of Lights. Entry is free\; skating session
+ s are ticketed. Free entry (skating extra). Details: https://weekendscout.
+ app/e/tampa/winter-village-curtis-hixon/
 URL:https://weekendscout.app/e/tampa/winter-village-curtis-hixon/
 END:VEVENT
 BEGIN:VEVENT
 UID:tampa-winter-village-curtis-hixon-sun-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
 SUMMARY:Winter Village
 LOCATION:Curtis Hixon Waterfront Park\, 600 N Ashley Dr\, Tampa\, FL 33602
-DESCRIPTION:A holiday village on the Riverwalk with an outdoor ice rink\, 
- pop-up shops and lights. Entry is free\; 75-minute skate sessions are $17\
- , or $15 under 12\, with rentals. Free (skating $17). Details: https://wee
- kendscout.app/e/tampa/winter-village-curtis-hixon/
+DESCRIPTION:The holiday village on the Riverwalk with an outdoor ice rink\
+ , a café\, shops and the River of Lights. Entry is free\; skating session
+ s are ticketed. Free entry (skating extra). Details: https://weekendscout.
+ app/e/tampa/winter-village-curtis-hixon/
 URL:https://weekendscout.app/e/tampa/winter-village-curtis-hixon/
 END:VEVENT
 BEGIN:VEVENT
 UID:tampa-tampa-riverwalk-tree-lighting-sun-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART:20261129T220000Z
 DTEND:20261130T010000Z
 SUMMARY:Tampa Riverwalk Holiday Tree Lighting
@@ -158,5 +156,43 @@ DESCRIPTION:Mayor Jane Castor arrives by Pirate Water Taxi to light the Ri
  Free. Details: https://weekendscout.app/e/tampa/tampa-riverwalk-tree-light
  ing/
 URL:https://weekendscout.app/e/tampa/tampa-riverwalk-tree-lighting/
+END:VEVENT
+BEGIN:VEVENT
+UID:tampa-miracle-on-34th-street-tampa-theatre-sun-0@weekendscout.app
+DTSTAMP:20261125T210758Z
+DTSTART:20261129T200000Z
+DTEND:20261129T220000Z
+SUMMARY:Miracle on 34th Street (1947)
+LOCATION:Tampa Theatre\, 711 N Franklin St\, Tampa\, FL 33602
+DESCRIPTION:The holiday classic on the big screen in Tampa's restored 1926
+  movie palace. Free photos with Santa in the lobby from 2 p.m. $13. Detail
+ s: https://weekendscout.app/e/tampa/miracle-on-34th-street-tampa-theatre/
+URL:https://weekendscout.app/e/tampa/miracle-on-34th-street-tampa-theatre/
+END:VEVENT
+BEGIN:VEVENT
+UID:tampa-tape-b-tapesgiving-baycare-sound-fri-0@weekendscout.app
+DTSTAMP:20261125T210758Z
+DTSTART:20261127T230000Z
+DTEND:20261128T010000Z
+SUMMARY:Tape B presents: Tapesgiving
+LOCATION:The BayCare Sound\, 255 Drew St\, Clearwater\, FL 33755
+DESCRIPTION:DJ and producer Tape B hosts a two-night electronic music part
+ y at The BayCare Sound in Clearwater. Two-night passes start at $70. From 
+ $35. Details: https://weekendscout.app/e/tampa/tape-b-tapesgiving-baycare-
+ sound/
+URL:https://weekendscout.app/e/tampa/tape-b-tapesgiving-baycare-sound/
+END:VEVENT
+BEGIN:VEVENT
+UID:tampa-tape-b-tapesgiving-baycare-sound-sat-0@weekendscout.app
+DTSTAMP:20261125T210758Z
+DTSTART:20261128T230000Z
+DTEND:20261129T010000Z
+SUMMARY:Tape B presents: Tapesgiving
+LOCATION:The BayCare Sound\, 255 Drew St\, Clearwater\, FL 33755
+DESCRIPTION:DJ and producer Tape B hosts a two-night electronic music part
+ y at The BayCare Sound in Clearwater. Two-night passes start at $70. From 
+ $35. Details: https://weekendscout.app/e/tampa/tape-b-tapesgiving-baycare-
+ sound/
+URL:https://weekendscout.app/e/tampa/tape-b-tapesgiving-baycare-sound/
 END:VEVENT
 END:VCALENDAR

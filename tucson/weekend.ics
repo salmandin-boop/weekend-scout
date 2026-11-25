@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:tucson-holiday-arts-crafts-fair-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART:20261128T160000Z
 DTEND:20261128T230000Z
 SUMMARY:Holiday Arts & Crafts Fair
@@ -21,7 +21,7 @@ URL:https://weekendscout.app/e/tucson/holiday-arts-crafts-fair-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:tucson-holiday-arts-crafts-fair-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART:20261129T160000Z
 DTEND:20261129T220000Z
 SUMMARY:Holiday Arts & Crafts Fair
@@ -33,7 +33,7 @@ URL:https://weekendscout.app/e/tucson/holiday-arts-crafts-fair-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:tucson-arizona-wildcats-vs-arizona-state-sun-devils-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART:20261129T020000Z
 DTEND:20261129T040000Z
 SUMMARY:Arizona Wildcats vs. Arizona State Sun Devils
@@ -46,7 +46,7 @@ URL:https://weekendscout.app/e/tucson/arizona-wildcats-vs-arizona-state-sun-devi
 END:VEVENT
 BEGIN:VEVENT
 UID:tucson-tucson-roadrunners-vs-san-jose-barracuda-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART:20261129T020000Z
 DTEND:20261129T040000Z
 SUMMARY:Tucson Roadrunners vs. San Jose Barracuda
@@ -58,7 +58,7 @@ URL:https://weekendscout.app/e/tucson/tucson-roadrunners-vs-san-jose-barracuda-2
 END:VEVENT
 BEGIN:VEVENT
 UID:tucson-the-nutcracker-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART:20261128T210000Z
 DTEND:20261128T230000Z
 SUMMARY:The Nutcracker
@@ -70,7 +70,7 @@ URL:https://weekendscout.app/e/tucson/the-nutcracker-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:tucson-the-nutcracker-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART:20261129T210000Z
 DTEND:20261129T230000Z
 SUMMARY:The Nutcracker
@@ -82,7 +82,7 @@ URL:https://weekendscout.app/e/tucson/the-nutcracker-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:tucson-the-fab-four-the-ultimate-tribute-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART:20261129T023000Z
 DTEND:20261129T043000Z
 SUMMARY:The Fab Four: The Ultimate Tribute

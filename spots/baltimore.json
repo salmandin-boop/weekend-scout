@@ -1,7 +1,7 @@
 {
  "city": "baltimore",
- "updated": "2026-11-24",
- "source": "Picks from Baltimore Magazine's Best Restaurants 2026 and Visit Baltimore (baltimore.org) date-night and cocktail guides (2026); coordinates from the baltimore.org listing/event pages' Google Maps links.",
+ "updated": "2026-11-25",
+ "source": "Baltimore Magazine Best Restaurants 2026 and Visit Baltimore (baltimore.org) guides; coordinates from baltimore.org listing/event Google Maps links, lexingtonmarket.com map link, and Wikipedia coordinates for the National Aquarium, Fort McHenry and AVAM.",
  "spots": [
   {
    "name": "The Prime Rib",
@@ -52,6 +52,30 @@
    "lon": -76.61944
   },
   {
+   "name": "Tagliata",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "Harbor East",
+   "lat": 39.2844605,
+   "lon": -76.5996824
+  },
+  {
+   "name": "Cinghiale",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "Harbor East",
+   "lat": 39.2824631,
+   "lon": -76.6007238
+  },
+  {
+   "name": "Lexington Market",
+   "kind": "lunch",
+   "cuisine": "Food hall",
+   "area": "Downtown",
+   "lat": 39.2910717,
+   "lon": -76.6216858
+  },
+  {
    "name": "B&O Railroad Museum",
    "kind": "always",
    "cuisine": "",
@@ -83,6 +107,39 @@
    "price": "Free",
    "blurb": "Free art museum known for its Matisse collection and sculpture gardens",
    "blurbEs": "Museo de arte gratuito conocido por su colección de Matisse y sus jardines de esculturas"
+  },
+  {
+   "name": "National Aquarium",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Inner Harbor",
+   "lat": 39.284398,
+   "lon": -76.606936,
+   "price": "Tickets",
+   "blurb": "Big harbor-front aquarium with sharks, dolphins, a rooftop rainforest and an Australia gallery",
+   "blurbEs": "Gran acuario frente al puerto con tiburones, delfines, una selva tropical en la azotea y una galería de Australia"
+  },
+  {
+   "name": "Fort McHenry National Monument and Historic Shrine",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Locust Point",
+   "lat": 39.26333,
+   "lon": -76.58,
+   "price": "Entrance fee",
+   "blurb": "The star-shaped fort whose defense in 1814 inspired the national anthem, with waterfront grounds to walk",
+   "blurbEs": "El fuerte en forma de estrella cuya defensa en 1814 inspiró el himno nacional, con terrenos junto al agua para pasear"
+  },
+  {
+   "name": "American Visionary Art Museum",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Federal Hill",
+   "lat": 39.28028,
+   "lon": -76.60694,
+   "price": "Tickets",
+   "blurb": "Colorful museum of self-taught 'outsider' artists, with a mirrored exterior and a giant whirligig",
+   "blurbEs": "Colorido museo de artistas autodidactas, con una fachada de espejos y un gran molinete"
   }
  ]
 }

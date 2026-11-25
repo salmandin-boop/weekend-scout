@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:youngstown-butler-institute-of-american-art-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210759Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -23,7 +23,7 @@ URL:https://weekendscout.app/e/youngstown/butler-institute-of-american-art-2026-
 END:VEVENT
 BEGIN:VEVENT
 UID:youngstown-butler-institute-of-american-art-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210759Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -37,7 +37,7 @@ URL:https://weekendscout.app/e/youngstown/butler-institute-of-american-art-2026-
 END:VEVENT
 BEGIN:VEVENT
 UID:youngstown-mill-creek-park-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210759Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -51,7 +51,7 @@ URL:https://weekendscout.app/e/youngstown/mill-creek-park-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:youngstown-mill-creek-park-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210759Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -65,7 +65,7 @@ URL:https://weekendscout.app/e/youngstown/mill-creek-park-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:youngstown-mill-creek-park-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210759Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -79,7 +79,7 @@ URL:https://weekendscout.app/e/youngstown/mill-creek-park-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:youngstown-youngstown-state-vs-bryant-stratton-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210759Z
 DTSTART:20261127T180000Z
 DTEND:20261127T200000Z
 SUMMARY:Youngstown State vs. Bryant & Stratton

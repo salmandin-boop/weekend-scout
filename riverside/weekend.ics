@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:riverside-mission-inn-festival-of-lights-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART:20261128T010000Z
 DTEND:20261128T060000Z
 SUMMARY:Mission Inn Festival of Lights
@@ -23,7 +23,7 @@ URL:https://weekendscout.app/e/riverside/mission-inn-festival-of-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:riverside-mission-inn-festival-of-lights-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART:20261129T010000Z
 DTEND:20261129T060000Z
 SUMMARY:Mission Inn Festival of Lights
@@ -37,7 +37,7 @@ URL:https://weekendscout.app/e/riverside/mission-inn-festival-of-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:riverside-mission-inn-festival-of-lights-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART:20261130T010000Z
 DTEND:20261130T060000Z
 SUMMARY:Mission Inn Festival of Lights
@@ -51,7 +51,7 @@ URL:https://weekendscout.app/e/riverside/mission-inn-festival-of-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:riverside-festival-of-lights-ice-rink-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART:20261128T010000Z
 DTEND:20261128T060000Z
 SUMMARY:Festival of Lights ice rink
@@ -64,7 +64,7 @@ URL:https://weekendscout.app/e/riverside/festival-of-lights-ice-rink-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:riverside-festival-of-lights-ice-rink-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART:20261129T010000Z
 DTEND:20261129T060000Z
 SUMMARY:Festival of Lights ice rink
@@ -77,7 +77,7 @@ URL:https://weekendscout.app/e/riverside/festival-of-lights-ice-rink-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:riverside-festival-of-lights-ice-rink-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART:20261130T010000Z
 DTEND:20261130T060000Z
 SUMMARY:Festival of Lights ice rink
@@ -90,7 +90,7 @@ URL:https://weekendscout.app/e/riverside/festival-of-lights-ice-rink-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:riverside-holiday-magic-at-candy-lane-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -103,7 +103,7 @@ URL:https://weekendscout.app/e/riverside/holiday-magic-at-candy-lane-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:riverside-holiday-magic-at-candy-lane-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -116,7 +116,7 @@ URL:https://weekendscout.app/e/riverside/holiday-magic-at-candy-lane-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:riverside-holiday-magic-at-candy-lane-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT

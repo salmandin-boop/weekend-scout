@@ -9,21 +9,21 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:baltimore-miracle-on-34th-street-lighting-sat-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART:20261128T230000Z
 DTEND:20261129T010000Z
 SUMMARY:Miracle on 34th Street Lighting
 LOCATION:700 block of W. 34th Street\, Hampden\, 726 W 34th St\, Baltimore
  \, MD 21211
 DESCRIPTION:Hampden's famous block of over-the-top rowhouse Christmas ligh
- ts switches on Saturday evening. The lights stay on nightly through New Ye
- ar's Day. Free. Details: https://weekendscout.app/e/baltimore/miracle-on-3
- 4th-street-lighting/
+ ts switches on Saturday at 6 p.m. The lights stay on nightly through New Y
+ ear's Day\, until midnight on Fridays and Saturdays. Free. Details: https:
+ //weekendscout.app/e/baltimore/miracle-on-34th-street-lighting/
 URL:https://weekendscout.app/e/baltimore/miracle-on-34th-street-lighting/
 END:VEVENT
 BEGIN:VEVENT
 UID:baltimore-miracle-on-34th-street-lighting-sun-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -31,40 +31,56 @@ SUMMARY:Miracle on 34th Street Lighting
 LOCATION:700 block of W. 34th Street\, Hampden\, 726 W 34th St\, Baltimore
  \, MD 21211
 DESCRIPTION:Hampden's famous block of over-the-top rowhouse Christmas ligh
- ts switches on Saturday evening. The lights stay on nightly through New Ye
- ar's Day. Free. Details: https://weekendscout.app/e/baltimore/miracle-on-3
- 4th-street-lighting/
+ ts switches on Saturday at 6 p.m. The lights stay on nightly through New Y
+ ear's Day\, until midnight on Fridays and Saturdays. Free. Details: https:
+ //weekendscout.app/e/baltimore/miracle-on-34th-street-lighting/
 URL:https://weekendscout.app/e/baltimore/miracle-on-34th-street-lighting/
 END:VEVENT
 BEGIN:VEVENT
 UID:baltimore-nutcracker-magical-christmas-ballet-fri-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART:20261128T000000Z
 DTEND:20261128T020000Z
 SUMMARY:Nutcracker! Magical Christmas Ballet
 LOCATION:Hippodrome Theatre at the France-Merrick Performing Arts Center\,
   12 N Eutaw St\, Baltimore\, MD 21201
 DESCRIPTION:The touring Nutcracker production with large sets and puppetry
-  plays two evening shows at the Hippodrome. Tickets. Details: https://week
- endscout.app/e/baltimore/nutcracker-magical-christmas-ballet/
+  plays the Hippodrome Friday evening and twice on Saturday. Tickets. Detai
+ ls: https://weekendscout.app/e/baltimore/nutcracker-magical-christmas-ball
+ et/
 URL:https://weekendscout.app/e/baltimore/nutcracker-magical-christmas-ballet/
 END:VEVENT
 BEGIN:VEVENT
 UID:baltimore-nutcracker-magical-christmas-ballet-sat-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
+DTSTART:20261128T200000Z
+DTEND:20261128T220000Z
+SUMMARY:Nutcracker! Magical Christmas Ballet
+LOCATION:Hippodrome Theatre at the France-Merrick Performing Arts Center\,
+  12 N Eutaw St\, Baltimore\, MD 21201
+DESCRIPTION:The touring Nutcracker production with large sets and puppetry
+  plays the Hippodrome Friday evening and twice on Saturday. Tickets. Detai
+ ls: https://weekendscout.app/e/baltimore/nutcracker-magical-christmas-ball
+ et/
+URL:https://weekendscout.app/e/baltimore/nutcracker-magical-christmas-ballet/
+END:VEVENT
+BEGIN:VEVENT
+UID:baltimore-nutcracker-magical-christmas-ballet-sat-1@weekendscout.app
+DTSTAMP:20261125T210758Z
 DTSTART:20261129T000000Z
 DTEND:20261129T020000Z
 SUMMARY:Nutcracker! Magical Christmas Ballet
 LOCATION:Hippodrome Theatre at the France-Merrick Performing Arts Center\,
   12 N Eutaw St\, Baltimore\, MD 21201
 DESCRIPTION:The touring Nutcracker production with large sets and puppetry
-  plays two evening shows at the Hippodrome. Tickets. Details: https://week
- endscout.app/e/baltimore/nutcracker-magical-christmas-ballet/
+  plays the Hippodrome Friday evening and twice on Saturday. Tickets. Detai
+ ls: https://weekendscout.app/e/baltimore/nutcracker-magical-christmas-ball
+ et/
 URL:https://weekendscout.app/e/baltimore/nutcracker-magical-christmas-ballet/
 END:VEVENT
 BEGIN:VEVENT
 UID:baltimore-chesapeake-shakespeare-christmas-carol-sat-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART:20261129T010000Z
 DTEND:20261129T030000Z
 SUMMARY:A Christmas Carol
@@ -78,7 +94,7 @@ URL:https://weekendscout.app/e/baltimore/chesapeake-shakespeare-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:baltimore-chesapeake-shakespeare-christmas-carol-sun-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART:20261129T190000Z
 DTEND:20261129T210000Z
 SUMMARY:A Christmas Carol
@@ -92,7 +108,7 @@ URL:https://weekendscout.app/e/baltimore/chesapeake-shakespeare-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:baltimore-polar-express-bo-railroad-sat-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -106,7 +122,7 @@ URL:https://weekendscout.app/e/baltimore/polar-express-bo-railroad/
 END:VEVENT
 BEGIN:VEVENT
 UID:baltimore-polar-express-bo-railroad-sun-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -120,7 +136,7 @@ URL:https://weekendscout.app/e/baltimore/polar-express-bo-railroad/
 END:VEVENT
 BEGIN:VEVENT
 UID:baltimore-kindred-family-soul-keystone-korner-fri-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART:20261127T230000Z
 DTEND:20261128T010000Z
 SUMMARY:Kindred The Family Soul
@@ -134,7 +150,7 @@ URL:https://weekendscout.app/e/baltimore/kindred-family-soul-keystone-korner/
 END:VEVENT
 BEGIN:VEVENT
 UID:baltimore-kindred-family-soul-keystone-korner-sat-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART:20261128T230000Z
 DTEND:20261129T010000Z
 SUMMARY:Kindred The Family Soul
@@ -145,5 +161,128 @@ DESCRIPTION:The Philadelphia neo-soul husband-and-wife duo plays the Harbo
   Details: https://weekendscout.app/e/baltimore/kindred-family-soul-keyston
  e-korner/
 URL:https://weekendscout.app/e/baltimore/kindred-family-soul-keystone-korner/
+END:VEVENT
+BEGIN:VEVENT
+UID:baltimore-los-tigres-del-norte-cfg-bank-arena-fri-0@weekendscout.app
+DTSTAMP:20261125T210758Z
+DTSTART:20261128T010000Z
+DTEND:20261128T030000Z
+SUMMARY:Los Tigres del Norte: Los Tigres del Mundo
+LOCATION:CFG Bank Arena\, 201 W Baltimore St\, Baltimore\, MD 21201
+DESCRIPTION:The norteño legends bring their Los Tigres del Mundo tour to 
+ the downtown arena on Friday night. Doors open at 7 p.m. Tickets. Details:
+  https://weekendscout.app/e/baltimore/los-tigres-del-norte-cfg-bank-arena/
+URL:https://weekendscout.app/e/baltimore/los-tigres-del-norte-cfg-bank-arena/
+END:VEVENT
+BEGIN:VEVENT
+UID:baltimore-christmas-village-in-baltimore-fri-0@weekendscout.app
+DTSTAMP:20261125T210758Z
+DTSTART:20261127T170000Z
+DTEND:20261128T020000Z
+SUMMARY:Christmas Village in Baltimore
+LOCATION:West Shore Park\, Inner Harbor\, 501 Light St\, Baltimore\, MD 21
+ 230
+DESCRIPTION:A German-style Christmas market at the Inner Harbor with food\
+ , mulled wine and gift stalls. The outdoor market is always free\; on sele
+ ct weekend days adults 18+ need a $5 season pass for the heated tent. Free
+  outdoor market. Details: https://weekendscout.app/e/baltimore/christmas-v
+ illage-in-baltimore/
+URL:https://weekendscout.app/e/baltimore/christmas-village-in-baltimore/
+END:VEVENT
+BEGIN:VEVENT
+UID:baltimore-christmas-village-in-baltimore-sat-0@weekendscout.app
+DTSTAMP:20261125T210758Z
+DTSTART:20261128T170000Z
+DTEND:20261129T020000Z
+SUMMARY:Christmas Village in Baltimore
+LOCATION:West Shore Park\, Inner Harbor\, 501 Light St\, Baltimore\, MD 21
+ 230
+DESCRIPTION:A German-style Christmas market at the Inner Harbor with food\
+ , mulled wine and gift stalls. The outdoor market is always free\; on sele
+ ct weekend days adults 18+ need a $5 season pass for the heated tent. Free
+  outdoor market. Details: https://weekendscout.app/e/baltimore/christmas-v
+ illage-in-baltimore/
+URL:https://weekendscout.app/e/baltimore/christmas-village-in-baltimore/
+END:VEVENT
+BEGIN:VEVENT
+UID:baltimore-christmas-village-in-baltimore-sun-0@weekendscout.app
+DTSTAMP:20261125T210758Z
+DTSTART:20261129T170000Z
+DTEND:20261130T010000Z
+SUMMARY:Christmas Village in Baltimore
+LOCATION:West Shore Park\, Inner Harbor\, 501 Light St\, Baltimore\, MD 21
+ 230
+DESCRIPTION:A German-style Christmas market at the Inner Harbor with food\
+ , mulled wine and gift stalls. The outdoor market is always free\; on sele
+ ct weekend days adults 18+ need a $5 season pass for the heated tent. Free
+  outdoor market. Details: https://weekendscout.app/e/baltimore/christmas-v
+ illage-in-baltimore/
+URL:https://weekendscout.app/e/baltimore/christmas-village-in-baltimore/
+END:VEVENT
+BEGIN:VEVENT
+UID:baltimore-charmz-the-other-reindeer-fri-0@weekendscout.app
+DTSTAMP:20261125T210758Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:CHARMZ: The Other Reindeer
+LOCATION:Baltimore Center Stage\, 700 N Calvert St\, Baltimore\, MD 21202
+DESCRIPTION:A new holiday musical set in a Motown-inspired North Pole\, ab
+ out a reindeer who wants to shine as brightly as Rudolph. Each performance
+  this weekend has a special guest. Tickets. Details: https://weekendscout.
+ app/e/baltimore/charmz-the-other-reindeer/
+URL:https://weekendscout.app/e/baltimore/charmz-the-other-reindeer/
+END:VEVENT
+BEGIN:VEVENT
+UID:baltimore-charmz-the-other-reindeer-sat-0@weekendscout.app
+DTSTAMP:20261125T210758Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:CHARMZ: The Other Reindeer
+LOCATION:Baltimore Center Stage\, 700 N Calvert St\, Baltimore\, MD 21202
+DESCRIPTION:A new holiday musical set in a Motown-inspired North Pole\, ab
+ out a reindeer who wants to shine as brightly as Rudolph. Each performance
+  this weekend has a special guest. Tickets. Details: https://weekendscout.
+ app/e/baltimore/charmz-the-other-reindeer/
+URL:https://weekendscout.app/e/baltimore/charmz-the-other-reindeer/
+END:VEVENT
+BEGIN:VEVENT
+UID:baltimore-charmz-the-other-reindeer-sun-0@weekendscout.app
+DTSTAMP:20261125T210758Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:CHARMZ: The Other Reindeer
+LOCATION:Baltimore Center Stage\, 700 N Calvert St\, Baltimore\, MD 21202
+DESCRIPTION:A new holiday musical set in a Motown-inspired North Pole\, ab
+ out a reindeer who wants to shine as brightly as Rudolph. Each performance
+  this weekend has a special guest. Tickets. Details: https://weekendscout.
+ app/e/baltimore/charmz-the-other-reindeer/
+URL:https://weekendscout.app/e/baltimore/charmz-the-other-reindeer/
+END:VEVENT
+BEGIN:VEVENT
+UID:baltimore-chris-distefano-magoobys-fri-0@weekendscout.app
+DTSTAMP:20261125T210758Z
+DTSTART:20261128T023000Z
+DTEND:20261128T043000Z
+SUMMARY:Chris Distefano
+LOCATION:Magooby's Joke House\, 9603 Deereco Rd\, Timonium\, MD 21093
+DESCRIPTION:The New York stand-up and podcaster headlines the Timonium com
+ edy club Friday and Saturday nights. Two-item minimum per person. Tickets.
+  Details: https://weekendscout.app/e/baltimore/chris-distefano-magoobys/
+URL:https://weekendscout.app/e/baltimore/chris-distefano-magoobys/
+END:VEVENT
+BEGIN:VEVENT
+UID:baltimore-chris-distefano-magoobys-sat-0@weekendscout.app
+DTSTAMP:20261125T210758Z
+DTSTART:20261128T233000Z
+DTEND:20261129T013000Z
+SUMMARY:Chris Distefano
+LOCATION:Magooby's Joke House\, 9603 Deereco Rd\, Timonium\, MD 21093
+DESCRIPTION:The New York stand-up and podcaster headlines the Timonium com
+ edy club Friday and Saturday nights. Two-item minimum per person. Tickets.
+  Details: https://weekendscout.app/e/baltimore/chris-distefano-magoobys/
+URL:https://weekendscout.app/e/baltimore/chris-distefano-magoobys/
 END:VEVENT
 END:VCALENDAR

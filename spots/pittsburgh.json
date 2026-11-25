@@ -1,7 +1,7 @@
 {
  "city": "pittsburgh",
- "updated": "2026-11-24",
- "source": "Partial: Gaucho picked from Wanderlog's Pittsburgh restaurant list with coordinates from its Wanderlog page; Phipps coordinates from the University of Pittsburgh events map; Market Square from latitude.to. Other picks dropped because coordinate lookups were blocked or rate-limited",
+ "updated": "2026-11-25",
+ "source": "VisitPittsburgh (official tourism site) directory listings for restaurants, bars and attractions (coordinates from each listing's map marker); latitude.to for Point State Park; Gaucho kept from the Nov 24 file (Wanderlog). Nominatim/OSM was unreachable from this environment",
  "spots": [
   {
    "name": "Gaucho Parrilla Argentina",
@@ -32,6 +32,149 @@
    "price": "Free",
    "blurb": "Downtown's historic public square ringed by restaurants and cafes",
    "blurbEs": "Histórica plaza pública del centro rodeada de restaurantes y cafés"
+  },
+  {
+   "name": "Meat & Potatoes",
+   "kind": "dinner",
+   "cuisine": "American gastropub",
+   "area": "Cultural District",
+   "lat": 40.443151,
+   "lon": -80.001145
+  },
+  {
+   "name": "Butcher and the Rye",
+   "kind": "dinner",
+   "cuisine": "American, whiskey bar",
+   "area": "Cultural District",
+   "lat": 40.44225,
+   "lon": -80.00216
+  },
+  {
+   "name": "Eddie V's Prime Seafood",
+   "kind": "dinner",
+   "cuisine": "Seafood and steaks",
+   "area": "Downtown",
+   "lat": 40.43994,
+   "lon": -79.99703
+  },
+  {
+   "name": "Spirits & Tales",
+   "kind": "dinner",
+   "cuisine": "French and New American",
+   "area": "Oakland",
+   "lat": 40.444909,
+   "lon": -79.954473
+  },
+  {
+   "name": "SOBA",
+   "kind": "dinner",
+   "cuisine": "Pan-Asian",
+   "area": "Shadyside",
+   "lat": 40.45713,
+   "lon": -79.92961
+  },
+  {
+   "name": "Primanti Bros. Market Square",
+   "kind": "lunch",
+   "cuisine": "Pittsburgh sandwiches",
+   "area": "Downtown",
+   "lat": 40.440365,
+   "lon": -80.002573
+  },
+  {
+   "name": "Primanti Bros. Strip District",
+   "kind": "lunch",
+   "cuisine": "Pittsburgh sandwiches",
+   "area": "Strip District",
+   "lat": 40.4507,
+   "lon": -79.98558
+  },
+  {
+   "name": "The Porch at Schenley",
+   "kind": "lunch",
+   "cuisine": "American bistro",
+   "area": "Oakland",
+   "lat": 40.442032,
+   "lon": -79.950683
+  },
+  {
+   "name": "Sienna Mercato",
+   "kind": "lunch",
+   "cuisine": "Italian, meatballs and pizza",
+   "area": "Cultural District",
+   "lat": 40.444088,
+   "lon": -79.997116
+  },
+  {
+   "name": "Con Alma",
+   "kind": "drinks",
+   "cuisine": "Cocktails and live jazz",
+   "area": "Cultural District",
+   "lat": 40.442995,
+   "lon": -80.001789
+  },
+  {
+   "name": "Cork & Crust",
+   "kind": "drinks",
+   "cuisine": "Wine bar and pizza",
+   "area": "Oakland",
+   "lat": 40.444991,
+   "lon": -79.95522
+  },
+  {
+   "name": "Carnegie Museums of Art and Natural History",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Oakland",
+   "lat": 40.443721,
+   "lon": -79.948982,
+   "price": "$25 adults, $15 kids",
+   "blurb": "Twin museums under one roof: dinosaurs and gems next to a major art collection",
+   "blurbEs": "Dos museos bajo un mismo techo: dinosaurios y gemas junto a una gran colección de arte"
+  },
+  {
+   "name": "Carnegie Science Center",
+   "kind": "always",
+   "cuisine": "",
+   "area": "North Shore",
+   "lat": 40.446011,
+   "lon": -80.018417,
+   "price": "$25 adults, $15 kids",
+   "blurb": "Hands-on science museum on the river with a planetarium and giant model railroad",
+   "blurbEs": "Museo de ciencias interactivo junto al río, con planetario y una enorme maqueta de trenes"
+  },
+  {
+   "name": "National Aviary",
+   "kind": "always",
+   "cuisine": "",
+   "area": "North Side",
+   "lat": 40.453438,
+   "lon": -80.010263,
+   "price": "$20.95 adults, $17.95 kids",
+   "blurb": "Indoor bird zoo with free-flight rooms, penguins and close-up encounters",
+   "blurbEs": "Zoológico de aves bajo techo con salas de vuelo libre, pingüinos y encuentros de cerca"
+  },
+  {
+   "name": "Duquesne Incline",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Mount Washington",
+   "lat": 40.439379,
+   "lon": -80.017966,
+   "price": "$2.50 one way",
+   "blurb": "1877 cable car up Mount Washington to the city's best skyline view",
+   "blurbEs": "Funicular de 1877 que sube al Mount Washington, con la mejor vista del perfil de la ciudad"
+  },
+  {
+   "name": "Point State Park",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 40.44167,
+   "lon": -80.01194,
+   "price": "Free",
+   "blurb": "Riverside park and fountain where the three rivers meet",
+   "blurbEs": "Parque ribereño con fuente donde se unen los tres ríos"
   }
  ]
 }

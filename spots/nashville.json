@@ -1,7 +1,7 @@
 {
  "city": "nashville",
- "updated": "2026-11-24",
- "source": "Dinner picks from Resy's 2025 Nashville top-10 (Dec 2025); restaurant coordinates from latlong.net Nashville POI lists; sight coordinates from latitude.to, Mapcarta and Nashville Sites",
+ "updated": "2026-11-25",
+ "source": "Restaurants and bars from The Infatuation's Top 25 Nashville restaurants (Oct 2026) and Best Bars in Nashville (Sep 2026), plus earlier Resy picks; new coordinates from the U.S. Census Bureau address geocoder (Nominatim unreachable), earlier ones from latlong.net, latitude.to and Mapcarta",
  "spots": [
   {
    "name": "Husk",
@@ -26,6 +26,78 @@
    "area": "Downtown",
    "lat": 36.15676,
    "lon": -86.77426
+  },
+  {
+   "name": "Bourbon Steak",
+   "kind": "dinner",
+   "cuisine": "Steakhouse",
+   "area": "Downtown",
+   "lat": 36.1568,
+   "lon": -86.78087
+  },
+  {
+   "name": "The Catbird Seat",
+   "kind": "dinner",
+   "cuisine": "Tasting menu",
+   "area": "The Gulch",
+   "lat": 36.15054,
+   "lon": -86.77915
+  },
+  {
+   "name": "St. Vito Focacceria",
+   "kind": "dinner",
+   "cuisine": "Sicilian",
+   "area": "The Gulch",
+   "lat": 36.15162,
+   "lon": -86.78295
+  },
+  {
+   "name": "Bastion",
+   "kind": "dinner",
+   "cuisine": "New American",
+   "area": "Wedgewood-Houston",
+   "lat": 36.14291,
+   "lon": -86.76666
+  },
+  {
+   "name": "Arnold's Country Kitchen",
+   "kind": "lunch",
+   "cuisine": "Meat-and-three",
+   "area": "The Gulch",
+   "lat": 36.15167,
+   "lon": -86.77932
+  },
+  {
+   "name": "Edessa",
+   "kind": "lunch",
+   "cuisine": "Turkish",
+   "area": "Nolensville Pike",
+   "lat": 36.08788,
+   "lon": -86.73118
+  },
+  {
+   "name": "Bar Roza",
+   "kind": "drinks",
+   "cuisine": "Aperitif cocktails",
+   "area": "Downtown",
+   "lat": 36.16415,
+   "lon": -86.78019
+  },
+  {
+   "name": "Four Walls",
+   "kind": "drinks",
+   "cuisine": "Cocktails",
+   "area": "SoBro",
+   "lat": 36.15698,
+   "lon": -86.77467
+  },
+  {
+   "name": "The Patterson House",
+   "kind": "drinks",
+   "cuisine": "Cocktails",
+   "area": "The Gulch",
+   "lat": 36.15054,
+   "lon": -86.77915
   },
   {
    "name": "Country Music Hall of Fame and Museum",
@@ -81,6 +153,17 @@
    "price": "Tickets",
    "blurb": "Large zoo on a historic farm with giraffes, red pandas and a big playground",
    "blurbEs": "Gran zoológico en una granja histórica con jirafas, pandas rojos y un parque infantil grande"
+  },
+  {
+   "name": "Cheekwood",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Belle Meade",
+   "lat": 36.08597,
+   "lon": -86.87203,
+   "price": "Tickets",
+   "blurb": "Historic estate with 55 acres of gardens and an art museum; holiday lights in winter",
+   "blurbEs": "Finca histórica con 55 acres de jardines y un museo de arte; luces navideñas en invierno"
   }
  ]
 }

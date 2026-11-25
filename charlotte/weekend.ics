@@ -9,243 +9,294 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:charlotte-omb-christmas-market-2026-fri-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART:20261127T160000Z
 DTEND:20261128T020000Z
 SUMMARY:OMB Christmas Market
 LOCATION:Olde Mecklenburg Brewery\, 4150 Yancey Rd\, Charlotte\, NC 28217
-DESCRIPTION:Opening weekend of the 15th German-style Christmas market: abo
- ut 50 local makers\, food and drink\, hot cocoa and fire pits. Santa poses
-  for free photos Saturday 2–5 p.m. A second market runs at OMB Ballantyn
- e (15025 Bowl St). Free entry. Details: https://weekendscout.app/e/charlot
- te/omb-christmas-market-2026/
+DESCRIPTION:Opening weekend of OMB’s 15th German-style Christmas market:
+  local makers\, food and beer\, and free photos with Santa Saturday 2–5 
+ p.m. A second market runs at OMB Ballantyne (15025 Bowl St). Free entry. D
+ etails: https://weekendscout.app/e/charlotte/omb-christmas-market-2026/
 URL:https://weekendscout.app/e/charlotte/omb-christmas-market-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:charlotte-omb-christmas-market-2026-sat-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART:20261128T170000Z
 DTEND:20261129T020000Z
 SUMMARY:OMB Christmas Market
 LOCATION:Olde Mecklenburg Brewery\, 4150 Yancey Rd\, Charlotte\, NC 28217
-DESCRIPTION:Opening weekend of the 15th German-style Christmas market: abo
- ut 50 local makers\, food and drink\, hot cocoa and fire pits. Santa poses
-  for free photos Saturday 2–5 p.m. A second market runs at OMB Ballantyn
- e (15025 Bowl St). Free entry. Details: https://weekendscout.app/e/charlot
- te/omb-christmas-market-2026/
+DESCRIPTION:Opening weekend of OMB’s 15th German-style Christmas market:
+  local makers\, food and beer\, and free photos with Santa Saturday 2–5 
+ p.m. A second market runs at OMB Ballantyne (15025 Bowl St). Free entry. D
+ etails: https://weekendscout.app/e/charlotte/omb-christmas-market-2026/
 URL:https://weekendscout.app/e/charlotte/omb-christmas-market-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:charlotte-omb-christmas-market-2026-sun-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART:20261129T170000Z
 DTEND:20261130T000000Z
 SUMMARY:OMB Christmas Market
 LOCATION:Olde Mecklenburg Brewery\, 4150 Yancey Rd\, Charlotte\, NC 28217
-DESCRIPTION:Opening weekend of the 15th German-style Christmas market: abo
- ut 50 local makers\, food and drink\, hot cocoa and fire pits. Santa poses
-  for free photos Saturday 2–5 p.m. A second market runs at OMB Ballantyn
- e (15025 Bowl St). Free entry. Details: https://weekendscout.app/e/charlot
- te/omb-christmas-market-2026/
+DESCRIPTION:Opening weekend of OMB’s 15th German-style Christmas market:
+  local makers\, food and beer\, and free photos with Santa Saturday 2–5 
+ p.m. A second market runs at OMB Ballantyne (15025 Bowl St). Free entry. D
+ etails: https://weekendscout.app/e/charlotte/omb-christmas-market-2026/
 URL:https://weekendscout.app/e/charlotte/omb-christmas-market-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:charlotte-hornets-nets-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART:20261128T230000Z
 DTEND:20261129T010000Z
 SUMMARY:Hornets vs. Nets
 LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
-DESCRIPTION:The Hornets host Brooklyn on Saturday evening in Uptown. Ticke
- ts. Details: https://weekendscout.app/e/charlotte/hornets-nets-2026-11-28/
+DESCRIPTION:The Hornets host the Brooklyn Nets on Saturday evening in Upto
+ wn. Check ticket prices. Details: https://weekendscout.app/e/charlotte/hor
+ nets-nets-2026-11-28/
 URL:https://weekendscout.app/e/charlotte/hornets-nets-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:charlotte-light-the-knights-2026-fri-0@weekendscout.app
-DTSTAMP:20261125T194629Z
-DTSTART:20261127T190000Z
-DTEND:20261128T033000Z
+DTSTAMP:20261125T210758Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
 SUMMARY:Light the Knights
 LOCATION:Truist Field\, 324 S Mint St\, Charlotte\, NC 28202
-DESCRIPTION:The Knights’ ballpark turns into a holiday festival: lights\
- , an ice rink on the field\, a 150-foot snow tubing slope\, vendors and fr
- ee photos with Santa. $14.37 entry\, $44.40 with skating & tubing. Details
- : https://weekendscout.app/e/charlotte/light-the-knights-2026/
+DESCRIPTION:The Knights’ ballpark becomes a holiday festival with 250\,0
+ 00+ lights\, an NHL-size ice rink\, a 150-foot snow tubing hill and a holi
+ day market. Hours vary by date\; check the calendar. Check ticket prices. 
+ Details: https://weekendscout.app/e/charlotte/light-the-knights-2026/
 URL:https://weekendscout.app/e/charlotte/light-the-knights-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:charlotte-light-the-knights-2026-sat-0@weekendscout.app
-DTSTAMP:20261125T194629Z
-DTSTART:20261128T190000Z
-DTEND:20261129T033000Z
+DTSTAMP:20261125T210758Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
 SUMMARY:Light the Knights
 LOCATION:Truist Field\, 324 S Mint St\, Charlotte\, NC 28202
-DESCRIPTION:The Knights’ ballpark turns into a holiday festival: lights\
- , an ice rink on the field\, a 150-foot snow tubing slope\, vendors and fr
- ee photos with Santa. $14.37 entry\, $44.40 with skating & tubing. Details
- : https://weekendscout.app/e/charlotte/light-the-knights-2026/
+DESCRIPTION:The Knights’ ballpark becomes a holiday festival with 250\,0
+ 00+ lights\, an NHL-size ice rink\, a 150-foot snow tubing hill and a holi
+ day market. Hours vary by date\; check the calendar. Check ticket prices. 
+ Details: https://weekendscout.app/e/charlotte/light-the-knights-2026/
 URL:https://weekendscout.app/e/charlotte/light-the-knights-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:charlotte-light-the-knights-2026-sun-0@weekendscout.app
-DTSTAMP:20261125T194629Z
-DTSTART:20261129T190000Z
-DTEND:20261130T020000Z
+DTSTAMP:20261125T210758Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
 SUMMARY:Light the Knights
 LOCATION:Truist Field\, 324 S Mint St\, Charlotte\, NC 28202
-DESCRIPTION:The Knights’ ballpark turns into a holiday festival: lights\
- , an ice rink on the field\, a 150-foot snow tubing slope\, vendors and fr
- ee photos with Santa. $14.37 entry\, $44.40 with skating & tubing. Details
- : https://weekendscout.app/e/charlotte/light-the-knights-2026/
+DESCRIPTION:The Knights’ ballpark becomes a holiday festival with 250\,0
+ 00+ lights\, an NHL-size ice rink\, a 150-foot snow tubing hill and a holi
+ day market. Hours vary by date\; check the calendar. Check ticket prices. 
+ Details: https://weekendscout.app/e/charlotte/light-the-knights-2026/
 URL:https://weekendscout.app/e/charlotte/light-the-knights-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:charlotte-grinch-in-concert-cso-2026-fri-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART:20261128T003000Z
 DTEND:20261128T023000Z
-SUMMARY:How the Grinch Stole Christmas in Concert
+SUMMARY:Dr. Seuss’ How the Grinch Stole Christmas in Concert
 LOCATION:Ovens Auditorium\, 2700 E Independence Blvd\, Charlotte\, NC 2820
  5
-DESCRIPTION:The Charlotte Symphony plays the score live to the animated Dr
- . Seuss classic. Friday night and Saturday afternoon only. Tickets. Detail
- s: https://weekendscout.app/e/charlotte/grinch-in-concert-cso-2026/
+DESCRIPTION:The Charlotte Symphony plays James Horner’s score live to th
+ e Jim Carrey film. Friday night and Saturday afternoon only. Check ticket 
+ prices. Details: https://weekendscout.app/e/charlotte/grinch-in-concert-cs
+ o-2026/
 URL:https://weekendscout.app/e/charlotte/grinch-in-concert-cso-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:charlotte-grinch-in-concert-cso-2026-sat-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART:20261128T200000Z
 DTEND:20261128T220000Z
-SUMMARY:How the Grinch Stole Christmas in Concert
+SUMMARY:Dr. Seuss’ How the Grinch Stole Christmas in Concert
 LOCATION:Ovens Auditorium\, 2700 E Independence Blvd\, Charlotte\, NC 2820
  5
-DESCRIPTION:The Charlotte Symphony plays the score live to the animated Dr
- . Seuss classic. Friday night and Saturday afternoon only. Tickets. Detail
- s: https://weekendscout.app/e/charlotte/grinch-in-concert-cso-2026/
+DESCRIPTION:The Charlotte Symphony plays James Horner’s score live to th
+ e Jim Carrey film. Friday night and Saturday afternoon only. Check ticket 
+ prices. Details: https://weekendscout.app/e/charlotte/grinch-in-concert-cs
+ o-2026/
 URL:https://weekendscout.app/e/charlotte/grinch-in-concert-cso-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:charlotte-speedway-christmas-2026-fri-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART:20261127T230000Z
 DTEND:20261128T030000Z
 SUMMARY:Speedway Christmas
 LOCATION:Charlotte Motor Speedway\, 5555 Concord Pkwy S\, Concord\, NC 280
  27
-DESCRIPTION:Drive a nearly four-mile course of more than 6 million lights\
- , then park for the Christmas Village (open Thursday–Sunday) with Santa 
- photos\, a tubing hill and holiday movies on the big screen. From $46 per 
- car. Details: https://weekendscout.app/e/charlotte/speedway-christmas-2026
- /
+DESCRIPTION:Drive a light show of millions of lights around the speedway\,
+  open 6–10 p.m. rain or shine. Village Nights add the Christmas Village\
+ ; the tubing hill there is $15 extra. Per car (weekdays from $46). Details
+ : https://weekendscout.app/e/charlotte/speedway-christmas-2026/
 URL:https://weekendscout.app/e/charlotte/speedway-christmas-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:charlotte-speedway-christmas-2026-sat-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART:20261128T230000Z
 DTEND:20261129T030000Z
 SUMMARY:Speedway Christmas
 LOCATION:Charlotte Motor Speedway\, 5555 Concord Pkwy S\, Concord\, NC 280
  27
-DESCRIPTION:Drive a nearly four-mile course of more than 6 million lights\
- , then park for the Christmas Village (open Thursday–Sunday) with Santa 
- photos\, a tubing hill and holiday movies on the big screen. From $46 per 
- car. Details: https://weekendscout.app/e/charlotte/speedway-christmas-2026
- /
+DESCRIPTION:Drive a light show of millions of lights around the speedway\,
+  open 6–10 p.m. rain or shine. Village Nights add the Christmas Village\
+ ; the tubing hill there is $15 extra. Per car (weekdays from $46). Details
+ : https://weekendscout.app/e/charlotte/speedway-christmas-2026/
 URL:https://weekendscout.app/e/charlotte/speedway-christmas-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:charlotte-speedway-christmas-2026-sun-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART:20261129T230000Z
 DTEND:20261130T030000Z
 SUMMARY:Speedway Christmas
 LOCATION:Charlotte Motor Speedway\, 5555 Concord Pkwy S\, Concord\, NC 280
  27
-DESCRIPTION:Drive a nearly four-mile course of more than 6 million lights\
- , then park for the Christmas Village (open Thursday–Sunday) with Santa 
- photos\, a tubing hill and holiday movies on the big screen. From $46 per 
- car. Details: https://weekendscout.app/e/charlotte/speedway-christmas-2026
- /
+DESCRIPTION:Drive a light show of millions of lights around the speedway\,
+  open 6–10 p.m. rain or shine. Village Nights add the Christmas Village\
+ ; the tubing hill there is $15 extra. Per car (weekdays from $46). Details
+ : https://weekendscout.app/e/charlotte/speedway-christmas-2026/
 URL:https://weekendscout.app/e/charlotte/speedway-christmas-2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:charlotte-gantt-museum-store-market-2026-fri-0@weekendscout.app
-DTSTAMP:20261125T194629Z
-DTSTART:20261127T170000Z
-DTEND:20261127T210000Z
-SUMMARY:Museum Store Market
-LOCATION:Harvey B. Gantt Center\, 551 S Tryon St\, Charlotte\, NC 28202
-DESCRIPTION:Holiday shopping from the Gantt Center’s museum store and lo
- cal Black-owned makers\, in the Uptown center for African-American arts an
- d culture. Free to browse. Details: https://weekendscout.app/e/charlotte/g
- antt-museum-store-market-2026/
-URL:https://weekendscout.app/e/charlotte/gantt-museum-store-market-2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:charlotte-gantt-museum-store-market-2026-sat-0@weekendscout.app
-DTSTAMP:20261125T194629Z
-DTSTART:20261128T170000Z
-DTEND:20261128T210000Z
-SUMMARY:Museum Store Market
-LOCATION:Harvey B. Gantt Center\, 551 S Tryon St\, Charlotte\, NC 28202
-DESCRIPTION:Holiday shopping from the Gantt Center’s museum store and lo
- cal Black-owned makers\, in the Uptown center for African-American arts an
- d culture. Free to browse. Details: https://weekendscout.app/e/charlotte/g
- antt-museum-store-market-2026/
-URL:https://weekendscout.app/e/charlotte/gantt-museum-store-market-2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:charlotte-gantt-museum-store-market-2026-sun-0@weekendscout.app
-DTSTAMP:20261125T194629Z
-DTSTART:20261129T170000Z
-DTEND:20261129T210000Z
-SUMMARY:Museum Store Market
-LOCATION:Harvey B. Gantt Center\, 551 S Tryon St\, Charlotte\, NC 28202
-DESCRIPTION:Holiday shopping from the Gantt Center’s museum store and lo
- cal Black-owned makers\, in the Uptown center for African-American arts an
- d culture. Free to browse. Details: https://weekendscout.app/e/charlotte/g
- antt-museum-store-market-2026/
-URL:https://weekendscout.app/e/charlotte/gantt-museum-store-market-2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:charlotte-kannapolis-celebration-of-lights-2026-fri-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART:20261127T223000Z
 DTEND:20261128T030000Z
 SUMMARY:Kannapolis Celebration of Lights
 LOCATION:Village Park\, 700 West C St\, Kannapolis\, NC 28081
-DESCRIPTION:Free holiday lights in a park about 30 minutes northeast of Up
- town\, with a $3 Winterland Express train and carousel. Free ($3 train or 
- carousel). Details: https://weekendscout.app/e/charlotte/kannapolis-celebr
- ation-of-lights-2026/
+DESCRIPTION:Free holiday lights at Village Park in Kannapolis\, about 30 m
+ inutes northeast of Uptown\, plus the Winterland Express train and carouse
+ l (tickets required). Free (train & carousel tickets extra). Details: http
+ s://weekendscout.app/e/charlotte/kannapolis-celebration-of-lights-2026/
 URL:https://weekendscout.app/e/charlotte/kannapolis-celebration-of-lights-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:charlotte-kannapolis-celebration-of-lights-2026-sat-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART:20261128T223000Z
 DTEND:20261129T030000Z
 SUMMARY:Kannapolis Celebration of Lights
 LOCATION:Village Park\, 700 West C St\, Kannapolis\, NC 28081
-DESCRIPTION:Free holiday lights in a park about 30 minutes northeast of Up
- town\, with a $3 Winterland Express train and carousel. Free ($3 train or 
- carousel). Details: https://weekendscout.app/e/charlotte/kannapolis-celebr
- ation-of-lights-2026/
+DESCRIPTION:Free holiday lights at Village Park in Kannapolis\, about 30 m
+ inutes northeast of Uptown\, plus the Winterland Express train and carouse
+ l (tickets required). Free (train & carousel tickets extra). Details: http
+ s://weekendscout.app/e/charlotte/kannapolis-celebration-of-lights-2026/
 URL:https://weekendscout.app/e/charlotte/kannapolis-celebration-of-lights-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:charlotte-kannapolis-celebration-of-lights-2026-sun-0@weekendscout.app
-DTSTAMP:20261125T194629Z
+DTSTAMP:20261125T210758Z
 DTSTART:20261129T223000Z
 DTEND:20261130T020000Z
 SUMMARY:Kannapolis Celebration of Lights
 LOCATION:Village Park\, 700 West C St\, Kannapolis\, NC 28081
-DESCRIPTION:Free holiday lights in a park about 30 minutes northeast of Up
- town\, with a $3 Winterland Express train and carousel. Free ($3 train or 
- carousel). Details: https://weekendscout.app/e/charlotte/kannapolis-celebr
- ation-of-lights-2026/
+DESCRIPTION:Free holiday lights at Village Park in Kannapolis\, about 30 m
+ inutes northeast of Uptown\, plus the Winterland Express train and carouse
+ l (tickets required). Free (train & carousel tickets extra). Details: http
+ s://weekendscout.app/e/charlotte/kannapolis-celebration-of-lights-2026/
 URL:https://weekendscout.app/e/charlotte/kannapolis-celebration-of-lights-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:charlotte-a-beautiful-noise-2026-fri-0@weekendscout.app
+DTSTAMP:20261125T210758Z
+DTSTART:20261128T003000Z
+DTEND:20261128T023000Z
+SUMMARY:A Beautiful Noise
+LOCATION:Belk Theater\, 130 N Tryon St\, Charlotte\, NC 28202
+DESCRIPTION:The touring Broadway musical about Neil Diamond’s life\, pac
+ ked with hits like “Sweet Caroline.” Five performances over the weeken
+ d. From $47.02. Details: https://weekendscout.app/e/charlotte/a-beautiful-
+ noise-2026/
+URL:https://weekendscout.app/e/charlotte/a-beautiful-noise-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:charlotte-a-beautiful-noise-2026-sat-0@weekendscout.app
+DTSTAMP:20261125T210758Z
+DTSTART:20261128T190000Z
+DTEND:20261128T210000Z
+SUMMARY:A Beautiful Noise
+LOCATION:Belk Theater\, 130 N Tryon St\, Charlotte\, NC 28202
+DESCRIPTION:The touring Broadway musical about Neil Diamond’s life\, pac
+ ked with hits like “Sweet Caroline.” Five performances over the weeken
+ d. From $47.02. Details: https://weekendscout.app/e/charlotte/a-beautiful-
+ noise-2026/
+URL:https://weekendscout.app/e/charlotte/a-beautiful-noise-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:charlotte-a-beautiful-noise-2026-sat-1@weekendscout.app
+DTSTAMP:20261125T210758Z
+DTSTART:20261129T003000Z
+DTEND:20261129T023000Z
+SUMMARY:A Beautiful Noise
+LOCATION:Belk Theater\, 130 N Tryon St\, Charlotte\, NC 28202
+DESCRIPTION:The touring Broadway musical about Neil Diamond’s life\, pac
+ ked with hits like “Sweet Caroline.” Five performances over the weeken
+ d. From $47.02. Details: https://weekendscout.app/e/charlotte/a-beautiful-
+ noise-2026/
+URL:https://weekendscout.app/e/charlotte/a-beautiful-noise-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:charlotte-a-beautiful-noise-2026-sun-0@weekendscout.app
+DTSTAMP:20261125T210758Z
+DTSTART:20261129T180000Z
+DTEND:20261129T200000Z
+SUMMARY:A Beautiful Noise
+LOCATION:Belk Theater\, 130 N Tryon St\, Charlotte\, NC 28202
+DESCRIPTION:The touring Broadway musical about Neil Diamond’s life\, pac
+ ked with hits like “Sweet Caroline.” Five performances over the weeken
+ d. From $47.02. Details: https://weekendscout.app/e/charlotte/a-beautiful-
+ noise-2026/
+URL:https://weekendscout.app/e/charlotte/a-beautiful-noise-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:charlotte-a-beautiful-noise-2026-sun-1@weekendscout.app
+DTSTAMP:20261125T210758Z
+DTSTART:20261129T233000Z
+DTEND:20261130T013000Z
+SUMMARY:A Beautiful Noise
+LOCATION:Belk Theater\, 130 N Tryon St\, Charlotte\, NC 28202
+DESCRIPTION:The touring Broadway musical about Neil Diamond’s life\, pac
+ ked with hits like “Sweet Caroline.” Five performances over the weeken
+ d. From $47.02. Details: https://weekendscout.app/e/charlotte/a-beautiful-
+ noise-2026/
+URL:https://weekendscout.app/e/charlotte/a-beautiful-noise-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:charlotte-a-motown-christmas-2026-fri-0@weekendscout.app
+DTSTAMP:20261125T210758Z
+DTSTART:20261128T003000Z
+DTEND:20261128T023000Z
+SUMMARY:A Motown Christmas
+LOCATION:Knight Theater\, 550 S Tryon St\, Charlotte\, NC 28202
+DESCRIPTION:The Motortown All-Stars\, with singers from groups like the Mi
+ racles and the Contours\, perform Motown hits and holiday classics with a 
+ live Detroit band. From $70.77. Details: https://weekendscout.app/e/charlo
+ tte/a-motown-christmas-2026/
+URL:https://weekendscout.app/e/charlotte/a-motown-christmas-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:charlotte-eric-roberson-greatest-gift-2026-sat-0@weekendscout.app
+DTSTAMP:20261125T210758Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:Eric Roberson Presents: The Greatest Gift
+LOCATION:Knight Theater\, 550 S Tryon St\, Charlotte\, NC 28202
+DESCRIPTION:GRAMMY-nominated R&B and soul singer-songwriter Eric Roberson 
+ brings his holiday show to Uptown. From $58.89. Details: https://weekendsc
+ out.app/e/charlotte/eric-roberson-greatest-gift-2026/
+URL:https://weekendscout.app/e/charlotte/eric-roberson-greatest-gift-2026/
 END:VEVENT
 END:VCALENDAR

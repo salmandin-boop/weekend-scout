@@ -1,7 +1,7 @@
 {
  "city": "tampa",
- "updated": "2026-11-24",
- "source": "Columbia and Armature Works coordinates from latitude.to and Mapcarta (OpenStreetMap); sights from Mapcarta, latitude.to and arenasmap; restaurant openness from Visit Tampa Bay MICHELIN page and Time Out (2025/2026)",
+ "updated": "2026-11-25",
+ "source": "New dinner, lunch and drinks picks from the MICHELIN Guide Tampa listings via Visit Tampa Bay's MICHELIN page (Nov 2026), coordinates from each MICHELIN Guide page's map; Columbia and Armature Works coordinates from latitude.to and Mapcarta (OpenStreetMap); sights from Mapcarta, latitude.to and arenasmap",
  "spots": [
   {
    "name": "Columbia Restaurant",
@@ -18,6 +18,70 @@
    "area": "Tampa Heights",
    "lat": 27.96116,
    "lon": -82.46403
+  },
+  {
+   "name": "Ebbe",
+   "kind": "dinner",
+   "cuisine": "Contemporary tasting menu",
+   "area": "Downtown",
+   "lat": 27.9536143,
+   "lon": -82.4602915
+  },
+  {
+   "name": "Rocca",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "Tampa Heights",
+   "lat": 27.96251,
+   "lon": -82.4646
+  },
+  {
+   "name": "Kōsen",
+   "kind": "dinner",
+   "cuisine": "Japanese, sushi",
+   "area": "Tampa Heights",
+   "lat": 27.9623377,
+   "lon": -82.4638787
+  },
+  {
+   "name": "LILAC",
+   "kind": "dinner",
+   "cuisine": "Contemporary Mediterranean",
+   "area": "Channel District",
+   "lat": 27.94373,
+   "lon": -82.45109
+  },
+  {
+   "name": "The Pearl",
+   "kind": "dinner",
+   "cuisine": "American seafood",
+   "area": "Water Street",
+   "lat": 27.9433027,
+   "lon": -82.4501376
+  },
+  {
+   "name": "Mise en Place",
+   "kind": "dinner",
+   "cuisine": "International",
+   "area": "Ybor City",
+   "lat": 27.960938,
+   "lon": -82.446324
+  },
+  {
+   "name": "Supernatural Food & Wine",
+   "kind": "lunch",
+   "cuisine": "Sandwiches",
+   "area": "Downtown",
+   "lat": 27.9507312,
+   "lon": -82.4587371
+  },
+  {
+   "name": "Bar Terroir",
+   "kind": "drinks",
+   "cuisine": "Wine bar & French bistro",
+   "area": "South Tampa",
+   "lat": 27.936286,
+   "lon": -82.502576
   },
   {
    "name": "The Florida Aquarium",
