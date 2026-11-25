@@ -1,0 +1,163 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Anchorage
+X-WR-CALDESC:Hand-checked weekend picks in Anchorage, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:anchorage-tony-knowles-coastal-trail-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Tony Knowles Coastal Trail
+LOCATION:Tony Knowles Coastal Trail\, Elderberry Park\, W 5th Ave\, Anchor
+ age\, AK 99501
+DESCRIPTION:The 11-mile shoreline trail from downtown\, with views of Cook
+  Inlet and Denali on clear days. Free. Details: https://weekendscout.app/e
+ /anchorage/tony-knowles-coastal-trail-2026-11/
+URL:https://weekendscout.app/e/anchorage/tony-knowles-coastal-trail-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:anchorage-tony-knowles-coastal-trail-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Tony Knowles Coastal Trail
+LOCATION:Tony Knowles Coastal Trail\, Elderberry Park\, W 5th Ave\, Anchor
+ age\, AK 99501
+DESCRIPTION:The 11-mile shoreline trail from downtown\, with views of Cook
+  Inlet and Denali on clear days. Free. Details: https://weekendscout.app/e
+ /anchorage/tony-knowles-coastal-trail-2026-11/
+URL:https://weekendscout.app/e/anchorage/tony-knowles-coastal-trail-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:anchorage-tony-knowles-coastal-trail-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Tony Knowles Coastal Trail
+LOCATION:Tony Knowles Coastal Trail\, Elderberry Park\, W 5th Ave\, Anchor
+ age\, AK 99501
+DESCRIPTION:The 11-mile shoreline trail from downtown\, with views of Cook
+  Inlet and Denali on clear days. Free. Details: https://weekendscout.app/e
+ /anchorage/tony-knowles-coastal-trail-2026-11/
+URL:https://weekendscout.app/e/anchorage/tony-knowles-coastal-trail-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:anchorage-the-nutcracker-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART:20261127T230000Z
+DTEND:20261128T010000Z
+SUMMARY:The Nutcracker
+LOCATION:Atwood Concert Hall\, 621 W 6th Ave\, Anchorage\, AK 99501
+DESCRIPTION:Eugene Ballet’s holiday production with local young dancers\
+ , six shows. Tickets. Details: https://weekendscout.app/e/anchorage/the-nu
+ tcracker-2026-11/
+URL:https://weekendscout.app/e/anchorage/the-nutcracker-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:anchorage-the-nutcracker-2026-11-fri-1@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART:20261128T043000Z
+DTEND:20261128T063000Z
+SUMMARY:The Nutcracker
+LOCATION:Atwood Concert Hall\, 621 W 6th Ave\, Anchorage\, AK 99501
+DESCRIPTION:Eugene Ballet’s holiday production with local young dancers\
+ , six shows. Tickets. Details: https://weekendscout.app/e/anchorage/the-nu
+ tcracker-2026-11/
+URL:https://weekendscout.app/e/anchorage/the-nutcracker-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:anchorage-the-nutcracker-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART:20261128T230000Z
+DTEND:20261129T010000Z
+SUMMARY:The Nutcracker
+LOCATION:Atwood Concert Hall\, 621 W 6th Ave\, Anchorage\, AK 99501
+DESCRIPTION:Eugene Ballet’s holiday production with local young dancers\
+ , six shows. Tickets. Details: https://weekendscout.app/e/anchorage/the-nu
+ tcracker-2026-11/
+URL:https://weekendscout.app/e/anchorage/the-nutcracker-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:anchorage-the-nutcracker-2026-11-sat-1@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART:20261129T043000Z
+DTEND:20261129T063000Z
+SUMMARY:The Nutcracker
+LOCATION:Atwood Concert Hall\, 621 W 6th Ave\, Anchorage\, AK 99501
+DESCRIPTION:Eugene Ballet’s holiday production with local young dancers\
+ , six shows. Tickets. Details: https://weekendscout.app/e/anchorage/the-nu
+ tcracker-2026-11/
+URL:https://weekendscout.app/e/anchorage/the-nutcracker-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:anchorage-the-nutcracker-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART:20261129T220000Z
+DTEND:20261130T000000Z
+SUMMARY:The Nutcracker
+LOCATION:Atwood Concert Hall\, 621 W 6th Ave\, Anchorage\, AK 99501
+DESCRIPTION:Eugene Ballet’s holiday production with local young dancers\
+ , six shows. Tickets. Details: https://weekendscout.app/e/anchorage/the-nu
+ tcracker-2026-11/
+URL:https://weekendscout.app/e/anchorage/the-nutcracker-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:anchorage-the-nutcracker-2026-11-sun-1@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART:20261130T023000Z
+DTEND:20261130T043000Z
+SUMMARY:The Nutcracker
+LOCATION:Atwood Concert Hall\, 621 W 6th Ave\, Anchorage\, AK 99501
+DESCRIPTION:Eugene Ballet’s holiday production with local young dancers\
+ , six shows. Tickets. Details: https://weekendscout.app/e/anchorage/the-nu
+ tcracker-2026-11/
+URL:https://weekendscout.app/e/anchorage/the-nutcracker-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:anchorage-anchorage-museum-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Anchorage Museum
+LOCATION:Anchorage Museum\, 625 C St\, Anchorage\, AK 99501
+DESCRIPTION:Alaska art\, history and Indigenous cultures\, plus a hands-on
+  science center. Tickets. Details: https://weekendscout.app/e/anchorage/an
+ chorage-museum-2026-11/
+URL:https://weekendscout.app/e/anchorage/anchorage-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:anchorage-anchorage-museum-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Anchorage Museum
+LOCATION:Anchorage Museum\, 625 C St\, Anchorage\, AK 99501
+DESCRIPTION:Alaska art\, history and Indigenous cultures\, plus a hands-on
+  science center. Tickets. Details: https://weekendscout.app/e/anchorage/an
+ chorage-museum-2026-11/
+URL:https://weekendscout.app/e/anchorage/anchorage-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:anchorage-anchorage-museum-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Anchorage Museum
+LOCATION:Anchorage Museum\, 625 C St\, Anchorage\, AK 99501
+DESCRIPTION:Alaska art\, history and Indigenous cultures\, plus a hands-on
+  science center. Tickets. Details: https://weekendscout.app/e/anchorage/an
+ chorage-museum-2026-11/
+URL:https://weekendscout.app/e/anchorage/anchorage-museum-2026-11/
+END:VEVENT
+END:VCALENDAR

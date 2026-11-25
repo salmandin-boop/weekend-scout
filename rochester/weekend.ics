@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:rochester-roc-holiday-village-2026-fri-0@weekendscout.app
-DTSTAMP:20261125T001049Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261127T160000Z
 DTEND:20261128T040000Z
 SUMMARY:ROC Holiday Village
@@ -21,7 +21,7 @@ URL:https://weekendscout.app/e/rochester/roc-holiday-village-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:rochester-roc-holiday-village-2026-sat-0@weekendscout.app
-DTSTAMP:20261125T001049Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261128T160000Z
 DTEND:20261128T180000Z
 SUMMARY:ROC Holiday Village
@@ -33,7 +33,7 @@ URL:https://weekendscout.app/e/rochester/roc-holiday-village-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:rochester-roc-holiday-village-2026-sun-0@weekendscout.app
-DTSTAMP:20261125T001049Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261129T160000Z
 DTEND:20261129T180000Z
 SUMMARY:ROC Holiday Village
@@ -45,7 +45,7 @@ URL:https://weekendscout.app/e/rochester/roc-holiday-village-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:rochester-nutcracker-rpo-2026-fri-0@weekendscout.app
-DTSTAMP:20261125T001049Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261127T190000Z
 DTEND:20261127T210000Z
 SUMMARY:The Nutcracker
@@ -58,7 +58,7 @@ URL:https://weekendscout.app/e/rochester/nutcracker-rpo-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:rochester-nutcracker-rpo-2026-fri-1@weekendscout.app
-DTSTAMP:20261125T001049Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261128T000000Z
 DTEND:20261128T020000Z
 SUMMARY:The Nutcracker
@@ -71,7 +71,7 @@ URL:https://weekendscout.app/e/rochester/nutcracker-rpo-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:rochester-nutcracker-rpo-2026-sat-0@weekendscout.app
-DTSTAMP:20261125T001049Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261128T190000Z
 DTEND:20261128T210000Z
 SUMMARY:The Nutcracker
@@ -84,7 +84,7 @@ URL:https://weekendscout.app/e/rochester/nutcracker-rpo-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:rochester-nutcracker-rpo-2026-sat-1@weekendscout.app
-DTSTAMP:20261125T001049Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261129T000000Z
 DTEND:20261129T020000Z
 SUMMARY:The Nutcracker
@@ -97,7 +97,7 @@ URL:https://weekendscout.app/e/rochester/nutcracker-rpo-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:rochester-nutcracker-rpo-2026-sun-0@weekendscout.app
-DTSTAMP:20261125T001049Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261129T190000Z
 DTEND:20261129T210000Z
 SUMMARY:The Nutcracker
@@ -110,7 +110,7 @@ URL:https://weekendscout.app/e/rochester/nutcracker-rpo-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:rochester-geva-christmas-carol-2026-sat-0@weekendscout.app
-DTSTAMP:20261125T001049Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261129T003000Z
 DTEND:20261129T023000Z
 SUMMARY:A Christmas Carol
@@ -122,7 +122,7 @@ URL:https://weekendscout.app/e/rochester/geva-christmas-carol-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:rochester-holiday-laser-rmsc-2026-fri-0@weekendscout.app
-DTSTAMP:20261125T001049Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261127T150000Z
 DTEND:20261127T170000Z
 SUMMARY:Holiday Laser
@@ -134,7 +134,7 @@ URL:https://weekendscout.app/e/rochester/holiday-laser-rmsc-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:rochester-holiday-laser-rmsc-2026-fri-1@weekendscout.app
-DTSTAMP:20261125T001049Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261127T170000Z
 DTEND:20261127T190000Z
 SUMMARY:Holiday Laser
@@ -146,7 +146,7 @@ URL:https://weekendscout.app/e/rochester/holiday-laser-rmsc-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:rochester-holiday-laser-rmsc-2026-fri-2@weekendscout.app
-DTSTAMP:20261125T001049Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261127T211500Z
 DTEND:20261127T231500Z
 SUMMARY:Holiday Laser
@@ -158,7 +158,7 @@ URL:https://weekendscout.app/e/rochester/holiday-laser-rmsc-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:rochester-holiday-laser-rmsc-2026-sat-0@weekendscout.app
-DTSTAMP:20261125T001049Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261128T160000Z
 DTEND:20261128T180000Z
 SUMMARY:Holiday Laser
@@ -170,7 +170,7 @@ URL:https://weekendscout.app/e/rochester/holiday-laser-rmsc-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:rochester-holiday-laser-rmsc-2026-sat-1@weekendscout.app
-DTSTAMP:20261125T001049Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261128T201500Z
 DTEND:20261128T221500Z
 SUMMARY:Holiday Laser
@@ -182,7 +182,7 @@ URL:https://weekendscout.app/e/rochester/holiday-laser-rmsc-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:rochester-holiday-laser-rmsc-2026-sun-0@weekendscout.app
-DTSTAMP:20261125T001049Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261129T191500Z
 DTEND:20261129T211500Z
 SUMMARY:Holiday Laser
@@ -194,7 +194,7 @@ URL:https://weekendscout.app/e/rochester/holiday-laser-rmsc-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:rochester-holiday-laser-rmsc-2026-sun-1@weekendscout.app
-DTSTAMP:20261125T001049Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261129T201500Z
 DTEND:20261129T221500Z
 SUMMARY:Holiday Laser
@@ -206,7 +206,7 @@ URL:https://weekendscout.app/e/rochester/holiday-laser-rmsc-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:rochester-casa-larga-holiday-market-2026-fri-0@weekendscout.app
-DTSTAMP:20261125T001049Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261127T160000Z
 DTEND:20261127T210000Z
 SUMMARY:Holiday Wine & Craft Marketplace
@@ -218,7 +218,7 @@ URL:https://weekendscout.app/e/rochester/casa-larga-holiday-market-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:rochester-casa-larga-holiday-market-2026-sat-0@weekendscout.app
-DTSTAMP:20261125T001049Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261128T160000Z
 DTEND:20261128T210000Z
 SUMMARY:Holiday Wine & Craft Marketplace
@@ -230,7 +230,7 @@ URL:https://weekendscout.app/e/rochester/casa-larga-holiday-market-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:rochester-native-made-market-2026-sat-0@weekendscout.app
-DTSTAMP:20261125T001049Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261128T150000Z
 DTEND:20261128T220000Z
 SUMMARY:Native Made Market
@@ -243,7 +243,7 @@ URL:https://weekendscout.app/e/rochester/native-made-market-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:rochester-themata-holiday-market-2026-fri-0@weekendscout.app
-DTSTAMP:20261125T001049Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261127T150000Z
 DTEND:20261127T210000Z
 SUMMARY:Themata Holiday Homemade Market
@@ -255,7 +255,7 @@ URL:https://weekendscout.app/e/rochester/themata-holiday-market-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:rochester-themata-holiday-market-2026-sat-0@weekendscout.app
-DTSTAMP:20261125T001049Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261128T150000Z
 DTEND:20261128T210000Z
 SUMMARY:Themata Holiday Homemade Market
@@ -267,7 +267,7 @@ URL:https://weekendscout.app/e/rochester/themata-holiday-market-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:rochester-holidays-at-the-market-2026-sun-0@weekendscout.app
-DTSTAMP:20261125T001049Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261129T110000Z
 DTEND:20261129T200000Z
 SUMMARY:Holidays at the Market

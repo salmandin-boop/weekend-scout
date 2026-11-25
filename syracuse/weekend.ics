@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:syracuse-clinton-square-tree-lighting-2026-fri-0@weekendscout.app
-DTSTAMP:20261125T001048Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261127T230000Z
 DTEND:20261128T010000Z
 SUMMARY:"Home for the Holidays" Tree Lighting
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/syracuse/clinton-square-tree-lighting-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:syracuse-les-mis-syracuse-stage-2026-fri-0@weekendscout.app
-DTSTAMP:20261125T001048Z
+DTSTAMP:20261125T001548Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/syracuse/les-mis-syracuse-stage-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:syracuse-les-mis-syracuse-stage-2026-sat-0@weekendscout.app
-DTSTAMP:20261125T001048Z
+DTSTAMP:20261125T001548Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -48,7 +48,7 @@ URL:https://weekendscout.app/e/syracuse/les-mis-syracuse-stage-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:syracuse-les-mis-syracuse-stage-2026-sun-0@weekendscout.app
-DTSTAMP:20261125T001048Z
+DTSTAMP:20261125T001548Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -61,7 +61,7 @@ URL:https://weekendscout.app/e/syracuse/les-mis-syracuse-stage-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:syracuse-crunch-laval-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261125T001048Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261129T000000Z
 DTEND:20261129T020000Z
 SUMMARY:Syracuse Crunch vs. Laval Rocket
@@ -74,7 +74,7 @@ URL:https://weekendscout.app/e/syracuse/crunch-laval-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:syracuse-jessimae-peluso-funny-bone-2026-fri-0@weekendscout.app
-DTSTAMP:20261125T001048Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261128T000000Z
 DTEND:20261128T020000Z
 SUMMARY:Jessimae Peluso
@@ -87,7 +87,7 @@ URL:https://weekendscout.app/e/syracuse/jessimae-peluso-funny-bone-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:syracuse-jessimae-peluso-funny-bone-2026-sat-0@weekendscout.app
-DTSTAMP:20261125T001048Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261128T233000Z
 DTEND:20261129T013000Z
 SUMMARY:Jessimae Peluso
@@ -100,7 +100,7 @@ URL:https://weekendscout.app/e/syracuse/jessimae-peluso-funny-bone-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:syracuse-jessimae-peluso-funny-bone-2026-sat-1@weekendscout.app
-DTSTAMP:20261125T001048Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261129T021500Z
 DTEND:20261129T041500Z
 SUMMARY:Jessimae Peluso
@@ -113,7 +113,7 @@ URL:https://weekendscout.app/e/syracuse/jessimae-peluso-funny-bone-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:syracuse-dickens-christmas-skaneateles-2026-fri-0@weekendscout.app
-DTSTAMP:20261125T001048Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261127T170000Z
 DTEND:20261127T190000Z
 SUMMARY:Dickens Christmas in Skaneateles
@@ -126,7 +126,7 @@ URL:https://weekendscout.app/e/syracuse/dickens-christmas-skaneateles-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:syracuse-dickens-christmas-skaneateles-2026-sat-0@weekendscout.app
-DTSTAMP:20261125T001048Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261128T170000Z
 DTEND:20261128T210000Z
 SUMMARY:Dickens Christmas in Skaneateles
@@ -139,7 +139,7 @@ URL:https://weekendscout.app/e/syracuse/dickens-christmas-skaneateles-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:syracuse-dickens-christmas-skaneateles-2026-sun-0@weekendscout.app
-DTSTAMP:20261125T001048Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261129T170000Z
 DTEND:20261129T210000Z
 SUMMARY:Dickens Christmas in Skaneateles
@@ -152,7 +152,7 @@ URL:https://weekendscout.app/e/syracuse/dickens-christmas-skaneateles-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:syracuse-night-market-sky-armory-2026-sat-0@weekendscout.app
-DTSTAMP:20261125T001048Z
+DTSTAMP:20261125T001548Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -165,7 +165,7 @@ URL:https://weekendscout.app/e/syracuse/night-market-sky-armory-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:syracuse-ugly-sweater-5k-2026-sat-0@weekendscout.app
-DTSTAMP:20261125T001048Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261128T150000Z
 DTEND:20261128T170000Z
 SUMMARY:Syracuse Ugly Sweater 5K
@@ -177,7 +177,7 @@ URL:https://weekendscout.app/e/syracuse/ugly-sweater-5k-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:syracuse-lights-on-the-lake-2026-fri-0@weekendscout.app
-DTSTAMP:20261125T001048Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261127T220000Z
 DTEND:20261128T030000Z
 SUMMARY:Lights on the Lake
@@ -189,7 +189,7 @@ URL:https://weekendscout.app/e/syracuse/lights-on-the-lake-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:syracuse-lights-on-the-lake-2026-sat-0@weekendscout.app
-DTSTAMP:20261125T001048Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261128T220000Z
 DTEND:20261129T030000Z
 SUMMARY:Lights on the Lake
@@ -201,7 +201,7 @@ URL:https://weekendscout.app/e/syracuse/lights-on-the-lake-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:syracuse-lights-on-the-lake-2026-sun-0@weekendscout.app
-DTSTAMP:20261125T001048Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261129T220000Z
 DTEND:20261130T030000Z
 SUMMARY:Lights on the Lake
@@ -213,7 +213,7 @@ URL:https://weekendscout.app/e/syracuse/lights-on-the-lake-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:syracuse-gingerbread-gallery-2026-fri-0@weekendscout.app
-DTSTAMP:20261125T001048Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261127T150000Z
 DTEND:20261127T210000Z
 SUMMARY:Gingerbread Gallery
@@ -225,7 +225,7 @@ URL:https://weekendscout.app/e/syracuse/gingerbread-gallery-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:syracuse-gingerbread-gallery-2026-sat-0@weekendscout.app
-DTSTAMP:20261125T001048Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261128T150000Z
 DTEND:20261128T210000Z
 SUMMARY:Gingerbread Gallery
@@ -237,7 +237,7 @@ URL:https://weekendscout.app/e/syracuse/gingerbread-gallery-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:syracuse-gingerbread-gallery-2026-sun-0@weekendscout.app
-DTSTAMP:20261125T001048Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261129T150000Z
 DTEND:20261129T210000Z
 SUMMARY:Gingerbread Gallery
@@ -249,7 +249,7 @@ URL:https://weekendscout.app/e/syracuse/gingerbread-gallery-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:syracuse-most-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261125T001048Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261127T143000Z
 DTEND:20261127T220000Z
 SUMMARY:Museum of Science & Technology (MOST)
@@ -262,7 +262,7 @@ URL:https://weekendscout.app/e/syracuse/most-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:syracuse-most-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261125T001048Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261128T143000Z
 DTEND:20261128T220000Z
 SUMMARY:Museum of Science & Technology (MOST)
@@ -275,7 +275,7 @@ URL:https://weekendscout.app/e/syracuse/most-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:syracuse-most-2026-11-27-sun-0@weekendscout.app
-DTSTAMP:20261125T001048Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261129T143000Z
 DTEND:20261129T220000Z
 SUMMARY:Museum of Science & Technology (MOST)
@@ -288,7 +288,7 @@ URL:https://weekendscout.app/e/syracuse/most-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:syracuse-everson-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261125T001048Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261127T160000Z
 DTEND:20261127T220000Z
 SUMMARY:Everson Museum of Art
@@ -301,7 +301,7 @@ URL:https://weekendscout.app/e/syracuse/everson-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:syracuse-everson-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261125T001048Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261128T150000Z
 DTEND:20261128T220000Z
 SUMMARY:Everson Museum of Art
@@ -314,7 +314,7 @@ URL:https://weekendscout.app/e/syracuse/everson-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:syracuse-everson-2026-11-27-sun-0@weekendscout.app
-DTSTAMP:20261125T001048Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261129T150000Z
 DTEND:20261129T220000Z
 SUMMARY:Everson Museum of Art
@@ -327,7 +327,7 @@ URL:https://weekendscout.app/e/syracuse/everson-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:syracuse-cny-regional-market-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261125T001048Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261128T120000Z
 DTEND:20261128T190000Z
 SUMMARY:CNY Regional Market
@@ -339,7 +339,7 @@ URL:https://weekendscout.app/e/syracuse/cny-regional-market-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:syracuse-cny-regional-market-2026-11-28-sun-0@weekendscout.app
-DTSTAMP:20261125T001048Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261129T120000Z
 DTEND:20261129T190000Z
 SUMMARY:CNY Regional Market

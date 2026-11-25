@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:greenville-camperdown-plaza-holiday-market-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261125T001049Z
+DTSTAMP:20261125T001548Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/greenville/camperdown-plaza-holiday-market-2026-1
 END:VEVENT
 BEGIN:VEVENT
 UID:greenville-united-community-ice-on-main-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261125T001049Z
+DTSTAMP:20261125T001548Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -36,7 +36,7 @@ URL:https://weekendscout.app/e/greenville/united-community-ice-on-main-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:greenville-united-community-ice-on-main-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261125T001049Z
+DTSTAMP:20261125T001548Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -50,7 +50,7 @@ URL:https://weekendscout.app/e/greenville/united-community-ice-on-main-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:greenville-united-community-ice-on-main-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261125T001049Z
+DTSTAMP:20261125T001548Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -64,7 +64,7 @@ URL:https://weekendscout.app/e/greenville/united-community-ice-on-main-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:greenville-disney-on-ice-spotlight-magic-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261125T001049Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261127T153000Z
 DTEND:20261127T173000Z
 SUMMARY:Disney On Ice: Spotlight Magic!
@@ -77,7 +77,7 @@ URL:https://weekendscout.app/e/greenville/disney-on-ice-spotlight-magic-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:greenville-disney-on-ice-spotlight-magic-2026-11-fri-1@weekendscout.app
-DTSTAMP:20261125T001049Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261127T193000Z
 DTEND:20261127T213000Z
 SUMMARY:Disney On Ice: Spotlight Magic!
@@ -90,7 +90,7 @@ URL:https://weekendscout.app/e/greenville/disney-on-ice-spotlight-magic-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:greenville-disney-on-ice-spotlight-magic-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261125T001049Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261128T153000Z
 DTEND:20261128T173000Z
 SUMMARY:Disney On Ice: Spotlight Magic!
@@ -103,7 +103,7 @@ URL:https://weekendscout.app/e/greenville/disney-on-ice-spotlight-magic-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:greenville-disney-on-ice-spotlight-magic-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261125T001049Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261128T193000Z
 DTEND:20261128T213000Z
 SUMMARY:Disney On Ice: Spotlight Magic!
@@ -116,7 +116,7 @@ URL:https://weekendscout.app/e/greenville/disney-on-ice-spotlight-magic-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:greenville-disney-on-ice-spotlight-magic-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261125T001049Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261129T153000Z
 DTEND:20261129T173000Z
 SUMMARY:Disney On Ice: Spotlight Magic!
@@ -129,7 +129,7 @@ URL:https://weekendscout.app/e/greenville/disney-on-ice-spotlight-magic-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:greenville-disney-on-ice-spotlight-magic-2026-11-sun-1@weekendscout.app
-DTSTAMP:20261125T001049Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261129T193000Z
 DTEND:20261129T213000Z
 SUMMARY:Disney On Ice: Spotlight Magic!

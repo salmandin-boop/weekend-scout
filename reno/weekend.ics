@@ -1,0 +1,152 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Reno
+X-WR-CALDESC:Hand-checked weekend picks in Reno, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:reno-truckee-river-walk-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Truckee River Walk
+LOCATION:Truckee River Walk\, Riverwalk District\, Reno\, NV 89501
+DESCRIPTION:The downtown path along the Truckee River\, with shops\, bars 
+ and Wingfield Park. Free. Details: https://weekendscout.app/e/reno/truckee
+ -river-walk-2026-11/
+URL:https://weekendscout.app/e/reno/truckee-river-walk-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:reno-truckee-river-walk-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Truckee River Walk
+LOCATION:Truckee River Walk\, Riverwalk District\, Reno\, NV 89501
+DESCRIPTION:The downtown path along the Truckee River\, with shops\, bars 
+ and Wingfield Park. Free. Details: https://weekendscout.app/e/reno/truckee
+ -river-walk-2026-11/
+URL:https://weekendscout.app/e/reno/truckee-river-walk-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:reno-truckee-river-walk-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Truckee River Walk
+LOCATION:Truckee River Walk\, Riverwalk District\, Reno\, NV 89501
+DESCRIPTION:The downtown path along the Truckee River\, with shops\, bars 
+ and Wingfield Park. Free. Details: https://weekendscout.app/e/reno/truckee
+ -river-walk-2026-11/
+URL:https://weekendscout.app/e/reno/truckee-river-walk-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:reno-the-greatest-christmas-show-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART:20261128T030000Z
+DTEND:20261128T050000Z
+SUMMARY:The Greatest Christmas Show
+LOCATION:Eldorado Showroom\, 345 N Virginia St\, Reno\, NV 89501
+DESCRIPTION:A holiday variety show\, five performances. Tickets. Details: 
+ https://weekendscout.app/e/reno/the-greatest-christmas-show-2026-11/
+URL:https://weekendscout.app/e/reno/the-greatest-christmas-show-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:reno-the-greatest-christmas-show-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:The Greatest Christmas Show
+LOCATION:Eldorado Showroom\, 345 N Virginia St\, Reno\, NV 89501
+DESCRIPTION:A holiday variety show\, five performances. Tickets. Details: 
+ https://weekendscout.app/e/reno/the-greatest-christmas-show-2026-11/
+URL:https://weekendscout.app/e/reno/the-greatest-christmas-show-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:reno-the-greatest-christmas-show-2026-11-sat-1@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART:20261129T030000Z
+DTEND:20261129T050000Z
+SUMMARY:The Greatest Christmas Show
+LOCATION:Eldorado Showroom\, 345 N Virginia St\, Reno\, NV 89501
+DESCRIPTION:A holiday variety show\, five performances. Tickets. Details: 
+ https://weekendscout.app/e/reno/the-greatest-christmas-show-2026-11/
+URL:https://weekendscout.app/e/reno/the-greatest-christmas-show-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:reno-the-greatest-christmas-show-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART:20261129T210000Z
+DTEND:20261129T230000Z
+SUMMARY:The Greatest Christmas Show
+LOCATION:Eldorado Showroom\, 345 N Virginia St\, Reno\, NV 89501
+DESCRIPTION:A holiday variety show\, five performances. Tickets. Details: 
+ https://weekendscout.app/e/reno/the-greatest-christmas-show-2026-11/
+URL:https://weekendscout.app/e/reno/the-greatest-christmas-show-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:reno-the-greatest-christmas-show-2026-11-sun-1@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART:20261130T000000Z
+DTEND:20261130T020000Z
+SUMMARY:The Greatest Christmas Show
+LOCATION:Eldorado Showroom\, 345 N Virginia St\, Reno\, NV 89501
+DESCRIPTION:A holiday variety show\, five performances. Tickets. Details: 
+ https://weekendscout.app/e/reno/the-greatest-christmas-show-2026-11/
+URL:https://weekendscout.app/e/reno/the-greatest-christmas-show-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:reno-nevada-wolf-pack-vs-humboldt-state-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART:20261128T220000Z
+DTEND:20261129T000000Z
+SUMMARY:Nevada Wolf Pack vs. Humboldt State
+LOCATION:Lawlor Events Center\, 1500 N Virginia St\, Reno\, NV 89503
+DESCRIPTION:Wolf Pack basketball on Saturday afternoon. Tickets. Details: 
+ https://weekendscout.app/e/reno/nevada-wolf-pack-vs-humboldt-state-2026-11
+ /
+URL:https://weekendscout.app/e/reno/nevada-wolf-pack-vs-humboldt-state-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:reno-scott-bradlee-s-postmodern-jukebox-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART:20261129T040000Z
+DTEND:20261129T060000Z
+SUMMARY:Scott Bradlee’s Postmodern Jukebox
+LOCATION:Silver Legacy\, 407 N Virginia St\, Reno\, NV 89501
+DESCRIPTION:Pop songs reimagined as vintage jazz and swing. Tickets. Detai
+ ls: https://weekendscout.app/e/reno/scott-bradlee-s-postmodern-jukebox-202
+ 6-11/
+URL:https://weekendscout.app/e/reno/scott-bradlee-s-postmodern-jukebox-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:reno-peanutcracker-the-story-in-a-nutshell-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART:20261129T210000Z
+DTEND:20261129T230000Z
+SUMMARY:Peanutcracker: The Story in a Nutshell
+LOCATION:Pioneer Center for the Performing Arts\, 100 S Virginia St\, Reno
+ \, NV 89501
+DESCRIPTION:A short\, kid-sized Nutcracker. Tickets. Details: https://week
+ endscout.app/e/reno/peanutcracker-the-story-in-a-nutshell-2026-11/
+URL:https://weekendscout.app/e/reno/peanutcracker-the-story-in-a-nutshell-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:reno-peanutcracker-the-story-in-a-nutshell-2026-11-sun-1@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART:20261130T010000Z
+DTEND:20261130T030000Z
+SUMMARY:Peanutcracker: The Story in a Nutshell
+LOCATION:Pioneer Center for the Performing Arts\, 100 S Virginia St\, Reno
+ \, NV 89501
+DESCRIPTION:A short\, kid-sized Nutcracker. Tickets. Details: https://week
+ endscout.app/e/reno/peanutcracker-the-story-in-a-nutshell-2026-11/
+URL:https://weekendscout.app/e/reno/peanutcracker-the-story-in-a-nutshell-2026-11/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,147 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Scranton
+X-WR-CALDESC:Hand-checked weekend picks in Scranton, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:scranton-the-nutcracker-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART:20261127T170000Z
+DTEND:20261127T190000Z
+SUMMARY:The Nutcracker
+LOCATION:The Theater at North\, 1539 N Main Ave\, Scranton\, PA 18508
+DESCRIPTION:A free holiday ballet\, two shows a day all weekend\; reserve 
+ tickets in advance. Free (reserved tickets required). Details: https://wee
+ kendscout.app/e/scranton/the-nutcracker-2026-11/
+URL:https://weekendscout.app/e/scranton/the-nutcracker-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:scranton-the-nutcracker-2026-11-fri-1@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART:20261127T223000Z
+DTEND:20261128T003000Z
+SUMMARY:The Nutcracker
+LOCATION:The Theater at North\, 1539 N Main Ave\, Scranton\, PA 18508
+DESCRIPTION:A free holiday ballet\, two shows a day all weekend\; reserve 
+ tickets in advance. Free (reserved tickets required). Details: https://wee
+ kendscout.app/e/scranton/the-nutcracker-2026-11/
+URL:https://weekendscout.app/e/scranton/the-nutcracker-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:scranton-the-nutcracker-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART:20261128T170000Z
+DTEND:20261128T190000Z
+SUMMARY:The Nutcracker
+LOCATION:The Theater at North\, 1539 N Main Ave\, Scranton\, PA 18508
+DESCRIPTION:A free holiday ballet\, two shows a day all weekend\; reserve 
+ tickets in advance. Free (reserved tickets required). Details: https://wee
+ kendscout.app/e/scranton/the-nutcracker-2026-11/
+URL:https://weekendscout.app/e/scranton/the-nutcracker-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:scranton-the-nutcracker-2026-11-sat-1@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART:20261128T223000Z
+DTEND:20261129T003000Z
+SUMMARY:The Nutcracker
+LOCATION:The Theater at North\, 1539 N Main Ave\, Scranton\, PA 18508
+DESCRIPTION:A free holiday ballet\, two shows a day all weekend\; reserve 
+ tickets in advance. Free (reserved tickets required). Details: https://wee
+ kendscout.app/e/scranton/the-nutcracker-2026-11/
+URL:https://weekendscout.app/e/scranton/the-nutcracker-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:scranton-the-nutcracker-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART:20261129T170000Z
+DTEND:20261129T190000Z
+SUMMARY:The Nutcracker
+LOCATION:The Theater at North\, 1539 N Main Ave\, Scranton\, PA 18508
+DESCRIPTION:A free holiday ballet\, two shows a day all weekend\; reserve 
+ tickets in advance. Free (reserved tickets required). Details: https://wee
+ kendscout.app/e/scranton/the-nutcracker-2026-11/
+URL:https://weekendscout.app/e/scranton/the-nutcracker-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:scranton-the-nutcracker-2026-11-sun-1@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART:20261129T223000Z
+DTEND:20261130T003000Z
+SUMMARY:The Nutcracker
+LOCATION:The Theater at North\, 1539 N Main Ave\, Scranton\, PA 18508
+DESCRIPTION:A free holiday ballet\, two shows a day all weekend\; reserve 
+ tickets in advance. Free (reserved tickets required). Details: https://wee
+ kendscout.app/e/scranton/the-nutcracker-2026-11/
+URL:https://weekendscout.app/e/scranton/the-nutcracker-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:scranton-holiday-window-showcase-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Holiday Window Showcase
+LOCATION:Downtown Scranton\, Penn Ave\, Scranton\, PA 18503
+DESCRIPTION:Decorated storefront windows around downtown through New Year
+ ’s Day. Free. Details: https://weekendscout.app/e/scranton/holiday-windo
+ w-showcase-2026-11/
+URL:https://weekendscout.app/e/scranton/holiday-window-showcase-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:scranton-holiday-window-showcase-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Holiday Window Showcase
+LOCATION:Downtown Scranton\, Penn Ave\, Scranton\, PA 18503
+DESCRIPTION:Decorated storefront windows around downtown through New Year
+ ’s Day. Free. Details: https://weekendscout.app/e/scranton/holiday-windo
+ w-showcase-2026-11/
+URL:https://weekendscout.app/e/scranton/holiday-window-showcase-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:scranton-holiday-window-showcase-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Holiday Window Showcase
+LOCATION:Downtown Scranton\, Penn Ave\, Scranton\, PA 18503
+DESCRIPTION:Decorated storefront windows around downtown through New Year
+ ’s Day. Free. Details: https://weekendscout.app/e/scranton/holiday-windo
+ w-showcase-2026-11/
+URL:https://weekendscout.app/e/scranton/holiday-window-showcase-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:scranton-small-business-saturday-downtown-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Small Business Saturday downtown
+LOCATION:Downtown Scranton\, Downtown Scranton\, PA 18503
+DESCRIPTION:Black Friday and Small Business Saturday specials at downtown 
+ shops. Free to browse. Details: https://weekendscout.app/e/scranton/small-
+ business-saturday-downtown-2026-11/
+URL:https://weekendscout.app/e/scranton/small-business-saturday-downtown-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:scranton-small-business-saturday-downtown-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Small Business Saturday downtown
+LOCATION:Downtown Scranton\, Downtown Scranton\, PA 18503
+DESCRIPTION:Black Friday and Small Business Saturday specials at downtown 
+ shops. Free to browse. Details: https://weekendscout.app/e/scranton/small-
+ business-saturday-downtown-2026-11/
+URL:https://weekendscout.app/e/scranton/small-business-saturday-downtown-2026-11/
+END:VEVENT
+END:VCALENDAR

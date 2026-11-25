@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Huntsville
+X-WR-CALDESC:Hand-checked weekend picks in Huntsville, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:huntsville-big-spring-park-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Big Spring Park
+LOCATION:Big Spring Park\, 200 Church St SW\, Huntsville\, AL 35801
+DESCRIPTION:Downtown’s park around the spring where Huntsville began\, n
+ ext to the Von Braun Center. Free. Details: https://weekendscout.app/e/hun
+ tsville/big-spring-park-2026-11/
+URL:https://weekendscout.app/e/huntsville/big-spring-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:huntsville-big-spring-park-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Big Spring Park
+LOCATION:Big Spring Park\, 200 Church St SW\, Huntsville\, AL 35801
+DESCRIPTION:Downtown’s park around the spring where Huntsville began\, n
+ ext to the Von Braun Center. Free. Details: https://weekendscout.app/e/hun
+ tsville/big-spring-park-2026-11/
+URL:https://weekendscout.app/e/huntsville/big-spring-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:huntsville-big-spring-park-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Big Spring Park
+LOCATION:Big Spring Park\, 200 Church St SW\, Huntsville\, AL 35801
+DESCRIPTION:Downtown’s park around the spring where Huntsville began\, n
+ ext to the Von Braun Center. Free. Details: https://weekendscout.app/e/hun
+ tsville/big-spring-park-2026-11/
+URL:https://weekendscout.app/e/huntsville/big-spring-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:huntsville-huntsville-havoc-vs-pensacola-ice-flyers-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART:20261128T010000Z
+DTEND:20261128T030000Z
+SUMMARY:Huntsville Havoc vs. Pensacola Ice Flyers
+LOCATION:Propst Arena at the Von Braun Center\, 700 Monroe St SW\, Huntsvi
+ lle\, AL 35801
+DESCRIPTION:SPHL hockey on Black Friday. Tickets. Details: https://weekend
+ scout.app/e/huntsville/huntsville-havoc-vs-pensacola-ice-flyers-2026-11/
+URL:https://weekendscout.app/e/huntsville/huntsville-havoc-vs-pensacola-ice-flyers-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:huntsville-mustache-the-band-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART:20261128T020000Z
+DTEND:20261128T040000Z
+SUMMARY:Mustache the Band
+LOCATION:Mars Music Hall at the Von Braun Center\, 700 Monroe St SW\, Hunt
+ sville\, AL 35801
+DESCRIPTION:The ’70s and ’80s hits cover band. Tickets. Details: https
+ ://weekendscout.app/e/huntsville/mustache-the-band-2026-11/
+URL:https://weekendscout.app/e/huntsville/mustache-the-band-2026-11/
+END:VEVENT
+END:VCALENDAR

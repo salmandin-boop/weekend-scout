@@ -1,0 +1,106 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Ann Arbor
+X-WR-CALDESC:Hand-checked weekend picks in Ann Arbor, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:ann-arbor-university-of-michigan-museum-of-art-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:University of Michigan Museum of Art
+LOCATION:UMMA\, 525 S State St\, Ann Arbor\, MI 48109
+DESCRIPTION:One of the largest university art museums in the country\, alw
+ ays free. Free admission. Details: https://weekendscout.app/e/ann-arbor/un
+ iversity-of-michigan-museum-of-art-2026-11/
+URL:https://weekendscout.app/e/ann-arbor/university-of-michigan-museum-of-art-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:ann-arbor-university-of-michigan-museum-of-art-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:University of Michigan Museum of Art
+LOCATION:UMMA\, 525 S State St\, Ann Arbor\, MI 48109
+DESCRIPTION:One of the largest university art museums in the country\, alw
+ ays free. Free admission. Details: https://weekendscout.app/e/ann-arbor/un
+ iversity-of-michigan-museum-of-art-2026-11/
+URL:https://weekendscout.app/e/ann-arbor/university-of-michigan-museum-of-art-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:ann-arbor-university-of-michigan-museum-of-art-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:University of Michigan Museum of Art
+LOCATION:UMMA\, 525 S State St\, Ann Arbor\, MI 48109
+DESCRIPTION:One of the largest university art museums in the country\, alw
+ ays free. Free admission. Details: https://weekendscout.app/e/ann-arbor/un
+ iversity-of-michigan-museum-of-art-2026-11/
+URL:https://weekendscout.app/e/ann-arbor/university-of-michigan-museum-of-art-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:ann-arbor-michigan-wolverines-vs-ferris-state-bulldogs-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART:20261128T000000Z
+DTEND:20261128T020000Z
+SUMMARY:Michigan Wolverines vs. Ferris State Bulldogs
+LOCATION:Yost Ice Arena\, 1000 S State St\, Ann Arbor\, MI 48104
+DESCRIPTION:Michigan hockey\, Friday and Saturday nights. Tickets. Details
+ : https://weekendscout.app/e/ann-arbor/michigan-wolverines-vs-ferris-state
+ -bulldogs-2026-11/
+URL:https://weekendscout.app/e/ann-arbor/michigan-wolverines-vs-ferris-state-bulldogs-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:ann-arbor-michigan-wolverines-vs-ferris-state-bulldogs-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:Michigan Wolverines vs. Ferris State Bulldogs
+LOCATION:Yost Ice Arena\, 1000 S State St\, Ann Arbor\, MI 48104
+DESCRIPTION:Michigan hockey\, Friday and Saturday nights. Tickets. Details
+ : https://weekendscout.app/e/ann-arbor/michigan-wolverines-vs-ferris-state
+ -bulldogs-2026-11/
+URL:https://weekendscout.app/e/ann-arbor/michigan-wolverines-vs-ferris-state-bulldogs-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:ann-arbor-chris-higgins-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART:20261128T001500Z
+DTEND:20261128T021500Z
+SUMMARY:Chris Higgins
+LOCATION:Ann Arbor Comedy Showcase\, 212 S 4th Ave\, Ann Arbor\, MI 48104
+DESCRIPTION:Stand-up\, three shows. Tickets. Details: https://weekendscout
+ .app/e/ann-arbor/chris-higgins-2026-11/
+URL:https://weekendscout.app/e/ann-arbor/chris-higgins-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:ann-arbor-chris-higgins-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART:20261129T001500Z
+DTEND:20261129T021500Z
+SUMMARY:Chris Higgins
+LOCATION:Ann Arbor Comedy Showcase\, 212 S 4th Ave\, Ann Arbor\, MI 48104
+DESCRIPTION:Stand-up\, three shows. Tickets. Details: https://weekendscout
+ .app/e/ann-arbor/chris-higgins-2026-11/
+URL:https://weekendscout.app/e/ann-arbor/chris-higgins-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:ann-arbor-chris-higgins-2026-11-sat-1@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART:20261129T024500Z
+DTEND:20261129T044500Z
+SUMMARY:Chris Higgins
+LOCATION:Ann Arbor Comedy Showcase\, 212 S 4th Ave\, Ann Arbor\, MI 48104
+DESCRIPTION:Stand-up\, three shows. Tickets. Details: https://weekendscout
+ .app/e/ann-arbor/chris-higgins-2026-11/
+URL:https://weekendscout.app/e/ann-arbor/chris-higgins-2026-11/
+END:VEVENT
+END:VCALENDAR

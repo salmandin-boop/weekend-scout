@@ -1,0 +1,122 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Provo
+X-WR-CALDESC:Hand-checked weekend picks in Provo, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:provo-byu-museum-of-art-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:BYU Museum of Art
+LOCATION:BYU Museum of Art\, N Campus Dr\, Provo\, UT 84602
+DESCRIPTION:BYU’s art museum\, free to visit. Free admission. Details: h
+ ttps://weekendscout.app/e/provo/byu-museum-of-art-2026-11/
+URL:https://weekendscout.app/e/provo/byu-museum-of-art-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:provo-byu-museum-of-art-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:BYU Museum of Art
+LOCATION:BYU Museum of Art\, N Campus Dr\, Provo\, UT 84602
+DESCRIPTION:BYU’s art museum\, free to visit. Free admission. Details: h
+ ttps://weekendscout.app/e/provo/byu-museum-of-art-2026-11/
+URL:https://weekendscout.app/e/provo/byu-museum-of-art-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:provo-byu-cougars-vs-cincinnati-bearcats-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART:20261128T203000Z
+DTEND:20261128T223000Z
+SUMMARY:BYU Cougars vs. Cincinnati Bearcats
+LOCATION:LaVell Edwards Stadium\, 1700 N Canyon Rd\, Provo\, UT 84604
+DESCRIPTION:BYU football on Saturday afternoon. Tickets. Details: https://
+ weekendscout.app/e/provo/byu-cougars-vs-cincinnati-bearcats-2026-11/
+URL:https://weekendscout.app/e/provo/byu-cougars-vs-cincinnati-bearcats-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:provo-earthbound-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART:20261127T233000Z
+DTEND:20261128T013000Z
+SUMMARY:Earthbound
+LOCATION:Covey Center for the Arts\, 425 W Center St\, Provo\, UT 84601
+DESCRIPTION:A local ballet production\, six performances. Tickets. Details
+ : https://weekendscout.app/e/provo/earthbound-2026-11/
+URL:https://weekendscout.app/e/provo/earthbound-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:provo-earthbound-2026-11-fri-1@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART:20261128T023000Z
+DTEND:20261128T043000Z
+SUMMARY:Earthbound
+LOCATION:Covey Center for the Arts\, 425 W Center St\, Provo\, UT 84601
+DESCRIPTION:A local ballet production\, six performances. Tickets. Details
+ : https://weekendscout.app/e/provo/earthbound-2026-11/
+URL:https://weekendscout.app/e/provo/earthbound-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:provo-earthbound-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART:20261128T170000Z
+DTEND:20261128T190000Z
+SUMMARY:Earthbound
+LOCATION:Covey Center for the Arts\, 425 W Center St\, Provo\, UT 84601
+DESCRIPTION:A local ballet production\, six performances. Tickets. Details
+ : https://weekendscout.app/e/provo/earthbound-2026-11/
+URL:https://weekendscout.app/e/provo/earthbound-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:provo-earthbound-2026-11-sat-1@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART:20261128T200000Z
+DTEND:20261128T220000Z
+SUMMARY:Earthbound
+LOCATION:Covey Center for the Arts\, 425 W Center St\, Provo\, UT 84601
+DESCRIPTION:A local ballet production\, six performances. Tickets. Details
+ : https://weekendscout.app/e/provo/earthbound-2026-11/
+URL:https://weekendscout.app/e/provo/earthbound-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:provo-earthbound-2026-11-sat-2@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART:20261128T230000Z
+DTEND:20261129T010000Z
+SUMMARY:Earthbound
+LOCATION:Covey Center for the Arts\, 425 W Center St\, Provo\, UT 84601
+DESCRIPTION:A local ballet production\, six performances. Tickets. Details
+ : https://weekendscout.app/e/provo/earthbound-2026-11/
+URL:https://weekendscout.app/e/provo/earthbound-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:provo-earthbound-2026-11-sat-3@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART:20261129T020000Z
+DTEND:20261129T040000Z
+SUMMARY:Earthbound
+LOCATION:Covey Center for the Arts\, 425 W Center St\, Provo\, UT 84601
+DESCRIPTION:A local ballet production\, six performances. Tickets. Details
+ : https://weekendscout.app/e/provo/earthbound-2026-11/
+URL:https://weekendscout.app/e/provo/earthbound-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:provo-byu-women-s-volleyball-vs-tcu-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART:20261128T013000Z
+DTEND:20261128T033000Z
+SUMMARY:BYU women’s volleyball vs. TCU
+LOCATION:Smith Fieldhouse\, BYU campus\, Provo\, UT 84602
+DESCRIPTION:Cougars volleyball on Friday evening. Tickets. Details: https:
+ //weekendscout.app/e/provo/byu-women-s-volleyball-vs-tcu-2026-11/
+URL:https://weekendscout.app/e/provo/byu-women-s-volleyball-vs-tcu-2026-11/
+END:VEVENT
+END:VCALENDAR

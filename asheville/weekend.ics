@@ -1,0 +1,82 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Asheville
+X-WR-CALDESC:Hand-checked weekend picks in Asheville, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:asheville-river-arts-district-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:River Arts District
+LOCATION:River Arts District\, Depot St\, Asheville\, NC 28801
+DESCRIPTION:More than 200 working artists in old riverside warehouses\; ma
+ ny studios open to visitors on weekends. Free to browse. Details: https://
+ weekendscout.app/e/asheville/river-arts-district-2026-11/
+URL:https://weekendscout.app/e/asheville/river-arts-district-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:asheville-river-arts-district-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:River Arts District
+LOCATION:River Arts District\, Depot St\, Asheville\, NC 28801
+DESCRIPTION:More than 200 working artists in old riverside warehouses\; ma
+ ny studios open to visitors on weekends. Free to browse. Details: https://
+ weekendscout.app/e/asheville/river-arts-district-2026-11/
+URL:https://weekendscout.app/e/asheville/river-arts-district-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:asheville-river-arts-district-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:River Arts District
+LOCATION:River Arts District\, Depot St\, Asheville\, NC 28801
+DESCRIPTION:More than 200 working artists in old riverside warehouses\; ma
+ ny studios open to visitors on weekends. Free to browse. Details: https://
+ weekendscout.app/e/asheville/river-arts-district-2026-11/
+URL:https://weekendscout.app/e/asheville/river-arts-district-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:asheville-david-wilcox-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART:20261128T000000Z
+DTEND:20261128T020000Z
+SUMMARY:David Wilcox
+LOCATION:The Grey Eagle\, 185 Clingman Ave\, Asheville\, NC 28801
+DESCRIPTION:The Asheville singer-songwriter’s hometown show. Tickets. De
+ tails: https://weekendscout.app/e/asheville/david-wilcox-2026-11/
+URL:https://weekendscout.app/e/asheville/david-wilcox-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:asheville-fireside-collective-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:Fireside Collective
+LOCATION:The Orange Peel\, 101 Biltmore Ave\, Asheville\, NC 28801
+DESCRIPTION:Progressive bluegrass from the Asheville band. Tickets. Detail
+ s: https://weekendscout.app/e/asheville/fireside-collective-2026-11/
+URL:https://weekendscout.app/e/asheville/fireside-collective-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:asheville-ellis-paul-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T001548Z
+DTSTART:20261130T010000Z
+DTEND:20261130T030000Z
+SUMMARY:Ellis Paul
+LOCATION:The Grey Eagle\, 185 Clingman Ave\, Asheville\, NC 28801
+DESCRIPTION:The folk songwriter on Sunday night. Tickets. Details: https:/
+ /weekendscout.app/e/asheville/ellis-paul-2026-11/
+URL:https://weekendscout.app/e/asheville/ellis-paul-2026-11/
+END:VEVENT
+END:VCALENDAR

@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:honolulu-waikiki-holiday-parade-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261125T001049Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261128T050000Z
 DTEND:20261128T070000Z
 SUMMARY:Waikiki Holiday Parade
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/honolulu/waikiki-holiday-parade-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:honolulu-jo-koy-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261125T001049Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261128T060000Z
 DTEND:20261128T080000Z
 SUMMARY:Jo Koy
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/honolulu/jo-koy-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:honolulu-josh-johnson-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261125T001049Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261128T050000Z
 DTEND:20261128T070000Z
 SUMMARY:Josh Johnson
@@ -47,7 +47,7 @@ URL:https://weekendscout.app/e/honolulu/josh-johnson-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:honolulu-the-book-of-mormon-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261125T001049Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261128T000000Z
 DTEND:20261128T020000Z
 SUMMARY:The Book of Mormon
@@ -59,7 +59,7 @@ URL:https://weekendscout.app/e/honolulu/the-book-of-mormon-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:honolulu-the-book-of-mormon-2026-11-fri-1@weekendscout.app
-DTSTAMP:20261125T001049Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261128T060000Z
 DTEND:20261128T080000Z
 SUMMARY:The Book of Mormon
@@ -71,7 +71,7 @@ URL:https://weekendscout.app/e/honolulu/the-book-of-mormon-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:honolulu-the-book-of-mormon-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261125T001049Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261129T000000Z
 DTEND:20261129T020000Z
 SUMMARY:The Book of Mormon
@@ -83,7 +83,7 @@ URL:https://weekendscout.app/e/honolulu/the-book-of-mormon-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:honolulu-hawai-i-rainbow-warriors-football-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261125T001049Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261129T040000Z
 DTEND:20261129T060000Z
 SUMMARY:Hawaiʻi Rainbow Warriors football
@@ -96,7 +96,7 @@ URL:https://weekendscout.app/e/honolulu/hawai-i-rainbow-warriors-football-2026-1
 END:VEVENT
 BEGIN:VEVENT
 UID:honolulu-anuhea-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261125T001049Z
+DTSTAMP:20261125T001548Z
 DTSTART:20261130T040000Z
 DTEND:20261130T060000Z
 SUMMARY:Anuhea
