@@ -1,0 +1,104 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Charleston
+X-WR-CALDESC:Hand-checked weekend picks in Charleston, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:charleston-wv-capitol-market-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Capitol Market
+LOCATION:Capitol Market\, 800 Smith St\, Charleston\, WV 25301
+DESCRIPTION:A year-round market in an old rail depot: local produce\, a wi
+ ne shop\, chocolates and a fish market. Free to browse. Details: https://w
+ eekendscout.app/e/charleston-wv/capitol-market-2026-11/
+URL:https://weekendscout.app/e/charleston-wv/capitol-market-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:charleston-wv-capitol-market-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Capitol Market
+LOCATION:Capitol Market\, 800 Smith St\, Charleston\, WV 25301
+DESCRIPTION:A year-round market in an old rail depot: local produce\, a wi
+ ne shop\, chocolates and a fish market. Free to browse. Details: https://w
+ eekendscout.app/e/charleston-wv/capitol-market-2026-11/
+URL:https://weekendscout.app/e/charleston-wv/capitol-market-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:charleston-wv-capitol-market-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Capitol Market
+LOCATION:Capitol Market\, 800 Smith St\, Charleston\, WV 25301
+DESCRIPTION:A year-round market in an old rail depot: local produce\, a wi
+ ne shop\, chocolates and a fish market. Free to browse. Details: https://w
+ eekendscout.app/e/charleston-wv/capitol-market-2026-11/
+URL:https://weekendscout.app/e/charleston-wv/capitol-market-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:charleston-wv-west-virginia-state-museum-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:West Virginia State Museum
+LOCATION:Culture Center\, 1900 Kanawha Blvd E\, Charleston\, WV 25305
+DESCRIPTION:West Virginia history\, from coal mining to folk art\, in the 
+ Capitol complex. Free admission. Details: https://weekendscout.app/e/charl
+ eston-wv/west-virginia-state-museum-2026-11/
+URL:https://weekendscout.app/e/charleston-wv/west-virginia-state-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:charleston-wv-haddad-riverfront-park-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Haddad Riverfront Park
+LOCATION:Haddad Riverfront Park\, 600 Kanawha Blvd E\, Charleston\, WV 253
+ 01
+DESCRIPTION:Downtown’s park and amphitheater on the Kanawha River. Free.
+  Details: https://weekendscout.app/e/charleston-wv/haddad-riverfront-park-
+ 2026-11/
+URL:https://weekendscout.app/e/charleston-wv/haddad-riverfront-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:charleston-wv-haddad-riverfront-park-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Haddad Riverfront Park
+LOCATION:Haddad Riverfront Park\, 600 Kanawha Blvd E\, Charleston\, WV 253
+ 01
+DESCRIPTION:Downtown’s park and amphitheater on the Kanawha River. Free.
+  Details: https://weekendscout.app/e/charleston-wv/haddad-riverfront-park-
+ 2026-11/
+URL:https://weekendscout.app/e/charleston-wv/haddad-riverfront-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:charleston-wv-haddad-riverfront-park-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Haddad Riverfront Park
+LOCATION:Haddad Riverfront Park\, 600 Kanawha Blvd E\, Charleston\, WV 253
+ 01
+DESCRIPTION:Downtown’s park and amphitheater on the Kanawha River. Free.
+  Details: https://weekendscout.app/e/charleston-wv/haddad-riverfront-park-
+ 2026-11/
+URL:https://weekendscout.app/e/charleston-wv/haddad-riverfront-park-2026-11/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,127 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Fayetteville
+X-WR-CALDESC:Hand-checked weekend picks in Fayetteville, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:fayetteville-ar-lights-of-the-ozarks-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Lights of the Ozarks
+LOCATION:Fayetteville Square\, 1 E Center St\, Fayetteville\, AR 72701
+DESCRIPTION:Hundreds of thousands of lights on the downtown square through
+  the holidays. Free. Details: https://weekendscout.app/e/fayetteville-ar/l
+ ights-of-the-ozarks-2026-11/
+URL:https://weekendscout.app/e/fayetteville-ar/lights-of-the-ozarks-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fayetteville-ar-lights-of-the-ozarks-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Lights of the Ozarks
+LOCATION:Fayetteville Square\, 1 E Center St\, Fayetteville\, AR 72701
+DESCRIPTION:Hundreds of thousands of lights on the downtown square through
+  the holidays. Free. Details: https://weekendscout.app/e/fayetteville-ar/l
+ ights-of-the-ozarks-2026-11/
+URL:https://weekendscout.app/e/fayetteville-ar/lights-of-the-ozarks-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fayetteville-ar-lights-of-the-ozarks-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Lights of the Ozarks
+LOCATION:Fayetteville Square\, 1 E Center St\, Fayetteville\, AR 72701
+DESCRIPTION:Hundreds of thousands of lights on the downtown square through
+  the holidays. Free. Details: https://weekendscout.app/e/fayetteville-ar/l
+ ights-of-the-ozarks-2026-11/
+URL:https://weekendscout.app/e/fayetteville-ar/lights-of-the-ozarks-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fayetteville-ar-arkansas-vs-lsu-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART:20261128T170000Z
+DTEND:20261128T190000Z
+SUMMARY:Arkansas vs. LSU
+LOCATION:Razorback Stadium\, 350 N Razorback Rd\, Fayetteville\, AR 72701
+DESCRIPTION:SEC football on Saturday morning. Tickets. Details: https://we
+ ekendscout.app/e/fayetteville-ar/arkansas-vs-lsu-2026-11/
+URL:https://weekendscout.app/e/fayetteville-ar/arkansas-vs-lsu-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fayetteville-ar-jersey-boys-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART:20261128T013000Z
+DTEND:20261128T033000Z
+SUMMARY:Jersey Boys
+LOCATION:Walton Arts Center\, 495 W Dickson St\, Fayetteville\, AR 72701
+DESCRIPTION:The Four Seasons musical\, five shows. Tickets. Details: https
+ ://weekendscout.app/e/fayetteville-ar/jersey-boys-2026-11/
+URL:https://weekendscout.app/e/fayetteville-ar/jersey-boys-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fayetteville-ar-jersey-boys-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART:20261128T200000Z
+DTEND:20261128T220000Z
+SUMMARY:Jersey Boys
+LOCATION:Walton Arts Center\, 495 W Dickson St\, Fayetteville\, AR 72701
+DESCRIPTION:The Four Seasons musical\, five shows. Tickets. Details: https
+ ://weekendscout.app/e/fayetteville-ar/jersey-boys-2026-11/
+URL:https://weekendscout.app/e/fayetteville-ar/jersey-boys-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fayetteville-ar-jersey-boys-2026-11-sat-1@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART:20261129T013000Z
+DTEND:20261129T033000Z
+SUMMARY:Jersey Boys
+LOCATION:Walton Arts Center\, 495 W Dickson St\, Fayetteville\, AR 72701
+DESCRIPTION:The Four Seasons musical\, five shows. Tickets. Details: https
+ ://weekendscout.app/e/fayetteville-ar/jersey-boys-2026-11/
+URL:https://weekendscout.app/e/fayetteville-ar/jersey-boys-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fayetteville-ar-jersey-boys-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART:20261129T200000Z
+DTEND:20261129T220000Z
+SUMMARY:Jersey Boys
+LOCATION:Walton Arts Center\, 495 W Dickson St\, Fayetteville\, AR 72701
+DESCRIPTION:The Four Seasons musical\, five shows. Tickets. Details: https
+ ://weekendscout.app/e/fayetteville-ar/jersey-boys-2026-11/
+URL:https://weekendscout.app/e/fayetteville-ar/jersey-boys-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fayetteville-ar-jersey-boys-2026-11-sun-1@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART:20261130T010000Z
+DTEND:20261130T030000Z
+SUMMARY:Jersey Boys
+LOCATION:Walton Arts Center\, 495 W Dickson St\, Fayetteville\, AR 72701
+DESCRIPTION:The Four Seasons musical\, five shows. Tickets. Details: https
+ ://weekendscout.app/e/fayetteville-ar/jersey-boys-2026-11/
+URL:https://weekendscout.app/e/fayetteville-ar/jersey-boys-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fayetteville-ar-arkansas-vs-louisiana-tech-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART:20261129T200000Z
+DTEND:20261129T220000Z
+SUMMARY:Arkansas vs. Louisiana Tech
+LOCATION:Bud Walton Arena\, 1270 W Leroy Pond Dr\, Fayetteville\, AR 72701
+DESCRIPTION:Razorbacks women’s basketball on Sunday. Tickets. Details: h
+ ttps://weekendscout.app/e/fayetteville-ar/arkansas-vs-louisiana-tech-2026-
+ 11/
+URL:https://weekendscout.app/e/fayetteville-ar/arkansas-vs-louisiana-tech-2026-11/
+END:VEVENT
+END:VCALENDAR

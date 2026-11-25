@@ -1,0 +1,100 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Binghamton
+X-WR-CALDESC:Hand-checked weekend picks in Binghamton, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:binghamton-binghamton-riverwalk-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Binghamton Riverwalk
+LOCATION:Confluence Park\, Front St & Riverside Dr\, Binghamton\, NY 13905
+DESCRIPTION:Trails where the Susquehanna and Chenango rivers meet. Free. D
+ etails: https://weekendscout.app/e/binghamton/binghamton-riverwalk-2026-11
+ /
+URL:https://weekendscout.app/e/binghamton/binghamton-riverwalk-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:binghamton-binghamton-riverwalk-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Binghamton Riverwalk
+LOCATION:Confluence Park\, Front St & Riverside Dr\, Binghamton\, NY 13905
+DESCRIPTION:Trails where the Susquehanna and Chenango rivers meet. Free. D
+ etails: https://weekendscout.app/e/binghamton/binghamton-riverwalk-2026-11
+ /
+URL:https://weekendscout.app/e/binghamton/binghamton-riverwalk-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:binghamton-binghamton-riverwalk-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Binghamton Riverwalk
+LOCATION:Confluence Park\, Front St & Riverside Dr\, Binghamton\, NY 13905
+DESCRIPTION:Trails where the Susquehanna and Chenango rivers meet. Free. D
+ etails: https://weekendscout.app/e/binghamton/binghamton-riverwalk-2026-11
+ /
+URL:https://weekendscout.app/e/binghamton/binghamton-riverwalk-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:binghamton-roberson-museum-and-science-center-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Roberson Museum and Science Center
+LOCATION:Roberson Museum\, 30 Front St\, Binghamton\, NY 13905
+DESCRIPTION:Art\, local history and a planetarium in a 1907 mansion. Admis
+ sion. Details: https://weekendscout.app/e/binghamton/roberson-museum-and-s
+ cience-center-2026-11/
+URL:https://weekendscout.app/e/binghamton/roberson-museum-and-science-center-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:binghamton-roberson-museum-and-science-center-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Roberson Museum and Science Center
+LOCATION:Roberson Museum\, 30 Front St\, Binghamton\, NY 13905
+DESCRIPTION:Art\, local history and a planetarium in a 1907 mansion. Admis
+ sion. Details: https://weekendscout.app/e/binghamton/roberson-museum-and-s
+ cience-center-2026-11/
+URL:https://weekendscout.app/e/binghamton/roberson-museum-and-science-center-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:binghamton-roberson-museum-and-science-center-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Roberson Museum and Science Center
+LOCATION:Roberson Museum\, 30 Front St\, Binghamton\, NY 13905
+DESCRIPTION:Art\, local history and a planetarium in a 1907 mansion. Admis
+ sion. Details: https://weekendscout.app/e/binghamton/roberson-museum-and-s
+ cience-center-2026-11/
+URL:https://weekendscout.app/e/binghamton/roberson-museum-and-science-center-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:binghamton-binghamton-black-bears-vs-watertown-wolves-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:Binghamton Black Bears vs. Watertown Wolves
+LOCATION:Visions Veterans Memorial Arena\, 1 Stuart St\, Binghamton\, NY 1
+ 3901
+DESCRIPTION:FPHL hockey on Saturday. Tickets. Details: https://weekendscou
+ t.app/e/binghamton/binghamton-black-bears-vs-watertown-wolves-2026-11/
+URL:https://weekendscout.app/e/binghamton/binghamton-black-bears-vs-watertown-wolves-2026-11/
+END:VEVENT
+END:VCALENDAR

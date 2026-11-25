@@ -1,0 +1,124 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Charlottesville
+X-WR-CALDESC:Hand-checked weekend picks in Charlottesville, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:charlottesville-downtown-mall-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Downtown Mall
+LOCATION:Downtown Mall\, E Main St\, Charlottesville\, VA 22902
+DESCRIPTION:Eight brick-paved blocks of shops\, restaurants and street mus
+ icians. Free. Details: https://weekendscout.app/e/charlottesville/downtown
+ -mall-2026-11/
+URL:https://weekendscout.app/e/charlottesville/downtown-mall-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:charlottesville-downtown-mall-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Downtown Mall
+LOCATION:Downtown Mall\, E Main St\, Charlottesville\, VA 22902
+DESCRIPTION:Eight brick-paved blocks of shops\, restaurants and street mus
+ icians. Free. Details: https://weekendscout.app/e/charlottesville/downtown
+ -mall-2026-11/
+URL:https://weekendscout.app/e/charlottesville/downtown-mall-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:charlottesville-downtown-mall-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Downtown Mall
+LOCATION:Downtown Mall\, E Main St\, Charlottesville\, VA 22902
+DESCRIPTION:Eight brick-paved blocks of shops\, restaurants and street mus
+ icians. Free. Details: https://weekendscout.app/e/charlottesville/downtown
+ -mall-2026-11/
+URL:https://weekendscout.app/e/charlottesville/downtown-mall-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:charlottesville-uva-lawn-rotunda-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:UVA Lawn & Rotunda
+LOCATION:The Rotunda\, 1826 University Ave\, Charlottesville\, VA 22904
+DESCRIPTION:Thomas Jefferson’s Academical Village\, a World Heritage Sit
+ e. Free. Details: https://weekendscout.app/e/charlottesville/uva-lawn-rotu
+ nda-2026-11/
+URL:https://weekendscout.app/e/charlottesville/uva-lawn-rotunda-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:charlottesville-uva-lawn-rotunda-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:UVA Lawn & Rotunda
+LOCATION:The Rotunda\, 1826 University Ave\, Charlottesville\, VA 22904
+DESCRIPTION:Thomas Jefferson’s Academical Village\, a World Heritage Sit
+ e. Free. Details: https://weekendscout.app/e/charlottesville/uva-lawn-rotu
+ nda-2026-11/
+URL:https://weekendscout.app/e/charlottesville/uva-lawn-rotunda-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:charlottesville-uva-lawn-rotunda-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:UVA Lawn & Rotunda
+LOCATION:The Rotunda\, 1826 University Ave\, Charlottesville\, VA 22904
+DESCRIPTION:Thomas Jefferson’s Academical Village\, a World Heritage Sit
+ e. Free. Details: https://weekendscout.app/e/charlottesville/uva-lawn-rotu
+ nda-2026-11/
+URL:https://weekendscout.app/e/charlottesville/uva-lawn-rotunda-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:charlottesville-pentatonix-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:Pentatonix
+LOCATION:John Paul Jones Arena\, 295 Massie Rd\, Charlottesville\, VA 2290
+ 3
+DESCRIPTION:The a cappella group’s Christmas tour. Tickets. Details: htt
+ ps://weekendscout.app/e/charlottesville/pentatonix-2026-11/
+URL:https://weekendscout.app/e/charlottesville/pentatonix-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:charlottesville-dog-man-the-musical-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261128T210000Z
+DTEND:20261128T230000Z
+SUMMARY:Dog Man: The Musical
+LOCATION:The Paramount Theater\, 215 E Main St\, Charlottesville\, VA 2290
+ 2
+DESCRIPTION:Dav Pilkey’s comics on stage. Tickets. Details: https://week
+ endscout.app/e/charlottesville/dog-man-the-musical-2026-11/
+URL:https://weekendscout.app/e/charlottesville/dog-man-the-musical-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:charlottesville-peen-a-tribute-to-ween-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261128T010000Z
+DTEND:20261128T030000Z
+SUMMARY:Peen: A Tribute to Ween
+LOCATION:The Southern Café & Music Hall\, 103 1st St S\, Charlottesville\
+ , VA 22902
+DESCRIPTION:A Ween tribute band. Tickets. Details: https://weekendscout.ap
+ p/e/charlottesville/peen-a-tribute-to-ween-2026-11/
+URL:https://weekendscout.app/e/charlottesville/peen-a-tribute-to-ween-2026-11/
+END:VEVENT
+END:VCALENDAR

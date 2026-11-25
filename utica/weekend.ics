@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Utica
+X-WR-CALDESC:Hand-checked weekend picks in Utica, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:utica-roscoe-conkling-park-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Roscoe Conkling Park
+LOCATION:Roscoe Conkling Park\, Memorial Pkwy\, Utica\, NY 13501
+DESCRIPTION:A big hillside park with trails and city views. Free. Details:
+  https://weekendscout.app/e/utica/roscoe-conkling-park-2026-11/
+URL:https://weekendscout.app/e/utica/roscoe-conkling-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:utica-roscoe-conkling-park-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Roscoe Conkling Park
+LOCATION:Roscoe Conkling Park\, Memorial Pkwy\, Utica\, NY 13501
+DESCRIPTION:A big hillside park with trails and city views. Free. Details:
+  https://weekendscout.app/e/utica/roscoe-conkling-park-2026-11/
+URL:https://weekendscout.app/e/utica/roscoe-conkling-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:utica-roscoe-conkling-park-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Roscoe Conkling Park
+LOCATION:Roscoe Conkling Park\, Memorial Pkwy\, Utica\, NY 13501
+DESCRIPTION:A big hillside park with trails and city views. Free. Details:
+  https://weekendscout.app/e/utica/roscoe-conkling-park-2026-11/
+URL:https://weekendscout.app/e/utica/roscoe-conkling-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:utica-munson-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Munson
+LOCATION:Munson\, 310 Genesee St\, Utica\, NY 13502
+DESCRIPTION:Art museum with works from Picasso to Pollock\, in a Philip Jo
+ hnson building. Admission. Details: https://weekendscout.app/e/utica/munso
+ n-2026-11/
+URL:https://weekendscout.app/e/utica/munson-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:utica-munson-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Munson
+LOCATION:Munson\, 310 Genesee St\, Utica\, NY 13502
+DESCRIPTION:Art museum with works from Picasso to Pollock\, in a Philip Jo
+ hnson building. Admission. Details: https://weekendscout.app/e/utica/munso
+ n-2026-11/
+URL:https://weekendscout.app/e/utica/munson-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:utica-munson-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Munson
+LOCATION:Munson\, 310 Genesee St\, Utica\, NY 13502
+DESCRIPTION:Art museum with works from Picasso to Pollock\, in a Philip Jo
+ hnson building. Admission. Details: https://weekendscout.app/e/utica/munso
+ n-2026-11/
+URL:https://weekendscout.app/e/utica/munson-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:utica-utica-comets-vs-laval-rocket-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART:20261128T000000Z
+DTEND:20261128T020000Z
+SUMMARY:Utica Comets vs. Laval Rocket
+LOCATION:Adirondack Bank Center\, 400 Oriskany St W\, Utica\, NY 13502
+DESCRIPTION:AHL hockey on Friday night. Tickets. Details: https://weekends
+ cout.app/e/utica/utica-comets-vs-laval-rocket-2026-11/
+URL:https://weekendscout.app/e/utica/utica-comets-vs-laval-rocket-2026-11/
+END:VEVENT
+END:VCALENDAR

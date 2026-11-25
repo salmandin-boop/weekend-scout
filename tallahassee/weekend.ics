@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Tallahassee
+X-WR-CALDESC:Hand-checked weekend picks in Tallahassee, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:tallahassee-florida-state-vs-florida-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261127T203000Z
+DTEND:20261127T223000Z
+SUMMARY:Florida State vs. Florida
+LOCATION:Doak Campbell Stadium\, 1200 Stadium Dr\, Tallahassee\, FL 32306
+DESCRIPTION:The rivalry game\, Friday afternoon. Tickets. Details: https:/
+ /weekendscout.app/e/tallahassee/florida-state-vs-florida-2026-11/
+URL:https://weekendscout.app/e/tallahassee/florida-state-vs-florida-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:tallahassee-florida-historic-capitol-museum-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Florida Historic Capitol Museum
+LOCATION:Florida Historic Capitol\, 400 S Monroe St\, Tallahassee\, FL 323
+ 01
+DESCRIPTION:The restored 1902 capitol with its striped awnings and stained
+ -glass dome. Free admission. Details: https://weekendscout.app/e/tallahass
+ ee/florida-historic-capitol-museum-2026-11/
+URL:https://weekendscout.app/e/tallahassee/florida-historic-capitol-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:tallahassee-florida-historic-capitol-museum-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Florida Historic Capitol Museum
+LOCATION:Florida Historic Capitol\, 400 S Monroe St\, Tallahassee\, FL 323
+ 01
+DESCRIPTION:The restored 1902 capitol with its striped awnings and stained
+ -glass dome. Free admission. Details: https://weekendscout.app/e/tallahass
+ ee/florida-historic-capitol-museum-2026-11/
+URL:https://weekendscout.app/e/tallahassee/florida-historic-capitol-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:tallahassee-cascades-park-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Cascades Park
+LOCATION:Cascades Park\, 1001 S Gadsden St\, Tallahassee\, FL 32301
+DESCRIPTION:Downtown park with trails\, a waterfall and a playground. Free
+ . Details: https://weekendscout.app/e/tallahassee/cascades-park-2026-11/
+URL:https://weekendscout.app/e/tallahassee/cascades-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:tallahassee-cascades-park-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Cascades Park
+LOCATION:Cascades Park\, 1001 S Gadsden St\, Tallahassee\, FL 32301
+DESCRIPTION:Downtown park with trails\, a waterfall and a playground. Free
+ . Details: https://weekendscout.app/e/tallahassee/cascades-park-2026-11/
+URL:https://weekendscout.app/e/tallahassee/cascades-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:tallahassee-cascades-park-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Cascades Park
+LOCATION:Cascades Park\, 1001 S Gadsden St\, Tallahassee\, FL 32301
+DESCRIPTION:Downtown park with trails\, a waterfall and a playground. Free
+ . Details: https://weekendscout.app/e/tallahassee/cascades-park-2026-11/
+URL:https://weekendscout.app/e/tallahassee/cascades-park-2026-11/
+END:VEVENT
+END:VCALENDAR

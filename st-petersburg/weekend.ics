@@ -1,0 +1,119 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · St. Petersburg
+X-WR-CALDESC:Hand-checked weekend picks in St. Petersburg, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:st-petersburg-st-pete-pier-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:St. Pete Pier
+LOCATION:St. Pete Pier\, 600 2nd Ave NE\, St. Petersburg\, FL 33701
+DESCRIPTION:A 26-acre pier park with a playground\, splash pad\, fishing d
+ eck and bay views. Free. Details: https://weekendscout.app/e/st-petersburg
+ /st-pete-pier-2026-11/
+URL:https://weekendscout.app/e/st-petersburg/st-pete-pier-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:st-petersburg-st-pete-pier-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:St. Pete Pier
+LOCATION:St. Pete Pier\, 600 2nd Ave NE\, St. Petersburg\, FL 33701
+DESCRIPTION:A 26-acre pier park with a playground\, splash pad\, fishing d
+ eck and bay views. Free. Details: https://weekendscout.app/e/st-petersburg
+ /st-pete-pier-2026-11/
+URL:https://weekendscout.app/e/st-petersburg/st-pete-pier-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:st-petersburg-st-pete-pier-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:St. Pete Pier
+LOCATION:St. Pete Pier\, 600 2nd Ave NE\, St. Petersburg\, FL 33701
+DESCRIPTION:A 26-acre pier park with a playground\, splash pad\, fishing d
+ eck and bay views. Free. Details: https://weekendscout.app/e/st-petersburg
+ /st-pete-pier-2026-11/
+URL:https://weekendscout.app/e/st-petersburg/st-pete-pier-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:st-petersburg-saturday-morning-market-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261128T140000Z
+DTEND:20261128T190000Z
+SUMMARY:Saturday Morning Market
+LOCATION:Al Lang Stadium lot\, 230 1st St SE\, St. Petersburg\, FL 33701
+DESCRIPTION:The big downtown market: local food\, produce and crafts. Free
+  to browse. Details: https://weekendscout.app/e/st-petersburg/saturday-mor
+ ning-market-2026-11/
+URL:https://weekendscout.app/e/st-petersburg/saturday-morning-market-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:st-petersburg-the-dal-museum-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:The Dalí Museum
+LOCATION:The Dalí Museum\, 1 Dali Blvd\, St. Petersburg\, FL 33701
+DESCRIPTION:The largest Salvador Dalí collection outside Europe. Tickets.
+  Details: https://weekendscout.app/e/st-petersburg/the-dal-museum-2026-11/
+URL:https://weekendscout.app/e/st-petersburg/the-dal-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:st-petersburg-the-dal-museum-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:The Dalí Museum
+LOCATION:The Dalí Museum\, 1 Dali Blvd\, St. Petersburg\, FL 33701
+DESCRIPTION:The largest Salvador Dalí collection outside Europe. Tickets.
+  Details: https://weekendscout.app/e/st-petersburg/the-dal-museum-2026-11/
+URL:https://weekendscout.app/e/st-petersburg/the-dal-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:st-petersburg-the-dal-museum-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:The Dalí Museum
+LOCATION:The Dalí Museum\, 1 Dali Blvd\, St. Petersburg\, FL 33701
+DESCRIPTION:The largest Salvador Dalí collection outside Europe. Tickets.
+  Details: https://weekendscout.app/e/st-petersburg/the-dal-museum-2026-11/
+URL:https://weekendscout.app/e/st-petersburg/the-dal-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:st-petersburg-trippie-redd-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:Trippie Redd
+LOCATION:Jannus Live\, 200 1st Ave N\, St. Petersburg\, FL 33701
+DESCRIPTION:The rapper at the outdoor courtyard venue. Tickets. Details: h
+ ttps://weekendscout.app/e/st-petersburg/trippie-redd-2026-11/
+URL:https://weekendscout.app/e/st-petersburg/trippie-redd-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:st-petersburg-silverstein-story-of-the-year-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261129T230000Z
+DTEND:20261130T010000Z
+SUMMARY:Silverstein & Story of the Year
+LOCATION:Jannus Live\, 200 1st Ave N\, St. Petersburg\, FL 33701
+DESCRIPTION:A post-hardcore double bill. Tickets. Details: https://weekend
+ scout.app/e/st-petersburg/silverstein-story-of-the-year-2026-11/
+URL:https://weekendscout.app/e/st-petersburg/silverstein-story-of-the-year-2026-11/
+END:VEVENT
+END:VCALENDAR

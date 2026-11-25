@@ -1,0 +1,127 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Traverse City
+X-WR-CALDESC:Hand-checked weekend picks in Traverse City, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:traverse-city-clinch-park-the-bay-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Clinch Park & the bay
+LOCATION:Clinch Park\, 181 E Grandview Pkwy\, Traverse City\, MI 49684
+DESCRIPTION:Downtown’s beach park on West Grand Traverse Bay. Free. Deta
+ ils: https://weekendscout.app/e/traverse-city/clinch-park-the-bay-2026-11/
+URL:https://weekendscout.app/e/traverse-city/clinch-park-the-bay-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:traverse-city-clinch-park-the-bay-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Clinch Park & the bay
+LOCATION:Clinch Park\, 181 E Grandview Pkwy\, Traverse City\, MI 49684
+DESCRIPTION:Downtown’s beach park on West Grand Traverse Bay. Free. Deta
+ ils: https://weekendscout.app/e/traverse-city/clinch-park-the-bay-2026-11/
+URL:https://weekendscout.app/e/traverse-city/clinch-park-the-bay-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:traverse-city-clinch-park-the-bay-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Clinch Park & the bay
+LOCATION:Clinch Park\, 181 E Grandview Pkwy\, Traverse City\, MI 49684
+DESCRIPTION:Downtown’s beach park on West Grand Traverse Bay. Free. Deta
+ ils: https://weekendscout.app/e/traverse-city/clinch-park-the-bay-2026-11/
+URL:https://weekendscout.app/e/traverse-city/clinch-park-the-bay-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:traverse-city-front-street-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Front Street
+LOCATION:Downtown Traverse City\, E Front St\, Traverse City\, MI 49684
+DESCRIPTION:Shops\, cherry treats and restaurants on the main street\, lit
+  for the season. Free to browse. Details: https://weekendscout.app/e/trave
+ rse-city/front-street-2026-11/
+URL:https://weekendscout.app/e/traverse-city/front-street-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:traverse-city-front-street-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Front Street
+LOCATION:Downtown Traverse City\, E Front St\, Traverse City\, MI 49684
+DESCRIPTION:Shops\, cherry treats and restaurants on the main street\, lit
+  for the season. Free to browse. Details: https://weekendscout.app/e/trave
+ rse-city/front-street-2026-11/
+URL:https://weekendscout.app/e/traverse-city/front-street-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:traverse-city-front-street-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Front Street
+LOCATION:Downtown Traverse City\, E Front St\, Traverse City\, MI 49684
+DESCRIPTION:Shops\, cherry treats and restaurants on the main street\, lit
+  for the season. Free to browse. Details: https://weekendscout.app/e/trave
+ rse-city/front-street-2026-11/
+URL:https://weekendscout.app/e/traverse-city/front-street-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:traverse-city-the-village-at-grand-traverse-commons-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:The Village at Grand Traverse Commons
+LOCATION:Grand Traverse Commons\, 1200 W 11th St\, Traverse City\, MI 4968
+ 4
+DESCRIPTION:A restored 1880s asylum turned into shops\, galleries and rest
+ aurants. Free to browse. Details: https://weekendscout.app/e/traverse-city
+ /the-village-at-grand-traverse-commons-2026-11/
+URL:https://weekendscout.app/e/traverse-city/the-village-at-grand-traverse-commons-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:traverse-city-the-village-at-grand-traverse-commons-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:The Village at Grand Traverse Commons
+LOCATION:Grand Traverse Commons\, 1200 W 11th St\, Traverse City\, MI 4968
+ 4
+DESCRIPTION:A restored 1880s asylum turned into shops\, galleries and rest
+ aurants. Free to browse. Details: https://weekendscout.app/e/traverse-city
+ /the-village-at-grand-traverse-commons-2026-11/
+URL:https://weekendscout.app/e/traverse-city/the-village-at-grand-traverse-commons-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:traverse-city-the-village-at-grand-traverse-commons-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:The Village at Grand Traverse Commons
+LOCATION:Grand Traverse Commons\, 1200 W 11th St\, Traverse City\, MI 4968
+ 4
+DESCRIPTION:A restored 1880s asylum turned into shops\, galleries and rest
+ aurants. Free to browse. Details: https://weekendscout.app/e/traverse-city
+ /the-village-at-grand-traverse-commons-2026-11/
+URL:https://weekendscout.app/e/traverse-city/the-village-at-grand-traverse-commons-2026-11/
+END:VEVENT
+END:VCALENDAR

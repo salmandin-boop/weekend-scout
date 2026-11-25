@@ -1,0 +1,130 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Gainesville
+X-WR-CALDESC:Hand-checked weekend picks in Gainesville, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:gainesville-florida-museum-of-natural-history-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Florida Museum of Natural History
+LOCATION:Florida Museum of Natural History\, 3215 Hull Rd\, Gainesville\, 
+ FL 32611
+DESCRIPTION:Fossils\, a walk-through Florida cave and the Butterfly Rainfo
+ rest (paid). Free (Butterfly Rainforest extra). Details: https://weekendsc
+ out.app/e/gainesville/florida-museum-of-natural-history-2026-11/
+URL:https://weekendscout.app/e/gainesville/florida-museum-of-natural-history-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:gainesville-florida-museum-of-natural-history-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Florida Museum of Natural History
+LOCATION:Florida Museum of Natural History\, 3215 Hull Rd\, Gainesville\, 
+ FL 32611
+DESCRIPTION:Fossils\, a walk-through Florida cave and the Butterfly Rainfo
+ rest (paid). Free (Butterfly Rainforest extra). Details: https://weekendsc
+ out.app/e/gainesville/florida-museum-of-natural-history-2026-11/
+URL:https://weekendscout.app/e/gainesville/florida-museum-of-natural-history-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:gainesville-florida-museum-of-natural-history-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Florida Museum of Natural History
+LOCATION:Florida Museum of Natural History\, 3215 Hull Rd\, Gainesville\, 
+ FL 32611
+DESCRIPTION:Fossils\, a walk-through Florida cave and the Butterfly Rainfo
+ rest (paid). Free (Butterfly Rainforest extra). Details: https://weekendsc
+ out.app/e/gainesville/florida-museum-of-natural-history-2026-11/
+URL:https://weekendscout.app/e/gainesville/florida-museum-of-natural-history-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:gainesville-depot-park-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Depot Park
+LOCATION:Depot Park\, 874 SE 4th St\, Gainesville\, FL 32601
+DESCRIPTION:A big downtown park with a playground\, splash area and trails
+ . Free. Details: https://weekendscout.app/e/gainesville/depot-park-2026-11
+ /
+URL:https://weekendscout.app/e/gainesville/depot-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:gainesville-depot-park-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Depot Park
+LOCATION:Depot Park\, 874 SE 4th St\, Gainesville\, FL 32601
+DESCRIPTION:A big downtown park with a playground\, splash area and trails
+ . Free. Details: https://weekendscout.app/e/gainesville/depot-park-2026-11
+ /
+URL:https://weekendscout.app/e/gainesville/depot-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:gainesville-depot-park-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Depot Park
+LOCATION:Depot Park\, 874 SE 4th St\, Gainesville\, FL 32601
+DESCRIPTION:A big downtown park with a playground\, splash area and trails
+ . Free. Details: https://weekendscout.app/e/gainesville/depot-park-2026-11
+ /
+URL:https://weekendscout.app/e/gainesville/depot-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:gainesville-paynes-prairie-preserve-state-park-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Paynes Prairie Preserve State Park
+LOCATION:Paynes Prairie Preserve\, 100 Savannah Blvd\, Micanopy\, FL 32667
+DESCRIPTION:A savanna with wild horses\, bison and alligators\, and an obs
+ ervation tower. Park entry. Details: https://weekendscout.app/e/gainesvill
+ e/paynes-prairie-preserve-state-park-2026-11/
+URL:https://weekendscout.app/e/gainesville/paynes-prairie-preserve-state-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:gainesville-paynes-prairie-preserve-state-park-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Paynes Prairie Preserve State Park
+LOCATION:Paynes Prairie Preserve\, 100 Savannah Blvd\, Micanopy\, FL 32667
+DESCRIPTION:A savanna with wild horses\, bison and alligators\, and an obs
+ ervation tower. Park entry. Details: https://weekendscout.app/e/gainesvill
+ e/paynes-prairie-preserve-state-park-2026-11/
+URL:https://weekendscout.app/e/gainesville/paynes-prairie-preserve-state-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:gainesville-paynes-prairie-preserve-state-park-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Paynes Prairie Preserve State Park
+LOCATION:Paynes Prairie Preserve\, 100 Savannah Blvd\, Micanopy\, FL 32667
+DESCRIPTION:A savanna with wild horses\, bison and alligators\, and an obs
+ ervation tower. Park entry. Details: https://weekendscout.app/e/gainesvill
+ e/paynes-prairie-preserve-state-park-2026-11/
+URL:https://weekendscout.app/e/gainesville/paynes-prairie-preserve-state-park-2026-11/
+END:VEVENT
+END:VCALENDAR

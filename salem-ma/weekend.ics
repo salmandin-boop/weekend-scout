@@ -1,0 +1,127 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Salem
+X-WR-CALDESC:Hand-checked weekend picks in Salem, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:salem-ma-salem-maritime-national-historical-park-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Salem Maritime National Historical Park
+LOCATION:Salem Maritime NHP\, 160 Derby St\, Salem\, MA 01970
+DESCRIPTION:Wharves\, the tall ship Friendship and the Custom House where 
+ Hawthorne worked. Free. Details: https://weekendscout.app/e/salem-ma/salem
+ -maritime-national-historical-park-2026-11/
+URL:https://weekendscout.app/e/salem-ma/salem-maritime-national-historical-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:salem-ma-salem-maritime-national-historical-park-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Salem Maritime National Historical Park
+LOCATION:Salem Maritime NHP\, 160 Derby St\, Salem\, MA 01970
+DESCRIPTION:Wharves\, the tall ship Friendship and the Custom House where 
+ Hawthorne worked. Free. Details: https://weekendscout.app/e/salem-ma/salem
+ -maritime-national-historical-park-2026-11/
+URL:https://weekendscout.app/e/salem-ma/salem-maritime-national-historical-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:salem-ma-salem-maritime-national-historical-park-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Salem Maritime National Historical Park
+LOCATION:Salem Maritime NHP\, 160 Derby St\, Salem\, MA 01970
+DESCRIPTION:Wharves\, the tall ship Friendship and the Custom House where 
+ Hawthorne worked. Free. Details: https://weekendscout.app/e/salem-ma/salem
+ -maritime-national-historical-park-2026-11/
+URL:https://weekendscout.app/e/salem-ma/salem-maritime-national-historical-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:salem-ma-essex-street-salem-common-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Essex Street & Salem Common
+LOCATION:Essex Street\, Essex St\, Salem\, MA 01970
+DESCRIPTION:The pedestrian mall and common\, decorated for the holidays. F
+ ree. Details: https://weekendscout.app/e/salem-ma/essex-street-salem-commo
+ n-2026-11/
+URL:https://weekendscout.app/e/salem-ma/essex-street-salem-common-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:salem-ma-essex-street-salem-common-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Essex Street & Salem Common
+LOCATION:Essex Street\, Essex St\, Salem\, MA 01970
+DESCRIPTION:The pedestrian mall and common\, decorated for the holidays. F
+ ree. Details: https://weekendscout.app/e/salem-ma/essex-street-salem-commo
+ n-2026-11/
+URL:https://weekendscout.app/e/salem-ma/essex-street-salem-common-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:salem-ma-essex-street-salem-common-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Essex Street & Salem Common
+LOCATION:Essex Street\, Essex St\, Salem\, MA 01970
+DESCRIPTION:The pedestrian mall and common\, decorated for the holidays. F
+ ree. Details: https://weekendscout.app/e/salem-ma/essex-street-salem-commo
+ n-2026-11/
+URL:https://weekendscout.app/e/salem-ma/essex-street-salem-common-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:salem-ma-peabody-essex-museum-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Peabody Essex Museum
+LOCATION:Peabody Essex Museum\, 161 Essex St\, Salem\, MA 01970
+DESCRIPTION:Maritime art\, Asian art and a Qing-dynasty house moved from C
+ hina. Admission. Details: https://weekendscout.app/e/salem-ma/peabody-esse
+ x-museum-2026-11/
+URL:https://weekendscout.app/e/salem-ma/peabody-essex-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:salem-ma-peabody-essex-museum-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Peabody Essex Museum
+LOCATION:Peabody Essex Museum\, 161 Essex St\, Salem\, MA 01970
+DESCRIPTION:Maritime art\, Asian art and a Qing-dynasty house moved from C
+ hina. Admission. Details: https://weekendscout.app/e/salem-ma/peabody-esse
+ x-museum-2026-11/
+URL:https://weekendscout.app/e/salem-ma/peabody-essex-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:salem-ma-peabody-essex-museum-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Peabody Essex Museum
+LOCATION:Peabody Essex Museum\, 161 Essex St\, Salem\, MA 01970
+DESCRIPTION:Maritime art\, Asian art and a Qing-dynasty house moved from C
+ hina. Admission. Details: https://weekendscout.app/e/salem-ma/peabody-esse
+ x-museum-2026-11/
+URL:https://weekendscout.app/e/salem-ma/peabody-essex-museum-2026-11/
+END:VEVENT
+END:VCALENDAR

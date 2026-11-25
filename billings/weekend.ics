@@ -1,0 +1,84 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Billings
+X-WR-CALDESC:Hand-checked weekend picks in Billings, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:billings-downtown-billings-holiday-parade-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261128T013000Z
+DTEND:20261128T030000Z
+SUMMARY:Downtown Billings Holiday Parade
+LOCATION:Downtown Billings\, N Broadway & 2nd Ave N\, Billings\, MT 59101
+DESCRIPTION:The 41st annual holiday parade through downtown on Friday even
+ ing. Free. Details: https://weekendscout.app/e/billings/downtown-billings-
+ holiday-parade-2026-11/
+URL:https://weekendscout.app/e/billings/downtown-billings-holiday-parade-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:billings-swords-park-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Swords Park
+LOCATION:Swords Park\, Swords Park\, Billings\, MT 59101
+DESCRIPTION:Trails along the Rims\, the sandstone cliffs above the city. F
+ ree. Details: https://weekendscout.app/e/billings/swords-park-2026-11/
+URL:https://weekendscout.app/e/billings/swords-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:billings-swords-park-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Swords Park
+LOCATION:Swords Park\, Swords Park\, Billings\, MT 59101
+DESCRIPTION:Trails along the Rims\, the sandstone cliffs above the city. F
+ ree. Details: https://weekendscout.app/e/billings/swords-park-2026-11/
+URL:https://weekendscout.app/e/billings/swords-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:billings-swords-park-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Swords Park
+LOCATION:Swords Park\, Swords Park\, Billings\, MT 59101
+DESCRIPTION:Trails along the Rims\, the sandstone cliffs above the city. F
+ ree. Details: https://weekendscout.app/e/billings/swords-park-2026-11/
+URL:https://weekendscout.app/e/billings/swords-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:billings-yellowstone-art-museum-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Yellowstone Art Museum
+LOCATION:Yellowstone Art Museum\, 401 N 27th St\, Billings\, MT 59101
+DESCRIPTION:Contemporary art of Montana and the Rocky Mountain West. Admis
+ sion. Details: https://weekendscout.app/e/billings/yellowstone-art-museum-
+ 2026-11/
+URL:https://weekendscout.app/e/billings/yellowstone-art-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:billings-yellowstone-art-museum-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Yellowstone Art Museum
+LOCATION:Yellowstone Art Museum\, 401 N 27th St\, Billings\, MT 59101
+DESCRIPTION:Contemporary art of Montana and the Rocky Mountain West. Admis
+ sion. Details: https://weekendscout.app/e/billings/yellowstone-art-museum-
+ 2026-11/
+URL:https://weekendscout.app/e/billings/yellowstone-art-museum-2026-11/
+END:VEVENT
+END:VCALENDAR

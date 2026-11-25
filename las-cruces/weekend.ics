@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Las Cruces
+X-WR-CALDESC:Hand-checked weekend picks in Las Cruces, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:las-cruces-las-cruces-farmers-crafts-market-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART:20261128T153000Z
+DTEND:20261128T203000Z
+SUMMARY:Las Cruces Farmers & Crafts Market
+LOCATION:Downtown Main Street\, Main St\, Las Cruces\, NM 88001
+DESCRIPTION:Hundreds of vendors with chile\, pecans and crafts on Main Str
+ eet. Free to browse. Details: https://weekendscout.app/e/las-cruces/las-cr
+ uces-farmers-crafts-market-2026-11/
+URL:https://weekendscout.app/e/las-cruces/las-cruces-farmers-crafts-market-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:las-cruces-old-mesilla-plaza-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Old Mesilla Plaza
+LOCATION:Mesilla Plaza\, 2340 Calle de Principal\, Mesilla\, NM 88046
+DESCRIPTION:The historic adobe plaza with its basilica\, shops and New Mex
+ ican restaurants. Free. Details: https://weekendscout.app/e/las-cruces/old
+ -mesilla-plaza-2026-11/
+URL:https://weekendscout.app/e/las-cruces/old-mesilla-plaza-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:las-cruces-old-mesilla-plaza-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Old Mesilla Plaza
+LOCATION:Mesilla Plaza\, 2340 Calle de Principal\, Mesilla\, NM 88046
+DESCRIPTION:The historic adobe plaza with its basilica\, shops and New Mex
+ ican restaurants. Free. Details: https://weekendscout.app/e/las-cruces/old
+ -mesilla-plaza-2026-11/
+URL:https://weekendscout.app/e/las-cruces/old-mesilla-plaza-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:las-cruces-old-mesilla-plaza-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Old Mesilla Plaza
+LOCATION:Mesilla Plaza\, 2340 Calle de Principal\, Mesilla\, NM 88046
+DESCRIPTION:The historic adobe plaza with its basilica\, shops and New Mex
+ ican restaurants. Free. Details: https://weekendscout.app/e/las-cruces/old
+ -mesilla-plaza-2026-11/
+URL:https://weekendscout.app/e/las-cruces/old-mesilla-plaza-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:las-cruces-new-mexico-farm-ranch-heritage-museum-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:New Mexico Farm & Ranch Heritage Museum
+LOCATION:Farm & Ranch Heritage Museum\, 4100 Dripping Springs Rd\, Las Cru
+ ces\, NM 88011
+DESCRIPTION:Ranch animals\, demonstrations and 3\,000 years of farming his
+ tory. Admission. Details: https://weekendscout.app/e/las-cruces/new-mexico
+ -farm-ranch-heritage-museum-2026-11/
+URL:https://weekendscout.app/e/las-cruces/new-mexico-farm-ranch-heritage-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:las-cruces-new-mexico-farm-ranch-heritage-museum-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:New Mexico Farm & Ranch Heritage Museum
+LOCATION:Farm & Ranch Heritage Museum\, 4100 Dripping Springs Rd\, Las Cru
+ ces\, NM 88011
+DESCRIPTION:Ranch animals\, demonstrations and 3\,000 years of farming his
+ tory. Admission. Details: https://weekendscout.app/e/las-cruces/new-mexico
+ -farm-ranch-heritage-museum-2026-11/
+URL:https://weekendscout.app/e/las-cruces/new-mexico-farm-ranch-heritage-museum-2026-11/
+END:VEVENT
+END:VCALENDAR

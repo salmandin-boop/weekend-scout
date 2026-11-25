@@ -1,0 +1,118 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Newport
+X-WR-CALDESC:Hand-checked weekend picks in Newport, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:newport-cliff-walk-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Cliff Walk
+LOCATION:Newport Cliff Walk\, Memorial Blvd\, Newport\, RI 02840
+DESCRIPTION:A 3.5-mile path between the Gilded Age mansions and the ocean.
+  Free. Details: https://weekendscout.app/e/newport/cliff-walk-2026-11/
+URL:https://weekendscout.app/e/newport/cliff-walk-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:newport-cliff-walk-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Cliff Walk
+LOCATION:Newport Cliff Walk\, Memorial Blvd\, Newport\, RI 02840
+DESCRIPTION:A 3.5-mile path between the Gilded Age mansions and the ocean.
+  Free. Details: https://weekendscout.app/e/newport/cliff-walk-2026-11/
+URL:https://weekendscout.app/e/newport/cliff-walk-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:newport-cliff-walk-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Cliff Walk
+LOCATION:Newport Cliff Walk\, Memorial Blvd\, Newport\, RI 02840
+DESCRIPTION:A 3.5-mile path between the Gilded Age mansions and the ocean.
+  Free. Details: https://weekendscout.app/e/newport/cliff-walk-2026-11/
+URL:https://weekendscout.app/e/newport/cliff-walk-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:newport-bowen-s-wharf-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Bowen’s Wharf
+LOCATION:Bowen’s Wharf\, Bowen’s Wharf\, Newport\, RI 02840
+DESCRIPTION:The harbor wharf of shops\, oysters and chowder. Free to brows
+ e. Details: https://weekendscout.app/e/newport/bowen-s-wharf-2026-11/
+URL:https://weekendscout.app/e/newport/bowen-s-wharf-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:newport-bowen-s-wharf-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Bowen’s Wharf
+LOCATION:Bowen’s Wharf\, Bowen’s Wharf\, Newport\, RI 02840
+DESCRIPTION:The harbor wharf of shops\, oysters and chowder. Free to brows
+ e. Details: https://weekendscout.app/e/newport/bowen-s-wharf-2026-11/
+URL:https://weekendscout.app/e/newport/bowen-s-wharf-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:newport-bowen-s-wharf-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Bowen’s Wharf
+LOCATION:Bowen’s Wharf\, Bowen’s Wharf\, Newport\, RI 02840
+DESCRIPTION:The harbor wharf of shops\, oysters and chowder. Free to brows
+ e. Details: https://weekendscout.app/e/newport/bowen-s-wharf-2026-11/
+URL:https://weekendscout.app/e/newport/bowen-s-wharf-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:newport-christmas-at-the-breakers-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Christmas at The Breakers
+LOCATION:The Breakers\, 44 Ochre Point Ave\, Newport\, RI 02840
+DESCRIPTION:The Vanderbilt mansion dressed for the holidays. Tickets. Deta
+ ils: https://weekendscout.app/e/newport/christmas-at-the-breakers-2026-11/
+URL:https://weekendscout.app/e/newport/christmas-at-the-breakers-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:newport-christmas-at-the-breakers-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Christmas at The Breakers
+LOCATION:The Breakers\, 44 Ochre Point Ave\, Newport\, RI 02840
+DESCRIPTION:The Vanderbilt mansion dressed for the holidays. Tickets. Deta
+ ils: https://weekendscout.app/e/newport/christmas-at-the-breakers-2026-11/
+URL:https://weekendscout.app/e/newport/christmas-at-the-breakers-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:newport-christmas-at-the-breakers-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Christmas at The Breakers
+LOCATION:The Breakers\, 44 Ochre Point Ave\, Newport\, RI 02840
+DESCRIPTION:The Vanderbilt mansion dressed for the holidays. Tickets. Deta
+ ils: https://weekendscout.app/e/newport/christmas-at-the-breakers-2026-11/
+URL:https://weekendscout.app/e/newport/christmas-at-the-breakers-2026-11/
+END:VEVENT
+END:VCALENDAR

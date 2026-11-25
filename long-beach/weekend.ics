@@ -1,0 +1,118 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Long Beach
+X-WR-CALDESC:Hand-checked weekend picks in Long Beach, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:long-beach-shoreline-village-rainbow-harbor-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Shoreline Village & Rainbow Harbor
+LOCATION:Shoreline Village\, 419 Shoreline Village Dr\, Long Beach\, CA 90
+ 802
+DESCRIPTION:The waterfront promenade with harbor views\, the lighthouse an
+ d the Queen Mary across the bay. Free. Details: https://weekendscout.app/e
+ /long-beach/shoreline-village-rainbow-harbor-2026-11/
+URL:https://weekendscout.app/e/long-beach/shoreline-village-rainbow-harbor-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:long-beach-shoreline-village-rainbow-harbor-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Shoreline Village & Rainbow Harbor
+LOCATION:Shoreline Village\, 419 Shoreline Village Dr\, Long Beach\, CA 90
+ 802
+DESCRIPTION:The waterfront promenade with harbor views\, the lighthouse an
+ d the Queen Mary across the bay. Free. Details: https://weekendscout.app/e
+ /long-beach/shoreline-village-rainbow-harbor-2026-11/
+URL:https://weekendscout.app/e/long-beach/shoreline-village-rainbow-harbor-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:long-beach-shoreline-village-rainbow-harbor-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Shoreline Village & Rainbow Harbor
+LOCATION:Shoreline Village\, 419 Shoreline Village Dr\, Long Beach\, CA 90
+ 802
+DESCRIPTION:The waterfront promenade with harbor views\, the lighthouse an
+ d the Queen Mary across the bay. Free. Details: https://weekendscout.app/e
+ /long-beach/shoreline-village-rainbow-harbor-2026-11/
+URL:https://weekendscout.app/e/long-beach/shoreline-village-rainbow-harbor-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:long-beach-aquarium-of-the-pacific-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Aquarium of the Pacific
+LOCATION:Aquarium of the Pacific\, 100 Aquarium Way\, Long Beach\, CA 9080
+ 2
+DESCRIPTION:Sea lions\, sharks\, jellies and a lorikeet aviary. Tickets. D
+ etails: https://weekendscout.app/e/long-beach/aquarium-of-the-pacific-2026
+ -11/
+URL:https://weekendscout.app/e/long-beach/aquarium-of-the-pacific-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:long-beach-aquarium-of-the-pacific-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Aquarium of the Pacific
+LOCATION:Aquarium of the Pacific\, 100 Aquarium Way\, Long Beach\, CA 9080
+ 2
+DESCRIPTION:Sea lions\, sharks\, jellies and a lorikeet aviary. Tickets. D
+ etails: https://weekendscout.app/e/long-beach/aquarium-of-the-pacific-2026
+ -11/
+URL:https://weekendscout.app/e/long-beach/aquarium-of-the-pacific-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:long-beach-aquarium-of-the-pacific-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Aquarium of the Pacific
+LOCATION:Aquarium of the Pacific\, 100 Aquarium Way\, Long Beach\, CA 9080
+ 2
+DESCRIPTION:Sea lions\, sharks\, jellies and a lorikeet aviary. Tickets. D
+ etails: https://weekendscout.app/e/long-beach/aquarium-of-the-pacific-2026
+ -11/
+URL:https://weekendscout.app/e/long-beach/aquarium-of-the-pacific-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:long-beach-forever-tour-barbara-mason-war-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261129T030000Z
+DTEND:20261129T050000Z
+SUMMARY:Forever Tour: Barbara Mason & War
+LOCATION:Long Beach Arena\, 300 E Ocean Blvd\, Long Beach\, CA 90802
+DESCRIPTION:Soul and funk legends\; War is a Long Beach-born band. Tickets
+ . Details: https://weekendscout.app/e/long-beach/forever-tour-barbara-maso
+ n-war-2026-11/
+URL:https://weekendscout.app/e/long-beach/forever-tour-barbara-mason-war-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:long-beach-80-s-with-knyght-ryder-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261128T050000Z
+DTEND:20261128T070000Z
+SUMMARY:80’s with Knyght Ryder
+LOCATION:Gaslamp Restaurant & Bar\, 6251 E Pacific Coast Hwy\, Long Beach\
+ , CA 90803
+DESCRIPTION:An ’80s cover band\, late Friday. Tickets. Details: https://
+ weekendscout.app/e/long-beach/80-s-with-knyght-ryder-2026-11/
+URL:https://weekendscout.app/e/long-beach/80-s-with-knyght-ryder-2026-11/
+END:VEVENT
+END:VCALENDAR

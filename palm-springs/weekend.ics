@@ -1,0 +1,97 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Palm Springs
+X-WR-CALDESC:Hand-checked weekend picks in Palm Springs, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:palm-springs-palm-canyon-drive-walk-of-stars-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Palm Canyon Drive & Walk of Stars
+LOCATION:Downtown Palm Springs\, Palm Canyon Dr\, Palm Springs\, CA 92262
+DESCRIPTION:Mid-century shops\, galleries and the Walk of Stars along down
+ town’s main street. Free. Details: https://weekendscout.app/e/palm-sprin
+ gs/palm-canyon-drive-walk-of-stars-2026-11/
+URL:https://weekendscout.app/e/palm-springs/palm-canyon-drive-walk-of-stars-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:palm-springs-palm-canyon-drive-walk-of-stars-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Palm Canyon Drive & Walk of Stars
+LOCATION:Downtown Palm Springs\, Palm Canyon Dr\, Palm Springs\, CA 92262
+DESCRIPTION:Mid-century shops\, galleries and the Walk of Stars along down
+ town’s main street. Free. Details: https://weekendscout.app/e/palm-sprin
+ gs/palm-canyon-drive-walk-of-stars-2026-11/
+URL:https://weekendscout.app/e/palm-springs/palm-canyon-drive-walk-of-stars-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:palm-springs-palm-canyon-drive-walk-of-stars-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Palm Canyon Drive & Walk of Stars
+LOCATION:Downtown Palm Springs\, Palm Canyon Dr\, Palm Springs\, CA 92262
+DESCRIPTION:Mid-century shops\, galleries and the Walk of Stars along down
+ town’s main street. Free. Details: https://weekendscout.app/e/palm-sprin
+ gs/palm-canyon-drive-walk-of-stars-2026-11/
+URL:https://weekendscout.app/e/palm-springs/palm-canyon-drive-walk-of-stars-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:palm-springs-the-drifters-the-coasters-the-platters-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261128T033000Z
+DTEND:20261128T053000Z
+SUMMARY:The Drifters\, The Coasters & The Platters
+LOCATION:Historic Plaza Theatre\, 128 S Palm Canyon Dr\, Palm Springs\, CA
+  92262
+DESCRIPTION:Three doo-wop groups’ hits. Tickets. Details: https://weeken
+ dscout.app/e/palm-springs/the-drifters-the-coasters-the-platters-2026-11/
+URL:https://weekendscout.app/e/palm-springs/the-drifters-the-coasters-the-platters-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:palm-springs-maria-bamford-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261129T033000Z
+DTEND:20261129T053000Z
+SUMMARY:Maria Bamford
+LOCATION:Historic Plaza Theatre\, 128 S Palm Canyon Dr\, Palm Springs\, CA
+  92262
+DESCRIPTION:The stand-up comic on Saturday night. Tickets. Details: https:
+ //weekendscout.app/e/palm-springs/maria-bamford-2026-11/
+URL:https://weekendscout.app/e/palm-springs/maria-bamford-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:palm-springs-big-bad-voodoo-daddy-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261130T033000Z
+DTEND:20261130T053000Z
+SUMMARY:Big Bad Voodoo Daddy
+LOCATION:Historic Plaza Theatre\, 128 S Palm Canyon Dr\, Palm Springs\, CA
+  92262
+DESCRIPTION:The swing revival band. Tickets. Details: https://weekendscout
+ .app/e/palm-springs/big-bad-voodoo-daddy-2026-11/
+URL:https://weekendscout.app/e/palm-springs/big-bad-voodoo-daddy-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:palm-springs-the-producers-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261129T220000Z
+DTEND:20261130T000000Z
+SUMMARY:The Producers
+LOCATION:Palm Canyon Theatre\, 538 N Palm Canyon Dr\, Palm Springs\, CA 92
+ 262
+DESCRIPTION:Mel Brooks’ musical comedy\, Sunday matinee. Tickets. Detail
+ s: https://weekendscout.app/e/palm-springs/the-producers-2026-11/
+URL:https://weekendscout.app/e/palm-springs/the-producers-2026-11/
+END:VEVENT
+END:VCALENDAR

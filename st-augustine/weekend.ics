@@ -1,0 +1,130 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · St. Augustine
+X-WR-CALDESC:Hand-checked weekend picks in St. Augustine, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:st-augustine-nights-of-lights-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261127T223000Z
+DTEND:20261128T040000Z
+SUMMARY:Nights of Lights
+LOCATION:Downtown St. Augustine\, Plaza de la Constitución\, St. Augustin
+ e\, FL 32084
+DESCRIPTION:Millions of white lights across the old city\, nightly through
+  January. Free. Details: https://weekendscout.app/e/st-augustine/nights-of
+ -lights-2026-11/
+URL:https://weekendscout.app/e/st-augustine/nights-of-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:st-augustine-nights-of-lights-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261128T223000Z
+DTEND:20261129T040000Z
+SUMMARY:Nights of Lights
+LOCATION:Downtown St. Augustine\, Plaza de la Constitución\, St. Augustin
+ e\, FL 32084
+DESCRIPTION:Millions of white lights across the old city\, nightly through
+  January. Free. Details: https://weekendscout.app/e/st-augustine/nights-of
+ -lights-2026-11/
+URL:https://weekendscout.app/e/st-augustine/nights-of-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:st-augustine-nights-of-lights-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261129T223000Z
+DTEND:20261130T040000Z
+SUMMARY:Nights of Lights
+LOCATION:Downtown St. Augustine\, Plaza de la Constitución\, St. Augustin
+ e\, FL 32084
+DESCRIPTION:Millions of white lights across the old city\, nightly through
+  January. Free. Details: https://weekendscout.app/e/st-augustine/nights-of
+ -lights-2026-11/
+URL:https://weekendscout.app/e/st-augustine/nights-of-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:st-augustine-st-george-street-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:St. George Street
+LOCATION:St. George Street\, St. George St\, St. Augustine\, FL 32084
+DESCRIPTION:The pedestrian street through the historic district\, with caf
+ és and shops. Free to browse. Details: https://weekendscout.app/e/st-augu
+ stine/st-george-street-2026-11/
+URL:https://weekendscout.app/e/st-augustine/st-george-street-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:st-augustine-st-george-street-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:St. George Street
+LOCATION:St. George Street\, St. George St\, St. Augustine\, FL 32084
+DESCRIPTION:The pedestrian street through the historic district\, with caf
+ és and shops. Free to browse. Details: https://weekendscout.app/e/st-augu
+ stine/st-george-street-2026-11/
+URL:https://weekendscout.app/e/st-augustine/st-george-street-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:st-augustine-st-george-street-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:St. George Street
+LOCATION:St. George Street\, St. George St\, St. Augustine\, FL 32084
+DESCRIPTION:The pedestrian street through the historic district\, with caf
+ és and shops. Free to browse. Details: https://weekendscout.app/e/st-augu
+ stine/st-george-street-2026-11/
+URL:https://weekendscout.app/e/st-augustine/st-george-street-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:st-augustine-castillo-de-san-marcos-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Castillo de San Marcos
+LOCATION:Castillo de San Marcos\, 1 S Castillo Dr\, St. Augustine\, FL 320
+ 84
+DESCRIPTION:The 17th-century Spanish stone fort on the bay. Admission. Det
+ ails: https://weekendscout.app/e/st-augustine/castillo-de-san-marcos-2026-
+ 11/
+URL:https://weekendscout.app/e/st-augustine/castillo-de-san-marcos-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:st-augustine-castillo-de-san-marcos-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Castillo de San Marcos
+LOCATION:Castillo de San Marcos\, 1 S Castillo Dr\, St. Augustine\, FL 320
+ 84
+DESCRIPTION:The 17th-century Spanish stone fort on the bay. Admission. Det
+ ails: https://weekendscout.app/e/st-augustine/castillo-de-san-marcos-2026-
+ 11/
+URL:https://weekendscout.app/e/st-augustine/castillo-de-san-marcos-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:st-augustine-castillo-de-san-marcos-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Castillo de San Marcos
+LOCATION:Castillo de San Marcos\, 1 S Castillo Dr\, St. Augustine\, FL 320
+ 84
+DESCRIPTION:The 17th-century Spanish stone fort on the bay. Admission. Det
+ ails: https://weekendscout.app/e/st-augustine/castillo-de-san-marcos-2026-
+ 11/
+URL:https://weekendscout.app/e/st-augustine/castillo-de-san-marcos-2026-11/
+END:VEVENT
+END:VCALENDAR

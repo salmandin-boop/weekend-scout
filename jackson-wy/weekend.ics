@@ -1,0 +1,130 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Jackson
+X-WR-CALDESC:Hand-checked weekend picks in Jackson, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:jackson-wy-jackson-town-square-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Jackson Town Square
+LOCATION:Town Square\, Broadway & Cache St\, Jackson\, WY 83001
+DESCRIPTION:The square with its four elk-antler arches\, strung with light
+ s for the holidays. Free. Details: https://weekendscout.app/e/jackson-wy/j
+ ackson-town-square-2026-11/
+URL:https://weekendscout.app/e/jackson-wy/jackson-town-square-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:jackson-wy-jackson-town-square-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Jackson Town Square
+LOCATION:Town Square\, Broadway & Cache St\, Jackson\, WY 83001
+DESCRIPTION:The square with its four elk-antler arches\, strung with light
+ s for the holidays. Free. Details: https://weekendscout.app/e/jackson-wy/j
+ ackson-town-square-2026-11/
+URL:https://weekendscout.app/e/jackson-wy/jackson-town-square-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:jackson-wy-jackson-town-square-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Jackson Town Square
+LOCATION:Town Square\, Broadway & Cache St\, Jackson\, WY 83001
+DESCRIPTION:The square with its four elk-antler arches\, strung with light
+ s for the holidays. Free. Details: https://weekendscout.app/e/jackson-wy/j
+ ackson-town-square-2026-11/
+URL:https://weekendscout.app/e/jackson-wy/jackson-town-square-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:jackson-wy-national-museum-of-wildlife-art-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:National Museum of Wildlife Art
+LOCATION:National Museum of Wildlife Art\, 2820 Rungius Rd\, Jackson\, WY 
+ 83001
+DESCRIPTION:Wildlife art from Bierstadt to Warhol\, overlooking the Elk Re
+ fuge. Admission. Details: https://weekendscout.app/e/jackson-wy/national-m
+ useum-of-wildlife-art-2026-11/
+URL:https://weekendscout.app/e/jackson-wy/national-museum-of-wildlife-art-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:jackson-wy-national-museum-of-wildlife-art-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:National Museum of Wildlife Art
+LOCATION:National Museum of Wildlife Art\, 2820 Rungius Rd\, Jackson\, WY 
+ 83001
+DESCRIPTION:Wildlife art from Bierstadt to Warhol\, overlooking the Elk Re
+ fuge. Admission. Details: https://weekendscout.app/e/jackson-wy/national-m
+ useum-of-wildlife-art-2026-11/
+URL:https://weekendscout.app/e/jackson-wy/national-museum-of-wildlife-art-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:jackson-wy-national-museum-of-wildlife-art-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:National Museum of Wildlife Art
+LOCATION:National Museum of Wildlife Art\, 2820 Rungius Rd\, Jackson\, WY 
+ 83001
+DESCRIPTION:Wildlife art from Bierstadt to Warhol\, overlooking the Elk Re
+ fuge. Admission. Details: https://weekendscout.app/e/jackson-wy/national-m
+ useum-of-wildlife-art-2026-11/
+URL:https://weekendscout.app/e/jackson-wy/national-museum-of-wildlife-art-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:jackson-wy-grand-teton-national-park-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Grand Teton National Park
+LOCATION:Moose Entrance\, Teton Park Rd\, Moose\, WY 83012
+DESCRIPTION:Winter views of the Tetons\; the inner park road closes to car
+ s for the season. Park entry. Details: https://weekendscout.app/e/jackson-
+ wy/grand-teton-national-park-2026-11/
+URL:https://weekendscout.app/e/jackson-wy/grand-teton-national-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:jackson-wy-grand-teton-national-park-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Grand Teton National Park
+LOCATION:Moose Entrance\, Teton Park Rd\, Moose\, WY 83012
+DESCRIPTION:Winter views of the Tetons\; the inner park road closes to car
+ s for the season. Park entry. Details: https://weekendscout.app/e/jackson-
+ wy/grand-teton-national-park-2026-11/
+URL:https://weekendscout.app/e/jackson-wy/grand-teton-national-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:jackson-wy-grand-teton-national-park-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Grand Teton National Park
+LOCATION:Moose Entrance\, Teton Park Rd\, Moose\, WY 83012
+DESCRIPTION:Winter views of the Tetons\; the inner park road closes to car
+ s for the season. Park entry. Details: https://weekendscout.app/e/jackson-
+ wy/grand-teton-national-park-2026-11/
+URL:https://weekendscout.app/e/jackson-wy/grand-teton-national-park-2026-11/
+END:VEVENT
+END:VCALENDAR

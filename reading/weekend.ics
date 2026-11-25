@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Reading
+X-WR-CALDESC:Hand-checked weekend picks in Reading, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:reading-the-pagoda-on-mount-penn-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:The Pagoda on Mount Penn
+LOCATION:Reading Pagoda\, 98 Duryea Dr\, Reading\, PA 19602
+DESCRIPTION:A 1908 Japanese-style pagoda with views over the city. Free. D
+ etails: https://weekendscout.app/e/reading/the-pagoda-on-mount-penn-2026-1
+ 1/
+URL:https://weekendscout.app/e/reading/the-pagoda-on-mount-penn-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:reading-the-pagoda-on-mount-penn-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:The Pagoda on Mount Penn
+LOCATION:Reading Pagoda\, 98 Duryea Dr\, Reading\, PA 19602
+DESCRIPTION:A 1908 Japanese-style pagoda with views over the city. Free. D
+ etails: https://weekendscout.app/e/reading/the-pagoda-on-mount-penn-2026-1
+ 1/
+URL:https://weekendscout.app/e/reading/the-pagoda-on-mount-penn-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:reading-the-pagoda-on-mount-penn-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:The Pagoda on Mount Penn
+LOCATION:Reading Pagoda\, 98 Duryea Dr\, Reading\, PA 19602
+DESCRIPTION:A 1908 Japanese-style pagoda with views over the city. Free. D
+ etails: https://weekendscout.app/e/reading/the-pagoda-on-mount-penn-2026-1
+ 1/
+URL:https://weekendscout.app/e/reading/the-pagoda-on-mount-penn-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:reading-mannheim-steamroller-christmas-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART:20261128T003000Z
+DTEND:20261128T023000Z
+SUMMARY:Mannheim Steamroller Christmas
+LOCATION:Santander Performing Arts Center\, 136 N 6th St\, Reading\, PA 19
+ 601
+DESCRIPTION:The holiday-music tour. Tickets. Details: https://weekendscout
+ .app/e/reading/mannheim-steamroller-christmas-2026-11/
+URL:https://weekendscout.app/e/reading/mannheim-steamroller-christmas-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:reading-nicky-jam-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART:20261128T010000Z
+DTEND:20261128T030000Z
+SUMMARY:Nicky Jam
+LOCATION:Santander Arena\, 700 Penn St\, Reading\, PA 19602
+DESCRIPTION:The reggaeton star’s Perreoland tour. Tickets. Details: http
+ s://weekendscout.app/e/reading/nicky-jam-2026-11/
+URL:https://weekendscout.app/e/reading/nicky-jam-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:reading-the-nutcracker-world-ballet-company-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:The Nutcracker (World Ballet Company)
+LOCATION:Santander Performing Arts Center\, 136 N 6th St\, Reading\, PA 19
+ 601
+DESCRIPTION:A touring Nutcracker on Saturday night. Tickets. Details: http
+ s://weekendscout.app/e/reading/the-nutcracker-world-ballet-company-2026-11
+ /
+URL:https://weekendscout.app/e/reading/the-nutcracker-world-ballet-company-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:reading-reading-royals-vs-trois-rivi-res-lions-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:Reading Royals vs. Trois-Rivières Lions
+LOCATION:Santander Arena\, 700 Penn St\, Reading\, PA 19602
+DESCRIPTION:ECHL hockey on Saturday. Tickets. Details: https://weekendscou
+ t.app/e/reading/reading-royals-vs-trois-rivi-res-lions-2026-11/
+URL:https://weekendscout.app/e/reading/reading-royals-vs-trois-rivi-res-lions-2026-11/
+END:VEVENT
+END:VCALENDAR

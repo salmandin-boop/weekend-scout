@@ -1,0 +1,127 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Peoria
+X-WR-CALDESC:Hand-checked weekend picks in Peoria, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:peoria-peoria-riverfront-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Peoria Riverfront
+LOCATION:Riverfront Park\, 200 NE Water St\, Peoria\, IL 61602
+DESCRIPTION:Downtown’s park on the Illinois River. Free. Details: https:
+ //weekendscout.app/e/peoria/peoria-riverfront-2026-11/
+URL:https://weekendscout.app/e/peoria/peoria-riverfront-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:peoria-peoria-riverfront-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Peoria Riverfront
+LOCATION:Riverfront Park\, 200 NE Water St\, Peoria\, IL 61602
+DESCRIPTION:Downtown’s park on the Illinois River. Free. Details: https:
+ //weekendscout.app/e/peoria/peoria-riverfront-2026-11/
+URL:https://weekendscout.app/e/peoria/peoria-riverfront-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:peoria-peoria-riverfront-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Peoria Riverfront
+LOCATION:Riverfront Park\, 200 NE Water St\, Peoria\, IL 61602
+DESCRIPTION:Downtown’s park on the Illinois River. Free. Details: https:
+ //weekendscout.app/e/peoria/peoria-riverfront-2026-11/
+URL:https://weekendscout.app/e/peoria/peoria-riverfront-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:peoria-peoria-riverfront-museum-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Peoria Riverfront Museum
+LOCATION:Peoria Riverfront Museum\, 222 SW Washington St\, Peoria\, IL 616
+ 02
+DESCRIPTION:Art\, science\, history and a giant-screen dome theater. Admis
+ sion. Details: https://weekendscout.app/e/peoria/peoria-riverfront-museum-
+ 2026-11/
+URL:https://weekendscout.app/e/peoria/peoria-riverfront-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:peoria-peoria-riverfront-museum-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Peoria Riverfront Museum
+LOCATION:Peoria Riverfront Museum\, 222 SW Washington St\, Peoria\, IL 616
+ 02
+DESCRIPTION:Art\, science\, history and a giant-screen dome theater. Admis
+ sion. Details: https://weekendscout.app/e/peoria/peoria-riverfront-museum-
+ 2026-11/
+URL:https://weekendscout.app/e/peoria/peoria-riverfront-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:peoria-peoria-riverfront-museum-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Peoria Riverfront Museum
+LOCATION:Peoria Riverfront Museum\, 222 SW Washington St\, Peoria\, IL 616
+ 02
+DESCRIPTION:Art\, science\, history and a giant-screen dome theater. Admis
+ sion. Details: https://weekendscout.app/e/peoria/peoria-riverfront-museum-
+ 2026-11/
+URL:https://weekendscout.app/e/peoria/peoria-riverfront-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:peoria-luthy-botanical-garden-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Luthy Botanical Garden
+LOCATION:Luthy Botanical Garden\, 2520 N Prospect Rd\, Peoria\, IL 61603
+DESCRIPTION:A conservatory and gardens in Glen Oak Park. Free (donations w
+ elcome). Details: https://weekendscout.app/e/peoria/luthy-botanical-garden
+ -2026-11/
+URL:https://weekendscout.app/e/peoria/luthy-botanical-garden-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:peoria-luthy-botanical-garden-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Luthy Botanical Garden
+LOCATION:Luthy Botanical Garden\, 2520 N Prospect Rd\, Peoria\, IL 61603
+DESCRIPTION:A conservatory and gardens in Glen Oak Park. Free (donations w
+ elcome). Details: https://weekendscout.app/e/peoria/luthy-botanical-garden
+ -2026-11/
+URL:https://weekendscout.app/e/peoria/luthy-botanical-garden-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:peoria-luthy-botanical-garden-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Luthy Botanical Garden
+LOCATION:Luthy Botanical Garden\, 2520 N Prospect Rd\, Peoria\, IL 61603
+DESCRIPTION:A conservatory and gardens in Glen Oak Park. Free (donations w
+ elcome). Details: https://weekendscout.app/e/peoria/luthy-botanical-garden
+ -2026-11/
+URL:https://weekendscout.app/e/peoria/luthy-botanical-garden-2026-11/
+END:VEVENT
+END:VCALENDAR

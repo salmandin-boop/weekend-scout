@@ -1,0 +1,106 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Lancaster
+X-WR-CALDESC:Hand-checked weekend picks in Lancaster, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:lancaster-lancaster-central-market-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART:20261127T110000Z
+DTEND:20261127T210000Z
+SUMMARY:Lancaster Central Market
+LOCATION:Central Market\, 23 N Market St\, Lancaster\, PA 17603
+DESCRIPTION:The country’s oldest continuously operating farmers market\,
+  in an 1889 market house. Free to browse. Details: https://weekendscout.ap
+ p/e/lancaster/lancaster-central-market-2026-11/
+URL:https://weekendscout.app/e/lancaster/lancaster-central-market-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:lancaster-lancaster-central-market-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART:20261128T110000Z
+DTEND:20261128T190000Z
+SUMMARY:Lancaster Central Market
+LOCATION:Central Market\, 23 N Market St\, Lancaster\, PA 17603
+DESCRIPTION:The country’s oldest continuously operating farmers market\,
+  in an 1889 market house. Free to browse. Details: https://weekendscout.ap
+ p/e/lancaster/lancaster-central-market-2026-11/
+URL:https://weekendscout.app/e/lancaster/lancaster-central-market-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:lancaster-gallery-row-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Gallery Row
+LOCATION:Gallery Row\, N Prince St\, Lancaster\, PA 17603
+DESCRIPTION:A block of galleries and studios downtown. Free to browse. Det
+ ails: https://weekendscout.app/e/lancaster/gallery-row-2026-11/
+URL:https://weekendscout.app/e/lancaster/gallery-row-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:lancaster-gallery-row-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Gallery Row
+LOCATION:Gallery Row\, N Prince St\, Lancaster\, PA 17603
+DESCRIPTION:A block of galleries and studios downtown. Free to browse. Det
+ ails: https://weekendscout.app/e/lancaster/gallery-row-2026-11/
+URL:https://weekendscout.app/e/lancaster/gallery-row-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:lancaster-gallery-row-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Gallery Row
+LOCATION:Gallery Row\, N Prince St\, Lancaster\, PA 17603
+DESCRIPTION:A block of galleries and studios downtown. Free to browse. Det
+ ails: https://weekendscout.app/e/lancaster/gallery-row-2026-11/
+URL:https://weekendscout.app/e/lancaster/gallery-row-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:lancaster-long-s-park-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Long’s Park
+LOCATION:Long’s Park\, 1441 Harrisburg Pike\, Lancaster\, PA 17601
+DESCRIPTION:An 80-acre park with a lake\, trails and a petting zoo. Free. 
+ Details: https://weekendscout.app/e/lancaster/long-s-park-2026-11/
+URL:https://weekendscout.app/e/lancaster/long-s-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:lancaster-long-s-park-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Long’s Park
+LOCATION:Long’s Park\, 1441 Harrisburg Pike\, Lancaster\, PA 17601
+DESCRIPTION:An 80-acre park with a lake\, trails and a petting zoo. Free. 
+ Details: https://weekendscout.app/e/lancaster/long-s-park-2026-11/
+URL:https://weekendscout.app/e/lancaster/long-s-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:lancaster-long-s-park-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Long’s Park
+LOCATION:Long’s Park\, 1441 Harrisburg Pike\, Lancaster\, PA 17601
+DESCRIPTION:An 80-acre park with a lake\, trails and a petting zoo. Free. 
+ Details: https://weekendscout.app/e/lancaster/long-s-park-2026-11/
+URL:https://weekendscout.app/e/lancaster/long-s-park-2026-11/
+END:VEVENT
+END:VCALENDAR

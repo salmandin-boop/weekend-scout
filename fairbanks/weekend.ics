@@ -1,0 +1,130 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Fairbanks
+X-WR-CALDESC:Hand-checked weekend picks in Fairbanks, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:fairbanks-creamer-s-field-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Creamer’s Field
+LOCATION:Creamer’s Field Migratory Waterfowl Refuge\, 1300 College Rd\, 
+ Fairbanks\, AK 99701
+DESCRIPTION:Snowy trails at an old dairy farm\; good for aurora watching a
+ fter dark. Free. Details: https://weekendscout.app/e/fairbanks/creamer-s-f
+ ield-2026-11/
+URL:https://weekendscout.app/e/fairbanks/creamer-s-field-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fairbanks-creamer-s-field-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Creamer’s Field
+LOCATION:Creamer’s Field Migratory Waterfowl Refuge\, 1300 College Rd\, 
+ Fairbanks\, AK 99701
+DESCRIPTION:Snowy trails at an old dairy farm\; good for aurora watching a
+ fter dark. Free. Details: https://weekendscout.app/e/fairbanks/creamer-s-f
+ ield-2026-11/
+URL:https://weekendscout.app/e/fairbanks/creamer-s-field-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fairbanks-creamer-s-field-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Creamer’s Field
+LOCATION:Creamer’s Field Migratory Waterfowl Refuge\, 1300 College Rd\, 
+ Fairbanks\, AK 99701
+DESCRIPTION:Snowy trails at an old dairy farm\; good for aurora watching a
+ fter dark. Free. Details: https://weekendscout.app/e/fairbanks/creamer-s-f
+ ield-2026-11/
+URL:https://weekendscout.app/e/fairbanks/creamer-s-field-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fairbanks-golden-heart-plaza-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Golden Heart Plaza
+LOCATION:Golden Heart Plaza\, 1st Ave & Cushman St\, Fairbanks\, AK 99701
+DESCRIPTION:Downtown’s riverside plaza and the “Unknown First Family
+ ” statue. Free. Details: https://weekendscout.app/e/fairbanks/golden-hea
+ rt-plaza-2026-11/
+URL:https://weekendscout.app/e/fairbanks/golden-heart-plaza-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fairbanks-golden-heart-plaza-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Golden Heart Plaza
+LOCATION:Golden Heart Plaza\, 1st Ave & Cushman St\, Fairbanks\, AK 99701
+DESCRIPTION:Downtown’s riverside plaza and the “Unknown First Family
+ ” statue. Free. Details: https://weekendscout.app/e/fairbanks/golden-hea
+ rt-plaza-2026-11/
+URL:https://weekendscout.app/e/fairbanks/golden-heart-plaza-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fairbanks-golden-heart-plaza-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Golden Heart Plaza
+LOCATION:Golden Heart Plaza\, 1st Ave & Cushman St\, Fairbanks\, AK 99701
+DESCRIPTION:Downtown’s riverside plaza and the “Unknown First Family
+ ” statue. Free. Details: https://weekendscout.app/e/fairbanks/golden-hea
+ rt-plaza-2026-11/
+URL:https://weekendscout.app/e/fairbanks/golden-heart-plaza-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fairbanks-university-of-alaska-museum-of-the-north-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:University of Alaska Museum of the North
+LOCATION:Museum of the North\, 1962 Yukon Dr\, Fairbanks\, AK 99775
+DESCRIPTION:Alaska Native art\, a mummified steppe bison and the sound-and
+ -light room. Admission. Details: https://weekendscout.app/e/fairbanks/univ
+ ersity-of-alaska-museum-of-the-north-2026-11/
+URL:https://weekendscout.app/e/fairbanks/university-of-alaska-museum-of-the-north-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fairbanks-university-of-alaska-museum-of-the-north-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:University of Alaska Museum of the North
+LOCATION:Museum of the North\, 1962 Yukon Dr\, Fairbanks\, AK 99775
+DESCRIPTION:Alaska Native art\, a mummified steppe bison and the sound-and
+ -light room. Admission. Details: https://weekendscout.app/e/fairbanks/univ
+ ersity-of-alaska-museum-of-the-north-2026-11/
+URL:https://weekendscout.app/e/fairbanks/university-of-alaska-museum-of-the-north-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fairbanks-university-of-alaska-museum-of-the-north-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:University of Alaska Museum of the North
+LOCATION:Museum of the North\, 1962 Yukon Dr\, Fairbanks\, AK 99775
+DESCRIPTION:Alaska Native art\, a mummified steppe bison and the sound-and
+ -light room. Admission. Details: https://weekendscout.app/e/fairbanks/univ
+ ersity-of-alaska-museum-of-the-north-2026-11/
+URL:https://weekendscout.app/e/fairbanks/university-of-alaska-museum-of-the-north-2026-11/
+END:VEVENT
+END:VCALENDAR

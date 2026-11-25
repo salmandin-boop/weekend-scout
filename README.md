@@ -147,3 +147,6 @@ The weekly update checks that every date-night event has at least 2 spots within
 
 ## Growing to 100 cities (Nov 24, 2026)
 Cities 51–100 (Fort Worth through Burlington VT) were added by hand on Nov 24, 2026 for the Nov 27–29 weekend. They are **not yet covered by any weekly update task**, so their events go stale after Nov 29 unless a task is set up for them. They use the same schema; `kidAges`, `priceMin` and the venue-name rules from v1.18 apply. They have no `spots/` files yet (date-night bundles and "Visiting" pages fall back gracefully). A few "free" picks are evergreen free places (museums with free admission, parks) rather than dated events. Portland, Maine is `portland-me`; Columbia, SC is `columbia-sc`.
+
+## Growing to 200 cities (Nov 25, 2026)
+Cities 101–200 (Newark through Springfield IL) were added on Nov 25, 2026 for the Nov 27–29 weekend, bringing every state plus DC into the app. Like 51–100 they are **not on a weekly update task** and have no `spots/` files. Smaller cities lean more on evergreen picks (parks, free museums, markets, permanent attractions) with one to five dated events from venue calendars. Disambiguated ids: `wilmington-de`, `wilmington-nc`, `charleston-wv`, `portsmouth-nh`, `springfield-ma`, `springfield-il`, `springfield-mo`, `columbia-mo`, `rochester-mn`, `salem-ma`, `jackson-wy`, `fayetteville-ar`.

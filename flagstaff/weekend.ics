@@ -1,0 +1,133 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Flagstaff
+X-WR-CALDESC:Hand-checked weekend picks in Flagstaff, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:flagstaff-historic-downtown-flagstaff-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Historic Downtown Flagstaff
+LOCATION:Downtown Flagstaff\, Route 66 & San Francisco St\, Flagstaff\, AZ
+  86001
+DESCRIPTION:Route 66 storefronts\, breweries and cafés under the San Fran
+ cisco Peaks. Free to browse. Details: https://weekendscout.app/e/flagstaff
+ /historic-downtown-flagstaff-2026-11/
+URL:https://weekendscout.app/e/flagstaff/historic-downtown-flagstaff-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:flagstaff-historic-downtown-flagstaff-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Historic Downtown Flagstaff
+LOCATION:Downtown Flagstaff\, Route 66 & San Francisco St\, Flagstaff\, AZ
+  86001
+DESCRIPTION:Route 66 storefronts\, breweries and cafés under the San Fran
+ cisco Peaks. Free to browse. Details: https://weekendscout.app/e/flagstaff
+ /historic-downtown-flagstaff-2026-11/
+URL:https://weekendscout.app/e/flagstaff/historic-downtown-flagstaff-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:flagstaff-historic-downtown-flagstaff-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Historic Downtown Flagstaff
+LOCATION:Downtown Flagstaff\, Route 66 & San Francisco St\, Flagstaff\, AZ
+  86001
+DESCRIPTION:Route 66 storefronts\, breweries and cafés under the San Fran
+ cisco Peaks. Free to browse. Details: https://weekendscout.app/e/flagstaff
+ /historic-downtown-flagstaff-2026-11/
+URL:https://weekendscout.app/e/flagstaff/historic-downtown-flagstaff-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:flagstaff-lowell-observatory-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Lowell Observatory
+LOCATION:Lowell Observatory\, 1400 W Mars Hill Rd\, Flagstaff\, AZ 86001
+DESCRIPTION:Where Pluto was discovered\; telescope viewing after dark. Tic
+ kets. Details: https://weekendscout.app/e/flagstaff/lowell-observatory-202
+ 6-11/
+URL:https://weekendscout.app/e/flagstaff/lowell-observatory-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:flagstaff-lowell-observatory-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Lowell Observatory
+LOCATION:Lowell Observatory\, 1400 W Mars Hill Rd\, Flagstaff\, AZ 86001
+DESCRIPTION:Where Pluto was discovered\; telescope viewing after dark. Tic
+ kets. Details: https://weekendscout.app/e/flagstaff/lowell-observatory-202
+ 6-11/
+URL:https://weekendscout.app/e/flagstaff/lowell-observatory-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:flagstaff-lowell-observatory-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Lowell Observatory
+LOCATION:Lowell Observatory\, 1400 W Mars Hill Rd\, Flagstaff\, AZ 86001
+DESCRIPTION:Where Pluto was discovered\; telescope viewing after dark. Tic
+ kets. Details: https://weekendscout.app/e/flagstaff/lowell-observatory-202
+ 6-11/
+URL:https://weekendscout.app/e/flagstaff/lowell-observatory-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:flagstaff-museum-of-northern-arizona-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Museum of Northern Arizona
+LOCATION:Museum of Northern Arizona\, 3101 N Fort Valley Rd\, Flagstaff\, 
+ AZ 86001
+DESCRIPTION:Native art\, geology and natural history of the Colorado Plate
+ au. Admission. Details: https://weekendscout.app/e/flagstaff/museum-of-nor
+ thern-arizona-2026-11/
+URL:https://weekendscout.app/e/flagstaff/museum-of-northern-arizona-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:flagstaff-museum-of-northern-arizona-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Museum of Northern Arizona
+LOCATION:Museum of Northern Arizona\, 3101 N Fort Valley Rd\, Flagstaff\, 
+ AZ 86001
+DESCRIPTION:Native art\, geology and natural history of the Colorado Plate
+ au. Admission. Details: https://weekendscout.app/e/flagstaff/museum-of-nor
+ thern-arizona-2026-11/
+URL:https://weekendscout.app/e/flagstaff/museum-of-northern-arizona-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:flagstaff-museum-of-northern-arizona-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Museum of Northern Arizona
+LOCATION:Museum of Northern Arizona\, 3101 N Fort Valley Rd\, Flagstaff\, 
+ AZ 86001
+DESCRIPTION:Native art\, geology and natural history of the Colorado Plate
+ au. Admission. Details: https://weekendscout.app/e/flagstaff/museum-of-nor
+ thern-arizona-2026-11/
+URL:https://weekendscout.app/e/flagstaff/museum-of-northern-arizona-2026-11/
+END:VEVENT
+END:VCALENDAR

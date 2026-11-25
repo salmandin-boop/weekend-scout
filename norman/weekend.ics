@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Norman
+X-WR-CALDESC:Hand-checked weekend picks in Norman, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:norman-fred-jones-jr-museum-of-art-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Fred Jones Jr. Museum of Art
+LOCATION:Fred Jones Jr. Museum of Art\, 555 Elm Ave\, Norman\, OK 73019
+DESCRIPTION:OU’s art museum\, with French Impressionists and Native Amer
+ ican art. Free admission. Details: https://weekendscout.app/e/norman/fred-
+ jones-jr-museum-of-art-2026-11/
+URL:https://weekendscout.app/e/norman/fred-jones-jr-museum-of-art-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:norman-fred-jones-jr-museum-of-art-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Fred Jones Jr. Museum of Art
+LOCATION:Fred Jones Jr. Museum of Art\, 555 Elm Ave\, Norman\, OK 73019
+DESCRIPTION:OU’s art museum\, with French Impressionists and Native Amer
+ ican art. Free admission. Details: https://weekendscout.app/e/norman/fred-
+ jones-jr-museum-of-art-2026-11/
+URL:https://weekendscout.app/e/norman/fred-jones-jr-museum-of-art-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:norman-campus-corner-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Campus Corner
+LOCATION:Campus Corner\, Asp Ave & W Boyd St\, Norman\, OK 73069
+DESCRIPTION:Restaurants\, bars and shops next to the OU campus. Free to br
+ owse. Details: https://weekendscout.app/e/norman/campus-corner-2026-11/
+URL:https://weekendscout.app/e/norman/campus-corner-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:norman-campus-corner-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Campus Corner
+LOCATION:Campus Corner\, Asp Ave & W Boyd St\, Norman\, OK 73069
+DESCRIPTION:Restaurants\, bars and shops next to the OU campus. Free to br
+ owse. Details: https://weekendscout.app/e/norman/campus-corner-2026-11/
+URL:https://weekendscout.app/e/norman/campus-corner-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:norman-campus-corner-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Campus Corner
+LOCATION:Campus Corner\, Asp Ave & W Boyd St\, Norman\, OK 73069
+DESCRIPTION:Restaurants\, bars and shops next to the OU campus. Free to br
+ owse. Details: https://weekendscout.app/e/norman/campus-corner-2026-11/
+URL:https://weekendscout.app/e/norman/campus-corner-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:norman-chelcie-lynn-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART:20261128T020000Z
+DTEND:20261128T040000Z
+SUMMARY:Chelcie Lynn
+LOCATION:Showplace Theatre at Riverwind Casino\, 1544 OK-9\, Norman\, OK 7
+ 3072
+DESCRIPTION:The comedian known as Trailer Trash Tammy. Tickets. Details: h
+ ttps://weekendscout.app/e/norman/chelcie-lynn-2026-11/
+URL:https://weekendscout.app/e/norman/chelcie-lynn-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:norman-jodeci-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART:20261129T020000Z
+DTEND:20261129T040000Z
+SUMMARY:Jodeci
+LOCATION:Showplace Theatre at Riverwind Casino\, 1544 OK-9\, Norman\, OK 7
+ 3072
+DESCRIPTION:The ’90s R&B group. Tickets. Details: https://weekendscout.a
+ pp/e/norman/jodeci-2026-11/
+URL:https://weekendscout.app/e/norman/jodeci-2026-11/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,84 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Lincoln
+X-WR-CALDESC:Hand-checked weekend picks in Lincoln, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:lincoln-sheldon-museum-of-art-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Sheldon Museum of Art
+LOCATION:Sheldon Museum of Art\, 12th St & R St\, Lincoln\, NE 68588
+DESCRIPTION:Philip Johnson’s marble museum and sculpture garden at UNL. 
+ Free admission. Details: https://weekendscout.app/e/lincoln/sheldon-museum
+ -of-art-2026-11/
+URL:https://weekendscout.app/e/lincoln/sheldon-museum-of-art-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:lincoln-sheldon-museum-of-art-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Sheldon Museum of Art
+LOCATION:Sheldon Museum of Art\, 12th St & R St\, Lincoln\, NE 68588
+DESCRIPTION:Philip Johnson’s marble museum and sculpture garden at UNL. 
+ Free admission. Details: https://weekendscout.app/e/lincoln/sheldon-museum
+ -of-art-2026-11/
+URL:https://weekendscout.app/e/lincoln/sheldon-museum-of-art-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:lincoln-nebraska-state-capitol-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Nebraska State Capitol
+LOCATION:Nebraska State Capitol\, 1445 K St\, Lincoln\, NE 68508
+DESCRIPTION:Free tours and a 14th-floor observation deck in the 400-foot t
+ ower. Free. Details: https://weekendscout.app/e/lincoln/nebraska-state-cap
+ itol-2026-11/
+URL:https://weekendscout.app/e/lincoln/nebraska-state-capitol-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:lincoln-nebraska-state-capitol-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Nebraska State Capitol
+LOCATION:Nebraska State Capitol\, 1445 K St\, Lincoln\, NE 68508
+DESCRIPTION:Free tours and a 14th-floor observation deck in the 400-foot t
+ ower. Free. Details: https://weekendscout.app/e/lincoln/nebraska-state-cap
+ itol-2026-11/
+URL:https://weekendscout.app/e/lincoln/nebraska-state-capitol-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:lincoln-lincoln-stars-vs-sioux-city-musketeers-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART:20261127T230500Z
+DTEND:20261128T010500Z
+SUMMARY:Lincoln Stars vs. Sioux City Musketeers
+LOCATION:The Ice Box\, 1880 Transformation Dr\, Lincoln\, NE 68508
+DESCRIPTION:USHL hockey on Friday. Tickets. Details: https://weekendscout.
+ app/e/lincoln/lincoln-stars-vs-sioux-city-musketeers-2026-11/
+URL:https://weekendscout.app/e/lincoln/lincoln-stars-vs-sioux-city-musketeers-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:lincoln-plack-blague-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART:20261128T020000Z
+DTEND:20261128T040000Z
+SUMMARY:Plack Blague
+LOCATION:Bourbon Theatre\, 1415 O St\, Lincoln\, NE 68508
+DESCRIPTION:Dark electronic on Friday night. Tickets. Details: https://wee
+ kendscout.app/e/lincoln/plack-blague-2026-11/
+URL:https://weekendscout.app/e/lincoln/plack-blague-2026-11/
+END:VEVENT
+END:VCALENDAR

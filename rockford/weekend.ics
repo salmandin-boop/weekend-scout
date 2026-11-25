@@ -1,0 +1,127 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Rockford
+X-WR-CALDESC:Hand-checked weekend picks in Rockford, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:rockford-rock-river-recreation-path-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Rock River Recreation Path
+LOCATION:Rock River Recreation Path\, Riverfront\, Rockford\, IL 61101
+DESCRIPTION:Miles of paved path along both banks of the Rock River. Free. 
+ Details: https://weekendscout.app/e/rockford/rock-river-recreation-path-20
+ 26-11/
+URL:https://weekendscout.app/e/rockford/rock-river-recreation-path-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:rockford-rock-river-recreation-path-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Rock River Recreation Path
+LOCATION:Rock River Recreation Path\, Riverfront\, Rockford\, IL 61101
+DESCRIPTION:Miles of paved path along both banks of the Rock River. Free. 
+ Details: https://weekendscout.app/e/rockford/rock-river-recreation-path-20
+ 26-11/
+URL:https://weekendscout.app/e/rockford/rock-river-recreation-path-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:rockford-rock-river-recreation-path-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Rock River Recreation Path
+LOCATION:Rock River Recreation Path\, Riverfront\, Rockford\, IL 61101
+DESCRIPTION:Miles of paved path along both banks of the Rock River. Free. 
+ Details: https://weekendscout.app/e/rockford/rock-river-recreation-path-20
+ 26-11/
+URL:https://weekendscout.app/e/rockford/rock-river-recreation-path-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:rockford-burpee-museum-of-natural-history-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Burpee Museum of Natural History
+LOCATION:Burpee Museum\, 737 N Main St\, Rockford\, IL 61103
+DESCRIPTION:Home of “Jane\,” a juvenile T. rex. Admission. Details: ht
+ tps://weekendscout.app/e/rockford/burpee-museum-of-natural-history-2026-11
+ /
+URL:https://weekendscout.app/e/rockford/burpee-museum-of-natural-history-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:rockford-burpee-museum-of-natural-history-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Burpee Museum of Natural History
+LOCATION:Burpee Museum\, 737 N Main St\, Rockford\, IL 61103
+DESCRIPTION:Home of “Jane\,” a juvenile T. rex. Admission. Details: ht
+ tps://weekendscout.app/e/rockford/burpee-museum-of-natural-history-2026-11
+ /
+URL:https://weekendscout.app/e/rockford/burpee-museum-of-natural-history-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:rockford-burpee-museum-of-natural-history-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Burpee Museum of Natural History
+LOCATION:Burpee Museum\, 737 N Main St\, Rockford\, IL 61103
+DESCRIPTION:Home of “Jane\,” a juvenile T. rex. Admission. Details: ht
+ tps://weekendscout.app/e/rockford/burpee-museum-of-natural-history-2026-11
+ /
+URL:https://weekendscout.app/e/rockford/burpee-museum-of-natural-history-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:rockford-rockford-art-museum-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Rockford Art Museum
+LOCATION:Rockford Art Museum\, 711 N Main St\, Rockford\, IL 61103
+DESCRIPTION:Modern and contemporary art in the Riverfront Museum Park. Fre
+ e (donations welcome). Details: https://weekendscout.app/e/rockford/rockfo
+ rd-art-museum-2026-11/
+URL:https://weekendscout.app/e/rockford/rockford-art-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:rockford-rockford-art-museum-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Rockford Art Museum
+LOCATION:Rockford Art Museum\, 711 N Main St\, Rockford\, IL 61103
+DESCRIPTION:Modern and contemporary art in the Riverfront Museum Park. Fre
+ e (donations welcome). Details: https://weekendscout.app/e/rockford/rockfo
+ rd-art-museum-2026-11/
+URL:https://weekendscout.app/e/rockford/rockford-art-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:rockford-rockford-art-museum-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Rockford Art Museum
+LOCATION:Rockford Art Museum\, 711 N Main St\, Rockford\, IL 61103
+DESCRIPTION:Modern and contemporary art in the Riverfront Museum Park. Fre
+ e (donations welcome). Details: https://weekendscout.app/e/rockford/rockfo
+ rd-art-museum-2026-11/
+URL:https://weekendscout.app/e/rockford/rockford-art-museum-2026-11/
+END:VEVENT
+END:VCALENDAR

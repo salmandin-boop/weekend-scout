@@ -1,0 +1,147 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Roanoke
+X-WR-CALDESC:Hand-checked weekend picks in Roanoke, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:roanoke-roanoke-star-mill-mountain-park-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Roanoke Star & Mill Mountain Park
+LOCATION:Mill Mountain Park\, 2000 J P Fishburn Pkwy SE\, Roanoke\, VA 240
+ 14
+DESCRIPTION:The giant lit star on Mill Mountain\, with a view over the cit
+ y. Free. Details: https://weekendscout.app/e/roanoke/roanoke-star-mill-mou
+ ntain-park-2026-11/
+URL:https://weekendscout.app/e/roanoke/roanoke-star-mill-mountain-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:roanoke-roanoke-star-mill-mountain-park-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Roanoke Star & Mill Mountain Park
+LOCATION:Mill Mountain Park\, 2000 J P Fishburn Pkwy SE\, Roanoke\, VA 240
+ 14
+DESCRIPTION:The giant lit star on Mill Mountain\, with a view over the cit
+ y. Free. Details: https://weekendscout.app/e/roanoke/roanoke-star-mill-mou
+ ntain-park-2026-11/
+URL:https://weekendscout.app/e/roanoke/roanoke-star-mill-mountain-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:roanoke-roanoke-star-mill-mountain-park-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Roanoke Star & Mill Mountain Park
+LOCATION:Mill Mountain Park\, 2000 J P Fishburn Pkwy SE\, Roanoke\, VA 240
+ 14
+DESCRIPTION:The giant lit star on Mill Mountain\, with a view over the cit
+ y. Free. Details: https://weekendscout.app/e/roanoke/roanoke-star-mill-mou
+ ntain-park-2026-11/
+URL:https://weekendscout.app/e/roanoke/roanoke-star-mill-mountain-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:roanoke-roanoke-city-market-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Roanoke City Market
+LOCATION:Historic City Market\, 32 Market Sq SE\, Roanoke\, VA 24011
+DESCRIPTION:One of Virginia’s oldest open-air markets\, plus the food ha
+ ll. Free to browse. Details: https://weekendscout.app/e/roanoke/roanoke-ci
+ ty-market-2026-11/
+URL:https://weekendscout.app/e/roanoke/roanoke-city-market-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:roanoke-roanoke-city-market-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Roanoke City Market
+LOCATION:Historic City Market\, 32 Market Sq SE\, Roanoke\, VA 24011
+DESCRIPTION:One of Virginia’s oldest open-air markets\, plus the food ha
+ ll. Free to browse. Details: https://weekendscout.app/e/roanoke/roanoke-ci
+ ty-market-2026-11/
+URL:https://weekendscout.app/e/roanoke/roanoke-city-market-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:roanoke-roanoke-city-market-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Roanoke City Market
+LOCATION:Historic City Market\, 32 Market Sq SE\, Roanoke\, VA 24011
+DESCRIPTION:One of Virginia’s oldest open-air markets\, plus the food ha
+ ll. Free to browse. Details: https://weekendscout.app/e/roanoke/roanoke-ci
+ ty-market-2026-11/
+URL:https://weekendscout.app/e/roanoke/roanoke-city-market-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:roanoke-the-wizard-of-oz-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261128T003000Z
+DTEND:20261128T023000Z
+SUMMARY:The Wizard of Oz
+LOCATION:Mill Mountain Theatre\, 1 Market Sq SE\, Roanoke\, VA 24011
+DESCRIPTION:The holiday musical\, four performances. Tickets. Details: htt
+ ps://weekendscout.app/e/roanoke/the-wizard-of-oz-2026-11/
+URL:https://weekendscout.app/e/roanoke/the-wizard-of-oz-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:roanoke-the-wizard-of-oz-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261128T190000Z
+DTEND:20261128T210000Z
+SUMMARY:The Wizard of Oz
+LOCATION:Mill Mountain Theatre\, 1 Market Sq SE\, Roanoke\, VA 24011
+DESCRIPTION:The holiday musical\, four performances. Tickets. Details: htt
+ ps://weekendscout.app/e/roanoke/the-wizard-of-oz-2026-11/
+URL:https://weekendscout.app/e/roanoke/the-wizard-of-oz-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:roanoke-the-wizard-of-oz-2026-11-sat-1@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261129T003000Z
+DTEND:20261129T023000Z
+SUMMARY:The Wizard of Oz
+LOCATION:Mill Mountain Theatre\, 1 Market Sq SE\, Roanoke\, VA 24011
+DESCRIPTION:The holiday musical\, four performances. Tickets. Details: htt
+ ps://weekendscout.app/e/roanoke/the-wizard-of-oz-2026-11/
+URL:https://weekendscout.app/e/roanoke/the-wizard-of-oz-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:roanoke-the-wizard-of-oz-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261129T190000Z
+DTEND:20261129T210000Z
+SUMMARY:The Wizard of Oz
+LOCATION:Mill Mountain Theatre\, 1 Market Sq SE\, Roanoke\, VA 24011
+DESCRIPTION:The holiday musical\, four performances. Tickets. Details: htt
+ ps://weekendscout.app/e/roanoke/the-wizard-of-oz-2026-11/
+URL:https://weekendscout.app/e/roanoke/the-wizard-of-oz-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:roanoke-roanoke-rail-yard-dawgs-vs-fayetteville-marksmen-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261128T000500Z
+DTEND:20261128T020500Z
+SUMMARY:Roanoke Rail Yard Dawgs vs. Fayetteville Marksmen
+LOCATION:Berglund Center\, 710 Williamson Rd NE\, Roanoke\, VA 24016
+DESCRIPTION:SPHL hockey on Friday night. Tickets. Details: https://weekend
+ scout.app/e/roanoke/roanoke-rail-yard-dawgs-vs-fayetteville-marksmen-2026-
+ 11/
+URL:https://weekendscout.app/e/roanoke/roanoke-rail-yard-dawgs-vs-fayetteville-marksmen-2026-11/
+END:VEVENT
+END:VCALENDAR

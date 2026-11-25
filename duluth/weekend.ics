@@ -1,0 +1,160 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Duluth
+X-WR-CALDESC:Hand-checked weekend picks in Duluth, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:duluth-bentleyville-tour-of-lights-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART:20261127T230000Z
+DTEND:20261128T030000Z
+SUMMARY:Bentleyville Tour of Lights
+LOCATION:Bayfront Festival Park\, 700 Railroad St\, Duluth\, MN 55802
+DESCRIPTION:A free walk-through light show with millions of lights\, Santa
+  and free cookies. Free. Details: https://weekendscout.app/e/duluth/bentle
+ yville-tour-of-lights-2026-11/
+URL:https://weekendscout.app/e/duluth/bentleyville-tour-of-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:duluth-bentleyville-tour-of-lights-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART:20261128T230000Z
+DTEND:20261129T040000Z
+SUMMARY:Bentleyville Tour of Lights
+LOCATION:Bayfront Festival Park\, 700 Railroad St\, Duluth\, MN 55802
+DESCRIPTION:A free walk-through light show with millions of lights\, Santa
+  and free cookies. Free. Details: https://weekendscout.app/e/duluth/bentle
+ yville-tour-of-lights-2026-11/
+URL:https://weekendscout.app/e/duluth/bentleyville-tour-of-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:duluth-bentleyville-tour-of-lights-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART:20261129T230000Z
+DTEND:20261130T030000Z
+SUMMARY:Bentleyville Tour of Lights
+LOCATION:Bayfront Festival Park\, 700 Railroad St\, Duluth\, MN 55802
+DESCRIPTION:A free walk-through light show with millions of lights\, Santa
+  and free cookies. Free. Details: https://weekendscout.app/e/duluth/bentle
+ yville-tour-of-lights-2026-11/
+URL:https://weekendscout.app/e/duluth/bentleyville-tour-of-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:duluth-canal-park-aerial-lift-bridge-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Canal Park & Aerial Lift Bridge
+LOCATION:Canal Park\, Canal Park Dr\, Duluth\, MN 55802
+DESCRIPTION:Watch freighters pass under the lift bridge from the Lake Supe
+ rior pier. Free. Details: https://weekendscout.app/e/duluth/canal-park-aer
+ ial-lift-bridge-2026-11/
+URL:https://weekendscout.app/e/duluth/canal-park-aerial-lift-bridge-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:duluth-canal-park-aerial-lift-bridge-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Canal Park & Aerial Lift Bridge
+LOCATION:Canal Park\, Canal Park Dr\, Duluth\, MN 55802
+DESCRIPTION:Watch freighters pass under the lift bridge from the Lake Supe
+ rior pier. Free. Details: https://weekendscout.app/e/duluth/canal-park-aer
+ ial-lift-bridge-2026-11/
+URL:https://weekendscout.app/e/duluth/canal-park-aerial-lift-bridge-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:duluth-canal-park-aerial-lift-bridge-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Canal Park & Aerial Lift Bridge
+LOCATION:Canal Park\, Canal Park Dr\, Duluth\, MN 55802
+DESCRIPTION:Watch freighters pass under the lift bridge from the Lake Supe
+ rior pier. Free. Details: https://weekendscout.app/e/duluth/canal-park-aer
+ ial-lift-bridge-2026-11/
+URL:https://weekendscout.app/e/duluth/canal-park-aerial-lift-bridge-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:duluth-great-lakes-aquarium-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Great Lakes Aquarium
+LOCATION:Great Lakes Aquarium\, 353 Harbor Dr\, Duluth\, MN 55802
+DESCRIPTION:Freshwater aquarium with river otters and sturgeon. Admission.
+  Details: https://weekendscout.app/e/duluth/great-lakes-aquarium-2026-11/
+URL:https://weekendscout.app/e/duluth/great-lakes-aquarium-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:duluth-great-lakes-aquarium-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Great Lakes Aquarium
+LOCATION:Great Lakes Aquarium\, 353 Harbor Dr\, Duluth\, MN 55802
+DESCRIPTION:Freshwater aquarium with river otters and sturgeon. Admission.
+  Details: https://weekendscout.app/e/duluth/great-lakes-aquarium-2026-11/
+URL:https://weekendscout.app/e/duluth/great-lakes-aquarium-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:duluth-great-lakes-aquarium-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Great Lakes Aquarium
+LOCATION:Great Lakes Aquarium\, 353 Harbor Dr\, Duluth\, MN 55802
+DESCRIPTION:Freshwater aquarium with river otters and sturgeon. Admission.
+  Details: https://weekendscout.app/e/duluth/great-lakes-aquarium-2026-11/
+URL:https://weekendscout.app/e/duluth/great-lakes-aquarium-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:duluth-glensheen-mansion-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Glensheen Mansion
+LOCATION:Glensheen\, 3300 London Rd\, Duluth\, MN 55804
+DESCRIPTION:A 39-room lakeside estate from 1908\, decorated for the holida
+ ys. Tickets. Details: https://weekendscout.app/e/duluth/glensheen-mansion-
+ 2026-11/
+URL:https://weekendscout.app/e/duluth/glensheen-mansion-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:duluth-glensheen-mansion-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Glensheen Mansion
+LOCATION:Glensheen\, 3300 London Rd\, Duluth\, MN 55804
+DESCRIPTION:A 39-room lakeside estate from 1908\, decorated for the holida
+ ys. Tickets. Details: https://weekendscout.app/e/duluth/glensheen-mansion-
+ 2026-11/
+URL:https://weekendscout.app/e/duluth/glensheen-mansion-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:duluth-glensheen-mansion-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Glensheen Mansion
+LOCATION:Glensheen\, 3300 London Rd\, Duluth\, MN 55804
+DESCRIPTION:A 39-room lakeside estate from 1908\, decorated for the holida
+ ys. Tickets. Details: https://weekendscout.app/e/duluth/glensheen-mansion-
+ 2026-11/
+URL:https://weekendscout.app/e/duluth/glensheen-mansion-2026-11/
+END:VEVENT
+END:VCALENDAR

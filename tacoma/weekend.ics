@@ -1,0 +1,165 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Tacoma
+X-WR-CALDESC:Hand-checked weekend picks in Tacoma, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:tacoma-point-defiance-park-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Point Defiance Park
+LOCATION:Point Defiance Park\, 5400 N Pearl St\, Tacoma\, WA 98407
+DESCRIPTION:A 760-acre park with old-growth forest and Puget Sound views. 
+ Free. Details: https://weekendscout.app/e/tacoma/point-defiance-park-2026-
+ 11/
+URL:https://weekendscout.app/e/tacoma/point-defiance-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:tacoma-point-defiance-park-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Point Defiance Park
+LOCATION:Point Defiance Park\, 5400 N Pearl St\, Tacoma\, WA 98407
+DESCRIPTION:A 760-acre park with old-growth forest and Puget Sound views. 
+ Free. Details: https://weekendscout.app/e/tacoma/point-defiance-park-2026-
+ 11/
+URL:https://weekendscout.app/e/tacoma/point-defiance-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:tacoma-point-defiance-park-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Point Defiance Park
+LOCATION:Point Defiance Park\, 5400 N Pearl St\, Tacoma\, WA 98407
+DESCRIPTION:A 760-acre park with old-growth forest and Puget Sound views. 
+ Free. Details: https://weekendscout.app/e/tacoma/point-defiance-park-2026-
+ 11/
+URL:https://weekendscout.app/e/tacoma/point-defiance-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:tacoma-chihuly-bridge-of-glass-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Chihuly Bridge of Glass
+LOCATION:Chihuly Bridge of Glass\, 1801 Dock St\, Tacoma\, WA 98402
+DESCRIPTION:A pedestrian bridge lined with Dale Chihuly glass\, by the Mus
+ eum of Glass. Free. Details: https://weekendscout.app/e/tacoma/chihuly-bri
+ dge-of-glass-2026-11/
+URL:https://weekendscout.app/e/tacoma/chihuly-bridge-of-glass-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:tacoma-chihuly-bridge-of-glass-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Chihuly Bridge of Glass
+LOCATION:Chihuly Bridge of Glass\, 1801 Dock St\, Tacoma\, WA 98402
+DESCRIPTION:A pedestrian bridge lined with Dale Chihuly glass\, by the Mus
+ eum of Glass. Free. Details: https://weekendscout.app/e/tacoma/chihuly-bri
+ dge-of-glass-2026-11/
+URL:https://weekendscout.app/e/tacoma/chihuly-bridge-of-glass-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:tacoma-chihuly-bridge-of-glass-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Chihuly Bridge of Glass
+LOCATION:Chihuly Bridge of Glass\, 1801 Dock St\, Tacoma\, WA 98402
+DESCRIPTION:A pedestrian bridge lined with Dale Chihuly glass\, by the Mus
+ eum of Glass. Free. Details: https://weekendscout.app/e/tacoma/chihuly-bri
+ dge-of-glass-2026-11/
+URL:https://weekendscout.app/e/tacoma/chihuly-bridge-of-glass-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:tacoma-gabriel-rutledge-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART:20261128T030000Z
+DTEND:20261128T050000Z
+SUMMARY:Gabriel Rutledge
+LOCATION:Tacoma Comedy Club\, 933 Market St\, Tacoma\, WA 98402
+DESCRIPTION:Stand-up all weekend. Tickets. Details: https://weekendscout.a
+ pp/e/tacoma/gabriel-rutledge-2026-11/
+URL:https://weekendscout.app/e/tacoma/gabriel-rutledge-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:tacoma-gabriel-rutledge-2026-11-fri-1@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART:20261128T054500Z
+DTEND:20261128T074500Z
+SUMMARY:Gabriel Rutledge
+LOCATION:Tacoma Comedy Club\, 933 Market St\, Tacoma\, WA 98402
+DESCRIPTION:Stand-up all weekend. Tickets. Details: https://weekendscout.a
+ pp/e/tacoma/gabriel-rutledge-2026-11/
+URL:https://weekendscout.app/e/tacoma/gabriel-rutledge-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:tacoma-gabriel-rutledge-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART:20261129T054500Z
+DTEND:20261129T074500Z
+SUMMARY:Gabriel Rutledge
+LOCATION:Tacoma Comedy Club\, 933 Market St\, Tacoma\, WA 98402
+DESCRIPTION:Stand-up all weekend. Tickets. Details: https://weekendscout.a
+ pp/e/tacoma/gabriel-rutledge-2026-11/
+URL:https://weekendscout.app/e/tacoma/gabriel-rutledge-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:tacoma-gabriel-rutledge-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART:20261130T030000Z
+DTEND:20261130T050000Z
+SUMMARY:Gabriel Rutledge
+LOCATION:Tacoma Comedy Club\, 933 Market St\, Tacoma\, WA 98402
+DESCRIPTION:Stand-up all weekend. Tickets. Details: https://weekendscout.a
+ pp/e/tacoma/gabriel-rutledge-2026-11/
+URL:https://weekendscout.app/e/tacoma/gabriel-rutledge-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:tacoma-tacoma-concert-band-sounds-of-the-season-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART:20261128T230000Z
+DTEND:20261129T010000Z
+SUMMARY:Tacoma Concert Band: Sounds of the Season
+LOCATION:Pantages Theater\, 901 Broadway\, Tacoma\, WA 98402
+DESCRIPTION:Holiday music in the 1918 theater. Tickets. Details: https://w
+ eekendscout.app/e/tacoma/tacoma-concert-band-sounds-of-the-season-2026-11/
+URL:https://weekendscout.app/e/tacoma/tacoma-concert-band-sounds-of-the-season-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:tacoma-90-s-rewind-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART:20261128T040000Z
+DTEND:20261128T060000Z
+SUMMARY:90’s Rewind
+LOCATION:McMenamins Elks Temple\, 565 Broadway\, Tacoma\, WA 98402
+DESCRIPTION:A ’90s dance party in the Spanish Ballroom. Tickets. Details
+ : https://weekendscout.app/e/tacoma/90-s-rewind-2026-11/
+URL:https://weekendscout.app/e/tacoma/90-s-rewind-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:tacoma-laughing-elksgiving-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART:20261130T030000Z
+DTEND:20261130T050000Z
+SUMMARY:Laughing Elksgiving
+LOCATION:McMenamins Elks Temple\, 565 Broadway\, Tacoma\, WA 98402
+DESCRIPTION:A post-Thanksgiving comedy night. Tickets. Details: https://we
+ ekendscout.app/e/tacoma/laughing-elksgiving-2026-11/
+URL:https://weekendscout.app/e/tacoma/laughing-elksgiving-2026-11/
+END:VEVENT
+END:VCALENDAR

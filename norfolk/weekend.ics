@@ -1,0 +1,82 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Norfolk
+X-WR-CALDESC:Hand-checked weekend picks in Norfolk, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:norfolk-chrysler-museum-of-art-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Chrysler Museum of Art
+LOCATION:Chrysler Museum of Art\, 1 Memorial Pl\, Norfolk\, VA 23510
+DESCRIPTION:Fifty centuries of art and a celebrated glass collection\; fre
+ e glass-blowing demos. Free admission. Details: https://weekendscout.app/e
+ /norfolk/chrysler-museum-of-art-2026-11/
+URL:https://weekendscout.app/e/norfolk/chrysler-museum-of-art-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:norfolk-chrysler-museum-of-art-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Chrysler Museum of Art
+LOCATION:Chrysler Museum of Art\, 1 Memorial Pl\, Norfolk\, VA 23510
+DESCRIPTION:Fifty centuries of art and a celebrated glass collection\; fre
+ e glass-blowing demos. Free admission. Details: https://weekendscout.app/e
+ /norfolk/chrysler-museum-of-art-2026-11/
+URL:https://weekendscout.app/e/norfolk/chrysler-museum-of-art-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:norfolk-norfolk-admirals-vs-greensboro-gargoyles-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261128T000500Z
+DTEND:20261128T020500Z
+SUMMARY:Norfolk Admirals vs. Greensboro Gargoyles
+LOCATION:Scope Arena\, 201 E Brambleton Ave\, Norfolk\, VA 23510
+DESCRIPTION:ECHL hockey on Friday and Saturday. Tickets. Details: https://
+ weekendscout.app/e/norfolk/norfolk-admirals-vs-greensboro-gargoyles-2026-1
+ 1/
+URL:https://weekendscout.app/e/norfolk/norfolk-admirals-vs-greensboro-gargoyles-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:norfolk-norfolk-admirals-vs-greensboro-gargoyles-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261129T000500Z
+DTEND:20261129T020500Z
+SUMMARY:Norfolk Admirals vs. Greensboro Gargoyles
+LOCATION:Scope Arena\, 201 E Brambleton Ave\, Norfolk\, VA 23510
+DESCRIPTION:ECHL hockey on Friday and Saturday. Tickets. Details: https://
+ weekendscout.app/e/norfolk/norfolk-admirals-vs-greensboro-gargoyles-2026-1
+ 1/
+URL:https://weekendscout.app/e/norfolk/norfolk-admirals-vs-greensboro-gargoyles-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:norfolk-old-dominion-vs-southern-miss-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261128T180000Z
+DTEND:20261128T200000Z
+SUMMARY:Old Dominion vs. Southern Miss
+LOCATION:S.B. Ballard Stadium\, 5115 Hampton Blvd\, Norfolk\, VA 23529
+DESCRIPTION:Monarchs football on Saturday afternoon. Tickets. Details: htt
+ ps://weekendscout.app/e/norfolk/old-dominion-vs-southern-miss-2026-11/
+URL:https://weekendscout.app/e/norfolk/old-dominion-vs-southern-miss-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:norfolk-lindsey-stirling-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261128T000000Z
+DTEND:20261128T020000Z
+SUMMARY:Lindsey Stirling
+LOCATION:Chartway Arena\, 4320 Hampton Blvd\, Norfolk\, VA 23529
+DESCRIPTION:The violinist’s holiday tour. Tickets. Details: https://week
+ endscout.app/e/norfolk/lindsey-stirling-2026-11/
+URL:https://weekendscout.app/e/norfolk/lindsey-stirling-2026-11/
+END:VEVENT
+END:VCALENDAR

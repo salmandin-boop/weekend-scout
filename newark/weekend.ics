@@ -1,0 +1,117 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Newark
+X-WR-CALDESC:Hand-checked weekend picks in Newark, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:newark-branch-brook-park-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Branch Brook Park
+LOCATION:Branch Brook Park\, Lake St & Park Ave\, Newark\, NJ 07104
+DESCRIPTION:Newark’s 360-acre county park with lakes\, paths and the cou
+ ntry’s largest cherry tree collection. Free. Details: https://weekendsco
+ ut.app/e/newark/branch-brook-park-2026-11/
+URL:https://weekendscout.app/e/newark/branch-brook-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:newark-branch-brook-park-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Branch Brook Park
+LOCATION:Branch Brook Park\, Lake St & Park Ave\, Newark\, NJ 07104
+DESCRIPTION:Newark’s 360-acre county park with lakes\, paths and the cou
+ ntry’s largest cherry tree collection. Free. Details: https://weekendsco
+ ut.app/e/newark/branch-brook-park-2026-11/
+URL:https://weekendscout.app/e/newark/branch-brook-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:newark-branch-brook-park-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Branch Brook Park
+LOCATION:Branch Brook Park\, Lake St & Park Ave\, Newark\, NJ 07104
+DESCRIPTION:Newark’s 360-acre county park with lakes\, paths and the cou
+ ntry’s largest cherry tree collection. Free. Details: https://weekendsco
+ ut.app/e/newark/branch-brook-park-2026-11/
+URL:https://weekendscout.app/e/newark/branch-brook-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:newark-new-jersey-devils-vs-calgary-flames-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261127T180000Z
+DTEND:20261127T200000Z
+SUMMARY:New Jersey Devils vs. Calgary Flames
+LOCATION:Prudential Center\, 25 Lafayette St\, Newark\, NJ 07102
+DESCRIPTION:An afternoon Devils game on Black Friday. Tickets. Details: ht
+ tps://weekendscout.app/e/newark/new-jersey-devils-vs-calgary-flames-2026-1
+ 1/
+URL:https://weekendscout.app/e/newark/new-jersey-devils-vs-calgary-flames-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:newark-new-jersey-devils-vs-winnipeg-jets-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:New Jersey Devils vs. Winnipeg Jets
+LOCATION:Prudential Center\, 25 Lafayette St\, Newark\, NJ 07102
+DESCRIPTION:Saturday-night NHL hockey downtown. Tickets. Details: https://
+ weekendscout.app/e/newark/new-jersey-devils-vs-winnipeg-jets-2026-11/
+URL:https://weekendscout.app/e/newark/new-jersey-devils-vs-winnipeg-jets-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:newark-seton-hall-vs-siena-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261128T170000Z
+DTEND:20261128T190000Z
+SUMMARY:Seton Hall vs. Siena
+LOCATION:Prudential Center\, 25 Lafayette St\, Newark\, NJ 07102
+DESCRIPTION:Pirates men’s basketball at noon. Tickets. Details: https://
+ weekendscout.app/e/newark/seton-hall-vs-siena-2026-11/
+URL:https://weekendscout.app/e/newark/seton-hall-vs-siena-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:newark-tarrus-riley-capleton-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261128T010000Z
+DTEND:20261128T030000Z
+SUMMARY:Tarrus Riley & Capleton
+LOCATION:NJPAC Prudential Hall\, 1 Center St\, Newark\, NJ 07102
+DESCRIPTION:Two reggae stars on one bill. Tickets. Details: https://weeken
+ dscout.app/e/newark/tarrus-riley-capleton-2026-11/
+URL:https://weekendscout.app/e/newark/tarrus-riley-capleton-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:newark-thanksgiving-comedy-fest-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:Thanksgiving Comedy Fest
+LOCATION:NJPAC Prudential Hall\, 1 Center St\, Newark\, NJ 07102
+DESCRIPTION:A holiday-weekend stand-up lineup. Tickets. Details: https://w
+ eekendscout.app/e/newark/thanksgiving-comedy-fest-2026-11/
+URL:https://weekendscout.app/e/newark/thanksgiving-comedy-fest-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:newark-rock-the-bells-ll-cool-j-lil-kim-method-man-redman-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261130T000000Z
+DTEND:20261130T020000Z
+SUMMARY:Rock the Bells: LL Cool J\, Lil’ Kim\, Method Man & Redman
+LOCATION:Prudential Center\, 25 Lafayette St\, Newark\, NJ 07102
+DESCRIPTION:Classic hip-hop headliners on Sunday night. Tickets. Details: 
+ https://weekendscout.app/e/newark/rock-the-bells-ll-cool-j-lil-kim-method-
+ man-redman-2026-11/
+URL:https://weekendscout.app/e/newark/rock-the-bells-ll-cool-j-lil-kim-method-man-redman-2026-11/
+END:VEVENT
+END:VCALENDAR

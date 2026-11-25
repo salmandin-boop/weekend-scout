@@ -1,0 +1,138 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Manchester
+X-WR-CALDESC:Hand-checked weekend picks in Manchester, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:manchester-arms-park-riverwalk-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Arms Park Riverwalk
+LOCATION:Arms Park\, 10 Arms St\, Manchester\, NH 03101
+DESCRIPTION:A riverside park along the Merrimack beside the old Amoskeag m
+ ill buildings. Free. Details: https://weekendscout.app/e/manchester/arms-p
+ ark-riverwalk-2026-11/
+URL:https://weekendscout.app/e/manchester/arms-park-riverwalk-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:manchester-arms-park-riverwalk-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Arms Park Riverwalk
+LOCATION:Arms Park\, 10 Arms St\, Manchester\, NH 03101
+DESCRIPTION:A riverside park along the Merrimack beside the old Amoskeag m
+ ill buildings. Free. Details: https://weekendscout.app/e/manchester/arms-p
+ ark-riverwalk-2026-11/
+URL:https://weekendscout.app/e/manchester/arms-park-riverwalk-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:manchester-arms-park-riverwalk-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Arms Park Riverwalk
+LOCATION:Arms Park\, 10 Arms St\, Manchester\, NH 03101
+DESCRIPTION:A riverside park along the Merrimack beside the old Amoskeag m
+ ill buildings. Free. Details: https://weekendscout.app/e/manchester/arms-p
+ ark-riverwalk-2026-11/
+URL:https://weekendscout.app/e/manchester/arms-park-riverwalk-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:manchester-trans-siberian-orchestra-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261127T193000Z
+DTEND:20261127T213000Z
+SUMMARY:Trans-Siberian Orchestra
+LOCATION:SNHU Arena\, 555 Elm St\, Manchester\, NH 03101
+DESCRIPTION:The rock-opera Christmas tour\, two shows. Tickets. Details: h
+ ttps://weekendscout.app/e/manchester/trans-siberian-orchestra-2026-11/
+URL:https://weekendscout.app/e/manchester/trans-siberian-orchestra-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:manchester-trans-siberian-orchestra-2026-11-fri-1@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261128T003000Z
+DTEND:20261128T023000Z
+SUMMARY:Trans-Siberian Orchestra
+LOCATION:SNHU Arena\, 555 Elm St\, Manchester\, NH 03101
+DESCRIPTION:The rock-opera Christmas tour\, two shows. Tickets. Details: h
+ ttps://weekendscout.app/e/manchester/trans-siberian-orchestra-2026-11/
+URL:https://weekendscout.app/e/manchester/trans-siberian-orchestra-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:manchester-a-christmas-carol-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261128T003000Z
+DTEND:20261128T023000Z
+SUMMARY:A Christmas Carol
+LOCATION:Palace Theatre\, 80 Hanover St\, Manchester\, NH 03101
+DESCRIPTION:The Palace’s holiday Dickens musical. Tickets. Details: http
+ s://weekendscout.app/e/manchester/a-christmas-carol-2026-11/
+URL:https://weekendscout.app/e/manchester/a-christmas-carol-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:manchester-a-christmas-carol-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261128T190000Z
+DTEND:20261128T210000Z
+SUMMARY:A Christmas Carol
+LOCATION:Palace Theatre\, 80 Hanover St\, Manchester\, NH 03101
+DESCRIPTION:The Palace’s holiday Dickens musical. Tickets. Details: http
+ s://weekendscout.app/e/manchester/a-christmas-carol-2026-11/
+URL:https://weekendscout.app/e/manchester/a-christmas-carol-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:manchester-a-christmas-carol-2026-11-sat-1@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261129T003000Z
+DTEND:20261129T023000Z
+SUMMARY:A Christmas Carol
+LOCATION:Palace Theatre\, 80 Hanover St\, Manchester\, NH 03101
+DESCRIPTION:The Palace’s holiday Dickens musical. Tickets. Details: http
+ s://weekendscout.app/e/manchester/a-christmas-carol-2026-11/
+URL:https://weekendscout.app/e/manchester/a-christmas-carol-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:manchester-a-christmas-carol-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261129T190000Z
+DTEND:20261129T210000Z
+SUMMARY:A Christmas Carol
+LOCATION:Palace Theatre\, 80 Hanover St\, Manchester\, NH 03101
+DESCRIPTION:The Palace’s holiday Dickens musical. Tickets. Details: http
+ s://weekendscout.app/e/manchester/a-christmas-carol-2026-11/
+URL:https://weekendscout.app/e/manchester/a-christmas-carol-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:manchester-the-nutcracker-methuen-ballet-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261128T193000Z
+DTEND:20261128T213000Z
+SUMMARY:The Nutcracker (Methuen Ballet)
+LOCATION:Dana Center at Saint Anselm College\, 100 Saint Anselm Dr\, Manch
+ ester\, NH 03102
+DESCRIPTION:A Saturday-afternoon Nutcracker. Tickets. Details: https://wee
+ kendscout.app/e/manchester/the-nutcracker-methuen-ballet-2026-11/
+URL:https://weekendscout.app/e/manchester/the-nutcracker-methuen-ballet-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:manchester-blues-brothers-next-generation-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261129T003000Z
+DTEND:20261129T023000Z
+SUMMARY:Blues Brothers Next Generation
+LOCATION:The Rex Theatre\, 23 Amherst St\, Manchester\, NH 03101
+DESCRIPTION:A Blues Brothers tribute revue. Tickets. Details: https://week
+ endscout.app/e/manchester/blues-brothers-next-generation-2026-11/
+URL:https://weekendscout.app/e/manchester/blues-brothers-next-generation-2026-11/
+END:VEVENT
+END:VCALENDAR

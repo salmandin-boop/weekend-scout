@@ -1,0 +1,140 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Naples
+X-WR-CALDESC:Hand-checked weekend picks in Naples, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:naples-naples-pier-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Naples Pier
+LOCATION:Naples Pier\, 25 12th Ave S\, Naples\, FL 34102
+DESCRIPTION:The 1\,000-foot pier on the Gulf\; dolphins and sunsets. Free.
+  Details: https://weekendscout.app/e/naples/naples-pier-2026-11/
+URL:https://weekendscout.app/e/naples/naples-pier-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:naples-naples-pier-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Naples Pier
+LOCATION:Naples Pier\, 25 12th Ave S\, Naples\, FL 34102
+DESCRIPTION:The 1\,000-foot pier on the Gulf\; dolphins and sunsets. Free.
+  Details: https://weekendscout.app/e/naples/naples-pier-2026-11/
+URL:https://weekendscout.app/e/naples/naples-pier-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:naples-naples-pier-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Naples Pier
+LOCATION:Naples Pier\, 25 12th Ave S\, Naples\, FL 34102
+DESCRIPTION:The 1\,000-foot pier on the Gulf\; dolphins and sunsets. Free.
+  Details: https://weekendscout.app/e/naples/naples-pier-2026-11/
+URL:https://weekendscout.app/e/naples/naples-pier-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:naples-third-street-south-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Third Street South
+LOCATION:Third Street South\, Third St S\, Naples\, FL 34102
+DESCRIPTION:Old Naples’ shopping and dining street\, lit for the holiday
+ s. Free to browse. Details: https://weekendscout.app/e/naples/third-street
+ -south-2026-11/
+URL:https://weekendscout.app/e/naples/third-street-south-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:naples-third-street-south-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Third Street South
+LOCATION:Third Street South\, Third St S\, Naples\, FL 34102
+DESCRIPTION:Old Naples’ shopping and dining street\, lit for the holiday
+ s. Free to browse. Details: https://weekendscout.app/e/naples/third-street
+ -south-2026-11/
+URL:https://weekendscout.app/e/naples/third-street-south-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:naples-third-street-south-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Third Street South
+LOCATION:Third Street South\, Third St S\, Naples\, FL 34102
+DESCRIPTION:Old Naples’ shopping and dining street\, lit for the holiday
+ s. Free to browse. Details: https://weekendscout.app/e/naples/third-street
+ -south-2026-11/
+URL:https://weekendscout.app/e/naples/third-street-south-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:naples-hamilton-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261128T003000Z
+DTEND:20261128T023000Z
+SUMMARY:Hamilton
+LOCATION:Artis—Naples\, 5833 Pelican Bay Blvd\, Naples\, FL 34108
+DESCRIPTION:The Broadway tour\, five shows this weekend. Tickets. Details:
+  https://weekendscout.app/e/naples/hamilton-2026-11/
+URL:https://weekendscout.app/e/naples/hamilton-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:naples-hamilton-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261128T183000Z
+DTEND:20261128T203000Z
+SUMMARY:Hamilton
+LOCATION:Artis—Naples\, 5833 Pelican Bay Blvd\, Naples\, FL 34108
+DESCRIPTION:The Broadway tour\, five shows this weekend. Tickets. Details:
+  https://weekendscout.app/e/naples/hamilton-2026-11/
+URL:https://weekendscout.app/e/naples/hamilton-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:naples-hamilton-2026-11-sat-1@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261129T003000Z
+DTEND:20261129T023000Z
+SUMMARY:Hamilton
+LOCATION:Artis—Naples\, 5833 Pelican Bay Blvd\, Naples\, FL 34108
+DESCRIPTION:The Broadway tour\, five shows this weekend. Tickets. Details:
+  https://weekendscout.app/e/naples/hamilton-2026-11/
+URL:https://weekendscout.app/e/naples/hamilton-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:naples-hamilton-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261129T183000Z
+DTEND:20261129T203000Z
+SUMMARY:Hamilton
+LOCATION:Artis—Naples\, 5833 Pelican Bay Blvd\, Naples\, FL 34108
+DESCRIPTION:The Broadway tour\, five shows this weekend. Tickets. Details:
+  https://weekendscout.app/e/naples/hamilton-2026-11/
+URL:https://weekendscout.app/e/naples/hamilton-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:naples-hamilton-2026-11-sun-1@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261130T003000Z
+DTEND:20261130T023000Z
+SUMMARY:Hamilton
+LOCATION:Artis—Naples\, 5833 Pelican Bay Blvd\, Naples\, FL 34108
+DESCRIPTION:The Broadway tour\, five shows this weekend. Tickets. Details:
+  https://weekendscout.app/e/naples/hamilton-2026-11/
+URL:https://weekendscout.app/e/naples/hamilton-2026-11/
+END:VEVENT
+END:VCALENDAR

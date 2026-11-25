@@ -1,0 +1,130 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Davenport
+X-WR-CALDESC:Hand-checked weekend picks in Davenport, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:davenport-davenport-riverfront-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Davenport Riverfront
+LOCATION:LeClaire Park\, 400 Beiderbecke Dr\, Davenport\, IA 52801
+DESCRIPTION:A path along the Mississippi past the Skybridge and the Centen
+ nial Bridge. Free. Details: https://weekendscout.app/e/davenport/davenport
+ -riverfront-2026-11/
+URL:https://weekendscout.app/e/davenport/davenport-riverfront-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:davenport-davenport-riverfront-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Davenport Riverfront
+LOCATION:LeClaire Park\, 400 Beiderbecke Dr\, Davenport\, IA 52801
+DESCRIPTION:A path along the Mississippi past the Skybridge and the Centen
+ nial Bridge. Free. Details: https://weekendscout.app/e/davenport/davenport
+ -riverfront-2026-11/
+URL:https://weekendscout.app/e/davenport/davenport-riverfront-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:davenport-davenport-riverfront-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Davenport Riverfront
+LOCATION:LeClaire Park\, 400 Beiderbecke Dr\, Davenport\, IA 52801
+DESCRIPTION:A path along the Mississippi past the Skybridge and the Centen
+ nial Bridge. Free. Details: https://weekendscout.app/e/davenport/davenport
+ -riverfront-2026-11/
+URL:https://weekendscout.app/e/davenport/davenport-riverfront-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:davenport-figge-art-museum-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Figge Art Museum
+LOCATION:Figge Art Museum\, 225 W 2nd St\, Davenport\, IA 52801
+DESCRIPTION:Regionalist and Haitian art in a glass box by the river. Admis
+ sion. Details: https://weekendscout.app/e/davenport/figge-art-museum-2026-
+ 11/
+URL:https://weekendscout.app/e/davenport/figge-art-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:davenport-figge-art-museum-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Figge Art Museum
+LOCATION:Figge Art Museum\, 225 W 2nd St\, Davenport\, IA 52801
+DESCRIPTION:Regionalist and Haitian art in a glass box by the river. Admis
+ sion. Details: https://weekendscout.app/e/davenport/figge-art-museum-2026-
+ 11/
+URL:https://weekendscout.app/e/davenport/figge-art-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:davenport-figge-art-museum-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Figge Art Museum
+LOCATION:Figge Art Museum\, 225 W 2nd St\, Davenport\, IA 52801
+DESCRIPTION:Regionalist and Haitian art in a glass box by the river. Admis
+ sion. Details: https://weekendscout.app/e/davenport/figge-art-museum-2026-
+ 11/
+URL:https://weekendscout.app/e/davenport/figge-art-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:davenport-quad-city-botanical-center-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Quad City Botanical Center
+LOCATION:Quad City Botanical Center\, 2525 4th Ave\, Rock Island\, IL 6120
+ 1
+DESCRIPTION:A tropical sun garden under glass\, with holiday decorations. 
+ Admission. Details: https://weekendscout.app/e/davenport/quad-city-botanic
+ al-center-2026-11/
+URL:https://weekendscout.app/e/davenport/quad-city-botanical-center-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:davenport-quad-city-botanical-center-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Quad City Botanical Center
+LOCATION:Quad City Botanical Center\, 2525 4th Ave\, Rock Island\, IL 6120
+ 1
+DESCRIPTION:A tropical sun garden under glass\, with holiday decorations. 
+ Admission. Details: https://weekendscout.app/e/davenport/quad-city-botanic
+ al-center-2026-11/
+URL:https://weekendscout.app/e/davenport/quad-city-botanical-center-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:davenport-quad-city-botanical-center-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Quad City Botanical Center
+LOCATION:Quad City Botanical Center\, 2525 4th Ave\, Rock Island\, IL 6120
+ 1
+DESCRIPTION:A tropical sun garden under glass\, with holiday decorations. 
+ Admission. Details: https://weekendscout.app/e/davenport/quad-city-botanic
+ al-center-2026-11/
+URL:https://weekendscout.app/e/davenport/quad-city-botanical-center-2026-11/
+END:VEVENT
+END:VCALENDAR

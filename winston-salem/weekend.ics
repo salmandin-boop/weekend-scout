@@ -1,0 +1,86 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Winston-Salem
+X-WR-CALDESC:Hand-checked weekend picks in Winston-Salem, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:winston-salem-old-salem-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Old Salem
+LOCATION:Old Salem\, 600 S Main St\, Winston-Salem\, NC 27101
+DESCRIPTION:A restored 1700s Moravian town\; walking the streets is free\,
+  the historic buildings are ticketed. Free to walk (tickets for buildings)
+ . Details: https://weekendscout.app/e/winston-salem/old-salem-2026-11/
+URL:https://weekendscout.app/e/winston-salem/old-salem-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:winston-salem-old-salem-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Old Salem
+LOCATION:Old Salem\, 600 S Main St\, Winston-Salem\, NC 27101
+DESCRIPTION:A restored 1700s Moravian town\; walking the streets is free\,
+  the historic buildings are ticketed. Free to walk (tickets for buildings)
+ . Details: https://weekendscout.app/e/winston-salem/old-salem-2026-11/
+URL:https://weekendscout.app/e/winston-salem/old-salem-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:winston-salem-old-salem-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Old Salem
+LOCATION:Old Salem\, 600 S Main St\, Winston-Salem\, NC 27101
+DESCRIPTION:A restored 1700s Moravian town\; walking the streets is free\,
+  the historic buildings are ticketed. Free to walk (tickets for buildings)
+ . Details: https://weekendscout.app/e/winston-salem/old-salem-2026-11/
+URL:https://weekendscout.app/e/winston-salem/old-salem-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:winston-salem-wake-forest-vs-duke-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261128T200000Z
+DTEND:20261128T220000Z
+SUMMARY:Wake Forest vs. Duke
+LOCATION:Allegacy Federal Credit Union Stadium\, 499 Deacon Blvd\, Winston
+ -Salem\, NC 27105
+DESCRIPTION:ACC football on Saturday afternoon. Tickets. Details: https://
+ weekendscout.app/e/winston-salem/wake-forest-vs-duke-2026-11/
+URL:https://weekendscout.app/e/winston-salem/wake-forest-vs-duke-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:winston-salem-twin-city-thunderbirds-vs-blue-ridge-bobcats-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261128T003500Z
+DTEND:20261128T023500Z
+SUMMARY:Twin City Thunderbirds vs. Blue Ridge Bobcats
+LOCATION:Winston-Salem Fairgrounds Arena\, 421 W 27th St\, Winston-Salem\,
+  NC 27105
+DESCRIPTION:FPHL hockey on Friday night. Tickets. Details: https://weekend
+ scout.app/e/winston-salem/twin-city-thunderbirds-vs-blue-ridge-bobcats-202
+ 6-11/
+URL:https://weekendscout.app/e/winston-salem/twin-city-thunderbirds-vs-blue-ridge-bobcats-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:winston-salem-silent-disco-dance-party-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:Silent Disco Dance Party
+LOCATION:The Ramkat\, 170 W 9th St\, Winston-Salem\, NC 27101
+DESCRIPTION:Three DJs\, wireless headphones\, you pick the channel. Ticket
+ s. Details: https://weekendscout.app/e/winston-salem/silent-disco-dance-pa
+ rty-2026-11/
+URL:https://weekendscout.app/e/winston-salem/silent-disco-dance-party-2026-11/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,128 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Waco
+X-WR-CALDESC:Hand-checked weekend picks in Waco, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:waco-magnolia-market-at-the-silos-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Magnolia Market at the Silos
+LOCATION:Magnolia Market\, 601 Webster Ave\, Waco\, TX 76706
+DESCRIPTION:Chip and Joanna Gaines’ shops\, bakery\, food trucks and law
+ n around two old silos. Free to browse. Details: https://weekendscout.app/
+ e/waco/magnolia-market-at-the-silos-2026-11/
+URL:https://weekendscout.app/e/waco/magnolia-market-at-the-silos-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:waco-magnolia-market-at-the-silos-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Magnolia Market at the Silos
+LOCATION:Magnolia Market\, 601 Webster Ave\, Waco\, TX 76706
+DESCRIPTION:Chip and Joanna Gaines’ shops\, bakery\, food trucks and law
+ n around two old silos. Free to browse. Details: https://weekendscout.app/
+ e/waco/magnolia-market-at-the-silos-2026-11/
+URL:https://weekendscout.app/e/waco/magnolia-market-at-the-silos-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:waco-waco-suspension-bridge-riverwalk-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Waco Suspension Bridge & Riverwalk
+LOCATION:Waco Suspension Bridge\, 101 N University Parks Dr\, Waco\, TX 76
+ 701
+DESCRIPTION:The 1870 pedestrian bridge over the Brazos and the riverwalk t
+ o Baylor. Free. Details: https://weekendscout.app/e/waco/waco-suspension-b
+ ridge-riverwalk-2026-11/
+URL:https://weekendscout.app/e/waco/waco-suspension-bridge-riverwalk-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:waco-waco-suspension-bridge-riverwalk-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Waco Suspension Bridge & Riverwalk
+LOCATION:Waco Suspension Bridge\, 101 N University Parks Dr\, Waco\, TX 76
+ 701
+DESCRIPTION:The 1870 pedestrian bridge over the Brazos and the riverwalk t
+ o Baylor. Free. Details: https://weekendscout.app/e/waco/waco-suspension-b
+ ridge-riverwalk-2026-11/
+URL:https://weekendscout.app/e/waco/waco-suspension-bridge-riverwalk-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:waco-waco-suspension-bridge-riverwalk-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Waco Suspension Bridge & Riverwalk
+LOCATION:Waco Suspension Bridge\, 101 N University Parks Dr\, Waco\, TX 76
+ 701
+DESCRIPTION:The 1870 pedestrian bridge over the Brazos and the riverwalk t
+ o Baylor. Free. Details: https://weekendscout.app/e/waco/waco-suspension-b
+ ridge-riverwalk-2026-11/
+URL:https://weekendscout.app/e/waco/waco-suspension-bridge-riverwalk-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:waco-cameron-park-zoo-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Cameron Park Zoo
+LOCATION:Cameron Park Zoo\, 1701 N 4th St\, Waco\, TX 76707
+DESCRIPTION:A walkable zoo with Komodo dragons\, giraffes and orangutans. 
+ Admission. Details: https://weekendscout.app/e/waco/cameron-park-zoo-2026-
+ 11/
+URL:https://weekendscout.app/e/waco/cameron-park-zoo-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:waco-cameron-park-zoo-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Cameron Park Zoo
+LOCATION:Cameron Park Zoo\, 1701 N 4th St\, Waco\, TX 76707
+DESCRIPTION:A walkable zoo with Komodo dragons\, giraffes and orangutans. 
+ Admission. Details: https://weekendscout.app/e/waco/cameron-park-zoo-2026-
+ 11/
+URL:https://weekendscout.app/e/waco/cameron-park-zoo-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:waco-cameron-park-zoo-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Cameron Park Zoo
+LOCATION:Cameron Park Zoo\, 1701 N 4th St\, Waco\, TX 76707
+DESCRIPTION:A walkable zoo with Komodo dragons\, giraffes and orangutans. 
+ Admission. Details: https://weekendscout.app/e/waco/cameron-park-zoo-2026-
+ 11/
+URL:https://weekendscout.app/e/waco/cameron-park-zoo-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:waco-reverend-horton-heat-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:Reverend Horton Heat
+LOCATION:The Backyard\, 511 S 8th St\, Waco\, TX 76706
+DESCRIPTION:Psychobilly from the Texas trio. Tickets. Details: https://wee
+ kendscout.app/e/waco/reverend-horton-heat-2026-11/
+URL:https://weekendscout.app/e/waco/reverend-horton-heat-2026-11/
+END:VEVENT
+END:VCALENDAR

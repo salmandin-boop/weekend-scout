@@ -1,0 +1,97 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Arlington
+X-WR-CALDESC:Hand-checked weekend picks in Arlington, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:arlington-river-legacy-park-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:River Legacy Park
+LOCATION:River Legacy Park\, 701 NW Green Oaks Blvd\, Arlington\, TX 76006
+DESCRIPTION:Wooded trails along the Trinity River and a nature center. Fre
+ e. Details: https://weekendscout.app/e/arlington/river-legacy-park-2026-11
+ /
+URL:https://weekendscout.app/e/arlington/river-legacy-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:arlington-river-legacy-park-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:River Legacy Park
+LOCATION:River Legacy Park\, 701 NW Green Oaks Blvd\, Arlington\, TX 76006
+DESCRIPTION:Wooded trails along the Trinity River and a nature center. Fre
+ e. Details: https://weekendscout.app/e/arlington/river-legacy-park-2026-11
+ /
+URL:https://weekendscout.app/e/arlington/river-legacy-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:arlington-river-legacy-park-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:River Legacy Park
+LOCATION:River Legacy Park\, 701 NW Green Oaks Blvd\, Arlington\, TX 76006
+DESCRIPTION:Wooded trails along the Trinity River and a nature center. Fre
+ e. Details: https://weekendscout.app/e/arlington/river-legacy-park-2026-11
+ /
+URL:https://weekendscout.app/e/arlington/river-legacy-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:arlington-at-t-stadium-tours-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:AT&T Stadium tours
+LOCATION:AT&T Stadium\, 1 AT&T Way\, Arlington\, TX 76011
+DESCRIPTION:Walk the field\, the locker rooms and the art collection of th
+ e Cowboys’ stadium. Tickets. Details: https://weekendscout.app/e/arlingt
+ on/at-t-stadium-tours-2026-11/
+URL:https://weekendscout.app/e/arlington/at-t-stadium-tours-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:arlington-at-t-stadium-tours-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:AT&T Stadium tours
+LOCATION:AT&T Stadium\, 1 AT&T Way\, Arlington\, TX 76011
+DESCRIPTION:Walk the field\, the locker rooms and the art collection of th
+ e Cowboys’ stadium. Tickets. Details: https://weekendscout.app/e/arlingt
+ on/at-t-stadium-tours-2026-11/
+URL:https://weekendscout.app/e/arlington/at-t-stadium-tours-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:arlington-leap-of-faith-the-nutcracker-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261128T193000Z
+DTEND:20261128T213000Z
+SUMMARY:Leap of Faith: The Nutcracker
+LOCATION:Arlington Music Hall\, 224 N Center St\, Arlington\, TX 76011
+DESCRIPTION:A local Nutcracker\, two shows. Tickets. Details: https://week
+ endscout.app/e/arlington/leap-of-faith-the-nutcracker-2026-11/
+URL:https://weekendscout.app/e/arlington/leap-of-faith-the-nutcracker-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:arlington-leap-of-faith-the-nutcracker-2026-11-sat-1@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:Leap of Faith: The Nutcracker
+LOCATION:Arlington Music Hall\, 224 N Center St\, Arlington\, TX 76011
+DESCRIPTION:A local Nutcracker\, two shows. Tickets. Details: https://week
+ endscout.app/e/arlington/leap-of-faith-the-nutcracker-2026-11/
+URL:https://weekendscout.app/e/arlington/leap-of-faith-the-nutcracker-2026-11/
+END:VEVENT
+END:VCALENDAR

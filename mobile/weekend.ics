@@ -1,0 +1,82 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Mobile
+X-WR-CALDESC:Hand-checked weekend picks in Mobile, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:mobile-cooper-riverside-park-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Cooper Riverside Park
+LOCATION:Cooper Riverside Park\, 101 S Water St\, Mobile\, AL 36602
+DESCRIPTION:Downtown’s park on the Mobile River\, near Dauphin Street’
+ s bars and restaurants. Free. Details: https://weekendscout.app/e/mobile/c
+ ooper-riverside-park-2026-11/
+URL:https://weekendscout.app/e/mobile/cooper-riverside-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:mobile-cooper-riverside-park-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Cooper Riverside Park
+LOCATION:Cooper Riverside Park\, 101 S Water St\, Mobile\, AL 36602
+DESCRIPTION:Downtown’s park on the Mobile River\, near Dauphin Street’
+ s bars and restaurants. Free. Details: https://weekendscout.app/e/mobile/c
+ ooper-riverside-park-2026-11/
+URL:https://weekendscout.app/e/mobile/cooper-riverside-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:mobile-cooper-riverside-park-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Cooper Riverside Park
+LOCATION:Cooper Riverside Park\, 101 S Water St\, Mobile\, AL 36602
+DESCRIPTION:Downtown’s park on the Mobile River\, near Dauphin Street’
+ s bars and restaurants. Free. Details: https://weekendscout.app/e/mobile/c
+ ooper-riverside-park-2026-11/
+URL:https://weekendscout.app/e/mobile/cooper-riverside-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:mobile-south-alabama-vs-appalachian-state-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261127T200000Z
+DTEND:20261127T220000Z
+SUMMARY:South Alabama vs. Appalachian State
+LOCATION:Hancock Whitney Stadium\, 1 Jaguar Dr\, Mobile\, AL 36688
+DESCRIPTION:Jaguars football on Black Friday. Tickets. Details: https://we
+ ekendscout.app/e/mobile/south-alabama-vs-appalachian-state-2026-11/
+URL:https://weekendscout.app/e/mobile/south-alabama-vs-appalachian-state-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:mobile-ryan-dyer-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261128T023000Z
+DTEND:20261128T043000Z
+SUMMARY:Ryan Dyer
+LOCATION:Soul Kitchen\, 219 Dauphin St\, Mobile\, AL 36602
+DESCRIPTION:Country-folk on Friday night. Tickets. Details: https://weeken
+ dscout.app/e/mobile/ryan-dyer-2026-11/
+URL:https://weekendscout.app/e/mobile/ryan-dyer-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:mobile-moneybagg-yo-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261129T020000Z
+DTEND:20261129T040000Z
+SUMMARY:Moneybagg Yo
+LOCATION:Saenger Theatre\, 6 S Joachim St\, Mobile\, AL 36602
+DESCRIPTION:The Memphis rapper on Saturday. Tickets. Details: https://week
+ endscout.app/e/mobile/moneybagg-yo-2026-11/
+URL:https://weekendscout.app/e/mobile/moneybagg-yo-2026-11/
+END:VEVENT
+END:VCALENDAR

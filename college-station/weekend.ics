@@ -1,0 +1,102 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · College Station
+X-WR-CALDESC:Hand-checked weekend picks in College Station, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:college-station-texas-a-m-vs-texas-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART:20261128T003000Z
+DTEND:20261128T023000Z
+SUMMARY:Texas A&M vs. Texas
+LOCATION:Kyle Field\, 161 Wellborn Rd\, College Station\, TX 77843
+DESCRIPTION:The Lone Star Showdown on Friday night. Tickets. Details: http
+ s://weekendscout.app/e/college-station/texas-a-m-vs-texas-2026-11/
+URL:https://weekendscout.app/e/college-station/texas-a-m-vs-texas-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:college-station-the-gardens-at-texas-a-m-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:The Gardens at Texas A&M
+LOCATION:The Gardens at Texas A&M\, 578 John Kimbrough Blvd\, College Stat
+ ion\, TX 77843
+DESCRIPTION:Twenty-seven acres of gardens\, trails and a play area on camp
+ us. Free. Details: https://weekendscout.app/e/college-station/the-gardens-
+ at-texas-a-m-2026-11/
+URL:https://weekendscout.app/e/college-station/the-gardens-at-texas-a-m-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:college-station-the-gardens-at-texas-a-m-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:The Gardens at Texas A&M
+LOCATION:The Gardens at Texas A&M\, 578 John Kimbrough Blvd\, College Stat
+ ion\, TX 77843
+DESCRIPTION:Twenty-seven acres of gardens\, trails and a play area on camp
+ us. Free. Details: https://weekendscout.app/e/college-station/the-gardens-
+ at-texas-a-m-2026-11/
+URL:https://weekendscout.app/e/college-station/the-gardens-at-texas-a-m-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:college-station-the-gardens-at-texas-a-m-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:The Gardens at Texas A&M
+LOCATION:The Gardens at Texas A&M\, 578 John Kimbrough Blvd\, College Stat
+ ion\, TX 77843
+DESCRIPTION:Twenty-seven acres of gardens\, trails and a play area on camp
+ us. Free. Details: https://weekendscout.app/e/college-station/the-gardens-
+ at-texas-a-m-2026-11/
+URL:https://weekendscout.app/e/college-station/the-gardens-at-texas-a-m-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:college-station-george-h-w-bush-presidential-library-and-museum-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:George H.W. Bush Presidential Library and Museum
+LOCATION:Bush Library\, 1000 George Bush Dr W\, College Station\, TX 77845
+DESCRIPTION:The 41st president’s museum\, with a piece of the Berlin Wal
+ l. Admission. Details: https://weekendscout.app/e/college-station/george-h
+ -w-bush-presidential-library-and-museum-2026-11/
+URL:https://weekendscout.app/e/college-station/george-h-w-bush-presidential-library-and-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:college-station-george-h-w-bush-presidential-library-and-museum-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:George H.W. Bush Presidential Library and Museum
+LOCATION:Bush Library\, 1000 George Bush Dr W\, College Station\, TX 77845
+DESCRIPTION:The 41st president’s museum\, with a piece of the Berlin Wal
+ l. Admission. Details: https://weekendscout.app/e/college-station/george-h
+ -w-bush-presidential-library-and-museum-2026-11/
+URL:https://weekendscout.app/e/college-station/george-h-w-bush-presidential-library-and-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:college-station-george-h-w-bush-presidential-library-and-museum-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155609Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:George H.W. Bush Presidential Library and Museum
+LOCATION:Bush Library\, 1000 George Bush Dr W\, College Station\, TX 77845
+DESCRIPTION:The 41st president’s museum\, with a piece of the Berlin Wal
+ l. Admission. Details: https://weekendscout.app/e/college-station/george-h
+ -w-bush-presidential-library-and-museum-2026-11/
+URL:https://weekendscout.app/e/college-station/george-h-w-bush-presidential-library-and-museum-2026-11/
+END:VEVENT
+END:VCALENDAR

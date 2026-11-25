@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weekend Scout//weekendscout.app//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekend Scout · Stamford
+X-WR-CALDESC:Hand-checked weekend picks in Stamford, updated every Wednesday
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:stamford-mill-river-park-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Mill River Park
+LOCATION:Mill River Park\, 1 Mill River St\, Stamford\, CT 06902
+DESCRIPTION:Downtown’s riverside park with a seasonal ice rink. Free. De
+ tails: https://weekendscout.app/e/stamford/mill-river-park-2026-11/
+URL:https://weekendscout.app/e/stamford/mill-river-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:stamford-mill-river-park-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Mill River Park
+LOCATION:Mill River Park\, 1 Mill River St\, Stamford\, CT 06902
+DESCRIPTION:Downtown’s riverside park with a seasonal ice rink. Free. De
+ tails: https://weekendscout.app/e/stamford/mill-river-park-2026-11/
+URL:https://weekendscout.app/e/stamford/mill-river-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:stamford-mill-river-park-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Mill River Park
+LOCATION:Mill River Park\, 1 Mill River St\, Stamford\, CT 06902
+DESCRIPTION:Downtown’s riverside park with a seasonal ice rink. Free. De
+ tails: https://weekendscout.app/e/stamford/mill-river-park-2026-11/
+URL:https://weekendscout.app/e/stamford/mill-river-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:stamford-a-christmas-carol-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART:20261128T003000Z
+DTEND:20261128T023000Z
+SUMMARY:A Christmas Carol
+LOCATION:Kweskin Theatre\, Kweskin Theatre\, Stamford\, CT 06903
+DESCRIPTION:A community production of Dickens. Tickets. Details: https://w
+ eekendscout.app/e/stamford/a-christmas-carol-2026-11/
+URL:https://weekendscout.app/e/stamford/a-christmas-carol-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:stamford-a-christmas-carol-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART:20261129T003000Z
+DTEND:20261129T023000Z
+SUMMARY:A Christmas Carol
+LOCATION:Kweskin Theatre\, Kweskin Theatre\, Stamford\, CT 06903
+DESCRIPTION:A community production of Dickens. Tickets. Details: https://w
+ eekendscout.app/e/stamford/a-christmas-carol-2026-11/
+URL:https://weekendscout.app/e/stamford/a-christmas-carol-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:stamford-jessica-lynn-s-a-very-merry-classic-christmas-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261125T155610Z
+DTSTART:20261130T000000Z
+DTEND:20261130T020000Z
+SUMMARY:Jessica Lynn’s A Very Merry Classic Christmas
+LOCATION:Palace Theatre\, 61 Atlantic St\, Stamford\, CT 06901
+DESCRIPTION:Country singer Jessica Lynn’s holiday show. Tickets. Details
+ : https://weekendscout.app/e/stamford/jessica-lynn-s-a-very-merry-classic-
+ christmas-2026-11/
+URL:https://weekendscout.app/e/stamford/jessica-lynn-s-a-very-merry-classic-christmas-2026-11/
+END:VEVENT
+END:VCALENDAR
