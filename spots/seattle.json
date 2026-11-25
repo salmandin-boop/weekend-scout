@@ -1,7 +1,7 @@
 {
  "city": "seattle",
- "updated": "2026-11-24",
- "source": "Dinner picks from The Infatuation's Seattle romantic-restaurants guide (updated Sep 2026) plus Le Pichet from Pike Place Market's vendor directory; drinks from The Infatuation's best-bars guide (Mar 2026) and Zig Zag Café's Visit Seattle listing and official site; lunch from Seattle Center and Pike Place Market pages; coordinates from Wikipedia and official Seattle Center/Pike Place Market pages (Nov 2026)",
+ "updated": "2026-11-25",
+ "source": "Dinner picks from The Infatuation's Seattle romantic-restaurants guide (updated Sep 2026) plus Le Pichet from Pike Place Market's vendor directory; drinks from The Infatuation's best-bars guide (Mar 2026) and Zig Zag Café's Visit Seattle listing and official site; lunch from Seattle Center and Pike Place Market pages; coordinates from Wikipedia and official Seattle Center/Pike Place Market pages (Nov 2026); Nov 25 additions: Kamonegi and RockCreek from The Infatuation's Fremont guide (Sep 2026), The Ballard Cut and Duke's Seafood Green Lake from OpenTable lists, Din Tai Fung from its official Bellevue page; coordinates from OpenTable, Wikipedia (Kamonegi) and dtf.com",
  "spots": [
   {
    "name": "Pike Place Market",
@@ -132,6 +132,46 @@
    "price": "Tickets",
    "blurb": "Seattle's zoo in Woodland Park, with WildLanterns after dark this season",
    "blurbEs": "El zoológico de Seattle en Woodland Park, con WildLanterns de noche esta temporada"
+  },
+  {
+   "name": "Kamonegi",
+   "kind": "dinner",
+   "cuisine": "Japanese soba",
+   "area": "Fremont",
+   "lat": 47.65408,
+   "lon": -122.34436
+  },
+  {
+   "name": "RockCreek Seafood & Spirits",
+   "kind": "dinner",
+   "cuisine": "Seafood",
+   "area": "Fremont",
+   "lat": 47.65949,
+   "lon": -122.34969
+  },
+  {
+   "name": "The Ballard Cut",
+   "kind": "drinks",
+   "cuisine": "Whiskey & cocktail bar",
+   "area": "Ballard",
+   "lat": 47.66852,
+   "lon": -122.38587
+  },
+  {
+   "name": "Duke's Seafood Green Lake",
+   "kind": "lunch",
+   "cuisine": "Seafood & chowder",
+   "area": "Green Lake",
+   "lat": 47.68609,
+   "lon": -122.3382
+  },
+  {
+   "name": "Din Tai Fung",
+   "kind": "lunch",
+   "cuisine": "Taiwanese dumplings",
+   "area": "Lincoln Square, Bellevue",
+   "lat": 47.61719,
+   "lon": -122.20059
   }
  ]
 }

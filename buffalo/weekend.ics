@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:buffalo-sabres-penguins-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261125T155609Z
+DTSTAMP:20261125T194628Z
 DTSTART:20261128T010000Z
 DTEND:20261128T030000Z
 SUMMARY:Sabres vs. Penguins
@@ -21,7 +21,7 @@ URL:https://weekendscout.app/e/buffalo/sabres-penguins-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:buffalo-ice-at-canalside-2026-fri-0@weekendscout.app
-DTSTAMP:20261125T155609Z
+DTSTAMP:20261125T194628Z
 DTSTART:20261127T180000Z
 DTEND:20261128T020000Z
 SUMMARY:Skating at Ice at Canalside
@@ -34,7 +34,7 @@ URL:https://weekendscout.app/e/buffalo/ice-at-canalside-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:buffalo-ice-at-canalside-2026-sat-0@weekendscout.app
-DTSTAMP:20261125T155609Z
+DTSTAMP:20261125T194628Z
 DTSTART:20261128T160000Z
 DTEND:20261129T020000Z
 SUMMARY:Skating at Ice at Canalside
@@ -47,7 +47,7 @@ URL:https://weekendscout.app/e/buffalo/ice-at-canalside-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:buffalo-ice-at-canalside-2026-sun-0@weekendscout.app
-DTSTAMP:20261125T155609Z
+DTSTAMP:20261125T194628Z
 DTSTART:20261129T160000Z
 DTEND:20261130T010000Z
 SUMMARY:Skating at Ice at Canalside
@@ -60,7 +60,7 @@ URL:https://weekendscout.app/e/buffalo/ice-at-canalside-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:buffalo-home-alone-bpo-2026-sat-0@weekendscout.app
-DTSTAMP:20261125T155609Z
+DTSTAMP:20261125T194628Z
 DTSTART:20261129T003000Z
 DTEND:20261129T023000Z
 SUMMARY:Home Alone in Concert
@@ -72,7 +72,7 @@ URL:https://weekendscout.app/e/buffalo/home-alone-bpo-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:buffalo-home-alone-bpo-2026-sun-0@weekendscout.app
-DTSTAMP:20261125T155609Z
+DTSTAMP:20261125T194628Z
 DTSTART:20261129T193000Z
 DTEND:20261129T213000Z
 SUMMARY:Home Alone in Concert
@@ -84,7 +84,7 @@ URL:https://weekendscout.app/e/buffalo/home-alone-bpo-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:buffalo-frozen-sheas-710-2026-sat-0@weekendscout.app
-DTSTAMP:20261125T155609Z
+DTSTAMP:20261125T194628Z
 DTSTART:20261128T193000Z
 DTEND:20261128T213000Z
 SUMMARY:Disney's Frozen
@@ -96,7 +96,7 @@ URL:https://weekendscout.app/e/buffalo/frozen-sheas-710-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:buffalo-frozen-sheas-710-2026-sat-1@weekendscout.app
-DTSTAMP:20261125T155609Z
+DTSTAMP:20261125T194628Z
 DTSTART:20261129T003000Z
 DTEND:20261129T023000Z
 SUMMARY:Disney's Frozen
@@ -108,7 +108,7 @@ URL:https://weekendscout.app/e/buffalo/frozen-sheas-710-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:buffalo-frozen-sheas-710-2026-sun-0@weekendscout.app
-DTSTAMP:20261125T155609Z
+DTSTAMP:20261125T194628Z
 DTSTART:20261129T190000Z
 DTEND:20261129T210000Z
 SUMMARY:Disney's Frozen
@@ -120,7 +120,7 @@ URL:https://weekendscout.app/e/buffalo/frozen-sheas-710-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:buffalo-bandits-swarm-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261125T155609Z
+DTSTAMP:20261125T194628Z
 DTSTART:20261129T000000Z
 DTEND:20261129T020000Z
 SUMMARY:Bandits vs. Georgia Swarm
@@ -132,7 +132,7 @@ URL:https://weekendscout.app/e/buffalo/bandits-swarm-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:buffalo-akg-holiday-sip-shop-2026-sat-0@weekendscout.app
-DTSTAMP:20261125T155609Z
+DTSTAMP:20261125T194628Z
 DTSTART:20261128T150000Z
 DTEND:20261128T220000Z
 SUMMARY:Holiday Sip & Shop
@@ -144,7 +144,7 @@ URL:https://weekendscout.app/e/buffalo/akg-holiday-sip-shop-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:buffalo-botanical-gardens-poinsettias-2026-fri-0@weekendscout.app
-DTSTAMP:20261125T155609Z
+DTSTAMP:20261125T194628Z
 DTSTART:20261127T150000Z
 DTEND:20261127T210000Z
 SUMMARY:Poinsettia Exhibit
@@ -157,7 +157,7 @@ URL:https://weekendscout.app/e/buffalo/botanical-gardens-poinsettias-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:buffalo-botanical-gardens-poinsettias-2026-sat-0@weekendscout.app
-DTSTAMP:20261125T155609Z
+DTSTAMP:20261125T194628Z
 DTSTART:20261128T150000Z
 DTEND:20261128T210000Z
 SUMMARY:Poinsettia Exhibit
@@ -170,7 +170,7 @@ URL:https://weekendscout.app/e/buffalo/botanical-gardens-poinsettias-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:buffalo-botanical-gardens-poinsettias-2026-sun-0@weekendscout.app
-DTSTAMP:20261125T155609Z
+DTSTAMP:20261125T194628Z
 DTSTART:20261129T150000Z
 DTEND:20261129T210000Z
 SUMMARY:Poinsettia Exhibit
@@ -183,7 +183,7 @@ URL:https://weekendscout.app/e/buffalo/botanical-gardens-poinsettias-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:buffalo-martin-house-candlelight-2026-fri-0@weekendscout.app
-DTSTAMP:20261125T155609Z
+DTSTAMP:20261125T194628Z
 DTSTART:20261127T211500Z
 DTEND:20261127T231500Z
 SUMMARY:Candlelight Tour at the Martin House
@@ -196,7 +196,7 @@ URL:https://weekendscout.app/e/buffalo/martin-house-candlelight-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:buffalo-light-up-lancaster-2026-fri-0@weekendscout.app
-DTSTAMP:20261125T155609Z
+DTSTAMP:20261125T194628Z
 DTSTART:20261127T220000Z
 DTEND:20261128T020000Z
 SUMMARY:Light Up Lancaster

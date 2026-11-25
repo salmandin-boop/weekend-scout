@@ -1,7 +1,7 @@
 {
  "city": "detroit",
- "updated": "2026-11-24",
- "source": "Picked from Visit Detroit (visitdetroit.com) directory listings, The Infatuation's Detroit date-night list and OpenTable's Detroit date-night list; coordinates from those listing pages (Nov 2026)",
+ "updated": "2026-11-25",
+ "source": "Picked from Visit Detroit (visitdetroit.com) directory listings, The Infatuation's Detroit date-night list and OpenTable's Detroit date-night list; coordinates from those listing pages (Nov 2026); Nov 25 additions: Selden Standard, D'Amato's, Alchemi and Johnny's Speakeasy from OpenTable listings (incl. its Royal Oak date-night list), Ale Mary's from Metro Parent's Royal Oak kids' dining guide; hours and coordinates from each OpenTable listing",
  "spots": [
   {
    "name": "Sexy Steak",
@@ -74,6 +74,46 @@
    "area": "Greektown",
    "lat": 42.33413,
    "lon": -83.04409
+  },
+  {
+   "name": "Selden Standard",
+   "kind": "dinner",
+   "cuisine": "Contemporary American",
+   "area": "Midtown",
+   "lat": 42.3478,
+   "lon": -83.06498
+  },
+  {
+   "name": "D'Amato's",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "Royal Oak",
+   "lat": 42.48777,
+   "lon": -83.14703
+  },
+  {
+   "name": "Alchemi",
+   "kind": "dinner",
+   "cuisine": "American",
+   "area": "Royal Oak",
+   "lat": 42.48852,
+   "lon": -83.14382
+  },
+  {
+   "name": "Johnny's Speakeasy",
+   "kind": "drinks",
+   "cuisine": "Cocktails",
+   "area": "Royal Oak",
+   "lat": 42.48852,
+   "lon": -83.14382
+  },
+  {
+   "name": "Ale Mary's Beer Hall",
+   "kind": "lunch",
+   "cuisine": "American beer hall (kids menu)",
+   "area": "Royal Oak",
+   "lat": 42.48757,
+   "lon": -83.14449
   },
   {
    "name": "Campus Martius Park",

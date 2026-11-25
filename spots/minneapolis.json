@@ -1,7 +1,7 @@
 {
  "city": "minneapolis",
- "updated": "2026-11-24",
- "source": "Dinner picks from Meet Minneapolis (minneapolis.org) romantic restaurants guide, lunch from its family-friendly guide and directory listing, wine bar from its wine bar guide with OpenTable listing coordinates; attractions from Wikipedia and walkerart.org (Nov 2026)",
+ "updated": "2026-11-25",
+ "source": "Dinner picks from Meet Minneapolis (minneapolis.org) romantic restaurants guide, lunch from its family-friendly guide and directory listing, wine bar from its wine bar guide with OpenTable listing coordinates; attractions from Wikipedia and walkerart.org (Nov 2026); Nov 25 additions: St. Paul Grill and Meritage from Visit Saint Paul's romantic restaurants guide, Cossetta's from its kid-friendly and West 7th guides, Parlour St. Paul from its West 7th guide (OpenTable listing), Rootstock Café from arb.umn.edu, Como Park Zoo & Conservatory from comozooconservatory.org; coordinates from OpenTable, Visit Saint Paul directory and Wikipedia (Cossetta Alimentari)",
  "spots": [
   {
    "name": "Bar La Grassa",
@@ -113,6 +113,57 @@
    "price": "Free",
    "blurb": "Riverfront park among the excavated ruins of old flour mills",
    "blurbEs": "Parque junto al río entre las ruinas excavadas de antiguos molinos de harina"
+  },
+  {
+   "name": "St. Paul Grill",
+   "kind": "dinner",
+   "cuisine": "Steakhouse",
+   "area": "Downtown St. Paul",
+   "lat": 44.94495,
+   "lon": -93.09582
+  },
+  {
+   "name": "Meritage",
+   "kind": "dinner",
+   "cuisine": "French brasserie & oyster bar",
+   "area": "Downtown St. Paul",
+   "lat": 44.94662,
+   "lon": -93.09676
+  },
+  {
+   "name": "Cossetta's Italian Market & Pizzeria",
+   "kind": "lunch",
+   "cuisine": "Italian & pizza",
+   "area": "West 7th, St. Paul",
+   "lat": 44.94361,
+   "lon": -93.10417
+  },
+  {
+   "name": "Rootstock Café",
+   "kind": "lunch",
+   "cuisine": "Midwestern comfort food",
+   "area": "Minnesota Landscape Arboretum, Chaska",
+   "lat": 44.86163,
+   "lon": -93.61518
+  },
+  {
+   "name": "Parlour St. Paul",
+   "kind": "drinks",
+   "cuisine": "Cocktails",
+   "area": "West 7th, St. Paul",
+   "lat": 44.94248,
+   "lon": -93.10581
+  },
+  {
+   "name": "Como Park Zoo & Conservatory",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Como Park, St. Paul",
+   "lat": 44.98197,
+   "lon": -93.15139,
+   "price": "Free",
+   "blurb": "Free zoo and glass-domed conservatory, open daily 10 am to 4 pm (conservatory closed Mondays)",
+   "blurbEs": "Zoológico y conservatorio con cúpula de vidrio gratis, abiertos a diario de 10 am a 4 pm (el conservatorio cierra los lunes)"
   }
  ]
 }

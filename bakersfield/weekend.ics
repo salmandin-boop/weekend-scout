@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:bakersfield-small-business-saturday-in-downtown-bakersfield-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261125T155609Z
+DTSTAMP:20261125T194629Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -23,7 +23,7 @@ URL:https://weekendscout.app/e/bakersfield/small-business-saturday-in-downtown-b
 END:VEVENT
 BEGIN:VEVENT
 UID:bakersfield-becky-robinson-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261125T155609Z
+DTSTAMP:20261125T194629Z
 DTSTART:20261128T040000Z
 DTEND:20261128T060000Z
 SUMMARY:Becky Robinson
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/bakersfield/becky-robinson-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:bakersfield-bakersfield-condors-vs-abbotsford-canucks-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261125T155609Z
+DTSTAMP:20261125T194629Z
 DTSTART:20261129T030000Z
 DTEND:20261129T050000Z
 SUMMARY:Bakersfield Condors vs. Abbotsford Canucks

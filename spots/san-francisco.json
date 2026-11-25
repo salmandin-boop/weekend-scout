@@ -1,7 +1,7 @@
 {
  "city": "san-francisco",
- "updated": "2026-11-24",
- "source": "Restaurants from the MICHELIN Guide San Francisco listings (open hours checked Nov 2026; Kokkari also on San Francisco Travel's romantic-restaurants list); always-spot coordinates from Wikipedia mirrors, latitude.to, aroundus and Waymarking",
+ "updated": "2026-11-25",
+ "source": "Restaurants from the MICHELIN Guide San Francisco listings (open hours checked Nov 2026; Kokkari also on San Francisco Travel's romantic-restaurants list); always-spot coordinates from Wikipedia mirrors, latitude.to, aroundus and Waymarking; Nov 25 additions: Lily and Wako from The Infatuation's Richmond guide (Oct 2026), The Alembic from The Infatuation's cocktail-bars guide (May 2026), Starlite and Local Edition from OpenTable's best-bars list; hours and coordinates from their OpenTable pages",
  "spots": [
   {
    "name": "Kokkari Estiatorio",
@@ -124,6 +124,46 @@
    "price": "Free",
    "blurb": "The city's shopping heart with a giant holiday tree in season",
    "blurbEs": "El corazón comercial de la ciudad, con un gran árbol navideño en temporada"
+  },
+  {
+   "name": "Lily",
+   "kind": "dinner",
+   "cuisine": "Vietnamese",
+   "area": "Inner Richmond",
+   "lat": 37.78285,
+   "lon": -122.4617
+  },
+  {
+   "name": "Wako",
+   "kind": "dinner",
+   "cuisine": "Japanese omakase",
+   "area": "Inner Richmond",
+   "lat": 37.78291,
+   "lon": -122.46155
+  },
+  {
+   "name": "The Alembic",
+   "kind": "drinks",
+   "cuisine": "Cocktail bar",
+   "area": "Haight-Ashbury",
+   "lat": 37.76931,
+   "lon": -122.45115
+  },
+  {
+   "name": "Starlite",
+   "kind": "drinks",
+   "cuisine": "Rooftop cocktail bar",
+   "area": "Union Square",
+   "lat": 37.78897,
+   "lon": -122.40841
+  },
+  {
+   "name": "Local Edition",
+   "kind": "drinks",
+   "cuisine": "Cocktail bar",
+   "area": "SoMa",
+   "lat": 37.78759,
+   "lon": -122.40319
   }
  ]
 }

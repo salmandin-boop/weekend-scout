@@ -1,7 +1,7 @@
 {
  "city": "miami",
- "updated": "2026-11-24",
- "source": "Landmark coordinates from Wikipedia; lunch pick from The Infatuation's MiMo guide (June 2026) with coordinates from latlong.net. No dinner or drinks picks yet: coordinates could not be verified this run (Nov 2026)",
+ "updated": "2026-11-25",
+ "source": "Landmark coordinates from Wikipedia; lunch pick from The Infatuation's MiMo guide (June 2026) with coordinates from latlong.net. No dinner or drinks picks yet: coordinates could not be verified this run (Nov 2026). Nov 25, 2026 additions: dinner, lunch and drinks picks from the 2026 MICHELIN Guide USA (stars, Bib Gourmands and listed restaurants; coordinates from each Michelin page's map), OpenTable's Best Restaurants in Miami Beach (June 2026), Miami & the Beaches' cocktail bar guide (Aug 2026) and Time Out Miami (South Beach bars, Mar 2026); Verde hours from pamm.org",
  "spots": [
   {
    "name": "Jimmy's East-Side Diner",
@@ -76,6 +76,94 @@
    "price": "Tickets",
    "blurb": "Family animal park on Watson Island, also home to the Luminosa light trail",
    "blurbEs": "Parque familiar de animales en Watson Island, sede del sendero de luces Luminosa"
+  },
+  {
+   "name": "Stubborn Seed",
+   "kind": "dinner",
+   "cuisine": "Contemporary American",
+   "area": "South of Fifth",
+   "lat": 25.77002,
+   "lon": -80.13505
+  },
+  {
+   "name": "Macchialina",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "South Beach",
+   "lat": 25.77851,
+   "lon": -80.14098
+  },
+  {
+   "name": "Joe's Stone Crab",
+   "kind": "dinner",
+   "cuisine": "Seafood",
+   "area": "South of Fifth",
+   "lat": 25.76911,
+   "lon": -80.13515
+  },
+  {
+   "name": "Elcielo Miami",
+   "kind": "dinner",
+   "cuisine": "Colombian",
+   "area": "Brickell",
+   "lat": 25.76952,
+   "lon": -80.19152
+  },
+  {
+   "name": "Tâm Tâm",
+   "kind": "dinner",
+   "cuisine": "Vietnamese",
+   "area": "Downtown",
+   "lat": 25.77514,
+   "lon": -80.19509
+  },
+  {
+   "name": "Lucali",
+   "kind": "lunch",
+   "cuisine": "Pizza",
+   "area": "Sunset Harbour",
+   "lat": 25.79485,
+   "lon": -80.14389
+  },
+  {
+   "name": "Verde at PAMM",
+   "kind": "lunch",
+   "cuisine": "American",
+   "area": "Museum Park",
+   "lat": 25.78589,
+   "lon": -80.18671
+  },
+  {
+   "name": "Chug's Diner",
+   "kind": "lunch",
+   "cuisine": "Cuban American diner",
+   "area": "Coconut Grove",
+   "lat": 25.72744,
+   "lon": -80.2432
+  },
+  {
+   "name": "The Bar at The Shelborne By Proper",
+   "kind": "drinks",
+   "cuisine": "Hotel lobby cocktail bar",
+   "area": "South Beach",
+   "lat": 25.79456,
+   "lon": -80.12836
+  },
+  {
+   "name": "ViceVersa",
+   "kind": "drinks",
+   "cuisine": "Italian aperitivo cocktail bar",
+   "area": "Downtown",
+   "lat": 25.77897,
+   "lon": -80.18906
+  },
+  {
+   "name": "Cafe La Trova",
+   "kind": "drinks",
+   "cuisine": "Cuban cocktail bar",
+   "area": "Little Havana",
+   "lat": 25.76621,
+   "lon": -80.21026
   }
  ]
 }

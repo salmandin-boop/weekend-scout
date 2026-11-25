@@ -1,7 +1,7 @@
 {
  "city": "boston",
- "updated": "2026-11-24",
- "source": "Dinner, lunch and drinks picks from the MICHELIN Guide Boston listings and hotel pages (Nov 2026) plus Union Oyster House; sights from Wikipedia; coordinates from those pages",
+ "updated": "2026-11-25",
+ "source": "Dinner, lunch and drinks picks from the MICHELIN Guide Boston listings and hotel pages (Nov 2026) plus Union Oyster House; sights from Wikipedia; coordinates from those pages; Stoneham/Melrose picks near Stone Zoo (Gaetano's, Giacomo's, The Stones Common House & Kitchen) from OpenTable listings (Nov 2026), coordinates from those listings",
  "spots": [
   {
    "name": "311 Omakase",
@@ -106,7 +106,7 @@
    "lon": -71.06556,
    "price": "Free",
    "blurb": "America's oldest public park and start of the Freedom Trail",
-   "blurbEs": "El parque p\u00fablico m\u00e1s antiguo del pa\u00eds e inicio del Freedom Trail"
+   "blurbEs": "El parque público más antiguo del país e inicio del Freedom Trail"
   },
   {
    "name": "New England Aquarium",
@@ -117,7 +117,7 @@
    "lon": -71.04944,
    "price": "Tickets",
    "blurb": "A giant ocean tank with sea turtles, plus penguins and seals",
-   "blurbEs": "Un enorme tanque oce\u00e1nico con tortugas marinas, ping\u00fcinos y focas"
+   "blurbEs": "Un enorme tanque oceánico con tortugas marinas, pingüinos y focas"
   },
   {
    "name": "Institute of Contemporary Art",
@@ -140,6 +140,30 @@
    "price": "Free",
    "blurb": "Grand 1895 library with murals and a quiet courtyard",
    "blurbEs": "Gran biblioteca de 1895 con murales y un patio tranquilo"
+  },
+  {
+   "name": "Gaetano's",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "Stoneham",
+   "lat": 42.48333,
+   "lon": -71.10041
+  },
+  {
+   "name": "Giacomo's Ristorante",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "Melrose",
+   "lat": 42.45428,
+   "lon": -71.06594
+  },
+  {
+   "name": "The Stones Common House & Kitchen",
+   "kind": "lunch",
+   "cuisine": "American",
+   "area": "Stoneham",
+   "lat": 42.47975,
+   "lon": -71.10009
   }
  ]
 }

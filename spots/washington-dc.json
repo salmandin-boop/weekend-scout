@@ -1,7 +1,7 @@
 {
  "city": "washington-dc",
- "updated": "2026-11-24",
- "source": "Picked from Destination DC (washington.org) holiday, Penn Quarter and drinks guides and their listings (Nov 2026); coordinates from those listings and Wikipedia",
+ "updated": "2026-11-25",
+ "source": "Picked from Destination DC (washington.org) holiday, Penn Quarter and drinks guides and their listings (Nov 2026); coordinates from those listings and Wikipedia; Woodley Park picks near the National Zoo (LiLLiES, Lebanese Taverna, Open City) from Destination DC's Woodley Park guide and OpenTable listings (Nov 2026), coordinates from OpenTable/Wanderlog listings",
  "spots": [
   {
    "name": "Jaleo",
@@ -132,6 +132,30 @@
    "price": "Free",
    "blurb": "Latin American market hall with food, music and gifts",
    "blurbEs": "Mercado latinoamericano con comida, música y regalos"
+  },
+  {
+   "name": "LiLLiES Italian",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "Woodley Park",
+   "lat": 38.92866,
+   "lon": -77.05415
+  },
+  {
+   "name": "Lebanese Taverna",
+   "kind": "dinner",
+   "cuisine": "Lebanese",
+   "area": "Woodley Park",
+   "lat": 38.92474,
+   "lon": -77.0518
+  },
+  {
+   "name": "Open City",
+   "kind": "lunch",
+   "cuisine": "American diner & pizza",
+   "area": "Woodley Park",
+   "lat": 38.92372,
+   "lon": -77.05237
   }
  ]
 }

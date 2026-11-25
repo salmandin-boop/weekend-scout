@@ -1,7 +1,7 @@
 {
  "city": "atlanta",
- "updated": "2026-11-24",
- "source": "Dinner, lunch and drinks picks from the MICHELIN Guide Atlanta listings (open hours and coordinates from each listing page), cross-checked with Discover Atlanta's date-night guide; always spots and coordinates from the Atlanta Botanical Garden's official site and Wikipedia",
+ "updated": "2026-11-25",
+ "source": "Dinner, lunch and drinks picks from the MICHELIN Guide Atlanta listings (open hours and coordinates from each listing page), cross-checked with Discover Atlanta's date-night guide; always spots and coordinates from the Atlanta Botanical Garden's official site and Wikipedia; Nov 25 additions: Bar Margot (Four Seasons official page + OpenTable listing for hours/coordinates) and Eataliano Kitchen (The Infatuation's Battery guide, Sept 2026; OpenTable listing for hours/coordinates)",
  "spots": [
   {
    "name": "Lazy Betty",
@@ -66,6 +66,22 @@
    "area": "Krog Street Market",
    "lat": 33.75692,
    "lon": -84.36389
+  },
+  {
+   "name": "Bar Margot",
+   "kind": "drinks",
+   "cuisine": "Cocktail bar",
+   "area": "Midtown",
+   "lat": 33.78607,
+   "lon": -84.38529
+  },
+  {
+   "name": "Eataliano Kitchen",
+   "kind": "lunch",
+   "cuisine": "Italian",
+   "area": "The Battery",
+   "lat": 33.88892,
+   "lon": -84.47031
   },
   {
    "name": "Atlanta Botanical Garden",

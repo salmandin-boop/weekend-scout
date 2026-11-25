@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:tulsa-rhema-christmas-lights-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261125T155609Z
+DTSTAMP:20261125T194629Z
 DTSTART:20261127T233000Z
 DTEND:20261128T053000Z
 SUMMARY:Rhema Christmas Lights
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/tulsa/rhema-christmas-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:tulsa-rhema-christmas-lights-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261125T155609Z
+DTSTAMP:20261125T194629Z
 DTSTART:20261128T233000Z
 DTEND:20261129T053000Z
 SUMMARY:Rhema Christmas Lights
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/tulsa/rhema-christmas-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:tulsa-rhema-christmas-lights-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261125T155609Z
+DTSTAMP:20261125T194629Z
 DTSTART:20261129T233000Z
 DTEND:20261130T053000Z
 SUMMARY:Rhema Christmas Lights
@@ -48,7 +48,7 @@ URL:https://weekendscout.app/e/tulsa/rhema-christmas-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:tulsa-the-phantom-of-the-opera-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261125T155609Z
+DTSTAMP:20261125T194629Z
 DTSTART:20261127T190000Z
 DTEND:20261127T210000Z
 SUMMARY:The Phantom of the Opera
@@ -60,7 +60,7 @@ URL:https://weekendscout.app/e/tulsa/the-phantom-of-the-opera-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:tulsa-the-phantom-of-the-opera-2026-11-fri-1@weekendscout.app
-DTSTAMP:20261125T155609Z
+DTSTAMP:20261125T194629Z
 DTSTART:20261128T013000Z
 DTEND:20261128T033000Z
 SUMMARY:The Phantom of the Opera
@@ -72,7 +72,7 @@ URL:https://weekendscout.app/e/tulsa/the-phantom-of-the-opera-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:tulsa-the-phantom-of-the-opera-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261125T155609Z
+DTSTAMP:20261125T194629Z
 DTSTART:20261128T200000Z
 DTEND:20261128T220000Z
 SUMMARY:The Phantom of the Opera
@@ -84,7 +84,7 @@ URL:https://weekendscout.app/e/tulsa/the-phantom-of-the-opera-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:tulsa-the-phantom-of-the-opera-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261125T155609Z
+DTSTAMP:20261125T194629Z
 DTSTART:20261129T013000Z
 DTEND:20261129T033000Z
 SUMMARY:The Phantom of the Opera
@@ -96,7 +96,7 @@ URL:https://weekendscout.app/e/tulsa/the-phantom-of-the-opera-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:tulsa-the-phantom-of-the-opera-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261125T155609Z
+DTSTAMP:20261125T194629Z
 DTSTART:20261129T190000Z
 DTEND:20261129T210000Z
 SUMMARY:The Phantom of the Opera
@@ -108,7 +108,7 @@ URL:https://weekendscout.app/e/tulsa/the-phantom-of-the-opera-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:tulsa-the-leftover-last-waltz-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261125T155609Z
+DTSTAMP:20261125T194629Z
 DTSTART:20261130T010000Z
 DTEND:20261130T030000Z
 SUMMARY:The Leftover Last Waltz

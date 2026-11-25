@@ -1,7 +1,7 @@
 {
  "city": "denver",
- "updated": "2026-11-24",
- "source": "Dinner picks from Visit Denver's romantic-restaurants guide; lunch and drinks from OpenTable Denver listings (kid-friendly list, Death & Co); coordinates from OpenTable listing pages, Waymarking and Wikipedia mirrors (Nov 2026)",
+ "updated": "2026-11-25",
+ "source": "Dinner picks from Visit Denver's romantic-restaurants guide; lunch and drinks from OpenTable Denver listings (kid-friendly list, Death & Co); coordinates from OpenTable listing pages, Waymarking and Wikipedia mirrors (Nov 2026); Nov 25 additions: Hop Alley (Michelin Bib Gourmand, via Visit Denver's Michelin page), Ace Eat Serve (OpenTable, kids' menu per Eater Denver) and B&GC (Visit Denver cocktail lounges), coordinates from their OpenTable listings",
  "spots": [
   {
    "name": "Rioja",
@@ -140,6 +140,30 @@
    "price": "Tickets",
    "blurb": "Family aquarium with a mermaid show and an on-site restaurant",
    "blurbEs": "Acuario familiar con show de sirenas y restaurante dentro"
+  },
+  {
+   "name": "Hop Alley",
+   "kind": "dinner",
+   "cuisine": "Contemporary Chinese",
+   "area": "RiNo",
+   "lat": 39.76699,
+   "lon": -104.97422
+  },
+  {
+   "name": "Ace Eat Serve",
+   "kind": "lunch",
+   "cuisine": "Pan-Asian",
+   "area": "Uptown",
+   "lat": 39.74355,
+   "lon": -104.98076
+  },
+  {
+   "name": "B&GC",
+   "kind": "drinks",
+   "cuisine": "Cocktails",
+   "area": "Cherry Creek",
+   "lat": 39.72032,
+   "lon": -104.95753
   }
  ]
 }
