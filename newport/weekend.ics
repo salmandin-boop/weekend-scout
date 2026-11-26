@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:newport-sparkling-lights-the-breakers-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261127T210000Z
 DTEND:20261128T010000Z
 SUMMARY:Sparkling Lights at The Breakers
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/newport/sparkling-lights-the-breakers-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:newport-sparkling-lights-the-breakers-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261128T210000Z
 DTEND:20261129T010000Z
 SUMMARY:Sparkling Lights at The Breakers
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/newport/sparkling-lights-the-breakers-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:newport-sparkling-lights-the-breakers-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261129T210000Z
 DTEND:20261130T010000Z
 SUMMARY:Sparkling Lights at The Breakers
@@ -48,7 +48,7 @@ URL:https://weekendscout.app/e/newport/sparkling-lights-the-breakers-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:newport-christmas-at-the-breakers-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261127T140000Z
 DTEND:20261127T200000Z
 SUMMARY:Christmas at The Breakers
@@ -61,7 +61,7 @@ URL:https://weekendscout.app/e/newport/christmas-at-the-breakers-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:newport-christmas-at-the-breakers-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261128T140000Z
 DTEND:20261128T200000Z
 SUMMARY:Christmas at The Breakers
@@ -74,7 +74,7 @@ URL:https://weekendscout.app/e/newport/christmas-at-the-breakers-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:newport-christmas-at-the-breakers-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261129T140000Z
 DTEND:20261129T200000Z
 SUMMARY:Christmas at The Breakers
@@ -87,7 +87,7 @@ URL:https://weekendscout.app/e/newport/christmas-at-the-breakers-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:newport-holidays-marble-house-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261127T140000Z
 DTEND:20261127T220000Z
 SUMMARY:Holidays at Marble House
@@ -99,7 +99,7 @@ URL:https://weekendscout.app/e/newport/holidays-marble-house-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:newport-holidays-marble-house-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261128T140000Z
 DTEND:20261128T220000Z
 SUMMARY:Holidays at Marble House
@@ -111,7 +111,7 @@ URL:https://weekendscout.app/e/newport/holidays-marble-house-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:newport-holidays-marble-house-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261129T140000Z
 DTEND:20261129T220000Z
 SUMMARY:Holidays at Marble House
@@ -123,7 +123,7 @@ URL:https://weekendscout.app/e/newport/holidays-marble-house-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:newport-newport-nutcracker-rosecliff-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -137,7 +137,7 @@ URL:https://weekendscout.app/e/newport/newport-nutcracker-rosecliff-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:newport-newport-nutcracker-rosecliff-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -151,7 +151,7 @@ URL:https://weekendscout.app/e/newport/newport-nutcracker-rosecliff-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:newport-newport-nutcracker-rosecliff-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -165,7 +165,7 @@ URL:https://weekendscout.app/e/newport/newport-nutcracker-rosecliff-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:newport-rough-point-holiday-after-dark-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261127T210000Z
 DTEND:20261127T223000Z
 SUMMARY:A Rough Point Holiday: After Dark
@@ -177,7 +177,7 @@ URL:https://weekendscout.app/e/newport/rough-point-holiday-after-dark-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:newport-rough-point-holiday-after-dark-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261128T210000Z
 DTEND:20261128T223000Z
 SUMMARY:A Rough Point Holiday: After Dark
@@ -189,7 +189,7 @@ URL:https://weekendscout.app/e/newport/rough-point-holiday-after-dark-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:newport-rough-point-holiday-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261127T150000Z
 DTEND:20261127T210000Z
 SUMMARY:A Rough Point Holiday
@@ -201,7 +201,7 @@ URL:https://weekendscout.app/e/newport/rough-point-holiday-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:newport-rough-point-holiday-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261128T150000Z
 DTEND:20261128T210000Z
 SUMMARY:A Rough Point Holiday
@@ -213,7 +213,7 @@ URL:https://weekendscout.app/e/newport/rough-point-holiday-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:newport-rough-point-holiday-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261129T150000Z
 DTEND:20261129T210000Z
 SUMMARY:A Rough Point Holiday
@@ -225,7 +225,7 @@ URL:https://weekendscout.app/e/newport/rough-point-holiday-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:newport-farce-day-of-christmas-newport-playhouse-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261128T003000Z
 DTEND:20261128T023000Z
 SUMMARY:On the Farce Day of Christmas
@@ -238,7 +238,7 @@ URL:https://weekendscout.app/e/newport/farce-day-of-christmas-newport-playhouse-
 END:VEVENT
 BEGIN:VEVENT
 UID:newport-farce-day-of-christmas-newport-playhouse-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261129T003000Z
 DTEND:20261129T023000Z
 SUMMARY:On the Farce Day of Christmas
@@ -251,7 +251,7 @@ URL:https://weekendscout.app/e/newport/farce-day-of-christmas-newport-playhouse-
 END:VEVENT
 BEGIN:VEVENT
 UID:newport-farce-day-of-christmas-newport-playhouse-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261129T190000Z
 DTEND:20261129T210000Z
 SUMMARY:On the Farce Day of Christmas
@@ -264,7 +264,7 @@ URL:https://weekendscout.app/e/newport/farce-day-of-christmas-newport-playhouse-
 END:VEVENT
 BEGIN:VEVENT
 UID:newport-bit-players-firehouse-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261128T010000Z
 DTEND:20261128T020000Z
 SUMMARY:The Bit Players Improv Comedy
@@ -276,7 +276,7 @@ URL:https://weekendscout.app/e/newport/bit-players-firehouse-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:newport-bit-players-firehouse-2026-11-fri-1@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261128T030000Z
 DTEND:20261128T040000Z
 SUMMARY:The Bit Players Improv Comedy
@@ -288,7 +288,7 @@ URL:https://weekendscout.app/e/newport/bit-players-firehouse-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:newport-bit-players-firehouse-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261129T010000Z
 DTEND:20261129T020000Z
 SUMMARY:The Bit Players Improv Comedy
@@ -300,7 +300,7 @@ URL:https://weekendscout.app/e/newport/bit-players-firehouse-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:newport-bit-players-firehouse-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261129T030000Z
 DTEND:20261129T040000Z
 SUMMARY:The Bit Players Improv Comedy
@@ -312,7 +312,7 @@ URL:https://weekendscout.app/e/newport/bit-players-firehouse-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:newport-fireside-fridays-newport-vineyards-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261127T210000Z
 DTEND:20261128T010000Z
 SUMMARY:Fireside Fridays with Live Music

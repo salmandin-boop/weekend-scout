@@ -384,6 +384,7 @@
   <url><loc>https://weekendscout.app/toledo/visiting/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/lexington/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/lexington/date-night/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://weekendscout.app/lexington/with-kids/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/lexington/visiting/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/jackson/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/jackson/date-night/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
@@ -546,6 +547,7 @@
   <url><loc>https://weekendscout.app/tallahassee/with-kids/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/tallahassee/visiting/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/gainesville/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://weekendscout.app/gainesville/date-night/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/gainesville/with-kids/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/gainesville/visiting/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/st-augustine/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
@@ -714,6 +716,8 @@
   <url><loc>https://weekendscout.app/fayetteville-ar/with-kids/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/fayetteville-ar/visiting/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/norman/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://weekendscout.app/norman/date-night/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://weekendscout.app/norman/with-kids/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/norman/visiting/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/fort-collins/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/fort-collins/free/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>

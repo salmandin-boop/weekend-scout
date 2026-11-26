@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:norfolk-chrysler-museum-of-art-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261127T170000Z
 DTEND:20261127T190000Z
 SUMMARY:Chrysler Museum of Art
@@ -21,7 +21,7 @@ URL:https://weekendscout.app/e/norfolk/chrysler-museum-of-art-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:norfolk-chrysler-museum-of-art-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261128T170000Z
 DTEND:20261128T190000Z
 SUMMARY:Chrysler Museum of Art
@@ -33,7 +33,7 @@ URL:https://weekendscout.app/e/norfolk/chrysler-museum-of-art-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:norfolk-chrysler-museum-of-art-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261129T170000Z
 DTEND:20261129T190000Z
 SUMMARY:Chrysler Museum of Art
@@ -45,7 +45,7 @@ URL:https://weekendscout.app/e/norfolk/chrysler-museum-of-art-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:norfolk-norfolk-admirals-vs-greensboro-gargoyles-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261128T000500Z
 DTEND:20261128T020500Z
 SUMMARY:Norfolk Admirals vs. Greensboro Gargoyles
@@ -57,7 +57,7 @@ URL:https://weekendscout.app/e/norfolk/norfolk-admirals-vs-greensboro-gargoyles-
 END:VEVENT
 BEGIN:VEVENT
 UID:norfolk-norfolk-admirals-vs-greensboro-gargoyles-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261129T000500Z
 DTEND:20261129T020500Z
 SUMMARY:Norfolk Admirals vs. Greensboro Gargoyles
@@ -69,7 +69,7 @@ URL:https://weekendscout.app/e/norfolk/norfolk-admirals-vs-greensboro-gargoyles-
 END:VEVENT
 BEGIN:VEVENT
 UID:norfolk-old-dominion-vs-southern-miss-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261128T180000Z
 DTEND:20261128T200000Z
 SUMMARY:Old Dominion vs. Southern Miss
@@ -80,7 +80,7 @@ URL:https://weekendscout.app/e/norfolk/old-dominion-vs-southern-miss-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:norfolk-lindsey-stirling-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261128T000000Z
 DTEND:20261128T020000Z
 SUMMARY:Lindsey Stirling
@@ -91,7 +91,7 @@ URL:https://weekendscout.app/e/norfolk/lindsey-stirling-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:norfolk-garden-of-lights-norfolk-2026-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261127T223000Z
 DTEND:20261128T013000Z
 SUMMARY:Dominion Energy Garden of Lights
@@ -104,7 +104,7 @@ URL:https://weekendscout.app/e/norfolk/garden-of-lights-norfolk-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:norfolk-garden-of-lights-norfolk-2026-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261128T223000Z
 DTEND:20261129T013000Z
 SUMMARY:Dominion Energy Garden of Lights
@@ -117,7 +117,7 @@ URL:https://weekendscout.app/e/norfolk/garden-of-lights-norfolk-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:norfolk-garden-of-lights-norfolk-2026-sun-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261129T223000Z
 DTEND:20261130T013000Z
 SUMMARY:Dominion Energy Garden of Lights
@@ -130,7 +130,7 @@ URL:https://weekendscout.app/e/norfolk/garden-of-lights-norfolk-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:norfolk-peters-pirate-fairy-festival-2026-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261127T140000Z
 DTEND:20261127T190000Z
 SUMMARY:Peter's Pirate and Fairy Festival
@@ -143,7 +143,7 @@ URL:https://weekendscout.app/e/norfolk/peters-pirate-fairy-festival-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:norfolk-winterfest-on-the-wisconsin-2026-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -156,7 +156,7 @@ URL:https://weekendscout.app/e/norfolk/winterfest-on-the-wisconsin-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:norfolk-winterfest-on-the-wisconsin-2026-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -169,7 +169,7 @@ URL:https://weekendscout.app/e/norfolk/winterfest-on-the-wisconsin-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:norfolk-winterfest-on-the-wisconsin-2026-sun-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -182,7 +182,7 @@ URL:https://weekendscout.app/e/norfolk/winterfest-on-the-wisconsin-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:norfolk-skate-the-riverwalk-2026-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -195,7 +195,7 @@ URL:https://weekendscout.app/e/norfolk/skate-the-riverwalk-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:norfolk-skate-the-riverwalk-2026-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -208,7 +208,7 @@ URL:https://weekendscout.app/e/norfolk/skate-the-riverwalk-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:norfolk-skate-the-riverwalk-2026-sun-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -221,7 +221,7 @@ URL:https://weekendscout.app/e/norfolk/skate-the-riverwalk-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:norfolk-emo-nite-norva-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261129T020000Z
 DTEND:20261129T040000Z
 SUMMARY:Emo Nite

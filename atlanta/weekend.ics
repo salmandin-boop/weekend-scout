@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:atlanta-rush-fifty-something-state-farm-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221845Z
 DTSTART:20261128T003000Z
 DTEND:20261128T023000Z
 SUMMARY:Rush: Fifty Something Tour
@@ -21,7 +21,7 @@ URL:https://weekendscout.app/e/atlanta/rush-fifty-something-state-farm/
 END:VEVENT
 BEGIN:VEVENT
 UID:atlanta-stray-cats-fox-theatre-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221845Z
 DTSTART:20261128T010000Z
 DTEND:20261128T030000Z
 SUMMARY:The Stray Cats
@@ -33,7 +33,7 @@ URL:https://weekendscout.app/e/atlanta/stray-cats-fox-theatre/
 END:VEVENT
 BEGIN:VEVENT
 UID:atlanta-elf-in-concert-aso-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221845Z
 DTSTART:20261129T000000Z
 DTEND:20261129T020000Z
 SUMMARY:Elf in Concert
@@ -45,7 +45,7 @@ URL:https://weekendscout.app/e/atlanta/elf-in-concert-aso/
 END:VEVENT
 BEGIN:VEVENT
 UID:atlanta-elf-in-concert-aso-sun-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221845Z
 DTSTART:20261129T200000Z
 DTEND:20261129T220000Z
 SUMMARY:Elf in Concert
@@ -57,7 +57,7 @@ URL:https://weekendscout.app/e/atlanta/elf-in-concert-aso/
 END:VEVENT
 BEGIN:VEVENT
 UID:atlanta-georgia-tech-alcorn-state-mbb-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221845Z
 DTSTART:20261128T180000Z
 DTEND:20261128T200000Z
 SUMMARY:Georgia Tech vs. Alcorn State (men's basketball)
@@ -69,7 +69,7 @@ URL:https://weekendscout.app/e/atlanta/georgia-tech-alcorn-state-mbb/
 END:VEVENT
 BEGIN:VEVENT
 UID:atlanta-battery-tree-lighting-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221845Z
 DTSTART:20261128T220000Z
 DTEND:20261129T010000Z
 SUMMARY:Tree Lighting at The Battery Atlanta
@@ -81,7 +81,7 @@ URL:https://weekendscout.app/e/atlanta/battery-tree-lighting/
 END:VEVENT
 BEGIN:VEVENT
 UID:atlanta-garden-lights-holiday-nights-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221845Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -96,7 +96,7 @@ URL:https://weekendscout.app/e/atlanta/garden-lights-holiday-nights/
 END:VEVENT
 BEGIN:VEVENT
 UID:atlanta-garden-lights-holiday-nights-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221845Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -111,7 +111,7 @@ URL:https://weekendscout.app/e/atlanta/garden-lights-holiday-nights/
 END:VEVENT
 BEGIN:VEVENT
 UID:atlanta-garden-lights-holiday-nights-sun-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221845Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -126,7 +126,7 @@ URL:https://weekendscout.app/e/atlanta/garden-lights-holiday-nights/
 END:VEVENT
 BEGIN:VEVENT
 UID:atlanta-alliance-christmas-carol-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221845Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -141,7 +141,7 @@ URL:https://weekendscout.app/e/atlanta/alliance-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:atlanta-alliance-christmas-carol-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221845Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -156,7 +156,7 @@ URL:https://weekendscout.app/e/atlanta/alliance-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:atlanta-alliance-christmas-carol-sun-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221845Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -171,7 +171,7 @@ URL:https://weekendscout.app/e/atlanta/alliance-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:atlanta-puppetry-rudolph-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221845Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -184,7 +184,7 @@ URL:https://weekendscout.app/e/atlanta/puppetry-rudolph/
 END:VEVENT
 BEGIN:VEVENT
 UID:atlanta-puppetry-rudolph-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221845Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -197,7 +197,7 @@ URL:https://weekendscout.app/e/atlanta/puppetry-rudolph/
 END:VEVENT
 BEGIN:VEVENT
 UID:atlanta-puppetry-rudolph-sun-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221845Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -210,7 +210,7 @@ URL:https://weekendscout.app/e/atlanta/puppetry-rudolph/
 END:VEVENT
 BEGIN:VEVENT
 UID:atlanta-piedmont-park-holiday-market-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221845Z
 DTSTART:20261128T150000Z
 DTEND:20261128T220000Z
 SUMMARY:Piedmont Park Handmade Holiday Market
@@ -222,7 +222,7 @@ URL:https://weekendscout.app/e/atlanta/piedmont-park-holiday-market/
 END:VEVENT
 BEGIN:VEVENT
 UID:atlanta-piedmont-park-holiday-market-sun-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221845Z
 DTSTART:20261129T160000Z
 DTEND:20261129T220000Z
 SUMMARY:Piedmont Park Handmade Holiday Market
@@ -234,7 +234,7 @@ URL:https://weekendscout.app/e/atlanta/piedmont-park-holiday-market/
 END:VEVENT
 BEGIN:VEVENT
 UID:atlanta-merry-mighty-mo-sun-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221845Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -247,7 +247,7 @@ URL:https://weekendscout.app/e/atlanta/merry-mighty-mo/
 END:VEVENT
 BEGIN:VEVENT
 UID:atlanta-decatur-santa-on-the-square-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221845Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT

@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:provo-byu-cougars-vs-cincinnati-bearcats-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261128T203000Z
 DTEND:20261128T223000Z
 SUMMARY:BYU Cougars vs. Cincinnati Bearcats
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/provo/byu-cougars-vs-cincinnati-bearcats-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:provo-byu-women-s-volleyball-vs-tcu-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261128T013000Z
 DTEND:20261128T033000Z
 SUMMARY:BYU women's volleyball vs. TCU
@@ -34,7 +34,7 @@ URL:https://weekendscout.app/e/provo/byu-women-s-volleyball-vs-tcu-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:provo-luminaria-thanksgiving-point-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261127T230000Z
 DTEND:20261128T043000Z
 SUMMARY:Luminaria
@@ -48,7 +48,7 @@ URL:https://weekendscout.app/e/provo/luminaria-thanksgiving-point-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:provo-luminaria-thanksgiving-point-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261128T230000Z
 DTEND:20261129T043000Z
 SUMMARY:Luminaria
@@ -62,7 +62,7 @@ URL:https://weekendscout.app/e/provo/luminaria-thanksgiving-point-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:provo-museum-of-natural-curiosity-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261127T160000Z
 DTEND:20261127T180000Z
 SUMMARY:Museum of Natural Curiosity
@@ -76,7 +76,7 @@ URL:https://weekendscout.app/e/provo/museum-of-natural-curiosity-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:provo-museum-of-natural-curiosity-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261128T160000Z
 DTEND:20261128T180000Z
 SUMMARY:Museum of Natural Curiosity
@@ -90,7 +90,7 @@ URL:https://weekendscout.app/e/provo/museum-of-natural-curiosity-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:provo-santas-grand-arrival-university-place-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261127T163000Z
 DTEND:20261127T183000Z
 SUMMARY:Santa's Grand Arrival
@@ -103,7 +103,7 @@ URL:https://weekendscout.app/e/provo/santas-grand-arrival-university-place-2026-
 END:VEVENT
 BEGIN:VEVENT
 UID:provo-bryan-callen-wiseguys-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261128T013000Z
 DTEND:20261128T033000Z
 SUMMARY:Bryan Callen
@@ -117,7 +117,7 @@ URL:https://weekendscout.app/e/provo/bryan-callen-wiseguys-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:provo-bryan-callen-wiseguys-2026-11-fri-1@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261128T040000Z
 DTEND:20261128T060000Z
 SUMMARY:Bryan Callen
@@ -131,7 +131,7 @@ URL:https://weekendscout.app/e/provo/bryan-callen-wiseguys-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:provo-bryan-callen-wiseguys-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261129T013000Z
 DTEND:20261129T033000Z
 SUMMARY:Bryan Callen
@@ -145,7 +145,7 @@ URL:https://weekendscout.app/e/provo/bryan-callen-wiseguys-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:provo-bryan-callen-wiseguys-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261129T040000Z
 DTEND:20261129T060000Z
 SUMMARY:Bryan Callen
@@ -156,5 +156,31 @@ DESCRIPTION:The actor and stand-up comedian plays four shows in The Showro
  hes the card used to buy the tickets. Tickets. Details: https://weekendsco
  ut.app/e/provo/bryan-callen-wiseguys-2026-11/
 URL:https://weekendscout.app/e/provo/bryan-callen-wiseguys-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:provo-monte-l-bean-museum-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T221846Z
+DTSTART:20261127T170000Z
+DTEND:20261128T040000Z
+SUMMARY:Monte L. Bean Life Science Museum
+LOCATION:Monte L. Bean Life Science Museum\, 645 E 1430 N\, Provo\, UT 846
+ 02
+DESCRIPTION:BYU's free natural history museum with animal exhibits\; close
+ d Sundays. Free. Details: https://weekendscout.app/e/provo/monte-l-bean-mu
+ seum-2026-11/
+URL:https://weekendscout.app/e/provo/monte-l-bean-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:provo-monte-l-bean-museum-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T221846Z
+DTSTART:20261128T170000Z
+DTEND:20261129T000000Z
+SUMMARY:Monte L. Bean Life Science Museum
+LOCATION:Monte L. Bean Life Science Museum\, 645 E 1430 N\, Provo\, UT 846
+ 02
+DESCRIPTION:BYU's free natural history museum with animal exhibits\; close
+ d Sundays. Free. Details: https://weekendscout.app/e/provo/monte-l-bean-mu
+ seum-2026-11/
+URL:https://weekendscout.app/e/provo/monte-l-bean-museum-2026-11/
 END:VEVENT
 END:VCALENDAR

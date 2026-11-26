@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:galveston-moody-gardens-holiday-lights-trail-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261127T233000Z
 DTEND:20261128T040000Z
 SUMMARY:Holiday Lights Trail at Holiday in the Gardens
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/galveston/moody-gardens-holiday-lights-trail-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:galveston-moody-gardens-holiday-lights-trail-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261128T233000Z
 DTEND:20261129T040000Z
 SUMMARY:Holiday Lights Trail at Holiday in the Gardens
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/galveston/moody-gardens-holiday-lights-trail-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:galveston-moody-gardens-holiday-lights-trail-2026-11-27-sun-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261129T233000Z
 DTEND:20261130T030000Z
 SUMMARY:Holiday Lights Trail at Holiday in the Gardens
@@ -48,7 +48,7 @@ URL:https://weekendscout.app/e/galveston/moody-gardens-holiday-lights-trail-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:galveston-moody-gardens-ice-land-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261127T180000Z
 DTEND:20261128T040000Z
 SUMMARY:ICE LAND: Caribbean Christmas
@@ -61,7 +61,7 @@ URL:https://weekendscout.app/e/galveston/moody-gardens-ice-land-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:galveston-moody-gardens-ice-land-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261128T180000Z
 DTEND:20261129T040000Z
 SUMMARY:ICE LAND: Caribbean Christmas
@@ -74,7 +74,7 @@ URL:https://weekendscout.app/e/galveston/moody-gardens-ice-land-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:galveston-moody-gardens-ice-land-2026-11-27-sun-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261129T180000Z
 DTEND:20261130T030000Z
 SUMMARY:ICE LAND: Caribbean Christmas
@@ -87,7 +87,7 @@ URL:https://weekendscout.app/e/galveston/moody-gardens-ice-land-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:galveston-nutcracker-market-moody-gardens-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261127T200000Z
 DTEND:20261128T010000Z
 SUMMARY:5th Annual Nutcracker Market
@@ -100,7 +100,7 @@ URL:https://weekendscout.app/e/galveston/nutcracker-market-moody-gardens-2026-11
 END:VEVENT
 BEGIN:VEVENT
 UID:galveston-nutcracker-market-moody-gardens-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261128T150000Z
 DTEND:20261128T220000Z
 SUMMARY:5th Annual Nutcracker Market
@@ -113,7 +113,7 @@ URL:https://weekendscout.app/e/galveston/nutcracker-market-moody-gardens-2026-11
 END:VEVENT
 BEGIN:VEVENT
 UID:galveston-galveston-tree-lighting-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261128T230000Z
 DTEND:20261129T020000Z
 SUMMARY:Official City of Galveston Tree Lighting
@@ -126,7 +126,7 @@ URL:https://weekendscout.app/e/galveston/galveston-tree-lighting-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:galveston-walt-wilkins-old-quarter-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261128T023000Z
 DTEND:20261128T043000Z
 SUMMARY:Walt Wilkins with Austin Mayse
@@ -138,7 +138,7 @@ URL:https://weekendscout.app/e/galveston/walt-wilkins-old-quarter-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:galveston-kc-sunshine-band-grand-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261129T020000Z
 DTEND:20261129T040000Z
 SUMMARY:KC & The Sunshine Band
@@ -152,7 +152,7 @@ URL:https://weekendscout.app/e/galveston/kc-sunshine-band-grand-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:galveston-galveston-seawall-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -165,7 +165,7 @@ URL:https://weekendscout.app/e/galveston/galveston-seawall-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:galveston-galveston-seawall-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -178,7 +178,7 @@ URL:https://weekendscout.app/e/galveston/galveston-seawall-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:galveston-galveston-seawall-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -191,7 +191,7 @@ URL:https://weekendscout.app/e/galveston/galveston-seawall-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:galveston-the-strand-historic-district-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -204,7 +204,7 @@ URL:https://weekendscout.app/e/galveston/the-strand-historic-district-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:galveston-the-strand-historic-district-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -217,7 +217,7 @@ URL:https://weekendscout.app/e/galveston/the-strand-historic-district-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:galveston-the-strand-historic-district-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT

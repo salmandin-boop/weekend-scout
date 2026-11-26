@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:bozeman-small-business-saturday-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -24,7 +24,7 @@ URL:https://weekendscout.app/e/bozeman/small-business-saturday-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:bozeman-gvfm-holiday-edition-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261128T160000Z
 DTEND:20261128T220000Z
 SUMMARY:Gallatin Valley Farmers' Market: Holiday Edition
@@ -38,7 +38,7 @@ URL:https://weekendscout.app/e/bozeman/gvfm-holiday-edition-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:bozeman-belgrade-holiday-light-park-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -52,7 +52,7 @@ URL:https://weekendscout.app/e/bozeman/belgrade-holiday-light-park-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:bozeman-belgrade-holiday-light-park-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -66,7 +66,7 @@ URL:https://weekendscout.app/e/bozeman/belgrade-holiday-light-park-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:bozeman-belgrade-holiday-light-park-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -80,7 +80,7 @@ URL:https://weekendscout.app/e/bozeman/belgrade-holiday-light-park-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:bozeman-museum-of-the-rockies-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261127T160000Z
 DTEND:20261128T000000Z
 SUMMARY:Museum of the Rockies
@@ -93,7 +93,7 @@ URL:https://weekendscout.app/e/bozeman/museum-of-the-rockies-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:bozeman-museum-of-the-rockies-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261128T160000Z
 DTEND:20261129T000000Z
 SUMMARY:Museum of the Rockies
@@ -106,7 +106,7 @@ URL:https://weekendscout.app/e/bozeman/museum-of-the-rockies-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:bozeman-museum-of-the-rockies-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261129T160000Z
 DTEND:20261130T000000Z
 SUMMARY:Museum of the Rockies

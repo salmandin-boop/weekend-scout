@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:springfield-il-springfield-jr-blues-vs-janesville-jets-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261128T010500Z
 DTEND:20261128T030500Z
 SUMMARY:Springfield Jr. Blues vs. Janesville Jets
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/springfield-il/springfield-jr-blues-vs-janesville
 END:VEVENT
 BEGIN:VEVENT
 UID:springfield-il-springfield-jr-blues-vs-janesville-jets-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261129T000500Z
 DTEND:20261129T020500Z
 SUMMARY:Springfield Jr. Blues vs. Janesville Jets
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/springfield-il/springfield-jr-blues-vs-janesville
 END:VEVENT
 BEGIN:VEVENT
 UID:springfield-il-old-capitol-holiday-walks-tree-lighting-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -50,7 +50,7 @@ URL:https://weekendscout.app/e/springfield-il/old-capitol-holiday-walks-tree-lig
 END:VEVENT
 BEGIN:VEVENT
 UID:springfield-il-zoo-lights-henson-robinson-zoo-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261127T230000Z
 DTEND:20261128T030000Z
 SUMMARY:Zoo Lights at the Henson Robinson Zoo
@@ -64,7 +64,7 @@ URL:https://weekendscout.app/e/springfield-il/zoo-lights-henson-robinson-zoo-202
 END:VEVENT
 BEGIN:VEVENT
 UID:springfield-il-zoo-lights-henson-robinson-zoo-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261128T230000Z
 DTEND:20261129T030000Z
 SUMMARY:Zoo Lights at the Henson Robinson Zoo
@@ -78,7 +78,7 @@ URL:https://weekendscout.app/e/springfield-il/zoo-lights-henson-robinson-zoo-202
 END:VEVENT
 BEGIN:VEVENT
 UID:springfield-il-zoo-lights-henson-robinson-zoo-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261129T230000Z
 DTEND:20261130T030000Z
 SUMMARY:Zoo Lights at the Henson Robinson Zoo
@@ -92,7 +92,7 @@ URL:https://weekendscout.app/e/springfield-il/zoo-lights-henson-robinson-zoo-202
 END:VEVENT
 BEGIN:VEVENT
 UID:springfield-il-illinois-local-holiday-market-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261128T150000Z
 DTEND:20261128T220000Z
 SUMMARY:Illinois Local Holiday Market on Small Business Saturday
@@ -106,7 +106,7 @@ URL:https://weekendscout.app/e/springfield-il/illinois-local-holiday-market-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:springfield-il-abraham-lincoln-presidential-library-and-museum-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261127T150000Z
 DTEND:20261127T230000Z
 SUMMARY:Abraham Lincoln Presidential Library and Museum
@@ -121,7 +121,7 @@ URL:https://weekendscout.app/e/springfield-il/abraham-lincoln-presidential-libra
 END:VEVENT
 BEGIN:VEVENT
 UID:springfield-il-abraham-lincoln-presidential-library-and-museum-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261128T150000Z
 DTEND:20261128T230000Z
 SUMMARY:Abraham Lincoln Presidential Library and Museum
@@ -136,7 +136,7 @@ URL:https://weekendscout.app/e/springfield-il/abraham-lincoln-presidential-libra
 END:VEVENT
 BEGIN:VEVENT
 UID:springfield-il-abraham-lincoln-presidential-library-and-museum-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261129T150000Z
 DTEND:20261129T230000Z
 SUMMARY:Abraham Lincoln Presidential Library and Museum
@@ -151,7 +151,7 @@ URL:https://weekendscout.app/e/springfield-il/abraham-lincoln-presidential-libra
 END:VEVENT
 BEGIN:VEVENT
 UID:springfield-il-lincoln-home-national-historic-site-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261127T150000Z
 DTEND:20261127T230000Z
 SUMMARY:Lincoln Home National Historic Site
@@ -164,7 +164,7 @@ URL:https://weekendscout.app/e/springfield-il/lincoln-home-national-historic-sit
 END:VEVENT
 BEGIN:VEVENT
 UID:springfield-il-lincoln-home-national-historic-site-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261128T150000Z
 DTEND:20261128T230000Z
 SUMMARY:Lincoln Home National Historic Site
@@ -177,7 +177,7 @@ URL:https://weekendscout.app/e/springfield-il/lincoln-home-national-historic-sit
 END:VEVENT
 BEGIN:VEVENT
 UID:springfield-il-lincoln-home-national-historic-site-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261129T150000Z
 DTEND:20261129T230000Z
 SUMMARY:Lincoln Home National Historic Site

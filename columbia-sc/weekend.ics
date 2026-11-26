@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:columbia-sc-soda-city-market-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261128T140000Z
 DTEND:20261128T180000Z
 SUMMARY:Soda City Market
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/columbia-sc/soda-city-market-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:columbia-sc-the-nutcracker-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261128T003000Z
 DTEND:20261128T023000Z
 SUMMARY:The Nutcracker
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/columbia-sc/the-nutcracker-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:columbia-sc-the-nutcracker-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261129T200000Z
 DTEND:20261129T220000Z
 SUMMARY:The Nutcracker
@@ -48,7 +48,7 @@ URL:https://weekendscout.app/e/columbia-sc/the-nutcracker-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:columbia-sc-powher-player-classic-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261128T193000Z
 DTEND:20261128T213000Z
 SUMMARY:PowHER Player Classic
@@ -62,7 +62,7 @@ URL:https://weekendscout.app/e/columbia-sc/powher-player-classic-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:columbia-sc-powher-player-classic-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261129T170000Z
 DTEND:20261129T190000Z
 SUMMARY:PowHER Player Classic
@@ -76,7 +76,7 @@ URL:https://weekendscout.app/e/columbia-sc/powher-player-classic-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:columbia-sc-powher-player-classic-2026-11-sun-1@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261129T193000Z
 DTEND:20261129T213000Z
 SUMMARY:PowHER Player Classic
@@ -90,7 +90,7 @@ URL:https://weekendscout.app/e/columbia-sc/powher-player-classic-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:columbia-sc-fireflies-holiday-lights-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261127T230000Z
 DTEND:20261128T020000Z
 SUMMARY:Fireflies Holiday Lights
@@ -105,7 +105,7 @@ URL:https://weekendscout.app/e/columbia-sc/fireflies-holiday-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:columbia-sc-fireflies-holiday-lights-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261128T230000Z
 DTEND:20261129T020000Z
 SUMMARY:Fireflies Holiday Lights
@@ -120,7 +120,7 @@ URL:https://weekendscout.app/e/columbia-sc/fireflies-holiday-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:columbia-sc-fireflies-holiday-lights-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261129T230000Z
 DTEND:20261130T020000Z
 SUMMARY:Fireflies Holiday Lights
@@ -135,7 +135,7 @@ URL:https://weekendscout.app/e/columbia-sc/fireflies-holiday-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:columbia-sc-sc-state-museum-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261127T150000Z
 DTEND:20261127T220000Z
 SUMMARY:South Carolina State Museum: Santa Saturday
@@ -149,7 +149,7 @@ URL:https://weekendscout.app/e/columbia-sc/sc-state-museum-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:columbia-sc-sc-state-museum-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261128T150000Z
 DTEND:20261128T220000Z
 SUMMARY:South Carolina State Museum: Santa Saturday
@@ -163,7 +163,7 @@ URL:https://weekendscout.app/e/columbia-sc/sc-state-museum-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:columbia-sc-sc-state-museum-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261129T170000Z
 DTEND:20261129T220000Z
 SUMMARY:South Carolina State Museum: Santa Saturday

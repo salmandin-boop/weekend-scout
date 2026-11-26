@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:jackson-mississippi-museum-of-art-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261127T170000Z
 DTEND:20261127T230000Z
 SUMMARY:Mississippi Museum of Art
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/jackson/mississippi-museum-of-art-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:jackson-mississippi-museum-of-art-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261128T170000Z
 DTEND:20261128T230000Z
 SUMMARY:Mississippi Museum of Art
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/jackson/mississippi-museum-of-art-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:jackson-mississippi-museum-of-art-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261129T190000Z
 DTEND:20261129T230000Z
 SUMMARY:Mississippi Museum of Art
@@ -48,7 +48,7 @@ URL:https://weekendscout.app/e/jackson/mississippi-museum-of-art-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:jackson-two-mississippi-museums-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261127T150000Z
 DTEND:20261127T230000Z
 SUMMARY:Two Mississippi Museums
@@ -61,7 +61,7 @@ URL:https://weekendscout.app/e/jackson/two-mississippi-museums-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:jackson-two-mississippi-museums-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261128T150000Z
 DTEND:20261128T230000Z
 SUMMARY:Two Mississippi Museums
@@ -74,7 +74,7 @@ URL:https://weekendscout.app/e/jackson/two-mississippi-museums-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:jackson-two-mississippi-museums-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261129T170000Z
 DTEND:20261129T230000Z
 SUMMARY:Two Mississippi Museums
@@ -87,7 +87,7 @@ URL:https://weekendscout.app/e/jackson/two-mississippi-museums-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:jackson-masterclass-trap-orchestra-boosie-badazz-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261128T020000Z
 DTEND:20261128T040000Z
 SUMMARY:Masterclass Trap Orchestra: Boosie Badazz
@@ -100,7 +100,7 @@ URL:https://weekendscout.app/e/jackson/masterclass-trap-orchestra-boosie-badazz-
 END:VEVENT
 BEGIN:VEVENT
 UID:jackson-mississippi-childrens-museum-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261127T150000Z
 DTEND:20261127T230000Z
 SUMMARY:Mississippi Children's Museum
@@ -115,7 +115,7 @@ URL:https://weekendscout.app/e/jackson/mississippi-childrens-museum-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:jackson-mississippi-childrens-museum-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261128T150000Z
 DTEND:20261128T230000Z
 SUMMARY:Mississippi Children's Museum
@@ -130,7 +130,7 @@ URL:https://weekendscout.app/e/jackson/mississippi-childrens-museum-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:jackson-mississippi-childrens-museum-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART:20261129T190000Z
 DTEND:20261130T000000Z
 SUMMARY:Mississippi Children's Museum
@@ -145,7 +145,7 @@ URL:https://weekendscout.app/e/jackson/mississippi-childrens-museum-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:jackson-gospel-of-the-nativity-jsu-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -160,7 +160,7 @@ URL:https://weekendscout.app/e/jackson/gospel-of-the-nativity-jsu-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:jackson-gospel-of-the-nativity-jsu-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -175,7 +175,7 @@ URL:https://weekendscout.app/e/jackson/gospel-of-the-nativity-jsu-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:jackson-rsd-black-friday-end-of-all-music-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T202503Z
+DTSTAMP:20261126T221846Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
