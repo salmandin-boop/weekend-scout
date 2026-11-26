@@ -8,8 +8,129 @@ X-WR-CALDESC:Hand-checked weekend picks in Portland, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
+UID:portland-me-monument-square-tree-lighting-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261127T200000Z
+DTEND:20261127T230000Z
+SUMMARY:Monument Square Tree Lighting
+LOCATION:Monument Square\, 456 Congress St\, Portland\, ME 04101
+DESCRIPTION:Downtown's tree lighting starts with a free screening of How t
+ he Grinch Stole Christmas and Grinch meet-and-greets. The ceremony and Mai
+ ne Music Collective begin at 5 p.m.\, and the tree is lit at 5:45. Free. D
+ etails: https://weekendscout.app/e/portland-me/monument-square-tree-lighti
+ ng-2026-11/
+URL:https://weekendscout.app/e/portland-me/monument-square-tree-lighting-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:portland-me-the-nutcracker-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261127T190000Z
+DTEND:20261127T210000Z
+SUMMARY:The Nutcracker
+LOCATION:Merrill Auditorium\, 20 Myrtle St\, Portland\, ME 04101
+DESCRIPTION:Maine State Ballet's annual production\, with a 2 p.m. matinee
+  each day. The lowest prices ($23) are on Saturday\; Friday and Sunday sta
+ rt at $49. $23–$89 + fees. Details: https://weekendscout.app/e/portland-
+ me/the-nutcracker-2026-11/
+URL:https://weekendscout.app/e/portland-me/the-nutcracker-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:portland-me-the-nutcracker-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261128T190000Z
+DTEND:20261128T210000Z
+SUMMARY:The Nutcracker
+LOCATION:Merrill Auditorium\, 20 Myrtle St\, Portland\, ME 04101
+DESCRIPTION:Maine State Ballet's annual production\, with a 2 p.m. matinee
+  each day. The lowest prices ($23) are on Saturday\; Friday and Sunday sta
+ rt at $49. $23–$89 + fees. Details: https://weekendscout.app/e/portland-
+ me/the-nutcracker-2026-11/
+URL:https://weekendscout.app/e/portland-me/the-nutcracker-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:portland-me-the-nutcracker-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261129T190000Z
+DTEND:20261129T210000Z
+SUMMARY:The Nutcracker
+LOCATION:Merrill Auditorium\, 20 Myrtle St\, Portland\, ME 04101
+DESCRIPTION:Maine State Ballet's annual production\, with a 2 p.m. matinee
+  each day. The lowest prices ($23) are on Saturday\; Friday and Sunday sta
+ rt at $49. $23–$89 + fees. Details: https://weekendscout.app/e/portland-
+ me/the-nutcracker-2026-11/
+URL:https://weekendscout.app/e/portland-me/the-nutcracker-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:portland-me-temples-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261130T010000Z
+DTEND:20261130T030000Z
+SUMMARY:Temples
+LOCATION:Portland House of Music and Events\, 25 Temple St\, Portland\, ME
+  04101
+DESCRIPTION:The English psych-rock band on its Bliss tour\, with Gift open
+ ing. Doors at 7 p.m. Tickets. Details: https://weekendscout.app/e/portland
+ -me/temples-2026-11/
+URL:https://weekendscout.app/e/portland-me/temples-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:portland-me-pma-free-friday-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261127T210000Z
+DTEND:20261128T010000Z
+SUMMARY:Free Friday Night at the Portland Museum of Art
+LOCATION:Portland Museum of Art\, 7 Congress Square\, Portland\, ME 04101
+DESCRIPTION:Admission is free for everyone on Friday from 4 to 8 p.m. Visi
+ tors 21 and under get in free any time the museum is open\, including Satu
+ rday and Sunday from 10 a.m. to 6 p.m. Free. Details: https://weekendscout
+ .app/e/portland-me/pma-free-friday-2026-11/
+URL:https://weekendscout.app/e/portland-me/pma-free-friday-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:portland-me-christmas-at-victoria-mansion-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261127T150000Z
+DTEND:20261127T200000Z
+SUMMARY:Christmas at Victoria Mansion
+LOCATION:Victoria Mansion\, 109 Danforth St\, Portland\, ME 04101
+DESCRIPTION:The 1860 Italianate mansion opens its decorated holiday season
+  on Friday. Self-paced tours with docents enter every half hour from 10 a.
+ m.\, and last admission is at 3 p.m. $19.25 adults\, $6 ages 6–17. Detai
+ ls: https://weekendscout.app/e/portland-me/christmas-at-victoria-mansion-2
+ 026-11/
+URL:https://weekendscout.app/e/portland-me/christmas-at-victoria-mansion-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:portland-me-christmas-at-victoria-mansion-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261128T150000Z
+DTEND:20261128T200000Z
+SUMMARY:Christmas at Victoria Mansion
+LOCATION:Victoria Mansion\, 109 Danforth St\, Portland\, ME 04101
+DESCRIPTION:The 1860 Italianate mansion opens its decorated holiday season
+  on Friday. Self-paced tours with docents enter every half hour from 10 a.
+ m.\, and last admission is at 3 p.m. $19.25 adults\, $6 ages 6–17. Detai
+ ls: https://weekendscout.app/e/portland-me/christmas-at-victoria-mansion-2
+ 026-11/
+URL:https://weekendscout.app/e/portland-me/christmas-at-victoria-mansion-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:portland-me-christmas-at-victoria-mansion-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261129T150000Z
+DTEND:20261129T200000Z
+SUMMARY:Christmas at Victoria Mansion
+LOCATION:Victoria Mansion\, 109 Danforth St\, Portland\, ME 04101
+DESCRIPTION:The 1860 Italianate mansion opens its decorated holiday season
+  on Friday. Self-paced tours with docents enter every half hour from 10 a.
+ m.\, and last admission is at 3 p.m. $19.25 adults\, $6 ages 6–17. Detai
+ ls: https://weekendscout.app/e/portland-me/christmas-at-victoria-mansion-2
+ 026-11/
+URL:https://weekendscout.app/e/portland-me/christmas-at-victoria-mansion-2026-11/
+END:VEVENT
+BEGIN:VEVENT
 UID:portland-me-eastern-promenade-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T014208Z
+DTSTAMP:20261126T021602Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -22,7 +143,7 @@ URL:https://weekendscout.app/e/portland-me/eastern-promenade-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:portland-me-eastern-promenade-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T014208Z
+DTSTAMP:20261126T021602Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -35,7 +156,7 @@ URL:https://weekendscout.app/e/portland-me/eastern-promenade-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:portland-me-eastern-promenade-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T014208Z
+DTSTAMP:20261126T021602Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -45,53 +166,5 @@ DESCRIPTION:Hilltop park and trail with views over Casco Bay and the islan
  ds. Free. Details: https://weekendscout.app/e/portland-me/eastern-promenad
  e-2026-11/
 URL:https://weekendscout.app/e/portland-me/eastern-promenade-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:portland-me-the-nutcracker-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T014208Z
-DTSTART:20261127T190000Z
-DTEND:20261127T210000Z
-SUMMARY:The Nutcracker
-LOCATION:Merrill Auditorium\, 20 Myrtle St\, Portland\, ME 04101
-DESCRIPTION:Maine State Ballet’s annual production\, matinees all weeken
- d. Tickets. Details: https://weekendscout.app/e/portland-me/the-nutcracker
- -2026-11/
-URL:https://weekendscout.app/e/portland-me/the-nutcracker-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:portland-me-the-nutcracker-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T014208Z
-DTSTART:20261128T190000Z
-DTEND:20261128T210000Z
-SUMMARY:The Nutcracker
-LOCATION:Merrill Auditorium\, 20 Myrtle St\, Portland\, ME 04101
-DESCRIPTION:Maine State Ballet’s annual production\, matinees all weeken
- d. Tickets. Details: https://weekendscout.app/e/portland-me/the-nutcracker
- -2026-11/
-URL:https://weekendscout.app/e/portland-me/the-nutcracker-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:portland-me-the-nutcracker-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T014208Z
-DTSTART:20261129T190000Z
-DTEND:20261129T210000Z
-SUMMARY:The Nutcracker
-LOCATION:Merrill Auditorium\, 20 Myrtle St\, Portland\, ME 04101
-DESCRIPTION:Maine State Ballet’s annual production\, matinees all weeken
- d. Tickets. Details: https://weekendscout.app/e/portland-me/the-nutcracker
- -2026-11/
-URL:https://weekendscout.app/e/portland-me/the-nutcracker-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:portland-me-temples-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T014208Z
-DTSTART:20261130T010000Z
-DTEND:20261130T030000Z
-SUMMARY:Temples
-LOCATION:Portland House of Music and Events\, 25 Temple St\, Portland\, ME
-  04101
-DESCRIPTION:The English psych-rock band on Sunday night. Tickets. Details:
-  https://weekendscout.app/e/portland-me/temples-2026-11/
-URL:https://weekendscout.app/e/portland-me/temples-2026-11/
 END:VEVENT
 END:VCALENDAR

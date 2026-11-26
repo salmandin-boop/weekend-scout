@@ -8,114 +8,130 @@ X-WR-CALDESC:Hand-checked weekend picks in Lexington, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:lexington-the-arboretum-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T014208Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:The Arboretum
-LOCATION:The Arboretum\, State Botanical Garden of Kentucky\, 500 Alumni D
- r\, Lexington\, KY 40503
-DESCRIPTION:100 acres of gardens and woodland walks\, open every day. Free
- . Details: https://weekendscout.app/e/lexington/the-arboretum-2026-11/
-URL:https://weekendscout.app/e/lexington/the-arboretum-2026-11/
+UID:lexington-southern-lights-kentucky-horse-park-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261127T223000Z
+DTEND:20261128T030000Z
+SUMMARY:Southern Lights Holiday Festival
+LOCATION:Kentucky Horse Park\, 4089 Iron Works Pike\, Lexington\, KY 40511
+DESCRIPTION:The drive-through holiday light show at the Kentucky Horse Par
+ k opens for the season on Friday. It's one price per car\, online or at th
+ e gate. $35 per carload. Details: https://weekendscout.app/e/lexington/sou
+ thern-lights-kentucky-horse-park-2026-11/
+URL:https://weekendscout.app/e/lexington/southern-lights-kentucky-horse-park-2026-11/
 END:VEVENT
 BEGIN:VEVENT
-UID:lexington-the-arboretum-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T014208Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:The Arboretum
-LOCATION:The Arboretum\, State Botanical Garden of Kentucky\, 500 Alumni D
- r\, Lexington\, KY 40503
-DESCRIPTION:100 acres of gardens and woodland walks\, open every day. Free
- . Details: https://weekendscout.app/e/lexington/the-arboretum-2026-11/
-URL:https://weekendscout.app/e/lexington/the-arboretum-2026-11/
+UID:lexington-southern-lights-kentucky-horse-park-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261128T223000Z
+DTEND:20261129T030000Z
+SUMMARY:Southern Lights Holiday Festival
+LOCATION:Kentucky Horse Park\, 4089 Iron Works Pike\, Lexington\, KY 40511
+DESCRIPTION:The drive-through holiday light show at the Kentucky Horse Par
+ k opens for the season on Friday. It's one price per car\, online or at th
+ e gate. $35 per carload. Details: https://weekendscout.app/e/lexington/sou
+ thern-lights-kentucky-horse-park-2026-11/
+URL:https://weekendscout.app/e/lexington/southern-lights-kentucky-horse-park-2026-11/
 END:VEVENT
 BEGIN:VEVENT
-UID:lexington-the-arboretum-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T014208Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:The Arboretum
-LOCATION:The Arboretum\, State Botanical Garden of Kentucky\, 500 Alumni D
- r\, Lexington\, KY 40503
-DESCRIPTION:100 acres of gardens and woodland walks\, open every day. Free
- . Details: https://weekendscout.app/e/lexington/the-arboretum-2026-11/
-URL:https://weekendscout.app/e/lexington/the-arboretum-2026-11/
+UID:lexington-southern-lights-kentucky-horse-park-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261129T223000Z
+DTEND:20261130T030000Z
+SUMMARY:Southern Lights Holiday Festival
+LOCATION:Kentucky Horse Park\, 4089 Iron Works Pike\, Lexington\, KY 40511
+DESCRIPTION:The drive-through holiday light show at the Kentucky Horse Par
+ k opens for the season on Friday. It's one price per car\, online or at th
+ e gate. $35 per carload. Details: https://weekendscout.app/e/lexington/sou
+ thern-lights-kentucky-horse-park-2026-11/
+URL:https://weekendscout.app/e/lexington/southern-lights-kentucky-horse-park-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:lexington-kentucky-wildcats-vs-louisville-cardinals-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T014208Z
+DTSTAMP:20261126T021602Z
 DTSTART:20261128T170000Z
 DTEND:20261128T190000Z
 SUMMARY:Kentucky Wildcats vs. Louisville Cardinals
 LOCATION:Kroger Field\, 1540 University Dr\, Lexington\, KY 40506
-DESCRIPTION:The Governor’s Cup rivalry game at noon Saturday. Tickets. D
- etails: https://weekendscout.app/e/lexington/kentucky-wildcats-vs-louisvil
- le-cardinals-2026-11/
+DESCRIPTION:The Governor's Cup rivalry kicks off at noon Saturday on ESPN2
+ . It's also Senior Day and a Blue Out. Tickets. Details: https://weekendsc
+ out.app/e/lexington/kentucky-wildcats-vs-louisville-cardinals-2026-11/
 URL:https://weekendscout.app/e/lexington/kentucky-wildcats-vs-louisville-cardinals-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:lexington-kentucky-wildcats-vs-wichita-state-shockers-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T014208Z
+DTSTAMP:20261126T021602Z
 DTSTART:20261128T020000Z
 DTEND:20261128T040000Z
 SUMMARY:Kentucky Wildcats vs. Wichita State Shockers
 LOCATION:Rupp Arena\, 430 W Vine St\, Lexington\, KY 40507
-DESCRIPTION:UK men’s basketball on Black Friday night. Tickets. Details:
-  https://weekendscout.app/e/lexington/kentucky-wildcats-vs-wichita-state-s
- hockers-2026-11/
+DESCRIPTION:UK men's basketball hosts Wichita State on Black Friday night\
+ , tipping off at 9 p.m. on ESPN2. Tickets. Details: https://weekendscout.a
+ pp/e/lexington/kentucky-wildcats-vs-wichita-state-shockers-2026-11/
 URL:https://weekendscout.app/e/lexington/kentucky-wildcats-vs-wichita-state-shockers-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:lexington-black-stone-cherry-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T014208Z
+DTSTAMP:20261126T021602Z
 DTSTART:20261128T010000Z
 DTEND:20261128T030000Z
 SUMMARY:Black Stone Cherry
 LOCATION:Manchester Music Hall\, 899 Manchester St\, Lexington\, KY 40508
-DESCRIPTION:The Kentucky hard-rock band in the Distillery District. Ticket
- s. Details: https://weekendscout.app/e/lexington/black-stone-cherry-2026-1
- 1/
+DESCRIPTION:The Kentucky hard-rock band plays an all-ages show in the Dist
+ illery District. Doors open at 7 p.m. Tickets. Details: https://weekendsco
+ ut.app/e/lexington/black-stone-cherry-2026-11/
 URL:https://weekendscout.app/e/lexington/black-stone-cherry-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:lexington-trish-suhr-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T014208Z
+DTSTAMP:20261126T021602Z
 DTSTART:20261127T230000Z
 DTEND:20261128T010000Z
 SUMMARY:Trish Suhr
 LOCATION:Comedy Off Broadway\, 161 Lexington Green Cir\, Lexington\, KY 40
  503
-DESCRIPTION:Stand-up\, three shows. Tickets. Details: https://weekendscout
- .app/e/lexington/trish-suhr-2026-11/
+DESCRIPTION:Stand-up from Trish Suhr\, with three shows over two nights. T
+ here is a one-drink minimum. Tickets. Details: https://weekendscout.app/e/
+ lexington/trish-suhr-2026-11/
 URL:https://weekendscout.app/e/lexington/trish-suhr-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:lexington-trish-suhr-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T014208Z
+DTSTAMP:20261126T021602Z
 DTSTART:20261128T230000Z
 DTEND:20261129T010000Z
 SUMMARY:Trish Suhr
 LOCATION:Comedy Off Broadway\, 161 Lexington Green Cir\, Lexington\, KY 40
  503
-DESCRIPTION:Stand-up\, three shows. Tickets. Details: https://weekendscout
- .app/e/lexington/trish-suhr-2026-11/
+DESCRIPTION:Stand-up from Trish Suhr\, with three shows over two nights. T
+ here is a one-drink minimum. Tickets. Details: https://weekendscout.app/e/
+ lexington/trish-suhr-2026-11/
 URL:https://weekendscout.app/e/lexington/trish-suhr-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:lexington-trish-suhr-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261126T014208Z
+DTSTAMP:20261126T021602Z
 DTSTART:20261129T013000Z
 DTEND:20261129T033000Z
 SUMMARY:Trish Suhr
 LOCATION:Comedy Off Broadway\, 161 Lexington Green Cir\, Lexington\, KY 40
  503
-DESCRIPTION:Stand-up\, three shows. Tickets. Details: https://weekendscout
- .app/e/lexington/trish-suhr-2026-11/
+DESCRIPTION:Stand-up from Trish Suhr\, with three shows over two nights. T
+ here is a one-drink minimum. Tickets. Details: https://weekendscout.app/e/
+ lexington/trish-suhr-2026-11/
 URL:https://weekendscout.app/e/lexington/trish-suhr-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:lexington-best-christmas-pageant-ever-lct-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:The Best Christmas Pageant Ever: The Musical
+LOCATION:Lexington Opera House\, 401 W Short St\, Lexington\, KY 40507
+DESCRIPTION:Lexington Children's Theatre opens its holiday musical on Sund
+ ay. It runs through December 6. Tickets. Details: https://weekendscout.app
+ /e/lexington/best-christmas-pageant-ever-lct-2026-11/
+URL:https://weekendscout.app/e/lexington/best-christmas-pageant-ever-lct-2026-11/
 END:VEVENT
 END:VCALENDAR

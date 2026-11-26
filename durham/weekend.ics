@@ -8,177 +8,297 @@ X-WR-CALDESC:Hand-checked weekend picks in Durham, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:durham-sarah-p-duke-gardens-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T014208Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Sarah P. Duke Gardens
-LOCATION:Sarah P. Duke Gardens\, 420 Anderson St\, Durham\, NC 27705
-DESCRIPTION:Fifty-five acres of landscaped gardens on Duke’s campus\, op
- en every day. Free. Details: https://weekendscout.app/e/durham/sarah-p-duk
- e-gardens-2026-11/
-URL:https://weekendscout.app/e/durham/sarah-p-duke-gardens-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:durham-sarah-p-duke-gardens-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T014208Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Sarah P. Duke Gardens
-LOCATION:Sarah P. Duke Gardens\, 420 Anderson St\, Durham\, NC 27705
-DESCRIPTION:Fifty-five acres of landscaped gardens on Duke’s campus\, op
- en every day. Free. Details: https://weekendscout.app/e/durham/sarah-p-duk
- e-gardens-2026-11/
-URL:https://weekendscout.app/e/durham/sarah-p-duke-gardens-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:durham-sarah-p-duke-gardens-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T014208Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Sarah P. Duke Gardens
-LOCATION:Sarah P. Duke Gardens\, 420 Anderson St\, Durham\, NC 27705
-DESCRIPTION:Fifty-five acres of landscaped gardens on Duke’s campus\, op
- en every day. Free. Details: https://weekendscout.app/e/durham/sarah-p-duk
- e-gardens-2026-11/
-URL:https://weekendscout.app/e/durham/sarah-p-duke-gardens-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:durham-duke-chapel-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T014208Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Duke Chapel
-LOCATION:Duke Chapel\, 401 Chapel Dr\, Durham\, NC 27708
-DESCRIPTION:The Gothic Revival landmark at the heart of Duke’s West Camp
- us. Free to visit. Details: https://weekendscout.app/e/durham/duke-chapel-
- 2026-11/
-URL:https://weekendscout.app/e/durham/duke-chapel-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:durham-duke-chapel-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T014208Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Duke Chapel
-LOCATION:Duke Chapel\, 401 Chapel Dr\, Durham\, NC 27708
-DESCRIPTION:The Gothic Revival landmark at the heart of Duke’s West Camp
- us. Free to visit. Details: https://weekendscout.app/e/durham/duke-chapel-
- 2026-11/
-URL:https://weekendscout.app/e/durham/duke-chapel-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:durham-duke-chapel-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T014208Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Duke Chapel
-LOCATION:Duke Chapel\, 401 Chapel Dr\, Durham\, NC 27708
-DESCRIPTION:The Gothic Revival landmark at the heart of Duke’s West Camp
- us. Free to visit. Details: https://weekendscout.app/e/durham/duke-chapel-
- 2026-11/
-URL:https://weekendscout.app/e/durham/duke-chapel-2026-11/
-END:VEVENT
-BEGIN:VEVENT
 UID:durham-cirque-du-soleil-twas-the-night-before-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T014208Z
+DTSTAMP:20261126T021602Z
 DTSTART:20261127T180000Z
 DTEND:20261127T200000Z
 SUMMARY:Cirque du Soleil: ’Twas the Night Before…
 LOCATION:Durham Performing Arts Center\, 123 Vivian St\, Durham\, NC 27701
-DESCRIPTION:Cirque’s holiday show\, eight performances this weekend. Tic
- kets. Details: https://weekendscout.app/e/durham/cirque-du-soleil-twas-the
- -night-before-2026-11/
+DESCRIPTION:Cirque's 90-minute holiday show\, with eight performances this
+  weekend. Every guest needs a ticket\, and $30 student rush seats are sold
+  in person on show day. Tickets. Details: https://weekendscout.app/e/durha
+ m/cirque-du-soleil-twas-the-night-before-2026-11/
 URL:https://weekendscout.app/e/durham/cirque-du-soleil-twas-the-night-before-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:durham-cirque-du-soleil-twas-the-night-before-2026-11-fri-1@weekendscout.app
-DTSTAMP:20261126T014208Z
+DTSTAMP:20261126T021602Z
 DTSTART:20261127T210000Z
 DTEND:20261127T230000Z
 SUMMARY:Cirque du Soleil: ’Twas the Night Before…
 LOCATION:Durham Performing Arts Center\, 123 Vivian St\, Durham\, NC 27701
-DESCRIPTION:Cirque’s holiday show\, eight performances this weekend. Tic
- kets. Details: https://weekendscout.app/e/durham/cirque-du-soleil-twas-the
- -night-before-2026-11/
+DESCRIPTION:Cirque's 90-minute holiday show\, with eight performances this
+  weekend. Every guest needs a ticket\, and $30 student rush seats are sold
+  in person on show day. Tickets. Details: https://weekendscout.app/e/durha
+ m/cirque-du-soleil-twas-the-night-before-2026-11/
 URL:https://weekendscout.app/e/durham/cirque-du-soleil-twas-the-night-before-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:durham-cirque-du-soleil-twas-the-night-before-2026-11-fri-2@weekendscout.app
-DTSTAMP:20261126T014208Z
+DTSTAMP:20261126T021602Z
 DTSTART:20261128T003000Z
 DTEND:20261128T023000Z
 SUMMARY:Cirque du Soleil: ’Twas the Night Before…
 LOCATION:Durham Performing Arts Center\, 123 Vivian St\, Durham\, NC 27701
-DESCRIPTION:Cirque’s holiday show\, eight performances this weekend. Tic
- kets. Details: https://weekendscout.app/e/durham/cirque-du-soleil-twas-the
- -night-before-2026-11/
+DESCRIPTION:Cirque's 90-minute holiday show\, with eight performances this
+  weekend. Every guest needs a ticket\, and $30 student rush seats are sold
+  in person on show day. Tickets. Details: https://weekendscout.app/e/durha
+ m/cirque-du-soleil-twas-the-night-before-2026-11/
 URL:https://weekendscout.app/e/durham/cirque-du-soleil-twas-the-night-before-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:durham-cirque-du-soleil-twas-the-night-before-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T014208Z
+DTSTAMP:20261126T021602Z
 DTSTART:20261128T180000Z
 DTEND:20261128T200000Z
 SUMMARY:Cirque du Soleil: ’Twas the Night Before…
 LOCATION:Durham Performing Arts Center\, 123 Vivian St\, Durham\, NC 27701
-DESCRIPTION:Cirque’s holiday show\, eight performances this weekend. Tic
- kets. Details: https://weekendscout.app/e/durham/cirque-du-soleil-twas-the
- -night-before-2026-11/
+DESCRIPTION:Cirque's 90-minute holiday show\, with eight performances this
+  weekend. Every guest needs a ticket\, and $30 student rush seats are sold
+  in person on show day. Tickets. Details: https://weekendscout.app/e/durha
+ m/cirque-du-soleil-twas-the-night-before-2026-11/
 URL:https://weekendscout.app/e/durham/cirque-du-soleil-twas-the-night-before-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:durham-cirque-du-soleil-twas-the-night-before-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261126T014208Z
+DTSTAMP:20261126T021602Z
 DTSTART:20261128T210000Z
 DTEND:20261128T230000Z
 SUMMARY:Cirque du Soleil: ’Twas the Night Before…
 LOCATION:Durham Performing Arts Center\, 123 Vivian St\, Durham\, NC 27701
-DESCRIPTION:Cirque’s holiday show\, eight performances this weekend. Tic
- kets. Details: https://weekendscout.app/e/durham/cirque-du-soleil-twas-the
- -night-before-2026-11/
+DESCRIPTION:Cirque's 90-minute holiday show\, with eight performances this
+  weekend. Every guest needs a ticket\, and $30 student rush seats are sold
+  in person on show day. Tickets. Details: https://weekendscout.app/e/durha
+ m/cirque-du-soleil-twas-the-night-before-2026-11/
 URL:https://weekendscout.app/e/durham/cirque-du-soleil-twas-the-night-before-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:durham-cirque-du-soleil-twas-the-night-before-2026-11-sat-2@weekendscout.app
-DTSTAMP:20261126T014208Z
+DTSTAMP:20261126T021602Z
 DTSTART:20261129T003000Z
 DTEND:20261129T023000Z
 SUMMARY:Cirque du Soleil: ’Twas the Night Before…
 LOCATION:Durham Performing Arts Center\, 123 Vivian St\, Durham\, NC 27701
-DESCRIPTION:Cirque’s holiday show\, eight performances this weekend. Tic
- kets. Details: https://weekendscout.app/e/durham/cirque-du-soleil-twas-the
- -night-before-2026-11/
+DESCRIPTION:Cirque's 90-minute holiday show\, with eight performances this
+  weekend. Every guest needs a ticket\, and $30 student rush seats are sold
+  in person on show day. Tickets. Details: https://weekendscout.app/e/durha
+ m/cirque-du-soleil-twas-the-night-before-2026-11/
 URL:https://weekendscout.app/e/durham/cirque-du-soleil-twas-the-night-before-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:durham-cirque-du-soleil-twas-the-night-before-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T014208Z
+DTSTAMP:20261126T021602Z
 DTSTART:20261129T170000Z
 DTEND:20261129T190000Z
 SUMMARY:Cirque du Soleil: ’Twas the Night Before…
 LOCATION:Durham Performing Arts Center\, 123 Vivian St\, Durham\, NC 27701
-DESCRIPTION:Cirque’s holiday show\, eight performances this weekend. Tic
- kets. Details: https://weekendscout.app/e/durham/cirque-du-soleil-twas-the
- -night-before-2026-11/
+DESCRIPTION:Cirque's 90-minute holiday show\, with eight performances this
+  weekend. Every guest needs a ticket\, and $30 student rush seats are sold
+  in person on show day. Tickets. Details: https://weekendscout.app/e/durha
+ m/cirque-du-soleil-twas-the-night-before-2026-11/
 URL:https://weekendscout.app/e/durham/cirque-du-soleil-twas-the-night-before-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:durham-cirque-du-soleil-twas-the-night-before-2026-11-sun-1@weekendscout.app
-DTSTAMP:20261126T014208Z
+DTSTAMP:20261126T021602Z
 DTSTART:20261129T200000Z
 DTEND:20261129T220000Z
 SUMMARY:Cirque du Soleil: ’Twas the Night Before…
 LOCATION:Durham Performing Arts Center\, 123 Vivian St\, Durham\, NC 27701
-DESCRIPTION:Cirque’s holiday show\, eight performances this weekend. Tic
- kets. Details: https://weekendscout.app/e/durham/cirque-du-soleil-twas-the
- -night-before-2026-11/
+DESCRIPTION:Cirque's 90-minute holiday show\, with eight performances this
+  weekend. Every guest needs a ticket\, and $30 student rush seats are sold
+  in person on show day. Tickets. Details: https://weekendscout.app/e/durha
+ m/cirque-du-soleil-twas-the-night-before-2026-11/
 URL:https://weekendscout.app/e/durham/cirque-du-soleil-twas-the-night-before-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:durham-festibull-of-lights-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261127T223000Z
+DTEND:20261128T020000Z
+SUMMARY:FestiBull of Lights
+LOCATION:Durham Bulls Athletic Park\, 409 Blackwell St\, Durham\, NC 27701
+DESCRIPTION:A holiday light show at the Durham Bulls' ballpark\, open 5:30
+ –9 p.m. A train ride is a $5 add-on. From $12. Details: https://weekends
+ cout.app/e/durham/festibull-of-lights-2026-11/
+URL:https://weekendscout.app/e/durham/festibull-of-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:durham-festibull-of-lights-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261128T223000Z
+DTEND:20261129T020000Z
+SUMMARY:FestiBull of Lights
+LOCATION:Durham Bulls Athletic Park\, 409 Blackwell St\, Durham\, NC 27701
+DESCRIPTION:A holiday light show at the Durham Bulls' ballpark\, open 5:30
+ –9 p.m. A train ride is a $5 add-on. From $12. Details: https://weekends
+ cout.app/e/durham/festibull-of-lights-2026-11/
+URL:https://weekendscout.app/e/durham/festibull-of-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:durham-festibull-of-lights-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261129T223000Z
+DTEND:20261130T020000Z
+SUMMARY:FestiBull of Lights
+LOCATION:Durham Bulls Athletic Park\, 409 Blackwell St\, Durham\, NC 27701
+DESCRIPTION:A holiday light show at the Durham Bulls' ballpark\, open 5:30
+ –9 p.m. A train ride is a $5 add-on. From $12. Details: https://weekends
+ cout.app/e/durham/festibull-of-lights-2026-11/
+URL:https://weekendscout.app/e/durham/festibull-of-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:durham-hurricanes-vs-senators-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:Carolina Hurricanes vs. Ottawa Senators
+LOCATION:Lenovo Center\, 1400 Edwards Mill Rd\, Raleigh\, NC 27607
+DESCRIPTION:Saturday-night NHL hockey in Raleigh\, about a 25-minute drive
+  from downtown Durham. Tickets. Details: https://weekendscout.app/e/durham
+ /hurricanes-vs-senators-2026-11/
+URL:https://weekendscout.app/e/durham/hurricanes-vs-senators-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:durham-sarah-p-duke-gardens-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261127T130000Z
+DTEND:20261127T150000Z
+SUMMARY:Sarah P. Duke Gardens
+LOCATION:Sarah P. Duke Gardens\, 420 Anderson St\, Durham\, NC 27705
+DESCRIPTION:Fifty-five acres of gardens on Duke's campus\, with grounds op
+ en 8 a.m. to sunset every day. Dogs are allowed before 10 a.m. Free (parki
+ ng $2/hr). Details: https://weekendscout.app/e/durham/sarah-p-duke-gardens
+ -2026-11/
+URL:https://weekendscout.app/e/durham/sarah-p-duke-gardens-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:durham-sarah-p-duke-gardens-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261128T130000Z
+DTEND:20261128T150000Z
+SUMMARY:Sarah P. Duke Gardens
+LOCATION:Sarah P. Duke Gardens\, 420 Anderson St\, Durham\, NC 27705
+DESCRIPTION:Fifty-five acres of gardens on Duke's campus\, with grounds op
+ en 8 a.m. to sunset every day. Dogs are allowed before 10 a.m. Free (parki
+ ng $2/hr). Details: https://weekendscout.app/e/durham/sarah-p-duke-gardens
+ -2026-11/
+URL:https://weekendscout.app/e/durham/sarah-p-duke-gardens-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:durham-sarah-p-duke-gardens-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261129T130000Z
+DTEND:20261129T150000Z
+SUMMARY:Sarah P. Duke Gardens
+LOCATION:Sarah P. Duke Gardens\, 420 Anderson St\, Durham\, NC 27705
+DESCRIPTION:Fifty-five acres of gardens on Duke's campus\, with grounds op
+ en 8 a.m. to sunset every day. Dogs are allowed before 10 a.m. Free (parki
+ ng $2/hr). Details: https://weekendscout.app/e/durham/sarah-p-duke-gardens
+ -2026-11/
+URL:https://weekendscout.app/e/durham/sarah-p-duke-gardens-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:durham-duke-chapel-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261127T150000Z
+DTEND:20261128T010000Z
+SUMMARY:Duke Chapel
+LOCATION:Duke Chapel\, 401 Chapel Dr\, Durham\, NC 27708
+DESCRIPTION:The Gothic Revival landmark at the heart of Duke's West Campus
+ \, open to visitors 10 a.m. to 8 p.m. A free docent tour follows the 11 a.
+ m. Sunday service. Free to visit. Details: https://weekendscout.app/e/durh
+ am/duke-chapel-2026-11/
+URL:https://weekendscout.app/e/durham/duke-chapel-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:durham-duke-chapel-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261128T150000Z
+DTEND:20261129T010000Z
+SUMMARY:Duke Chapel
+LOCATION:Duke Chapel\, 401 Chapel Dr\, Durham\, NC 27708
+DESCRIPTION:The Gothic Revival landmark at the heart of Duke's West Campus
+ \, open to visitors 10 a.m. to 8 p.m. A free docent tour follows the 11 a.
+ m. Sunday service. Free to visit. Details: https://weekendscout.app/e/durh
+ am/duke-chapel-2026-11/
+URL:https://weekendscout.app/e/durham/duke-chapel-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:durham-duke-chapel-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261129T150000Z
+DTEND:20261130T010000Z
+SUMMARY:Duke Chapel
+LOCATION:Duke Chapel\, 401 Chapel Dr\, Durham\, NC 27708
+DESCRIPTION:The Gothic Revival landmark at the heart of Duke's West Campus
+ \, open to visitors 10 a.m. to 8 p.m. A free docent tour follows the 11 a.
+ m. Sunday service. Free to visit. Details: https://weekendscout.app/e/durh
+ am/duke-chapel-2026-11/
+URL:https://weekendscout.app/e/durham/duke-chapel-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:durham-museum-of-life-and-science-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261127T150000Z
+DTEND:20261127T220000Z
+SUMMARY:Museum of Life and Science
+LOCATION:Museum of Life and Science\, 433 W Murray Ave\, Durham\, NC 27704
+DESCRIPTION:Durham's hands-on science museum\, with exhibits and outdoor n
+ ature areas\, open 10 a.m. to 5 p.m. after closing for Thanksgiving Day. $
+ 24 adults\, $19 ages 3–15\, 2 and under free. Details: https://weekendsc
+ out.app/e/durham/museum-of-life-and-science-2026-11/
+URL:https://weekendscout.app/e/durham/museum-of-life-and-science-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:durham-museum-of-life-and-science-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261128T150000Z
+DTEND:20261128T220000Z
+SUMMARY:Museum of Life and Science
+LOCATION:Museum of Life and Science\, 433 W Murray Ave\, Durham\, NC 27704
+DESCRIPTION:Durham's hands-on science museum\, with exhibits and outdoor n
+ ature areas\, open 10 a.m. to 5 p.m. after closing for Thanksgiving Day. $
+ 24 adults\, $19 ages 3–15\, 2 and under free. Details: https://weekendsc
+ out.app/e/durham/museum-of-life-and-science-2026-11/
+URL:https://weekendscout.app/e/durham/museum-of-life-and-science-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:durham-museum-of-life-and-science-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261129T150000Z
+DTEND:20261129T220000Z
+SUMMARY:Museum of Life and Science
+LOCATION:Museum of Life and Science\, 433 W Murray Ave\, Durham\, NC 27704
+DESCRIPTION:Durham's hands-on science museum\, with exhibits and outdoor n
+ ature areas\, open 10 a.m. to 5 p.m. after closing for Thanksgiving Day. $
+ 24 adults\, $19 ages 3–15\, 2 and under free. Details: https://weekendsc
+ out.app/e/durham/museum-of-life-and-science-2026-11/
+URL:https://weekendscout.app/e/durham/museum-of-life-and-science-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:durham-durham-craft-market-shop-small-saturday-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261128T140000Z
+DTEND:20261128T200000Z
+SUMMARY:Durham Craft Market Shop Small Saturday
+LOCATION:Durham Central Park Pavilion\, 501 Foster St\, Durham\, NC 27701
+DESCRIPTION:Local makers sell handmade gifts at Durham Central Park for Sm
+ all Business Saturday\, alongside the Saturday farmers' market. Free. Deta
+ ils: https://weekendscout.app/e/durham/durham-craft-market-shop-small-satu
+ rday-2026-11/
+URL:https://weekendscout.app/e/durham/durham-craft-market-shop-small-saturday-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:durham-motorco-holiday-record-fair-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261129T170000Z
+DTEND:20261129T220000Z
+SUMMARY:Holiday Record Fair
+LOCATION:Motorco Music Hall\, 723 Rigsbee Ave\, Durham\, NC 27701
+DESCRIPTION:Crate-digging for vinyl and holiday gifts at Motorco on Sunday
+  afternoon. Free admission. Details: https://weekendscout.app/e/durham/mot
+ orco-holiday-record-fair-2026-11/
+URL:https://weekendscout.app/e/durham/motorco-holiday-record-fair-2026-11/
 END:VEVENT
 END:VCALENDAR

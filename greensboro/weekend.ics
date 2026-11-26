@@ -8,161 +8,291 @@ X-WR-CALDESC:Hand-checked weekend picks in Greensboro, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:greensboro-weatherspoon-art-museum-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T014208Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Weatherspoon Art Museum
-LOCATION:Weatherspoon Art Museum\, 500 Tate St\, Greensboro\, NC 27403
-DESCRIPTION:UNCG’s modern and contemporary art museum\, free to visit. F
- ree admission. Details: https://weekendscout.app/e/greensboro/weatherspoon
- -art-museum-2026-11/
-URL:https://weekendscout.app/e/greensboro/weatherspoon-art-museum-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:greensboro-weatherspoon-art-museum-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T014208Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Weatherspoon Art Museum
-LOCATION:Weatherspoon Art Museum\, 500 Tate St\, Greensboro\, NC 27403
-DESCRIPTION:UNCG’s modern and contemporary art museum\, free to visit. F
- ree admission. Details: https://weekendscout.app/e/greensboro/weatherspoon
- -art-museum-2026-11/
-URL:https://weekendscout.app/e/greensboro/weatherspoon-art-museum-2026-11/
-END:VEVENT
-BEGIN:VEVENT
 UID:greensboro-wicked-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T014208Z
+DTSTAMP:20261126T021602Z
 DTSTART:20261127T190000Z
 DTEND:20261127T210000Z
 SUMMARY:Wicked
 LOCATION:Steven Tanger Center for the Performing Arts\, 300 N Elm St\, Gre
  ensboro\, NC 27401
-DESCRIPTION:The Broadway blockbuster on tour\, five shows this weekend. Ti
- ckets. Details: https://weekendscout.app/e/greensboro/wicked-2026-11/
+DESCRIPTION:The Broadway blockbuster on tour\, with five performances over
+  Thanksgiving weekend during its Nov 18–Dec 6 run. Tickets. Details: htt
+ ps://weekendscout.app/e/greensboro/wicked-2026-11/
 URL:https://weekendscout.app/e/greensboro/wicked-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:greensboro-wicked-2026-11-fri-1@weekendscout.app
-DTSTAMP:20261126T014208Z
+DTSTAMP:20261126T021602Z
 DTSTART:20261128T010000Z
 DTEND:20261128T030000Z
 SUMMARY:Wicked
 LOCATION:Steven Tanger Center for the Performing Arts\, 300 N Elm St\, Gre
  ensboro\, NC 27401
-DESCRIPTION:The Broadway blockbuster on tour\, five shows this weekend. Ti
- ckets. Details: https://weekendscout.app/e/greensboro/wicked-2026-11/
+DESCRIPTION:The Broadway blockbuster on tour\, with five performances over
+  Thanksgiving weekend during its Nov 18–Dec 6 run. Tickets. Details: htt
+ ps://weekendscout.app/e/greensboro/wicked-2026-11/
 URL:https://weekendscout.app/e/greensboro/wicked-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:greensboro-wicked-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T014208Z
+DTSTAMP:20261126T021602Z
 DTSTART:20261128T190000Z
 DTEND:20261128T210000Z
 SUMMARY:Wicked
 LOCATION:Steven Tanger Center for the Performing Arts\, 300 N Elm St\, Gre
  ensboro\, NC 27401
-DESCRIPTION:The Broadway blockbuster on tour\, five shows this weekend. Ti
- ckets. Details: https://weekendscout.app/e/greensboro/wicked-2026-11/
+DESCRIPTION:The Broadway blockbuster on tour\, with five performances over
+  Thanksgiving weekend during its Nov 18–Dec 6 run. Tickets. Details: htt
+ ps://weekendscout.app/e/greensboro/wicked-2026-11/
 URL:https://weekendscout.app/e/greensboro/wicked-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:greensboro-wicked-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261126T014208Z
+DTSTAMP:20261126T021602Z
 DTSTART:20261129T010000Z
 DTEND:20261129T030000Z
 SUMMARY:Wicked
 LOCATION:Steven Tanger Center for the Performing Arts\, 300 N Elm St\, Gre
  ensboro\, NC 27401
-DESCRIPTION:The Broadway blockbuster on tour\, five shows this weekend. Ti
- ckets. Details: https://weekendscout.app/e/greensboro/wicked-2026-11/
+DESCRIPTION:The Broadway blockbuster on tour\, with five performances over
+  Thanksgiving weekend during its Nov 18–Dec 6 run. Tickets. Details: htt
+ ps://weekendscout.app/e/greensboro/wicked-2026-11/
 URL:https://weekendscout.app/e/greensboro/wicked-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:greensboro-wicked-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T014208Z
+DTSTAMP:20261126T021602Z
 DTSTART:20261129T200000Z
 DTEND:20261129T220000Z
 SUMMARY:Wicked
 LOCATION:Steven Tanger Center for the Performing Arts\, 300 N Elm St\, Gre
  ensboro\, NC 27401
-DESCRIPTION:The Broadway blockbuster on tour\, five shows this weekend. Ti
- ckets. Details: https://weekendscout.app/e/greensboro/wicked-2026-11/
+DESCRIPTION:The Broadway blockbuster on tour\, with five performances over
+  Thanksgiving weekend during its Nov 18–Dec 6 run. Tickets. Details: htt
+ ps://weekendscout.app/e/greensboro/wicked-2026-11/
 URL:https://weekendscout.app/e/greensboro/wicked-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:greensboro-greensboro-swarm-vs-college-park-skyhawks-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T014208Z
+DTSTAMP:20261126T021602Z
 DTSTART:20261128T000000Z
 DTEND:20261128T020000Z
 SUMMARY:Greensboro Swarm vs. College Park Skyhawks
 LOCATION:Novant Health Fieldhouse\, 1921 W Gate City Blvd\, Greensboro\, N
  C 27403
-DESCRIPTION:NBA G League basketball\, Friday and Saturday. Tickets. Detail
- s: https://weekendscout.app/e/greensboro/greensboro-swarm-vs-college-park-
- skyhawks-2026-11/
+DESCRIPTION:The Hornets' NBA G League affiliate hosts a post-Thanksgiving 
+ two-game set against College Park. Tickets. Details: https://weekendscout.
+ app/e/greensboro/greensboro-swarm-vs-college-park-skyhawks-2026-11/
 URL:https://weekendscout.app/e/greensboro/greensboro-swarm-vs-college-park-skyhawks-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:greensboro-greensboro-swarm-vs-college-park-skyhawks-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T014208Z
+DTSTAMP:20261126T021602Z
 DTSTART:20261128T230000Z
 DTEND:20261129T010000Z
 SUMMARY:Greensboro Swarm vs. College Park Skyhawks
 LOCATION:Novant Health Fieldhouse\, 1921 W Gate City Blvd\, Greensboro\, N
  C 27403
-DESCRIPTION:NBA G League basketball\, Friday and Saturday. Tickets. Detail
- s: https://weekendscout.app/e/greensboro/greensboro-swarm-vs-college-park-
- skyhawks-2026-11/
+DESCRIPTION:The Hornets' NBA G League affiliate hosts a post-Thanksgiving 
+ two-game set against College Park. Tickets. Details: https://weekendscout.
+ app/e/greensboro/greensboro-swarm-vs-college-park-skyhawks-2026-11/
 URL:https://weekendscout.app/e/greensboro/greensboro-swarm-vs-college-park-skyhawks-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:greensboro-ladies-love-r-b-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T014208Z
+DTSTAMP:20261126T021602Z
 DTSTART:20261129T010000Z
 DTEND:20261129T030000Z
 SUMMARY:Ladies Love R&B
 LOCATION:First Horizon Coliseum\, 1921 W Gate City Blvd\, Greensboro\, NC 
  27403
-DESCRIPTION:Keyshia Cole\, Tyrese\, Ginuwine\, 112 and Pleasure P on one b
- ill. Tickets. Details: https://weekendscout.app/e/greensboro/ladies-love-r
- -b-2026-11/
+DESCRIPTION:Keyshia Cole\, Tyrese\, Ginuwine\, 112 and Pleasure P on one S
+ aturday-night bill. Tickets. Details: https://weekendscout.app/e/greensbor
+ o/ladies-love-r-b-2026-11/
 URL:https://weekendscout.app/e/greensboro/ladies-love-r-b-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:greensboro-mario-tory-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T014208Z
-DTSTART:20261128T000000Z
-DTEND:20261128T020000Z
+DTSTAMP:20261126T021602Z
+DTSTART:20261128T010000Z
+DTEND:20261128T030000Z
 SUMMARY:Mario Tory
 LOCATION:Comedy Zone\, 1126 S Holden Rd\, Greensboro\, NC 27407
-DESCRIPTION:Stand-up\, three shows. Tickets. Details: https://weekendscout
- .app/e/greensboro/mario-tory-2026-11/
+DESCRIPTION:Stand-up from Mario Tory\, with one show Friday and two on Sat
+ urday. Tickets. Details: https://weekendscout.app/e/greensboro/mario-tory-
+ 2026-11/
 URL:https://weekendscout.app/e/greensboro/mario-tory-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:greensboro-mario-tory-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T014208Z
+DTSTAMP:20261126T021602Z
 DTSTART:20261129T000000Z
 DTEND:20261129T020000Z
 SUMMARY:Mario Tory
 LOCATION:Comedy Zone\, 1126 S Holden Rd\, Greensboro\, NC 27407
-DESCRIPTION:Stand-up\, three shows. Tickets. Details: https://weekendscout
- .app/e/greensboro/mario-tory-2026-11/
+DESCRIPTION:Stand-up from Mario Tory\, with one show Friday and two on Sat
+ urday. Tickets. Details: https://weekendscout.app/e/greensboro/mario-tory-
+ 2026-11/
 URL:https://weekendscout.app/e/greensboro/mario-tory-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:greensboro-mario-tory-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261126T014208Z
+DTSTAMP:20261126T021602Z
 DTSTART:20261129T020000Z
 DTEND:20261129T040000Z
 SUMMARY:Mario Tory
 LOCATION:Comedy Zone\, 1126 S Holden Rd\, Greensboro\, NC 27407
-DESCRIPTION:Stand-up\, three shows. Tickets. Details: https://weekendscout
- .app/e/greensboro/mario-tory-2026-11/
+DESCRIPTION:Stand-up from Mario Tory\, with one show Friday and two on Sat
+ urday. Tickets. Details: https://weekendscout.app/e/greensboro/mario-tory-
+ 2026-11/
 URL:https://weekendscout.app/e/greensboro/mario-tory-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:greensboro-craftsmens-christmas-classic-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261127T140000Z
+DTEND:20261127T230000Z
+SUMMARY:Craftsmen's Christmas Classic Art & Craft Festival
+LOCATION:Special Events Center\, Greensboro Complex\, 1921 W Gate City Blv
+ d\, Greensboro\, NC 27403
+DESCRIPTION:A long-running holiday art and craft show filling the Special 
+ Events Center all weekend. Admission is card only at the door. $10 adults\
+ , $1 ages 6–12\, under 6 free. Details: https://weekendscout.app/e/green
+ sboro/craftsmens-christmas-classic-2026-11/
+URL:https://weekendscout.app/e/greensboro/craftsmens-christmas-classic-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:greensboro-craftsmens-christmas-classic-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261128T150000Z
+DTEND:20261128T230000Z
+SUMMARY:Craftsmen's Christmas Classic Art & Craft Festival
+LOCATION:Special Events Center\, Greensboro Complex\, 1921 W Gate City Blv
+ d\, Greensboro\, NC 27403
+DESCRIPTION:A long-running holiday art and craft show filling the Special 
+ Events Center all weekend. Admission is card only at the door. $10 adults\
+ , $1 ages 6–12\, under 6 free. Details: https://weekendscout.app/e/green
+ sboro/craftsmens-christmas-classic-2026-11/
+URL:https://weekendscout.app/e/greensboro/craftsmens-christmas-classic-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:greensboro-craftsmens-christmas-classic-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261129T150000Z
+DTEND:20261129T210000Z
+SUMMARY:Craftsmen's Christmas Classic Art & Craft Festival
+LOCATION:Special Events Center\, Greensboro Complex\, 1921 W Gate City Blv
+ d\, Greensboro\, NC 27403
+DESCRIPTION:A long-running holiday art and craft show filling the Special 
+ Events Center all weekend. Admission is card only at the door. $10 adults\
+ , $1 ages 6–12\, under 6 free. Details: https://weekendscout.app/e/green
+ sboro/craftsmens-christmas-classic-2026-11/
+URL:https://weekendscout.app/e/greensboro/craftsmens-christmas-classic-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:greensboro-winter-wonderlights-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261127T220000Z
+DTEND:20261128T030000Z
+SUMMARY:Winter Wonderlights
+LOCATION:Greensboro Science Center\, 4301 Lawndale Dr\, Greensboro\, NC 27
+ 455
+DESCRIPTION:The Science Center's after-dark holiday light walk returns for
+  its seventh season\, running 5–10 p.m. Kids 2 and under are free. Ticke
+ ts. Details: https://weekendscout.app/e/greensboro/winter-wonderlights-202
+ 6-11/
+URL:https://weekendscout.app/e/greensboro/winter-wonderlights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:greensboro-winter-wonderlights-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261128T220000Z
+DTEND:20261129T030000Z
+SUMMARY:Winter Wonderlights
+LOCATION:Greensboro Science Center\, 4301 Lawndale Dr\, Greensboro\, NC 27
+ 455
+DESCRIPTION:The Science Center's after-dark holiday light walk returns for
+  its seventh season\, running 5–10 p.m. Kids 2 and under are free. Ticke
+ ts. Details: https://weekendscout.app/e/greensboro/winter-wonderlights-202
+ 6-11/
+URL:https://weekendscout.app/e/greensboro/winter-wonderlights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:greensboro-winter-wonderlights-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261129T220000Z
+DTEND:20261130T030000Z
+SUMMARY:Winter Wonderlights
+LOCATION:Greensboro Science Center\, 4301 Lawndale Dr\, Greensboro\, NC 27
+ 455
+DESCRIPTION:The Science Center's after-dark holiday light walk returns for
+  its seventh season\, running 5–10 p.m. Kids 2 and under are free. Ticke
+ ts. Details: https://weekendscout.app/e/greensboro/winter-wonderlights-202
+ 6-11/
+URL:https://weekendscout.app/e/greensboro/winter-wonderlights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:greensboro-piedmont-winterfest-skating-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Winterfest Ice Skating
+LOCATION:LeBauer Park\, 200 N Davie St\, Greensboro\, NC 27401
+DESCRIPTION:Downtown Greensboro's seasonal outdoor ice rink in LeBauer Par
+ k\, open Nov 20 through Jan 31. $15\, skate rental included. Details: http
+ s://weekendscout.app/e/greensboro/piedmont-winterfest-skating-2026-11/
+URL:https://weekendscout.app/e/greensboro/piedmont-winterfest-skating-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:greensboro-piedmont-winterfest-skating-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261128T170000Z
+DTEND:20261129T030000Z
+SUMMARY:Winterfest Ice Skating
+LOCATION:LeBauer Park\, 200 N Davie St\, Greensboro\, NC 27401
+DESCRIPTION:Downtown Greensboro's seasonal outdoor ice rink in LeBauer Par
+ k\, open Nov 20 through Jan 31. $15\, skate rental included. Details: http
+ s://weekendscout.app/e/greensboro/piedmont-winterfest-skating-2026-11/
+URL:https://weekendscout.app/e/greensboro/piedmont-winterfest-skating-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:greensboro-piedmont-winterfest-skating-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261129T170000Z
+DTEND:20261130T010000Z
+SUMMARY:Winterfest Ice Skating
+LOCATION:LeBauer Park\, 200 N Davie St\, Greensboro\, NC 27401
+DESCRIPTION:Downtown Greensboro's seasonal outdoor ice rink in LeBauer Par
+ k\, open Nov 20 through Jan 31. $15\, skate rental included. Details: http
+ s://weekendscout.app/e/greensboro/piedmont-winterfest-skating-2026-11/
+URL:https://weekendscout.app/e/greensboro/piedmont-winterfest-skating-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:greensboro-weatherspoon-art-museum-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261128T150000Z
+DTEND:20261128T220000Z
+SUMMARY:Weatherspoon Art Museum
+LOCATION:Weatherspoon Art Museum\, 1005 Spring Garden St\, Greensboro\, NC
+  27412
+DESCRIPTION:UNC Greensboro's modern and contemporary art museum\, with fre
+ e admission and free parking. Closed Sundays. Free admission. Details: htt
+ ps://weekendscout.app/e/greensboro/weatherspoon-art-museum-2026-11/
+URL:https://weekendscout.app/e/greensboro/weatherspoon-art-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:greensboro-greensboro-farmers-curb-market-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261128T120000Z
+DTEND:20261128T170000Z
+SUMMARY:Greensboro Farmers Curb Market
+LOCATION:Greensboro Farmers Curb Market\, 501 Yanceyville St\, Greensboro\
+ , NC
+DESCRIPTION:Greensboro's year-round Saturday morning market across from Wa
+ r Memorial Stadium\, a good spot for Small Business Saturday shopping. Fre
+ e. Details: https://weekendscout.app/e/greensboro/greensboro-farmers-curb-
+ market-2026-11/
+URL:https://weekendscout.app/e/greensboro/greensboro-farmers-curb-market-2026-11/
 END:VEVENT
 END:VCALENDAR

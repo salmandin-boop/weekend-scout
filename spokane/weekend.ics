@@ -8,113 +8,142 @@ X-WR-CALDESC:Hand-checked weekend picks in Spokane, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:spokane-riverfront-park-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T014208Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Riverfront Park
-LOCATION:Riverfront Park\, 507 N Howard St\, Spokane\, WA 99201
-DESCRIPTION:The 100-acre downtown park around Spokane Falls\, with the Pav
- ilion and the Garbage Goat. Free. Details: https://weekendscout.app/e/spok
- ane/riverfront-park-2026-11/
-URL:https://weekendscout.app/e/spokane/riverfront-park-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:spokane-riverfront-park-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T014208Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Riverfront Park
-LOCATION:Riverfront Park\, 507 N Howard St\, Spokane\, WA 99201
-DESCRIPTION:The 100-acre downtown park around Spokane Falls\, with the Pav
- ilion and the Garbage Goat. Free. Details: https://weekendscout.app/e/spok
- ane/riverfront-park-2026-11/
-URL:https://weekendscout.app/e/spokane/riverfront-park-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:spokane-riverfront-park-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T014208Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Riverfront Park
-LOCATION:Riverfront Park\, 507 N Howard St\, Spokane\, WA 99201
-DESCRIPTION:The 100-acre downtown park around Spokane Falls\, with the Pav
- ilion and the Garbage Goat. Free. Details: https://weekendscout.app/e/spok
- ane/riverfront-park-2026-11/
-URL:https://weekendscout.app/e/spokane/riverfront-park-2026-11/
-END:VEVENT
-BEGIN:VEVENT
 UID:spokane-alter-bridge-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T014208Z
+DTSTAMP:20261126T021602Z
 DTSTART:20261128T030000Z
 DTEND:20261128T050000Z
 SUMMARY:Alter Bridge
 LOCATION:Martin Woldson Theater at the Fox\, 1001 W Sprague Ave\, Spokane\
  , WA 99201
-DESCRIPTION:The rock band in the restored art deco Fox Theater. Tickets. D
+DESCRIPTION:The rock band brings its What Lies Within tour to the restored
+  art deco Fox\, with Big Wreck and Tim Montana opening. $50.50–$96.50. D
  etails: https://weekendscout.app/e/spokane/alter-bridge-2026-11/
 URL:https://weekendscout.app/e/spokane/alter-bridge-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:spokane-jay-chandrasekhar-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T014208Z
+DTSTAMP:20261126T021602Z
 DTSTART:20261128T030000Z
 DTEND:20261128T050000Z
 SUMMARY:Jay Chandrasekhar
 LOCATION:Spokane Comedy Club\, 315 W Sprague Ave\, Spokane\, WA 99201
-DESCRIPTION:The Super Troopers director and Broken Lizard comic\, four sho
- ws. Tickets. Details: https://weekendscout.app/e/spokane/jay-chandrasekhar
- -2026-11/
+DESCRIPTION:The Super Troopers director and Broken Lizard comic does stand
+ -up\, with two shows each night. $31–$42. Details: https://weekendscout.
+ app/e/spokane/jay-chandrasekhar-2026-11/
 URL:https://weekendscout.app/e/spokane/jay-chandrasekhar-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:spokane-jay-chandrasekhar-2026-11-fri-1@weekendscout.app
-DTSTAMP:20261126T014208Z
+DTSTAMP:20261126T021602Z
 DTSTART:20261128T054500Z
 DTEND:20261128T074500Z
 SUMMARY:Jay Chandrasekhar
 LOCATION:Spokane Comedy Club\, 315 W Sprague Ave\, Spokane\, WA 99201
-DESCRIPTION:The Super Troopers director and Broken Lizard comic\, four sho
- ws. Tickets. Details: https://weekendscout.app/e/spokane/jay-chandrasekhar
- -2026-11/
+DESCRIPTION:The Super Troopers director and Broken Lizard comic does stand
+ -up\, with two shows each night. $31–$42. Details: https://weekendscout.
+ app/e/spokane/jay-chandrasekhar-2026-11/
 URL:https://weekendscout.app/e/spokane/jay-chandrasekhar-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:spokane-jay-chandrasekhar-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T014208Z
+DTSTAMP:20261126T021602Z
 DTSTART:20261129T030000Z
 DTEND:20261129T050000Z
 SUMMARY:Jay Chandrasekhar
 LOCATION:Spokane Comedy Club\, 315 W Sprague Ave\, Spokane\, WA 99201
-DESCRIPTION:The Super Troopers director and Broken Lizard comic\, four sho
- ws. Tickets. Details: https://weekendscout.app/e/spokane/jay-chandrasekhar
- -2026-11/
+DESCRIPTION:The Super Troopers director and Broken Lizard comic does stand
+ -up\, with two shows each night. $31–$42. Details: https://weekendscout.
+ app/e/spokane/jay-chandrasekhar-2026-11/
 URL:https://weekendscout.app/e/spokane/jay-chandrasekhar-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:spokane-jay-chandrasekhar-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261126T014208Z
+DTSTAMP:20261126T021602Z
 DTSTART:20261129T054500Z
 DTEND:20261129T074500Z
 SUMMARY:Jay Chandrasekhar
 LOCATION:Spokane Comedy Club\, 315 W Sprague Ave\, Spokane\, WA 99201
-DESCRIPTION:The Super Troopers director and Broken Lizard comic\, four sho
- ws. Tickets. Details: https://weekendscout.app/e/spokane/jay-chandrasekhar
- -2026-11/
+DESCRIPTION:The Super Troopers director and Broken Lizard comic does stand
+ -up\, with two shows each night. $31–$42. Details: https://weekendscout.
+ app/e/spokane/jay-chandrasekhar-2026-11/
 URL:https://weekendscout.app/e/spokane/jay-chandrasekhar-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:spokane-spokane-chiefs-vs-kelowna-rockets-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T014208Z
+DTSTAMP:20261126T021602Z
 DTSTART:20261129T020500Z
 DTEND:20261129T040500Z
 SUMMARY:Spokane Chiefs vs. Kelowna Rockets
 LOCATION:Numerica Veterans Arena\, 720 W Mallon Ave\, Spokane\, WA 99201
-DESCRIPTION:WHL junior hockey on Saturday night. Tickets. Details: https:/
- /weekendscout.app/e/spokane/spokane-chiefs-vs-kelowna-rockets-2026-11/
+DESCRIPTION:Saturday night WHL hockey on Fred Meyer Shop With The Chiefs N
+ ight\, which includes a $1\,000 shopping spree giveaway. Tickets. Details:
+  https://weekendscout.app/e/spokane/spokane-chiefs-vs-kelowna-rockets-2026
+ -11/
 URL:https://weekendscout.app/e/spokane/spokane-chiefs-vs-kelowna-rockets-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:spokane-numerica-tree-lighting-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261129T000000Z
+DTEND:20261129T030000Z
+SUMMARY:Numerica Tree Lighting Celebration
+LOCATION:Riverfront Park\, 507 N Howard St\, Spokane\, WA 99201
+DESCRIPTION:Food trucks\, community performances and the downtown tree lig
+ hting at the Numerica Skate Ribbon. Free hot chocolate and light-up wands 
+ while supplies last. Free. Details: https://weekendscout.app/e/spokane/num
+ erica-tree-lighting-2026-11/
+URL:https://weekendscout.app/e/spokane/numerica-tree-lighting-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:spokane-kendall-yards-christmas-market-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261127T200000Z
+DTEND:20261128T000000Z
+SUMMARY:Kendall Yards Winter Festival Christmas Market
+LOCATION:Kendall Yards\, 1335 W Summit Pkwy\, Spokane\, WA 99201
+DESCRIPTION:Local vendors in a heated tent\, Santa\, two live reindeer\, c
+ arolers\, live music and kids' activities along Summit Parkway. Fireworks 
+ on Saturday evening. Free. Details: https://weekendscout.app/e/spokane/ken
+ dall-yards-christmas-market-2026-11/
+URL:https://weekendscout.app/e/spokane/kendall-yards-christmas-market-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:spokane-kendall-yards-christmas-market-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261128T200000Z
+DTEND:20261129T000000Z
+SUMMARY:Kendall Yards Winter Festival Christmas Market
+LOCATION:Kendall Yards\, 1335 W Summit Pkwy\, Spokane\, WA 99201
+DESCRIPTION:Local vendors in a heated tent\, Santa\, two live reindeer\, c
+ arolers\, live music and kids' activities along Summit Parkway. Fireworks 
+ on Saturday evening. Free. Details: https://weekendscout.app/e/spokane/ken
+ dall-yards-christmas-market-2026-11/
+URL:https://weekendscout.app/e/spokane/kendall-yards-christmas-market-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:spokane-kendall-yards-christmas-market-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261129T200000Z
+DTEND:20261130T000000Z
+SUMMARY:Kendall Yards Winter Festival Christmas Market
+LOCATION:Kendall Yards\, 1335 W Summit Pkwy\, Spokane\, WA 99201
+DESCRIPTION:Local vendors in a heated tent\, Santa\, two live reindeer\, c
+ arolers\, live music and kids' activities along Summit Parkway. Fireworks 
+ on Saturday evening. Free. Details: https://weekendscout.app/e/spokane/ken
+ dall-yards-christmas-market-2026-11/
+URL:https://weekendscout.app/e/spokane/kendall-yards-christmas-market-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:spokane-celtic-christmas-ireland-with-michael-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261129T030000Z
+DTEND:20261129T050000Z
+SUMMARY:A Celtic Christmas: Ireland with Michael
+LOCATION:The Bing Crosby Theater\, 901 W Sprague Ave\, Spokane\, WA 99201
+DESCRIPTION:Irish singer and PBS host Michael Londra mixes carols\, tradit
+ ional tunes and stories\, joined by local musicians and Haran School of Ir
+ ish Dance. Tickets. Details: https://weekendscout.app/e/spokane/celtic-chr
+ istmas-ireland-with-michael-2026-11/
+URL:https://weekendscout.app/e/spokane/celtic-christmas-ireland-with-michael-2026-11/
 END:VEVENT
 END:VCALENDAR

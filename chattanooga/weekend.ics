@@ -8,98 +8,238 @@ X-WR-CALDESC:Hand-checked weekend picks in Chattanooga, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
+UID:chattanooga-asian-lantern-festival-chattanooga-zoo-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261127T223000Z
+DTEND:20261128T023000Z
+SUMMARY:Asian Lantern Festival: Wildlife Wonderland
+LOCATION:Chattanooga Zoo\, 301 N Holtzclaw Ave\, Chattanooga\, TN 37404
+DESCRIPTION:Hundreds of glowing lantern displays fill the zoo after dark. 
+ Kids 2 and under are free but still need a reserved ticket. $23.50 adults\
+ , $17.50 kids 3–12. Details: https://weekendscout.app/e/chattanooga/asia
+ n-lantern-festival-chattanooga-zoo-2026-11/
+URL:https://weekendscout.app/e/chattanooga/asian-lantern-festival-chattanooga-zoo-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:chattanooga-asian-lantern-festival-chattanooga-zoo-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261128T223000Z
+DTEND:20261129T023000Z
+SUMMARY:Asian Lantern Festival: Wildlife Wonderland
+LOCATION:Chattanooga Zoo\, 301 N Holtzclaw Ave\, Chattanooga\, TN 37404
+DESCRIPTION:Hundreds of glowing lantern displays fill the zoo after dark. 
+ Kids 2 and under are free but still need a reserved ticket. $23.50 adults\
+ , $17.50 kids 3–12. Details: https://weekendscout.app/e/chattanooga/asia
+ n-lantern-festival-chattanooga-zoo-2026-11/
+URL:https://weekendscout.app/e/chattanooga/asian-lantern-festival-chattanooga-zoo-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:chattanooga-asian-lantern-festival-chattanooga-zoo-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261129T223000Z
+DTEND:20261130T023000Z
+SUMMARY:Asian Lantern Festival: Wildlife Wonderland
+LOCATION:Chattanooga Zoo\, 301 N Holtzclaw Ave\, Chattanooga\, TN 37404
+DESCRIPTION:Hundreds of glowing lantern displays fill the zoo after dark. 
+ Kids 2 and under are free but still need a reserved ticket. $23.50 adults\
+ , $17.50 kids 3–12. Details: https://weekendscout.app/e/chattanooga/asia
+ n-lantern-festival-chattanooga-zoo-2026-11/
+URL:https://weekendscout.app/e/chattanooga/asian-lantern-festival-chattanooga-zoo-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:chattanooga-rock-city-enchanted-garden-of-lights-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Enchanted Garden of Lights
+LOCATION:Rock City Gardens\, 1400 Patten Rd\, Lookout Mountain\, GA 30750
+DESCRIPTION:Rock City's mountaintop trails glow with holiday light display
+ s. Tickets are sold online only and prices vary by date and entry time. Fr
+ om $25 kids 3–12\, adults from $35. Details: https://weekendscout.app/e/
+ chattanooga/rock-city-enchanted-garden-of-lights-2026-11/
+URL:https://weekendscout.app/e/chattanooga/rock-city-enchanted-garden-of-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:chattanooga-rock-city-enchanted-garden-of-lights-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Enchanted Garden of Lights
+LOCATION:Rock City Gardens\, 1400 Patten Rd\, Lookout Mountain\, GA 30750
+DESCRIPTION:Rock City's mountaintop trails glow with holiday light display
+ s. Tickets are sold online only and prices vary by date and entry time. Fr
+ om $25 kids 3–12\, adults from $35. Details: https://weekendscout.app/e/
+ chattanooga/rock-city-enchanted-garden-of-lights-2026-11/
+URL:https://weekendscout.app/e/chattanooga/rock-city-enchanted-garden-of-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:chattanooga-rock-city-enchanted-garden-of-lights-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Enchanted Garden of Lights
+LOCATION:Rock City Gardens\, 1400 Patten Rd\, Lookout Mountain\, GA 30750
+DESCRIPTION:Rock City's mountaintop trails glow with holiday light display
+ s. Tickets are sold online only and prices vary by date and entry time. Fr
+ om $25 kids 3–12\, adults from $35. Details: https://weekendscout.app/e/
+ chattanooga/rock-city-enchanted-garden-of-lights-2026-11/
+URL:https://weekendscout.app/e/chattanooga/rock-city-enchanted-garden-of-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:chattanooga-gabriel-iglesias-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261130T003000Z
+DTEND:20261130T023000Z
+SUMMARY:Gabriel Iglesias: The 1976 Tour
+LOCATION:Soldiers & Sailors Memorial Auditorium\, 399 McCallie Ave\, Chatt
+ anooga\, TN 37402
+DESCRIPTION:"Fluffy" brings his 1976 Tour to the Memorial Auditorium on Su
+ nday night. Tickets. Details: https://weekendscout.app/e/chattanooga/gabri
+ el-iglesias-2026-11/
+URL:https://weekendscout.app/e/chattanooga/gabriel-iglesias-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:chattanooga-lupita-infante-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261129T010000Z
+DTEND:20261129T040000Z
+SUMMARY:Lupita Infante
+LOCATION:The Signal\, 21 Choo Choo Ave\, Chattanooga\, TN 37402
+DESCRIPTION:The ranchera singer plays The Signal on Saturday night. Doors 
+ open at 6:30 p.m. Tickets. Details: https://weekendscout.app/e/chattanooga
+ /lupita-infante-2026-11/
+URL:https://weekendscout.app/e/chattanooga/lupita-infante-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:chattanooga-patrick-garrity-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261128T000000Z
+DTEND:20261128T020000Z
+SUMMARY:Patrick Garrity
+LOCATION:The Comedy Catch\, 29 Station St\, Chattanooga\, TN 37408
+DESCRIPTION:Stand-up from Patrick Garrity\, with three shows over two nigh
+ ts. There is a $5 per person food or drink minimum. Tickets. Details: http
+ s://weekendscout.app/e/chattanooga/patrick-garrity-2026-11/
+URL:https://weekendscout.app/e/chattanooga/patrick-garrity-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:chattanooga-patrick-garrity-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:Patrick Garrity
+LOCATION:The Comedy Catch\, 29 Station St\, Chattanooga\, TN 37408
+DESCRIPTION:Stand-up from Patrick Garrity\, with three shows over two nigh
+ ts. There is a $5 per person food or drink minimum. Tickets. Details: http
+ s://weekendscout.app/e/chattanooga/patrick-garrity-2026-11/
+URL:https://weekendscout.app/e/chattanooga/patrick-garrity-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:chattanooga-patrick-garrity-2026-11-sat-1@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261129T021500Z
+DTEND:20261129T041500Z
+SUMMARY:Patrick Garrity
+LOCATION:The Comedy Catch\, 29 Station St\, Chattanooga\, TN 37408
+DESCRIPTION:Stand-up from Patrick Garrity\, with three shows over two nigh
+ ts. There is a $5 per person food or drink minimum. Tickets. Details: http
+ s://weekendscout.app/e/chattanooga/patrick-garrity-2026-11/
+URL:https://weekendscout.app/e/chattanooga/patrick-garrity-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:chattanooga-mocs-vs-troy-mbb-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261128T190000Z
+DTEND:20261128T210000Z
+SUMMARY:Chattanooga Mocs vs. Troy
+LOCATION:McKenzie Arena\, 720 E 4th St\, Chattanooga\, TN 37403
+DESCRIPTION:UTC men's basketball hosts Troy on Saturday afternoon at the R
+ oundhouse. Check ticket prices. Details: https://weekendscout.app/e/chatta
+ nooga/mocs-vs-troy-mbb-2026-11-28/
+URL:https://weekendscout.app/e/chattanooga/mocs-vs-troy-mbb-2026-11-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:chattanooga-hunter-museum-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261127T150000Z
+DTEND:20261127T220000Z
+SUMMARY:Hunter Museum of American Art
+LOCATION:Hunter Museum of American Art\, 10 Bluff View Ave\, Chattanooga\,
+  TN 37403
+DESCRIPTION:American art from colonial portraits to contemporary works\, o
+ n a bluff above the Tennessee River. Closed Thanksgiving Day\, open Friday
+  through Sunday. $20 adults\; 17 and under free. Details: https://weekends
+ cout.app/e/chattanooga/hunter-museum-2026-11/
+URL:https://weekendscout.app/e/chattanooga/hunter-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:chattanooga-hunter-museum-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261128T150000Z
+DTEND:20261128T220000Z
+SUMMARY:Hunter Museum of American Art
+LOCATION:Hunter Museum of American Art\, 10 Bluff View Ave\, Chattanooga\,
+  TN 37403
+DESCRIPTION:American art from colonial portraits to contemporary works\, o
+ n a bluff above the Tennessee River. Closed Thanksgiving Day\, open Friday
+  through Sunday. $20 adults\; 17 and under free. Details: https://weekends
+ cout.app/e/chattanooga/hunter-museum-2026-11/
+URL:https://weekendscout.app/e/chattanooga/hunter-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:chattanooga-hunter-museum-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261129T170000Z
+DTEND:20261129T220000Z
+SUMMARY:Hunter Museum of American Art
+LOCATION:Hunter Museum of American Art\, 10 Bluff View Ave\, Chattanooga\,
+  TN 37403
+DESCRIPTION:American art from colonial portraits to contemporary works\, o
+ n a bluff above the Tennessee River. Closed Thanksgiving Day\, open Friday
+  through Sunday. $20 adults\; 17 and under free. Details: https://weekends
+ cout.app/e/chattanooga/hunter-museum-2026-11/
+URL:https://weekendscout.app/e/chattanooga/hunter-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
 UID:chattanooga-walnut-street-bridge-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T014208Z
+DTSTAMP:20261126T021602Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
 SUMMARY:Walnut Street Bridge
 LOCATION:Walnut Street Bridge\, 1 Walnut St\, Chattanooga\, TN 37403
-DESCRIPTION:One of the world’s longest pedestrian bridges\, linking down
- town and the North Shore over the Tennessee River. Free. Details: https://
- weekendscout.app/e/chattanooga/walnut-street-bridge-2026-11/
+DESCRIPTION:One of the world's longest pedestrian bridges\, linking downto
+ wn and the North Shore over the Tennessee River. Free. Details: https://we
+ ekendscout.app/e/chattanooga/walnut-street-bridge-2026-11/
 URL:https://weekendscout.app/e/chattanooga/walnut-street-bridge-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:chattanooga-walnut-street-bridge-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T014208Z
+DTSTAMP:20261126T021602Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
 SUMMARY:Walnut Street Bridge
 LOCATION:Walnut Street Bridge\, 1 Walnut St\, Chattanooga\, TN 37403
-DESCRIPTION:One of the world’s longest pedestrian bridges\, linking down
- town and the North Shore over the Tennessee River. Free. Details: https://
- weekendscout.app/e/chattanooga/walnut-street-bridge-2026-11/
+DESCRIPTION:One of the world's longest pedestrian bridges\, linking downto
+ wn and the North Shore over the Tennessee River. Free. Details: https://we
+ ekendscout.app/e/chattanooga/walnut-street-bridge-2026-11/
 URL:https://weekendscout.app/e/chattanooga/walnut-street-bridge-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:chattanooga-walnut-street-bridge-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T014208Z
+DTSTAMP:20261126T021602Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
 SUMMARY:Walnut Street Bridge
 LOCATION:Walnut Street Bridge\, 1 Walnut St\, Chattanooga\, TN 37403
-DESCRIPTION:One of the world’s longest pedestrian bridges\, linking down
- town and the North Shore over the Tennessee River. Free. Details: https://
- weekendscout.app/e/chattanooga/walnut-street-bridge-2026-11/
+DESCRIPTION:One of the world's longest pedestrian bridges\, linking downto
+ wn and the North Shore over the Tennessee River. Free. Details: https://we
+ ekendscout.app/e/chattanooga/walnut-street-bridge-2026-11/
 URL:https://weekendscout.app/e/chattanooga/walnut-street-bridge-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:chattanooga-gabriel-iglesias-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T014208Z
-DTSTART:20261130T003000Z
-DTEND:20261130T023000Z
-SUMMARY:Gabriel Iglesias
-LOCATION:Soldiers & Sailors Memorial Auditorium\, 399 McCallie Ave\, Chatt
- anooga\, TN 37402
-DESCRIPTION:“Fluffy” on Sunday night. Tickets. Details: https://weeken
- dscout.app/e/chattanooga/gabriel-iglesias-2026-11/
-URL:https://weekendscout.app/e/chattanooga/gabriel-iglesias-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:chattanooga-patrick-garrity-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T014208Z
-DTSTART:20261128T000000Z
-DTEND:20261128T020000Z
-SUMMARY:Patrick Garrity
-LOCATION:The Comedy Catch\, 3224 Brainerd Rd\, Chattanooga\, TN 37411
-DESCRIPTION:Stand-up\, three shows. Tickets. Details: https://weekendscout
- .app/e/chattanooga/patrick-garrity-2026-11/
-URL:https://weekendscout.app/e/chattanooga/patrick-garrity-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:chattanooga-patrick-garrity-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T014208Z
-DTSTART:20261129T000000Z
-DTEND:20261129T020000Z
-SUMMARY:Patrick Garrity
-LOCATION:The Comedy Catch\, 3224 Brainerd Rd\, Chattanooga\, TN 37411
-DESCRIPTION:Stand-up\, three shows. Tickets. Details: https://weekendscout
- .app/e/chattanooga/patrick-garrity-2026-11/
-URL:https://weekendscout.app/e/chattanooga/patrick-garrity-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:chattanooga-patrick-garrity-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261126T014208Z
-DTSTART:20261129T021500Z
-DTEND:20261129T041500Z
-SUMMARY:Patrick Garrity
-LOCATION:The Comedy Catch\, 3224 Brainerd Rd\, Chattanooga\, TN 37411
-DESCRIPTION:Stand-up\, three shows. Tickets. Details: https://weekendscout
- .app/e/chattanooga/patrick-garrity-2026-11/
-URL:https://weekendscout.app/e/chattanooga/patrick-garrity-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:chattanooga-lupita-infante-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T014208Z
-DTSTART:20261129T010000Z
-DTEND:20261129T030000Z
-SUMMARY:Lupita Infante
-LOCATION:The Signal\, 1810 Chestnut St\, Chattanooga\, TN 37408
-DESCRIPTION:The ranchera singer at the Southside music venue. Tickets. Det
- ails: https://weekendscout.app/e/chattanooga/lupita-infante-2026-11/
-URL:https://weekendscout.app/e/chattanooga/lupita-infante-2026-11/
 END:VEVENT
 END:VCALENDAR

@@ -8,79 +8,230 @@ X-WR-CALDESC:Hand-checked weekend picks in Harrisburg, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:harrisburg-pennsylvania-state-capitol-tour-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T014208Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
+UID:harrisburg-pennsylvania-state-capitol-tour-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261127T140000Z
+DTEND:20261127T160000Z
 SUMMARY:Pennsylvania State Capitol tour
 LOCATION:Pennsylvania State Capitol\, 501 N 3rd St\, Harrisburg\, PA 17120
-DESCRIPTION:Free guided tours of the 1906 Capitol and its famous dome and 
- Moravian tile floor. Free. Details: https://weekendscout.app/e/harrisburg/
- pennsylvania-state-capitol-tour-2026-11/
+DESCRIPTION:Free 30–45 minute guided tours of the 1906 Capitol run Frida
+ y through Sunday at 9 and 11 a.m. and 1 and 3 p.m. Each tour takes up to 4
+ 0 people\, so booking ahead is recommended. Free. Details: https://weekend
+ scout.app/e/harrisburg/pennsylvania-state-capitol-tour-2026-11/
+URL:https://weekendscout.app/e/harrisburg/pennsylvania-state-capitol-tour-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:harrisburg-pennsylvania-state-capitol-tour-2026-11-fri-1@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261127T160000Z
+DTEND:20261127T180000Z
+SUMMARY:Pennsylvania State Capitol tour
+LOCATION:Pennsylvania State Capitol\, 501 N 3rd St\, Harrisburg\, PA 17120
+DESCRIPTION:Free 30–45 minute guided tours of the 1906 Capitol run Frida
+ y through Sunday at 9 and 11 a.m. and 1 and 3 p.m. Each tour takes up to 4
+ 0 people\, so booking ahead is recommended. Free. Details: https://weekend
+ scout.app/e/harrisburg/pennsylvania-state-capitol-tour-2026-11/
+URL:https://weekendscout.app/e/harrisburg/pennsylvania-state-capitol-tour-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:harrisburg-pennsylvania-state-capitol-tour-2026-11-fri-2@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261127T180000Z
+DTEND:20261127T200000Z
+SUMMARY:Pennsylvania State Capitol tour
+LOCATION:Pennsylvania State Capitol\, 501 N 3rd St\, Harrisburg\, PA 17120
+DESCRIPTION:Free 30–45 minute guided tours of the 1906 Capitol run Frida
+ y through Sunday at 9 and 11 a.m. and 1 and 3 p.m. Each tour takes up to 4
+ 0 people\, so booking ahead is recommended. Free. Details: https://weekend
+ scout.app/e/harrisburg/pennsylvania-state-capitol-tour-2026-11/
+URL:https://weekendscout.app/e/harrisburg/pennsylvania-state-capitol-tour-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:harrisburg-pennsylvania-state-capitol-tour-2026-11-fri-3@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261127T200000Z
+DTEND:20261127T220000Z
+SUMMARY:Pennsylvania State Capitol tour
+LOCATION:Pennsylvania State Capitol\, 501 N 3rd St\, Harrisburg\, PA 17120
+DESCRIPTION:Free 30–45 minute guided tours of the 1906 Capitol run Frida
+ y through Sunday at 9 and 11 a.m. and 1 and 3 p.m. Each tour takes up to 4
+ 0 people\, so booking ahead is recommended. Free. Details: https://weekend
+ scout.app/e/harrisburg/pennsylvania-state-capitol-tour-2026-11/
+URL:https://weekendscout.app/e/harrisburg/pennsylvania-state-capitol-tour-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:harrisburg-pennsylvania-state-capitol-tour-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261128T140000Z
+DTEND:20261128T160000Z
+SUMMARY:Pennsylvania State Capitol tour
+LOCATION:Pennsylvania State Capitol\, 501 N 3rd St\, Harrisburg\, PA 17120
+DESCRIPTION:Free 30–45 minute guided tours of the 1906 Capitol run Frida
+ y through Sunday at 9 and 11 a.m. and 1 and 3 p.m. Each tour takes up to 4
+ 0 people\, so booking ahead is recommended. Free. Details: https://weekend
+ scout.app/e/harrisburg/pennsylvania-state-capitol-tour-2026-11/
+URL:https://weekendscout.app/e/harrisburg/pennsylvania-state-capitol-tour-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:harrisburg-pennsylvania-state-capitol-tour-2026-11-sat-1@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261128T160000Z
+DTEND:20261128T180000Z
+SUMMARY:Pennsylvania State Capitol tour
+LOCATION:Pennsylvania State Capitol\, 501 N 3rd St\, Harrisburg\, PA 17120
+DESCRIPTION:Free 30–45 minute guided tours of the 1906 Capitol run Frida
+ y through Sunday at 9 and 11 a.m. and 1 and 3 p.m. Each tour takes up to 4
+ 0 people\, so booking ahead is recommended. Free. Details: https://weekend
+ scout.app/e/harrisburg/pennsylvania-state-capitol-tour-2026-11/
+URL:https://weekendscout.app/e/harrisburg/pennsylvania-state-capitol-tour-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:harrisburg-pennsylvania-state-capitol-tour-2026-11-sat-2@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261128T180000Z
+DTEND:20261128T200000Z
+SUMMARY:Pennsylvania State Capitol tour
+LOCATION:Pennsylvania State Capitol\, 501 N 3rd St\, Harrisburg\, PA 17120
+DESCRIPTION:Free 30–45 minute guided tours of the 1906 Capitol run Frida
+ y through Sunday at 9 and 11 a.m. and 1 and 3 p.m. Each tour takes up to 4
+ 0 people\, so booking ahead is recommended. Free. Details: https://weekend
+ scout.app/e/harrisburg/pennsylvania-state-capitol-tour-2026-11/
+URL:https://weekendscout.app/e/harrisburg/pennsylvania-state-capitol-tour-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:harrisburg-pennsylvania-state-capitol-tour-2026-11-sat-3@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261128T200000Z
+DTEND:20261128T220000Z
+SUMMARY:Pennsylvania State Capitol tour
+LOCATION:Pennsylvania State Capitol\, 501 N 3rd St\, Harrisburg\, PA 17120
+DESCRIPTION:Free 30–45 minute guided tours of the 1906 Capitol run Frida
+ y through Sunday at 9 and 11 a.m. and 1 and 3 p.m. Each tour takes up to 4
+ 0 people\, so booking ahead is recommended. Free. Details: https://weekend
+ scout.app/e/harrisburg/pennsylvania-state-capitol-tour-2026-11/
 URL:https://weekendscout.app/e/harrisburg/pennsylvania-state-capitol-tour-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:harrisburg-pennsylvania-state-capitol-tour-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T014208Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
+DTSTAMP:20261126T021602Z
+DTSTART:20261129T140000Z
+DTEND:20261129T160000Z
 SUMMARY:Pennsylvania State Capitol tour
 LOCATION:Pennsylvania State Capitol\, 501 N 3rd St\, Harrisburg\, PA 17120
-DESCRIPTION:Free guided tours of the 1906 Capitol and its famous dome and 
- Moravian tile floor. Free. Details: https://weekendscout.app/e/harrisburg/
- pennsylvania-state-capitol-tour-2026-11/
+DESCRIPTION:Free 30–45 minute guided tours of the 1906 Capitol run Frida
+ y through Sunday at 9 and 11 a.m. and 1 and 3 p.m. Each tour takes up to 4
+ 0 people\, so booking ahead is recommended. Free. Details: https://weekend
+ scout.app/e/harrisburg/pennsylvania-state-capitol-tour-2026-11/
 URL:https://weekendscout.app/e/harrisburg/pennsylvania-state-capitol-tour-2026-11/
 END:VEVENT
 BEGIN:VEVENT
-UID:harrisburg-city-island-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T014208Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:City Island
-LOCATION:City Island\, City Island\, Harrisburg\, PA 17101
-DESCRIPTION:Walk the Walnut Street Bridge to the river island park facing 
- the Capitol skyline. Free. Details: https://weekendscout.app/e/harrisburg/
- city-island-2026-11/
-URL:https://weekendscout.app/e/harrisburg/city-island-2026-11/
+UID:harrisburg-pennsylvania-state-capitol-tour-2026-11-sun-1@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261129T160000Z
+DTEND:20261129T180000Z
+SUMMARY:Pennsylvania State Capitol tour
+LOCATION:Pennsylvania State Capitol\, 501 N 3rd St\, Harrisburg\, PA 17120
+DESCRIPTION:Free 30–45 minute guided tours of the 1906 Capitol run Frida
+ y through Sunday at 9 and 11 a.m. and 1 and 3 p.m. Each tour takes up to 4
+ 0 people\, so booking ahead is recommended. Free. Details: https://weekend
+ scout.app/e/harrisburg/pennsylvania-state-capitol-tour-2026-11/
+URL:https://weekendscout.app/e/harrisburg/pennsylvania-state-capitol-tour-2026-11/
 END:VEVENT
 BEGIN:VEVENT
-UID:harrisburg-city-island-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T014208Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:City Island
-LOCATION:City Island\, City Island\, Harrisburg\, PA 17101
-DESCRIPTION:Walk the Walnut Street Bridge to the river island park facing 
- the Capitol skyline. Free. Details: https://weekendscout.app/e/harrisburg/
- city-island-2026-11/
-URL:https://weekendscout.app/e/harrisburg/city-island-2026-11/
+UID:harrisburg-pennsylvania-state-capitol-tour-2026-11-sun-2@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261129T180000Z
+DTEND:20261129T200000Z
+SUMMARY:Pennsylvania State Capitol tour
+LOCATION:Pennsylvania State Capitol\, 501 N 3rd St\, Harrisburg\, PA 17120
+DESCRIPTION:Free 30–45 minute guided tours of the 1906 Capitol run Frida
+ y through Sunday at 9 and 11 a.m. and 1 and 3 p.m. Each tour takes up to 4
+ 0 people\, so booking ahead is recommended. Free. Details: https://weekend
+ scout.app/e/harrisburg/pennsylvania-state-capitol-tour-2026-11/
+URL:https://weekendscout.app/e/harrisburg/pennsylvania-state-capitol-tour-2026-11/
 END:VEVENT
 BEGIN:VEVENT
-UID:harrisburg-city-island-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T014208Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:City Island
-LOCATION:City Island\, City Island\, Harrisburg\, PA 17101
-DESCRIPTION:Walk the Walnut Street Bridge to the river island park facing 
- the Capitol skyline. Free. Details: https://weekendscout.app/e/harrisburg/
- city-island-2026-11/
-URL:https://weekendscout.app/e/harrisburg/city-island-2026-11/
+UID:harrisburg-pennsylvania-state-capitol-tour-2026-11-sun-3@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261129T200000Z
+DTEND:20261129T220000Z
+SUMMARY:Pennsylvania State Capitol tour
+LOCATION:Pennsylvania State Capitol\, 501 N 3rd St\, Harrisburg\, PA 17120
+DESCRIPTION:Free 30–45 minute guided tours of the 1906 Capitol run Frida
+ y through Sunday at 9 and 11 a.m. and 1 and 3 p.m. Each tour takes up to 4
+ 0 people\, so booking ahead is recommended. Free. Details: https://weekend
+ scout.app/e/harrisburg/pennsylvania-state-capitol-tour-2026-11/
+URL:https://weekendscout.app/e/harrisburg/pennsylvania-state-capitol-tour-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:harrisburg-christmas-at-fort-hunter-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261128T173000Z
+DTEND:20261128T213000Z
+SUMMARY:Christmas at Fort Hunter: Toy Trains & Festival of Trees
+LOCATION:Fort Hunter Mansion & Park\, 5395 N Front St\, Harrisburg\, PA 17
+ 110
+DESCRIPTION:Opening weekend of Christmas at Fort Hunter: a free HO-gauge t
+ oy train layout from the Keystone Model Railroad Historical Society and si
+ x themed trees trimmed by local garden clubs\, both in the Centennial Barn
+ . Free. Details: https://weekendscout.app/e/harrisburg/christmas-at-fort-h
+ unter-2026-11/
+URL:https://weekendscout.app/e/harrisburg/christmas-at-fort-hunter-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:harrisburg-christmas-at-fort-hunter-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261129T173000Z
+DTEND:20261129T213000Z
+SUMMARY:Christmas at Fort Hunter: Toy Trains & Festival of Trees
+LOCATION:Fort Hunter Mansion & Park\, 5395 N Front St\, Harrisburg\, PA 17
+ 110
+DESCRIPTION:Opening weekend of Christmas at Fort Hunter: a free HO-gauge t
+ oy train layout from the Keystone Model Railroad Historical Society and si
+ x themed trees trimmed by local garden clubs\, both in the Centennial Barn
+ . Free. Details: https://weekendscout.app/e/harrisburg/christmas-at-fort-h
+ unter-2026-11/
+URL:https://weekendscout.app/e/harrisburg/christmas-at-fort-hunter-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:harrisburg-hersheypark-christmas-candylane-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261127T221500Z
+DTEND:20261128T001500Z
+SUMMARY:Hersheypark Christmas Candylane: Fire & Ice opening night
+LOCATION:Hersheypark\, 100 Hersheypark Dr\, Hershey\, PA 17033
+DESCRIPTION:The holiday park's new Fire & Ice Experience starts Friday\, w
+ ith shows every 15 minutes from 5:15 p.m. and fireworks at 8 p.m. Admissio
+ n includes family rides\, select coasters\, the TREEville trail\, lights\,
+  Santa and ZooAmerica. 1-day tickets $49.99 online. Details: https://weeke
+ ndscout.app/e/harrisburg/hersheypark-christmas-candylane-2026-11/
+URL:https://weekendscout.app/e/harrisburg/hersheypark-christmas-candylane-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:harrisburg-gimme-gimme-disco-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T014208Z
+DTSTAMP:20261126T021602Z
 DTSTART:20261128T010000Z
 DTEND:20261128T030000Z
 SUMMARY:Gimme Gimme Disco
-LOCATION:Capital City Music Hall\, Downtown Harrisburg\, PA
-DESCRIPTION:An ABBA-themed disco dance party. Tickets. Details: https://we
- ekendscout.app/e/harrisburg/gimme-gimme-disco-2026-11/
+LOCATION:Capital City Music Hall\, 234 N 2nd St\, Harrisburg\, PA 17101
+DESCRIPTION:The touring ABBA-themed disco dance party plays the Lower Leve
+ l on Black Friday night. Tickets. Details: https://weekendscout.app/e/harr
+ isburg/gimme-gimme-disco-2026-11/
 URL:https://weekendscout.app/e/harrisburg/gimme-gimme-disco-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:harrisburg-soma-christmas-market-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:SoMa Christmas Market + Block Party
+LOCATION:South Third Street (SoMa)\, S 3rd St between Market St & Chestnut
+  St\, Harrisburg\, PA 17101
+DESCRIPTION:A free outdoor holiday market downtown with shopping\, live mu
+ sic\, Santa's Workshop and food trucks. Street parking is free all day Sun
+ day. Free. Details: https://weekendscout.app/e/harrisburg/soma-christmas-m
+ arket-2026-11/
+URL:https://weekendscout.app/e/harrisburg/soma-christmas-market-2026-11/
 END:VEVENT
 END:VCALENDAR

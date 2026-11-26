@@ -8,88 +8,182 @@ X-WR-CALDESC:Hand-checked weekend picks in Toledo, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:toledo-toledo-museum-of-art-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T014208Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Toledo Museum of Art
-LOCATION:Toledo Museum of Art\, 2445 Monroe St\, Toledo\, OH 43620
-DESCRIPTION:A world-class collection and the Glass Pavilion\, with free ge
- neral admission. Free admission. Details: https://weekendscout.app/e/toled
- o/toledo-museum-of-art-2026-11/
-URL:https://weekendscout.app/e/toledo/toledo-museum-of-art-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:toledo-toledo-museum-of-art-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T014208Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Toledo Museum of Art
-LOCATION:Toledo Museum of Art\, 2445 Monroe St\, Toledo\, OH 43620
-DESCRIPTION:A world-class collection and the Glass Pavilion\, with free ge
- neral admission. Free admission. Details: https://weekendscout.app/e/toled
- o/toledo-museum-of-art-2026-11/
-URL:https://weekendscout.app/e/toledo/toledo-museum-of-art-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:toledo-toledo-museum-of-art-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T014208Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Toledo Museum of Art
-LOCATION:Toledo Museum of Art\, 2445 Monroe St\, Toledo\, OH 43620
-DESCRIPTION:A world-class collection and the Glass Pavilion\, with free ge
- neral admission. Free admission. Details: https://weekendscout.app/e/toled
- o/toledo-museum-of-art-2026-11/
-URL:https://weekendscout.app/e/toledo/toledo-museum-of-art-2026-11/
-END:VEVENT
-BEGIN:VEVENT
 UID:toledo-toledo-walleye-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T014208Z
+DTSTAMP:20261126T021602Z
 DTSTART:20261128T001500Z
 DTEND:20261128T021500Z
 SUMMARY:Toledo Walleye
 LOCATION:Huntington Center\, 500 Jefferson Ave\, Toledo\, OH 43604
-DESCRIPTION:ECHL hockey downtown: Wheeling on Friday\, Fort Wayne on Sunda
- y. Tickets. Details: https://weekendscout.app/e/toledo/toledo-walleye-2026
- -11/
+DESCRIPTION:ECHL hockey downtown: the Black Friday Turkey Hat Drop against
+  Wheeling on Friday\, then WWE Night against Fort Wayne on Sunday. Tickets
+ . Details: https://weekendscout.app/e/toledo/toledo-walleye-2026-11/
 URL:https://weekendscout.app/e/toledo/toledo-walleye-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:toledo-toledo-walleye-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T014208Z
+DTSTAMP:20261126T021602Z
 DTSTART:20261129T221500Z
 DTEND:20261130T001500Z
 SUMMARY:Toledo Walleye
 LOCATION:Huntington Center\, 500 Jefferson Ave\, Toledo\, OH 43604
-DESCRIPTION:ECHL hockey downtown: Wheeling on Friday\, Fort Wayne on Sunda
- y. Tickets. Details: https://weekendscout.app/e/toledo/toledo-walleye-2026
- -11/
+DESCRIPTION:ECHL hockey downtown: the Black Friday Turkey Hat Drop against
+  Wheeling on Friday\, then WWE Night against Fort Wayne on Sunday. Tickets
+ . Details: https://weekendscout.app/e/toledo/toledo-walleye-2026-11/
 URL:https://weekendscout.app/e/toledo/toledo-walleye-2026-11/
 END:VEVENT
 BEGIN:VEVENT
+UID:toledo-lights-before-christmas-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261127T200000Z
+DTEND:20261128T020000Z
+SUMMARY:Lights Before Christmas
+LOCATION:Toledo Zoo & Aquarium\, 2 Hippo Way\, Toledo\, OH 43609
+DESCRIPTION:The zoo's holiday lights are open 3 to 9 p.m. Friday through S
+ unday\, and the grounds close at 10. Reservations are required\, and kids 
+ under 2 get in free. $32 adults\, $29 ages 2–11 & 60+. Details: https://
+ weekendscout.app/e/toledo/lights-before-christmas-2026-11/
+URL:https://weekendscout.app/e/toledo/lights-before-christmas-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:toledo-lights-before-christmas-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261128T200000Z
+DTEND:20261129T020000Z
+SUMMARY:Lights Before Christmas
+LOCATION:Toledo Zoo & Aquarium\, 2 Hippo Way\, Toledo\, OH 43609
+DESCRIPTION:The zoo's holiday lights are open 3 to 9 p.m. Friday through S
+ unday\, and the grounds close at 10. Reservations are required\, and kids 
+ under 2 get in free. $32 adults\, $29 ages 2–11 & 60+. Details: https://
+ weekendscout.app/e/toledo/lights-before-christmas-2026-11/
+URL:https://weekendscout.app/e/toledo/lights-before-christmas-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:toledo-lights-before-christmas-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261129T200000Z
+DTEND:20261130T020000Z
+SUMMARY:Lights Before Christmas
+LOCATION:Toledo Zoo & Aquarium\, 2 Hippo Way\, Toledo\, OH 43609
+DESCRIPTION:The zoo's holiday lights are open 3 to 9 p.m. Friday through S
+ unday\, and the grounds close at 10. Reservations are required\, and kids 
+ under 2 get in free. $32 adults\, $29 ages 2–11 & 60+. Details: https://
+ weekendscout.app/e/toledo/lights-before-christmas-2026-11/
+URL:https://weekendscout.app/e/toledo/lights-before-christmas-2026-11/
+END:VEVENT
+BEGIN:VEVENT
 UID:toledo-cirque-dreams-holidaze-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T014208Z
+DTSTAMP:20261126T021602Z
 DTSTART:20261128T210000Z
 DTEND:20261128T230000Z
 SUMMARY:Cirque Dreams Holidaze
 LOCATION:Stranahan Theater\, 4645 Heatherdowns Blvd\, Toledo\, OH 43614
-DESCRIPTION:The holiday acrobatics spectacular. Tickets. Details: https://
- weekendscout.app/e/toledo/cirque-dreams-holidaze-2026-11/
+DESCRIPTION:The touring holiday circus of acrobats\, aerialists and costum
+ ed characters plays two shows this weekend. Tickets. Details: https://week
+ endscout.app/e/toledo/cirque-dreams-holidaze-2026-11/
 URL:https://weekendscout.app/e/toledo/cirque-dreams-holidaze-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:toledo-cirque-dreams-holidaze-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T014208Z
+DTSTAMP:20261126T021602Z
 DTSTART:20261129T190000Z
 DTEND:20261129T210000Z
 SUMMARY:Cirque Dreams Holidaze
 LOCATION:Stranahan Theater\, 4645 Heatherdowns Blvd\, Toledo\, OH 43614
-DESCRIPTION:The holiday acrobatics spectacular. Tickets. Details: https://
- weekendscout.app/e/toledo/cirque-dreams-holidaze-2026-11/
+DESCRIPTION:The touring holiday circus of acrobats\, aerialists and costum
+ ed characters plays two shows this weekend. Tickets. Details: https://week
+ endscout.app/e/toledo/cirque-dreams-holidaze-2026-11/
 URL:https://weekendscout.app/e/toledo/cirque-dreams-holidaze-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:toledo-chris-powell-funny-bone-toledo-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261128T000000Z
+DTEND:20261128T020000Z
+SUMMARY:Chris Powell
+LOCATION:Funny Bone Comedy Club (Toledo)\, 6140 Levis Commons Blvd\, Perry
+ sburg\, OH 43551
+DESCRIPTION:Stand-up from comedian Chris Powell at Levis Commons\, with th
+ ree shows over two nights. $20. Details: https://weekendscout.app/e/toledo
+ /chris-powell-funny-bone-toledo-2026-11/
+URL:https://weekendscout.app/e/toledo/chris-powell-funny-bone-toledo-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:toledo-chris-powell-funny-bone-toledo-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261128T233000Z
+DTEND:20261129T013000Z
+SUMMARY:Chris Powell
+LOCATION:Funny Bone Comedy Club (Toledo)\, 6140 Levis Commons Blvd\, Perry
+ sburg\, OH 43551
+DESCRIPTION:Stand-up from comedian Chris Powell at Levis Commons\, with th
+ ree shows over two nights. $20. Details: https://weekendscout.app/e/toledo
+ /chris-powell-funny-bone-toledo-2026-11/
+URL:https://weekendscout.app/e/toledo/chris-powell-funny-bone-toledo-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:toledo-chris-powell-funny-bone-toledo-2026-11-sat-1@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261129T021500Z
+DTEND:20261129T041500Z
+SUMMARY:Chris Powell
+LOCATION:Funny Bone Comedy Club (Toledo)\, 6140 Levis Commons Blvd\, Perry
+ sburg\, OH 43551
+DESCRIPTION:Stand-up from comedian Chris Powell at Levis Commons\, with th
+ ree shows over two nights. $20. Details: https://weekendscout.app/e/toledo
+ /chris-powell-funny-bone-toledo-2026-11/
+URL:https://weekendscout.app/e/toledo/chris-powell-funny-bone-toledo-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:toledo-toledo-museum-of-art-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261127T160000Z
+DTEND:20261128T010000Z
+SUMMARY:Toledo Museum of Art
+LOCATION:Toledo Museum of Art\, 2445 Monroe St\, Toledo\, OH 43620
+DESCRIPTION:A world-class collection and the Glass Pavilion\, with free ge
+ neral admission and free parking. It's open until 8 p.m. on Friday and Sat
+ urday\, and special exhibitions cost $10. Free admission. Details: https:/
+ /weekendscout.app/e/toledo/toledo-museum-of-art-2026-11/
+URL:https://weekendscout.app/e/toledo/toledo-museum-of-art-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:toledo-toledo-museum-of-art-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261128T160000Z
+DTEND:20261129T010000Z
+SUMMARY:Toledo Museum of Art
+LOCATION:Toledo Museum of Art\, 2445 Monroe St\, Toledo\, OH 43620
+DESCRIPTION:A world-class collection and the Glass Pavilion\, with free ge
+ neral admission and free parking. It's open until 8 p.m. on Friday and Sat
+ urday\, and special exhibitions cost $10. Free admission. Details: https:/
+ /weekendscout.app/e/toledo/toledo-museum-of-art-2026-11/
+URL:https://weekendscout.app/e/toledo/toledo-museum-of-art-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:toledo-toledo-museum-of-art-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261129T160000Z
+DTEND:20261129T220000Z
+SUMMARY:Toledo Museum of Art
+LOCATION:Toledo Museum of Art\, 2445 Monroe St\, Toledo\, OH 43620
+DESCRIPTION:A world-class collection and the Glass Pavilion\, with free ge
+ neral admission and free parking. It's open until 8 p.m. on Friday and Sat
+ urday\, and special exhibitions cost $10. Free admission. Details: https:/
+ /weekendscout.app/e/toledo/toledo-museum-of-art-2026-11/
+URL:https://weekendscout.app/e/toledo/toledo-museum-of-art-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:toledo-toledo-farmers-market-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T021602Z
+DTSTART:20261128T130000Z
+DTEND:20261128T190000Z
+SUMMARY:Toledo Farmers' Market
+LOCATION:Toledo Farmers' Market\, 525 Market St\, Toledo\, OH 43604
+DESCRIPTION:The Small Business Saturday edition of the year-round market i
+ n the Warehouse District\, with local produce and handmade goods. It's one
+  of the last outdoor-season Saturdays before the indoor market starts in D
+ ecember. Pay as you shop. Details: https://weekendscout.app/e/toledo/toled
+ o-farmers-market-2026-11/
+URL:https://weekendscout.app/e/toledo/toledo-farmers-market-2026-11/
 END:VEVENT
 END:VCALENDAR

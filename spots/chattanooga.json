@@ -1,0 +1,62 @@
+{
+ "city": "chattanooga",
+ "updated": "2026-11-25",
+ "source": "Evergreen picks checked on official sites (huntermuseum.org, chattzoo.org, seerockcity.com), Nov 2026; dinner, lunch and drinks picks to be added in a later weekly update",
+ "spots": [
+  {
+   "name": "Hunter Museum of American Art",
+   "kind": "always",
+   "cuisine": "Art museum",
+   "area": "Bluff View Art District",
+   "lat": 35.055944,
+   "lon": -85.306444,
+   "price": "paid",
+   "blurb": "American art on a bluff over the river. $20 adults and free for 17 and under; closed Tuesdays.",
+   "blurbEs": "Arte estadounidense sobre un risco junto al río. $20 adultos y gratis para menores de 17; cierra los martes."
+  },
+  {
+   "name": "Walnut Street Bridge",
+   "kind": "always",
+   "cuisine": "Pedestrian bridge",
+   "area": "Downtown / North Shore",
+   "lat": 35.059,
+   "lon": -85.307,
+   "price": "free",
+   "blurb": "A historic walking bridge with river and skyline views between downtown and the North Shore.",
+   "blurbEs": "Un puente peatonal histórico con vistas al río y a la ciudad, entre el centro y North Shore."
+  },
+  {
+   "name": "Chattanooga Zoo",
+   "kind": "always",
+   "cuisine": "Zoo",
+   "area": "Highland Park / Warner Park",
+   "lat": 35.0431,
+   "lon": -85.2829,
+   "price": "paid",
+   "blurb": "A compact city zoo in Warner Park that hosts the Asian Lantern Festival on winter evenings.",
+   "blurbEs": "Un zoológico urbano compacto en Warner Park que en las noches de invierno presenta el Asian Lantern Festival."
+  },
+  {
+   "name": "Rock City Gardens",
+   "kind": "always",
+   "cuisine": "Gardens & landmark",
+   "area": "Lookout Mountain, GA",
+   "lat": 34.97389,
+   "lon": -85.34861,
+   "price": "paid",
+   "blurb": "Rock trails and gardens atop Lookout Mountain.",
+   "blurbEs": "Senderos entre rocas y jardines en la cima de Lookout Mountain."
+  },
+  {
+   "name": "Chattanooga Choo Choo",
+   "kind": "always",
+   "cuisine": "Historic landmark",
+   "area": "Southside",
+   "lat": 35.03694,
+   "lon": -85.30694,
+   "price": "free",
+   "blurb": "The restored Terminal Station, now a hotel and entertainment campus with shops and gardens.",
+   "blurbEs": "La antigua Terminal Station, restaurada y convertida en hotel y centro de entretenimiento con tiendas y jardines."
+  }
+ ]
+}
