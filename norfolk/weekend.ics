@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:norfolk-chrysler-museum-of-art-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/norfolk/chrysler-museum-of-art-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:norfolk-chrysler-museum-of-art-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/norfolk/chrysler-museum-of-art-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:norfolk-norfolk-admirals-vs-greensboro-gargoyles-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261128T000500Z
 DTEND:20261128T020500Z
 SUMMARY:Norfolk Admirals vs. Greensboro Gargoyles
@@ -47,7 +47,7 @@ URL:https://weekendscout.app/e/norfolk/norfolk-admirals-vs-greensboro-gargoyles-
 END:VEVENT
 BEGIN:VEVENT
 UID:norfolk-norfolk-admirals-vs-greensboro-gargoyles-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261129T000500Z
 DTEND:20261129T020500Z
 SUMMARY:Norfolk Admirals vs. Greensboro Gargoyles
@@ -59,7 +59,7 @@ URL:https://weekendscout.app/e/norfolk/norfolk-admirals-vs-greensboro-gargoyles-
 END:VEVENT
 BEGIN:VEVENT
 UID:norfolk-old-dominion-vs-southern-miss-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261128T180000Z
 DTEND:20261128T200000Z
 SUMMARY:Old Dominion vs. Southern Miss
@@ -70,7 +70,7 @@ URL:https://weekendscout.app/e/norfolk/old-dominion-vs-southern-miss-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:norfolk-lindsey-stirling-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261128T000000Z
 DTEND:20261128T020000Z
 SUMMARY:Lindsey Stirling

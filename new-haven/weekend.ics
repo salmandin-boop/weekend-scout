@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:new-haven-yale-university-art-gallery-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261127T150000Z
 DTEND:20261127T220000Z
 SUMMARY:Yale University Art Gallery
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/new-haven/yale-university-art-gallery-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:new-haven-yale-university-art-gallery-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261128T160000Z
 DTEND:20261128T220000Z
 SUMMARY:Yale University Art Gallery
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/new-haven/yale-university-art-gallery-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:new-haven-yale-university-art-gallery-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261129T160000Z
 DTEND:20261129T220000Z
 SUMMARY:Yale University Art Gallery
@@ -48,7 +48,7 @@ URL:https://weekendscout.app/e/new-haven/yale-university-art-gallery-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:new-haven-yale-peabody-museum-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261127T150000Z
 DTEND:20261127T220000Z
 SUMMARY:Yale Peabody Museum
@@ -61,7 +61,7 @@ URL:https://weekendscout.app/e/new-haven/yale-peabody-museum-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:new-haven-yale-peabody-museum-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261128T150000Z
 DTEND:20261128T220000Z
 SUMMARY:Yale Peabody Museum
@@ -74,7 +74,7 @@ URL:https://weekendscout.app/e/new-haven/yale-peabody-museum-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:new-haven-yale-peabody-museum-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261129T170000Z
 DTEND:20261129T220000Z
 SUMMARY:Yale Peabody Museum
@@ -87,7 +87,7 @@ URL:https://weekendscout.app/e/new-haven/yale-peabody-museum-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:new-haven-chris-webby-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261128T020000Z
 DTEND:20261128T040000Z
 SUMMARY:Chris Webby
@@ -99,7 +99,7 @@ URL:https://weekendscout.app/e/new-haven/chris-webby-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:new-haven-darik-and-the-funbags-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261129T020000Z
 DTEND:20261129T040000Z
 SUMMARY:Darik & The Funbags
@@ -111,7 +111,7 @@ URL:https://weekendscout.app/e/new-haven/darik-and-the-funbags-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:new-haven-cafe-nine-jazz-jam-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261128T210000Z
 DTEND:20261129T000000Z
 SUMMARY:Saturday Afternoon Jazz Jam
@@ -123,7 +123,7 @@ URL:https://weekendscout.app/e/new-haven/cafe-nine-jazz-jam-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:new-haven-yale-bulldogs-vs-quinnipiac-bobcats-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261129T190000Z
 DTEND:20261129T210000Z
 SUMMARY:Yale vs. Quinnipiac Men’s Basketball

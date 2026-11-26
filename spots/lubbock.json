@@ -1,0 +1,73 @@
+{
+ "city": "lubbock",
+ "updated": "2026-11-25",
+ "source": "Picked from venue sites, Visit Lubbock and the City of Lubbock (Nov 2026); refreshed with the weekly update",
+ "spots": [
+  {
+   "name": "Buddy Holly Center",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Depot District",
+   "lat": 33.57859,
+   "lon": -101.84268,
+   "price": "Tickets",
+   "blurb": "Museum and galleries honoring Buddy Holly.",
+   "blurbEs": "Museo y galerías en honor a Buddy Holly."
+  },
+  {
+   "name": "Louise Hopkins Underwood Center for the Arts (LHUCA)",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown / Cultural District",
+   "lat": 33.59063,
+   "lon": -101.84761,
+   "price": "Free",
+   "blurb": "Arts campus downtown; hosts the free First Friday Art Trail monthly.",
+   "blurbEs": "Centro de artes en el centro; organiza cada mes el First Friday Art Trail gratuito."
+  },
+  {
+   "name": "Museum of Texas Tech University",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Texas Tech",
+   "lat": 33.588,
+   "lon": -101.887,
+   "price": "Free",
+   "blurb": "Free art and natural history museum on campus.",
+   "blurbEs": "Museo gratuito de arte e historia natural en el campus."
+  },
+  {
+   "name": "Lubbock Lake Landmark",
+   "kind": "always",
+   "cuisine": "",
+   "area": "North Lubbock",
+   "lat": 33.623,
+   "lon": -101.888,
+   "price": "Free",
+   "blurb": "Archaeological preserve with trails and 12,000 years of history.",
+   "blurbEs": "Reserva arqueológica con senderos y 12.000 años de historia."
+  },
+  {
+   "name": "Science Spectrum Museum & OMNI Theater",
+   "kind": "always",
+   "cuisine": "",
+   "area": "South Loop 289",
+   "lat": 33.5283,
+   "lon": -101.87657,
+   "price": "$10",
+   "blurb": "Hands-on science museum with a dome theater.",
+   "blurbEs": "Museo de ciencias interactivo con teatro de domo."
+  },
+  {
+   "name": "Silent Wings Museum",
+   "kind": "always",
+   "cuisine": "",
+   "area": "North Lubbock (airport)",
+   "lat": 33.65778,
+   "lon": -101.83167,
+   "price": "Tickets",
+   "blurb": "WWII glider pilot museum on the old South Plains Army Air Field.",
+   "blurbEs": "Museo de pilotos de planeadores de la Segunda Guerra Mundial en el antiguo South Plains Army Air Field."
+  }
+ ]
+}

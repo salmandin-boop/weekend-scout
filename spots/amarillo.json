@@ -1,0 +1,40 @@
+{
+ "city": "amarillo",
+ "updated": "2026-11-25",
+ "source": "Evergreen picks from TPWD and Amarillo-area tourism pages (Nov 2026), reusing coordinates already confirmed in the events file; restaurant and bar picks pending: no verified coordinates this run",
+ "spots": [
+  {
+   "name": "Cadillac Ranch",
+   "kind": "always",
+   "cuisine": "",
+   "area": "West I-40",
+   "lat": 35.1873,
+   "lon": -101.9871,
+   "price": "Free",
+   "blurb": "Graffiti-covered Cadillacs in a field off Route 66; open year-round",
+   "blurbEs": "Cadillacs cubiertos de grafiti en un campo junto a la Ruta 66; abierto todo el año"
+  },
+  {
+   "name": "Palo Duro Canyon State Park",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Canyon",
+   "lat": 34.937,
+   "lon": -101.659,
+   "price": "$8 (12 & under free)",
+   "blurb": "The country's second-largest canyon, with trails and scenic drives; gates open 7:30 a.m.–10 p.m.",
+   "blurbEs": "El segundo cañón más grande del país, con senderos y rutas panorámicas; abre de 7:30 a.m. a 10 p.m."
+  },
+  {
+   "name": "Route 66 Historic District",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Sixth Avenue",
+   "lat": 35.205,
+   "lon": -101.873,
+   "price": "Free",
+   "blurb": "Old Route 66 on Sixth Avenue with diners, antique shops and bars",
+   "blurbEs": "La antigua Ruta 66 en la Sexta Avenida con restaurantes, tiendas de antigüedades y bares"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "city": "college-station",
+ "updated": "2026-11-25",
+ "source": "Picked from Destination Bryan, Visit College Station and the Bush Library (Nov 2026); refreshed with the weekly update",
+ "spots": [
+  {
+   "name": "Lake Walk",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Lake Walk, Bryan",
+   "lat": 30.60074,
+   "lon": -96.38538,
+   "price": "Free",
+   "blurb": "Paved trails around Lake Atlas and a 75-foot Lookout Tower; nice at sunset.",
+   "blurbEs": "Senderos pavimentados alrededor del lago Atlas y una torre mirador de 23 metros; bonito al atardecer."
+  },
+  {
+   "name": "George H.W. Bush Presidential Library and Museum",
+   "kind": "always",
+   "cuisine": "",
+   "area": "West Campus, College Station",
+   "lat": 30.6,
+   "lon": -96.355,
+   "price": "$12",
+   "blurb": "Presidential museum with a full-size airplane and rotating exhibits; kids 5 and under free.",
+   "blurbEs": "Museo presidencial con un avión de tamaño real y exposiciones temporales; menores de 5 años gratis."
+  },
+  {
+   "name": "The Gardens at Texas A&M",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Texas A&M campus",
+   "lat": 30.60959,
+   "lon": -96.3443,
+   "price": "Free",
+   "blurb": "Campus gardens with walking paths and seasonal holiday strolls.",
+   "blurbEs": "Jardines del campus con senderos y paseos navideños de temporada."
+  },
+  {
+   "name": "Sue Haswell Memorial Park",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Bryan",
+   "lat": 30.67249,
+   "lon": -96.35885,
+   "price": "Free",
+   "blurb": "Lit holiday pathways from late November, open for evening walks.",
+   "blurbEs": "Senderos iluminados por las fiestas desde fines de noviembre, abiertos para caminar de noche."
+  },
+  {
+   "name": "Clara B. Mounce Library",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Historic Downtown Bryan",
+   "lat": 30.67298,
+   "lon": -96.37231,
+   "price": "Free",
+   "blurb": "Downtown library with a big Texas-shaped tree and the free Peppermint Path light display.",
+   "blurbEs": "Biblioteca del centro con un gran árbol en forma de Texas y Peppermint Path, una exhibición de luces gratuita."
+  },
+  {
+   "name": "Boonville Heritage Park",
+   "kind": "always",
+   "cuisine": "",
+   "area": "East Bryan",
+   "lat": 30.6714,
+   "lon": -96.32876,
+   "price": "Free",
+   "blurb": "Historic park with the Turner-Peters log house and walking trails.",
+   "blurbEs": "Parque histórico con la cabaña de troncos Turner-Peters y senderos para caminar."
+  }
+ ]
+}

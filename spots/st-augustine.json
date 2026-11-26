@@ -1,0 +1,73 @@
+{
+ "city": "st-augustine",
+ "updated": "2026-11-25",
+ "source": "Picked from Visit St. Augustine, Florida's Historic Coast, NPS and official venue sites (Nov 2026); refreshed with the weekly update",
+ "spots": [
+  {
+   "name": "Castillo de San Marcos",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown bayfront",
+   "lat": 29.8978,
+   "lon": -81.3115,
+   "price": "$15",
+   "blurb": "17th-century Spanish stone fort; kids 15 and under free.",
+   "blurbEs": "Fuerte español de piedra del siglo XVII; menores de 15 años gratis."
+  },
+  {
+   "name": "Plaza de la Constitución",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 29.893,
+   "lon": -81.313,
+   "price": "Free",
+   "blurb": "The historic town plaza and gazebo, center of the Nights of Lights display.",
+   "blurbEs": "La plaza histórica con su glorieta, centro de las luces de Nights of Lights."
+  },
+  {
+   "name": "Villa Zorayda Museum",
+   "kind": "always",
+   "cuisine": "",
+   "area": "King Street",
+   "lat": 29.8916,
+   "lon": -81.31514,
+   "price": "Tickets",
+   "blurb": "1883 Moorish Revival house museum across from Flagler College.",
+   "blurbEs": "Casa museo de estilo neomorisco de 1883, frente a Flagler College."
+  },
+  {
+   "name": "Colonial Oak Music Park",
+   "kind": "always",
+   "cuisine": "",
+   "area": "St. George Street",
+   "lat": 29.8969,
+   "lon": -81.3133,
+   "price": "Free",
+   "blurb": "Open-air music lawn under the oaks; some shows are ticketed.",
+   "blurbEs": "Jardín de música al aire libre bajo los robles; algunos conciertos requieren boleto."
+  },
+  {
+   "name": "St. Augustine Alligator Farm Zoological Park",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Anastasia Island",
+   "lat": 29.88189,
+   "lon": -81.28859,
+   "price": "Tickets",
+   "blurb": "Historic zoo known for alligators and crocodiles; open every day.",
+   "blurbEs": "Zoológico histórico conocido por sus caimanes y cocodrilos; abre todos los días."
+  },
+  {
+   "name": "St. Johns County Ocean Pier",
+   "kind": "always",
+   "cuisine": "",
+   "area": "St. Augustine Beach",
+   "lat": 29.857,
+   "lon": -81.26593,
+   "price": "Free",
+   "blurb": "Beachfront pier and park on A1A Beach Boulevard.",
+   "blurbEs": "Muelle y parque frente al mar en A1A Beach Boulevard."
+  }
+ ]
+}

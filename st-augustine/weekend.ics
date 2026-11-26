@@ -8,123 +8,210 @@ X-WR-CALDESC:Hand-checked weekend picks in St. Augustine, updated every Wednesda
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:st-augustine-nights-of-lights-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T040204Z
-DTSTART:20261127T223000Z
-DTEND:20261128T040000Z
-SUMMARY:Nights of Lights
-LOCATION:Downtown St. Augustine\, Plaza de la Constitución\, St. Augustin
- e\, FL 32084
-DESCRIPTION:Millions of white lights across the old city\, nightly through
-  January. Free. Details: https://weekendscout.app/e/st-augustine/nights-of
- -lights-2026-11/
-URL:https://weekendscout.app/e/st-augustine/nights-of-lights-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:st-augustine-nights-of-lights-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T040204Z
-DTSTART:20261128T223000Z
-DTEND:20261129T040000Z
-SUMMARY:Nights of Lights
-LOCATION:Downtown St. Augustine\, Plaza de la Constitución\, St. Augustin
- e\, FL 32084
-DESCRIPTION:Millions of white lights across the old city\, nightly through
-  January. Free. Details: https://weekendscout.app/e/st-augustine/nights-of
- -lights-2026-11/
-URL:https://weekendscout.app/e/st-augustine/nights-of-lights-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:st-augustine-nights-of-lights-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T040204Z
-DTSTART:20261129T223000Z
-DTEND:20261130T040000Z
-SUMMARY:Nights of Lights
-LOCATION:Downtown St. Augustine\, Plaza de la Constitución\, St. Augustin
- e\, FL 32084
-DESCRIPTION:Millions of white lights across the old city\, nightly through
-  January. Free. Details: https://weekendscout.app/e/st-augustine/nights-of
- -lights-2026-11/
-URL:https://weekendscout.app/e/st-augustine/nights-of-lights-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:st-augustine-st-george-street-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+UID:st-augustine-nights-of-lights-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T043819Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
-SUMMARY:St. George Street
-LOCATION:St. George Street\, St. George St\, St. Augustine\, FL 32084
-DESCRIPTION:The pedestrian street through the historic district\, with caf
- és and shops. Free to browse. Details: https://weekendscout.app/e/st-augu
- stine/st-george-street-2026-11/
-URL:https://weekendscout.app/e/st-augustine/st-george-street-2026-11/
+SUMMARY:Nights of Lights
+LOCATION:Historic Downtown St. Augustine\, Plaza de la Constitución\, St.
+  Augustine\, FL 32084
+DESCRIPTION:More than three million lights cover the historic downtown fro
+ m dusk to dawn\, nightly through Jan. 18. Free park-and-ride shuttles run 
+ 1–11 p.m. on Friday and Saturday. Free. Details: https://weekendscout.ap
+ p/e/st-augustine/nights-of-lights-2026-11-27/
+URL:https://weekendscout.app/e/st-augustine/nights-of-lights-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:st-augustine-st-george-street-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+UID:st-augustine-nights-of-lights-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T043819Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
-SUMMARY:St. George Street
-LOCATION:St. George Street\, St. George St\, St. Augustine\, FL 32084
-DESCRIPTION:The pedestrian street through the historic district\, with caf
- és and shops. Free to browse. Details: https://weekendscout.app/e/st-augu
- stine/st-george-street-2026-11/
-URL:https://weekendscout.app/e/st-augustine/st-george-street-2026-11/
+SUMMARY:Nights of Lights
+LOCATION:Historic Downtown St. Augustine\, Plaza de la Constitución\, St.
+  Augustine\, FL 32084
+DESCRIPTION:More than three million lights cover the historic downtown fro
+ m dusk to dawn\, nightly through Jan. 18. Free park-and-ride shuttles run 
+ 1–11 p.m. on Friday and Saturday. Free. Details: https://weekendscout.ap
+ p/e/st-augustine/nights-of-lights-2026-11-27/
+URL:https://weekendscout.app/e/st-augustine/nights-of-lights-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:st-augustine-st-george-street-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+UID:st-augustine-nights-of-lights-2026-11-27-sun-0@weekendscout.app
+DTSTAMP:20261126T043819Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
-SUMMARY:St. George Street
-LOCATION:St. George Street\, St. George St\, St. Augustine\, FL 32084
-DESCRIPTION:The pedestrian street through the historic district\, with caf
- és and shops. Free to browse. Details: https://weekendscout.app/e/st-augu
- stine/st-george-street-2026-11/
-URL:https://weekendscout.app/e/st-augustine/st-george-street-2026-11/
+SUMMARY:Nights of Lights
+LOCATION:Historic Downtown St. Augustine\, Plaza de la Constitución\, St.
+  Augustine\, FL 32084
+DESCRIPTION:More than three million lights cover the historic downtown fro
+ m dusk to dawn\, nightly through Jan. 18. Free park-and-ride shuttles run 
+ 1–11 p.m. on Friday and Saturday. Free. Details: https://weekendscout.ap
+ p/e/st-augustine/nights-of-lights-2026-11-27/
+URL:https://weekendscout.app/e/st-augustine/nights-of-lights-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:st-augustine-castillo-de-san-marcos-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T040204Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Castillo de San Marcos
-LOCATION:Castillo de San Marcos\, 1 S Castillo Dr\, St. Augustine\, FL 320
- 84
-DESCRIPTION:The 17th-century Spanish stone fort on the bay. Admission. Det
- ails: https://weekendscout.app/e/st-augustine/castillo-de-san-marcos-2026-
- 11/
-URL:https://weekendscout.app/e/st-augustine/castillo-de-san-marcos-2026-11/
+UID:st-augustine-shaelyn-band-colonial-oak-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T043819Z
+DTSTART:20261128T000000Z
+DTEND:20261128T030000Z
+SUMMARY:Shaelyn Band at Colonial Oak Music Park
+LOCATION:Colonial Oak Music Park\, 27 St. George St\, St. Augustine\, FL 3
+ 2084
+DESCRIPTION:Live music under the oaks at the north end of St. George Stree
+ t\, Friday and Saturday evenings. Check ticket prices. Details: https://we
+ ekendscout.app/e/st-augustine/shaelyn-band-colonial-oak-2026-11-27/
+URL:https://weekendscout.app/e/st-augustine/shaelyn-band-colonial-oak-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:st-augustine-castillo-de-san-marcos-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+UID:st-augustine-shaelyn-band-colonial-oak-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T043819Z
+DTSTART:20261129T000000Z
+DTEND:20261129T030000Z
+SUMMARY:Shaelyn Band at Colonial Oak Music Park
+LOCATION:Colonial Oak Music Park\, 27 St. George St\, St. Augustine\, FL 3
+ 2084
+DESCRIPTION:Live music under the oaks at the north end of St. George Stree
+ t\, Friday and Saturday evenings. Check ticket prices. Details: https://we
+ ekendscout.app/e/st-augustine/shaelyn-band-colonial-oak-2026-11-27/
+URL:https://weekendscout.app/e/st-augustine/shaelyn-band-colonial-oak-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:st-augustine-amp-farmers-market-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T043819Z
+DTSTART:20261128T133000Z
+DTEND:20261128T173000Z
+SUMMARY:St. Augustine Amphitheatre Farmers Market
+LOCATION:The St. Augustine Amphitheatre\, 1340 A1A S\, St. Augustine\, FL 
+ 32080
+DESCRIPTION:Weekly Saturday market in the amphitheatre's front lot with lo
+ cal produce\, plants\, crafts\, coffee and live music. Free entry. Details
+ : https://weekendscout.app/e/st-augustine/amp-farmers-market-2026-11-28/
+URL:https://weekendscout.app/e/st-augustine/amp-farmers-market-2026-11-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:st-augustine-light-up-the-beach-art-walk-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T043819Z
+DTSTART:20261128T180000Z
+DTEND:20261128T230000Z
+SUMMARY:Light Up the Beach Art Walk
+LOCATION:St. Johns County Ocean Pier\, 350 A1A Beach Blvd\, St. Augustine 
+ Beach\, FL 32080
+DESCRIPTION:Artists show paintings\, photography\, pottery\, jewelry and s
+ tained glass along A1A Beach Boulevard\, with shops and restaurants open a
+ long the way. Free. Details: https://weekendscout.app/e/st-augustine/light
+ -up-the-beach-art-walk-2026-11-28/
+URL:https://weekendscout.app/e/st-augustine/light-up-the-beach-art-walk-2026-11-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:st-augustine-villa-zorayda-holiday-evening-tour-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T043819Z
+DTSTART:20261128T221500Z
+DTEND:20261129T010000Z
+SUMMARY:Villa Zorayda Holiday Evening Tour
+LOCATION:Villa Zorayda Museum\, 83 King St\, St. Augustine\, FL 32084
+DESCRIPTION:Self-guided audio tour of the 1883 Moorish Revival house\, dec
+ orated for the holidays with candles and a tall tree in the Court of Lions
+ . Admission 5:15–7 p.m.\; kids 4 and under free. $12–$19. Details: htt
+ ps://weekendscout.app/e/st-augustine/villa-zorayda-holiday-evening-tour-20
+ 26-11-28/
+URL:https://weekendscout.app/e/st-augustine/villa-zorayda-holiday-evening-tour-2026-11-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:st-augustine-holiday-hootenanny-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T043819Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
-SUMMARY:Castillo de San Marcos
-LOCATION:Castillo de San Marcos\, 1 S Castillo Dr\, St. Augustine\, FL 320
- 84
-DESCRIPTION:The 17th-century Spanish stone fort on the bay. Admission. Det
- ails: https://weekendscout.app/e/st-augustine/castillo-de-san-marcos-2026-
- 11/
-URL:https://weekendscout.app/e/st-augustine/castillo-de-san-marcos-2026-11/
+SUMMARY:Holiday Hootenanny
+LOCATION:Third Space Improv\, 200 Malaga St #7\, St. Augustine\, FL 32084
+DESCRIPTION:Holiday-themed improv comedy built from audience suggestions\;
+  all ages welcome. Listings give both 7:30 and 8 p.m. starts\, so check yo
+ ur ticket. $17–$20. Details: https://weekendscout.app/e/st-augustine/hol
+ iday-hootenanny-2026-11-28/
+URL:https://weekendscout.app/e/st-augustine/holiday-hootenanny-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
-UID:st-augustine-castillo-de-san-marcos-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T040204Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
+UID:st-augustine-castillo-de-san-marcos-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T043819Z
+DTSTART:20261127T140000Z
+DTEND:20261127T221500Z
 SUMMARY:Castillo de San Marcos
 LOCATION:Castillo de San Marcos\, 1 S Castillo Dr\, St. Augustine\, FL 320
  84
-DESCRIPTION:The 17th-century Spanish stone fort on the bay. Admission. Det
- ails: https://weekendscout.app/e/st-augustine/castillo-de-san-marcos-2026-
- 11/
-URL:https://weekendscout.app/e/st-augustine/castillo-de-san-marcos-2026-11/
+DESCRIPTION:The 17th-century Spanish stone fort on Matanzas Bay. Last admi
+ ssion 5 p.m.\; cards only\, no cash. $15 adults\; 15 and under free. Detai
+ ls: https://weekendscout.app/e/st-augustine/castillo-de-san-marcos-2026-11
+ -27/
+URL:https://weekendscout.app/e/st-augustine/castillo-de-san-marcos-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:st-augustine-castillo-de-san-marcos-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T043819Z
+DTSTART:20261128T140000Z
+DTEND:20261128T221500Z
+SUMMARY:Castillo de San Marcos
+LOCATION:Castillo de San Marcos\, 1 S Castillo Dr\, St. Augustine\, FL 320
+ 84
+DESCRIPTION:The 17th-century Spanish stone fort on Matanzas Bay. Last admi
+ ssion 5 p.m.\; cards only\, no cash. $15 adults\; 15 and under free. Detai
+ ls: https://weekendscout.app/e/st-augustine/castillo-de-san-marcos-2026-11
+ -27/
+URL:https://weekendscout.app/e/st-augustine/castillo-de-san-marcos-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:st-augustine-castillo-de-san-marcos-2026-11-27-sun-0@weekendscout.app
+DTSTAMP:20261126T043819Z
+DTSTART:20261129T140000Z
+DTEND:20261129T221500Z
+SUMMARY:Castillo de San Marcos
+LOCATION:Castillo de San Marcos\, 1 S Castillo Dr\, St. Augustine\, FL 320
+ 84
+DESCRIPTION:The 17th-century Spanish stone fort on Matanzas Bay. Last admi
+ ssion 5 p.m.\; cards only\, no cash. $15 adults\; 15 and under free. Detai
+ ls: https://weekendscout.app/e/st-augustine/castillo-de-san-marcos-2026-11
+ -27/
+URL:https://weekendscout.app/e/st-augustine/castillo-de-san-marcos-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:st-augustine-alligator-farm-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T043819Z
+DTSTART:20261127T140000Z
+DTEND:20261127T220000Z
+SUMMARY:St. Augustine Alligator Farm Zoological Park
+LOCATION:St. Augustine Alligator Farm Zoological Park\, 999 Anastasia Blvd
+ \, St. Augustine\, FL 32080
+DESCRIPTION:Historic zoo on Anastasia Island known for its alligators and 
+ crocodiles. Open every day\; no reservations needed. $21.99–$36.99. Deta
+ ils: https://weekendscout.app/e/st-augustine/alligator-farm-2026-11-27/
+URL:https://weekendscout.app/e/st-augustine/alligator-farm-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:st-augustine-alligator-farm-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T043819Z
+DTSTART:20261128T140000Z
+DTEND:20261128T220000Z
+SUMMARY:St. Augustine Alligator Farm Zoological Park
+LOCATION:St. Augustine Alligator Farm Zoological Park\, 999 Anastasia Blvd
+ \, St. Augustine\, FL 32080
+DESCRIPTION:Historic zoo on Anastasia Island known for its alligators and 
+ crocodiles. Open every day\; no reservations needed. $21.99–$36.99. Deta
+ ils: https://weekendscout.app/e/st-augustine/alligator-farm-2026-11-27/
+URL:https://weekendscout.app/e/st-augustine/alligator-farm-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:st-augustine-alligator-farm-2026-11-27-sun-0@weekendscout.app
+DTSTAMP:20261126T043819Z
+DTSTART:20261129T140000Z
+DTEND:20261129T220000Z
+SUMMARY:St. Augustine Alligator Farm Zoological Park
+LOCATION:St. Augustine Alligator Farm Zoological Park\, 999 Anastasia Blvd
+ \, St. Augustine\, FL 32080
+DESCRIPTION:Historic zoo on Anastasia Island known for its alligators and 
+ crocodiles. Open every day\; no reservations needed. $21.99–$36.99. Deta
+ ils: https://weekendscout.app/e/st-augustine/alligator-farm-2026-11-27/
+URL:https://weekendscout.app/e/st-augustine/alligator-farm-2026-11-27/
 END:VEVENT
 END:VCALENDAR

@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:austin-zilker-tree-lighting-sun-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261129T231500Z
 DTEND:20261130T011500Z
 SUMMARY:Zilker Holiday Tree Lighting
@@ -21,7 +21,7 @@ URL:https://weekendscout.app/e/austin/zilker-tree-lighting/
 END:VEVENT
 BEGIN:VEVENT
 UID:austin-luminations-fri-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261127T234500Z
 DTEND:20261128T030000Z
 SUMMARY:Luminations
@@ -34,7 +34,7 @@ URL:https://weekendscout.app/e/austin/luminations/
 END:VEVENT
 BEGIN:VEVENT
 UID:austin-luminations-sat-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261128T234500Z
 DTEND:20261129T030000Z
 SUMMARY:Luminations
@@ -47,7 +47,7 @@ URL:https://weekendscout.app/e/austin/luminations/
 END:VEVENT
 BEGIN:VEVENT
 UID:austin-luminations-sun-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261129T234500Z
 DTEND:20261130T030000Z
 SUMMARY:Luminations
@@ -60,7 +60,7 @@ URL:https://weekendscout.app/e/austin/luminations/
 END:VEVENT
 BEGIN:VEVENT
 UID:austin-zach-christmas-carol-fri-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261127T200000Z
 DTEND:20261127T220000Z
 SUMMARY:A Christmas Carol
@@ -71,7 +71,7 @@ URL:https://weekendscout.app/e/austin/zach-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:austin-zach-christmas-carol-fri-1@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261128T010000Z
 DTEND:20261128T030000Z
 SUMMARY:A Christmas Carol
@@ -82,7 +82,7 @@ URL:https://weekendscout.app/e/austin/zach-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:austin-zach-christmas-carol-sat-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261128T200000Z
 DTEND:20261128T220000Z
 SUMMARY:A Christmas Carol
@@ -93,7 +93,7 @@ URL:https://weekendscout.app/e/austin/zach-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:austin-zach-christmas-carol-sat-1@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261129T010000Z
 DTEND:20261129T030000Z
 SUMMARY:A Christmas Carol
@@ -104,7 +104,7 @@ URL:https://weekendscout.app/e/austin/zach-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:austin-zach-christmas-carol-sun-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261129T200000Z
 DTEND:20261129T220000Z
 SUMMARY:A Christmas Carol
@@ -115,7 +115,7 @@ URL:https://weekendscout.app/e/austin/zach-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:austin-dolly-smoky-mountain-carol-fri-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261127T230000Z
 DTEND:20261128T010000Z
 SUMMARY:Dolly Parton's Smoky Mountain Christmas Carol
@@ -127,7 +127,7 @@ URL:https://weekendscout.app/e/austin/dolly-smoky-mountain-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:austin-bob-schneider-moody-sat-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261129T020000Z
 DTEND:20261129T040000Z
 SUMMARY:Bob Schneider & The Moonlight Orchestra
@@ -139,7 +139,7 @@ URL:https://weekendscout.app/e/austin/bob-schneider-moody/
 END:VEVENT
 BEGIN:VEVENT
 UID:austin-leslie-odom-christmas-sun-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261130T013000Z
 DTEND:20261130T033000Z
 SUMMARY:Leslie Odom Jr.: The Christmas Tour
@@ -151,7 +151,7 @@ URL:https://weekendscout.app/e/austin/leslie-odom-christmas/
 END:VEVENT
 BEGIN:VEVENT
 UID:austin-esthers-follies-fri-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261128T010000Z
 DTEND:20261128T030000Z
 SUMMARY:Esther's Follies
@@ -163,7 +163,7 @@ URL:https://weekendscout.app/e/austin/esthers-follies/
 END:VEVENT
 BEGIN:VEVENT
 UID:austin-esthers-follies-fri-1@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261128T030000Z
 DTEND:20261128T050000Z
 SUMMARY:Esther's Follies
@@ -175,7 +175,7 @@ URL:https://weekendscout.app/e/austin/esthers-follies/
 END:VEVENT
 BEGIN:VEVENT
 UID:austin-esthers-follies-sat-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261129T010000Z
 DTEND:20261129T030000Z
 SUMMARY:Esther's Follies
@@ -187,7 +187,7 @@ URL:https://weekendscout.app/e/austin/esthers-follies/
 END:VEVENT
 BEGIN:VEVENT
 UID:austin-esthers-follies-sat-1@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261129T030000Z
 DTEND:20261129T050000Z
 SUMMARY:Esther's Follies
@@ -199,7 +199,7 @@ URL:https://weekendscout.app/e/austin/esthers-follies/
 END:VEVENT
 BEGIN:VEVENT
 UID:austin-cotaland-peppermint-fri-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261127T220000Z
 DTEND:20261128T040000Z
 SUMMARY:Peppermint in the Park
@@ -212,7 +212,7 @@ URL:https://weekendscout.app/e/austin/cotaland-peppermint/
 END:VEVENT
 BEGIN:VEVENT
 UID:austin-cotaland-peppermint-sat-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261128T180000Z
 DTEND:20261129T040000Z
 SUMMARY:Peppermint in the Park
@@ -225,7 +225,7 @@ URL:https://weekendscout.app/e/austin/cotaland-peppermint/
 END:VEVENT
 BEGIN:VEVENT
 UID:austin-cotaland-peppermint-sun-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261129T180000Z
 DTEND:20261130T040000Z
 SUMMARY:Peppermint in the Park
@@ -238,7 +238,7 @@ URL:https://weekendscout.app/e/austin/cotaland-peppermint/
 END:VEVENT
 BEGIN:VEVENT
 UID:austin-blue-genie-art-bazaar-fri-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261127T160000Z
 DTEND:20261128T040000Z
 SUMMARY:Blue Genie Art Bazaar
@@ -250,7 +250,7 @@ URL:https://weekendscout.app/e/austin/blue-genie-art-bazaar/
 END:VEVENT
 BEGIN:VEVENT
 UID:austin-blue-genie-art-bazaar-sat-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261128T160000Z
 DTEND:20261129T040000Z
 SUMMARY:Blue Genie Art Bazaar
@@ -262,7 +262,7 @@ URL:https://weekendscout.app/e/austin/blue-genie-art-bazaar/
 END:VEVENT
 BEGIN:VEVENT
 UID:austin-blue-genie-art-bazaar-sun-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261129T160000Z
 DTEND:20261130T040000Z
 SUMMARY:Blue Genie Art Bazaar
@@ -274,7 +274,7 @@ URL:https://weekendscout.app/e/austin/blue-genie-art-bazaar/
 END:VEVENT
 BEGIN:VEVENT
 UID:austin-mozarts-festival-of-lights-fri-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261128T000000Z
 DTEND:20261128T030000Z
 SUMMARY:Mozart's Festival of Lights
@@ -287,7 +287,7 @@ URL:https://weekendscout.app/e/austin/mozarts-festival-of-lights/
 END:VEVENT
 BEGIN:VEVENT
 UID:austin-mozarts-festival-of-lights-sat-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261129T000000Z
 DTEND:20261129T030000Z
 SUMMARY:Mozart's Festival of Lights
@@ -300,7 +300,7 @@ URL:https://weekendscout.app/e/austin/mozarts-festival-of-lights/
 END:VEVENT
 BEGIN:VEVENT
 UID:austin-mozarts-festival-of-lights-sun-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261130T000000Z
 DTEND:20261130T030000Z
 SUMMARY:Mozart's Festival of Lights

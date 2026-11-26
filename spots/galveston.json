@@ -1,0 +1,78 @@
+{
+ "city": "galveston",
+ "updated": "2026-11-25",
+ "source": "Picked from Visit Galveston listings, The Infatuation Galveston and Moody Gardens (Nov 2026); refreshed with the weekly update",
+ "spots": [
+  {
+   "name": "Daiquiri Time Out",
+   "kind": "drinks",
+   "cuisine": "Cocktail bar",
+   "area": "The Strand",
+   "lat": 29.30397,
+   "lon": -94.79867
+  },
+  {
+   "name": "Galveston Island Brewing",
+   "kind": "drinks",
+   "cuisine": "Brewery",
+   "area": "West End",
+   "lat": 29.25562,
+   "lon": -94.84914
+  },
+  {
+   "name": "Galveston Island Historic Pleasure Pier",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Seawall",
+   "lat": 29.28787,
+   "lon": -94.79019,
+   "price": "Tickets",
+   "blurb": "Rides, games and Gulf views on a pier over the water.",
+   "blurbEs": "Atracciones, juegos y vistas al Golfo en un muelle sobre el agua."
+  },
+  {
+   "name": "Moody Gardens",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Offatts Bayou",
+   "lat": 29.273,
+   "lon": -94.853,
+   "price": "Tickets",
+   "blurb": "Aquarium, rainforest and discovery pyramids; holiday lights and ICE LAND through Jan 2.",
+   "blurbEs": "Pirámides con acuario, selva tropical y ciencia; luces navideñas e ICE LAND hasta el 2 de enero."
+  },
+  {
+   "name": "Galveston Seawall",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Seawall",
+   "lat": 29.283,
+   "lon": -94.795,
+   "price": "Free",
+   "blurb": "Ten miles of sidewalk along the Gulf beaches.",
+   "blurbEs": "Dieciséis kilómetros de acera junto a las playas del Golfo."
+  },
+  {
+   "name": "The Strand Historic District",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 29.308,
+   "lon": -94.794,
+   "price": "Free",
+   "blurb": "Victorian blocks of shops, candy stores and restaurants.",
+   "blurbEs": "Cuadras victorianas con tiendas, dulcerías y restaurantes."
+  },
+  {
+   "name": "Saengerfest Park",
+   "kind": "always",
+   "cuisine": "",
+   "area": "The Strand",
+   "lat": 29.30733,
+   "lon": -94.7947,
+   "price": "Free",
+   "blurb": "Small plaza on The Strand and home of the city Christmas tree.",
+   "blurbEs": "Pequeña plaza en The Strand donde se encuentra el árbol de Navidad de la ciudad."
+  }
+ ]
+}

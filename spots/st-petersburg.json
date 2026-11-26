@@ -1,0 +1,40 @@
+{
+ "city": "st-petersburg",
+ "updated": "2026-11-25",
+ "source": "Evergreen picks from Visit St. Pete/Clearwater, The Dalí and City of St. Petersburg pages (Nov 2026); restaurant picks pending: no verified coordinates this run",
+ "spots": [
+  {
+   "name": "The Dalí Museum",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown waterfront",
+   "lat": 27.766,
+   "lon": -82.631,
+   "price": "Tickets",
+   "blurb": "Major Salvador Dalí collection by the bay; open daily 10 a.m.–6 p.m., Thursdays until 8 p.m.",
+   "blurbEs": "Gran colección de Salvador Dalí junto a la bahía; abre a diario de 10 a.m. a 6 p.m., los jueves hasta las 8 p.m."
+  },
+  {
+   "name": "St. Pete Pier",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown waterfront",
+   "lat": 27.774,
+   "lon": -82.625,
+   "price": "Free",
+   "blurb": "Free waterfront pier park for a walk with bay views",
+   "blurbEs": "Parque gratuito sobre el muelle para pasear con vistas a la bahía"
+  },
+  {
+   "name": "St. Pete Saturday Morning Market",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown (Al Lang Stadium lot)",
+   "lat": 27.768,
+   "lon": -82.633,
+   "price": "Free",
+   "blurb": "Saturday market with local food, produce and crafts, 9 a.m.–2 p.m. October through May",
+   "blurbEs": "Mercado de los sábados con comida local, productos y artesanía, de 9 a.m. a 2 p.m. de octubre a mayo"
+  }
+ ]
+}

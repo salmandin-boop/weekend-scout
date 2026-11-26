@@ -1,0 +1,102 @@
+{
+ "city": "waco",
+ "updated": "2026-11-25",
+ "source": "Picked from Visit Waco (Destination Waco) listings and official venue pages (Nov 2026); refreshed with the weekly update",
+ "spots": [
+  {
+   "name": "Milo All Day",
+   "kind": "dinner",
+   "cuisine": "Southern / American",
+   "area": "Downtown",
+   "lat": 31.55129,
+   "lon": -97.13577
+  },
+  {
+   "name": "Sagrado Cocina & Bar",
+   "kind": "dinner",
+   "cuisine": "Mexican",
+   "area": "Downtown riverfront",
+   "lat": 31.55892,
+   "lon": -97.12706
+  },
+  {
+   "name": "The Butcher's Cellar",
+   "kind": "dinner",
+   "cuisine": "Steakhouse / Seafood",
+   "area": "Woodway",
+   "lat": 31.48761,
+   "lon": -97.24144
+  },
+  {
+   "name": "Vitek's BBQ",
+   "kind": "lunch",
+   "cuisine": "Barbecue",
+   "area": "Baylor",
+   "lat": 31.53652,
+   "lon": -97.12843
+  },
+  {
+   "name": "Cupp's Drive Inn",
+   "kind": "lunch",
+   "cuisine": "Burgers / Diner",
+   "area": "Baylor",
+   "lat": 31.53793,
+   "lon": -97.12678
+  },
+  {
+   "name": "Magnolia Market at the Silos",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 31.552,
+   "lon": -97.129,
+   "price": "Free",
+   "blurb": "Shops, bakery, food trucks and lawn at the silos; closed Sundays.",
+   "blurbEs": "Tiendas, panadería, food trucks y jardín en los silos; cerrado los domingos."
+  },
+  {
+   "name": "Waco Suspension Bridge & Riverwalk",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown riverfront",
+   "lat": 31.55983,
+   "lon": -97.1281,
+   "price": "Free",
+   "blurb": "The 1870 pedestrian bridge over the Brazos, with the Cattle Drive sculptures and riverwalk.",
+   "blurbEs": "El puente peatonal de 1870 sobre el Brazos, con las esculturas Cattle Drive y el paseo ribereño."
+  },
+  {
+   "name": "Cameron Park Zoo",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Cameron Park",
+   "lat": 31.568,
+   "lon": -97.145,
+   "price": "$14–$18",
+   "blurb": "Walkable zoo with giraffes, orangutans and Komodo dragons; kids 2 and under free.",
+   "blurbEs": "Zoológico fácil de recorrer con jirafas, orangutanes y dragones de Komodo; menores de 2 años gratis."
+  },
+  {
+   "name": "Dr Pepper Museum",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 31.55477,
+   "lon": -97.12892,
+   "price": "Tickets",
+   "blurb": "Two buildings of exhibits in the soft drink's original historic bottling plant.",
+   "blurbEs": "Dos edificios de exhibiciones en la planta embotelladora original del refresco."
+  },
+  {
+   "name": "Waco Mammoth National Monument",
+   "kind": "always",
+   "cuisine": "",
+   "area": "North Waco",
+   "lat": 31.60812,
+   "lon": -97.17451,
+   "price": "$3–$5",
+   "blurb": "Guided tours of a dig shelter with a nursery herd of Pleistocene mammoths.",
+   "blurbEs": "Recorridos guiados por un refugio de excavación con una manada de mamuts del Pleistoceno."
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "city": "tallahassee",
+ "updated": "2026-11-25",
+ "source": "Evergreen picks from Visit Tallahassee and the City of Tallahassee (Nov 2026), coordinates reused from the existing events file; restaurant and bar picks pending geocoding",
+ "spots": [
+  {
+   "name": "Cascades Park",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 30.433,
+   "lon": -84.276,
+   "price": "Free",
+   "blurb": "Downtown park with trails, a waterfall and a playground.",
+   "blurbEs": "Parque del centro con senderos, una cascada y juegos infantiles."
+  },
+  {
+   "name": "Florida Historic Capitol Museum",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 30.438,
+   "lon": -84.281,
+   "price": "Free",
+   "blurb": "The restored 1902 capitol with striped awnings and a stained-glass dome.",
+   "blurbEs": "El capitolio de 1902 restaurado, con toldos a rayas y cúpula de vitral."
+  }
+ ]
+}

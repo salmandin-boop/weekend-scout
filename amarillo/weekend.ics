@@ -8,120 +8,125 @@ X-WR-CALDESC:Hand-checked weekend picks in Amarillo, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
+UID:amarillo-black-friday-hike-palo-duro-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T043819Z
+DTSTART:20261127T160000Z
+DTEND:20261127T180000Z
+SUMMARY:Black Friday Hike
+LOCATION:Palo Duro Canyon State Park\, 11450 Park Road 5\, Canyon\, TX 790
+ 15
+DESCRIPTION:A holiday hike at Palo Duro Canyon to walk off Thanksgiving di
+ nner. Park entry is $8 for adults\; kids 12 and under get in free. $8 park
+  entry (12 & under free). Details: https://weekendscout.app/e/amarillo/bla
+ ck-friday-hike-palo-duro-2026-11-27/
+URL:https://weekendscout.app/e/amarillo/black-friday-hike-palo-duro-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:amarillo-junior-ranger-academy-palo-duro-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T043819Z
+DTSTART:20261128T190000Z
+DTEND:20261128T210000Z
+SUMMARY:Junior Ranger Academy
+LOCATION:Palo Duro Canyon State Park\, 11450 Park Road 5\, Canyon\, TX 790
+ 15
+DESCRIPTION:A come-and-go kids program in the park's Visitor Center. Regul
+ ar park entry applies. $8 park entry (12 & under free). Details: https://w
+ eekendscout.app/e/amarillo/junior-ranger-academy-palo-duro-2026-11-28/
+URL:https://weekendscout.app/e/amarillo/junior-ranger-academy-palo-duro-2026-11-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:amarillo-palo-duro-van-tour-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T043819Z
+DTSTART:20261128T200000Z
+DTEND:20261128T220000Z
+SUMMARY:Palo Duro Van Tour
+LOCATION:Palo Duro Canyon State Park\, 11450 Park Road 5\, Canyon\, TX 790
+ 15
+DESCRIPTION:A guided van tour through the canyon that covers its history. 
+ Park entry is $8 for adults\; check with the park for any tour fee. Check 
+ ticket prices. Details: https://weekendscout.app/e/amarillo/palo-duro-van-
+ tour-2026-11-28/
+URL:https://weekendscout.app/e/amarillo/palo-duro-van-tour-2026-11-28/
+END:VEVENT
+BEGIN:VEVENT
 UID:amarillo-cadillac-ranch-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
 SUMMARY:Cadillac Ranch
 LOCATION:Cadillac Ranch\, 13651 I-40 Frontage Rd\, Amarillo\, TX 79124
 DESCRIPTION:Ten graffiti-covered Cadillacs nose-down in a field off Route 
- 66\; bring spray paint. Free. Details: https://weekendscout.app/e/amarillo
- /cadillac-ranch-2026-11/
+ 66\, open year-round\; bring spray paint. Free. Details: https://weekendsc
+ out.app/e/amarillo/cadillac-ranch-2026-11/
 URL:https://weekendscout.app/e/amarillo/cadillac-ranch-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:amarillo-cadillac-ranch-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
 SUMMARY:Cadillac Ranch
 LOCATION:Cadillac Ranch\, 13651 I-40 Frontage Rd\, Amarillo\, TX 79124
 DESCRIPTION:Ten graffiti-covered Cadillacs nose-down in a field off Route 
- 66\; bring spray paint. Free. Details: https://weekendscout.app/e/amarillo
- /cadillac-ranch-2026-11/
+ 66\, open year-round\; bring spray paint. Free. Details: https://weekendsc
+ out.app/e/amarillo/cadillac-ranch-2026-11/
 URL:https://weekendscout.app/e/amarillo/cadillac-ranch-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:amarillo-cadillac-ranch-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
 SUMMARY:Cadillac Ranch
 LOCATION:Cadillac Ranch\, 13651 I-40 Frontage Rd\, Amarillo\, TX 79124
 DESCRIPTION:Ten graffiti-covered Cadillacs nose-down in a field off Route 
- 66\; bring spray paint. Free. Details: https://weekendscout.app/e/amarillo
- /cadillac-ranch-2026-11/
+ 66\, open year-round\; bring spray paint. Free. Details: https://weekendsc
+ out.app/e/amarillo/cadillac-ranch-2026-11/
 URL:https://weekendscout.app/e/amarillo/cadillac-ranch-2026-11/
 END:VEVENT
 BEGIN:VEVENT
-UID:amarillo-palo-duro-canyon-state-park-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T040204Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Palo Duro Canyon State Park
-LOCATION:Palo Duro Canyon State Park\, 11450 Park Rd 5\, Canyon\, TX 79015
-DESCRIPTION:The second-largest canyon in the U.S.\, with trails and scenic
-  drives. Park entry. Details: https://weekendscout.app/e/amarillo/palo-dur
- o-canyon-state-park-2026-11/
-URL:https://weekendscout.app/e/amarillo/palo-duro-canyon-state-park-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:amarillo-palo-duro-canyon-state-park-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T040204Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Palo Duro Canyon State Park
-LOCATION:Palo Duro Canyon State Park\, 11450 Park Rd 5\, Canyon\, TX 79015
-DESCRIPTION:The second-largest canyon in the U.S.\, with trails and scenic
-  drives. Park entry. Details: https://weekendscout.app/e/amarillo/palo-dur
- o-canyon-state-park-2026-11/
-URL:https://weekendscout.app/e/amarillo/palo-duro-canyon-state-park-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:amarillo-palo-duro-canyon-state-park-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T040204Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Palo Duro Canyon State Park
-LOCATION:Palo Duro Canyon State Park\, 11450 Park Rd 5\, Canyon\, TX 79015
-DESCRIPTION:The second-largest canyon in the U.S.\, with trails and scenic
-  drives. Park entry. Details: https://weekendscout.app/e/amarillo/palo-dur
- o-canyon-state-park-2026-11/
-URL:https://weekendscout.app/e/amarillo/palo-duro-canyon-state-park-2026-11/
-END:VEVENT
-BEGIN:VEVENT
 UID:amarillo-route-66-historic-district-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
 SUMMARY:Route 66 Historic District
-LOCATION:Sixth Avenue\, SW 6th Ave\, Amarillo\, TX 79106
-DESCRIPTION:A mile of the old Route 66 with diners\, antique shops and bar
- s. Free to browse. Details: https://weekendscout.app/e/amarillo/route-66-h
- istoric-district-2026-11/
+LOCATION:Route 66 Historic District\, SW 6th Ave\, Amarillo\, TX 79106
+DESCRIPTION:A stretch of old Route 66 on Sixth Avenue with diners\, antiqu
+ e shops and bars. Shop hours vary over the holiday weekend. Free to browse
+ . Details: https://weekendscout.app/e/amarillo/route-66-historic-district-
+ 2026-11/
 URL:https://weekendscout.app/e/amarillo/route-66-historic-district-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:amarillo-route-66-historic-district-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
 SUMMARY:Route 66 Historic District
-LOCATION:Sixth Avenue\, SW 6th Ave\, Amarillo\, TX 79106
-DESCRIPTION:A mile of the old Route 66 with diners\, antique shops and bar
- s. Free to browse. Details: https://weekendscout.app/e/amarillo/route-66-h
- istoric-district-2026-11/
+LOCATION:Route 66 Historic District\, SW 6th Ave\, Amarillo\, TX 79106
+DESCRIPTION:A stretch of old Route 66 on Sixth Avenue with diners\, antiqu
+ e shops and bars. Shop hours vary over the holiday weekend. Free to browse
+ . Details: https://weekendscout.app/e/amarillo/route-66-historic-district-
+ 2026-11/
 URL:https://weekendscout.app/e/amarillo/route-66-historic-district-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:amarillo-route-66-historic-district-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
 SUMMARY:Route 66 Historic District
-LOCATION:Sixth Avenue\, SW 6th Ave\, Amarillo\, TX 79106
-DESCRIPTION:A mile of the old Route 66 with diners\, antique shops and bar
- s. Free to browse. Details: https://weekendscout.app/e/amarillo/route-66-h
- istoric-district-2026-11/
+LOCATION:Route 66 Historic District\, SW 6th Ave\, Amarillo\, TX 79106
+DESCRIPTION:A stretch of old Route 66 on Sixth Avenue with diners\, antiqu
+ e shops and bars. Shop hours vary over the holiday weekend. Free to browse
+ . Details: https://weekendscout.app/e/amarillo/route-66-historic-district-
+ 2026-11/
 URL:https://weekendscout.app/e/amarillo/route-66-historic-district-2026-11/
 END:VEVENT
 END:VCALENDAR

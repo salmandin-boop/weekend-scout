@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:chattanooga-asian-lantern-festival-chattanooga-zoo-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261127T223000Z
 DTEND:20261128T023000Z
 SUMMARY:Asian Lantern Festival: Wildlife Wonderland
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/chattanooga/asian-lantern-festival-chattanooga-zo
 END:VEVENT
 BEGIN:VEVENT
 UID:chattanooga-asian-lantern-festival-chattanooga-zoo-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261128T223000Z
 DTEND:20261129T023000Z
 SUMMARY:Asian Lantern Festival: Wildlife Wonderland
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/chattanooga/asian-lantern-festival-chattanooga-zo
 END:VEVENT
 BEGIN:VEVENT
 UID:chattanooga-asian-lantern-festival-chattanooga-zoo-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261129T223000Z
 DTEND:20261130T023000Z
 SUMMARY:Asian Lantern Festival: Wildlife Wonderland
@@ -48,7 +48,7 @@ URL:https://weekendscout.app/e/chattanooga/asian-lantern-festival-chattanooga-zo
 END:VEVENT
 BEGIN:VEVENT
 UID:chattanooga-rock-city-enchanted-garden-of-lights-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -62,7 +62,7 @@ URL:https://weekendscout.app/e/chattanooga/rock-city-enchanted-garden-of-lights-
 END:VEVENT
 BEGIN:VEVENT
 UID:chattanooga-rock-city-enchanted-garden-of-lights-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -76,7 +76,7 @@ URL:https://weekendscout.app/e/chattanooga/rock-city-enchanted-garden-of-lights-
 END:VEVENT
 BEGIN:VEVENT
 UID:chattanooga-rock-city-enchanted-garden-of-lights-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -90,7 +90,7 @@ URL:https://weekendscout.app/e/chattanooga/rock-city-enchanted-garden-of-lights-
 END:VEVENT
 BEGIN:VEVENT
 UID:chattanooga-gabriel-iglesias-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261130T003000Z
 DTEND:20261130T023000Z
 SUMMARY:Gabriel Iglesias: The 1976 Tour
@@ -103,7 +103,7 @@ URL:https://weekendscout.app/e/chattanooga/gabriel-iglesias-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:chattanooga-lupita-infante-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261129T010000Z
 DTEND:20261129T040000Z
 SUMMARY:Lupita Infante
@@ -115,7 +115,7 @@ URL:https://weekendscout.app/e/chattanooga/lupita-infante-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:chattanooga-patrick-garrity-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261128T000000Z
 DTEND:20261128T020000Z
 SUMMARY:Patrick Garrity
@@ -127,7 +127,7 @@ URL:https://weekendscout.app/e/chattanooga/patrick-garrity-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:chattanooga-patrick-garrity-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261129T000000Z
 DTEND:20261129T020000Z
 SUMMARY:Patrick Garrity
@@ -139,7 +139,7 @@ URL:https://weekendscout.app/e/chattanooga/patrick-garrity-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:chattanooga-patrick-garrity-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261129T021500Z
 DTEND:20261129T041500Z
 SUMMARY:Patrick Garrity
@@ -151,7 +151,7 @@ URL:https://weekendscout.app/e/chattanooga/patrick-garrity-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:chattanooga-mocs-vs-troy-mbb-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261128T190000Z
 DTEND:20261128T210000Z
 SUMMARY:Chattanooga Mocs vs. Troy
@@ -163,7 +163,7 @@ URL:https://weekendscout.app/e/chattanooga/mocs-vs-troy-mbb-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:chattanooga-hunter-museum-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261127T150000Z
 DTEND:20261127T220000Z
 SUMMARY:Hunter Museum of American Art
@@ -177,7 +177,7 @@ URL:https://weekendscout.app/e/chattanooga/hunter-museum-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:chattanooga-hunter-museum-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261128T150000Z
 DTEND:20261128T220000Z
 SUMMARY:Hunter Museum of American Art
@@ -191,7 +191,7 @@ URL:https://weekendscout.app/e/chattanooga/hunter-museum-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:chattanooga-hunter-museum-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261129T170000Z
 DTEND:20261129T220000Z
 SUMMARY:Hunter Museum of American Art
@@ -205,7 +205,7 @@ URL:https://weekendscout.app/e/chattanooga/hunter-museum-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:chattanooga-walnut-street-bridge-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -218,7 +218,7 @@ URL:https://weekendscout.app/e/chattanooga/walnut-street-bridge-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:chattanooga-walnut-street-bridge-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -231,7 +231,7 @@ URL:https://weekendscout.app/e/chattanooga/walnut-street-bridge-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:chattanooga-walnut-street-bridge-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT

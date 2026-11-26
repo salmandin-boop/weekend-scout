@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:toledo-toledo-walleye-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261128T001500Z
 DTEND:20261128T021500Z
 SUMMARY:Toledo Walleye
@@ -21,7 +21,7 @@ URL:https://weekendscout.app/e/toledo/toledo-walleye-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:toledo-toledo-walleye-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261129T221500Z
 DTEND:20261130T001500Z
 SUMMARY:Toledo Walleye
@@ -33,7 +33,7 @@ URL:https://weekendscout.app/e/toledo/toledo-walleye-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:toledo-lights-before-christmas-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261127T200000Z
 DTEND:20261128T020000Z
 SUMMARY:Lights Before Christmas
@@ -46,7 +46,7 @@ URL:https://weekendscout.app/e/toledo/lights-before-christmas-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:toledo-lights-before-christmas-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261128T200000Z
 DTEND:20261129T020000Z
 SUMMARY:Lights Before Christmas
@@ -59,7 +59,7 @@ URL:https://weekendscout.app/e/toledo/lights-before-christmas-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:toledo-lights-before-christmas-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261129T200000Z
 DTEND:20261130T020000Z
 SUMMARY:Lights Before Christmas
@@ -72,7 +72,7 @@ URL:https://weekendscout.app/e/toledo/lights-before-christmas-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:toledo-cirque-dreams-holidaze-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261128T210000Z
 DTEND:20261128T230000Z
 SUMMARY:Cirque Dreams Holidaze
@@ -84,7 +84,7 @@ URL:https://weekendscout.app/e/toledo/cirque-dreams-holidaze-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:toledo-cirque-dreams-holidaze-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261129T190000Z
 DTEND:20261129T210000Z
 SUMMARY:Cirque Dreams Holidaze
@@ -96,7 +96,7 @@ URL:https://weekendscout.app/e/toledo/cirque-dreams-holidaze-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:toledo-chris-powell-funny-bone-toledo-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261128T000000Z
 DTEND:20261128T020000Z
 SUMMARY:Chris Powell
@@ -109,7 +109,7 @@ URL:https://weekendscout.app/e/toledo/chris-powell-funny-bone-toledo-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:toledo-chris-powell-funny-bone-toledo-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261128T233000Z
 DTEND:20261129T013000Z
 SUMMARY:Chris Powell
@@ -122,7 +122,7 @@ URL:https://weekendscout.app/e/toledo/chris-powell-funny-bone-toledo-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:toledo-chris-powell-funny-bone-toledo-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261129T021500Z
 DTEND:20261129T041500Z
 SUMMARY:Chris Powell
@@ -135,7 +135,7 @@ URL:https://weekendscout.app/e/toledo/chris-powell-funny-bone-toledo-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:toledo-toledo-museum-of-art-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261127T160000Z
 DTEND:20261128T010000Z
 SUMMARY:Toledo Museum of Art
@@ -148,7 +148,7 @@ URL:https://weekendscout.app/e/toledo/toledo-museum-of-art-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:toledo-toledo-museum-of-art-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261128T160000Z
 DTEND:20261129T010000Z
 SUMMARY:Toledo Museum of Art
@@ -161,7 +161,7 @@ URL:https://weekendscout.app/e/toledo/toledo-museum-of-art-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:toledo-toledo-museum-of-art-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261129T160000Z
 DTEND:20261129T220000Z
 SUMMARY:Toledo Museum of Art
@@ -174,7 +174,7 @@ URL:https://weekendscout.app/e/toledo/toledo-museum-of-art-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:toledo-toledo-farmers-market-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T040204Z
+DTSTAMP:20261126T043819Z
 DTSTART:20261128T130000Z
 DTEND:20261128T190000Z
 SUMMARY:Toledo Farmers' Market

@@ -1,0 +1,40 @@
+{
+ "city": "arlington",
+ "updated": "2026-11-25",
+ "source": "Picked from Visit Arlington, City of Arlington and venue pages (Nov 2026); refreshed with the weekly update",
+ "spots": [
+  {
+   "name": "River Legacy Park",
+   "kind": "always",
+   "cuisine": "",
+   "area": "North Arlington",
+   "lat": 32.779,
+   "lon": -97.108,
+   "price": "Free",
+   "blurb": "Wooded trails along the Trinity River and a nature center.",
+   "blurbEs": "Senderos arbolados junto al río Trinity y un centro de naturaleza."
+  },
+  {
+   "name": "AT&T Stadium",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Entertainment District",
+   "lat": 32.7473,
+   "lon": -97.0945,
+   "price": "Tickets",
+   "blurb": "The Dallas Cowboys' home stadium, the landmark of the Entertainment District.",
+   "blurbEs": "El estadio de los Dallas Cowboys, el gran ícono del Entertainment District."
+  },
+  {
+   "name": "Globe Life Field",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Entertainment District",
+   "lat": 32.74914,
+   "lon": -97.08494,
+   "price": "Free",
+   "blurb": "The Texas Rangers' ballpark; its North Plaza hosts the free Texas Christkindl Market through Dec. 23.",
+   "blurbEs": "El estadio de los Texas Rangers; su North Plaza recibe el Texas Christkindl Market gratis hasta el 23 de diciembre."
+  }
+ ]
+}
