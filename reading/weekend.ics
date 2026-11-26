@@ -8,89 +8,152 @@ X-WR-CALDESC:Hand-checked weekend picks in Reading, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:reading-the-pagoda-on-mount-penn-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:The Pagoda on Mount Penn
-LOCATION:Reading Pagoda\, 98 Duryea Dr\, Reading\, PA 19602
-DESCRIPTION:A 1908 Japanese-style pagoda with views over the city. Free. D
- etails: https://weekendscout.app/e/reading/the-pagoda-on-mount-penn-2026-1
- 1/
-URL:https://weekendscout.app/e/reading/the-pagoda-on-mount-penn-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:reading-the-pagoda-on-mount-penn-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:The Pagoda on Mount Penn
-LOCATION:Reading Pagoda\, 98 Duryea Dr\, Reading\, PA 19602
-DESCRIPTION:A 1908 Japanese-style pagoda with views over the city. Free. D
- etails: https://weekendscout.app/e/reading/the-pagoda-on-mount-penn-2026-1
- 1/
-URL:https://weekendscout.app/e/reading/the-pagoda-on-mount-penn-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:reading-the-pagoda-on-mount-penn-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:The Pagoda on Mount Penn
-LOCATION:Reading Pagoda\, 98 Duryea Dr\, Reading\, PA 19602
-DESCRIPTION:A 1908 Japanese-style pagoda with views over the city. Free. D
- etails: https://weekendscout.app/e/reading/the-pagoda-on-mount-penn-2026-1
- 1/
-URL:https://weekendscout.app/e/reading/the-pagoda-on-mount-penn-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:reading-mannheim-steamroller-christmas-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T074049Z
+UID:reading-mannheim-steamroller-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T081235Z
 DTSTART:20261128T003000Z
 DTEND:20261128T023000Z
 SUMMARY:Mannheim Steamroller Christmas
 LOCATION:Santander Performing Arts Center\, 136 N 6th St\, Reading\, PA 19
  601
-DESCRIPTION:The holiday-music tour. Tickets. Details: https://weekendscout
- .app/e/reading/mannheim-steamroller-christmas-2026-11/
-URL:https://weekendscout.app/e/reading/mannheim-steamroller-christmas-2026-11/
+DESCRIPTION:The long-running holiday music show comes to the Santander Per
+ forming Arts Center on Friday night. Doors open at 6:30 p.m. Tickets. Deta
+ ils: https://weekendscout.app/e/reading/mannheim-steamroller-2026-11-27/
+URL:https://weekendscout.app/e/reading/mannheim-steamroller-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:reading-nicky-jam-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T074049Z
+UID:reading-perreoland-nicky-jam-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T081235Z
 DTSTART:20261128T010000Z
 DTEND:20261128T030000Z
-SUMMARY:Nicky Jam
+SUMMARY:Perreoland Featuring Nicky Jam
 LOCATION:Santander Arena\, 700 Penn St\, Reading\, PA 19602
-DESCRIPTION:The reggaeton star’s Perreoland tour. Tickets. Details: http
- s://weekendscout.app/e/reading/nicky-jam-2026-11/
-URL:https://weekendscout.app/e/reading/nicky-jam-2026-11/
+DESCRIPTION:Reggaeton star Nicky Jam brings his Perreoland tour to Santand
+ er Arena. Doors open at 6:30 p.m. Tickets. Details: https://weekendscout.a
+ pp/e/reading/perreoland-nicky-jam-2026-11-27/
+URL:https://weekendscout.app/e/reading/perreoland-nicky-jam-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:reading-the-nutcracker-world-ballet-company-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T074049Z
+UID:reading-world-ballet-nutcracker-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T081235Z
 DTSTART:20261129T000000Z
 DTEND:20261129T020000Z
-SUMMARY:The Nutcracker (World Ballet Company)
+SUMMARY:World Ballet Company: The Nutcracker
 LOCATION:Santander Performing Arts Center\, 136 N 6th St\, Reading\, PA 19
  601
-DESCRIPTION:A touring Nutcracker on Saturday night. Tickets. Details: http
- s://weekendscout.app/e/reading/the-nutcracker-world-ballet-company-2026-11
- /
-URL:https://weekendscout.app/e/reading/the-nutcracker-world-ballet-company-2026-11/
+DESCRIPTION:World Ballet Company performs The Nutcracker with a live orche
+ stra. Doors open at 6 p.m. Tickets. Details: https://weekendscout.app/e/re
+ ading/world-ballet-nutcracker-2026-11-28/
+URL:https://weekendscout.app/e/reading/world-ballet-nutcracker-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
-UID:reading-reading-royals-vs-trois-rivi-res-lions-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART:20261129T000000Z
-DTEND:20261129T020000Z
+UID:reading-reading-royals-vs-trois-rivieres-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261128T180000Z
+DTEND:20261128T200000Z
 SUMMARY:Reading Royals vs. Trois-Rivières Lions
 LOCATION:Santander Arena\, 700 Penn St\, Reading\, PA 19602
-DESCRIPTION:ECHL hockey on Saturday. Tickets. Details: https://weekendscou
- t.app/e/reading/reading-royals-vs-trois-rivi-res-lions-2026-11/
-URL:https://weekendscout.app/e/reading/reading-royals-vs-trois-rivi-res-lions-2026-11/
+DESCRIPTION:An afternoon ECHL home game with a Community Cares and "Undie 
+ Saturday" theme\, including an underwear toss after the first Royals goal 
+ and an Ice Angels poster giveaway. Tickets. Details: https://weekendscout.
+ app/e/reading/reading-royals-vs-trois-rivieres-2026-11-28/
+URL:https://weekendscout.app/e/reading/reading-royals-vs-trois-rivieres-2026-11-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:reading-koziars-christmas-village-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261127T230000Z
+DTEND:20261128T020000Z
+SUMMARY:Koziar's Christmas Village
+LOCATION:Koziar's Christmas Village\, Christmas Village Rd\, Bernville\, P
+ A 19506
+DESCRIPTION:The long-running walk-through Christmas light display on a Ber
+ ks County farm\, open nightly through Jan. 2. Prime Nights cost $5 more pe
+ r ticket\, and payment is cash or Visa/Mastercard/Discover. $12–$14\; ag
+ e 3 and under free. Details: https://weekendscout.app/e/reading/koziars-ch
+ ristmas-village-2026-11-27/
+URL:https://weekendscout.app/e/reading/koziars-christmas-village-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:reading-koziars-christmas-village-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261128T220000Z
+DTEND:20261129T030000Z
+SUMMARY:Koziar's Christmas Village
+LOCATION:Koziar's Christmas Village\, Christmas Village Rd\, Bernville\, P
+ A 19506
+DESCRIPTION:The long-running walk-through Christmas light display on a Ber
+ ks County farm\, open nightly through Jan. 2. Prime Nights cost $5 more pe
+ r ticket\, and payment is cash or Visa/Mastercard/Discover. $12–$14\; ag
+ e 3 and under free. Details: https://weekendscout.app/e/reading/koziars-ch
+ ristmas-village-2026-11-27/
+URL:https://weekendscout.app/e/reading/koziars-christmas-village-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:reading-koziars-christmas-village-2026-11-27-sun-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261129T220000Z
+DTEND:20261130T020000Z
+SUMMARY:Koziar's Christmas Village
+LOCATION:Koziar's Christmas Village\, Christmas Village Rd\, Bernville\, P
+ A 19506
+DESCRIPTION:The long-running walk-through Christmas light display on a Ber
+ ks County farm\, open nightly through Jan. 2. Prime Nights cost $5 more pe
+ r ticket\, and payment is cash or Visa/Mastercard/Discover. $12–$14\; ag
+ e 3 and under free. Details: https://weekendscout.app/e/reading/koziars-ch
+ ristmas-village-2026-11-27/
+URL:https://weekendscout.app/e/reading/koziars-christmas-village-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:reading-west-reading-farmers-market-2026-11-29-sun-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261129T150000Z
+DTEND:20261129T180000Z
+SUMMARY:West Reading Farmers' Market
+LOCATION:West Reading Farmers' Market\, Penn Ave & S 6th Ave\, West Readin
+ g\, PA 19611
+DESCRIPTION:A producer-only outdoor market with local farmers and food mak
+ ers selling produce\, meats\, dairy\, baked goods and more\, with live mus
+ ic and free samples. Rain or shine. Free to browse. Details: https://weeke
+ ndscout.app/e/reading/west-reading-farmers-market-2026-11-29/
+URL:https://weekendscout.app/e/reading/west-reading-farmers-market-2026-11-29/
+END:VEVENT
+BEGIN:VEVENT
+UID:reading-goggleworks-galleries-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261127T140000Z
+DTEND:20261128T020000Z
+SUMMARY:GoggleWorks Galleries & Studios
+LOCATION:GoggleWorks Center for the Arts\, 201 Washington St\, Reading\, P
+ A 19601
+DESCRIPTION:The arts center's galleries are open daily and free\, with fre
+ e parking. Galleries can close during exhibition installs. Free. Details: 
+ https://weekendscout.app/e/reading/goggleworks-galleries-2026-11/
+URL:https://weekendscout.app/e/reading/goggleworks-galleries-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:reading-goggleworks-galleries-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261128T140000Z
+DTEND:20261129T020000Z
+SUMMARY:GoggleWorks Galleries & Studios
+LOCATION:GoggleWorks Center for the Arts\, 201 Washington St\, Reading\, P
+ A 19601
+DESCRIPTION:The arts center's galleries are open daily and free\, with fre
+ e parking. Galleries can close during exhibition installs. Free. Details: 
+ https://weekendscout.app/e/reading/goggleworks-galleries-2026-11/
+URL:https://weekendscout.app/e/reading/goggleworks-galleries-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:reading-goggleworks-galleries-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261129T140000Z
+DTEND:20261130T020000Z
+SUMMARY:GoggleWorks Galleries & Studios
+LOCATION:GoggleWorks Center for the Arts\, 201 Washington St\, Reading\, P
+ A 19601
+DESCRIPTION:The arts center's galleries are open daily and free\, with fre
+ e parking. Galleries can close during exhibition installs. Free. Details: 
+ https://weekendscout.app/e/reading/goggleworks-galleries-2026-11/
+URL:https://weekendscout.app/e/reading/goggleworks-galleries-2026-11/
 END:VEVENT
 END:VCALENDAR

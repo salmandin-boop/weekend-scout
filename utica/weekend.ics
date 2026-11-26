@@ -8,89 +8,190 @@ X-WR-CALDESC:Hand-checked weekend picks in Utica, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:utica-roscoe-conkling-park-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Roscoe Conkling Park
-LOCATION:Roscoe Conkling Park\, Memorial Pkwy\, Utica\, NY 13501
-DESCRIPTION:A big hillside park with trails and city views. Free. Details:
-  https://weekendscout.app/e/utica/roscoe-conkling-park-2026-11/
-URL:https://weekendscout.app/e/utica/roscoe-conkling-park-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:utica-roscoe-conkling-park-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Roscoe Conkling Park
-LOCATION:Roscoe Conkling Park\, Memorial Pkwy\, Utica\, NY 13501
-DESCRIPTION:A big hillside park with trails and city views. Free. Details:
-  https://weekendscout.app/e/utica/roscoe-conkling-park-2026-11/
-URL:https://weekendscout.app/e/utica/roscoe-conkling-park-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:utica-roscoe-conkling-park-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Roscoe Conkling Park
-LOCATION:Roscoe Conkling Park\, Memorial Pkwy\, Utica\, NY 13501
-DESCRIPTION:A big hillside park with trails and city views. Free. Details:
-  https://weekendscout.app/e/utica/roscoe-conkling-park-2026-11/
-URL:https://weekendscout.app/e/utica/roscoe-conkling-park-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:utica-munson-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Munson
-LOCATION:Munson\, 310 Genesee St\, Utica\, NY 13502
-DESCRIPTION:Art museum with works from Picasso to Pollock\, in a Philip Jo
- hnson building. Admission. Details: https://weekendscout.app/e/utica/munso
- n-2026-11/
-URL:https://weekendscout.app/e/utica/munson-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:utica-munson-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Munson
-LOCATION:Munson\, 310 Genesee St\, Utica\, NY 13502
-DESCRIPTION:Art museum with works from Picasso to Pollock\, in a Philip Jo
- hnson building. Admission. Details: https://weekendscout.app/e/utica/munso
- n-2026-11/
-URL:https://weekendscout.app/e/utica/munson-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:utica-munson-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Munson
-LOCATION:Munson\, 310 Genesee St\, Utica\, NY 13502
-DESCRIPTION:Art museum with works from Picasso to Pollock\, in a Philip Jo
- hnson building. Admission. Details: https://weekendscout.app/e/utica/munso
- n-2026-11/
-URL:https://weekendscout.app/e/utica/munson-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:utica-utica-comets-vs-laval-rocket-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T074049Z
+UID:utica-utica-comets-vs-laval-rocket-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T081235Z
 DTSTART:20261128T000000Z
 DTEND:20261128T020000Z
 SUMMARY:Utica Comets vs. Laval Rocket
 LOCATION:Adirondack Bank Center\, 400 Oriskany St W\, Utica\, NY 13502
-DESCRIPTION:AHL hockey on Friday night. Tickets. Details: https://weekends
- cout.app/e/utica/utica-comets-vs-laval-rocket-2026-11/
-URL:https://weekendscout.app/e/utica/utica-comets-vs-laval-rocket-2026-11/
+DESCRIPTION:The Utica Comets host the Laval Rocket in AHL hockey on Friday
+  night. Tickets. Details: https://weekendscout.app/e/utica/utica-comets-vs
+ -laval-rocket-2026-11-27/
+URL:https://weekendscout.app/e/utica/utica-comets-vs-laval-rocket-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:utica-utica-zoo-bright-nights-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261127T220000Z
+DTEND:20261128T010000Z
+SUMMARY:Bright Nights at the Utica Zoo
+LOCATION:Utica Zoo\, 1 Utica Zoo Way\, Utica\, NY 13501
+DESCRIPTION:The zoo's holiday light show opens for the season with over 36
+ \,000 bulbs\, a hot cocoa bar\, firepits\, food trucks and Santa meet-and-
+ greets (with the Grinch on Friday). Last ticket sold at 7:30 p.m. From $8 
+ in advance\; under 2 free. Details: https://weekendscout.app/e/utica/utica
+ -zoo-bright-nights-2026-11-27/
+URL:https://weekendscout.app/e/utica/utica-zoo-bright-nights-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:utica-utica-zoo-bright-nights-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261128T220000Z
+DTEND:20261129T010000Z
+SUMMARY:Bright Nights at the Utica Zoo
+LOCATION:Utica Zoo\, 1 Utica Zoo Way\, Utica\, NY 13501
+DESCRIPTION:The zoo's holiday light show opens for the season with over 36
+ \,000 bulbs\, a hot cocoa bar\, firepits\, food trucks and Santa meet-and-
+ greets (with the Grinch on Friday). Last ticket sold at 7:30 p.m. From $8 
+ in advance\; under 2 free. Details: https://weekendscout.app/e/utica/utica
+ -zoo-bright-nights-2026-11-27/
+URL:https://weekendscout.app/e/utica/utica-zoo-bright-nights-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:utica-utica-zoo-daytime-2026-11-28-fri-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261127T150000Z
+DTEND:20261127T213000Z
+SUMMARY:Utica Zoo
+LOCATION:Utica Zoo\, 1 Utica Zoo Way\, Utica\, NY 13501
+DESCRIPTION:The zoo is open daily from 10 a.m. to 4:30 p.m.\; kids 1 and u
+ nder get in free. $8 kids 2–12\, $11 adults. Details: https://weekendsco
+ ut.app/e/utica/utica-zoo-daytime-2026-11-28/
+URL:https://weekendscout.app/e/utica/utica-zoo-daytime-2026-11-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:utica-utica-zoo-daytime-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261128T150000Z
+DTEND:20261128T213000Z
+SUMMARY:Utica Zoo
+LOCATION:Utica Zoo\, 1 Utica Zoo Way\, Utica\, NY 13501
+DESCRIPTION:The zoo is open daily from 10 a.m. to 4:30 p.m.\; kids 1 and u
+ nder get in free. $8 kids 2–12\, $11 adults. Details: https://weekendsco
+ ut.app/e/utica/utica-zoo-daytime-2026-11-28/
+URL:https://weekendscout.app/e/utica/utica-zoo-daytime-2026-11-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:utica-utica-zoo-daytime-2026-11-28-sun-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261129T150000Z
+DTEND:20261129T213000Z
+SUMMARY:Utica Zoo
+LOCATION:Utica Zoo\, 1 Utica Zoo Way\, Utica\, NY 13501
+DESCRIPTION:The zoo is open daily from 10 a.m. to 4:30 p.m.\; kids 1 and u
+ nder get in free. $8 kids 2–12\, $11 adults. Details: https://weekendsco
+ ut.app/e/utica/utica-zoo-daytime-2026-11-28/
+URL:https://weekendscout.app/e/utica/utica-zoo-daytime-2026-11-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:utica-christmas-and-crafts-turning-stone-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261127T220000Z
+DTEND:20261128T020000Z
+SUMMARY:Christmas & Crafts: The Premier Arts & Crafts Show
+LOCATION:The Grand Expo at Turning Stone Resort Casino\, 5218 Patrick Rd\,
+  Verona\, NY 13478
+DESCRIPTION:About 250 vendors sell handmade gifts such as artisan jewelry\
+ , home decor and ceramics. Children 5 and under get in free. Check ticket 
+ prices. Details: https://weekendscout.app/e/utica/christmas-and-crafts-tur
+ ning-stone-2026-11-27/
+URL:https://weekendscout.app/e/utica/christmas-and-crafts-turning-stone-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:utica-christmas-and-crafts-turning-stone-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261128T150000Z
+DTEND:20261128T220000Z
+SUMMARY:Christmas & Crafts: The Premier Arts & Crafts Show
+LOCATION:The Grand Expo at Turning Stone Resort Casino\, 5218 Patrick Rd\,
+  Verona\, NY 13478
+DESCRIPTION:About 250 vendors sell handmade gifts such as artisan jewelry\
+ , home decor and ceramics. Children 5 and under get in free. Check ticket 
+ prices. Details: https://weekendscout.app/e/utica/christmas-and-crafts-tur
+ ning-stone-2026-11-27/
+URL:https://weekendscout.app/e/utica/christmas-and-crafts-turning-stone-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:utica-christmas-and-crafts-turning-stone-2026-11-27-sun-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261129T150000Z
+DTEND:20261129T210000Z
+SUMMARY:Christmas & Crafts: The Premier Arts & Crafts Show
+LOCATION:The Grand Expo at Turning Stone Resort Casino\, 5218 Patrick Rd\,
+  Verona\, NY 13478
+DESCRIPTION:About 250 vendors sell handmade gifts such as artisan jewelry\
+ , home decor and ceramics. Children 5 and under get in free. Check ticket 
+ prices. Details: https://weekendscout.app/e/utica/christmas-and-crafts-tur
+ ning-stone-2026-11-27/
+URL:https://weekendscout.app/e/utica/christmas-and-crafts-turning-stone-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:utica-clinton-shoppers-stroll-holiday-parade-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Shoppers' Stroll & Holiday Parade
+LOCATION:Village of Clinton\, Village Green\, Clinton\, NY 13323
+DESCRIPTION:The Clinton Chamber of Commerce's two-day holiday kickoff in t
+ he historic village center\, with horse-drawn wagon rides\, caroling\, chi
+ ldren's activities and visits with Santa. Check details. Details: https://
+ weekendscout.app/e/utica/clinton-shoppers-stroll-holiday-parade-2026-11-27
+ /
+URL:https://weekendscout.app/e/utica/clinton-shoppers-stroll-holiday-parade-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:utica-clinton-shoppers-stroll-holiday-parade-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Shoppers' Stroll & Holiday Parade
+LOCATION:Village of Clinton\, Village Green\, Clinton\, NY 13323
+DESCRIPTION:The Clinton Chamber of Commerce's two-day holiday kickoff in t
+ he historic village center\, with horse-drawn wagon rides\, caroling\, chi
+ ldren's activities and visits with Santa. Check details. Details: https://
+ weekendscout.app/e/utica/clinton-shoppers-stroll-holiday-parade-2026-11-27
+ /
+URL:https://weekendscout.app/e/utica/clinton-shoppers-stroll-holiday-parade-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:utica-munson-victorian-groove-tide-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Victorian Groove-tide at Fountain Elms
+LOCATION:Munson\, 310 Genesee St\, Utica\, NY 13502
+DESCRIPTION:Munson's annual holiday display in the Victorian rooms of Foun
+ tain Elms runs Nov. 13 through Jan. 3. Check admission. Details: https://w
+ eekendscout.app/e/utica/munson-victorian-groove-tide-2026-11/
+URL:https://weekendscout.app/e/utica/munson-victorian-groove-tide-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:utica-munson-victorian-groove-tide-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Victorian Groove-tide at Fountain Elms
+LOCATION:Munson\, 310 Genesee St\, Utica\, NY 13502
+DESCRIPTION:Munson's annual holiday display in the Victorian rooms of Foun
+ tain Elms runs Nov. 13 through Jan. 3. Check admission. Details: https://w
+ eekendscout.app/e/utica/munson-victorian-groove-tide-2026-11/
+URL:https://weekendscout.app/e/utica/munson-victorian-groove-tide-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:utica-munson-victorian-groove-tide-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Victorian Groove-tide at Fountain Elms
+LOCATION:Munson\, 310 Genesee St\, Utica\, NY 13502
+DESCRIPTION:Munson's annual holiday display in the Victorian rooms of Foun
+ tain Elms runs Nov. 13 through Jan. 3. Check admission. Details: https://w
+ eekendscout.app/e/utica/munson-victorian-groove-tide-2026-11/
+URL:https://weekendscout.app/e/utica/munson-victorian-groove-tide-2026-11/
 END:VEVENT
 END:VCALENDAR

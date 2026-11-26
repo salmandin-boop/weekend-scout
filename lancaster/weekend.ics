@@ -8,99 +8,243 @@ X-WR-CALDESC:Hand-checked weekend picks in Lancaster, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:lancaster-lancaster-central-market-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T074049Z
+UID:lancaster-mayors-tree-lighting-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261127T220000Z
+DTEND:20261128T010000Z
+SUMMARY:Mayor's Tree Lighting
+LOCATION:Penn Square\, Penn Square\, Lancaster\, PA 17603
+DESCRIPTION:The city's holiday tree is lit in the city square\, followed b
+ y a special evening snack from Central Market standholders at the Market H
+ ouse. Free. Details: https://weekendscout.app/e/lancaster/mayors-tree-ligh
+ ting-2026-11-27/
+URL:https://weekendscout.app/e/lancaster/mayors-tree-lighting-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:lancaster-lancaster-central-market-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T081235Z
 DTSTART:20261127T110000Z
-DTEND:20261127T210000Z
+DTEND:20261127T200000Z
 SUMMARY:Lancaster Central Market
-LOCATION:Central Market\, 23 N Market St\, Lancaster\, PA 17603
-DESCRIPTION:The country’s oldest continuously operating farmers market\,
-  in an 1889 market house. Free to browse. Details: https://weekendscout.ap
- p/e/lancaster/lancaster-central-market-2026-11/
-URL:https://weekendscout.app/e/lancaster/lancaster-central-market-2026-11/
+LOCATION:Lancaster Central Market\, 23 N Market St\, Lancaster\, PA 17603
+DESCRIPTION:America's oldest continuously operating farmers market\, with 
+ local produce\, baked goods and prepared food stands in its historic marke
+ t house. Free to browse. Details: https://weekendscout.app/e/lancaster/lan
+ caster-central-market-2026-11-27/
+URL:https://weekendscout.app/e/lancaster/lancaster-central-market-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:lancaster-lancaster-central-market-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T074049Z
+UID:lancaster-lancaster-central-market-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T081235Z
 DTSTART:20261128T110000Z
-DTEND:20261128T190000Z
+DTEND:20261128T200000Z
 SUMMARY:Lancaster Central Market
-LOCATION:Central Market\, 23 N Market St\, Lancaster\, PA 17603
-DESCRIPTION:The country’s oldest continuously operating farmers market\,
-  in an 1889 market house. Free to browse. Details: https://weekendscout.ap
- p/e/lancaster/lancaster-central-market-2026-11/
-URL:https://weekendscout.app/e/lancaster/lancaster-central-market-2026-11/
+LOCATION:Lancaster Central Market\, 23 N Market St\, Lancaster\, PA 17603
+DESCRIPTION:America's oldest continuously operating farmers market\, with 
+ local produce\, baked goods and prepared food stands in its historic marke
+ t house. Free to browse. Details: https://weekendscout.app/e/lancaster/lan
+ caster-central-market-2026-11-27/
+URL:https://weekendscout.app/e/lancaster/lancaster-central-market-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:lancaster-gallery-row-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Gallery Row
-LOCATION:Gallery Row\, N Prince St\, Lancaster\, PA 17603
-DESCRIPTION:A block of galleries and studios downtown. Free to browse. Det
- ails: https://weekendscout.app/e/lancaster/gallery-row-2026-11/
-URL:https://weekendscout.app/e/lancaster/gallery-row-2026-11/
+UID:lancaster-annie-fulton-theatre-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261128T003000Z
+DTEND:20261128T023000Z
+SUMMARY:Annie
+LOCATION:Fulton Theatre\, 12 N Prince St\, Lancaster\, PA 17603
+DESCRIPTION:The Tony-winning musical based on Harold Gray's comic strip\, 
+ on the Fulton's mainstage through Dec. 31. Runs about 2 hours 20 minutes w
+ ith intermission. Tickets. Details: https://weekendscout.app/e/lancaster/a
+ nnie-fulton-theatre-2026-11-27/
+URL:https://weekendscout.app/e/lancaster/annie-fulton-theatre-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:lancaster-gallery-row-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T074049Z
+UID:lancaster-annie-fulton-theatre-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261128T190000Z
+DTEND:20261128T210000Z
+SUMMARY:Annie
+LOCATION:Fulton Theatre\, 12 N Prince St\, Lancaster\, PA 17603
+DESCRIPTION:The Tony-winning musical based on Harold Gray's comic strip\, 
+ on the Fulton's mainstage through Dec. 31. Runs about 2 hours 20 minutes w
+ ith intermission. Tickets. Details: https://weekendscout.app/e/lancaster/a
+ nnie-fulton-theatre-2026-11-27/
+URL:https://weekendscout.app/e/lancaster/annie-fulton-theatre-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:lancaster-annie-fulton-theatre-2026-11-27-sat-1@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261129T003000Z
+DTEND:20261129T023000Z
+SUMMARY:Annie
+LOCATION:Fulton Theatre\, 12 N Prince St\, Lancaster\, PA 17603
+DESCRIPTION:The Tony-winning musical based on Harold Gray's comic strip\, 
+ on the Fulton's mainstage through Dec. 31. Runs about 2 hours 20 minutes w
+ ith intermission. Tickets. Details: https://weekendscout.app/e/lancaster/a
+ nnie-fulton-theatre-2026-11-27/
+URL:https://weekendscout.app/e/lancaster/annie-fulton-theatre-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:lancaster-annie-fulton-theatre-2026-11-27-sun-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261129T190000Z
+DTEND:20261129T210000Z
+SUMMARY:Annie
+LOCATION:Fulton Theatre\, 12 N Prince St\, Lancaster\, PA 17603
+DESCRIPTION:The Tony-winning musical based on Harold Gray's comic strip\, 
+ on the Fulton's mainstage through Dec. 31. Runs about 2 hours 20 minutes w
+ ith intermission. Tickets. Details: https://weekendscout.app/e/lancaster/a
+ nnie-fulton-theatre-2026-11-27/
+URL:https://weekendscout.app/e/lancaster/annie-fulton-theatre-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:lancaster-annie-fulton-theatre-2026-11-27-sun-1@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261130T003000Z
+DTEND:20261130T023000Z
+SUMMARY:Annie
+LOCATION:Fulton Theatre\, 12 N Prince St\, Lancaster\, PA 17603
+DESCRIPTION:The Tony-winning musical based on Harold Gray's comic strip\, 
+ on the Fulton's mainstage through Dec. 31. Runs about 2 hours 20 minutes w
+ ith intermission. Tickets. Details: https://weekendscout.app/e/lancaster/a
+ nnie-fulton-theatre-2026-11-27/
+URL:https://weekendscout.app/e/lancaster/annie-fulton-theatre-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:lancaster-amt-christmas-winter-wonderland-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261127T200000Z
+DTEND:20261127T220000Z
+SUMMARY:The 2026 Christmas Show: Winter Wonderland
+LOCATION:American Music Theatre\, 2425 Lincoln Hwy E\, Lancaster\, PA 1760
+ 2
+DESCRIPTION:AMT's original Christmas show follows two villagers on a journ
+ ey to find Santa\, with live music\, singers\, dancers and a Youth & Teen 
+ Ensemble. About 2 hours with one intermission. $30–$59. Details: https:/
+ /weekendscout.app/e/lancaster/amt-christmas-winter-wonderland-2026-11-27/
+URL:https://weekendscout.app/e/lancaster/amt-christmas-winter-wonderland-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:lancaster-amt-christmas-winter-wonderland-2026-11-27-fri-1@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261128T003000Z
+DTEND:20261128T023000Z
+SUMMARY:The 2026 Christmas Show: Winter Wonderland
+LOCATION:American Music Theatre\, 2425 Lincoln Hwy E\, Lancaster\, PA 1760
+ 2
+DESCRIPTION:AMT's original Christmas show follows two villagers on a journ
+ ey to find Santa\, with live music\, singers\, dancers and a Youth & Teen 
+ Ensemble. About 2 hours with one intermission. $30–$59. Details: https:/
+ /weekendscout.app/e/lancaster/amt-christmas-winter-wonderland-2026-11-27/
+URL:https://weekendscout.app/e/lancaster/amt-christmas-winter-wonderland-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:lancaster-amt-christmas-winter-wonderland-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261128T153000Z
+DTEND:20261128T173000Z
+SUMMARY:The 2026 Christmas Show: Winter Wonderland
+LOCATION:American Music Theatre\, 2425 Lincoln Hwy E\, Lancaster\, PA 1760
+ 2
+DESCRIPTION:AMT's original Christmas show follows two villagers on a journ
+ ey to find Santa\, with live music\, singers\, dancers and a Youth & Teen 
+ Ensemble. About 2 hours with one intermission. $30–$59. Details: https:/
+ /weekendscout.app/e/lancaster/amt-christmas-winter-wonderland-2026-11-27/
+URL:https://weekendscout.app/e/lancaster/amt-christmas-winter-wonderland-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:lancaster-amt-christmas-winter-wonderland-2026-11-27-sat-1@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261128T200000Z
+DTEND:20261128T220000Z
+SUMMARY:The 2026 Christmas Show: Winter Wonderland
+LOCATION:American Music Theatre\, 2425 Lincoln Hwy E\, Lancaster\, PA 1760
+ 2
+DESCRIPTION:AMT's original Christmas show follows two villagers on a journ
+ ey to find Santa\, with live music\, singers\, dancers and a Youth & Teen 
+ Ensemble. About 2 hours with one intermission. $30–$59. Details: https:/
+ /weekendscout.app/e/lancaster/amt-christmas-winter-wonderland-2026-11-27/
+URL:https://weekendscout.app/e/lancaster/amt-christmas-winter-wonderland-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:lancaster-amt-christmas-winter-wonderland-2026-11-27-sat-2@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261129T003000Z
+DTEND:20261129T023000Z
+SUMMARY:The 2026 Christmas Show: Winter Wonderland
+LOCATION:American Music Theatre\, 2425 Lincoln Hwy E\, Lancaster\, PA 1760
+ 2
+DESCRIPTION:AMT's original Christmas show follows two villagers on a journ
+ ey to find Santa\, with live music\, singers\, dancers and a Youth & Teen 
+ Ensemble. About 2 hours with one intermission. $30–$59. Details: https:/
+ /weekendscout.app/e/lancaster/amt-christmas-winter-wonderland-2026-11-27/
+URL:https://weekendscout.app/e/lancaster/amt-christmas-winter-wonderland-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:lancaster-amt-christmas-winter-wonderland-2026-11-27-sun-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261129T200000Z
+DTEND:20261129T220000Z
+SUMMARY:The 2026 Christmas Show: Winter Wonderland
+LOCATION:American Music Theatre\, 2425 Lincoln Hwy E\, Lancaster\, PA 1760
+ 2
+DESCRIPTION:AMT's original Christmas show follows two villagers on a journ
+ ey to find Santa\, with live music\, singers\, dancers and a Youth & Teen 
+ Ensemble. About 2 hours with one intermission. $30–$59. Details: https:/
+ /weekendscout.app/e/lancaster/amt-christmas-winter-wonderland-2026-11-27/
+URL:https://weekendscout.app/e/lancaster/amt-christmas-winter-wonderland-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:lancaster-dutch-winter-wonderland-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261127T200000Z
+DTEND:20261128T010000Z
+SUMMARY:Dutch Winter Wonderland
+LOCATION:Dutch Wonderland\, 2249 Lincoln Hwy E\, Lancaster\, PA 17602
+DESCRIPTION:The kids' amusement park turns festive with holiday lights\, t
+ hemed rides\, seasonal shows and Santa visits. Check ticket prices. Detail
+ s: https://weekendscout.app/e/lancaster/dutch-winter-wonderland-2026-11-27
+ /
+URL:https://weekendscout.app/e/lancaster/dutch-winter-wonderland-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:lancaster-dutch-winter-wonderland-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261128T200000Z
+DTEND:20261129T010000Z
+SUMMARY:Dutch Winter Wonderland
+LOCATION:Dutch Wonderland\, 2249 Lincoln Hwy E\, Lancaster\, PA 17602
+DESCRIPTION:The kids' amusement park turns festive with holiday lights\, t
+ hemed rides\, seasonal shows and Santa visits. Check ticket prices. Detail
+ s: https://weekendscout.app/e/lancaster/dutch-winter-wonderland-2026-11-27
+ /
+URL:https://weekendscout.app/e/lancaster/dutch-winter-wonderland-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:lancaster-dutch-winter-wonderland-2026-11-27-sun-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261129T200000Z
+DTEND:20261130T010000Z
+SUMMARY:Dutch Winter Wonderland
+LOCATION:Dutch Wonderland\, 2249 Lincoln Hwy E\, Lancaster\, PA 17602
+DESCRIPTION:The kids' amusement park turns festive with holiday lights\, t
+ hemed rides\, seasonal shows and Santa visits. Check ticket prices. Detail
+ s: https://weekendscout.app/e/lancaster/dutch-winter-wonderland-2026-11-27
+ /
+URL:https://weekendscout.app/e/lancaster/dutch-winter-wonderland-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:lancaster-twas-the-night-before-christmas-fulton-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T081235Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
-SUMMARY:Gallery Row
-LOCATION:Gallery Row\, N Prince St\, Lancaster\, PA 17603
-DESCRIPTION:A block of galleries and studios downtown. Free to browse. Det
- ails: https://weekendscout.app/e/lancaster/gallery-row-2026-11/
-URL:https://weekendscout.app/e/lancaster/gallery-row-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:lancaster-gallery-row-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Gallery Row
-LOCATION:Gallery Row\, N Prince St\, Lancaster\, PA 17603
-DESCRIPTION:A block of galleries and studios downtown. Free to browse. Det
- ails: https://weekendscout.app/e/lancaster/gallery-row-2026-11/
-URL:https://weekendscout.app/e/lancaster/gallery-row-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:lancaster-long-s-park-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Long’s Park
-LOCATION:Long’s Park\, 1441 Harrisburg Pike\, Lancaster\, PA 17601
-DESCRIPTION:An 80-acre park with a lake\, trails and a petting zoo. Free. 
- Details: https://weekendscout.app/e/lancaster/long-s-park-2026-11/
-URL:https://weekendscout.app/e/lancaster/long-s-park-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:lancaster-long-s-park-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Long’s Park
-LOCATION:Long’s Park\, 1441 Harrisburg Pike\, Lancaster\, PA 17601
-DESCRIPTION:An 80-acre park with a lake\, trails and a petting zoo. Free. 
- Details: https://weekendscout.app/e/lancaster/long-s-park-2026-11/
-URL:https://weekendscout.app/e/lancaster/long-s-park-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:lancaster-long-s-park-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Long’s Park
-LOCATION:Long’s Park\, 1441 Harrisburg Pike\, Lancaster\, PA 17601
-DESCRIPTION:An 80-acre park with a lake\, trails and a petting zoo. Free. 
- Details: https://weekendscout.app/e/lancaster/long-s-park-2026-11/
-URL:https://weekendscout.app/e/lancaster/long-s-park-2026-11/
+SUMMARY:'Twas the Night Before Christmas
+LOCATION:Fulton Theatre\, 12 N Prince St\, Lancaster\, PA 17603
+DESCRIPTION:The Fulton's Family Series holiday show opens on the mainstage
+  Nov. 28 and runs through Dec. 26. Tickets. Details: https://weekendscout.
+ app/e/lancaster/twas-the-night-before-christmas-fulton-2026-11-28/
+URL:https://weekendscout.app/e/lancaster/twas-the-night-before-christmas-fulton-2026-11-28/
 END:VEVENT
 END:VCALENDAR

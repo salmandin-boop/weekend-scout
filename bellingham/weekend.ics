@@ -8,117 +8,186 @@ X-WR-CALDESC:Hand-checked weekend picks in Bellingham, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:bellingham-boulevard-park-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Boulevard Park
-LOCATION:Boulevard Park\, 470 Bayview Dr\, Bellingham\, WA 98225
-DESCRIPTION:A waterfront park and boardwalk over Bellingham Bay. Free. Det
- ails: https://weekendscout.app/e/bellingham/boulevard-park-2026-11/
-URL:https://weekendscout.app/e/bellingham/boulevard-park-2026-11/
+UID:bellingham-nutcracker-mount-baker-theatre-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261128T030000Z
+DTEND:20261128T050000Z
+SUMMARY:The Nutcracker (Opus Performing Arts with the Bellingham Symphony 
+ Orchestra)
+LOCATION:Mount Baker Theatre\, 104 N Commercial St\, Bellingham\, WA 98225
+DESCRIPTION:Opus Performing Arts dances Tchaikovsky's ballet with more tha
+ n 130 dancers\, and the Bellingham Symphony Orchestra plays live under Yan
+ iv Attar. Tickets. Details: https://weekendscout.app/e/bellingham/nutcrack
+ er-mount-baker-theatre-2026-11-27/
+URL:https://weekendscout.app/e/bellingham/nutcracker-mount-baker-theatre-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:bellingham-boulevard-park-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Boulevard Park
-LOCATION:Boulevard Park\, 470 Bayview Dr\, Bellingham\, WA 98225
-DESCRIPTION:A waterfront park and boardwalk over Bellingham Bay. Free. Det
- ails: https://weekendscout.app/e/bellingham/boulevard-park-2026-11/
-URL:https://weekendscout.app/e/bellingham/boulevard-park-2026-11/
+UID:bellingham-nutcracker-mount-baker-theatre-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261128T210000Z
+DTEND:20261128T230000Z
+SUMMARY:The Nutcracker (Opus Performing Arts with the Bellingham Symphony 
+ Orchestra)
+LOCATION:Mount Baker Theatre\, 104 N Commercial St\, Bellingham\, WA 98225
+DESCRIPTION:Opus Performing Arts dances Tchaikovsky's ballet with more tha
+ n 130 dancers\, and the Bellingham Symphony Orchestra plays live under Yan
+ iv Attar. Tickets. Details: https://weekendscout.app/e/bellingham/nutcrack
+ er-mount-baker-theatre-2026-11-27/
+URL:https://weekendscout.app/e/bellingham/nutcracker-mount-baker-theatre-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:bellingham-boulevard-park-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Boulevard Park
-LOCATION:Boulevard Park\, 470 Bayview Dr\, Bellingham\, WA 98225
-DESCRIPTION:A waterfront park and boardwalk over Bellingham Bay. Free. Det
- ails: https://weekendscout.app/e/bellingham/boulevard-park-2026-11/
-URL:https://weekendscout.app/e/bellingham/boulevard-park-2026-11/
+UID:bellingham-nutcracker-mount-baker-theatre-2026-11-27-sat-1@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261129T030000Z
+DTEND:20261129T050000Z
+SUMMARY:The Nutcracker (Opus Performing Arts with the Bellingham Symphony 
+ Orchestra)
+LOCATION:Mount Baker Theatre\, 104 N Commercial St\, Bellingham\, WA 98225
+DESCRIPTION:Opus Performing Arts dances Tchaikovsky's ballet with more tha
+ n 130 dancers\, and the Bellingham Symphony Orchestra plays live under Yan
+ iv Attar. Tickets. Details: https://weekendscout.app/e/bellingham/nutcrack
+ er-mount-baker-theatre-2026-11-27/
+URL:https://weekendscout.app/e/bellingham/nutcracker-mount-baker-theatre-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:bellingham-fairhaven-historic-district-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Fairhaven Historic District
-LOCATION:Fairhaven\, Harris Ave & 11th St\, Bellingham\, WA 98225
-DESCRIPTION:Brick 1890s streets with bookshops\, cafés and restaurants. F
- ree to browse. Details: https://weekendscout.app/e/bellingham/fairhaven-hi
- storic-district-2026-11/
-URL:https://weekendscout.app/e/bellingham/fairhaven-historic-district-2026-11/
+UID:bellingham-nutcracker-mount-baker-theatre-2026-11-27-sun-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261129T210000Z
+DTEND:20261129T230000Z
+SUMMARY:The Nutcracker (Opus Performing Arts with the Bellingham Symphony 
+ Orchestra)
+LOCATION:Mount Baker Theatre\, 104 N Commercial St\, Bellingham\, WA 98225
+DESCRIPTION:Opus Performing Arts dances Tchaikovsky's ballet with more tha
+ n 130 dancers\, and the Bellingham Symphony Orchestra plays live under Yan
+ iv Attar. Tickets. Details: https://weekendscout.app/e/bellingham/nutcrack
+ er-mount-baker-theatre-2026-11-27/
+URL:https://weekendscout.app/e/bellingham/nutcracker-mount-baker-theatre-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:bellingham-fairhaven-historic-district-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Fairhaven Historic District
-LOCATION:Fairhaven\, Harris Ave & 11th St\, Bellingham\, WA 98225
-DESCRIPTION:Brick 1890s streets with bookshops\, cafés and restaurants. F
- ree to browse. Details: https://weekendscout.app/e/bellingham/fairhaven-hi
- storic-district-2026-11/
-URL:https://weekendscout.app/e/bellingham/fairhaven-historic-district-2026-11/
+UID:bellingham-seattle-intl-comedy-finals-mount-baker-theatre-2026-11-29-sun-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261130T030000Z
+DTEND:20261130T050000Z
+SUMMARY:Seattle International Comedy Competition Finals
+LOCATION:Mount Baker Theatre\, 104 N Commercial St\, Bellingham\, WA 98225
+DESCRIPTION:Five finalists compete in the 46th annual competition's finals
+ \, the audience helps pick the winner\, and Julia Hladkowicz hosts. The th
+ eatre labels the show for mature audiences. From $35.75. Details: https://
+ weekendscout.app/e/bellingham/seattle-intl-comedy-finals-mount-baker-theat
+ re-2026-11-29/
+URL:https://weekendscout.app/e/bellingham/seattle-intl-comedy-finals-mount-baker-theatre-2026-11-29/
 END:VEVENT
 BEGIN:VEVENT
-UID:bellingham-fairhaven-historic-district-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Fairhaven Historic District
-LOCATION:Fairhaven\, Harris Ave & 11th St\, Bellingham\, WA 98225
-DESCRIPTION:Brick 1890s streets with bookshops\, cafés and restaurants. F
- ree to browse. Details: https://weekendscout.app/e/bellingham/fairhaven-hi
- storic-district-2026-11/
-URL:https://weekendscout.app/e/bellingham/fairhaven-historic-district-2026-11/
+UID:bellingham-a-christmas-carol-firehouse-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261128T030000Z
+DTEND:20261128T040000Z
+SUMMARY:Allen Fitzpatrick in A Christmas Carol
+LOCATION:FireHouse Arts and Events Center\, 1314 Harris Ave\, Bellingham\,
+  WA 98225
+DESCRIPTION:Actor Allen Fitzpatrick performs Dickens' A Christmas Carol in
+  Fairhaven. Check ticket prices. Details: https://weekendscout.app/e/belli
+ ngham/a-christmas-carol-firehouse-2026-11-27/
+URL:https://weekendscout.app/e/bellingham/a-christmas-carol-firehouse-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:bellingham-whatcom-museum-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Whatcom Museum
-LOCATION:Whatcom Museum\, 250 Flora St\, Bellingham\, WA 98225
-DESCRIPTION:Northwest art and history in the Lightcatcher building and old
-  City Hall. Admission. Details: https://weekendscout.app/e/bellingham/what
- com-museum-2026-11/
-URL:https://weekendscout.app/e/bellingham/whatcom-museum-2026-11/
+UID:bellingham-shop-small-saturday-downtown-bellingham-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261128T170000Z
+DTEND:20261129T040000Z
+SUMMARY:Shop Small Saturday
+LOCATION:Downtown Bellingham\, Downtown Bellingham\, Bellingham\, WA 98225
+DESCRIPTION:Downtown Bellingham's boutiques\, shops and galleries mark Sma
+ ll Business Saturday\, and holiday window displays go up starting Thanksgi
+ ving weekend. Free to browse. Details: https://weekendscout.app/e/bellingh
+ am/shop-small-saturday-downtown-bellingham-2026-11-28/
+URL:https://weekendscout.app/e/bellingham/shop-small-saturday-downtown-bellingham-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
-UID:bellingham-whatcom-museum-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Whatcom Museum
-LOCATION:Whatcom Museum\, 250 Flora St\, Bellingham\, WA 98225
-DESCRIPTION:Northwest art and history in the Lightcatcher building and old
-  City Hall. Admission. Details: https://weekendscout.app/e/bellingham/what
- com-museum-2026-11/
-URL:https://weekendscout.app/e/bellingham/whatcom-museum-2026-11/
+UID:bellingham-fairhaven-winterfest-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:Fairhaven Winterfest
+LOCATION:Historic Fairhaven Village\, 1207 10th St\, Bellingham\, WA 98225
+DESCRIPTION:A late-afternoon Winterfest gathering in the Historic Fairhave
+ n Village. Check event details. Details: https://weekendscout.app/e/bellin
+ gham/fairhaven-winterfest-2026-11-28/
+URL:https://weekendscout.app/e/bellingham/fairhaven-winterfest-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
-UID:bellingham-whatcom-museum-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Whatcom Museum
-LOCATION:Whatcom Museum\, 250 Flora St\, Bellingham\, WA 98225
-DESCRIPTION:Northwest art and history in the Lightcatcher building and old
-  City Hall. Admission. Details: https://weekendscout.app/e/bellingham/what
- com-museum-2026-11/
-URL:https://weekendscout.app/e/bellingham/whatcom-museum-2026-11/
+UID:bellingham-bellingham-farmers-market-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261128T180000Z
+DTEND:20261128T220000Z
+SUMMARY:Bellingham Farmers Market: Saturday Market
+LOCATION:Depot Market Square\, 1100 Railroad Ave\, Bellingham\, WA 98225
+DESCRIPTION:The Saturday farmers market sets up at Depot Market Square dow
+ ntown. Free to browse. Details: https://weekendscout.app/e/bellingham/bell
+ ingham-farmers-market-2026-11-28/
+URL:https://weekendscout.app/e/bellingham/bellingham-farmers-market-2026-11-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:bellingham-megazapper-spark-museum-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261127T223000Z
+DTEND:20261128T003000Z
+SUMMARY:MegaZapper Electrical Show
+LOCATION:SPARK Museum of Electrical Invention\, 1312 Bay St\, Bellingham\,
+  WA 98225
+DESCRIPTION:An afternoon electricity show at the SPARK Museum of Electrica
+ l Invention downtown. Check admission. Details: https://weekendscout.app/e
+ /bellingham/megazapper-spark-museum-2026-11-27/
+URL:https://weekendscout.app/e/bellingham/megazapper-spark-museum-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:bellingham-megazapper-spark-museum-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261128T223000Z
+DTEND:20261129T003000Z
+SUMMARY:MegaZapper Electrical Show
+LOCATION:SPARK Museum of Electrical Invention\, 1312 Bay St\, Bellingham\,
+  WA 98225
+DESCRIPTION:An afternoon electricity show at the SPARK Museum of Electrica
+ l Invention downtown. Check admission. Details: https://weekendscout.app/e
+ /bellingham/megazapper-spark-museum-2026-11-27/
+URL:https://weekendscout.app/e/bellingham/megazapper-spark-museum-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:bellingham-blaine-holiday-harbor-lights-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261128T210000Z
+DTEND:20261129T030000Z
+SUMMARY:Blaine Holiday Harbor Lights
+LOCATION:Downtown Blaine\, 601 Peace Portal Dr\, Blaine\, WA 98230
+DESCRIPTION:Blaine's holiday celebration in its downtown\, about 20 miles 
+ north of Bellingham. Check event details. Details: https://weekendscout.ap
+ p/e/bellingham/blaine-holiday-harbor-lights-2026-11-28/
+URL:https://weekendscout.app/e/bellingham/blaine-holiday-harbor-lights-2026-11-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:bellingham-laughs-at-larrabee-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261128T040000Z
+DTEND:20261128T053000Z
+SUMMARY:Laughs at Larrabee Comedy Night Starring Billie Manton
+LOCATION:Larrabee Lager Company\, 4151 Meridian St Ste 100\, Bellingham\, 
+ WA 98226
+DESCRIPTION:Billie Manton headlines a comedy night at Larrabee Lager Compa
+ ny. Check ticket prices. Details: https://weekendscout.app/e/bellingham/la
+ ughs-at-larrabee-2026-11-27/
+URL:https://weekendscout.app/e/bellingham/laughs-at-larrabee-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:bellingham-live-music-stones-throw-brewery-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261128T020000Z
+DTEND:20261128T040000Z
+SUMMARY:Live Music at Stones Throw Brewery
+LOCATION:Stones Throw Brewery\, 1009 Larrabee Ave\, Bellingham\, WA 98225
+DESCRIPTION:Early-evening live music at Stones Throw Brewery in Fairhaven.
+  Check event details. Details: https://weekendscout.app/e/bellingham/live-
+ music-stones-throw-brewery-2026-11-27/
+URL:https://weekendscout.app/e/bellingham/live-music-stones-throw-brewery-2026-11-27/
 END:VEVENT
 END:VCALENDAR

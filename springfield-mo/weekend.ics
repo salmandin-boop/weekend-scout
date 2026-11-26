@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:springfield-mo-christmas-vacation-gillioz-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T074049Z
+DTSTAMP:20261126T081235Z
 DTSTART:20261128T020000Z
 DTEND:20261128T040000Z
 SUMMARY:Fall Classics: National Lampoon's Christmas Vacation
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/springfield-mo/christmas-vacation-gillioz-2026-11
 END:VEVENT
 BEGIN:VEVENT
 UID:springfield-mo-mojo-a-swingin-christmas-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T074049Z
+DTSTAMP:20261126T081235Z
 DTSTART:20261129T013000Z
 DTEND:20261129T033000Z
 SUMMARY:MOJO – A Swingin' Christmas
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/springfield-mo/mojo-a-swingin-christmas-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:springfield-mo-missouri-state-vs-liberty-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T074049Z
+DTSTAMP:20261126T081235Z
 DTSTART:20261128T190000Z
 DTEND:20261128T210000Z
 SUMMARY:Missouri State vs. Liberty
@@ -48,7 +48,7 @@ URL:https://weekendscout.app/e/springfield-mo/missouri-state-vs-liberty-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:springfield-mo-rudolph-the-red-nosed-reindeer-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T074049Z
+DTSTAMP:20261126T081235Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -62,7 +62,7 @@ URL:https://weekendscout.app/e/springfield-mo/rudolph-the-red-nosed-reindeer-202
 END:VEVENT
 BEGIN:VEVENT
 UID:springfield-mo-rudolph-the-red-nosed-reindeer-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T074049Z
+DTSTAMP:20261126T081235Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -76,7 +76,7 @@ URL:https://weekendscout.app/e/springfield-mo/rudolph-the-red-nosed-reindeer-202
 END:VEVENT
 BEGIN:VEVENT
 UID:springfield-mo-rudolph-the-red-nosed-reindeer-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T074049Z
+DTSTAMP:20261126T081235Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -90,7 +90,7 @@ URL:https://weekendscout.app/e/springfield-mo/rudolph-the-red-nosed-reindeer-202
 END:VEVENT
 BEGIN:VEVENT
 UID:springfield-mo-gardens-aglow-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T074049Z
+DTSTAMP:20261126T081235Z
 DTSTART:20261127T230000Z
 DTEND:20261128T023000Z
 SUMMARY:Gardens Aglow
@@ -104,7 +104,7 @@ URL:https://weekendscout.app/e/springfield-mo/gardens-aglow-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:springfield-mo-gardens-aglow-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T074049Z
+DTSTAMP:20261126T081235Z
 DTSTART:20261128T230000Z
 DTEND:20261129T023000Z
 SUMMARY:Gardens Aglow
@@ -118,7 +118,7 @@ URL:https://weekendscout.app/e/springfield-mo/gardens-aglow-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:springfield-mo-gardens-aglow-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T074049Z
+DTSTAMP:20261126T081235Z
 DTSTART:20261129T230000Z
 DTEND:20261130T023000Z
 SUMMARY:Gardens Aglow
@@ -132,7 +132,7 @@ URL:https://weekendscout.app/e/springfield-mo/gardens-aglow-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:springfield-mo-wonders-of-wildlife-sea-of-lights-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T074049Z
+DTSTAMP:20261126T081235Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -147,7 +147,7 @@ URL:https://weekendscout.app/e/springfield-mo/wonders-of-wildlife-sea-of-lights-
 END:VEVENT
 BEGIN:VEVENT
 UID:springfield-mo-wonders-of-wildlife-sea-of-lights-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T074049Z
+DTSTAMP:20261126T081235Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -162,7 +162,7 @@ URL:https://weekendscout.app/e/springfield-mo/wonders-of-wildlife-sea-of-lights-
 END:VEVENT
 BEGIN:VEVENT
 UID:springfield-mo-wonders-of-wildlife-sea-of-lights-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T074049Z
+DTSTAMP:20261126T081235Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -177,7 +177,7 @@ URL:https://weekendscout.app/e/springfield-mo/wonders-of-wildlife-sea-of-lights-
 END:VEVENT
 BEGIN:VEVENT
 UID:springfield-mo-springfield-botanical-gardens-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T074049Z
+DTSTAMP:20261126T081235Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -191,7 +191,7 @@ URL:https://weekendscout.app/e/springfield-mo/springfield-botanical-gardens-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:springfield-mo-springfield-botanical-gardens-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T074049Z
+DTSTAMP:20261126T081235Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -205,7 +205,7 @@ URL:https://weekendscout.app/e/springfield-mo/springfield-botanical-gardens-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:springfield-mo-springfield-botanical-gardens-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T074049Z
+DTSTAMP:20261126T081235Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT

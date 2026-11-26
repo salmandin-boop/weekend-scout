@@ -8,129 +8,195 @@ X-WR-CALDESC:Hand-checked weekend picks in Hilo, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:hilo-liliuokalani-gardens-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Liliuokalani Gardens
-LOCATION:Liliuokalani Gardens\, 189 Lihiwai St\, Hilo\, HI 96720
-DESCRIPTION:A Japanese garden on Hilo Bay with stone bridges and koi ponds
- . Free. Details: https://weekendscout.app/e/hilo/liliuokalani-gardens-2026
- -11/
-URL:https://weekendscout.app/e/hilo/liliuokalani-gardens-2026-11/
+UID:hilo-silent-movie-night-gold-rush-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261128T050000Z
+DTEND:20261128T070000Z
+SUMMARY:Silent Movie Night: The Gold Rush
+LOCATION:Hilo Palace Theater\, 38 Haili St\, Hilo\, HI 96720
+DESCRIPTION:Charlie Chaplin's The Gold Rush with a live score on the Palac
+ e pipe organ by organist Walter Greenwood. Doors open 30 minutes before\; 
+ all ages. $12 advance\, $15 day of show. Details: https://weekendscout.app
+ /e/hilo/silent-movie-night-gold-rush-2026-11-27/
+URL:https://weekendscout.app/e/hilo/silent-movie-night-gold-rush-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:hilo-liliuokalani-gardens-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Liliuokalani Gardens
-LOCATION:Liliuokalani Gardens\, 189 Lihiwai St\, Hilo\, HI 96720
-DESCRIPTION:A Japanese garden on Hilo Bay with stone bridges and koi ponds
- . Free. Details: https://weekendscout.app/e/hilo/liliuokalani-gardens-2026
- -11/
-URL:https://weekendscout.app/e/hilo/liliuokalani-gardens-2026-11/
+UID:hilo-vulcans-mbb-chaminade-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261128T010000Z
+DTEND:20261128T030000Z
+SUMMARY:UH Hilo Vulcans Men's Basketball vs. Chaminade
+LOCATION:Afook-Chinen Civic Auditorium\, Afook-Chinen Civic Auditorium\, H
+ ilo\, HI 96720
+DESCRIPTION:The Vulcans host the Chaminade Silverswords in a home game at 
+ Afook-Chinen Civic Auditorium. Check ticket prices. Details: https://weeke
+ ndscout.app/e/hilo/vulcans-mbb-chaminade-2026-11-27/
+URL:https://weekendscout.app/e/hilo/vulcans-mbb-chaminade-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:hilo-liliuokalani-gardens-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Liliuokalani Gardens
-LOCATION:Liliuokalani Gardens\, 189 Lihiwai St\, Hilo\, HI 96720
-DESCRIPTION:A Japanese garden on Hilo Bay with stone bridges and koi ponds
- . Free. Details: https://weekendscout.app/e/hilo/liliuokalani-gardens-2026
- -11/
-URL:https://weekendscout.app/e/hilo/liliuokalani-gardens-2026-11/
+UID:hilo-volcano-christmas-tree-lighting-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261128T030000Z
+DTEND:20261128T043000Z
+SUMMARY:Christmas Tree Lighting Celebration
+LOCATION:Volcano Art Center Niaulani Campus\, Niaulani Campus\, Volcano\, 
+ HI 96785
+DESCRIPTION:Volcano Art Center and the Volcano Rotary Club host a communit
+ y Christmas tree lighting at the Niaulani Campus in Volcano Village. Check
+  details. Details: https://weekendscout.app/e/hilo/volcano-christmas-tree-
+ lighting-2026-11-27/
+URL:https://weekendscout.app/e/hilo/volcano-christmas-tree-lighting-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:hilo-rainbow-falls-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Rainbow Falls
-LOCATION:Wailuku River State Park\, Rainbow Dr\, Hilo\, HI 96720
-DESCRIPTION:An 80-foot waterfall\; look for rainbows in the morning mist. 
- Free. Details: https://weekendscout.app/e/hilo/rainbow-falls-2026-11/
-URL:https://weekendscout.app/e/hilo/rainbow-falls-2026-11/
+UID:hilo-free-holiday-matinee-elf-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:Free Holiday Matinee: Elf
+LOCATION:Hilo Palace Theater\, 38 Haili St\, Hilo\, HI 96720
+DESCRIPTION:A free screening of the PG holiday comedy Elf\, timed before t
+ he evening's Hilo Christmas Parade. Doors open 30 minutes early. Free (don
+ ations welcome). Details: https://weekendscout.app/e/hilo/free-holiday-mat
+ inee-elf-2026-11-28/
+URL:https://weekendscout.app/e/hilo/free-holiday-matinee-elf-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
-UID:hilo-rainbow-falls-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Rainbow Falls
-LOCATION:Wailuku River State Park\, Rainbow Dr\, Hilo\, HI 96720
-DESCRIPTION:An 80-foot waterfall\; look for rainbows in the morning mist. 
- Free. Details: https://weekendscout.app/e/hilo/rainbow-falls-2026-11/
-URL:https://weekendscout.app/e/hilo/rainbow-falls-2026-11/
+UID:hilo-hilo-christmas-parade-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261129T040000Z
+DTEND:20261129T060000Z
+SUMMARY:Hilo Christmas Parade
+LOCATION:Downtown Hilo\, Downtown Hilo\, Hilo\, HI 96720
+DESCRIPTION:The East Hawaiʻi Lions Clubs' evening Christmas parade throug
+ h downtown Hilo\, a 30-plus-year tradition. Free. Details: https://weekend
+ scout.app/e/hilo/hilo-christmas-parade-2026-11-28/
+URL:https://weekendscout.app/e/hilo/hilo-christmas-parade-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
-UID:hilo-rainbow-falls-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Rainbow Falls
-LOCATION:Wailuku River State Park\, Rainbow Dr\, Hilo\, HI 96720
-DESCRIPTION:An 80-foot waterfall\; look for rainbows in the morning mist. 
- Free. Details: https://weekendscout.app/e/hilo/rainbow-falls-2026-11/
-URL:https://weekendscout.app/e/hilo/rainbow-falls-2026-11/
+UID:hilo-hilo-elks-world-of-magic-2026-11-29-sun-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261130T000000Z
+DTEND:20261130T020000Z
+SUMMARY:Hilo Elks World of Magic 2026
+LOCATION:Hilo Palace Theater\, 38 Haili St\, Hilo\, HI 96720
+DESCRIPTION:The Hilo Elks' 24th annual family magic show with Alex D'Mazin
+ g and Mr. Kneel\, plus a visit from Santa. Free RSVP required\; doors at 1
+  p.m. Free with RSVP. Details: https://weekendscout.app/e/hilo/hilo-elks-w
+ orld-of-magic-2026-11-29/
+URL:https://weekendscout.app/e/hilo/hilo-elks-world-of-magic-2026-11-29/
+END:VEVENT
+BEGIN:VEVENT
+UID:hilo-christmas-in-the-country-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261127T190000Z
+DTEND:20261128T030000Z
+SUMMARY:Christmas in the Country: Annual Wreath Exhibition
+LOCATION:Volcano Art Center Gallery\, Hawaiʻi Volcanoes National Park\, H
+ I 96718
+DESCRIPTION:Volcano Art Center's annual holiday wreath exhibition at its g
+ allery inside Hawaiʻi Volcanoes National Park. Check park entry fees. Det
+ ails: https://weekendscout.app/e/hilo/christmas-in-the-country-2026-11/
+URL:https://weekendscout.app/e/hilo/christmas-in-the-country-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:hilo-christmas-in-the-country-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261128T190000Z
+DTEND:20261129T030000Z
+SUMMARY:Christmas in the Country: Annual Wreath Exhibition
+LOCATION:Volcano Art Center Gallery\, Hawaiʻi Volcanoes National Park\, H
+ I 96718
+DESCRIPTION:Volcano Art Center's annual holiday wreath exhibition at its g
+ allery inside Hawaiʻi Volcanoes National Park. Check park entry fees. Det
+ ails: https://weekendscout.app/e/hilo/christmas-in-the-country-2026-11/
+URL:https://weekendscout.app/e/hilo/christmas-in-the-country-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:hilo-christmas-in-the-country-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261129T190000Z
+DTEND:20261130T030000Z
+SUMMARY:Christmas in the Country: Annual Wreath Exhibition
+LOCATION:Volcano Art Center Gallery\, Hawaiʻi Volcanoes National Park\, H
+ I 96718
+DESCRIPTION:Volcano Art Center's annual holiday wreath exhibition at its g
+ allery inside Hawaiʻi Volcanoes National Park. Check park entry fees. Det
+ ails: https://weekendscout.app/e/hilo/christmas-in-the-country-2026-11/
+URL:https://weekendscout.app/e/hilo/christmas-in-the-country-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:hilo-hilo-farmers-market-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261127T170000Z
+DTEND:20261128T010000Z
+SUMMARY:Hilo Farmers Market
+LOCATION:Hilo Farmers Market\, Mamo St & Kamehameha Ave\, Hilo\, HI 96720
+DESCRIPTION:Downtown Hilo's market is open daily from 7 a.m. to 3 p.m.\; S
+ aturday is one of its two big market days with more vendors. Free to brows
+ e. Details: https://weekendscout.app/e/hilo/hilo-farmers-market-2026-11/
+URL:https://weekendscout.app/e/hilo/hilo-farmers-market-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:hilo-hilo-farmers-market-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T074049Z
+DTSTAMP:20261126T081235Z
 DTSTART:20261128T170000Z
 DTEND:20261129T010000Z
 SUMMARY:Hilo Farmers Market
 LOCATION:Hilo Farmers Market\, Mamo St & Kamehameha Ave\, Hilo\, HI 96720
-DESCRIPTION:Tropical fruit\, flowers and local food\; Saturday is the big 
- day. Free to browse. Details: https://weekendscout.app/e/hilo/hilo-farmers
- -market-2026-11/
+DESCRIPTION:Downtown Hilo's market is open daily from 7 a.m. to 3 p.m.\; S
+ aturday is one of its two big market days with more vendors. Free to brows
+ e. Details: https://weekendscout.app/e/hilo/hilo-farmers-market-2026-11/
+URL:https://weekendscout.app/e/hilo/hilo-farmers-market-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:hilo-hilo-farmers-market-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261129T170000Z
+DTEND:20261130T010000Z
+SUMMARY:Hilo Farmers Market
+LOCATION:Hilo Farmers Market\, Mamo St & Kamehameha Ave\, Hilo\, HI 96720
+DESCRIPTION:Downtown Hilo's market is open daily from 7 a.m. to 3 p.m.\; S
+ aturday is one of its two big market days with more vendors. Free to brows
+ e. Details: https://weekendscout.app/e/hilo/hilo-farmers-market-2026-11/
 URL:https://weekendscout.app/e/hilo/hilo-farmers-market-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:hilo-imiloa-astronomy-center-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
+DTSTAMP:20261126T081235Z
+DTSTART:20261127T190000Z
+DTEND:20261128T023000Z
 SUMMARY:ʻImiloa Astronomy Center
 LOCATION:ʻImiloa Astronomy Center\, 600 ʻImiloa Pl\, Hilo\, HI 96720
-DESCRIPTION:Hawaiian voyaging and Maunakea astronomy\, with a planetarium.
-  Admission. Details: https://weekendscout.app/e/hilo/imiloa-astronomy-cent
- er-2026-11/
+DESCRIPTION:Exhibits on Hawaiian voyaging and Maunakea astronomy plus a pl
+ anetarium\; open Tuesday–Sunday 9 a.m.–4:30 p.m. (closed Thanksgiving 
+ Day only). $19 adults\, $12 kids 5–12. Details: https://weekendscout.app
+ /e/hilo/imiloa-astronomy-center-2026-11/
 URL:https://weekendscout.app/e/hilo/imiloa-astronomy-center-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:hilo-imiloa-astronomy-center-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
+DTSTAMP:20261126T081235Z
+DTSTART:20261128T190000Z
+DTEND:20261129T023000Z
 SUMMARY:ʻImiloa Astronomy Center
 LOCATION:ʻImiloa Astronomy Center\, 600 ʻImiloa Pl\, Hilo\, HI 96720
-DESCRIPTION:Hawaiian voyaging and Maunakea astronomy\, with a planetarium.
-  Admission. Details: https://weekendscout.app/e/hilo/imiloa-astronomy-cent
- er-2026-11/
+DESCRIPTION:Exhibits on Hawaiian voyaging and Maunakea astronomy plus a pl
+ anetarium\; open Tuesday–Sunday 9 a.m.–4:30 p.m. (closed Thanksgiving 
+ Day only). $19 adults\, $12 kids 5–12. Details: https://weekendscout.app
+ /e/hilo/imiloa-astronomy-center-2026-11/
 URL:https://weekendscout.app/e/hilo/imiloa-astronomy-center-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:hilo-imiloa-astronomy-center-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
+DTSTAMP:20261126T081235Z
+DTSTART:20261129T190000Z
+DTEND:20261130T023000Z
 SUMMARY:ʻImiloa Astronomy Center
 LOCATION:ʻImiloa Astronomy Center\, 600 ʻImiloa Pl\, Hilo\, HI 96720
-DESCRIPTION:Hawaiian voyaging and Maunakea astronomy\, with a planetarium.
-  Admission. Details: https://weekendscout.app/e/hilo/imiloa-astronomy-cent
- er-2026-11/
+DESCRIPTION:Exhibits on Hawaiian voyaging and Maunakea astronomy plus a pl
+ anetarium\; open Tuesday–Sunday 9 a.m.–4:30 p.m. (closed Thanksgiving 
+ Day only). $19 adults\, $12 kids 5–12. Details: https://weekendscout.app
+ /e/hilo/imiloa-astronomy-center-2026-11/
 URL:https://weekendscout.app/e/hilo/imiloa-astronomy-center-2026-11/
 END:VEVENT
 END:VCALENDAR

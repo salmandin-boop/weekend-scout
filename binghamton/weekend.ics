@@ -8,93 +8,147 @@ X-WR-CALDESC:Hand-checked weekend picks in Binghamton, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:binghamton-binghamton-riverwalk-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T074049Z
+UID:binghamton-binghamton-holiday-tree-lighting-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261128T220000Z
+DTEND:20261129T000000Z
+SUMMARY:Binghamton Holiday Tree Lighting
+LOCATION:Washington Street Mall\, Washington St & Court St\, Binghamton\, 
+ NY 13901
+DESCRIPTION:Mayor Jared Kraham lights the downtown tree around 5:30 p.m. a
+ fter live music\, youth caroling from Tri-Cities Opera and free hot chocol
+ ate. City garages offer free parking on Saturdays through Dec. 26. Free. D
+ etails: https://weekendscout.app/e/binghamton/binghamton-holiday-tree-ligh
+ ting-2026-11-28/
+URL:https://weekendscout.app/e/binghamton/binghamton-holiday-tree-lighting-2026-11-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:binghamton-roberson-home-for-the-holidays-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261127T160000Z
+DTEND:20261128T020000Z
+SUMMARY:Home for the Holidays
+LOCATION:Roberson Museum and Science Center\, 30 Front St\, Binghamton\, N
+ Y 13905
+DESCRIPTION:The Roberson's annual holiday display of decorated trees and r
+ ooms runs through Jan. 8\, open until 9 p.m. on Friday. Holiday Mansion To
+ urs run Saturday at 1\, 2 and 3 p.m. for $4. $8 ($6 students\, seniors\, m
+ ilitary\; 4 & under free). Details: https://weekendscout.app/e/binghamton/
+ roberson-home-for-the-holidays-2026-11-27/
+URL:https://weekendscout.app/e/binghamton/roberson-home-for-the-holidays-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:binghamton-roberson-home-for-the-holidays-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261128T160000Z
+DTEND:20261128T220000Z
+SUMMARY:Home for the Holidays
+LOCATION:Roberson Museum and Science Center\, 30 Front St\, Binghamton\, N
+ Y 13905
+DESCRIPTION:The Roberson's annual holiday display of decorated trees and r
+ ooms runs through Jan. 8\, open until 9 p.m. on Friday. Holiday Mansion To
+ urs run Saturday at 1\, 2 and 3 p.m. for $4. $8 ($6 students\, seniors\, m
+ ilitary\; 4 & under free). Details: https://weekendscout.app/e/binghamton/
+ roberson-home-for-the-holidays-2026-11-27/
+URL:https://weekendscout.app/e/binghamton/roberson-home-for-the-holidays-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:binghamton-roberson-home-for-the-holidays-2026-11-27-sun-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261129T160000Z
+DTEND:20261129T220000Z
+SUMMARY:Home for the Holidays
+LOCATION:Roberson Museum and Science Center\, 30 Front St\, Binghamton\, N
+ Y 13905
+DESCRIPTION:The Roberson's annual holiday display of decorated trees and r
+ ooms runs through Jan. 8\, open until 9 p.m. on Friday. Holiday Mansion To
+ urs run Saturday at 1\, 2 and 3 p.m. for $4. $8 ($6 students\, seniors\, m
+ ilitary\; 4 & under free). Details: https://weekendscout.app/e/binghamton/
+ roberson-home-for-the-holidays-2026-11-27/
+URL:https://weekendscout.app/e/binghamton/roberson-home-for-the-holidays-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:binghamton-broome-county-festival-of-lights-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T081235Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
-SUMMARY:Binghamton Riverwalk
-LOCATION:Confluence Park\, Front St & Riverside Dr\, Binghamton\, NY 13905
-DESCRIPTION:Trails where the Susquehanna and Chenango rivers meet. Free. D
- etails: https://weekendscout.app/e/binghamton/binghamton-riverwalk-2026-11
- /
-URL:https://weekendscout.app/e/binghamton/binghamton-riverwalk-2026-11/
+SUMMARY:Broome County Festival of Lights
+LOCATION:Otsiningo Park\, 1 Otsiningo Park\, Binghamton\, NY 13905
+DESCRIPTION:A drive-through holiday light show in Otsiningo Park\, running
+  nightly Nov. 19 through Jan. 3. Tickets are sold per vehicle\, not per pe
+ rson. $27.52 per vehicle (incl. fee). Details: https://weekendscout.app/e/
+ binghamton/broome-county-festival-of-lights-2026-11-27/
+URL:https://weekendscout.app/e/binghamton/broome-county-festival-of-lights-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:binghamton-binghamton-riverwalk-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T074049Z
+UID:binghamton-broome-county-festival-of-lights-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T081235Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
-SUMMARY:Binghamton Riverwalk
-LOCATION:Confluence Park\, Front St & Riverside Dr\, Binghamton\, NY 13905
-DESCRIPTION:Trails where the Susquehanna and Chenango rivers meet. Free. D
- etails: https://weekendscout.app/e/binghamton/binghamton-riverwalk-2026-11
- /
-URL:https://weekendscout.app/e/binghamton/binghamton-riverwalk-2026-11/
+SUMMARY:Broome County Festival of Lights
+LOCATION:Otsiningo Park\, 1 Otsiningo Park\, Binghamton\, NY 13905
+DESCRIPTION:A drive-through holiday light show in Otsiningo Park\, running
+  nightly Nov. 19 through Jan. 3. Tickets are sold per vehicle\, not per pe
+ rson. $27.52 per vehicle (incl. fee). Details: https://weekendscout.app/e/
+ binghamton/broome-county-festival-of-lights-2026-11-27/
+URL:https://weekendscout.app/e/binghamton/broome-county-festival-of-lights-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:binghamton-binghamton-riverwalk-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T074049Z
+UID:binghamton-broome-county-festival-of-lights-2026-11-27-sun-0@weekendscout.app
+DTSTAMP:20261126T081235Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
-SUMMARY:Binghamton Riverwalk
-LOCATION:Confluence Park\, Front St & Riverside Dr\, Binghamton\, NY 13905
-DESCRIPTION:Trails where the Susquehanna and Chenango rivers meet. Free. D
- etails: https://weekendscout.app/e/binghamton/binghamton-riverwalk-2026-11
- /
-URL:https://weekendscout.app/e/binghamton/binghamton-riverwalk-2026-11/
+SUMMARY:Broome County Festival of Lights
+LOCATION:Otsiningo Park\, 1 Otsiningo Park\, Binghamton\, NY 13905
+DESCRIPTION:A drive-through holiday light show in Otsiningo Park\, running
+  nightly Nov. 19 through Jan. 3. Tickets are sold per vehicle\, not per pe
+ rson. $27.52 per vehicle (incl. fee). Details: https://weekendscout.app/e/
+ binghamton/broome-county-festival-of-lights-2026-11-27/
+URL:https://weekendscout.app/e/binghamton/broome-county-festival-of-lights-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:binghamton-roberson-museum-and-science-center-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Roberson Museum and Science Center
-LOCATION:Roberson Museum\, 30 Front St\, Binghamton\, NY 13905
-DESCRIPTION:Art\, local history and a planetarium in a 1907 mansion. Admis
- sion. Details: https://weekendscout.app/e/binghamton/roberson-museum-and-s
- cience-center-2026-11/
-URL:https://weekendscout.app/e/binghamton/roberson-museum-and-science-center-2026-11/
+UID:binghamton-jungle-bells-animal-adventure-park-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261127T210000Z
+DTEND:20261128T010000Z
+SUMMARY:Jungle Bells
+LOCATION:Animal Adventure Park\, 85 Martin Hill Rd\, Harpursville\, NY 137
+ 87
+DESCRIPTION:Animal Adventure Park's walk-through holiday lights\, open Thu
+ rsday to Sunday evenings through Dec. 27 (closed Thanksgiving). Last entry
+  is 7 p.m. General admission. Details: https://weekendscout.app/e/binghamt
+ on/jungle-bells-animal-adventure-park-2026-11-27/
+URL:https://weekendscout.app/e/binghamton/jungle-bells-animal-adventure-park-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:binghamton-roberson-museum-and-science-center-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Roberson Museum and Science Center
-LOCATION:Roberson Museum\, 30 Front St\, Binghamton\, NY 13905
-DESCRIPTION:Art\, local history and a planetarium in a 1907 mansion. Admis
- sion. Details: https://weekendscout.app/e/binghamton/roberson-museum-and-s
- cience-center-2026-11/
-URL:https://weekendscout.app/e/binghamton/roberson-museum-and-science-center-2026-11/
+UID:binghamton-jungle-bells-animal-adventure-park-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261128T210000Z
+DTEND:20261129T010000Z
+SUMMARY:Jungle Bells
+LOCATION:Animal Adventure Park\, 85 Martin Hill Rd\, Harpursville\, NY 137
+ 87
+DESCRIPTION:Animal Adventure Park's walk-through holiday lights\, open Thu
+ rsday to Sunday evenings through Dec. 27 (closed Thanksgiving). Last entry
+  is 7 p.m. General admission. Details: https://weekendscout.app/e/binghamt
+ on/jungle-bells-animal-adventure-park-2026-11-27/
+URL:https://weekendscout.app/e/binghamton/jungle-bells-animal-adventure-park-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:binghamton-roberson-museum-and-science-center-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Roberson Museum and Science Center
-LOCATION:Roberson Museum\, 30 Front St\, Binghamton\, NY 13905
-DESCRIPTION:Art\, local history and a planetarium in a 1907 mansion. Admis
- sion. Details: https://weekendscout.app/e/binghamton/roberson-museum-and-s
- cience-center-2026-11/
-URL:https://weekendscout.app/e/binghamton/roberson-museum-and-science-center-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:binghamton-binghamton-black-bears-vs-watertown-wolves-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART:20261129T000000Z
-DTEND:20261129T020000Z
-SUMMARY:Binghamton Black Bears vs. Watertown Wolves
-LOCATION:Visions Veterans Memorial Arena\, 1 Stuart St\, Binghamton\, NY 1
- 3901
-DESCRIPTION:FPHL hockey on Saturday. Tickets. Details: https://weekendscou
- t.app/e/binghamton/binghamton-black-bears-vs-watertown-wolves-2026-11/
-URL:https://weekendscout.app/e/binghamton/binghamton-black-bears-vs-watertown-wolves-2026-11/
+UID:binghamton-jungle-bells-animal-adventure-park-2026-11-27-sun-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261129T210000Z
+DTEND:20261130T010000Z
+SUMMARY:Jungle Bells
+LOCATION:Animal Adventure Park\, 85 Martin Hill Rd\, Harpursville\, NY 137
+ 87
+DESCRIPTION:Animal Adventure Park's walk-through holiday lights\, open Thu
+ rsday to Sunday evenings through Dec. 27 (closed Thanksgiving). Last entry
+  is 7 p.m. General admission. Details: https://weekendscout.app/e/binghamt
+ on/jungle-bells-animal-adventure-park-2026-11-27/
+URL:https://weekendscout.app/e/binghamton/jungle-bells-animal-adventure-park-2026-11-27/
 END:VEVENT
 END:VCALENDAR

@@ -8,123 +8,156 @@ X-WR-CALDESC:Hand-checked weekend picks in Fairbanks, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:fairbanks-creamer-s-field-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Creamer’s Field
-LOCATION:Creamer’s Field Migratory Waterfowl Refuge\, 1300 College Rd\, 
- Fairbanks\, AK 99701
-DESCRIPTION:Snowy trails at an old dairy farm\; good for aurora watching a
- fter dark. Free. Details: https://weekendscout.app/e/fairbanks/creamer-s-f
- ield-2026-11/
-URL:https://weekendscout.app/e/fairbanks/creamer-s-field-2026-11/
+UID:fairbanks-handmade-holiday-market-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261128T190000Z
+DTEND:20261129T020000Z
+SUMMARY:Handmade Holiday Market
+LOCATION:Alaska Centennial Center for the Arts\, 2300 Airport Way\, Fairba
+ nks\, AK 99701
+DESCRIPTION:Fairbanks Arts' Small Business Saturday market with 50+ local 
+ artists\, plus free train rides and Santa visits\, a free family movie (Co
+ co)\, story time and kids' crafts. Choral music and the Alaskaland Holiday
+  Tree lighting run 3–3:30 p.m. near the main entrance. Free activities. 
+ Details: https://weekendscout.app/e/fairbanks/handmade-holiday-market-2026
+ -11-28/
+URL:https://weekendscout.app/e/fairbanks/handmade-holiday-market-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
-UID:fairbanks-creamer-s-field-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Creamer’s Field
-LOCATION:Creamer’s Field Migratory Waterfowl Refuge\, 1300 College Rd\, 
- Fairbanks\, AK 99701
-DESCRIPTION:Snowy trails at an old dairy farm\; good for aurora watching a
- fter dark. Free. Details: https://weekendscout.app/e/fairbanks/creamer-s-f
- ield-2026-11/
-URL:https://weekendscout.app/e/fairbanks/creamer-s-field-2026-11/
+UID:fairbanks-black-friday-shopping-expo-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261127T220000Z
+DTEND:20261128T040000Z
+SUMMARY:Black Friday Shopping Expo
+LOCATION:Carlson Center\, 2010 2nd Ave\, Fairbanks\, AK 99701
+DESCRIPTION:The 7th annual expo brings 100+ local vendors selling holiday 
+ gifts\, handmade items\, décor\, clothing\, jewelry and treats\, with doo
+ r prizes. Admission is $5 at the door. $5. Details: https://weekendscout.a
+ pp/e/fairbanks/black-friday-shopping-expo-2026-11-27/
+URL:https://weekendscout.app/e/fairbanks/black-friday-shopping-expo-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:fairbanks-creamer-s-field-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Creamer’s Field
-LOCATION:Creamer’s Field Migratory Waterfowl Refuge\, 1300 College Rd\, 
- Fairbanks\, AK 99701
-DESCRIPTION:Snowy trails at an old dairy farm\; good for aurora watching a
- fter dark. Free. Details: https://weekendscout.app/e/fairbanks/creamer-s-f
- ield-2026-11/
-URL:https://weekendscout.app/e/fairbanks/creamer-s-field-2026-11/
+UID:fairbanks-black-friday-shopping-expo-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261128T190000Z
+DTEND:20261129T020000Z
+SUMMARY:Black Friday Shopping Expo
+LOCATION:Carlson Center\, 2010 2nd Ave\, Fairbanks\, AK 99701
+DESCRIPTION:The 7th annual expo brings 100+ local vendors selling holiday 
+ gifts\, handmade items\, décor\, clothing\, jewelry and treats\, with doo
+ r prizes. Admission is $5 at the door. $5. Details: https://weekendscout.a
+ pp/e/fairbanks/black-friday-shopping-expo-2026-11-27/
+URL:https://weekendscout.app/e/fairbanks/black-friday-shopping-expo-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:fairbanks-golden-heart-plaza-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Golden Heart Plaza
-LOCATION:Golden Heart Plaza\, 1st Ave & Cushman St\, Fairbanks\, AK 99701
-DESCRIPTION:Downtown’s riverside plaza and the “Unknown First Family
- ” statue. Free. Details: https://weekendscout.app/e/fairbanks/golden-hea
- rt-plaza-2026-11/
-URL:https://weekendscout.app/e/fairbanks/golden-heart-plaza-2026-11/
+UID:fairbanks-black-friday-shopping-expo-2026-11-27-sun-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261129T200000Z
+DTEND:20261130T020000Z
+SUMMARY:Black Friday Shopping Expo
+LOCATION:Carlson Center\, 2010 2nd Ave\, Fairbanks\, AK 99701
+DESCRIPTION:The 7th annual expo brings 100+ local vendors selling holiday 
+ gifts\, handmade items\, décor\, clothing\, jewelry and treats\, with doo
+ r prizes. Admission is $5 at the door. $5. Details: https://weekendscout.a
+ pp/e/fairbanks/black-friday-shopping-expo-2026-11-27/
+URL:https://weekendscout.app/e/fairbanks/black-friday-shopping-expo-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:fairbanks-golden-heart-plaza-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Golden Heart Plaza
-LOCATION:Golden Heart Plaza\, 1st Ave & Cushman St\, Fairbanks\, AK 99701
-DESCRIPTION:Downtown’s riverside plaza and the “Unknown First Family
- ” statue. Free. Details: https://weekendscout.app/e/fairbanks/golden-hea
- rt-plaza-2026-11/
-URL:https://weekendscout.app/e/fairbanks/golden-heart-plaza-2026-11/
+UID:fairbanks-ice-dogs-vs-kenai-river-brown-bears-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261128T043000Z
+DTEND:20261128T063000Z
+SUMMARY:Fairbanks Ice Dogs vs. Kenai River Brown Bears
+LOCATION:Big Dipper Ice Arena\, 1920 Lathrop St\, Fairbanks\, AK 99701
+DESCRIPTION:NAHL junior hockey: the Ice Dogs host the Kenai River Brown Be
+ ars in a two-game home series. Doors open one hour before puck drop. Ticke
+ ts. Details: https://weekendscout.app/e/fairbanks/ice-dogs-vs-kenai-river-
+ brown-bears-2026-11-27/
+URL:https://weekendscout.app/e/fairbanks/ice-dogs-vs-kenai-river-brown-bears-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:fairbanks-golden-heart-plaza-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Golden Heart Plaza
-LOCATION:Golden Heart Plaza\, 1st Ave & Cushman St\, Fairbanks\, AK 99701
-DESCRIPTION:Downtown’s riverside plaza and the “Unknown First Family
- ” statue. Free. Details: https://weekendscout.app/e/fairbanks/golden-hea
- rt-plaza-2026-11/
-URL:https://weekendscout.app/e/fairbanks/golden-heart-plaza-2026-11/
+UID:fairbanks-ice-dogs-vs-kenai-river-brown-bears-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261129T043000Z
+DTEND:20261129T063000Z
+SUMMARY:Fairbanks Ice Dogs vs. Kenai River Brown Bears
+LOCATION:Big Dipper Ice Arena\, 1920 Lathrop St\, Fairbanks\, AK 99701
+DESCRIPTION:NAHL junior hockey: the Ice Dogs host the Kenai River Brown Be
+ ars in a two-game home series. Doors open one hour before puck drop. Ticke
+ ts. Details: https://weekendscout.app/e/fairbanks/ice-dogs-vs-kenai-river-
+ brown-bears-2026-11-27/
+URL:https://weekendscout.app/e/fairbanks/ice-dogs-vs-kenai-river-brown-bears-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:fairbanks-nanooks-mens-basketball-arctic-crossover-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261128T041500Z
+DTEND:20261128T061500Z
+SUMMARY:Nanooks Men's Basketball: Mt. McKinley Bank Arctic Crossover
+LOCATION:Alaska Airlines Gymnasium (Patty Center)\, University of Alaska F
+ airbanks\, Fairbanks\, AK 99775
+DESCRIPTION:UAF hosts the inaugural Arctic Crossover: the Nanooks play Dav
+ enport on Friday and No. 22 Trevecca Nazarene on Saturday. Saturday's half
+ time includes a half-court shot for $10\,000 (sign up in the lobby 4–5:2
+ 0 p.m.). Tickets. Details: https://weekendscout.app/e/fairbanks/nanooks-me
+ ns-basketball-arctic-crossover-2026-11-27/
+URL:https://weekendscout.app/e/fairbanks/nanooks-mens-basketball-arctic-crossover-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:fairbanks-nanooks-mens-basketball-arctic-crossover-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T081235Z
+DTSTART:20261129T021500Z
+DTEND:20261129T041500Z
+SUMMARY:Nanooks Men's Basketball: Mt. McKinley Bank Arctic Crossover
+LOCATION:Alaska Airlines Gymnasium (Patty Center)\, University of Alaska F
+ airbanks\, Fairbanks\, AK 99775
+DESCRIPTION:UAF hosts the inaugural Arctic Crossover: the Nanooks play Dav
+ enport on Friday and No. 22 Trevecca Nazarene on Saturday. Saturday's half
+ time includes a half-court shot for $10\,000 (sign up in the lobby 4–5:2
+ 0 p.m.). Tickets. Details: https://weekendscout.app/e/fairbanks/nanooks-me
+ ns-basketball-arctic-crossover-2026-11-27/
+URL:https://weekendscout.app/e/fairbanks/nanooks-mens-basketball-arctic-crossover-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:fairbanks-university-of-alaska-museum-of-the-north-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
+DTSTAMP:20261126T081235Z
+DTSTART:20261127T180000Z
+DTEND:20261128T023000Z
 SUMMARY:University of Alaska Museum of the North
 LOCATION:Museum of the North\, 1962 Yukon Dr\, Fairbanks\, AK 99775
-DESCRIPTION:Alaska Native art\, a mummified steppe bison and the sound-and
- -light room. Admission. Details: https://weekendscout.app/e/fairbanks/univ
- ersity-of-alaska-museum-of-the-north-2026-11/
+DESCRIPTION:Alaska's natural history and Alaska Native art on the UAF camp
+ us\, open 9 a.m.–5:30 p.m. daily in winter (closed Thanksgiving Day only
+ ). Adults $23\, youth 6–17 $15\, children 5 and under free. $23. Details
+ : https://weekendscout.app/e/fairbanks/university-of-alaska-museum-of-the-
+ north-2026-11/
 URL:https://weekendscout.app/e/fairbanks/university-of-alaska-museum-of-the-north-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fairbanks-university-of-alaska-museum-of-the-north-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
+DTSTAMP:20261126T081235Z
+DTSTART:20261128T180000Z
+DTEND:20261129T023000Z
 SUMMARY:University of Alaska Museum of the North
 LOCATION:Museum of the North\, 1962 Yukon Dr\, Fairbanks\, AK 99775
-DESCRIPTION:Alaska Native art\, a mummified steppe bison and the sound-and
- -light room. Admission. Details: https://weekendscout.app/e/fairbanks/univ
- ersity-of-alaska-museum-of-the-north-2026-11/
+DESCRIPTION:Alaska's natural history and Alaska Native art on the UAF camp
+ us\, open 9 a.m.–5:30 p.m. daily in winter (closed Thanksgiving Day only
+ ). Adults $23\, youth 6–17 $15\, children 5 and under free. $23. Details
+ : https://weekendscout.app/e/fairbanks/university-of-alaska-museum-of-the-
+ north-2026-11/
 URL:https://weekendscout.app/e/fairbanks/university-of-alaska-museum-of-the-north-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fairbanks-university-of-alaska-museum-of-the-north-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T074049Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
+DTSTAMP:20261126T081235Z
+DTSTART:20261129T180000Z
+DTEND:20261130T023000Z
 SUMMARY:University of Alaska Museum of the North
 LOCATION:Museum of the North\, 1962 Yukon Dr\, Fairbanks\, AK 99775
-DESCRIPTION:Alaska Native art\, a mummified steppe bison and the sound-and
- -light room. Admission. Details: https://weekendscout.app/e/fairbanks/univ
- ersity-of-alaska-museum-of-the-north-2026-11/
+DESCRIPTION:Alaska's natural history and Alaska Native art on the UAF camp
+ us\, open 9 a.m.–5:30 p.m. daily in winter (closed Thanksgiving Day only
+ ). Adults $23\, youth 6–17 $15\, children 5 and under free. $23. Details
+ : https://weekendscout.app/e/fairbanks/university-of-alaska-museum-of-the-
+ north-2026-11/
 URL:https://weekendscout.app/e/fairbanks/university-of-alaska-museum-of-the-north-2026-11/
 END:VEVENT
 END:VCALENDAR
