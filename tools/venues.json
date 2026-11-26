@@ -1,0 +1,8410 @@
+{
+"1 Arena Plaza, Louisville, KY 40202": [
+38.2575,
+-85.75389
+],
+"1 Bass Pro Dr, Memphis, TN 38105": [
+35.15597,
+-90.05191
+],
+"1 Bayfront Park, Corpus Christi, TX 78401": [
+27.799,
+-97.393
+],
+"1 Borgata Way, Atlantic City, NJ 08401": [
+39.378,
+-74.433
+],
+"1 Carter Green, Carmel, IN 46032": [
+39.96916,
+-86.13061
+],
+"1 Center Court, Cleveland, OH 44115": [
+41.49665,
+-81.68832
+],
+"1 Center St, Newark, NJ 07102": [
+40.7419,
+-74.1685
+],
+"1 Centre Square, Easton, PA 18042": [
+40.69125,
+-75.20871
+],
+"1 Civic Center Plaza, Hartford, CT 06103": [
+41.7685,
+-72.6765
+],
+"1 College St, Worcester, MA 01610": [
+42.237,
+-71.808
+],
+"1 Dali Blvd, St. Petersburg, FL 33701": [
+27.766,
+-82.631
+],
+"1 Dock St, Annapolis, MD 21401": [
+38.977,
+-76.486
+],
+"1 Eugene Center, Eugene, OR 97401": [
+44.05,
+-123.091
+],
+"1 EverBank Stadium Dr, Jacksonville, FL 32202": [
+30.32392,
+-81.63734
+],
+"1 Expocentre Dr, Topeka, KS 66612": [
+39.03,
+-95.68
+],
+"1 Festival Dr, Montgomery, AL 36117": [
+32.351,
+-86.212
+],
+"1 Frost Bank Center Dr, San Antonio, TX 78219": [
+29.42692,
+-98.43751
+],
+"1 Government Dr, St. Louis, MO 63110": [
+38.6355,
+-90.2905
+],
+"1 Hope Blvd, Galveston, TX 77554": [
+29.273,
+-94.853
+],
+"1 Jaguar Dr, Mobile, AL 36688": [
+30.695,
+-88.184
+],
+"1 LaSalle Square, Providence, RI 02903": [
+41.82361,
+-71.41833
+],
+"1 Market Sq SE, Roanoke, VA 24011": [
+37.272,
+-79.939
+],
+"1 Memorial Pl, Norfolk, VA 23510": [
+36.856,
+-76.296
+],
+"1 Monument Circle, Indianapolis, IN 46204": [
+39.76788,
+-86.15729
+],
+"1 N Center Ct St, Portland, OR 97227": [
+45.53161,
+-122.66724
+],
+"1 N National Championship Dr, Tucson, AZ 85719": [
+32.2288,
+-110.9488
+],
+"1 Page Ave, Asheville, NC 28801": [
+35.59556,
+-82.55667
+],
+"1 Paycor Stadium, Cincinnati, OH 45202": [
+39.095,
+-84.51611
+],
+"1 S Castillo Dr, St. Augustine, FL 32084": [
+29.8978,
+-81.3115
+],
+"1 S Old State Capitol Plaza, Springfield, IL 62701": [
+39.80031,
+-89.64809
+],
+"1 Schenley Dr, Pittsburgh, PA 15213": [
+40.43821,
+-79.94852
+],
+"1 Seymour H. Knox III Plaza, Buffalo, NY 14203": [
+42.875,
+-78.8764
+],
+"1 State Farm Dr, Atlanta, GA 30303": [
+33.75722,
+-84.39639
+],
+"1 Touhill Circle, St. Louis, MO 63121": [
+38.70713,
+-90.31136
+],
+"1 Union Pl, Hartford, CT 06103": [
+41.76889,
+-72.68167
+],
+"1 University Plaza, Youngstown, OH 44555": [
+41.106,
+-80.646
+],
+"1 W 2nd St, Dayton, OH 45402": [
+39.761,
+-84.193
+],
+"1 W Center St, Fayetteville, AR 72701": [
+36.062,
+-94.16
+],
+"1 Walnut St, Chattanooga, TN 37403": [
+35.059,
+-85.307
+],
+"1 Warriors Way, San Francisco, CA 94158": [
+37.76806,
+-122.3875
+],
+"10 Arms St, Manchester, NH 03101": [
+42.989,
+-71.468
+],
+"10 Bluff View Ave, Chattanooga, TN 37403": [
+35.055944,
+-85.306444
+],
+"10 S Parkside Dr, Colorado Springs, CO 80910": [
+38.829,
+-104.809
+],
+"10 Sims Ave, Providence, RI 02909": [
+41.82695,
+-71.43287
+],
+"10 Tenth St, Oakland, CA 94607": [
+37.798,
+-122.264
+],
+"10 W Georgia St, Indianapolis, IN 46225": [
+39.76441,
+-86.15843
+],
+"100 1st Ave SE, St. Petersburg, FL 33701": [
+27.768,
+-82.633
+],
+"100 Alfred Lerner Way, Cleveland, OH 44114": [
+41.50611,
+-81.69944
+],
+"100 Aquarium Way, Long Beach, CA 90802": [
+33.762,
+-118.197
+],
+"100 Art Rooney Ave, Pittsburgh, PA 15212": [
+40.44673,
+-80.01582
+],
+"100 Broadway St, Cincinnati, OH 45202": [
+39.09778,
+-84.50444
+],
+"100 E Fort St, Boise, ID 83702": [
+43.62,
+-116.197
+],
+"100 Frederick Law Olmsted Way, Asheville, NC 28806": [
+35.49625,
+-82.60946
+],
+"100 Green St, Worcester, MA 01604": [
+42.258,
+-71.798
+],
+"100 Lafayette St, Baton Rouge, LA 70801": [
+30.4471,
+-91.18935
+],
+"100 Legends Way, Boston, MA 02114": [
+42.36639,
+-71.06222
+],
+"100 Maryland Ave SW, Washington, DC 20001": [
+38.88813,
+-77.01291
+],
+"100 S Virginia St, Reno, NV 89501": [
+39.525,
+-119.812
+],
+"100 Saint Anselm Dr, Manchester, NH 03102": [
+43.005,
+-71.51
+],
+"100 Sanford Dr, Athens, GA 30602": [
+33.9496,
+-83.3734
+],
+"100 Savannah Blvd, Micanopy, FL 32667": [
+29.548,
+-82.3
+],
+"100 Seaport Blvd, Boston, MA 02210": [
+42.3547,
+-71.05134
+],
+"100 Universal City Plaza, Universal City, CA 91608": [
+34.13468,
+-118.35051
+],
+"1000 14th St, Denver, CO 80202": [
+39.74444,
+-104.9975
+],
+"1000 Boardwalk, Atlantic City, NJ 08401": [
+39.36,
+-74.422
+],
+"1000 Chopper Circle, Denver, CO 80204": [
+39.74861,
+-105.0075
+],
+"1000 Cowan Dr, Reno, NV 89509": [
+39.52194,
+-119.83306
+],
+"1000 E Beltline Ave NE, Grand Rapids, MI 49525": [
+42.981,
+-85.591
+],
+"1000 Elmwood Ave, Providence, RI 02907": [
+41.78399,
+-71.41089
+],
+"1000 George Bush Dr W, College Station, TX 77845": [
+30.6,
+-96.355
+],
+"1000 Larimer St, Denver, CO 80204": [
+39.74548,
+-105.00547
+],
+"1000 S State St, Ann Arbor, MI 48104": [
+42.268,
+-83.741
+],
+"1000 Uluohia St, Kapolei, HI 96707": [
+21.3347,
+-158.0808
+],
+"10001 W Bluemound Rd, Milwaukee, WI 53226": [
+43.03266,
+-88.0374
+],
+"1001 E Cherry St, Springfield, MO 65897": [
+37.199,
+-93.281
+],
+"1001 Fifth Ave, Pittsburgh, PA 15219": [
+40.439445,
+-79.989891
+],
+"1001 S Gadsden St, Tallahassee, FL 32301": [
+30.433,
+-84.276
+],
+"1001 Truxtun Ave, Bakersfield, CA 93301": [
+35.374,
+-119.013
+],
+"1001 W Sprague Ave, Spokane, WA 99201": [
+47.657,
+-117.425
+],
+"1001 Woodward Ave, Detroit, MI 48226": [
+42.33202,
+-83.04776
+],
+"1001 Woodward | detroit": [
+42.33202,
+-83.04776
+],
+"1002 Snow Canyon Dr, Ivins, UT 84738": [
+37.203,
+-113.641
+],
+"1005 Spring Garden St, Greensboro, NC 27412": [
+36.068,
+-79.81
+],
+"1007 York St, Denver, CO 80206": [
+39.73247,
+-104.96095
+],
+"101 6th St, Pittsburgh, PA 15222": [
+40.44386,
+-80.00251
+],
+"101 Biltmore Ave, Asheville, NC 28801": [
+35.591,
+-82.551
+],
+"101 Carousel Dr, Missoula, MT 59802": [
+46.87,
+-113.998
+],
+"101 East Court Square, Decatur, GA 30030": [
+33.77498,
+-84.29662
+],
+"101 Main St, Burlington, VT 05401": [
+44.47578,
+-73.2155
+],
+"101 S Columbus Blvd, Philadelphia, PA 19106": [
+39.94788,
+-75.1411
+],
+"101 S Flagler Dr, West Palm Beach, FL 33401": [
+26.713,
+-80.05
+],
+"101 S LeSueur, Mesa, AZ 85204": [
+33.41275,
+-111.82053
+],
+"1010 N W C MacInnes Pl, Tampa, FL 33602": [
+27.9515,
+-82.4639
+],
+"1010 Washington Blvd, Stamford, CT 06901": [
+41.05643,
+-73.54304
+],
+"1025 Blue Ridge Rd, Raleigh, NC 27607": [
+35.79361,
+-78.71
+],
+"1025 Lombardi Ave, Green Bay, WI 54304": [
+44.5013,
+-88.0622
+],
+"1025 W Kenosha St, Broken Arrow, OK 74012": [
+36.0605,
+-95.8085
+],
+"103 1st St S, Charlottesville, VA 22902": [
+38.03,
+-78.482
+],
+"10301 Destiny USA Dr, Syracuse, NY 13204": [
+43.06702,
+-76.17067
+],
+"1037 SW Broadway, Portland, OR 97205": [
+45.51712,
+-122.68148
+],
+"1040 Vel R. Phillips Ave, Milwaukee, WI 53203": [
+43.0436,
+-87.9156
+],
+"105 Marcy St, Portsmouth, NH 03801": [
+43.077,
+-70.753
+],
+"1050 A1A North, Ponte Vedra Beach, FL 32082": [
+30.16752,
+-81.36923
+],
+"1050 Beach Blvd, Biloxi, MS 39530": [
+30.394,
+-88.901
+],
+"10500 Alfred Harrell Hwy, Bakersfield, CA 93306": [
+35.43194,
+-118.88611
+],
+"10500 SeaWorld Dr, San Antonio, TX 78251": [
+29.45663,
+-98.69866
+],
+"106 Lake Dr, Liverpool, NY 13088": [
+43.09975,
+-76.2069
+],
+"1071 Piedmont Ave NE, Atlanta, GA 30309": [
+33.78905,
+-84.37189
+],
+"109 Danforth St, Portland, ME 04101": [
+43.6515,
+-70.2607
+],
+"10th St & Reynolds St, Augusta, GA 30901": [
+33.478,
+-81.964
+],
+"11 1st St N, Jacksonville Beach, FL 32250": [
+30.29063,
+-81.38964
+],
+"11 W Cherry Ave, Flagstaff, AZ 86001": [
+35.20014,
+-111.6487
+],
+"11 W Washington St, Phoenix, AZ 85003": [
+33.44808,
+-112.07447
+],
+"110 E 2nd St, Tulsa, OK 74103": [
+36.1555,
+-95.9897
+],
+"110 Poinsett Hwy, Greenville, SC 29609": [
+34.8708,
+-82.4129
+],
+"110 S Market St, San Jose, CA 95113": [
+37.33361,
+-121.88917
+],
+"1100 3rd St SE, Cedar Rapids, IA 52401": [
+41.969,
+-91.656
+],
+"1100 E Lake Shore Dr, Springfield, IL 62712": [
+39.7274,
+-89.58365
+],
+"1100 Spaatz St, Wright-Patterson AFB, OH 45433": [
+39.7816,
+-84.1095
+],
+"1100 Tuacahn Dr, Ivins, UT 84738": [
+37.2011,
+-113.6418
+],
+"11000 Stockdale St, Fishers, IN 46037": [
+39.94781,
+-86.00422
+],
+"1101 Alaskan Way, Pier 55, Seattle, WA 98101": [
+47.60475,
+-122.33972
+],
+"111 S Grand Ave, Los Angeles, CA 90012": [
+34.05554,
+-118.24902
+],
+"1111 Canal St, New Orleans, LA 70112": [
+29.9558,
+-90.07284
+],
+"1111 Chapel St, New Haven, CT 06510": [
+41.3083,
+-72.931
+],
+"1111 Nicollet Mall, Minneapolis, MN 55403": [
+44.97222,
+-93.275
+],
+"1111 Parrot Jungle Trail, Miami, FL 33132": [
+25.7861,
+-80.1742
+],
+"1111 Vel R. Phillips Ave, Milwaukee, WI 53203": [
+43.04503,
+-87.91817
+],
+"11150 East Blvd, Cleveland, OH 44106": [
+41.50889,
+-81.61167
+],
+"1126 S Holden Rd, Greensboro, NC 27407": [
+36.053,
+-79.852
+],
+"1130 Bethel St, Honolulu, HI 96813": [
+21.3115,
+-157.862
+],
+"1130 State St, Santa Barbara, CA 93101": [
+34.42337,
+-119.70387
+],
+"114 W Broad St, Richmond, VA 23220": [
+37.54686,
+-77.44327
+],
+"114 W Mills Ave, El Paso, TX 79901": [
+31.759,
+-106.489
+],
+"1140 Connecticut Ave NW, Washington, DC 20036": [
+38.90512,
+-77.04132
+],
+"11450 Park Road 5, Canyon, TX 79015": [
+34.937,
+-101.659
+],
+"115 South Ave, Rochester, NY 14604": [
+43.1544,
+-77.6091
+],
+"1151 St Louis Galleria St, St. Louis, MO 63117": [
+38.63777,
+-90.34795
+],
+"116 Rep. John Lewis Way N, Nashville, TN 37219": [
+36.16171,
+-86.77767
+],
+"118 S Palafox Pl, Pensacola, FL 32502": [
+30.41,
+-87.214
+],
+"11800 W Broad St, Suite 1090, Richmond, VA 23233": [
+37.65739,
+-77.61826
+],
+"1199 9th Ave, San Francisco, CA 94122": [
+37.76736,
+-122.46968
+],
+"11th–13th Aves & 83rd–86th Sts, Brooklyn, NY 11228": [
+40.62047,
+-74.01167
+],
+"12 N Eutaw St, Baltimore, MD 21201": [
+39.28991,
+-76.62196
+],
+"1200 Douglas St, Omaha, NE 68102": [
+41.2588,
+-95.931
+],
+"1200 Forrest Park Dr, Nashville, TN 37205": [
+36.08597,
+-86.87203
+],
+"1200 Old Trenton Rd, West Windsor, NJ 08550": [
+40.29718,
+-74.62065
+],
+"1200 President Clinton Ave, Little Rock, AR 72201": [
+34.7474,
+-92.2591
+],
+"1200 Raintree Dr, Fort Collins, CO 80526": [
+40.55586,
+-105.09798
+],
+"1200 Stadium Dr, Tallahassee, FL 32306": [
+30.438,
+-84.304
+],
+"1200 W 11th St, Traverse City, MI 49684": [
+44.757,
+-85.65
+],
+"1200 W Washington St, Indianapolis, IN 46222": [
+39.76694,
+-86.17694
+],
+"12000 Beach Blvd, Jacksonville, FL 32246": [
+30.28631,
+-81.5016
+],
+"1201 Airway Blvd, El Paso, TX 79925": [
+31.786,
+-106.394
+],
+"1201 N West Ave, Sioux Falls, SD 57104": [
+43.559,
+-96.747
+],
+"1201 S Figueroa St, Los Angeles, CA 90015": [
+34.04188,
+-118.267
+],
+"1207 10th St, Bellingham, WA 98225": [
+48.72,
+-122.503
+],
+"1207 Front St, Sacramento, CA 95814": [
+38.58278,
+-121.50333
+],
+"121 E Exchange Ave, Fort Worth, TX 76164": [
+32.789,
+-97.3478
+],
+"121 Thompson St, Ashland, VA 23005": [
+37.75874,
+-77.48337
+],
+"121 W 15th St, Cheyenne, WY 82001": [
+41.132,
+-104.815
+],
+"1214 Williston Rd, South Burlington, VT 05403": [
+44.468,
+-73.183
+],
+"1226 15th St, Denver, CO 80202": [
+39.74777,
+-104.99811
+],
+"123 3rd Ave SE, Cedar Rapids, IA 52401": [
+41.978,
+-91.668
+],
+"123 E State St, Milwaukee, WI 53202": [
+43.04286,
+-87.91164
+],
+"123 Vivian St, Durham, NC 27701": [
+35.993,
+-78.904
+],
+"123 W South Temple, Salt Lake City, UT 84101": [
+40.7685,
+-111.895
+],
+"124 Comstock Knoll Dr, Ithaca, NY 14850": [
+42.4497,
+-76.4697
+],
+"12400 SW 152nd St, Miami, FL 33177": [
+25.61,
+-80.4
+],
+"1241 Elm St, Cincinnati, OH 45202": [
+39.10944,
+-84.51889
+],
+"1241 N Palm Ave, Sarasota, FL 34236": [
+27.33672,
+-82.54543
+],
+"1242 Pearl St, Boulder, CO 80302": [
+40.018,
+-105.278
+],
+"125 Bow St, Portsmouth, NH 03801": [
+43.078,
+-70.757
+],
+"125 N Gadsden St, Tallahassee, FL 32301": [
+30.4419,
+-84.2786
+],
+"125 S Pennsylvania St, Indianapolis, IN 46204": [
+39.76389,
+-86.15556
+],
+"125 State St, Santa Barbara, CA 93101": [
+34.41348,
+-119.69165
+],
+"125 W Jefferson Blvd, Fort Wayne, IN 46802": [
+41.078,
+-85.141
+],
+"125 W Mills Ave, El Paso, TX 79901": [
+31.759,
+-106.488
+],
+"1270 W Leroy Pond Dr, Fayetteville, AR 72701": [
+36.064,
+-94.18
+],
+"1277 Main St, Springfield, MA 01103": [
+42.1,
+-72.588
+],
+"128 E Forsyth St, Jacksonville, FL 32202": [
+30.3263,
+-81.65565
+],
+"128 NW 11th Ave, Portland, OR 97209": [
+45.52429,
+-122.682
+],
+"128 S Palm Canyon Dr, Palm Springs, CA 92262": [
+33.822,
+-116.547
+],
+"1280 Highway 315, Wilkes-Barre, PA 18702": [
+41.26663,
+-75.8216
+],
+"1280 Peachtree St NE, Atlanta, GA 30309": [
+33.78925,
+-84.38515
+],
+"1285 Elmwood Ave, Buffalo, NY 14222": [
+42.9324,
+-78.8762
+],
+"12th St & R St, Lincoln, NE 68588": [
+40.818,
+-96.704
+],
+"13 Wallis St, Beverly, MA 01915": [
+42.54819,
+-70.87973
+],
+"130 Fulton St W, Grand Rapids, MI 49503": [
+42.962,
+-85.672
+],
+"130 N Tryon St, Charlotte, NC 28202": [
+35.227147,
+-80.841463
+],
+"1300 Mac Davis Ln, Lubbock, TX 79401": [
+33.589,
+-101.843
+],
+"1300 Pearl St, Boulder, CO 80302": [
+40.018,
+-105.278
+],
+"1303 Pearl St, Boulder, CO 80302": [
+40.018,
+-105.278
+],
+"131 E Exchange Ave, Fort Worth, TX 76164": [
+32.7893,
+-97.347
+],
+"131 E Falls Park Dr, Sioux Falls, SD 57104": [
+43.558,
+-96.723
+],
+"1318 Celebrity Cir, Myrtle Beach, SC 29577": [
+33.715,
+-78.88
+],
+"1330 Grand Ave, Des Moines, IA 50309": [
+41.585,
+-93.637
+],
+"1332 W Burnside St, Portland, OR 97209": [
+45.52278,
+-122.685
+],
+"1335 W Summit Pkwy, Spokane, WA 99201": [
+47.66158,
+-117.43205
+],
+"13350 Dallas Pkwy, Dallas, TX 75240": [
+32.93072,
+-96.81957
+],
+"13350 FSW Pkwy, Fort Myers, FL 33919": [
+26.552,
+-81.888
+],
+"1337 Lower Campus Rd, Honolulu, HI 96822": [
+21.296,
+-157.818
+],
+"1340 A1A S, St. Augustine, FL 32080": [
+29.87417,
+-81.2847
+],
+"1345 Piedmont Ave NE, Atlanta, GA 30309": [
+33.78996,
+-84.3726
+],
+"1349 Newfield Ave, Stamford, CT": [
+41.087,
+-73.547
+],
+"135 Congress St, Portsmouth, NH 03801": [
+43.076,
+-70.761
+],
+"1350 Lancaster St, Baltimore, MD 21231": [
+39.28246,
+-76.59787
+],
+"136 N 6th St, Reading, PA 19601": [
+40.338,
+-75.928
+],
+"1363 Old Globe Way, San Diego, CA 92101": [
+32.73223,
+-117.15236
+],
+"13651 I-40 Frontage Rd, Amarillo, TX 79124": [
+35.1873,
+-101.9871
+],
+"138 N Main St, Dayton, OH 45402": [
+39.76,
+-84.192
+],
+"140 W Washington St, Indianapolis, IN 46204": [
+39.7675,
+-86.16111
+],
+"1400 Curtis St, Denver, CO 80204": [
+39.74444,
+-104.9975
+],
+"1400 Edwards Mill Rd, Raleigh, NC 27607": [
+35.80333,
+-78.72194
+],
+"1400 Patten Rd, Lookout Mountain, GA 30750": [
+34.97389,
+-85.34861
+],
+"1400 S DuSable Lake Shore Dr, Chicago, IL 60605": [
+41.86726,
+-87.61875
+],
+"1400 W Mars Hill Rd, Flagstaff, AZ 86001": [
+35.203,
+-111.665
+],
+"1401 Bronco Ln, Boise, ID 83725": [
+43.601,
+-116.197
+],
+"1401 Clark Ave, St. Louis, MO 63103": [
+38.62703,
+-90.20318
+],
+"1404 Spring St NW, Atlanta, GA 30309": [
+33.79249,
+-84.38985
+],
+"1407 Euclid Ave, Cleveland, OH 44115": [
+41.50112,
+-81.68143
+],
+"1414 University Blvd SE, Albuquerque, NM 87106": [
+35.067,
+-106.629
+],
+"1415 O St, Lincoln, NE 68508": [
+40.814,
+-96.702
+],
+"1418 Descanso Dr, La Cañada Flintridge, CA 91011": [
+34.20091,
+-118.20643
+],
+"142 E De Vargas St, Santa Fe, NM 87501": [
+35.683,
+-105.937
+],
+"143 Jewett Pkwy, Buffalo, NY 14214": [
+42.937,
+-78.8478
+],
+"1435 Frankfort Ave, Louisville, KY 40206": [
+38.26079,
+-85.72298
+],
+"144 East Ave, Ithaca, NY 14850": [
+42.4457,
+-76.479
+],
+"1440 Monroe St, Madison, WI 53711": [
+43.07,
+-89.4128
+],
+"1445 K St, Lincoln, NE 68508": [
+40.808,
+-96.6997
+],
+"145 Culver Rd, Rochester, NY 14620": [
+43.152,
+-77.5744
+],
+"145 Easton Town Center, Columbus, OH 43219": [
+40.05195,
+-82.91528
+],
+"1450 Greene St, Augusta, GA 30901": [
+33.479,
+-81.977
+],
+"1450 S Dixie Hwy, West Palm Beach, FL 33401": [
+26.699,
+-80.052
+],
+"1487 2nd St, Sarasota, FL 34236": [
+27.337,
+-82.541
+],
+"149 Pond St, Stoneham, MA 02180": [
+42.46296,
+-71.09295
+],
+"15 Asylum St, Hartford, CT 06103": [
+41.76644,
+-72.6737
+],
+"1500 Arch St, Philadelphia, PA 19102": [
+39.95456,
+-75.16502
+],
+"1500 Main St, Columbia, SC 29201": [
+34.001,
+-81.035
+],
+"1500 McKinney St, Houston, TX 77010": [
+29.75422,
+-95.36054
+],
+"1500 N College Ave, Claremont, CA 91711": [
+34.1104,
+-117.7136
+],
+"1500 N Virginia St, Reno, NV 89503": [
+39.547,
+-119.816
+],
+"1500 Orange Ave, Coronado, CA 92118": [
+32.6809,
+-117.17779
+],
+"1500 Sugar Bowl Dr, New Orleans, LA 70112": [
+29.95083,
+-90.08111
+],
+"15000 Dripping Springs Rd, Las Cruces, NM 88005": [
+32.3291,
+-106.5904
+],
+"1501 Euclid Ave, Cleveland, OH 44115": [
+41.50111,
+-81.68111
+],
+"1501 W Covell Rd, Edmond, OK 73003": [
+35.68601,
+-97.50554
+],
+"151 W 34th St, New York, NY 10001": [
+40.75089,
+-73.98926
+],
+"1526 Broadway St, Detroit, MI 48226": [
+42.3366,
+-83.04887
+],
+"153 Main St, Burlington, VT 05401": [
+44.476,
+-73.212
+],
+"1539 N Main Ave, Scranton, PA 18508": [
+41.425,
+-75.665
+],
+"1540 University Dr, Lexington, KY 40506": [
+38.022,
+-84.505
+],
+"1544 OK-9, Norman, OK 73072": [
+35.194,
+-97.462
+],
+"1545 Mesker Park Dr, Evansville, IN 47720": [
+37.999,
+-87.618
+],
+"1555 Federal Dr, Montgomery, AL 36107": [
+32.404,
+-86.261
+],
+"1595 Pleasant St, Boulder, CO 80309": [
+40.009,
+-105.273
+],
+"160 Derby St, Salem, MA 01970": [
+42.521,
+-70.887
+],
+"160 S High St, Columbus, OH 43215": [
+39.95655,
+-82.99815
+],
+"1600 block of S 13th St, Philadelphia, PA 19148": [
+39.92555,
+-75.16946
+],
+"1601 Broadway Blvd, Kansas City, MO 64108": [
+39.0937,
+-94.58682
+],
+"1601 E NASA Pkwy, Houston, TX 77058": [
+29.55192,
+-95.09837
+],
+"1601 N 5th St, Springfield, IL 62702": [
+39.819,
+-89.646
+],
+"1605 Avenue of Champions, Bowling Green, KY 42101": [
+36.984,
+-86.459
+],
+"161 Essex St, Salem, MA 01970": [
+42.522,
+-70.892
+],
+"161 Lexington Green Cir, Lexington, KY 40503": [
+38.005,
+-84.524
+],
+"161 Wellborn Rd, College Station, TX 77840": [
+30.61,
+-96.34
+],
+"1616 N Wells St, Chicago, IL 60614": [
+41.91178,
+-87.63484
+],
+"1620 Bulldog Lane, Fresno, CA 93740": [
+36.8139,
+-119.7579
+],
+"1639 Copenhagen Dr, Solvang, CA 93463": [
+34.59532,
+-120.14051
+],
+"1640 Freed St, Columbia, SC 29201": [
+34.01984,
+-81.03089
+],
+"1650 E Randol Mill Rd, Arlington, TX 76011": [
+32.74914,
+-97.08494
+],
+"166 Capitol Ave, Hartford, CT 06106": [
+41.7631,
+-72.682
+],
+"166 E Bridge St, Homestead, PA 15120": [
+40.40894,
+-79.91494
+],
+"166 W Mehring Way, Cincinnati, OH 45202": [
+39.09524,
+-84.51011
+],
+"169 Summers St, Charleston, WV 25301": [
+38.351228,
+-81.635154
+],
+"17 Market Square, Knoxville, TN 37902": [
+35.965,
+-83.919
+],
+"17 W Congress St, Tucson, AZ 85701": [
+32.2219,
+-110.9714
+],
+"170 N Dearborn St, Chicago, IL 60601": [
+41.88493,
+-87.62993
+],
+"170 W 9th St, Winston-Salem, NC 27101": [
+36.103,
+-80.246
+],
+"170 Whitney Ave, New Haven, CT 06511": [
+41.31597,
+-72.92381
+],
+"1700 N Canyon Rd, Provo, UT 84604": [
+40.2576,
+-111.6545
+],
+"1700 SW College Ave, Topeka, KS 66621": [
+39.03372,
+-95.69884
+],
+"1700 Washington Ave, Miami Beach, FL 33139": [
+25.79293,
+-80.13311
+],
+"17000 W I-10, San Antonio, TX 78257": [
+29.59979,
+-98.60887
+],
+"1701 N 4th St, Waco, TX 76707": [
+31.568,
+-97.145
+],
+"1701 Wynkoop St, Denver, CO 80202": [
+39.75293,
+-104.99981
+],
+"1703 Taylor St, Columbia, SC 29201": [
+34.008,
+-81.032
+],
+"1714 Andy Holt Ave, Knoxville, TN 37996": [
+35.952,
+-83.929
+],
+"1717 N Harwood St, Dallas, TX 75201": [
+32.78729,
+-96.8005
+],
+"1727 NW 16th St, Oklahoma City, OK 73106": [
+35.48634,
+-97.5398
+],
+"1737 Spoke St, Oklahoma City, OK 73108": [
+35.44801,
+-97.53187
+],
+"1751 Gentilly Blvd, New Orleans, LA 70119": [
+29.98305,
+-90.08135
+],
+"1771 Encore Ave, Richmond, VA 23230": [
+37.56966,
+-77.46525
+],
+"18 Washington Square W, Salem, MA 01970": [
+42.5228,
+-70.8902
+],
+"1800 Lakeside Ave, Richmond, VA 23228": [
+37.62008,
+-77.47082
+],
+"1801 Crickets Ave, Lubbock, TX 79401": [
+33.57859,
+-101.84268
+],
+"1801 Dock St, Tacoma, WA 98402": [
+47.246,
+-122.434
+],
+"1804 West St, Annapolis, MD 21401": [
+38.976,
+-76.525
+],
+"1805 Main Ave W, West Fargo, ND 58078": [
+46.871231,
+-96.929873
+],
+"1808 Bluffton Rd, Fort Wayne, IN 46809": [
+41.053,
+-85.17
+],
+"181 E Grandview Pkwy, Traverse City, MI 49684": [
+44.765,
+-85.62
+],
+"1817 W Broadway, Columbia, MO 65218": [
+38.958,
+-92.36
+],
+"1818 Data Dr, Hoover, AL 35244": [
+33.384,
+-86.805
+],
+"182 S Main St, Akron, OH 44308": [
+41.081,
+-81.519
+],
+"1826 University Ave, Charlottesville, VA 22904": [
+38.0356,
+-78.5034
+],
+"185 Clingman Ave, Asheville, NC 28801": [
+35.588,
+-82.564
+],
+"188 Meeting St, Charleston, SC 29401": [
+32.781,
+-79.931
+],
+"1880 Transformation Dr, Lincoln, NE 68508": [
+40.825,
+-96.709
+],
+"18898 Hwy 6, College Station, TX 77845": [
+30.52084,
+-96.21828
+],
+"19 Clinton Ave, Albany, NY 12207": [
+42.6553,
+-73.7517
+],
+"190 S 400 W, Salt Lake City, UT 84101": [
+40.7685,
+-111.9038
+],
+"190 S Cascade Ave, Colorado Springs, CO 80903": [
+38.832,
+-104.824
+],
+"1900 Kanawha Blvd E, Charleston, WV 25305": [
+38.336,
+-81.612
+],
+"1900 N Chaparral St, Corpus Christi, TX 78401": [
+27.80915,
+-97.39573
+],
+"1900 W Nolana Ave, McAllen, TX 78504": [
+26.2415,
+-98.2336
+],
+"1901 N Shoreline Blvd, Corpus Christi, TX 78401": [
+27.81,
+-97.394
+],
+"191 Beale St, Memphis, TN 38103": [
+35.13833,
+-90.05056
+],
+"191 University Town Center Dr, Sarasota, FL 34243": [
+27.388,
+-82.446
+],
+"19100 E Valley View Pkwy, Independence, MO 64055": [
+39.03913,
+-94.35756
+],
+"1920 N Forest Ave, Orlando, FL 32803": [
+28.56777,
+-81.35725
+],
+"1921 W Gate City Blvd, Greensboro, NC 27403": [
+36.059,
+-79.825
+],
+"194 Buckland Hills Dr, Suite 1054, Manchester, CT 06042": [
+41.80688,
+-72.54584
+],
+"194 S Market St, San Jose, CA 95113": [
+37.33194,
+-121.89
+],
+"1942 Broadway, Boulder, CO 80302": [
+40.018,
+-105.278
+],
+"1962 Yukon Dr, Fairbanks, AK 99775": [
+64.858,
+-147.842
+],
+"198 Hill St, Akron, OH 44325": [
+41.077,
+-81.513
+],
+"1980 Festival Plaza Dr, Las Vegas, NV 89135": [
+36.15002,
+-115.33317
+],
+"199 W Kellogg Blvd, St. Paul, MN 55102": [
+44.94472,
+-93.10111
+],
+"1st Ave & E 96th St, New York, NY 10029": [
+40.78429,
+-73.94597
+],
+"1st Ave SW & 2nd St SW, Rochester, MN 55902": [
+44.023,
+-92.463
+],
+"2 Cactus Garden Dr, Henderson, NV 89014": [
+36.07385,
+-115.07208
+],
+"2 East South Street, Raleigh, NC 27601": [
+35.7713,
+-78.6396
+],
+"2 Kennedy Plaza, Providence, RI 02903": [
+41.82494,
+-71.41161
+],
+"2 Southbridge St, Worcester, MA 01608": [
+42.261,
+-71.803
+],
+"2 W Independent Dr, Jacksonville, FL 32202": [
+30.32484,
+-81.65985
+],
+"20 E 5th St, Kansas City, MO 64106": [
+39.10863,
+-94.58218
+],
+"20 Hudson Yards, New York, NY 10001": [
+40.75591,
+-74.00053
+],
+"20 Lincoln Center Plaza, New York, NY 10023": [
+40.7725,
+-73.9835
+],
+"20 Myrtle St, Portland, ME 04101": [
+43.658,
+-70.258
+],
+"200 1st Ave N, St. Petersburg, FL 33701": [
+27.772,
+-82.637
+],
+"200 41st St S, Birmingham, AL 35222": [
+33.52428,
+-86.77462
+],
+"200 Church St SW, Huntsville, AL 35801": [
+34.729,
+-86.588
+],
+"200 Coosa St, Montgomery, AL 36104": [
+32.3822,
+-86.3106
+],
+"200 E Bridge St, Waco, TX 76704": [
+31.56361,
+-97.12531
+],
+"200 Malaga St #7, St. Augustine, FL 32084": [
+29.89395,
+-81.32064
+],
+"200 N 6th St, Philadelphia, PA 19106": [
+39.95569,
+-75.15014
+],
+"200 S 2nd St, Clarksville, TN 37040": [
+36.526,
+-87.359
+],
+"200 Santa Monica Pier, Santa Monica, CA 90401": [
+34.01001,
+-118.49664
+],
+"200 W Nationwide Blvd, Columbus, OH 43215": [
+39.96928,
+-83.00611
+],
+"2000 J P Fishburn Pkwy SE, Roanoke, VA 24014": [
+37.251,
+-79.933
+],
+"2000 Mountain Rd NW, Albuquerque, NM 87104": [
+35.0965,
+-106.667
+],
+"2000 Remington Pl, Oklahoma City, OK 73111": [
+35.52389,
+-97.47249
+],
+"2000 Rev. Abraham Woods Jr. Blvd, Birmingham, AL 35203": [
+33.5221,
+-86.8099
+],
+"2001 H St, Bakersfield, CA 93301": [
+35.377,
+-119.019
+],
+"201 E Brambleton Ave, Norfolk, VA 23510": [
+36.855,
+-76.287
+],
+"201 E Gregory St, Pensacola, FL 32502": [
+30.415,
+-87.212
+],
+"201 E Jefferson St, Phoenix, AZ 85004": [
+33.44651,
+-112.07063
+],
+"201 N Walker Ave, Oklahoma City, OK 73102": [
+35.46915,
+-97.52349
+],
+"201 S Market St, San Jose, CA 95113": [
+37.33144,
+-121.89073
+],
+"201 SW 5th Ave, Fort Lauderdale, FL 33312": [
+26.119,
+-80.149
+],
+"201 State St, Madison, WI 53703": [
+43.0745,
+-89.388
+],
+"201 W Baltimore St, Baltimore, MD 21201": [
+39.288711,
+-76.618527
+],
+"201 W Marcy St, Santa Fe, NM 87501": [
+35.69002,
+-105.93982
+],
+"202 S Lamar Blvd, Austin, TX 78704": [
+30.26438,
+-97.75702
+],
+"202 W Superior St, Fort Wayne, IN 46802": [
+41.083,
+-85.144
+],
+"2020 Postoffice St, Galveston, TX 77550": [
+29.30572,
+-94.79068
+],
+"203 Cornell Dr NE, Albuquerque, NM 87106": [
+35.082,
+-106.619
+],
+"203 S Main St, Memphis, TN 38103": [
+35.14,
+-90.05528
+],
+"2032 14th St, Boulder, CO 80302": [
+40.019,
+-105.278
+],
+"2035 E 4th St, Cleveland, OH 44115": [
+41.49934,
+-81.68994
+],
+"205 W State St, Trenton, NJ 08608": [
+40.221,
+-74.77
+],
+"206 W Villa Maria Rd, Bryan, TX 77801": [
+30.63782,
+-96.36307
+],
+"2067 E 14th St, Cleveland, OH 44115": [
+41.50083,
+-81.68083
+],
+"207 4th St N, Fargo, ND 58102": [
+46.876,
+-96.788
+],
+"21 Edwards St, Springfield, MA 01103": [
+42.104,
+-72.585
+],
+"21 Platform Way, Nashville, TN 37203": [
+36.15907,
+-86.78551
+],
+"210 Broadway E, Seattle, WA 98102": [
+47.62026,
+-122.32045
+],
+"2100 Barton Springs Rd, Austin, TX 78704": [
+30.2661,
+-97.76741
+],
+"2100 Park St, Syracuse, NY 13208": [
+43.07267,
+-76.1668
+],
+"2100 Shiloh Rd, Billings, MT 59106": [
+45.7315,
+-108.6226
+],
+"2110 Blue Ridge Road, Raleigh, NC 27607": [
+35.80989,
+-78.70258
+],
+"2115 Woodward Ave, Detroit, MI 48201": [
+42.33781,
+-83.05179
+],
+"212 N 6th St, Springfield, IL 62701": [
+39.803,
+-89.646
+],
+"212 S 4th Ave, Ann Arbor, MI 48104": [
+42.28,
+-83.748
+],
+"212 W Wisconsin Ave, Milwaukee, WI 53203": [
+43.03917,
+-87.91361
+],
+"2131 S Minnesota Ave, Sioux Falls, SD 57105": [
+43.528,
+-96.736
+],
+"214 SE 8th Ave, Topeka, KS 66603": [
+39.048,
+-95.673
+],
+"215 E Convent St, Lafayette, LA 70501": [
+30.2204,
+-92.0163
+],
+"215 E Main St, Charlottesville, VA 22902": [
+38.031,
+-78.48
+],
+"2150 N Alvernon Way, Tucson, AZ 85712": [
+32.24852,
+-110.90879
+],
+"216 O St, Sacramento, CA 95814": [
+38.57694,
+-121.505
+],
+"216 State St, Madison, WI 53703": [
+43.075,
+-89.389
+],
+"217 Central Park Ave, Virginia Beach, VA 23462": [
+36.843,
+-76.136
+],
+"21778 FM 1774, Todd Mission, TX 77363": [
+30.25423,
+-95.84092
+],
+"220 E Ann St, Ann Arbor, MI 48104": [
+42.28226,
+-83.74689
+],
+"220 S Michigan Ave, Chicago, IL 60604": [
+41.87898,
+-87.62509
+],
+"220 Weybosset St, Providence, RI 02903": [
+41.82083,
+-71.4125
+],
+"2200 Dodge St, Omaha, NE 68102": [
+41.2604,
+-95.9455
+],
+"2200 Strand St, Galveston, TX 77550": [
+29.308,
+-94.794
+],
+"2201 N Field St, Dallas, TX 75201": [
+32.78693,
+-96.80641
+],
+"221 Farmers Alley, Kalamazoo, MI 49007": [
+42.293,
+-85.583
+],
+"221 N Center St, Stockton, CA 95202": [
+37.956,
+-121.296
+],
+"2211 Seminole Dr SW, Huntsville, AL 35805": [
+34.71655,
+-86.59808
+],
+"222 North St, Jackson, MS 39201": [
+32.304,
+-90.18
+],
+"222 SW Washington St, Peoria, IL 61602": [
+40.69,
+-89.59
+],
+"223 S Palafox Pl, Pensacola, FL 32502": [
+30.41005,
+-87.21479
+],
+"224 N Center St, Arlington, TX 76011": [
+32.738,
+-97.107
+],
+"225 W Douglas Ave, Wichita, KS 67202": [
+37.686,
+-97.342
+],
+"227 Campus Dr, Asheville, NC 28804": [
+35.6181,
+-82.5689
+],
+"2287 Turk Hill Rd, Fairport, NY 14450": [
+43.0727,
+-77.4339
+],
+"23 Amherst St, Manchester, NH 03101": [
+42.992,
+-71.463
+],
+"23 N Market St, Lancaster, PA 17603": [
+40.039,
+-76.306
+],
+"2300 Steele St, Denver, CO 80205": [
+39.75105,
+-104.94898
+],
+"2301 Central Ave, Cheyenne, WY 82002": [
+41.139,
+-104.818
+],
+"2302 Strand St, Galveston, TX 77550": [
+29.30733,
+-94.7947
+],
+"233 Center St, Des Moines, IA 50309": [
+41.592,
+-93.621
+],
+"233 N Grand Canyon Blvd, Williams, AZ 86046": [
+35.25122,
+-112.19176
+],
+"2335 Kalakaua Ave, Honolulu, HI 96815": [
+21.2785,
+-157.829
+],
+"234 N 2nd St, Harrisburg, PA 17101": [
+40.262,
+-76.88
+],
+"234 N Mosley St, Wichita, KS 67202": [
+37.688,
+-97.329
+],
+"2340 Calle de Principal, Mesilla, NM 88046": [
+32.274,
+-106.796
+],
+"2350 McGregor Blvd, Fort Myers, FL 33901": [
+26.634,
+-81.88
+],
+"2350 Robert Dedman Dr, Austin, TX 78712": [
+30.28587,
+-97.73128
+],
+"2355 Old Penitentiary Rd, Boise, ID 83712": [
+43.602495,
+-116.163819
+],
+"237 7th St, Pittsburgh, PA 15222": [
+40.44313,
+-79.99964
+],
+"240 E Kellogg Blvd, St. Paul, MN 55101": [
+44.94802,
+-93.08504
+],
+"2400 3rd Ave S, Minneapolis, MN 55404": [
+44.95848,
+-93.27415
+],
+"2400 Colorado Ave, Boulder, CO 80302": [
+40.009,
+-105.267
+],
+"2400 Flora St, Dallas, TX 75201": [
+32.78998,
+-96.79642
+],
+"2400 S Scenic Ave, Springfield, MO 65807": [
+37.176,
+-93.338
+],
+"2401 Chautauqua Ave, Norman, OK 73072": [
+35.1944,
+-97.449
+],
+"2403 Flora St, Dallas, TX 75201": [
+32.79095,
+-96.79801
+],
+"2415 Washington Blvd, Ogden, UT 84401": [
+41.219,
+-111.97
+],
+"242 E Main St, Stockton, CA 95202": [
+37.9525,
+-121.28667
+],
+"2420 Nicolet Dr, Green Bay, WI 54311": [
+44.532,
+-87.923
+],
+"2425 Grand Blvd, Kansas City, MO 64108": [
+39.08243,
+-94.58257
+],
+"2425 S 67th St, Omaha, NE 68106": [
+41.2367,
+-96.013
+],
+"2445 Monroe St, Toledo, OH 43620": [
+41.658,
+-83.56
+],
+"2450 S Milledge Ave, Athens, GA 30605": [
+33.901,
+-83.383
+],
+"2455 Cushing Rd, San Diego, CA 92106": [
+32.73483,
+-117.21419
+],
+"248 Cheshire Ave, Eugene, OR 97401": [
+44.059,
+-123.092
+],
+"248 W Fremont St, Stockton, CA 95203": [
+37.955,
+-121.293
+],
+"25 12th Ave S, Naples, FL 34102": [
+26.131,
+-81.807
+],
+"25 Lafayette St, Newark, NJ 07102": [
+40.7334,
+-74.1711
+],
+"25 Temple St, Portland, ME 04101": [
+43.657,
+-70.256
+],
+"250 Bedford Park Blvd W, Bronx, NY 10468": [
+40.87228,
+-73.89489
+],
+"250 Evans Ave, Reno, NV 89501": [
+39.52889,
+-119.80806
+],
+"250 N Arizona Ave, Chandler, AZ 85225": [
+33.30883,
+-111.84376
+],
+"250 State St, New Haven, CT 06510": [
+41.30364,
+-72.92384
+],
+"2500 Victory Ave, Dallas, TX 75219": [
+32.79049,
+-96.81028
+],
+"2500 W Broad St, Richmond, VA 23220": [
+37.56111,
+-77.46583
+],
+"251 N Pearl St, Albany, NY 12207": [
+42.6566,
+-73.7495
+],
+"2520 N Prospect Rd, Peoria, IL 61603": [
+40.721,
+-89.577
+],
+"2520 Rodeo Plaza, Fort Worth, TX 76164": [
+32.79139,
+-97.34806
+],
+"2525 4th Ave, Rock Island, IL 61201": [
+41.51,
+-90.553
+],
+"2549 Washington Blvd, Ogden, UT 84401": [
+41.2194,
+-111.9706
+],
+"255 Almaden Blvd, San Jose, CA 95113": [
+37.32998,
+-121.89215
+],
+"255 Drew St, Clearwater, FL 33755": [
+27.96822,
+-82.80305
+],
+"255 E Pascagoula St, Jackson, MS 39201": [
+32.296,
+-90.183
+],
+"2559 Puesta del Sol, Santa Barbara, CA 93105": [
+34.44099,
+-119.71478
+],
+"2579 S Loop 289, Suite 250, Lubbock, TX 79423": [
+33.5283,
+-101.87657
+],
+"26 S Chestnut St, Ventura, CA 93001": [
+34.28,
+-119.297
+],
+"260 S Church Ave, Tucson, AZ 85701": [
+32.2177,
+-110.9727
+],
+"2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130": [
+39.96557,
+-75.18152
+],
+"2600 Geneva Ave, Daly City, CA 94014": [
+37.70667,
+-122.41861
+],
+"2600 N 10th St, Hidalgo, TX 78557": [
+26.12389,
+-98.24669
+],
+"2600 Sunnyside Ave S, Salt Lake City, UT 84108": [
+40.7498,
+-111.814
+],
+"2600 Travis St, Houston, TX 77006": [
+29.74588,
+-95.37511
+],
+"2601 Central Ave NW, Albuquerque, NM 87104": [
+35.0957,
+-106.68
+],
+"2601 Forest Ave, Des Moines, IA 50311": [
+41.60444,
+-93.65194
+],
+"2601 Jess Neely Dr, Nashville, TN 37212": [
+36.14279,
+-86.80784
+],
+"2603 Rountree Dr, Bryan, TX 77801": [
+30.64303,
+-96.36228
+],
+"2603 Whitaker St, Savannah, GA 31401": [
+32.057,
+-81.098
+],
+"261 Main St, Worcester, MA 01608": [
+42.262,
+-71.804
+],
+"2645 Woodward Ave, Detroit, MI 48201": [
+42.34115,
+-83.0551
+],
+"265 N Front St, Wilmington, NC 28401": [
+34.238,
+-77.948
+],
+"2655 South Park Ave, Buffalo, NY 14218": [
+42.8274,
+-78.8283
+],
+"27 St. George St, St. Augustine, FL 32084": [
+29.8969,
+-81.3133
+],
+"270 Tremont St, Boston, MA 02116": [
+42.35028,
+-71.06472
+],
+"2700 E Independence Blvd, Charlotte, NC 28205": [
+35.2047,
+-80.7905
+],
+"2700 Martin Luther King Jr Blvd, Eugene, OR 97401": [
+44.0582,
+-123.0685
+],
+"2708 J St, Sacramento, CA 95816": [
+38.57387,
+-121.47013
+],
+"2710 N Shoreline Blvd, Corpus Christi, TX 78402": [
+27.81472,
+-97.39192
+],
+"272 Pearl St NW, Grand Rapids, MI 49504": [
+42.96556,
+-85.67694
+],
+"2727 S Rockford Rd, Tulsa, OK 74114": [
+36.12385,
+-95.97009
+],
+"275 S River Rd, Baton Rouge, LA 70802": [
+30.446,
+-91.188
+],
+"2754 Calhoun St, San Diego, CA 92110": [
+32.75564,
+-117.19859
+],
+"28 Monument Square, Woonsocket, RI 02895": [
+42.00528,
+-71.51278
+],
+"280 N Union St, Rochester, NY 14605": [
+43.1644,
+-77.59
+],
+"2800 Opryland Dr, Nashville, TN 37214": [
+36.2068,
+-86.69
+],
+"2801 3rd Ave N, Billings, MT 59101": [
+45.78386,
+-108.50799
+],
+"2820 Rungius Rd, Jackson, WY 83001": [
+43.507,
+-110.747
+],
+"2822 Montana Ave, Billings, MT 59101": [
+45.78095,
+-108.50552
+],
+"2831 Boardwalk, Atlantic City, NJ 08401": [
+39.355,
+-74.44
+],
+"2848 Dewey Rd, San Diego, CA 92106": [
+32.73861,
+-117.21343
+],
+"2850 Roosevelt Rd, San Diego, CA 92106": [
+32.73781,
+-117.21512
+],
+"2891 University Ave, San Diego, CA 92104": [
+32.74801,
+-117.13128
+],
+"295 Massie Rd, Charlottesville, VA 22903": [
+38.046,
+-78.507
+],
+"299 Parkside Ave, Trenton, NJ 08618": [
+40.229,
+-74.788
+],
+"3 Symphony Circle, Buffalo, NY 14201": [
+42.9026,
+-78.8857
+],
+"30 Civic Center Dr SE, Rochester, MN 55904": [
+44.02,
+-92.46
+],
+"30 Civic Center Dr SE, Suite 120, Rochester, MN 55904": [
+44.02,
+-92.46
+],
+"30 Front St, Binghamton, NY 13905": [
+42.093,
+-75.919
+],
+"30 N Division Ave, Grand Rapids, MI 49503": [
+42.964,
+-85.667
+],
+"30 Rockefeller Plaza, New York, NY 10112": [
+40.75912,
+-73.97956
+],
+"300 Alamo Plaza, San Antonio, TX 78205": [
+29.42584,
+-98.48682
+],
+"300 Cliff St, Scranton, PA 18503": [
+41.40733,
+-75.67132
+],
+"300 E Ocean Blvd, Long Beach, CA 90802": [
+33.764,
+-118.189
+],
+"300 Fisher Rd, Lafayette, LA 70508": [
+30.205,
+-91.991
+],
+"300 N Elm St, Greensboro, NC 27401": [
+36.075,
+-79.79
+],
+"300 N Thomas St, Athens, GA 30601": [
+33.96,
+-83.374
+],
+"300 N Winning Way, Portland, OR 97227": [
+45.53222,
+-122.66944
+],
+"300 Quail Gardens Dr, Encinitas, CA 92024": [
+33.05558,
+-117.27942
+],
+"300 SW 10th Ave, Topeka, KS 66612": [
+39.0483,
+-95.678
+],
+"300 SW 7th St, Oklahoma City, OK 73109": [
+35.45964,
+-97.51769
+],
+"300 Sumner Ave, Springfield, MA 01108": [
+42.079,
+-72.56
+],
+"300 York St, New Haven, CT 06511": [
+41.3115,
+-72.93
+],
+"3001 Connecticut Ave NW, Washington, DC 20008": [
+38.9311,
+-77.0497
+],
+"301 Gervais St, Columbia, SC 29201": [
+33.99906,
+-81.04808
+],
+"301 Meeting St, Charleston, SC 29401": [
+32.786,
+-79.935
+],
+"301 Milam St, Houston, TX 77002": [
+29.7629,
+-95.3618
+],
+"301 N Holtzclaw Ave, Chattanooga, TN 37404": [
+35.0431,
+-85.2829
+],
+"301 Peninsula Dr, Erie, PA 16505": [
+42.158,
+-80.11
+],
+"301 S Main Ave, Sioux Falls, SD 57104": [
+43.54407,
+-96.72904
+],
+"301 W Oglethorpe Ave, Savannah, GA 31401": [
+32.077,
+-81.096
+],
+"301 W Reno Ave, Oklahoma City, OK 73102": [
+35.46882,
+-97.51644
+],
+"301 W South Temple, Salt Lake City, UT 84101": [
+40.76833,
+-111.90111
+],
+"3011 W Grand Blvd, Detroit, MI 48202": [
+42.36947,
+-83.07739
+],
+"302 W Latham St, Phoenix, AZ 85003": [
+33.46102,
+-112.07809
+],
+"303 Monroe Ave NW, Grand Rapids, MI 49503": [
+42.968,
+-85.673
+],
+"303 Pearl Pkwy, San Antonio, TX 78215": [
+29.44248,
+-98.47983
+],
+"305 Harrison St, Seattle, WA 98109": [
+47.62155,
+-122.35094
+],
+"3050 Central Ave, Memphis, TN 38111": [
+35.12543,
+-89.95924
+],
+"3065 Fuller St, Miami, FL 33133": [
+25.72787,
+-80.24329
+],
+"31 N 5th St, Allentown, PA 18101": [
+40.60431,
+-75.46807
+],
+"310 Chestnut St, Wilmington, NC 28401": [
+34.237,
+-77.946
+],
+"310 Genesee St, Utica, NY 13502": [
+43.0996,
+-75.2418
+],
+"310 S Troy St, Royal Oak, MI 48067": [
+42.48771,
+-83.14203
+],
+"310 W Willie Nelson Blvd, Austin, TX 78701": [
+30.2655,
+-97.7476
+],
+"3101 W Lancaster Ave, Fort Worth, TX 76107": [
+32.7487,
+-97.364
+],
+"311 E Walnut St, Springfield, MO 65806": [
+37.206,
+-93.291
+],
+"3131 S Las Vegas Blvd, Las Vegas, NV 89109": [
+36.12677,
+-115.16511
+],
+"314 Broadway N, Fargo, ND 58102": [
+46.87917,
+-96.78778
+],
+"315 Detroit St, Ann Arbor, MI 48104": [
+42.28341,
+-83.74671
+],
+"315 W Sprague Ave, Spokane, WA 99201": [
+47.657,
+-117.417
+],
+"315 West Broadway, Louisville, KY 40202": [
+38.24639,
+-85.75806
+],
+"316 S Main St, Ann Arbor, MI 48104": [
+42.27928,
+-83.74866
+],
+"316 West Main Street, Louisville, KY 40202": [
+38.25639,
+-85.75552
+],
+"318 Erie Blvd E, Syracuse, NY 13202": [
+43.05064,
+-76.14872
+],
+"32 Campus Dr, Missoula, MT 59812": [
+46.8597,
+-113.9858
+],
+"32 Front St, Hartford, CT 06103": [
+41.76298,
+-72.67088
+],
+"32 Market Sq SE, Roanoke, VA 24011": [
+37.2725,
+-79.94
+],
+"3205 Thomasville Rd, Tallahassee, FL 32308": [
+30.4939,
+-84.2587
+],
+"3229 NW Pittock Dr, Portland, OR 97210": [
+45.525,
+-122.716389
+],
+"324 S Mint St, Charlotte, NC 28202": [
+35.2283,
+-80.8484
+],
+"325 Park Central E, Springfield, MO 65806": [
+37.209,
+-93.29
+],
+"3291 W Sunrise Blvd, Fort Lauderdale, FL 33311": [
+26.136,
+-80.193
+],
+"33 E Canon Perdido St, Santa Barbara, CA 93101": [
+34.421,
+-119.698
+],
+"33 E Laurel St, Philadelphia, PA 19123": [
+39.96536,
+-75.13539
+],
+"330 W San Carlos St, San Jose, CA 95110": [
+37.32668,
+-121.89177
+],
+"3300 London Rd, Duluth, MN 55804": [
+46.815,
+-92.052
+],
+"3301 4th St, Lubbock, TX 79415": [
+33.5909,
+-101.8873
+],
+"333 E Trade St, Charlotte, NC 28202": [
+35.2251,
+-80.8392
+],
+"333 Post St, San Francisco, CA": [
+37.78806,
+-122.4075
+],
+"333 S Franklin St, Tampa, FL 33602": [
+27.9417,
+-82.4567
+],
+"335 N Pattee St, Missoula, MT 59802": [
+46.871,
+-113.993
+],
+"335 S Hollywood St, Memphis, TN 38104": [
+35.121,
+-89.9774
+],
+"3400 Vine St, Cincinnati, OH 45220": [
+39.145,
+-84.5075
+],
+"3401 W Lancaster Ave, Fort Worth, TX 76107": [
+32.74611,
+-97.36639
+],
+"345 N Virginia St, Reno, NV 89501": [
+39.53,
+-119.814
+],
+"347 S Main St, Ann Arbor, MI 48104": [
+42.27881,
+-83.74853
+],
+"350 A1A Beach Blvd, St. Augustine Beach, FL 32080": [
+29.857,
+-81.26593
+],
+"350 Corvette Dr, Bowling Green, KY 42101": [
+37.001,
+-86.376
+],
+"350 N 5th St, Minneapolis, MN 55401": [
+44.98361,
+-93.27555
+],
+"350 N Razorback Rd, Fayetteville, AR 72701": [
+36.068,
+-94.179
+],
+"3501 Camp Bowie Blvd, Fort Worth, TX 76107": [
+32.748,
+-97.369
+],
+"351 S Clinton St, Syracuse, NY 13202": [
+43.04793,
+-76.15292
+],
+"353 Court St, Rochester, NY 14607": [
+43.1521,
+-77.6039
+],
+"353 Harbor Dr, Duluth, MN 55802": [
+46.781,
+-92.1
+],
+"3545 S Las Vegas Blvd, Las Vegas, NV 89109": [
+36.11777,
+-115.17258
+],
+"3550 Providence Dr, Anchorage, AK 99508": [
+61.18806,
+-149.81222
+],
+"3600 Vanrick Dr, Kalamazoo, MI 49001": [
+42.26,
+-85.547
+],
+"3601 Pacific Ave, Stockton, CA 95211": [
+37.98,
+-121.311
+],
+"3601 S Broad St, Philadelphia, PA 19148": [
+39.9011,
+-75.17202
+],
+"3601 Thomas Rd, Baton Rouge, LA 70807": [
+30.556,
+-91.11
+],
+"3605 Garden Dr, Lehi, UT 84048": [
+40.4313,
+-111.9026
+],
+"361 Symphony Park Ave, Las Vegas, NV 89106": [
+36.16861,
+-115.15222
+],
+"3640 Colonel Glenn Hwy, Dayton, OH 45435": [
+39.78,
+-84.059
+],
+"3649 Mission Inn Ave, Riverside, CA 92501": [
+33.9825,
+-117.374
+],
+"3675 Arboretum Dr, Chaska, MN 55318": [
+44.86163,
+-93.61518
+],
+"37 John St, Charleston, SC 29403": [
+32.788,
+-79.937
+],
+"3701 S 10th St, Omaha, NE 68107": [
+41.226,
+-95.928
+],
+"3711 Ingersoll Ave, Des Moines, IA 50312": [
+41.586,
+-93.672
+],
+"375 E Exchange St, Akron, OH 44304": [
+41.072,
+-81.508
+],
+"375 E Red Hills Pkwy, St. George, UT 84770": [
+37.11411,
+-113.57511
+],
+"3777 Nolensville Pike, Nashville, TN 37211": [
+36.0885,
+-86.7422
+],
+"3780 S Las Vegas Blvd, Las Vegas, NV 89158": [
+36.10352,
+-115.17359
+],
+"3799 S Las Vegas Blvd, Las Vegas, NV 89109": [
+36.10288,
+-115.16956
+],
+"380 S Lamar St, Jackson, MS 39201": [
+32.297,
+-90.186
+],
+"3825 Lake Austin Blvd, Austin, TX 78703": [
+30.29523,
+-97.78438
+],
+"39 E State St, Columbus, OH 43215": [
+39.95988,
+-82.99894
+],
+"3900 N Garden Dr, Lehi, UT 84048": [
+40.4313,
+-111.9026
+],
+"3900 Wildlife Way, Cleveland, OH 44109": [
+41.447,
+-81.712
+],
+"3903 N St Mary's St, San Antonio, TX 78212": [
+29.46379,
+-98.47242
+],
+"3939 N Drinkwater Blvd, Scottsdale, AZ 85251": [
+33.49314,
+-111.92077
+],
+"3945 Museum Dr, Tallahassee, FL 32310": [
+30.4089,
+-84.3523
+],
+"3950 W Campus Dr, Ogden, UT 84408": [
+41.192,
+-111.944
+],
+"399 McCallie Ave, Chattanooga, TN 37402": [
+35.047,
+-85.304
+],
+"4 Central Ave, Lancaster, NY 14086": [
+42.9006,
+-78.6703
+],
+"4 PPG Place, Pittsburgh, PA 15222": [
+40.439764,
+-80.003172
+],
+"4 Pennsylvania Plaza, New York, NY 10001": [
+40.75051,
+-73.99352
+],
+"40 Coal St, Wilkes-Barre, PA 18702": [
+41.24055,
+-75.8709
+],
+"40 Nassau St, Princeton, NJ 08542": [
+40.350111,
+-74.661528
+],
+"400 Oriskany St W, Utica, NY 13502": [
+43.103,
+-75.235
+],
+"400 W Church St, Orlando, FL 32801": [
+28.5392,
+-81.38397
+],
+"400 W Kilbourn Ave, Milwaukee, WI 53203": [
+43.04222,
+-87.91694
+],
+"400 Wall St, Key West, FL 33040": [
+24.56,
+-81.807
+],
+"4000 Parnell Ave, Fort Wayne, IN 46805": [
+41.112,
+-85.124
+],
+"4001 N 23rd St, McAllen, TX 78504": [
+26.238,
+-98.234
+],
+"4001 SW Canyon Rd, Portland, OR 97221": [
+45.505,
+-122.70883
+],
+"401 2nd St NW, Albuquerque, NM 87102": [
+35.088,
+-106.6505
+],
+"401 Channelside Dr, Tampa, FL 33602": [
+27.9427,
+-82.45189
+],
+"401 Chapel Dr, Durham, NC 27708": [
+36.0019,
+-78.94
+],
+"401 Chicago Ave, Minneapolis, MN 55415": [
+44.974,
+-93.258
+],
+"401 Franklin St, Houston, TX 77201": [
+29.76622,
+-95.365
+],
+"401 Garasches Ln, Wilmington, DE 19801": [
+39.729,
+-75.56
+],
+"401 Harrison St, Syracuse, NY 13202": [
+43.04472,
+-76.14674
+],
+"401 N 27th St, Billings, MT 59101": [
+45.788,
+-108.507
+],
+"401 Pine St, Seattle, WA 98101": [
+47.61111,
+-122.33694
+],
+"401 W Gonzalez St, Pensacola, FL 32501": [
+30.42323,
+-87.2231
+],
+"405 Pine St, Burlington, VT 05401": [
+44.46828,
+-73.21517
+],
+"407 N Virginia St, Reno, NV 89501": [
+39.531,
+-119.815
+],
+"409 Blackwell St, Durham, NC 27701": [
+35.99169,
+-78.90419
+],
+"409 S 16th St, Omaha, NE 68102": [
+41.2557,
+-95.9375
+],
+"4100 Dripping Springs Rd, Las Cruces, NM 88011": [
+32.302,
+-106.724
+],
+"411 Woody Hayes Dr, Columbus, OH 43210": [
+40.00163,
+-83.01971
+],
+"413 20th St, Galveston, TX 77550": [
+29.30565,
+-94.79033
+],
+"413 S 8th St, Springfield, IL 62701": [
+39.797,
+-89.645
+],
+"4150 Yancey Rd, Charlotte, NC 28217": [
+35.177,
+-80.877
+],
+"417 W Magnolia St, Fort Collins, CO 80521": [
+40.584,
+-105.082
+],
+"419 Shoreline Village Dr, Long Beach, CA 90802": [
+33.761,
+-118.191
+],
+"420 Anderson St, Durham, NC 27705": [
+36.002,
+-78.932
+],
+"420 N Washington Ave, Scranton, PA 18503": [
+41.41099,
+-75.66019
+],
+"421 W 27th St, Winston-Salem, NC 27105": [
+36.126,
+-80.256
+],
+"423 N Main St, Tulsa, OK 74103": [
+36.1594,
+-95.9936
+],
+"4255 23rd Ave S, Fargo, ND 58104": [
+46.839,
+-96.859
+],
+"426 W Markham St, Little Rock, AR 72201": [
+34.749,
+-92.274
+],
+"430 W Vine St, Lexington, KY 40507": [
+38.048,
+-84.499
+],
+"4320 Hampton Blvd, Norfolk, VA 23529": [
+36.887,
+-76.305
+],
+"4344 Shaw Blvd, St. Louis, MO 63110": [
+38.6141,
+-90.2589
+],
+"435 Ionia Ave SW, Grand Rapids, MI 49503": [
+42.953,
+-85.669
+],
+"4390 Harrison Blvd, Ogden, UT 84403": [
+41.185,
+-111.954
+],
+"44 Ochre Point Ave, Newport, RI 02840": [
+41.47,
+-71.299
+],
+"44 Prime St, Buffalo, NY 14202": [
+42.8772,
+-78.8786
+],
+"4400 Vestal Pkwy E, Vestal, NY 13850": [
+42.0889,
+-75.969
+],
+"444 N Mt Rushmore Rd, Rapid City, SD 57701": [
+44.085,
+-103.229
+],
+"445 N Park Ave, Winter Park, FL 32789": [
+28.60081,
+-81.3513
+],
+"445 S Magnolia Ave, Orlando, FL 32801": [
+28.53803,
+-81.37819
+],
+"450 SW Powerhouse Dr, Bend, OR 97702": [
+44.045,
+-121.315
+],
+"4505 S Maryland Pkwy, Las Vegas, NV 89154": [
+36.103,
+-115.1398
+],
+"451 S 1400 E, Salt Lake City, UT 84112": [
+40.75997,
+-111.84885
+],
+"455 N 10th St, Omaha, NE 68102": [
+41.263,
+-95.928
+],
+"455 N Galvin Pkwy, Phoenix, AZ 85008": [
+33.44965,
+-111.95156
+],
+"456 Congress St, Portland, ME 04101": [
+43.657342,
+-70.258924
+],
+"4560 Essen Ln, Baton Rouge, LA 70809": [
+30.411,
+-91.105
+],
+"4645 Heatherdowns Blvd, Toledo, OH 43614": [
+41.609,
+-83.621
+],
+"4700 Grand Ave, Des Moines, IA 50312": [
+41.583889,
+-93.681667
+],
+"4706 Mt. Rubidoux Dr, Riverside, CA 92501": [
+33.9836,
+-117.3906
+],
+"4731 O'Malley Rd, Anchorage, AK 99507": [
+61.1248,
+-149.79213
+],
+"4732 Millhopper Rd, Gainesville, FL 32653": [
+29.7069,
+-82.3943
+],
+"4747 Bob Wallace Ave SW, Huntsville, AL 35805": [
+34.71278,
+-86.63292
+],
+"480 E Broad St, Columbus, OH 43215": [
+39.97036,
+-82.99881
+],
+"4801 La Crosse Ave, Austin, TX 78739": [
+30.18567,
+-97.8734
+],
+"4802 N Broadway, Chicago, IL 60640": [
+41.96918,
+-87.65989
+],
+"4850 W Powell Rd, Powell, OH 43065": [
+40.15627,
+-83.1184
+],
+"49 Fourth St, Troy, NY 12180": [
+42.7316,
+-73.6909
+],
+"4900 Marie P DeBartolo Way, Santa Clara, CA 95054": [
+37.403,
+-121.97
+],
+"4916 Carpinteria Ave, Carpinteria, CA 93013": [
+34.39959,
+-119.51896
+],
+"4949 Cherry St, Kansas City, MO 64110": [
+39.03674,
+-94.57941
+],
+"495 W Dickson St, Fayetteville, AR 72701": [
+36.066,
+-94.166
+],
+"499 Deacon Blvd, Winston-Salem, NC 27105": [
+36.13,
+-80.255
+],
+"4th St & Howard St, San Francisco, CA 94103": [
+37.784,
+-122.402
+],
+"50 Church St, Hartford, CT 06103": [
+41.768,
+-72.675
+],
+"50 Foster St, Worcester, MA 01608": [
+42.266,
+-71.799
+],
+"50 Franklin St, Clarksville, TN 37040": [
+36.529,
+-87.359
+],
+"50 W North Temple, Salt Lake City, UT 84150": [
+40.77056,
+-111.8925
+],
+"50 W Washington St, Chicago, IL 60602": [
+41.88409,
+-87.6302
+],
+"500 Chestnut St, St. Louis, MO 63101": [
+38.62609,
+-90.191
+],
+"500 David J Stern Walk, Sacramento, CA 95814": [
+38.58036,
+-121.49961
+],
+"500 E Waterman St, Wichita, KS 67202": [
+37.683,
+-97.332
+],
+"500 Howard Baker Jr Ave, Knoxville, TN 37915": [
+35.961,
+-83.914
+],
+"500 Jefferson Ave, Toledo, OH 43604": [
+41.651,
+-83.537
+],
+"500 Niños Dr, Santa Barbara, CA 93103": [
+34.41943,
+-119.66824
+],
+"500 S Capitol Ave, Indianapolis, IN 46225": [
+39.76006,
+-86.16381
+],
+"500 S Franklin St, Syracuse, NY 13202": [
+43.04708,
+-76.15536
+],
+"500 S Greenlawn Ave, South Bend, IN 46615": [
+41.667,
+-86.228
+],
+"501 Broadway, Nashville, TN 37203": [
+36.1555,
+-86.7738
+],
+"501 Crawford St, Houston, TX 77002": [
+29.75723,
+-95.35523
+],
+"501 E 38th St, Erie, PA 16546": [
+42.106,
+-80.051
+],
+"501 E 9th St, Little Rock, AR 72202": [
+34.741,
+-92.265
+],
+"501 Light St, Baltimore, MD 21230": [
+39.282737,
+-76.61223
+],
+"501 N 3rd St, Harrisburg, PA 17120": [
+40.2645,
+-76.8835
+],
+"501 Napoleon Ave, New Orleans, LA 70115": [
+29.91714,
+-90.10098
+],
+"501 Texas Ave, Houston, TX 77002": [
+29.7626,
+-95.36675
+],
+"501 West Main Street, Louisville, KY 40202": [
+38.25731,
+-85.75881
+],
+"505 Deaderick St, Nashville, TN 37243": [
+36.1649,
+-86.7817
+],
+"505 Euclid Ave, Akron, OH 44307": [
+41.076172,
+-81.541191
+],
+"507 N Howard St, Spokane, WA 99201": [
+47.661,
+-117.421
+],
+"51 Park Pl, Newark, NJ 07102": [
+40.73972,
+-74.16917
+],
+"51 S Pearl St, Albany, NY 12207": [
+42.6486,
+-73.7546
+],
+"511 10th St NW, Washington, DC 20004": [
+38.89635,
+-77.02587
+],
+"511 Ave K, Lubbock, TX 79401": [
+33.59063,
+-101.84761
+],
+"511 S 8th St, Waco, TX 76706": [
+31.552,
+-97.139
+],
+"5115 Hampton Blvd, Norfolk, VA 23529": [
+36.888,
+-76.307
+],
+"513 13th St NW, Washington, DC 20004": [
+38.89637,
+-77.02952
+],
+"515 Montgomery St, Syracuse, NY 13202": [
+43.04488,
+-76.14822
+],
+"5150 Game Preserve Rd, Schnecksville, PA 18078": [
+40.65756,
+-75.62671
+],
+"520 Texas Ave, Houston, TX 77002": [
+29.76243,
+-95.36719
+],
+"520 Vine St, Cincinnati, OH 45202": [
+39.10161,
+-84.5125
+],
+"5225 31st Ave S, Fargo, ND 58104": [
+46.835557,
+-96.875557
+],
+"5225 N Nevada Ave, Colorado Springs, CO 80918": [
+38.895,
+-104.805
+],
+"524 Wick Ave, Youngstown, OH 44502": [
+41.11,
+-80.648
+],
+"525 Commerce St, Fort Worth, TX 76102": [
+32.75492,
+-97.33001
+],
+"525 E 6th St, Austin, TX 78701": [
+30.26631,
+-97.73747
+],
+"525 S State St, Ann Arbor, MI 48109": [
+42.2754,
+-83.74
+],
+"525 W Santa Clara St, San Jose, CA 95113": [
+37.33278,
+-121.90111
+],
+"5333 Zoo Dr, Los Angeles, CA 90027": [
+34.14736,
+-118.2844
+],
+"538 N Palm Canyon Dr, Palm Springs, CA 92262": [
+33.83,
+-116.547
+],
+"539 Washington St, Boston, MA 02111": [
+42.3542,
+-71.0627
+],
+"5400 N Pearl St, Tacoma, WA 98407": [
+47.305,
+-122.517
+],
+"545 3rd St, Ithaca, NY 14850": [
+42.4518,
+-76.5048
+],
+"547 E Circle Dr, East Lansing, MI 48824": [
+42.733,
+-84.477
+],
+"548 Bellevue Ave, Newport, RI 02840": [
+41.46528,
+-71.30556
+],
+"55 Music Concourse Dr, San Francisco, CA 94118": [
+37.7701,
+-122.46641
+],
+"550 Atlantic Ave, Virginia Beach, VA 23451": [
+36.846,
+-75.976
+],
+"550 S Tryon St, Charlotte, NC 28202": [
+35.224022,
+-80.848133
+],
+"5500 Phinney Ave N, Seattle, WA 98103": [
+47.66834,
+-122.34984
+],
+"553 S King St, Honolulu, HI 96813": [
+21.304,
+-157.857
+],
+"555 Borror Dr, Columbus, OH 43210": [
+40.00751,
+-83.0251
+],
+"555 Elm Ave, Norman, OK 73019": [
+35.21,
+-97.446
+],
+"555 Elm St, Manchester, NH 03101": [
+42.982,
+-71.465
+],
+"555 Funston Pl, San Antonio, TX 78209": [
+29.45771,
+-98.45954
+],
+"5555 Concord Pkwy S, Concord, NC 28027": [
+35.3519,
+-80.6828
+],
+"5610 Lake Ridge Pkwy, Grand Prairie, TX 75052": [
+32.63756,
+-97.04621
+],
+"565 Broadway, Tacoma, WA 98402": [
+47.261,
+-122.44
+],
+"5700 S DuSable Lake Shore Dr, Chicago, IL 60637": [
+41.79118,
+-87.57998
+],
+"5701 Gulf Breeze Pkwy, Gulf Breeze, FL 32563": [
+30.39964,
+-86.98368
+],
+"575 E University Pkwy, Orem, UT 84097": [
+40.275,
+-111.67917
+],
+"5833 Pelican Bay Blvd, Naples, FL 34108": [
+26.214,
+-81.808
+],
+"596 Bellevue Ave, Newport, RI 02840": [
+41.46208,
+-71.30561
+],
+"59800 S Hwy 97, Bend, OR 97702": [
+43.9659,
+-121.3428
+],
+"5th Ave & 3rd St, Brooklyn, NY 11215": [
+40.6727,
+-73.9848
+],
+"6 N Laurel St, Richmond, VA 23220": [
+37.54621,
+-77.45205
+],
+"60 Cadillac Square, Detroit, MI 48226": [
+42.3315,
+-83.04329
+],
+"60 Gibbs St, Rochester, NY 14604": [
+43.1574,
+-77.6013
+],
+"600 2nd Ave NE, St. Petersburg, FL 33701": [
+27.774,
+-82.625
+],
+"600 E Grace St, Richmond, VA 23219": [
+37.54151,
+-77.43679
+],
+"600 E Grand Ave, Chicago, IL 60611": [
+41.89239,
+-87.61063
+],
+"600 Museum Way, Bentonville, AR 72712": [
+36.3825,
+-94.20361
+],
+"600 N 1st Ave, Minneapolis, MN 55403": [
+44.97944,
+-93.27611
+],
+"600 N Ashley Dr, Tampa, FL 33602": [
+27.94896,
+-82.46224
+],
+"600 Opry Mills Dr, Nashville, TN 37214": [
+36.21019,
+-86.69529
+],
+"600 Penn Ave, Pittsburgh, PA 15222": [
+40.44273,
+-80.00176
+],
+"600 S Main St, Winston-Salem, NC 27101": [
+36.087,
+-80.242
+],
+"600 Sunset Dr, McAllen, TX 78503": [
+26.182,
+-98.234
+],
+"600 W Kagy Blvd, Bozeman, MT 59717": [
+45.66,
+-111.046
+],
+"600 ʻImiloa Pl, Hilo, HI 96720": [
+19.702,
+-155.089
+],
+"601 Biscayne Blvd, Miami, FL 33132": [
+25.78139,
+-80.18806
+],
+"601 F St NW, Washington, DC 20004": [
+38.8984,
+-77.02162
+],
+"601 Morris St, Charleston, WV 25301": [
+38.349028,
+-81.625111
+],
+"601 S College Rd, Wilmington, NC 28403": [
+34.224,
+-77.87
+],
+"601 S Main St, Greenville, SC 29601": [
+34.8443,
+-82.4011
+],
+"601 W Dayton St, Madison, WI 53715": [
+43.07,
+-89.397
+],
+"601 Webster Ave, Waco, TX 76706": [
+31.552,
+-97.129
+],
+"603 E Liberty St, Ann Arbor, MI 48104": [
+42.27944,
+-83.7421
+],
+"604 S Gay St, Knoxville, TN 37902": [
+35.965,
+-83.918
+],
+"6067 Wilshire Blvd, Los Angeles, CA 90036": [
+34.06382,
+-118.36083
+],
+"608 Dry Creek Rd, Waco, TX 76705": [
+31.66664,
+-97.15315
+],
+"61 Atlantic St, Stamford, CT 06901": [
+41.054,
+-73.539
+],
+"6100 Airport Blvd, Austin, TX 78752": [
+30.30099,
+-97.71416
+],
+"6161 Delmar Blvd, St. Louis, MO 63112": [
+38.6556,
+-90.2979
+],
+"617 13th St S, Birmingham, AL 35233": [
+33.5017,
+-86.8063
+],
+"62 S 2nd St, San Jose, CA 95113": [
+37.33552,
+-121.88852
+],
+"6200 Hermann Park Dr, Houston, TX 77030": [
+29.71333,
+-95.39159
+],
+"621 W 6th Ave, Anchorage, AK 99501": [
+61.217,
+-149.894
+],
+"6220 Old Lagrange Rd, Crestwood, KY 40014": [
+38.34169,
+-85.46569
+],
+"625 C St, Anchorage, AK 99501": [
+61.216,
+-149.885
+],
+"6251 E Pacific Coast Hwy, Long Beach, CA 90803": [
+33.756,
+-118.113
+],
+"6259 N College Ave, Indianapolis, IN 46220": [
+39.86921,
+-86.14574
+],
+"63 Lincoln Ave, Santa Fe, NM 87501": [
+35.687,
+-105.938
+],
+"631 Main St, Rapid City, SD 57701": [
+44.081,
+-103.229
+],
+"635 SW Gage Blvd, Topeka, KS 66606": [
+39.051,
+-95.729
+],
+"6351 S 900 E, Murray, UT": [
+40.63417,
+-111.86167
+],
+"64 Sleeper St, Boston, MA 02210": [
+42.35287,
+-71.0488
+],
+"640 N Riverside Dr, Clarksville, TN 37040": [
+36.531,
+-87.363
+],
+"645 E 1st St, Bethlehem, PA 18015": [
+40.61407,
+-75.36754
+],
+"650 N Academy St, Greenville, SC 29601": [
+34.855,
+-82.3915
+],
+"650 N Seneca St, Wichita, KS 67203": [
+37.693,
+-97.35
+],
+"650 Walnut St, Cincinnati, OH 45202": [
+39.10356,
+-84.51177
+],
+"6510 Western Trail NW, Albuquerque, NM 87120": [
+35.13583,
+-106.76194
+],
+"657 East Ave, Rochester, NY 14607": [
+43.1527,
+-77.5894
+],
+"66 4-H Rd, Springfield, IL 62563": [
+39.83611,
+-89.64803
+],
+"660 Peachtree St NE, Atlanta, GA 30308": [
+33.7725,
+-84.38556
+],
+"6625 Riverside Dr, Dublin, OH 43017": [
+40.10252,
+-83.11119
+],
+"668 Harbor Blvd, Ventura, CA 93001": [
+34.274,
+-119.29
+],
+"6701 San Jose Dr, San Antonio, TX 78214": [
+29.36035,
+-98.47889
+],
+"680 Bellevue Ave, Newport, RI 02840": [
+41.45455,
+-71.30449
+],
+"6903 Great View Dr N, Memphis, TN 38134": [
+35.1388,
+-89.8325
+],
+"6947 Riverview Rd, Peninsula, OH 44264": [
+41.263,
+-81.559
+],
+"6th Ave & W 42nd St, New York, NY 10018": [
+40.75451,
+-73.98421
+],
+"7 Congress Square, Portland, ME 04101": [
+43.65389,
+-70.26259
+],
+"7 Hope Blvd, Galveston, TX 77554": [
+29.273,
+-94.853
+],
+"7 S Calvert St, Baltimore, MD 21202": [
+39.2891,
+-76.61198
+],
+"7 Victory Ave, New Orleans, LA 70124": [
+29.9874,
+-90.0985
+],
+"70 Tower Pkwy, New Haven, CT 06511": [
+41.3125,
+-72.93
+],
+"700 Convention Center Blvd, McAllen, TX 78501": [
+26.216,
+-98.238
+],
+"700 Monroe St SW, Huntsville, AL 35801": [
+34.726,
+-86.592
+],
+"700 N Calvert St, Baltimore, MD 21202": [
+39.297989,
+-76.613235
+],
+"700 Penn St, Reading, PA 19602": [
+40.336,
+-75.92
+],
+"700 Railroad St, Duluth, MN 55802": [
+46.779,
+-92.105
+],
+"700 Union St, Seattle, WA 98101": [
+47.61083,
+-122.33242
+],
+"700 West C St, Kannapolis, NC 28081": [
+35.495,
+-80.629
+],
+"700 block of W. 34th Street, Hampden | baltimore": [
+39.32889,
+-76.62871
+],
+"701 Hamilton St, Allentown, PA 18101": [
+40.602,
+-75.471
+],
+"701 Henley St, Knoxville, TN 37902": [
+35.96119,
+-83.9225
+],
+"701 N Amidon St, Wichita, KS 67203": [
+37.6997,
+-97.3616
+],
+"701 SW 6th Ave, Portland, OR 97204": [
+45.5189,
+-122.679
+],
+"701 Silver Creek Rd NE, Rochester, MN 55906": [
+44.031,
+-92.432
+],
+"701 W Riverside Dr, Austin, TX 78704": [
+30.26026,
+-97.75124
+],
+"7010 N 58th Ave, Glendale, AZ 85301": [
+33.53936,
+-112.1844
+],
+"704 Camino Lejo, Santa Fe, NM 87505": [
+35.66275,
+-105.92958
+],
+"704 First Avenue North, Fargo, ND 58102": [
+46.876832,
+-96.792185
+],
+"707 NE 8th St, Fort Lauderdale, FL 33304": [
+26.132,
+-80.137
+],
+"708 N 1st St, Minneapolis, MN 55401": [
+44.98981,
+-93.27505
+],
+"71 Public Sq, Wilkes-Barre, PA 18701": [
+41.24537,
+-75.88189
+],
+"710 Main St, Buffalo, NY 14202": [
+42.8925,
+-78.8722
+],
+"710 S Lions Park Dr, Cheyenne, WY 82001": [
+41.153,
+-104.83
+],
+"710 Williamson Rd NE, Roanoke, VA 24016": [
+37.285,
+-79.937
+],
+"711 Horseshoe Blvd, Bossier City, LA 71111": [
+32.5153,
+-93.7375
+],
+"711 N Franklin St, Tampa, FL 33602": [
+27.95038,
+-82.45881
+],
+"715 Riverside Ave, Jacksonville, FL 32204": [
+30.3164,
+-81.67576
+],
+"718 N Grand Blvd, St. Louis, MO 63103": [
+38.64012,
+-90.23004
+],
+"720 E 4th St, Chattanooga, TN 37403": [
+35.050382,
+-85.30091
+],
+"720 W Mallon Ave, Spokane, WA 99201": [
+47.665,
+-117.424
+],
+"726 St Peter St, New Orleans, LA 70116": [
+29.95832,
+-90.0654
+],
+"726 W 34th St, Baltimore, MD 21211": [
+39.32889,
+-76.62871
+],
+"7260 NW 87th St, Kansas City, MO 64153": [
+39.25148,
+-94.66499
+],
+"730 3rd St, Des Moines, IA 50309": [
+41.592,
+-93.621
+],
+"7301 E Indian Bend Rd, Scottsdale, AZ 85250": [
+33.5368,
+-111.92328
+],
+"731 Brent Street, Louisville, KY 40204": [
+38.2431,
+-85.73443
+],
+"737 N Main St, Rockford, IL 61103": [
+42.28,
+-89.092
+],
+"7370 Baker St, Pittsburgh, PA 15206": [
+40.48319,
+-79.921357
+],
+"75 1st St N, Jacksonville Beach, FL 32250": [
+30.29056,
+-81.38954
+],
+"75 Coxe Ave, Asheville, NC 28801": [
+35.59222,
+-82.55507
+],
+"75 Woodbury Blvd, Rochester, NY 14607": [
+43.1513,
+-77.602
+],
+"750 Cherry Rd, Memphis, TN 38117": [
+35.11083,
+-89.9175
+],
+"750 Howard St, San Francisco, CA 94103": [
+37.784,
+-122.402
+],
+"750 University Ave, Madison, WI 53706": [
+43.074,
+-89.4
+],
+"750 W St, Sacramento, CA 95818": [
+38.56668,
+-121.5031
+],
+"7574 Columbiana-Canfield Rd, Canfield, OH 44406": [
+41.087,
+-80.676
+],
+"7575 E Princess Dr, Scottsdale, AZ 85255": [
+33.646,
+-111.91717
+],
+"76 Biltmore Ave, Asheville, NC 28801": [
+35.59234,
+-82.55087
+],
+"7600 Rebsamen Park Rd, Little Rock, AR 72207": [
+34.7914,
+-92.3578
+],
+"777 E Princeton St, Orlando, FL 32803": [
+28.5724,
+-81.3681
+],
+"777 NW Riverside Blvd, Bend, OR 97703": [
+44.056,
+-121.319
+],
+"777 Ward Ave, Honolulu, HI 96814": [
+21.2995,
+-157.851
+],
+"7791 Penzance Blvd, Fort Myers, FL 33912": [
+26.5705,
+-81.8263
+],
+"7900 SW 40th St, Miami, FL 33155": [
+25.732,
+-80.323
+],
+"796 W 13th Ave, Eugene, OR 97402": [
+44.044,
+-123.108
+],
+"80 Hanover St, Manchester, NH 03101": [
+42.991,
+-71.462
+],
+"80 Sculptors Way, Hamilton, NJ 08619": [
+40.237222,
+-74.716667
+],
+"800 Battery Ave SE, Atlanta, GA 30339": [
+33.89041,
+-84.46983
+],
+"800 Lakeshore Dr, Homewood, AL 35229": [
+33.465,
+-86.7905
+],
+"800 Smith St, Charleston, WV 25301": [
+38.354,
+-81.639
+],
+"800 Town and Country Blvd, Houston, TX 77024": [
+29.78021,
+-95.56031
+],
+"800 W Olympic Blvd, Los Angeles, CA 90015": [
+34.0447,
+-118.26461
+],
+"800 Woodward Ave, Detroit, MI 48226": [
+42.33155,
+-83.04684
+],
+"8003 Regency Parkway, Cary, NC 27518": [
+35.72874,
+-78.79574
+],
+"801 Greenwich Ave, Warwick, RI 02886": [
+41.71495,
+-71.46768
+],
+"801 Lincoln St, Columbia, SC 29201": [
+33.994,
+-81.04
+],
+"809 French St, Erie, PA 16501": [
+42.126,
+-80.083
+],
+"81 Hamilton Ave, Trenton, NJ 08611": [
+40.2093,
+-74.7618
+],
+"812 E Rollins St, Orlando, FL 32803": [
+28.57285,
+-81.36655
+],
+"815 E Olive Ave, Fresno, CA 93728": [
+36.7577,
+-119.798
+],
+"818 S 2nd St, Minneapolis, MN 55415": [
+44.97823,
+-93.25552
+],
+"820 Armed Forces Dr, Green Bay, WI 54304": [
+44.505,
+-88.058
+],
+"820 Clyde Fant Pkwy, Shreveport, LA 71101": [
+32.515,
+-93.745
+],
+"820 E Genesee St, Syracuse, NY 13210": [
+43.04658,
+-76.13823
+],
+"825 Walnut St, Philadelphia, PA 19107": [
+39.94852,
+-75.15546
+],
+"827 W Main St, Boise, ID 83702": [
+43.6145,
+-116.203
+],
+"829 West Main Street, Louisville, KY 40202": [
+38.25773,
+-85.76452
+],
+"83 King St, St. Augustine, FL 32084": [
+29.8916,
+-81.31514
+],
+"833 E Fern Ave, Fresno, CA 93728": [
+36.7653,
+-119.8073
+],
+"835 NW Wall St, Bend, OR 97703": [
+44.058,
+-121.314
+],
+"8450 W 10 Mile Rd, Royal Oak, MI 48067": [
+42.47678,
+-83.15076
+],
+"849 W Harbor Dr, San Diego, CA 92101": [
+32.71139,
+-117.17051
+],
+"85 Pike St, Seattle, WA 98101": [
+47.60909,
+-122.34217
+],
+"850 Bayview Ave, Biloxi, MS 39530": [
+30.401,
+-88.896
+],
+"850 W Front St, Boise, ID 83702": [
+43.614593,
+-116.207218
+],
+"8525 Garland Rd, Dallas, TX 75218": [
+32.82311,
+-96.71734
+],
+"8545 S Staples St, Corpus Christi, TX 78413": [
+27.65253,
+-97.40686
+],
+"858 N Broad St, Philadelphia, PA 19130": [
+39.96951,
+-75.15997
+],
+"8600 University Blvd, Evansville, IN 47712": [
+37.964,
+-87.675
+],
+"868 4th Ave, San Diego, CA 92101": [
+32.71428,
+-117.16117
+],
+"871 Riverland Dr, Charleston, SC 29412": [
+32.735,
+-79.984
+],
+"874 SE 4th St, Gainesville, FL 32601": [
+29.644,
+-82.32
+],
+"875 Beach Blvd, Biloxi, MS 39530": [
+30.392,
+-88.895
+],
+"88 Plum St, Beavercreek, OH 45440": [
+39.696,
+-84.095
+],
+"8840 NE Skidmore St, Portland, OR 97220": [
+45.5533,
+-122.5734
+],
+"8901 N Kings Hwy, Myrtle Beach, SC 29572": [
+33.755,
+-78.802
+],
+"899 Manchester St, Lexington, KY 40508": [
+38.053,
+-84.518
+],
+"90 Carlton St, Athens, GA 30602": [
+33.942,
+-83.37
+],
+"900 Baseline Rd, Boulder, CO 80302": [
+39.999,
+-105.281
+],
+"900 N Plankinton Ave, Milwaukee, WI 53203": [
+43.04224,
+-87.91371
+],
+"901 Broadway, Tacoma, WA 98402": [
+47.255,
+-122.439
+],
+"901 W Pratt St, Baltimore, MD 21223": [
+39.28542,
+-76.63259
+],
+"901 W Sprague Ave, Spokane, WA 99201": [
+47.65694,
+-117.42528
+],
+"901 Wharf St SW, Washington, DC 20024": [
+38.88009,
+-77.02611
+],
+"907 Whitehead St, Key West, FL 33040": [
+24.551,
+-81.801
+],
+"909 1st Ave, Dallas, TX 75210": [
+32.78043,
+-96.76578
+],
+"913 E Franklin Ave, Minneapolis, MN 55404": [
+44.96237,
+-93.26075
+],
+"920 S Concert Pl, Tucson, AZ 85716": [
+32.2105,
+-110.9213
+],
+"9201 Circuit of the Americas Blvd, Austin, TX 78617": [
+30.13564,
+-97.64404
+],
+"924 Austin Ave, Ste 150, Waco, TX 76701": [
+31.55264,
+-97.13581
+],
+"930 Front St, Sacramento, CA 95814": [
+38.58472,
+-121.50444
+],
+"933 Market St, Tacoma, WA 98402": [
+47.256,
+-122.441
+],
+"9400 Dufferin Ave, Riverside, CA 92504": [
+33.8968,
+-117.429
+],
+"9603 Deereco Rd, Timonium, MD 21093": [
+39.453356,
+-76.641151
+],
+"962 Mt Adams Cir, Cincinnati, OH 45202": [
+39.11123,
+-84.49774
+],
+"97 Spear St, Burlington, VT 05405": [
+44.47177,
+-73.19344
+],
+"9777 Golf Links Rd, Oakland, CA 94605": [
+37.7509,
+-122.1467
+],
+"99 Trinity St, Hartford, CT 06103": [
+41.764,
+-72.6795
+],
+"999 Anastasia Blvd, St. Augustine, FL 32080": [
+29.88189,
+-81.28859
+],
+"A Carousel for Missoula | missoula": [
+46.87,
+-113.998
+],
+"A1A & Las Olas Blvd, Fort Lauderdale, FL 33316": [
+26.12,
+-80.104
+],
+"ABQ BioPark Botanic Garden | albuquerque": [
+35.0957,
+-106.68
+],
+"ACL Live at The Moody Theater | austin": [
+30.2655,
+-97.7476
+],
+"Abravanel Hall | salt-lake-city": [
+40.7685,
+-111.895
+],
+"Academy Museum of Motion Pictures | los-angeles": [
+34.06382,
+-118.36083
+],
+"Acme Comedy Company | minneapolis": [
+44.98981,
+-93.27505
+],
+"Acrisure Stadium | pittsburgh": [
+40.44673,
+-80.01582
+],
+"Actors Theatre of Louisville (Pamela Brown Auditorium) | louisville": [
+38.25639,
+-85.75552
+],
+"Adirondack Bank Center | utica": [
+43.103,
+-75.235
+],
+"Adventist Health Arena | stockton": [
+37.955,
+-121.293
+],
+"Akins Ford Arena at the Classic Center | athens": [
+33.96,
+-83.374
+],
+"Akron Civic Theatre | akron": [
+41.081,
+-81.519
+],
+"Akron Zoo | akron": [
+41.076172,
+-81.541191
+],
+"Al Lang Stadium parking lot | st-petersburg": [
+27.768,
+-82.633
+],
+"Alabama Shakespeare Festival | montgomery": [
+32.351,
+-86.212
+],
+"Alabama Square | pensacola": [
+30.42323,
+-87.2231
+],
+"Alaska Airlines Center | anchorage": [
+61.18806,
+-149.81222
+],
+"Alaska Zoo | anchorage": [
+61.1248,
+-149.79213
+],
+"Alberta Bair Theater | billings": [
+45.78386,
+-108.50799
+],
+"Albuquerque Museum | albuquerque": [
+35.0965,
+-106.667
+],
+"Alex G. Spanos Center | stockton": [
+37.98,
+-121.311
+],
+"Alhambra Theatre & Dining | jacksonville": [
+30.28631,
+-81.5016
+],
+"Alico Arena | fort-myers": [
+26.4711,
+-81.7647
+],
+"Allegacy Federal Credit Union Stadium | winston-salem": [
+36.13,
+-80.255
+],
+"Allen County War Memorial Coliseum | fort-wayne": [
+41.112,
+-85.124
+],
+"Allen Theatre | cleveland": [
+41.50112,
+-81.68143
+],
+"Allentown Art Museum | allentown": [
+40.60431,
+-75.46807
+],
+"Alliance Theatre (Coca-Cola Stage) | atlanta": [
+33.78925,
+-84.38515
+],
+"Altria Theater | richmond": [
+37.54621,
+-77.45205
+],
+"Amaturo Theater at the Broward Center | fort-lauderdale": [
+26.119,
+-80.149
+],
+"American Airlines Center | dallas": [
+32.79049,
+-96.81028
+],
+"Amica Mutual Pavilion | providence": [
+41.82361,
+-71.41833
+],
+"Amon Carter Museum of American Art | fort-worth": [
+32.748,
+-97.369
+],
+"Anchorage Museum | anchorage": [
+61.216,
+-149.885
+],
+"Ann Arbor Comedy Showcase | ann-arbor": [
+42.28,
+-83.748
+],
+"Ann Arbor Farmers Market | ann-arbor": [
+42.28341,
+-83.74671
+],
+"Ann Arbor Hands-On Museum | ann-arbor": [
+42.28226,
+-83.74689
+],
+"Aquarium of the Pacific | long-beach": [
+33.762,
+-118.197
+],
+"Argenta Arts District, North Little Rock, AR 72114": [
+34.756,
+-92.27
+],
+"Argenta Music Complex | little-rock": [
+34.756,
+-92.27
+],
+"Argosy Cruises, Pier 55 | seattle": [
+47.60475,
+-122.33972
+],
+"Arkansas Museum of Fine Arts | little-rock": [
+34.741,
+-92.265
+],
+"Arlene Schnitzer Concert Hall | portland": [
+45.51712,
+-122.68148
+],
+"Arlington Music Hall | arlington": [
+32.738,
+-97.107
+],
+"Armory, Seattle Center | seattle": [
+47.62155,
+-122.35094
+],
+"Arms Park | manchester": [
+42.989,
+-71.468
+],
+"Aronoff Center – Jarson-Kaplan Theater | cincinnati": [
+39.10356,
+-84.51177
+],
+"Arthur Ave & Mulberry St, Scranton, PA 18510": [
+41.40139,
+-75.64278
+],
+"Artis—Naples | naples": [
+26.214,
+-81.808
+],
+"Asheville Yards | asheville": [
+35.59222,
+-82.55507
+],
+"Ashton Gardens at Thanksgiving Point | provo": [
+40.4313,
+-111.9026
+],
+"Atlanta Botanical Garden | atlanta": [
+33.78996,
+-84.3726
+],
+"Atlanta Symphony Hall | atlanta": [
+33.78925,
+-84.38515
+],
+"Atlantic Ave & 24th St, Virginia Beach, VA 23451": [
+36.85,
+-75.976
+],
+"Atlantic City Boardwalk | atlantic-city": [
+39.3585,
+-74.431
+],
+"Atwood Concert Hall | anchorage": [
+61.217,
+-149.894
+],
+"Au-Rene Theater at the Broward Center | fort-lauderdale": [
+26.119,
+-80.149
+],
+"Augusta Canal National Heritage Area | augusta": [
+33.479,
+-81.977
+],
+"Augusta Riverwalk | augusta": [
+33.478,
+-81.964
+],
+"Autzen Stadium | eugene": [
+44.0582,
+-123.0685
+],
+"B&O Railroad Museum | baltimore": [
+39.28542,
+-76.63259
+],
+"BCA Studios | burlington": [
+44.46828,
+-73.21517
+],
+"BREC’s Baton Rouge Zoo | baton-rouge": [
+30.556,
+-91.11
+],
+"BYU campus, Provo, UT 84602": [
+40.249,
+-111.651
+],
+"Balboa Theatre | san-diego": [
+32.71428,
+-117.16117
+],
+"Ball Arena | denver": [
+39.74861,
+-105.0075
+],
+"Baltimore Center Stage | baltimore": [
+39.297989,
+-76.613235
+],
+"Barbara B. Mann Performing Arts Hall | fort-myers": [
+26.552,
+-81.888
+],
+"Bartow Arena | birmingham": [
+33.5017,
+-86.8063
+],
+"Basilica of the Sacred Heart, Notre Dame, IN 46556": [
+41.703,
+-86.239
+],
+"Bass Concert Hall | austin": [
+30.28587,
+-97.73128
+],
+"Bass Performance Hall | fort-worth": [
+32.75492,
+-97.33001
+],
+"Bass Pro Shops at the Pyramid | memphis": [
+35.15597,
+-90.05191
+],
+"Baton Rouge, LA": [
+30.4515,
+-91.1871
+],
+"Baxter Arena | omaha": [
+41.2367,
+-96.013
+],
+"Bayfront Festival Park | duluth": [
+46.779,
+-92.105
+],
+"Bayou Music Center | houston": [
+29.76243,
+-95.36719
+],
+"Beau Rivage Theatre | biloxi": [
+30.392,
+-88.895
+],
+"Beeghly Center | youngstown": [
+41.106,
+-80.646
+],
+"Belk Theater | charlotte": [
+35.227147,
+-80.841463
+],
+"Bellevue Way NE between NE 4th St and NE 8th St, Bellevue, WA 98004": [
+47.61556,
+-122.20389
+],
+"Benchmark International Arena | tampa": [
+27.9427,
+-82.45189
+],
+"Benedum Center | pittsburgh": [
+40.44313,
+-79.99964
+],
+"Berglund Center | roanoke": [
+37.285,
+-79.937
+],
+"Berkley Riverfront Park, Kansas City, MO": [
+39.12033,
+-94.56625
+],
+"Bicentennial Park | louisville": [
+38.2857,
+-85.8232
+],
+"Bicentennial Park, New Albany, IN 47150": [
+38.2857,
+-85.8232
+],
+"Big Dam Bridge | little-rock": [
+34.7914,
+-92.3578
+],
+"Big Spring Park | huntsville": [
+34.729,
+-86.588
+],
+"Billy Bob's Texas | fort-worth": [
+32.79139,
+-97.34806
+],
+"Biloxi Visitors Center | biloxi": [
+30.394,
+-88.901
+],
+"Binghamton University Art Museum | binghamton": [
+42.0889,
+-75.969
+],
+"Birmingham Museum of Art | birmingham": [
+33.5221,
+-86.8099
+],
+"Blue Genie Art Bazaar | austin": [
+30.30099,
+-97.71416
+],
+"Blue Moon Saloon | lafayette": [
+30.2204,
+-92.0163
+],
+"Blue Note Hawaii | honolulu": [
+21.2785,
+-157.829
+],
+"Boardwalk, Atlantic City, NJ 08401": [
+39.3585,
+-74.431
+],
+"Bob & Sally Mooney Hall, Dominion Energy Center | richmond": [
+37.54151,
+-77.43679
+],
+"Bob Hope Theatre | stockton": [
+37.9525,
+-121.28667
+],
+"Boettcher Concert Hall | denver": [
+39.74444,
+-104.9975
+],
+"Boise Centre | boise": [
+43.614593,
+-116.207218
+],
+"Boise Little Theater | boise": [
+43.62,
+-116.197
+],
+"Bon Secours Wellness Arena | greenville": [
+34.855,
+-82.3915
+],
+"Borgata Event Center | atlantic-city": [
+39.378,
+-74.433
+],
+"Borgata Music Box | atlantic-city": [
+39.378,
+-74.433
+],
+"Boston Mill Visitor Center | akron": [
+41.263,
+-81.559
+],
+"Botanica, The Wichita Gardens | wichita": [
+37.6997,
+-97.3616
+],
+"Boulder Theater | boulder": [
+40.019,
+-105.278
+],
+"Bourbon Theatre | lincoln": [
+40.814,
+-96.702
+],
+"Bradley Symphony Center | milwaukee": [
+43.03917,
+-87.91361
+],
+"Branch Brook Park | newark": [
+40.76,
+-74.178
+],
+"Bridgestone Arena | nashville": [
+36.1555,
+-86.7738
+],
+"Broadway & Cache St, Jackson, WY 83001": [
+43.48,
+-110.762
+],
+"Broadway & Clinton Ave, Albany, NY 12207": [
+42.6545,
+-73.7487
+],
+"Broadway Theater | myrtle-beach": [
+33.715,
+-78.88
+],
+"Brown Theatre | louisville": [
+38.24639,
+-85.75806
+],
+"Browning Center, Weber State University | ogden": [
+41.192,
+-111.944
+],
+"Bryant Park | new-york": [
+40.75451,
+-73.98421
+],
+"Bryant University, 1150 Douglas Pike, Smithfield, RI 02917": [
+41.92101,
+-71.53964
+],
+"Bud Walton Arena | fayetteville-ar": [
+36.064,
+-94.18
+],
+"Buddy Holly Center | lubbock": [
+33.57859,
+-101.84268
+],
+"Buddy Holly Hall | lubbock": [
+33.589,
+-101.843
+],
+"Buffalo AKG Art Museum | buffalo": [
+42.9324,
+-78.8762
+],
+"Buffalo Botanical Gardens | buffalo": [
+42.8274,
+-78.8283
+],
+"Burden Museum & Gardens | baton-rouge": [
+30.411,
+-91.105
+],
+"Burpee Museum | rockford": [
+42.28,
+-89.092
+],
+"Bushnell Park | hartford": [
+41.764,
+-72.6795
+],
+"Butler Institute of American Art | youngstown": [
+41.11,
+-80.648
+],
+"Byham Theater | pittsburgh": [
+40.44386,
+-80.00251
+],
+"CFG Bank Arena | baltimore": [
+39.288711,
+-76.618527
+],
+"CHI Health Center | omaha": [
+41.263,
+-95.928
+],
+"CITYCENTRE | houston": [
+29.78021,
+-95.56031
+],
+"CNY Regional Market | syracuse": [
+43.07267,
+-76.1668
+],
+"COTALAND at Circuit of The Americas | austin": [
+30.13564,
+-97.64404
+],
+"CPKC Stadium | kansas-city": [
+39.12033,
+-94.56625
+],
+"CURE Insurance Arena | trenton": [
+40.2093,
+-74.7618
+],
+"Cable Dahmer Arena | kansas-city": [
+39.03913,
+-94.35756
+],
+"Cadillac Ranch | amarillo": [
+35.1873,
+-101.9871
+],
+"Cadillac Square | detroit": [
+42.3315,
+-83.04329
+],
+"Cadwalader Park | trenton": [
+40.229,
+-74.788
+],
+"Caesars Superdome | new-orleans": [
+29.95083,
+-90.08111
+],
+"Café Nine | new-haven": [
+41.30364,
+-72.92384
+],
+"Cain’s Ballroom | tulsa": [
+36.1594,
+-95.9936
+],
+"California Academy of Sciences | san-francisco": [
+37.7701,
+-122.46641
+],
+"California Botanic Garden | los-angeles": [
+34.1104,
+-117.7136
+],
+"California Citrus State Historic Park | riverside": [
+33.8968,
+-117.429
+],
+"California Living Museum (CALM) | bakersfield": [
+35.43194,
+-118.88611
+],
+"Calvin Simmons Theatre | oakland": [
+37.798,
+-122.264
+],
+"Cameron Park Zoo | waco": [
+31.568,
+-97.145
+],
+"Camp Randall Stadium | madison": [
+43.07,
+-89.4128
+],
+"Camperdown Plaza | greenville": [
+34.848,
+-82.4
+],
+"Campus Martius Park | detroit": [
+42.33155,
+-83.04684
+],
+"Canal Park Dr, Duluth, MN 55802": [
+46.779,
+-92.093
+],
+"Canal Park | duluth": [
+46.779,
+-92.093
+],
+"Canyon Rd, Santa Fe, NM 87501": [
+35.681,
+-105.929
+],
+"Canyon Road | santa-fe": [
+35.681,
+-105.929
+],
+"Capital City Music Hall | harrisburg": [
+40.262,
+-76.88
+],
+"Capital One Arena | washington-dc": [
+38.8984,
+-77.02162
+],
+"Capital Repertory Theatre | albany": [
+42.6566,
+-73.7495
+],
+"Capitol Market | charleston-wv": [
+38.354,
+-81.639
+],
+"CarMax Park | richmond": [
+37.56966,
+-77.46525
+],
+"Caras Park | missoula": [
+46.87,
+-113.996
+],
+"Caras Park, Missoula, MT 59802": [
+46.87,
+-113.996
+],
+"Carpenter Theatre, Dominion Energy Center | richmond": [
+37.54151,
+-77.43679
+],
+"Carter Green | indianapolis": [
+39.96916,
+-86.13061
+],
+"Casa Larga Vineyards | rochester": [
+43.0727,
+-77.4339
+],
+"Casa Mañana | fort-worth": [
+32.7487,
+-97.364
+],
+"Cascades Park | tallahassee": [
+30.433,
+-84.276
+],
+"Casey’s Center | des-moines": [
+41.592,
+-93.621
+],
+"Casino Del Sol Stadium | tucson": [
+32.2288,
+-110.9488
+],
+"Castillo de San Marcos | st-augustine": [
+29.8978,
+-81.3115
+],
+"Center for Puppetry Arts | atlanta": [
+33.79249,
+-84.38985
+],
+"Center for the Performing Arts | san-jose": [
+37.32998,
+-121.89215
+],
+"Central Library of Rochester | rochester": [
+43.1544,
+-77.6091
+],
+"Central Pacific Passenger Station (California State Railroad Museum) | sacramento": [
+38.58472,
+-121.50444
+],
+"Centre Square, Easton | allentown": [
+40.69125,
+-75.20871
+],
+"Century II Concert Hall | wichita": [
+37.686,
+-97.342
+],
+"Chace Athletic Center | providence": [
+41.92101,
+-71.53964
+],
+"Champions Square at the Caesars Superdome | new-orleans": [
+29.95083,
+-90.08111
+],
+"Chandler Center for the Arts | phoenix": [
+33.30883,
+-111.84376
+],
+"Chapman Music Hall, Tulsa PAC | tulsa": [
+36.1555,
+-95.9897
+],
+"Charles Hosmer Morse Museum of American Art | orlando": [
+28.60081,
+-81.3513
+],
+"Charleston City Market | charleston": [
+32.781,
+-79.931
+],
+"Charleston Music Hall | charleston": [
+32.788,
+-79.937
+],
+"Charlotte Motor Speedway | charlotte": [
+35.3519,
+-80.6828
+],
+"Chartway Arena | norfolk": [
+36.887,
+-76.305
+],
+"Chase Center | san-francisco": [
+37.76806,
+-122.3875
+],
+"Chase Fieldhouse | wilmington-de": [
+39.729,
+-75.56
+],
+"Chattanooga Zoo | chattanooga": [
+35.0431,
+-85.2829
+],
+"Chautauqua Park | boulder": [
+39.999,
+-105.281
+],
+"Chazen Museum of Art | madison": [
+43.074,
+-89.4
+],
+"Cheekwood Estate & Gardens | nashville": [
+36.08597,
+-86.87203
+],
+"Chesapeake Shakespeare Company | baltimore": [
+39.2891,
+-76.61198
+],
+"Cheyenne Botanic Gardens | cheyenne": [
+41.153,
+-104.83
+],
+"Cheyenne Depot | cheyenne": [
+41.132,
+-104.815
+],
+"Chicago Riverwalk (facing theMART) | chicago": [
+41.8885,
+-87.6355
+],
+"Chihuly Bridge of Glass | tacoma": [
+47.246,
+-122.434
+],
+"Children's Theatre Company | minneapolis": [
+44.95848,
+-93.27415
+],
+"Christina Riverwalk | wilmington-de": [
+39.736,
+-75.562
+],
+"Christina Riverwalk, Wilmington, DE 19801": [
+39.736,
+-75.562
+],
+"Christmas Village Rd, Bernville, PA 19506": [
+40.41746,
+-76.14194
+],
+"Chrysler Museum of Art | norfolk": [
+36.856,
+-76.296
+],
+"Church St, Burlington, VT 05401": [
+44.478,
+-73.213
+],
+"Church Street Marketplace | burlington": [
+44.478,
+-73.213
+],
+"Cincinnati Playhouse in the Park | cincinnati": [
+39.11123,
+-84.49774
+],
+"Cincinnati Zoo & Botanical Garden | cincinnati": [
+39.145,
+-84.5075
+],
+"Citizens Bank Opera House | boston": [
+42.3542,
+-71.0627
+],
+"City Center at Slack Plaza | charleston-wv": [
+38.351228,
+-81.635154
+],
+"City Dock | annapolis": [
+38.977,
+-76.486
+],
+"City Market | kansas-city": [
+39.10863,
+-94.58218
+],
+"Civic Center Music Hall | oklahoma-city": [
+35.46915,
+-97.52349
+],
+"Clarence Brown Theatre | knoxville": [
+35.952,
+-83.929
+],
+"Clarence T.C. Ching Athletics Complex | honolulu": [
+21.296,
+-157.818
+],
+"Classic Theatre of Maryland | annapolis": [
+38.976,
+-76.525
+],
+"Clematis St, West Palm Beach, FL 33401": [
+26.715,
+-80.051
+],
+"Clematis Street | west-palm-beach": [
+26.715,
+-80.051
+],
+"Cleveland Metroparks Zoo | cleveland": [
+41.447,
+-81.712
+],
+"Cleveland Museum of Art | cleveland": [
+41.50889,
+-81.61167
+],
+"Climate Pledge Arena | seattle": [
+47.622,
+-122.354
+],
+"Clinch Park | traverse-city": [
+44.765,
+-85.62
+],
+"Clinton Square | syracuse": [
+43.0509,
+-76.15239
+],
+"Clyde Fant Pkwy, Shreveport, LA 71101": [
+32.516,
+-93.746
+],
+"Clyde Theatre | fort-wayne": [
+41.053,
+-85.17
+],
+"Coconut Grove Business District | miami": [
+25.72787,
+-80.24329
+],
+"Cohen Skating Center at Mill River Park | stamford": [
+41.05643,
+-73.54304
+],
+"Colonial Life Arena | columbia-sc": [
+33.994,
+-81.04
+],
+"Colonial Oak Music Park | st-augustine": [
+29.8969,
+-81.3133
+],
+"Columbus Commons | columbus": [
+39.95655,
+-82.99815
+],
+"Columbus Funny Bone | columbus": [
+40.05195,
+-82.91528
+],
+"Columbus Museum of Art | columbus": [
+39.97036,
+-82.99881
+],
+"Columbus Zoo and Aquarium | columbus": [
+40.15627,
+-83.1184
+],
+"Comedy Off Broadway | lexington": [
+38.005,
+-84.524
+],
+"Comedy Works Downtown | denver": [
+39.74777,
+-104.99811
+],
+"Comedy Zone | greensboro": [
+36.053,
+-79.852
+],
+"Community Choice Convention Center | des-moines": [
+41.592,
+-93.621
+],
+"Cornell Botanic Gardens | ithaca": [
+42.4497,
+-76.4697
+],
+"Corpus Christi Bayfront and Seawall | corpus-christi": [
+27.795,
+-97.392
+],
+"Corpus Christi Museum of Science & History | corpus-christi": [
+27.80915,
+-97.39573
+],
+"Cow Palace Exhibition Halls | san-francisco": [
+37.70667,
+-122.41861
+],
+"Cowtown Coliseum | fort-worth": [
+32.789,
+-97.3478
+],
+"Crocker Art Museum | sacramento": [
+38.57694,
+-121.505
+],
+"Crown Center Ice Terrace | kansas-city": [
+39.08243,
+-94.58257
+],
+"Crown Center Square | kansas-city": [
+39.08243,
+-94.58257
+],
+"Crowne Plaza Providence-Warwick | providence": [
+41.71495,
+-71.46768
+],
+"Crystal Bridges Museum of American Art | fayetteville-ar": [
+36.3825,
+-94.20361
+],
+"Culture Center | charleston-wv": [
+38.336,
+-81.612
+],
+"Culver Road Armory | rochester": [
+43.152,
+-77.5744
+],
+"Curtis Hixon Waterfront Park | tampa": [
+27.94896,
+-82.46224
+],
+"Customs House Museum & Cultural Center | clarksville": [
+36.526,
+-87.359
+],
+"DABOS Park | montgomery": [
+32.3822,
+-86.3106
+],
+"DC Improv | washington-dc": [
+38.90512,
+-77.04132
+],
+"DCU Center | worcester": [
+42.266,
+-71.799
+],
+"Daikin Park | houston": [
+29.75723,
+-95.35523
+],
+"Daley Plaza | chicago": [
+41.88409,
+-87.6302
+],
+"Dallas Arboretum | dallas": [
+32.82311,
+-96.71734
+],
+"Dallas Museum of Art | dallas": [
+32.78729,
+-96.8005
+],
+"Dana Center at Saint Anselm College | manchester": [
+43.005,
+-71.51
+],
+"David H. Koch Theater, Lincoln Center | new-york": [
+40.7725,
+-73.9835
+],
+"DePasquale Plaza, Atwells Ave, Providence, RI 02903": [
+41.8226,
+-71.43089
+],
+"DePasquale Plaza, Federal Hill | providence": [
+41.8226,
+-71.43089
+],
+"DeVos Performance Hall | grand-rapids": [
+42.968,
+-85.673
+],
+"Dead Crow Comedy Room | wilmington-nc": [
+34.238,
+-77.948
+],
+"Decatur Square | atlanta": [
+33.77498,
+-84.29662
+],
+"Delta Center | salt-lake-city": [
+40.76833,
+-111.90111
+],
+"Denny Sanford Premier Center | sioux-falls": [
+43.559,
+-96.747
+],
+"Denver Botanic Gardens | denver": [
+39.73247,
+-104.96095
+],
+"Denver Union Station | denver": [
+39.75293,
+-104.99981
+],
+"Denver Zoo | denver": [
+39.75105,
+-104.94898
+],
+"Depot Park | gainesville": [
+29.644,
+-82.32
+],
+"Depot St, Asheville, NC 28801": [
+35.587,
+-82.568
+],
+"Des Moines Art Center | des-moines": [
+41.583889,
+-93.681667
+],
+"Descanso Gardens | los-angeles": [
+34.20091,
+-118.20643
+],
+"Detroit Opera House | detroit": [
+42.3366,
+-83.04887
+],
+"Detroit Zoo | detroit": [
+42.47678,
+-83.15076
+],
+"Devil's Millhopper Geological State Park | gainesville": [
+29.7069,
+-82.3943
+],
+"Dignity Health Arena | bakersfield": [
+35.374,
+-119.013
+],
+"Discovery Green | houston": [
+29.75422,
+-95.36054
+],
+"Discovery Meadow | san-jose": [
+37.32668,
+-121.89177
+],
+"Doak Campbell Stadium | tallahassee": [
+30.438,
+-84.304
+],
+"Doris Harper-White Playhouse | flagstaff": [
+35.20014,
+-111.6487
+],
+"Dorothy B. Oven Park | tallahassee": [
+30.4939,
+-84.2587
+],
+"Downtown Ashland | richmond": [
+37.75874,
+-77.48337
+],
+"Downtown Bakersfield | bakersfield": [
+35.375,
+-119.019
+],
+"Downtown Bakersfield, CA 93301": [
+35.375,
+-119.019
+],
+"Downtown Billings | billings": [
+45.784,
+-108.505
+],
+"Downtown Boulder Visitor Information Center | boulder": [
+40.018,
+-105.278
+],
+"Downtown Flagstaff | flagstaff": [
+35.198,
+-111.65
+],
+"Downtown Greenville, SC 29601": [
+34.847,
+-82.401
+],
+"Downtown Ithaca Commons | ithaca": [
+42.4393,
+-76.497
+],
+"Downtown Main Street | las-cruces": [
+32.311,
+-106.778
+],
+"Downtown Mall | charlottesville": [
+38.031,
+-78.48
+],
+"Downtown Market Grand Rapids | grand-rapids": [
+42.953,
+-85.669
+],
+"Downtown Palm Springs | palm-springs": [
+33.824,
+-116.547
+],
+"Downtown Pensacola | pensacola": [
+30.41005,
+-87.21479
+],
+"Downtown Rapid City | rapid-city": [
+44.081,
+-103.229
+],
+"Downtown Rapid City, SD 57701": [
+44.081,
+-103.229
+],
+"Downtown Santa Barbara | santa-barbara": [
+34.42147,
+-119.7019
+],
+"Downtown Sarasota | sarasota": [
+27.335,
+-82.545
+],
+"Downtown Scranton | scranton": [
+41.409,
+-75.662
+],
+"Downtown Scranton, PA 18503": [
+41.41,
+-75.663
+],
+"Downtown Sioux Falls | sioux-falls": [
+43.547,
+-96.729
+],
+"Downtown Summerlin | las-vegas": [
+36.15002,
+-115.33317
+],
+"Downtown Traverse City | traverse-city": [
+44.763,
+-85.622
+],
+"Dr. Phillips Center for the Performing Arts | orlando": [
+28.53803,
+-81.37819
+],
+"Drake Park | bend": [
+44.056,
+-121.319
+],
+"Dress Plaza | evansville": [
+37.97,
+-87.57
+],
+"Dripping Springs Natural Area | las-cruces": [
+32.3291,
+-106.5904
+],
+"Duke Chapel | durham": [
+36.0019,
+-78.94
+],
+"Durham Bulls Athletic Park | durham": [
+35.99169,
+-78.90419
+],
+"Durham Bulls Athletic Park | raleigh": [
+35.99169,
+-78.90419
+],
+"Durham Performing Arts Center | durham": [
+35.993,
+-78.904
+],
+"Duval St, Key West, FL 33040": [
+24.556,
+-81.802
+],
+"Duval Street | key-west": [
+24.556,
+-81.802
+],
+"Dyker Heights, Brooklyn | new-york": [
+40.62047,
+-74.01167
+],
+"E 30th St & E Grand Ave, Des Moines, IA 50317": [
+41.59528,
+-93.54944
+],
+"E Front St, Traverse City, MI 49684": [
+44.763,
+-85.622
+],
+"E Locust St, Des Moines, IA 50309": [
+41.59,
+-93.613
+],
+"E Main St, Bozeman, MT 59715": [
+45.679,
+-111.036
+],
+"E Main St, Charlottesville, VA 22902": [
+38.031,
+-78.48
+],
+"E.J. Thomas Hall | akron": [
+41.077,
+-81.513
+],
+"Eastern Promenade | portland-me": [
+43.666,
+-70.242
+],
+"Eastern Promenade, Portland, ME 04101": [
+43.666,
+-70.242
+],
+"Edison and Ford Winter Estates | fort-myers": [
+26.634,
+-81.88
+],
+"El Paso Comic Strip | el-paso": [
+31.786,
+-106.394
+],
+"Elderberry Park, W 5th Ave, Anchorage, AK 99501": [
+61.218,
+-149.91
+],
+"Eldorado Showroom | reno": [
+39.53,
+-119.814
+],
+"Electric City Trolley Station & Museum | scranton": [
+41.40733,
+-75.67132
+],
+"Eli and Edythe Broad Art Museum | lansing": [
+42.733,
+-84.477
+],
+"Ellie Caulkins Opera House | denver": [
+39.74444,
+-104.9975
+],
+"Embassy Theatre | fort-wayne": [
+41.078,
+-85.141
+],
+"Emerald City Comedy Club | seattle": [
+47.62026,
+-122.32045
+],
+"Encore Theater at Wynn Las Vegas | las-vegas": [
+36.12677,
+-115.16511
+],
+"Ent Center for the Arts | colorado-springs": [
+38.895,
+-104.805
+],
+"Enterprise Center | st-louis": [
+38.62703,
+-90.20318
+],
+"Erie Canal Museum | syracuse": [
+43.05064,
+-76.14872
+],
+"Erie Insurance Arena | erie": [
+42.126,
+-80.083
+],
+"Essex St, Salem, MA 01970": [
+42.522,
+-70.894
+],
+"Essex Street Pedestrian Mall | salem-ma": [
+42.522,
+-70.894
+],
+"Esther's Follies | austin": [
+30.26631,
+-97.73747
+],
+"Ethel M Chocolates | las-vegas": [
+36.07385,
+-115.07208
+],
+"EverBank Stadium | jacksonville": [
+30.32392,
+-81.63734
+],
+"Everson Museum of Art | syracuse": [
+43.04472,
+-76.14674
+],
+"ExtraMile Arena | boise": [
+43.601,
+-116.197
+],
+"F St NW between 7th & 9th Sts, Washington, DC 20004": [
+38.8973,
+-77.0229
+],
+"F Street NW (7th to 9th Sts) | washington-dc": [
+38.8973,
+-77.0229
+],
+"F&M Bank Arena | clarksville": [
+36.529,
+-87.359
+],
+"F.M. Kirby Center for the Performing Arts | scranton": [
+41.24537,
+-75.88189
+],
+"FGCU Lake Pkwy E, Fort Myers, FL 33965": [
+26.4711,
+-81.7647
+],
+"Fair Grounds Race Course | new-orleans": [
+29.98305,
+-90.08135
+],
+"Fairmont Scottsdale Princess | phoenix": [
+33.646,
+-111.91717
+],
+"Falls Park on the Reedy | greenville": [
+34.8443,
+-82.4011
+],
+"Falls Park | sioux-falls": [
+43.558,
+-96.723
+],
+"Fargo Civic Center | fargo": [
+46.876,
+-96.788
+],
+"Fargo Theatre | fargo": [
+46.87917,
+-96.78778
+],
+"Farm & Ranch Heritage Museum | las-cruces": [
+32.302,
+-106.724
+],
+"Farm Fresh RI Market Hall | providence": [
+41.82695,
+-71.43287
+],
+"Farmers Alley Theatre | kalamazoo": [
+42.293,
+-85.583
+],
+"Fayetteville Square | fayetteville-ar": [
+36.062,
+-94.16
+],
+"FedExForum | memphis": [
+35.13833,
+-90.05056
+],
+"Ferro Dr, Ventura, CA 93001": [
+34.284,
+-119.296
+],
+"Festival of Lights ice rink | riverside": [
+33.9825,
+-117.374
+],
+"Field Museum | chicago": [
+41.86726,
+-87.61875
+],
+"Fiesta de Reyes, Old Town | san-diego": [
+32.75564,
+-117.19859
+],
+"First Horizon Coliseum | greensboro": [
+36.059,
+-79.825
+],
+"FirstBank Stadium | nashville": [
+36.14279,
+-86.80784
+],
+"Fiserv Forum | milwaukee": [
+43.04503,
+-87.91817
+],
+"Fisher Pavilion, Seattle Center | seattle": [
+47.62112,
+-122.35217
+],
+"Fisher Theatre | detroit": [
+42.36947,
+-83.07739
+],
+"Fishers Event Center | indianapolis": [
+39.94781,
+-86.00422
+],
+"Flat Branch Park, Columbia, MO 65201": [
+38.948,
+-92.336
+],
+"Fletcher Opera Theater (Martin Marietta Center) | raleigh": [
+35.7713,
+-78.6396
+],
+"Florida Studio Theatre | sarasota": [
+27.33672,
+-82.54543
+],
+"Florida Theatre | jacksonville": [
+30.3263,
+-81.65565
+],
+"Folsom Field | boulder": [
+40.009,
+-105.267
+],
+"Ford's Theatre | washington-dc": [
+38.89635,
+-77.02587
+],
+"Forest Park | springfield-ma": [
+42.079,
+-72.56
+],
+"Forsyth Park | savannah": [
+32.067,
+-81.096
+],
+"Fort Collins Senior Center | fort-collins": [
+40.55586,
+-105.09798
+],
+"Fort Lauderdale Beach | fort-lauderdale": [
+26.12,
+-80.104
+],
+"Fort Lauderdale Swap Shop | fort-lauderdale": [
+26.136,
+-80.193
+],
+"Fort Worth Stockyards | fort-worth": [
+32.7893,
+-97.347
+],
+"Fountain Square Park | bowling-green": [
+36.993,
+-86.444
+],
+"Fountain Square | cincinnati": [
+39.10161,
+-84.5125
+],
+"Fountain Square, Bowling Green, KY 42101": [
+36.993,
+-86.444
+],
+"Fox Theatre | atlanta": [
+33.7725,
+-84.38556
+],
+"Fox Tucson Theatre | tucson": [
+32.2219,
+-110.9714
+],
+"Frank Lloyd Wright’s Martin House | buffalo": [
+42.937,
+-78.8478
+],
+"Franklin Square | philadelphia": [
+39.95569,
+-75.15014
+],
+"Frazier Kentucky History Museum | louisville": [
+38.25773,
+-85.76452
+],
+"Fred Jones Jr. Museum of Art | norman": [
+35.21,
+-97.446
+],
+"Frederik Meijer Gardens & Sculpture Park | grand-rapids": [
+42.981,
+-85.591
+],
+"Fremont St & S 3rd St, Las Vegas, NV 89101": [
+36.17083,
+-115.14306
+],
+"Fremont Street Experience | las-vegas": [
+36.17083,
+-115.14306
+],
+"Frost Bank Center | san-antonio": [
+29.42692,
+-98.43751
+],
+"Funny Bone Comedy Club | dayton": [
+39.696,
+-84.095
+],
+"Funny Bone Comedy Club | kansas-city": [
+39.25148,
+-94.66499
+],
+"Funny Bone Comedy Club | richmond": [
+37.65739,
+-77.61826
+],
+"Funny Bone Comedy Club | virginia-beach": [
+36.843,
+-76.136
+],
+"Funny Bone Comedy Club, Destiny USA | syracuse": [
+43.06702,
+-76.17067
+],
+"Gainbridge Fieldhouse | indianapolis": [
+39.76389,
+-86.15556
+],
+"Galleria Dallas (Center Court) | dallas": [
+32.93072,
+-96.81957
+],
+"Garrett Coliseum | montgomery": [
+32.404,
+-86.261
+],
+"Gaslamp Restaurant & Bar | long-beach": [
+33.756,
+-118.113
+],
+"Gaston St & Whitaker St, Savannah, GA 31401": [
+32.067,
+-81.096
+],
+"Gaylord Opryland Resort | nashville": [
+36.2068,
+-86.69
+],
+"Gene C. Reid Park | tucson": [
+32.2105,
+-110.9213
+],
+"Genesee St, Skaneateles, NY 13152": [
+42.94435,
+-76.44226
+],
+"George H.W. Bush Presidential Library and Museum | college-station": [
+30.6,
+-96.355
+],
+"Georgia Museum of Art | athens": [
+33.942,
+-83.37
+],
+"Georgia Tech campus, Atlanta, GA": [
+33.7806,
+-84.39276
+],
+"Geva Theatre | rochester": [
+43.1513,
+-77.602
+],
+"Gillioz Theatre | springfield-mo": [
+37.209,
+-93.29
+],
+"Girl Scout Garden | buffalo": [
+42.9006,
+-78.6703
+],
+"Glensheen | duluth": [
+46.815,
+-92.052
+],
+"Globe Life Field North Plaza | arlington": [
+32.74914,
+-97.08494
+],
+"Globe Life Field North Plaza | dallas": [
+32.74914,
+-97.08494
+],
+"GoMart Ballpark | charleston-wv": [
+38.349028,
+-81.625111
+],
+"Golden 1 Center | sacramento": [
+38.58036,
+-121.49961
+],
+"Goodman Theatre | chicago": [
+41.88493,
+-87.62993
+],
+"Grand Ave & Lake Park Ave, Oakland, CA 94610": [
+37.811,
+-122.247
+],
+"Grand Canyon Railway Depot | flagstaff": [
+35.25122,
+-112.19176
+],
+"Grand Casino Arena | minneapolis": [
+44.94472,
+-93.10111
+],
+"Grand Ole Opry House | nashville": [
+36.21019,
+-86.69529
+],
+"Grand Rapids Civic Theatre | grand-rapids": [
+42.964,
+-85.667
+],
+"Grand Rapids Public Museum | grand-rapids": [
+42.96556,
+-85.67694
+],
+"Grand Traverse Commons | traverse-city": [
+44.757,
+-85.65
+],
+"Grant Park | ventura": [
+34.284,
+-119.296
+],
+"Great Arizona Puppet Theater | phoenix": [
+33.46102,
+-112.07809
+],
+"Great Lakes Aquarium | duluth": [
+46.781,
+-92.1
+],
+"Greater Nevada Field | reno": [
+39.52889,
+-119.80806
+],
+"Green Mill | chicago": [
+41.96918,
+-87.65989
+],
+"Griffin Museum of Science and Industry | chicago": [
+41.79118,
+-87.57998
+],
+"Grounds For Sculpture | trenton": [
+40.237222,
+-74.716667
+],
+"Grove Arcade | asheville": [
+35.59556,
+-82.55667
+],
+"Grove Plaza | boise": [
+43.6145,
+-116.203
+],
+"Gulf Breeze Zoo | pensacola": [
+30.39964,
+-86.98368
+],
+"Guthrie Theater | minneapolis": [
+44.97823,
+-93.25552
+],
+"Gutterson Fieldhouse | burlington": [
+44.47177,
+-73.19344
+],
+"Hancock Whitney Stadium | mobile": [
+30.695,
+-88.184
+],
+"Hanna Theatre | cleveland": [
+41.50083,
+-81.68083
+],
+"Harbor Playhouse | corpus-christi": [
+27.799,
+-97.393
+],
+"Hard Rock Live at Etess Arena | atlantic-city": [
+39.36,
+-74.422
+],
+"Hard Rock Stadium | miami": [
+25.95806,
+-80.23889
+],
+"Harry P. Leu Gardens | orlando": [
+28.56777,
+-81.35725
+],
+"Hart Recreation Center | worcester": [
+42.237,
+-71.808
+],
+"Hartford Funny Bone Comedy Club & Restaurant | hartford": [
+41.80688,
+-72.54584
+],
+"Hartford Stage | hartford": [
+41.768,
+-72.675
+],
+"Hartford Union Station | hartford": [
+41.76889,
+-72.68167
+],
+"Hawaii Theatre | honolulu": [
+21.3115,
+-157.862
+],
+"Hawaiian Mission Houses Historic Site and Archives | honolulu": [
+21.304,
+-157.857
+],
+"Hawthorne Hotel | salem-ma": [
+42.5228,
+-70.8902
+],
+"Heinz Hall Courtyard | pittsburgh": [
+40.44273,
+-80.00176
+],
+"Heinz Hall | pittsburgh": [
+40.44273,
+-80.00176
+],
+"Helium Comedy Club | indianapolis": [
+39.76441,
+-86.15843
+],
+"Helium Comedy Club | st-louis": [
+38.63777,
+-90.34795
+],
+"Hemingway Home | key-west": [
+24.551,
+-81.801
+],
+"Henson Robinson Zoo | springfield-il": [
+39.7274,
+-89.58365
+],
+"Heritage Bank Center | cincinnati": [
+39.09778,
+-84.50444
+],
+"High Desert Museum | bend": [
+43.9659,
+-121.3428
+],
+"Higher Ground | burlington": [
+44.468,
+-73.183
+],
+"Hilarities 4th Street Theatre | cleveland": [
+41.49934,
+-81.68994
+],
+"Hilliard Center Arena | corpus-christi": [
+27.81,
+-97.394
+],
+"Hilo Farmers Market | hilo": [
+19.724,
+-155.086
+],
+"Hippodrome Theatre at the France-Merrick Performing Arts Center | baltimore": [
+39.28991,
+-76.62196
+],
+"Historic City Market | roanoke": [
+37.2725,
+-79.94
+],
+"Historic Downtown Bryan | college-station": [
+30.67277,
+-96.37353
+],
+"Historic Downtown St. Augustine | st-augustine": [
+29.893,
+-81.313
+],
+"Historic East Village | des-moines": [
+41.59,
+-93.613
+],
+"Historic Fairhaven Village | bellingham": [
+48.72,
+-122.503
+],
+"Historic Main Street | st-louis": [
+38.77787,
+-90.48317
+],
+"Historic Plaza Theatre | palm-springs": [
+33.822,
+-116.547
+],
+"Holland Performing Arts Center | omaha": [
+41.2588,
+-95.931
+],
+"Hollywood Blvd & Vine St, Los Angeles, CA 90028": [
+34.10045,
+-118.36615
+],
+"Hollywood Blvd | los-angeles": [
+34.10045,
+-118.36615
+],
+"Homestead Heritage | waco": [
+31.66664,
+-97.15315
+],
+"Hotel del Coronado | san-diego": [
+32.6809,
+-117.17779
+],
+"Houston Zoo | houston": [
+29.71333,
+-95.39159
+],
+"Hudson Yards | new-york": [
+40.75591,
+-74.00053
+],
+"Hult Center for the Performing Arts | eugene": [
+44.05,
+-123.091
+],
+"Hunter Museum of American Art | chattanooga": [
+35.055944,
+-85.306444
+],
+"Huntington Bank Field | cleveland": [
+41.50611,
+-81.69944
+],
+"Huntington Center | toledo": [
+41.651,
+-83.537
+],
+"Huntsville Botanical Garden | huntsville": [
+34.71278,
+-86.63292
+],
+"INTRUST Bank Arena | wichita": [
+37.683,
+-97.332
+],
+"IP Casino Resort & Spa | biloxi": [
+30.401,
+-88.896
+],
+"Ice Arena at The Monument | rapid-city": [
+44.085,
+-103.229
+],
+"Ice at Canalside | buffalo": [
+42.8772,
+-78.8786
+],
+"Idaho Botanical Garden | boise": [
+43.602495,
+-116.163819
+],
+"Idlewild Park | reno": [
+39.52194,
+-119.83306
+],
+"Indiana Repertory Theatre | indianapolis": [
+39.7675,
+-86.16111
+],
+"Indianapolis Zoo | indianapolis": [
+39.76694,
+-86.17694
+],
+"Infinity Music Hall | hartford": [
+41.76298,
+-72.67088
+],
+"InfoCision Stadium | akron": [
+41.072,
+-81.508
+],
+"International Museum of Art & Science | mcallen": [
+26.2415,
+-98.2336
+],
+"Iowa State Fairgrounds | des-moines": [
+41.59528,
+-93.54944
+],
+"Ithaca Falls Natural Area | ithaca": [
+42.4529,
+-76.4934
+],
+"J.J. Byrne Park | new-york": [
+40.6727,
+-73.9848
+],
+"Jacksonville Beach oceanfront | jacksonville": [
+30.29063,
+-81.38964
+],
+"James Island County Park | charleston": [
+32.735,
+-79.984
+],
+"Jannus Live | st-petersburg": [
+27.772,
+-82.637
+],
+"Jim Graham Building, NC State Fairgrounds | raleigh": [
+35.79361,
+-78.71
+],
+"Jimmy Kimmel's Comedy Club | las-vegas": [
+36.11777,
+-115.17258
+],
+"Jimmy’s Jazz & Blues Club | portsmouth-nh": [
+43.076,
+-70.761
+],
+"John J. Lee Amphitheater | new-haven": [
+41.3125,
+-72.93
+],
+"John Paul Jones Arena | charlottesville": [
+38.046,
+-78.507
+],
+"Johnny Mercer Theatre | savannah": [
+32.077,
+-81.096
+],
+"Joslyn Art Museum | omaha": [
+41.2604,
+-95.9455
+],
+"Jungle Island | miami": [
+25.7861,
+-80.1742
+],
+"K Street, Old Sacramento, Sacramento, CA 95814": [
+38.58278,
+-121.50333
+],
+"KFC Yum! Center | louisville": [
+38.2575,
+-85.75389
+],
+"Kalakaua Ave, Fort DeRussy to Kapiolani Park, Honolulu, HI 96815": [
+21.28,
+-157.832
+],
+"Kalakaua Avenue | honolulu": [
+21.28,
+-157.832
+],
+"Kalamazoo Mall | kalamazoo": [
+42.292,
+-85.585
+],
+"Kansas State Capitol | topeka": [
+39.0483,
+-95.678
+],
+"Kapolei Hale | honolulu": [
+21.3347,
+-158.0808
+],
+"Kaseya Center | miami": [
+25.78139,
+-80.18806
+],
+"Kauffman Center for the Performing Arts | kansas-city": [
+39.0937,
+-94.58682
+],
+"Keeper of the Plains Plaza | wichita": [
+37.693,
+-97.35
+],
+"Kelsey Theatre | trenton": [
+40.29718,
+-74.62065
+],
+"Kenan Stadium | raleigh": [
+35.90694,
+-79.04778
+],
+"Kenan Stadium, Chapel Hill, NC": [
+35.90694,
+-79.04778
+],
+"Kendall Yards | spokane": [
+47.66158,
+-117.43205
+],
+"KeyBank Center | buffalo": [
+42.875,
+-78.8764
+],
+"Keystone Korner Baltimore | baltimore": [
+39.28246,
+-76.59787
+],
+"Kia Center | orlando": [
+28.5392,
+-81.38397
+],
+"Kiener Plaza | st-louis": [
+38.62609,
+-90.191
+],
+"Kimmel Arena | asheville": [
+35.6181,
+-82.5689
+],
+"Kiva Auditorium | albuquerque": [
+35.088,
+-106.6505
+],
+"Kleinhans Music Hall | buffalo": [
+42.9026,
+-78.8857
+],
+"Knapp Center | des-moines": [
+41.60444,
+-93.65194
+],
+"Knight Theater | charlotte": [
+35.224022,
+-80.848133
+],
+"Knoxville Civic Auditorium | knoxville": [
+35.961,
+-83.914
+],
+"Knoxville Civic Coliseum | knoxville": [
+35.961,
+-83.914
+],
+"Knoxville Convention Center | knoxville": [
+35.96119,
+-83.9225
+],
+"Kodak Hall at Eastman Theatre | rochester": [
+43.1574,
+-77.6013
+],
+"Kohl Center | madison": [
+43.07,
+-89.397
+],
+"Koka Booth Amphitheatre | raleigh": [
+35.72874,
+-78.79574
+],
+"Koziar's Christmas Village | reading": [
+40.41746,
+-76.14194
+],
+"Kress Events Center | green-bay": [
+44.532,
+-87.923
+],
+"Kroger Field | lexington": [
+38.022,
+-84.505
+],
+"Krutch Park Extension, Market Square | knoxville": [
+35.965,
+-83.919
+],
+"Kweskin Theatre | stamford": [
+41.087,
+-73.547
+],
+"Kyle Field | college-station": [
+30.61,
+-96.34
+],
+"L.A. LIVE (Peacock Place) | los-angeles": [
+34.0447,
+-118.26461
+],
+"L.T. Smith Stadium | bowling-green": [
+36.984,
+-86.459
+],
+"LOVE Park & City Hall | philadelphia": [
+39.95456,
+-75.16502
+],
+"LaVell Edwards Stadium | provo": [
+40.2576,
+-111.6545
+],
+"LaZoom Room | asheville": [
+35.59234,
+-82.55087
+],
+"Lady Bird Johnson Wildflower Center | austin": [
+30.18567,
+-97.8734
+],
+"Lake Martin | lafayette": [
+30.214,
+-91.901
+],
+"Lake Merritt | oakland": [
+37.802,
+-122.258
+],
+"Lake St & Lincoln St, Ithaca, NY 14850": [
+42.4529,
+-76.4934
+],
+"Lake St & Park Ave, Newark, NJ 07104": [
+40.76,
+-74.178
+],
+"Lakeside Dr, Oakland, CA 94612": [
+37.802,
+-122.258
+],
+"Lancaster Central Market | lancaster": [
+40.039,
+-76.306
+],
+"Landers Theatre | springfield-mo": [
+37.206,
+-93.291
+],
+"Landon Arena at Stormont Vail Events Center | topeka": [
+39.03,
+-95.68
+],
+"Lane Events Center | eugene": [
+44.044,
+-123.108
+],
+"Lansing River Trail | lansing": [
+42.733,
+-84.548
+],
+"Larcom Theatre | salem-ma": [
+42.54819,
+-70.87973
+],
+"Laugh Factory at Silver Legacy | reno": [
+39.531,
+-119.815
+],
+"Laughs Unlimited Comedy Club & Lounge | sacramento": [
+38.58278,
+-121.50333
+],
+"Lawlor Events Center | reno": [
+39.547,
+-119.816
+],
+"LeMoyne Arts | tallahassee": [
+30.4419,
+-84.2786
+],
+"LeRoy King Carousel at Yerba Buena Gardens | san-francisco": [
+37.784,
+-122.402
+],
+"Lee Arena | topeka": [
+39.03372,
+-95.69884
+],
+"Lehigh Valley Zoo | allentown": [
+40.65756,
+-75.62671
+],
+"Lehman Center for the Performing Arts | new-york": [
+40.87228,
+-73.89489
+],
+"Lemon Ave & Main St, Sarasota, FL 34236": [
+27.335,
+-82.545
+],
+"Lenovo Center | durham": [
+35.80333,
+-78.72194
+],
+"Lenovo Center | raleigh": [
+35.80333,
+-78.72194
+],
+"Leo Rich Theater | tucson": [
+32.2177,
+-110.9727
+],
+"Levi's Stadium | san-jose": [
+37.403,
+-121.97
+],
+"Lewis Ginter Botanical Garden | richmond": [
+37.62008,
+-77.47082
+],
+"Liberty Arena | evansville": [
+37.964,
+-87.675
+],
+"Liberty Station North Promenade | san-diego": [
+32.73861,
+-117.21343
+],
+"Liberty Station South Lawn | san-diego": [
+32.73781,
+-117.21512
+],
+"Lincoln Center | fort-collins": [
+40.584,
+-105.082
+],
+"Lincoln Home | springfield-il": [
+39.797,
+-89.645
+],
+"Lincoln Presidential Museum | springfield-il": [
+39.803,
+-89.646
+],
+"Little Caesars Arena | detroit": [
+42.34115,
+-83.0551
+],
+"Lobero Theatre | santa-barbara": [
+34.421,
+-119.698
+],
+"Local shops across Baton Rouge | baton-rouge": [
+30.4515,
+-91.1871
+],
+"Loch Haven Park | orlando": [
+28.5725,
+-81.3668
+],
+"Long Beach Arena | long-beach": [
+33.764,
+-118.189
+],
+"Los Angeles Convention Center | los-angeles": [
+34.04188,
+-118.267
+],
+"Los Angeles Zoo | los-angeles": [
+34.14736,
+-118.2844
+],
+"Louise Hopkins Underwood Center for the Arts (LHUCA) | lubbock": [
+33.59063,
+-101.84761
+],
+"Lowe Mill ARTS & Entertainment | huntsville": [
+34.71655,
+-86.59808
+],
+"Lowell Observatory | flagstaff": [
+35.203,
+-111.665
+],
+"Lucas Oil Stadium | indianapolis": [
+39.76006,
+-86.16381
+],
+"Lummus Park | miami": [
+25.78042,
+-80.1299
+],
+"Luthy Botanical Garden | peoria": [
+40.721,
+-89.577
+],
+"Lynn Creek Park | dallas": [
+32.63756,
+-97.04621
+],
+"Lyric Theatre of Oklahoma | oklahoma-city": [
+35.48634,
+-97.5398
+],
+"MGM Grand Garden Arena | las-vegas": [
+36.10288,
+-115.16956
+],
+"MKT Nature & Fitness Trail | columbia-mo": [
+38.948,
+-92.336
+],
+"MLK Jr. Memorial Park | rochester": [
+43.1521,
+-77.6039
+],
+"MOXI, The Wolf Museum of Exploration + Innovation | santa-barbara": [
+34.41348,
+-119.69165
+],
+"MVP Arena | albany": [
+42.6486,
+-73.7546
+],
+"Macky Auditorium | boulder": [
+40.009,
+-105.273
+],
+"Macy's Herald Square | new-york": [
+40.75089,
+-73.98926
+],
+"Madison Square Garden | new-york": [
+40.75051,
+-73.99352
+],
+"Magnolia Market at the Silos | waco": [
+31.552,
+-97.129
+],
+"Magooby's Joke House | baltimore": [
+39.453356,
+-76.641151
+],
+"Main St, Las Cruces, NM 88001": [
+32.311,
+-106.778
+],
+"Main St, St. Charles, MO 63301": [
+38.77787,
+-90.48317
+],
+"Main Street (South Main District) | memphis": [
+35.13215,
+-90.05944
+],
+"Main Street Square | rapid-city": [
+44.0814,
+-103.2269
+],
+"Main Street Square, Rapid City, SD 57701": [
+44.0814,
+-103.2269
+],
+"Main Street | bozeman": [
+45.679,
+-111.036
+],
+"Main Street | columbia-sc": [
+34.001,
+-81.035
+],
+"Main Street, Bryan, TX 77803": [
+30.67277,
+-96.37353
+],
+"Mallory Square | key-west": [
+24.56,
+-81.807
+],
+"Mamo St & Kamehameha Ave, Hilo, HI 96720": [
+19.724,
+-155.086
+],
+"Manchester Music Hall | lexington": [
+38.053,
+-84.518
+],
+"Manship Theatre | baton-rouge": [
+30.4471,
+-91.18935
+],
+"Marble House | newport": [
+41.46208,
+-71.30561
+],
+"Mark Ridley's Comedy Castle | detroit": [
+42.48771,
+-83.14203
+],
+"Market Square Park | houston": [
+29.7629,
+-95.3618
+],
+"Market Square | knoxville": [
+35.965,
+-83.919
+],
+"Market Square | pittsburgh": [
+40.44067,
+-80.00255
+],
+"Market Square, Pittsburgh, PA 15222": [
+40.44067,
+-80.00255
+],
+"Market St, Knoxville, TN 37902": [
+35.965,
+-83.919
+],
+"Mars Music Hall at the Von Braun Center | huntsville": [
+34.726,
+-86.592
+],
+"Martin Luther King Jr. Plaza | pensacola": [
+30.414,
+-87.215
+],
+"Martin Woldson Theater at the Fox | spokane": [
+47.657,
+-117.425
+],
+"Martin's Park | boston": [
+42.35287,
+-71.0488
+],
+"Marx Brothers Playground | new-york": [
+40.78429,
+-73.94597
+],
+"Mary D'Angelo Performing Arts Center | erie": [
+42.106,
+-80.051
+],
+"MassMutual Center | springfield-ma": [
+42.1,
+-72.588
+],
+"Mayo Civic Center Presentation Hall | rochester-mn": [
+44.02,
+-92.46
+],
+"McAllen Convention Center | mcallen": [
+26.216,
+-98.238
+],
+"McAllen Public Library | mcallen": [
+26.238,
+-98.234
+],
+"McCamish Pavilion | atlanta": [
+33.7806,
+-84.39276
+],
+"McCaw Hall | seattle": [
+47.62389,
+-122.35111
+],
+"McCormick-Stillman Railroad Park | phoenix": [
+33.5368,
+-111.92328
+],
+"McGregor Park & RiverWalk | clarksville": [
+36.531,
+-87.363
+],
+"McKenzie Arena | chattanooga": [
+35.050382,
+-85.30091
+],
+"McMenamins Crystal Ballroom | portland": [
+45.52278,
+-122.685
+],
+"McMenamins Elks Temple | tacoma": [
+47.261,
+-122.44
+],
+"Memphis Botanic Garden (Grand Hallway) | memphis": [
+35.11083,
+-89.9175
+],
+"Memphis Botanic Garden | memphis": [
+35.11083,
+-89.9175
+],
+"Merrill Auditorium | portland-me": [
+43.658,
+-70.258
+],
+"Mesa Arizona Temple | phoenix": [
+33.41275,
+-111.82053
+],
+"Mesilla Plaza | las-cruces": [
+32.274,
+-106.796
+],
+"Mesker Park Zoo | evansville": [
+37.999,
+-87.618
+],
+"Meymandi Concert Hall (Martin Marietta Center) | raleigh": [
+35.7713,
+-78.6396
+],
+"Miami Gardens, FL": [
+25.95806,
+-80.23889
+],
+"Michigan Theater | ann-arbor": [
+42.27944,
+-83.7421
+],
+"Military Park | newark": [
+40.73972,
+-74.16917
+],
+"Mill Ave & Centerpoint Plaza, Tempe, AZ 85281": [
+33.4255,
+-111.94
+],
+"Mill Avenue, Downtown Tempe | phoenix": [
+33.4255,
+-111.94
+],
+"Mill Creek Park | youngstown": [
+41.087,
+-80.676
+],
+"Mill Mountain Park | roanoke": [
+37.251,
+-79.933
+],
+"Mill Mountain Theatre | roanoke": [
+37.272,
+-79.939
+],
+"Milwaukee County Zoo | milwaukee": [
+43.03266,
+-88.0374
+],
+"Mimi Ohio Theatre | cleveland": [
+41.50111,
+-81.68111
+],
+"Minnesota Landscape Arboretum | minneapolis": [
+44.86163,
+-93.61518
+],
+"Mission Inn Hotel & Spa | riverside": [
+33.983,
+-117.373
+],
+"Mission San José | san-antonio": [
+29.36035,
+-98.47889
+],
+"Mississippi Museum of Art | jackson": [
+32.297,
+-90.186
+],
+"Missoula Art Museum | missoula": [
+46.871,
+-113.993
+],
+"Missouri Botanical Garden | st-louis": [
+38.6141,
+-90.2589
+],
+"Mitch Park | oklahoma-city": [
+35.68601,
+-97.50554
+],
+"Mizumoto Japanese Stroll Garden | springfield-mo": [
+37.176,
+-93.338
+],
+"Moda Center | portland": [
+45.53161,
+-122.66724
+],
+"Mohegan Arena at Casey Plaza | scranton": [
+41.24055,
+-75.8709
+],
+"Mohegan Pennsylvania | scranton": [
+41.26663,
+-75.8216
+],
+"Monument Circle | indianapolis": [
+39.76788,
+-86.15729
+],
+"Monument Square | portland-me": [
+43.657342,
+-70.258924
+],
+"Moody Gardens Hotel | galveston": [
+29.273,
+-94.853
+],
+"Moody Gardens | galveston": [
+29.273,
+-94.853
+],
+"Mortgage Matchup Center | phoenix": [
+33.44651,
+-112.07063
+],
+"Mosley Street Melodrama | wichita": [
+37.688,
+-97.329
+],
+"Mozart's Coffee Roasters | austin": [
+30.29523,
+-97.78438
+],
+"Mt. Rubidoux Park | riverside": [
+33.9836,
+-117.3906
+],
+"Mulberry Commons | newark": [
+40.7337,
+-74.1703
+],
+"Mulberry St & Edison Pl, Newark, NJ 07102": [
+40.7337,
+-74.1703
+],
+"Munson | utica": [
+43.099,
+-75.237
+],
+"Muriel Kauffman Theatre, Kauffman Center for the Performing Arts | kansas-city": [
+39.0937,
+-94.58682
+],
+"Murphy Park, Historic Downtown Glendale | phoenix": [
+33.53936,
+-112.1844
+],
+"Museum of Natural Curiosity at Thanksgiving Point | provo": [
+40.4313,
+-111.9026
+],
+"Museum of Natural History and Planetarium, Roger Williams Park | providence": [
+41.78399,
+-71.41089
+],
+"Museum of Science & History – Pink Palace | memphis": [
+35.12543,
+-89.95924
+],
+"Museum of Science & Technology (MOST) | syracuse": [
+43.04708,
+-76.15536
+],
+"Museum of Texas Tech University | lubbock": [
+33.5909,
+-101.8873
+],
+"Museum of the North | fairbanks": [
+64.858,
+-147.842
+],
+"Museum of the Rockies | bozeman": [
+45.66,
+-111.046
+],
+"Music Hall at Fair Park | dallas": [
+32.78043,
+-96.76578
+],
+"Music Hall | cincinnati": [
+39.10944,
+-84.51889
+],
+"Myriad Botanical Gardens | oklahoma-city": [
+35.46882,
+-97.51644
+],
+"Myrtle Beach Boardwalk | myrtle-beach": [
+33.694,
+-78.878
+],
+"N Broadway & 2nd Ave N, Billings, MT 59101": [
+45.784,
+-108.505
+],
+"N Ocean Blvd & 9th Ave N, Myrtle Beach, SC 29577": [
+33.694,
+-78.878
+],
+"NJPAC Prudential Hall | newark": [
+40.7419,
+-74.1685
+],
+"NTC Park at Liberty Station | san-diego": [
+32.73483,
+-117.21419
+],
+"Naples Pier | naples": [
+26.131,
+-81.807
+],
+"Nashville Yards | nashville": [
+36.15907,
+-86.78551
+],
+"Nashville Zoo at Grassmere | nashville": [
+36.0885,
+-86.7422
+],
+"National Corvette Museum | bowling-green": [
+37.001,
+-86.376
+],
+"National Museum of Wildlife Art | jackson-wy": [
+43.507,
+-110.747
+],
+"National Museum of the U.S. Air Force | dayton": [
+39.7816,
+-84.1095
+],
+"Nationwide Arena | columbus": [
+39.96928,
+-83.00611
+],
+"Navy Pier | chicago": [
+41.89239,
+-87.61063
+],
+"Nay Aug Park | scranton": [
+41.40139,
+-75.64278
+],
+"Neal S. Blaisdell Center Arena | honolulu": [
+21.2995,
+-157.851
+],
+"Neal S. Blaisdell Center Concert Hall | honolulu": [
+21.2995,
+-157.851
+],
+"Nebraska State Capitol | lincoln": [
+40.808,
+-96.6997
+],
+"Nelson Center | springfield-il": [
+39.819,
+-89.646
+],
+"New Jersey State Museum | trenton": [
+40.221,
+-74.77
+],
+"New Orleans City Park | new-orleans": [
+29.9874,
+-90.0985
+],
+"NewBo City Market | cedar-rapids": [
+41.969,
+-91.656
+],
+"Newman Arena, Bartels Hall | ithaca": [
+42.4457,
+-76.479
+],
+"Nicollet Mall & Peavey Plaza | minneapolis": [
+44.97243,
+-93.27555
+],
+"Nicollet Mall (7th to 12th St), Minneapolis, MN 55403": [
+44.97243,
+-93.27555
+],
+"North Carolina Museum of Art (West Building) | raleigh": [
+35.80989,
+-78.70258
+],
+"North Loop Green | minneapolis": [
+44.98361,
+-93.27555
+],
+"Norton Museum of Art | west-palm-beach": [
+26.699,
+-80.052
+],
+"Norway House | minneapolis": [
+44.96237,
+-93.26075
+],
+"Novant Health Fieldhouse | greensboro": [
+36.059,
+-79.825
+],
+"November Theatre (Virginia Rep) | richmond": [
+37.54686,
+-77.44327
+],
+"Numerica Veterans Arena | spokane": [
+47.665,
+-117.424
+],
+"Nutter Center | dayton": [
+39.78,
+-84.059
+],
+"Oakland Zoo | oakland": [
+37.7509,
+-122.1467
+],
+"Ocean Dr between 14th St and 14th Pl, Miami Beach, FL 33139": [
+25.78042,
+-80.1299
+],
+"Ogden Municipal Gardens | ogden": [
+41.2194,
+-111.9706
+],
+"Ohio Stadium | columbus": [
+40.00163,
+-83.01971
+],
+"Ohio Theatre | columbus": [
+39.95988,
+-82.99894
+],
+"Oklahoma City Zoo & Botanical Garden | oklahoma-city": [
+35.52389,
+-97.47249
+],
+"Old Colorado City | colorado-springs": [
+38.847,
+-104.869
+],
+"Old Mill District | bend": [
+44.045,
+-121.315
+],
+"Old Quarter Acoustic Cafe | galveston": [
+29.30565,
+-94.79033
+],
+"Old Sacramento Waterfront | sacramento": [
+38.58278,
+-121.50333
+],
+"Old Salem | winston-salem": [
+36.087,
+-80.242
+],
+"Old State Capitol Plaza | springfield-il": [
+39.80031,
+-89.64809
+],
+"Old Town Clovis | fresno": [
+36.8253,
+-119.7029
+],
+"Old Town Scottsdale Farmers Market | phoenix": [
+33.49314,
+-111.92077
+],
+"Old Town Square | fort-collins": [
+40.588,
+-105.076
+],
+"Old Town Square, Fort Collins, CO 80524": [
+40.588,
+-105.076
+],
+"Olde Mecklenburg Brewery | charlotte": [
+35.177,
+-80.877
+],
+"Omaha’s Henry Doorly Zoo and Aquarium | omaha": [
+41.226,
+-95.928
+],
+"One Tranquility Base, Huntsville, AL 35805": [
+34.71139,
+-86.65417
+],
+"Onondaga Lake Park | syracuse": [
+43.09975,
+-76.2069
+],
+"Orchestra Hall | minneapolis": [
+44.97222,
+-93.275
+],
+"Oregon Zoo | portland": [
+45.505,
+-122.70883
+],
+"Orlando Science Center | orlando": [
+28.5724,
+-81.3681
+],
+"Orlando Shakespeare Theater, Lowndes Shakespeare Center | orlando": [
+28.57285,
+-81.36655
+],
+"Orpheum Theater | omaha": [
+41.2557,
+-95.9375
+],
+"Orpheum Theatre | madison": [
+43.075,
+-89.389
+],
+"Orpheum Theatre | memphis": [
+35.14,
+-90.05528
+],
+"Orr Building, Illinois State Fairgrounds | springfield-il": [
+39.83611,
+-89.64803
+],
+"Ovens Auditorium | charlotte": [
+35.2047,
+-80.7905
+],
+"Overture Hall | madison": [
+43.0745,
+-89.388
+],
+"PNC Plaza at SteelStacks | allentown": [
+40.61407,
+-75.36754
+],
+"POST Houston Skylawn | houston": [
+29.76622,
+-95.365
+],
+"PPG Paints Arena | pittsburgh": [
+40.439445,
+-79.989891
+],
+"PPG Place | pittsburgh": [
+40.439764,
+-80.003172
+],
+"PPL Center | allentown": [
+40.602,
+-75.471
+],
+"Palace Theatre | albany": [
+42.6553,
+-73.7517
+],
+"Palace Theatre | manchester": [
+42.991,
+-71.462
+],
+"Palace Theatre | stamford": [
+41.054,
+-73.539
+],
+"Palafox St & Garden St, Pensacola, FL 32502": [
+30.414,
+-87.215
+],
+"Palio | ann-arbor": [
+42.27881,
+-83.74853
+],
+"Palm Canyon Dr, Palm Springs, CA 92262": [
+33.824,
+-116.547
+],
+"Palm Canyon Theatre | palm-springs": [
+33.83,
+-116.547
+],
+"Palmer Square | trenton": [
+40.350111,
+-74.661528
+],
+"Palo Duro Canyon State Park | amarillo": [
+34.937,
+-101.659
+],
+"Pantages Theater | tacoma": [
+47.255,
+-122.439
+],
+"Pappajohn Sculpture Park | des-moines": [
+41.585,
+-93.637
+],
+"Paramount Theatre | cedar-rapids": [
+41.978,
+-91.668
+],
+"Paristown | louisville": [
+38.2431,
+-85.73443
+],
+"Patriots Square at CityScape | phoenix": [
+33.44808,
+-112.07447
+],
+"Paycor Stadium | cincinnati": [
+39.095,
+-84.51611
+],
+"Payne Arena | mcallen": [
+26.12389,
+-98.24669
+],
+"Paynes Prairie Preserve | gainesville": [
+29.548,
+-82.3
+],
+"Peabody Essex Museum | salem-ma": [
+42.522,
+-70.892
+],
+"Peace Plaza | rochester-mn": [
+44.023,
+-92.463
+],
+"Pearl Street Mall | boulder": [
+40.018,
+-105.278
+],
+"Peery’s Egyptian Theater | ogden": [
+41.219,
+-111.97
+],
+"Pelham Bay Park | new-york": [
+40.85255,
+-73.82794
+],
+"Pelham Bay Park, Bronx, NY 10464": [
+40.85255,
+-73.82794
+],
+"Penn Ave, Scranton, PA 18503": [
+41.409,
+-75.662
+],
+"Penn's Landing | philadelphia": [
+39.94788,
+-75.1411
+],
+"Pennsylvania State Capitol | harrisburg": [
+40.2645,
+-76.8835
+],
+"Pensacola Bay Center | pensacola": [
+30.415,
+-87.212
+],
+"Pensacola Winterfest | pensacola": [
+30.41005,
+-87.21479
+],
+"PeoplesBank Arena | hartford": [
+41.7685,
+-72.6765
+],
+"Peoria Riverfront Museum | peoria": [
+40.69,
+-89.59
+],
+"Pere Marquette Park and downtown parks | milwaukee": [
+43.04224,
+-87.91371
+],
+"Perot Museum | dallas": [
+32.78693,
+-96.80641
+],
+"Pete Hanna Center | birmingham": [
+33.465,
+-86.7905
+],
+"Petroglyph National Monument | albuquerque": [
+35.13583,
+-106.76194
+],
+"Philadelphia Art Museum | philadelphia": [
+39.96557,
+-75.18152
+],
+"Philbrook Museum of Art | tulsa": [
+36.12385,
+-95.97009
+],
+"Phillips Ave, 13th St to 5th St, Sioux Falls, SD 57104": [
+43.547,
+-96.729
+],
+"Phipps Conservatory and Botanical Gardens | pittsburgh": [
+40.43821,
+-79.94852
+],
+"Phoenix Zoo | phoenix": [
+33.44965,
+-111.95156
+],
+"Piedmont Park | atlanta": [
+33.78905,
+-84.37189
+],
+"Pike Place Market | seattle": [
+47.60909,
+-122.34217
+],
+"Pikes Peak Center | colorado-springs": [
+38.832,
+-104.824
+],
+"Pioneer Center for the Performing Arts | reno": [
+39.525,
+-119.812
+],
+"Pioneer Courthouse Square | portland": [
+45.5189,
+-122.679
+],
+"Pioneer Park | st-george": [
+37.118,
+-113.595
+],
+"Pittock Mansion | portland": [
+45.525,
+-122.716389
+],
+"Pittsburgh Improv | pittsburgh": [
+40.40894,
+-79.91494
+],
+"Pittsburgh Zoo & Aquarium | pittsburgh": [
+40.48319,
+-79.921357
+],
+"Plains Art Museum | fargo": [
+46.876832,
+-96.792185
+],
+"Plaza Theatre | el-paso": [
+31.759,
+-106.488
+],
+"Plaza de César Chávez | san-jose": [
+37.33194,
+-121.89
+],
+"Plaza de la Constitución, St. Augustine, FL 32084": [
+29.893,
+-81.313
+],
+"Point Defiance Zoo & Aquarium | tacoma": [
+47.305,
+-122.517
+],
+"Pollasky Ave, Clovis, CA 93612": [
+36.8253,
+-119.7029
+],
+"Ponte Vedra Concert Hall | jacksonville": [
+30.16752,
+-81.36923
+],
+"Popejoy Hall | albuquerque": [
+35.082,
+-106.619
+],
+"Portland Center Stage at The Armory | portland": [
+45.52429,
+-122.682
+],
+"Portland House of Music and Events | portland-me": [
+43.657,
+-70.256
+],
+"Portland Museum of Art | portland-me": [
+43.65389,
+-70.26259
+],
+"Potawatomi Zoo | south-bend": [
+41.667,
+-86.228
+],
+"Powell Hall | st-louis": [
+38.64012,
+-90.23004
+],
+"Prescott Park | portsmouth-nh": [
+43.07722,
+-70.75194
+],
+"Preservation Hall | new-orleans": [
+29.95832,
+-90.0654
+],
+"Presque Isle State Park | erie": [
+42.158,
+-80.11
+],
+"Prisma Health Park (Segra Park) | columbia-sc": [
+34.01984,
+-81.03089
+],
+"Promenade Park | fort-wayne": [
+41.083,
+-85.144
+],
+"Propst Arena at the Von Braun Center | huntsville": [
+34.726,
+-86.592
+],
+"Providence Performing Arts Center | providence": [
+41.82083,
+-71.4125
+],
+"Prudential Center | newark": [
+40.7334,
+-74.1711
+],
+"Public Square | cleveland": [
+41.49972,
+-81.69389
+],
+"Public Square, Cleveland, OH 44113": [
+41.49972,
+-81.69389
+],
+"Punch Line Philly | philadelphia": [
+39.96536,
+-75.13539
+],
+"Quackenbush Square & Clinton Market Collective | albany": [
+42.6545,
+-73.7487
+],
+"Quad City Botanical Center | davenport": [
+41.51,
+-90.553
+],
+"Quarry Hill Park | rochester-mn": [
+44.031,
+-92.432
+],
+"Quinta Mazatlán | mcallen": [
+26.182,
+-98.234
+],
+"Raising Cane’s River Center | baton-rouge": [
+30.446,
+-91.188
+],
+"Razorback Stadium | fayetteville-ar": [
+36.068,
+-94.179
+],
+"Red Hills Desert Garden | st-george": [
+37.11411,
+-113.57511
+],
+"Red River Valley Fairgrounds | fargo": [
+46.871231,
+-96.929873
+],
+"Red River Zoo | fargo": [
+46.839,
+-96.859
+],
+"Resch Center | green-bay": [
+44.505,
+-88.058
+],
+"Reynolds Hall at The Smith Center | las-vegas": [
+36.16861,
+-115.15222
+],
+"Rhema Bible Church | tulsa": [
+36.0605,
+-95.8085
+],
+"Rice-Eccles Stadium | salt-lake-city": [
+40.75997,
+-111.84885
+],
+"River Arts District | asheville": [
+35.587,
+-82.568
+],
+"River Walk, downtown San Antonio, TX 78205": [
+29.42318,
+-98.49058
+],
+"Riverdome at Horseshoe Casino | shreveport": [
+32.5153,
+-93.7375
+],
+"Riverfront Park | shreveport": [
+32.516,
+-93.746
+],
+"Riverfront Park | spokane": [
+47.661,
+-117.421
+],
+"Riverfront Plaza | jacksonville": [
+30.32484,
+-81.65985
+],
+"Riverfront, Lansing, MI 48933": [
+42.733,
+-84.548
+],
+"Riverside Arts Market (under the Fuller Warren Bridge) | jacksonville": [
+30.3164,
+-81.67576
+],
+"Riverside Crossing Park | columbus": [
+40.10252,
+-83.11119
+],
+"Riverside Dr, Evansville, IN 47708": [
+37.97,
+-87.57
+],
+"Riverwalk District, Reno, NV 89501": [
+39.526,
+-119.812
+],
+"Riverwalk between Wells St & Franklin St, Chicago, IL 60654": [
+41.8885,
+-87.6355
+],
+"Roberson Museum and Science Center | binghamton": [
+42.093,
+-75.919
+],
+"Robert W. Plaster Stadium | springfield-mo": [
+37.199,
+-93.281
+],
+"Robinson Center | little-rock": [
+34.749,
+-92.274
+],
+"Rochester Art Center | rochester-mn": [
+44.02,
+-92.46
+],
+"Rochester Public Market | rochester": [
+43.1644,
+-77.59
+],
+"Rock City Gardens | chattanooga": [
+34.97389,
+-85.34861
+],
+"Rockefeller Center | new-york": [
+40.75912,
+-73.97956
+],
+"Rocket Arena | cleveland": [
+41.49665,
+-81.68832
+],
+"Roger Williams Park Zoo | providence": [
+41.7899,
+-71.4163
+],
+"Rookery Rd, Breaux Bridge, LA 70517": [
+30.214,
+-91.901
+],
+"Rosecliff | newport": [
+41.46528,
+-71.30556
+],
+"Rough Point | newport": [
+41.45455,
+-71.30449
+],
+"Rountree Market | college-station": [
+30.64303,
+-96.36228
+],
+"Route 66 & San Francisco St, Flagstaff, AZ 86001": [
+35.198,
+-111.65
+],
+"Route 66 Historic District | amarillo": [
+35.205,
+-101.873
+],
+"Rupp Arena | lexington": [
+38.048,
+-84.499
+],
+"Ryman Auditorium | nashville": [
+36.16171,
+-86.77767
+],
+"S Kalamazoo Mall, Kalamazoo, MI 49007": [
+42.292,
+-85.585
+],
+"S Main St at Broad St, Greenville, SC 29601": [
+34.848,
+-82.4
+],
+"S Main St between G.E. Patterson Ave and Butler Ave, Memphis, TN 38103": [
+35.13215,
+-90.05944
+],
+"S Palafox Pl & Government St, Pensacola, FL 32502": [
+30.41005,
+-87.21479
+],
+"S.B. Ballard Stadium | norfolk": [
+36.888,
+-76.307
+],
+"SAP Center | san-jose": [
+37.33278,
+-121.90111
+],
+"SCHEELS Arena | fargo": [
+46.835557,
+-96.875557
+],
+"SKY Armory | syracuse": [
+43.04793,
+-76.15292
+],
+"SNHU Arena | manchester": [
+42.982,
+-71.465
+],
+"SW 6th Ave, Amarillo, TX 79106": [
+35.205,
+-101.873
+],
+"Sacramento Central Farmers Market (under Hwy 50) | sacramento": [
+38.56668,
+-121.5031
+],
+"Saenger Theatre | new-orleans": [
+29.9558,
+-90.07284
+],
+"Saenger Theatre | pensacola": [
+30.41,
+-87.214
+],
+"Saengerfest Park | galveston": [
+29.30733,
+-94.7947
+],
+"Saint Louis Zoo | st-louis": [
+38.6355,
+-90.2905
+],
+"Salem Maritime NHP | salem-ma": [
+42.521,
+-70.887
+],
+"Sam Noble Oklahoma Museum of Natural History | norman": [
+35.1944,
+-97.449
+],
+"San Antonio Botanical Garden | san-antonio": [
+29.45771,
+-98.45954
+],
+"San Antonio River Walk | san-antonio": [
+29.42318,
+-98.49058
+],
+"San Antonio Zoo | san-antonio": [
+29.46379,
+-98.47242
+],
+"San Diego Botanic Garden | san-diego": [
+33.05558,
+-117.27942
+],
+"San Francisco Botanical Garden | san-francisco": [
+37.76736,
+-122.46968
+],
+"San Jacinto Plaza and Downtown El Paso | el-paso": [
+31.759,
+-106.489
+],
+"San Jacinto Plaza | el-paso": [
+31.759,
+-106.489
+],
+"San Jacinto Plaza, El Paso, TX 79901": [
+31.759,
+-106.489
+],
+"San Jose Improv | san-jose": [
+37.33552,
+-121.88852
+],
+"San José Museum of Art | san-jose": [
+37.33361,
+-121.88917
+],
+"Sanford Pentagon | sioux-falls": [
+43.528,
+-96.736
+],
+"Sanford Stadium | athens": [
+33.9496,
+-83.3734
+],
+"Santa Barbara Museum of Art | santa-barbara": [
+34.42337,
+-119.70387
+],
+"Santa Barbara Museum of Natural History | santa-barbara": [
+34.44099,
+-119.71478
+],
+"Santa Barbara Zoo | santa-barbara": [
+34.41943,
+-119.66824
+],
+"Santa Fe Community Convention Center | santa-fe": [
+35.69002,
+-105.93982
+],
+"Santa Fe Playhouse | santa-fe": [
+35.683,
+-105.937
+],
+"Santa Fe Plaza | santa-fe": [
+35.687,
+-105.938
+],
+"Santa Monica Pier (Event Deck) | los-angeles": [
+34.01001,
+-118.49664
+],
+"Santa's Wonderland | college-station": [
+30.52084,
+-96.21828
+],
+"Santander Arena | reading": [
+40.336,
+-75.92
+],
+"Santander Performing Arts Center | reading": [
+40.338,
+-75.928
+],
+"Sarah P. Duke Gardens | durham": [
+36.002,
+-78.932
+],
+"Saturn | birmingham": [
+33.52428,
+-86.77462
+],
+"Schuster Center | dayton": [
+39.761,
+-84.193
+],
+"Sci-Port Discovery Center | shreveport": [
+32.515,
+-93.745
+],
+"Science Museum of Virginia | richmond": [
+37.56111,
+-77.46583
+],
+"Science Spectrum | lubbock": [
+33.5283,
+-101.87657
+],
+"Scissortail Park (The Promenade, Upper Park) | oklahoma-city": [
+35.45964,
+-97.51769
+],
+"Scissortail Park | oklahoma-city": [
+35.45964,
+-97.51769
+],
+"Scope Arena | norfolk": [
+36.855,
+-76.287
+],
+"Scranton Cultural Center at the Masonic Temple | scranton": [
+41.41099,
+-75.66019
+],
+"Sea Tea Comedy Theater | hartford": [
+41.76644,
+-72.6737
+],
+"SeaWorld San Antonio | san-antonio": [
+29.45663,
+-98.69866
+],
+"Seacoast Repertory Theatre | portsmouth-nh": [
+43.078,
+-70.757
+],
+"Seaport Village | san-diego": [
+32.71139,
+-117.17051
+],
+"Seattle Center, Seattle, WA 98109": [
+47.622,
+-122.354
+],
+"Seawalk Pavilion | jacksonville": [
+30.29056,
+-81.38954
+],
+"Seawall Blvd, Galveston, TX 77550": [
+29.283,
+-94.795
+],
+"Seawall Boulevard | galveston": [
+29.283,
+-94.795
+],
+"Shea's 710 Theatre | buffalo": [
+42.8925,
+-78.8722
+],
+"Shelby Farms Park | memphis": [
+35.1388,
+-89.8325
+],
+"Sheldon Museum of Art | lincoln": [
+40.818,
+-96.704
+],
+"Shelter Gardens | columbia-mo": [
+38.958,
+-92.36
+],
+"Shoreline Blvd, Corpus Christi, TX 78401": [
+27.795,
+-97.392
+],
+"Shoreline Village | long-beach": [
+33.761,
+-118.191
+],
+"Showplace Theatre at Riverwind Casino | norman": [
+35.194,
+-97.462
+],
+"Shubert Theatre (Boch Center) | boston": [
+42.3504,
+-71.0654
+],
+"Silver Legacy | reno": [
+39.531,
+-119.815
+],
+"Simmons Bank Liberty Stadium | memphis": [
+35.121,
+-89.9774
+],
+"Six Flags Fiesta Texas | san-antonio": [
+29.59979,
+-98.60887
+],
+"Six Mile Cypress Slough Preserve | fort-myers": [
+26.5705,
+-81.8263
+],
+"Skinner Butte Park | eugene": [
+44.059,
+-123.092
+],
+"Skyline Dr, St. George, UT 84770": [
+37.118,
+-113.595
+],
+"Smale Riverfront Park | cincinnati": [
+39.09524,
+-84.51011
+],
+"Smith Fieldhouse | provo": [
+40.249,
+-111.651
+],
+"Smithsonian's National Zoo | washington-dc": [
+38.9311,
+-77.0497
+],
+"Snow Canyon State Park | st-george": [
+37.203,
+-113.641
+],
+"Snowport | boston": [
+42.3547,
+-71.05134
+],
+"Soldiers & Sailors Memorial Auditorium | chattanooga": [
+35.047,
+-85.304
+],
+"Solvang Park | santa-barbara": [
+34.59532,
+-120.14051
+],
+"Sound Waves at Hard Rock | atlantic-city": [
+39.36,
+-74.422
+],
+"South Carolina State Museum | columbia-sc": [
+33.99906,
+-81.04808
+],
+"South Philadelphia | philadelphia": [
+39.92555,
+-75.16946
+],
+"South Texas Botanical Gardens & Nature Center | corpus-christi": [
+27.65253,
+-97.40686
+],
+"Space Center Houston | houston": [
+29.55192,
+-95.09837
+],
+"Special Events Center, Greensboro Complex | greensboro": [
+36.059,
+-79.825
+],
+"Spectrum Center | charlotte": [
+35.2251,
+-80.8392
+],
+"Spencer Theatre (UMKC campus) | kansas-city": [
+39.03674,
+-94.57941
+],
+"Splash Pad Park | oakland": [
+37.811,
+-122.247
+],
+"Spokane Comedy Club | spokane": [
+47.657,
+-117.417
+],
+"Springfield Botanical Center | springfield-mo": [
+37.176,
+-93.338
+],
+"Springfield Museums | springfield-ma": [
+42.104,
+-72.585
+],
+"St. Augustine Alligator Farm Zoological Park | st-augustine": [
+29.88189,
+-81.28859
+],
+"St. Johns County Ocean Pier | st-augustine": [
+29.857,
+-81.26593
+],
+"St. Pete Pier | st-petersburg": [
+27.774,
+-82.625
+],
+"Stadium Theatre | providence": [
+42.00528,
+-71.51278
+],
+"StarDome Comedy Club | birmingham": [
+33.384,
+-86.805
+],
+"Stargazers Theatre | colorado-springs": [
+38.829,
+-104.809
+],
+"State Botanical Garden of Georgia | athens": [
+33.901,
+-83.383
+],
+"State Farm Arena | atlanta": [
+33.75722,
+-84.39639
+],
+"State St & Carrillo St, Santa Barbara, CA 93101": [
+34.42147,
+-119.7019
+],
+"Steamboat Landing | ithaca": [
+42.4518,
+-76.5048
+],
+"Steinmetz Hall, Dr. Phillips Center | orlando": [
+28.53803,
+-81.37819
+],
+"Steven Tanger Center for the Performing Arts | greensboro": [
+36.075,
+-79.79
+],
+"Stone Zoo | boston": [
+42.46296,
+-71.09295
+],
+"Stranahan Theater | toledo": [
+41.609,
+-83.621
+],
+"Strasenburgh Planetarium | rochester": [
+43.1527,
+-77.5894
+],
+"Straz Center, Ferguson Hall | tampa": [
+27.9515,
+-82.4639
+],
+"Straz Center, Morsani Hall | tampa": [
+27.9515,
+-82.4639
+],
+"Strummer's | fresno": [
+36.7653,
+-119.8073
+],
+"Symphony Center | chicago": [
+41.87898,
+-87.62509
+],
+"Syracuse Stage | syracuse": [
+43.04658,
+-76.13823
+],
+"T-Mobile Arena | las-vegas": [
+36.10352,
+-115.17359
+],
+"TD Arena | charleston": [
+32.786,
+-79.935
+],
+"TD Garden | boston": [
+42.36639,
+-71.06222
+],
+"TPAC Jackson Hall | nashville": [
+36.1649,
+-86.7817
+],
+"Tacoma Comedy Club | tacoma": [
+47.256,
+-122.441
+],
+"Tallahassee Museum | tallahassee": [
+30.4089,
+-84.3523
+],
+"Tampa Convention Center & Sail Plaza | tampa": [
+27.9417,
+-82.4567
+],
+"Tampa Theatre | tampa": [
+27.95038,
+-82.45881
+],
+"Target Center | minneapolis": [
+44.97944,
+-93.27611
+],
+"Temple Square | salt-lake-city": [
+40.77056,
+-111.8925
+],
+"Tennessee Theatre | knoxville": [
+35.965,
+-83.918
+],
+"Texas Live! | arlington": [
+32.74914,
+-97.08494
+],
+"Texas Renaissance Festival | houston": [
+30.25423,
+-95.84092
+],
+"Texas State Aquarium | corpus-christi": [
+27.81472,
+-97.39192
+],
+"Thalia Mara Hall | jackson": [
+32.296,
+-90.183
+],
+"Thalian Hall | wilmington-nc": [
+34.237,
+-77.946
+],
+"The Alamo | san-antonio": [
+29.42584,
+-98.48682
+],
+"The Alcazar Theatre | santa-barbara": [
+34.39959,
+-119.51896
+],
+"The Anthem | washington-dc": [
+38.88009,
+-77.02611
+],
+"The Ark | ann-arbor": [
+42.27928,
+-83.74866
+],
+"The Backyard | waco": [
+31.552,
+-97.139
+],
+"The Bakersfield Fox Theater | bakersfield": [
+35.377,
+-119.019
+],
+"The Battery Atlanta | atlanta": [
+33.89041,
+-84.46983
+],
+"The BayCare Sound | tampa": [
+27.96822,
+-82.80305
+],
+"The Bellevue Collection | seattle": [
+47.61556,
+-122.20389
+],
+"The Bing Crosby Theater | spokane": [
+47.65694,
+-117.42528
+],
+"The Breakers | newport": [
+41.47,
+-71.299
+],
+"The Bushnell | hartford": [
+41.7631,
+-72.682
+],
+"The Carolina Opry | myrtle-beach": [
+33.755,
+-78.802
+],
+"The Commons, Ithaca, NY 14850": [
+42.4393,
+-76.497
+],
+"The Dalí Museum | st-petersburg": [
+27.766,
+-82.631
+],
+"The Dome | virginia-beach": [
+36.846,
+-75.976
+],
+"The Farmers' Market in Brazos County | college-station": [
+30.63782,
+-96.36307
+],
+"The Fillmore Detroit | detroit": [
+42.33781,
+-83.05179
+],
+"The Fillmore Miami Beach at The Jackie Gleason Theater | miami": [
+25.79293,
+-80.13311
+],
+"The Flynn | burlington": [
+44.476,
+-73.212
+],
+"The Grand 1894 Opera House | galveston": [
+29.30572,
+-94.79068
+],
+"The Grey Eagle | asheville": [
+35.588,
+-82.564
+],
+"The Grotto | portland": [
+45.5533,
+-122.5734
+],
+"The Hanover Theatre | springfield-ma": [
+42.261,
+-71.803
+],
+"The Hanover Theatre | worcester": [
+42.261,
+-71.803
+],
+"The Ice Box | lincoln": [
+40.825,
+-96.709
+],
+"The Ice Sheet | ogden": [
+41.185,
+-111.954
+],
+"The Ingersoll | des-moines": [
+41.586,
+-93.672
+],
+"The Long Center (Dell Hall) | austin": [
+30.26026,
+-97.75124
+],
+"The Met Philadelphia | philadelphia": [
+39.96951,
+-75.15997
+],
+"The North Carolina Arboretum | asheville": [
+35.49625,
+-82.60946
+],
+"The Observatory North Park | san-diego": [
+32.74801,
+-117.13128
+],
+"The Old Globe | san-diego": [
+32.73223,
+-117.15236
+],
+"The Orange Peel | asheville": [
+35.591,
+-82.551
+],
+"The PACC | waco": [
+31.55264,
+-97.13581
+],
+"The Pageant | st-louis": [
+38.6556,
+-90.2979
+],
+"The Palladium | worcester": [
+42.262,
+-71.804
+],
+"The Paramount Theater | charlottesville": [
+38.031,
+-78.48
+],
+"The Parker | fort-lauderdale": [
+26.132,
+-80.137
+],
+"The Pearl | san-antonio": [
+29.44248,
+-98.47983
+],
+"The Pit | albuquerque": [
+35.0669,
+-106.6319
+],
+"The Players' Ring | portsmouth-nh": [
+43.077,
+-70.753
+],
+"The Plaza at Fiserv Forum | milwaukee": [
+43.04503,
+-87.91817
+],
+"The Providence Rink (BankNewport City Center) | providence": [
+41.82494,
+-71.41161
+],
+"The Radio Room | greenville": [
+34.8708,
+-82.4129
+],
+"The Ramkat | winston-salem": [
+36.103,
+-80.246
+],
+"The Rex Theatre | manchester": [
+42.992,
+-71.463
+],
+"The Rotunda | charlottesville": [
+38.0356,
+-78.5034
+],
+"The Second City | chicago": [
+41.91178,
+-87.63484
+],
+"The Showroom at Wiseguys (The Gateway) | salt-lake-city": [
+40.7685,
+-111.9038
+],
+"The Southern Café & Music Hall | charlottesville": [
+38.03,
+-78.482
+],
+"The St. Augustine Amphitheatre | st-augustine": [
+29.87417,
+-81.2847
+],
+"The Starlet Room at Harlow's | sacramento": [
+38.57387,
+-121.47013
+],
+"The Strand | galveston": [
+29.308,
+-94.794
+],
+"The Tech Interactive | san-jose": [
+37.33144,
+-121.89073
+],
+"The Theater at North | scranton": [
+41.425,
+-75.665
+],
+"The Vogue | indianapolis": [
+39.86921,
+-86.14574
+],
+"Third Space Improv | st-augustine": [
+29.89395,
+-81.32064
+],
+"Third St S, Naples, FL 34102": [
+26.136,
+-81.8
+],
+"Third Street South | naples": [
+26.136,
+-81.8
+],
+"Thomas & Mack Center | las-vegas": [
+36.103,
+-115.1398
+],
+"Tipitina's | new-orleans": [
+29.91714,
+-90.10098
+],
+"Titletown | green-bay": [
+44.5013,
+-88.0622
+],
+"Tivoli Quad, Auraria Campus | denver": [
+39.74548,
+-105.00547
+],
+"Toad’s Place | new-haven": [
+41.3115,
+-72.93
+],
+"Todd Wehr Theater, Marcus Performing Arts Center | milwaukee": [
+43.04286,
+-87.91164
+],
+"Toledo Museum of Art | toledo": [
+41.658,
+-83.56
+],
+"Tony Knowles Coastal Trail | anchorage": [
+61.218,
+-149.91
+],
+"Topeka Performing Arts Center | topeka": [
+39.048,
+-95.673
+],
+"Topeka Zoo | topeka": [
+39.051,
+-95.729
+],
+"Touhill Performing Arts Center | st-louis": [
+38.70713,
+-90.31136
+],
+"Tower Theatre | bend": [
+44.058,
+-121.314
+],
+"Tower Theatre | fresno": [
+36.7577,
+-119.798
+],
+"Town Square | jackson-wy": [
+43.48,
+-110.762
+],
+"Township Auditorium | columbia-sc": [
+34.008,
+-81.032
+],
+"Trask Coliseum | wilmington-nc": [
+34.224,
+-77.87
+],
+"Tropical Park | miami": [
+25.732,
+-80.323
+],
+"Tropicana Showroom | atlantic-city": [
+39.355,
+-74.44
+],
+"Troy Atrium | albany": [
+42.7316,
+-73.6909
+],
+"Truckee River Walk | reno": [
+39.526,
+-119.812
+],
+"Truist Field | charlotte": [
+35.2283,
+-80.8484
+],
+"Tuacahn Center for the Arts | st-george": [
+37.2011,
+-113.6418
+],
+"Tucson Arena | tucson": [
+32.2177,
+-110.9727
+],
+"Tucson Botanical Gardens | tucson": [
+32.24852,
+-110.90879
+],
+"Turner Hall Ballroom | milwaukee": [
+43.0436,
+-87.9156
+],
+"Two Mississippi Museums | jackson": [
+32.304,
+-90.18
+],
+"U.S. Bank Stadium | minneapolis": [
+44.974,
+-93.258
+],
+"U.S. Botanic Garden | washington-dc": [
+38.88813,
+-77.01291
+],
+"U.S. Space & Rocket Center | huntsville": [
+34.71139,
+-86.65417
+],
+"UMMA | ann-arbor": [
+42.2754,
+-83.74
+],
+"UWM Panther Arena | milwaukee": [
+43.04222,
+-87.91694
+],
+"Union Arts Center | seattle": [
+47.61083,
+-122.33242
+],
+"Union Depot East Plaza | minneapolis": [
+44.94802,
+-93.08504
+],
+"Union Square | san-francisco": [
+37.78806,
+-122.4075
+],
+"Universal Studios Hollywood | los-angeles": [
+34.13468,
+-118.35051
+],
+"University Blvd SE & Stadium Blvd SE, Albuquerque, NM 87106": [
+35.0669,
+-106.6319
+],
+"University Place | provo": [
+40.275,
+-111.67917
+],
+"University Stadium | albuquerque": [
+35.067,
+-106.629
+],
+"University of Notre Dame | south-bend": [
+41.703,
+-86.239
+],
+"Upstate Medical University Arena | syracuse": [
+43.04488,
+-76.14822
+],
+"Urbanite Theatre | sarasota": [
+27.337,
+-82.541
+],
+"Utah's Hogle Zoo | salt-lake-city": [
+40.7498,
+-111.814
+],
+"Valley Children's Stadium | fresno": [
+36.8139,
+-119.7579
+],
+"Value City Arena at the Schottenstein Center | columbus": [
+40.00751,
+-83.0251
+],
+"Van Andel Arena | grand-rapids": [
+42.962,
+-85.672
+],
+"Ventura Music Hall | ventura": [
+34.28,
+-119.297
+],
+"Ventura Pier | ventura": [
+34.274,
+-119.29
+],
+"Vermilionville | lafayette": [
+30.205,
+-91.991
+],
+"Vermont Comedy Club | burlington": [
+44.47578,
+-73.2155
+],
+"Veterans Memorial Coliseum | portland": [
+45.53222,
+-122.66944
+],
+"Victoria Mansion | portland-me": [
+43.6515,
+-70.2607
+],
+"Victoria Theatre | dayton": [
+39.76,
+-84.192
+],
+"Victory North | savannah": [
+32.057,
+-81.098
+],
+"Villa Zorayda Museum | st-augustine": [
+29.8916,
+-81.31514
+],
+"Village Green, downtown Greenville | greenville": [
+34.847,
+-82.401
+],
+"Village Park | charlotte": [
+35.495,
+-80.629
+],
+"Village of Skaneateles | syracuse": [
+42.94435,
+-76.44226
+],
+"Virginia Beach Boardwalk | virginia-beach": [
+36.85,
+-75.976
+],
+"W Colorado Ave, Colorado Springs, CO 80904": [
+38.847,
+-104.869
+],
+"W Genesee St & S Salina St, Syracuse, NY 13202": [
+43.0509,
+-76.15239
+],
+"Waco Downtown Farmers Market | waco": [
+31.56361,
+-97.12531
+],
+"Walnut Street Bridge | chattanooga": [
+35.059,
+-85.307
+],
+"Walnut Street Theatre | philadelphia": [
+39.94852,
+-75.15546
+],
+"Walt Disney Concert Hall | los-angeles": [
+34.05554,
+-118.24902
+],
+"Walton Arts Center | fayetteville-ar": [
+36.066,
+-94.166
+],
+"Wang Theatre (Boch Center) | boston": [
+42.35028,
+-71.06472
+],
+"Warehouse Live Midtown | houston": [
+29.74588,
+-95.37511
+],
+"Warner Theatre | washington-dc": [
+38.89637,
+-77.02952
+],
+"Washington Pavilion | sioux-falls": [
+43.54407,
+-96.72904
+],
+"Washington-Grizzly Stadium | missoula": [
+46.8597,
+-113.9858
+],
+"Water St, Wilmington, NC 28401": [
+34.235,
+-77.95
+],
+"Waterfront Botanical Gardens | louisville": [
+38.26079,
+-85.72298
+],
+"Waterfront | west-palm-beach": [
+26.713,
+-80.05
+],
+"Weatherspoon Art Museum | greensboro": [
+36.068,
+-79.81
+],
+"Weber Point Events Center | stockton": [
+37.956,
+-121.296
+],
+"West Shore Park, Inner Harbor | baltimore": [
+39.282737,
+-76.61223
+],
+"Western Heritage Center | billings": [
+45.78095,
+-108.50552
+],
+"Westlake Center | seattle": [
+47.61111,
+-122.33694
+],
+"Wheeler District (Spoke St) | oklahoma-city": [
+35.44801,
+-97.53187
+],
+"Wheeler Historic Farm | salt-lake-city": [
+40.63417,
+-111.86167
+],
+"Wheelwright Museum of the American Indian | santa-fe": [
+35.66275,
+-105.92958
+],
+"Whitney Hall, The Kentucky Center | louisville": [
+38.25731,
+-85.75881
+],
+"Will Rogers Memorial Auditorium | fort-worth": [
+32.74611,
+-97.36639
+],
+"William J. Clinton Presidential Center | little-rock": [
+34.7474,
+-92.2591
+],
+"Wilmington Riverwalk | wilmington-nc": [
+34.235,
+-77.95
+],
+"Wings Event Center | kalamazoo": [
+42.26,
+-85.547
+],
+"Winspear Opera House | dallas": [
+32.79095,
+-96.79801
+],
+"Winston-Salem Fairgrounds Arena | winston-salem": [
+36.126,
+-80.256
+],
+"Wise Crackers Comedy Club, Mohegan Pennsylvania | scranton": [
+41.26663,
+-75.8216
+],
+"Wiseguys Comedy Club (The Gateway) | provo": [
+40.76522,
+-111.90261
+],
+"Wolf Theatre, Denver Center for the Performing Arts | denver": [
+39.74444,
+-104.9975
+],
+"Wonderland Big Top | sarasota": [
+27.388,
+-82.446
+],
+"Woodland Park Zoo | seattle": [
+47.66834,
+-122.34984
+],
+"Worcester Public Market | worcester": [
+42.258,
+-71.798
+],
+"Wortham Theater Center | houston": [
+29.7626,
+-95.36675
+],
+"Wyly Theatre | dallas": [
+32.78998,
+-96.79642
+],
+"Wyoming State Museum | cheyenne": [
+41.139,
+-104.818
+],
+"Xfinity Mobile Arena | philadelphia": [
+39.9011,
+-75.17202
+],
+"Yale Peabody Museum | new-haven": [
+41.31597,
+-72.92381
+],
+"Yale University Art Gallery | new-haven": [
+41.3083,
+-72.931
+],
+"Yellowstone Art Museum | billings": [
+45.788,
+-108.507
+],
+"Yerba Buena Gardens | san-francisco": [
+37.784,
+-122.402
+],
+"Yew Dell Botanical Gardens | louisville": [
+38.34169,
+-85.46569
+],
+"Yost Ice Arena | ann-arbor": [
+42.268,
+-83.741
+],
+"ZACH Theatre (Topfer) | austin": [
+30.26438,
+-97.75702
+],
+"Zilker Park | austin": [
+30.2661,
+-97.76741
+],
+"Zoo Miami | miami": [
+25.61,
+-80.4
+],
+"ZooMontana | billings": [
+45.7315,
+-108.6226
+],
+"ʻImiloa Astronomy Center | hilo": [
+19.702,
+-155.089
+]
+}
