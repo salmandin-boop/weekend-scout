@@ -1,0 +1,129 @@
+{
+ "city": "ann-arbor",
+ "updated": "2026-11-25",
+ "source": "OpenTable Ann Arbor date-night/ambience/wine-bar lists (Nov 2026 reviews), venue official sites, U-M visitor pages; coordinates from US Census geocoder (Nominatim blocked)",
+ "spots": [
+  {
+   "name": "The Earle",
+   "kind": "dinner",
+   "cuisine": "French",
+   "area": "Downtown",
+   "lat": 42.28046,
+   "lon": -83.74882
+  },
+  {
+   "name": "Cafe Zola",
+   "kind": "dinner",
+   "cuisine": "Contemporary American",
+   "area": "Downtown",
+   "lat": 42.28057,
+   "lon": -83.74873
+  },
+  {
+   "name": "Mani Osteria",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "Downtown (E Liberty)",
+   "lat": 42.27953,
+   "lon": -83.74524
+  },
+  {
+   "name": "Sava's",
+   "kind": "dinner",
+   "cuisine": "American",
+   "area": "State Street",
+   "lat": 42.28016,
+   "lon": -83.7409
+  },
+  {
+   "name": "Zingerman's Delicatessen",
+   "kind": "lunch",
+   "cuisine": "Deli sandwiches, kids' menu",
+   "area": "Kerrytown",
+   "lat": 42.2843,
+   "lon": -83.74565
+  },
+  {
+   "name": "Frita Batidos",
+   "kind": "lunch",
+   "cuisine": "Cuban street food",
+   "area": "Downtown",
+   "lat": 42.28045,
+   "lon": -83.74878
+  },
+  {
+   "name": "Allen Rumsey Cocktail Lounge",
+   "kind": "drinks",
+   "cuisine": "Classic cocktails",
+   "area": "Downtown (Graduate Ann Arbor)",
+   "lat": 42.28127,
+   "lon": -83.74175
+  },
+  {
+   "name": "University of Michigan Museum of Art (UMMA)",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Central Campus",
+   "lat": 42.2754,
+   "lon": -83.74,
+   "price": "Free",
+   "blurb": "Major university art museum with free admission; open late Thursday through Sunday.",
+   "blurbEs": "Gran museo de arte universitario con entrada gratis; abre hasta tarde de jueves a domingo."
+  },
+  {
+   "name": "U-M Museum of Natural History",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Central Campus",
+   "lat": 42.27868,
+   "lon": -83.73659,
+   "price": "Free",
+   "blurb": "Dinosaur skeletons and science exhibits in the Biological Sciences Building, free for families; open Tuesday–Sunday.",
+   "blurbEs": "Esqueletos de dinosaurios y exhibiciones de ciencia en el Biological Sciences Building, gratis para familias; abre de martes a domingo."
+  },
+  {
+   "name": "Ann Arbor Hands-On Museum",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 42.28226,
+   "lon": -83.74689,
+   "price": "$16",
+   "blurb": "Interactive science museum for kids, open 10 a.m.–5 p.m. Tuesday–Sunday.",
+   "blurbEs": "Museo de ciencias interactivo para niños, abierto de 10 a.m. a 5 p.m. de martes a domingo."
+  },
+  {
+   "name": "Ann Arbor Farmers Market",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Kerrytown",
+   "lat": 42.28341,
+   "lon": -83.74671,
+   "price": "Free",
+   "blurb": "Year-round city market next to Kerrytown's shops and Zingerman's; Saturdays 7 a.m.–3 p.m. through December.",
+   "blurbEs": "Mercado municipal abierto todo el año junto a las tiendas de Kerrytown y Zingerman's; los sábados de 7 a.m. a 3 p.m. hasta diciembre."
+  },
+  {
+   "name": "Nichols Arboretum",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Central Campus / Geddes",
+   "lat": 42.28048,
+   "lon": -83.7279,
+   "price": "Free",
+   "blurb": "Rolling trails along the Huron River, open sunrise to sunset; good for a crisp weekend walk.",
+   "blurbEs": "Senderos entre colinas junto al río Huron, abiertos del amanecer al atardecer; ideales para una caminata de fin de semana."
+  },
+  {
+   "name": "Matthaei Botanical Gardens",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Northeast Ann Arbor",
+   "lat": 42.29961,
+   "lon": -83.66613,
+   "price": "Free (metered parking)",
+   "blurb": "Indoor conservatory and gardens, a warm escape on a cold day; open Tuesday–Saturday, 10 a.m.–4:30 p.m.",
+   "blurbEs": "Invernadero y jardines, un refugio cálido en un día frío; abre de martes a sábado, de 10 a.m. a 4:30 p.m."
+  }
+ ]
+}

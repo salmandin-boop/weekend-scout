@@ -1,0 +1,86 @@
+{
+ "city": "reno",
+ "updated": "2026-11-25",
+ "source": "Dinner picks from OpenTable's Reno romantic-restaurant list (reviews through Sep 2026); attractions from official museum and Washoe County pages. Coordinates: Wikipedia for landmarks, Weekend Scout venue file for casino restaurants (Nominatim unreachable this run).",
+ "spots": [
+  {
+   "name": "Roxy",
+   "kind": "dinner",
+   "cuisine": "Californian",
+   "area": "Downtown (Eldorado)",
+   "lat": 39.53,
+   "lon": -119.814
+  },
+  {
+   "name": "La Strada",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "Downtown (Eldorado)",
+   "lat": 39.53,
+   "lon": -119.814
+  },
+  {
+   "name": "Ruth's Chris Steak House",
+   "kind": "dinner",
+   "cuisine": "Steakhouse",
+   "area": "Downtown (Silver Legacy)",
+   "lat": 39.531,
+   "lon": -119.815
+  },
+  {
+   "name": "Nevada Museum of Art",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 39.52099,
+   "lon": -119.81338,
+   "price": "Tickets",
+   "blurb": "Nevada's art museum, open Tuesday to Sunday (Thursdays until 8 p.m.); kids 5 and under free.",
+   "blurbEs": "El museo de arte de Nevada, abierto de martes a domingo (jueves hasta las 8 p.m.); niños de 5 años o menos gratis."
+  },
+  {
+   "name": "National Automobile Museum",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 39.52586,
+   "lon": -119.8096,
+   "price": "Tickets",
+   "blurb": "The Harrah collection of classic and movie cars, a short walk from the river.",
+   "blurbEs": "La colección Harrah de autos clásicos y de película, a pocos pasos del río."
+  },
+  {
+   "name": "Rancho San Rafael Regional Park",
+   "kind": "always",
+   "cuisine": "",
+   "area": "North Reno",
+   "lat": 39.54583,
+   "lon": -119.82389,
+   "price": "Free",
+   "blurb": "Big county park with the Wilbur D. May Arboretum, the May Museum and an off-leash dog area.",
+   "blurbEs": "Gran parque del condado con el Wilbur D. May Arboretum, el May Museum y una zona para perros sin correa."
+  },
+  {
+   "name": "Idlewild Park",
+   "kind": "always",
+   "cuisine": "",
+   "area": "West of Downtown",
+   "lat": 39.52194,
+   "lon": -119.83306,
+   "price": "Free",
+   "blurb": "Riverside park along the Truckee with lawns, a pond and the historic California Building.",
+   "blurbEs": "Parque junto al río Truckee con prados, un estanque y el histórico California Building."
+  },
+  {
+   "name": "Truckee River Walk",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Riverwalk District",
+   "lat": 39.526,
+   "lon": -119.812,
+   "price": "Free",
+   "blurb": "Downtown riverside path past shops, bars and Wingfield Park.",
+   "blurbEs": "Paseo del centro junto al río, con tiendas, bares y Wingfield Park."
+  }
+ ]
+}

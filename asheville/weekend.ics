@@ -8,8 +8,194 @@ X-WR-CALDESC:Hand-checked weekend picks in Asheville, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
+UID:asheville-david-wilcox-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART:20261128T000000Z
+DTEND:20261128T020000Z
+SUMMARY:David Wilcox Annual Thanksgiving Homecoming Concert
+LOCATION:The Grey Eagle\, 185 Clingman Ave\, Asheville\, NC 28801
+DESCRIPTION:The Asheville singer-songwriter's yearly Thanksgiving homecomi
+ ng show. All ages\; doors at 6 p.m. $35.90–$46.20. Details: https://week
+ endscout.app/e/asheville/david-wilcox-2026-11/
+URL:https://weekendscout.app/e/asheville/david-wilcox-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:asheville-fireside-collective-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:Fireside Collective's Family Jamboree
+LOCATION:The Orange Peel\, 101 Biltmore Ave\, Asheville\, NC 28801
+DESCRIPTION:The Asheville progressive bluegrass band's post-Thanksgiving s
+ how with Jon Stickley & Lyndsey Pruett and The Asheville Horns. All ages\;
+  under-12s need venue approval. Tickets. Details: https://weekendscout.app
+ /e/asheville/fireside-collective-2026-11/
+URL:https://weekendscout.app/e/asheville/fireside-collective-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:asheville-ellis-paul-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART:20261130T010000Z
+DTEND:20261130T030000Z
+SUMMARY:An Evening With Ellis Paul
+LOCATION:The Grey Eagle\, 185 Clingman Ave\, Asheville\, NC 28801
+DESCRIPTION:The folk songwriter on Sunday night. All ages\; doors at 7 p.m
+ . $30.75–$41.05. Details: https://weekendscout.app/e/asheville/ellis-pau
+ l-2026-11/
+URL:https://weekendscout.app/e/asheville/ellis-paul-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:asheville-unca-vs-georgia-southern-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART:20261128T190000Z
+DTEND:20261128T210000Z
+SUMMARY:UNC Asheville vs. Georgia Southern (Holiday Game)
+LOCATION:Kimmel Arena\, 227 Campus Dr\, Asheville\, NC 28804
+DESCRIPTION:Bulldogs men's basketball with Santa\, a children's holiday ma
+ rket and a teddy bear toss. Kids get in free. Tickets (kids free). Details
+ : https://weekendscout.app/e/asheville/unca-vs-georgia-southern-2026-11-28
+ /
+URL:https://weekendscout.app/e/asheville/unca-vs-georgia-southern-2026-11-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:asheville-winter-lights-nc-arboretum-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART:20261127T230000Z
+DTEND:20261128T030000Z
+SUMMARY:Winter Lights
+LOCATION:The North Carolina Arboretum\, 100 Frederick Law Olmsted Way\, As
+ heville\, NC 28806
+DESCRIPTION:A walk-through holiday light show on a mile-long trail through
+  the gardens\, with live local music and cocoa. Last entry 9 p.m.\; peak d
+ ates sell out. Tickets. Details: https://weekendscout.app/e/asheville/wint
+ er-lights-nc-arboretum-2026-11/
+URL:https://weekendscout.app/e/asheville/winter-lights-nc-arboretum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:asheville-winter-lights-nc-arboretum-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART:20261128T230000Z
+DTEND:20261129T030000Z
+SUMMARY:Winter Lights
+LOCATION:The North Carolina Arboretum\, 100 Frederick Law Olmsted Way\, As
+ heville\, NC 28806
+DESCRIPTION:A walk-through holiday light show on a mile-long trail through
+  the gardens\, with live local music and cocoa. Last entry 9 p.m.\; peak d
+ ates sell out. Tickets. Details: https://weekendscout.app/e/asheville/wint
+ er-lights-nc-arboretum-2026-11/
+URL:https://weekendscout.app/e/asheville/winter-lights-nc-arboretum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:asheville-winter-lights-nc-arboretum-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART:20261129T230000Z
+DTEND:20261130T030000Z
+SUMMARY:Winter Lights
+LOCATION:The North Carolina Arboretum\, 100 Frederick Law Olmsted Way\, As
+ heville\, NC 28806
+DESCRIPTION:A walk-through holiday light show on a mile-long trail through
+  the gardens\, with live local music and cocoa. Last entry 9 p.m.\; peak d
+ ates sell out. Tickets. Details: https://weekendscout.app/e/asheville/wint
+ er-lights-nc-arboretum-2026-11/
+URL:https://weekendscout.app/e/asheville/winter-lights-nc-arboretum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:asheville-holiday-ice-rink-asheville-yards-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART:20261127T200000Z
+DTEND:20261127T220000Z
+SUMMARY:Holiday Ice Rink & Winter Wonderland
+LOCATION:Asheville Yards\, 75 Coxe Ave\, Asheville\, NC 28801
+DESCRIPTION:Downtown outdoor skating in 70-minute sessions with skate rent
+ al included\; buy ahead\, sessions sell out. Non-skaters can enter the Win
+ ter Wonderland free. $15–$25. Details: https://weekendscout.app/e/ashevi
+ lle/holiday-ice-rink-asheville-yards-2026-11/
+URL:https://weekendscout.app/e/asheville/holiday-ice-rink-asheville-yards-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:asheville-holiday-ice-rink-asheville-yards-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART:20261128T150000Z
+DTEND:20261128T170000Z
+SUMMARY:Holiday Ice Rink & Winter Wonderland
+LOCATION:Asheville Yards\, 75 Coxe Ave\, Asheville\, NC 28801
+DESCRIPTION:Downtown outdoor skating in 70-minute sessions with skate rent
+ al included\; buy ahead\, sessions sell out. Non-skaters can enter the Win
+ ter Wonderland free. $15–$25. Details: https://weekendscout.app/e/ashevi
+ lle/holiday-ice-rink-asheville-yards-2026-11/
+URL:https://weekendscout.app/e/asheville/holiday-ice-rink-asheville-yards-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:asheville-holiday-ice-rink-asheville-yards-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART:20261129T150000Z
+DTEND:20261129T170000Z
+SUMMARY:Holiday Ice Rink & Winter Wonderland
+LOCATION:Asheville Yards\, 75 Coxe Ave\, Asheville\, NC 28801
+DESCRIPTION:Downtown outdoor skating in 70-minute sessions with skate rent
+ al included\; buy ahead\, sessions sell out. Non-skaters can enter the Win
+ ter Wonderland free. $15–$25. Details: https://weekendscout.app/e/ashevi
+ lle/holiday-ice-rink-asheville-yards-2026-11/
+URL:https://weekendscout.app/e/asheville/holiday-ice-rink-asheville-yards-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:asheville-grove-arcade-tree-lighting-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART:20261128T200000Z
+DTEND:20261129T000000Z
+SUMMARY:Holiday Tree Lighting Block Party
+LOCATION:Grove Arcade\, 1 Page Ave\, Asheville\, NC 28801
+DESCRIPTION:Downtown kicks off the season with Asheville Ballet\, jazz\, c
+ aroling\, Santa photos\, a DJ and pop-up bars on Restaurant Row. Check det
+ ails. Details: https://weekendscout.app/e/asheville/grove-arcade-tree-ligh
+ ting-2026-11-28/
+URL:https://weekendscout.app/e/asheville/grove-arcade-tree-lighting-2026-11-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:asheville-lazoom-holiday-comedy-tour-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:LaZoom Hey Asheville Holiday Comedy Tour
+LOCATION:LaZoom Room\, 76 Biltmore Ave\, Asheville\, NC 28801
+DESCRIPTION:The purple comedy bus's holiday version of its city tour\, mix
+ ing local history with sketch comedy. For guests 13 and older. From $52. D
+ etails: https://weekendscout.app/e/asheville/lazoom-holiday-comedy-tour-20
+ 26-11/
+URL:https://weekendscout.app/e/asheville/lazoom-holiday-comedy-tour-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:asheville-lazoom-holiday-comedy-tour-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:LaZoom Hey Asheville Holiday Comedy Tour
+LOCATION:LaZoom Room\, 76 Biltmore Ave\, Asheville\, NC 28801
+DESCRIPTION:The purple comedy bus's holiday version of its city tour\, mix
+ ing local history with sketch comedy. For guests 13 and older. From $52. D
+ etails: https://weekendscout.app/e/asheville/lazoom-holiday-comedy-tour-20
+ 26-11/
+URL:https://weekendscout.app/e/asheville/lazoom-holiday-comedy-tour-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:asheville-lazoom-holiday-comedy-tour-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:LaZoom Hey Asheville Holiday Comedy Tour
+LOCATION:LaZoom Room\, 76 Biltmore Ave\, Asheville\, NC 28801
+DESCRIPTION:The purple comedy bus's holiday version of its city tour\, mix
+ ing local history with sketch comedy. For guests 13 and older. From $52. D
+ etails: https://weekendscout.app/e/asheville/lazoom-holiday-comedy-tour-20
+ 26-11/
+URL:https://weekendscout.app/e/asheville/lazoom-holiday-comedy-tour-2026-11/
+END:VEVENT
+BEGIN:VEVENT
 UID:asheville-river-arts-district-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T021602Z
+DTSTAMP:20261126T024607Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -22,7 +208,7 @@ URL:https://weekendscout.app/e/asheville/river-arts-district-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:asheville-river-arts-district-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T021602Z
+DTSTAMP:20261126T024607Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -35,7 +221,7 @@ URL:https://weekendscout.app/e/asheville/river-arts-district-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:asheville-river-arts-district-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T021602Z
+DTSTAMP:20261126T024607Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -45,38 +231,5 @@ DESCRIPTION:More than 200 working artists in old riverside warehouses\; ma
  ny studios open to visitors on weekends. Free to browse. Details: https://
  weekendscout.app/e/asheville/river-arts-district-2026-11/
 URL:https://weekendscout.app/e/asheville/river-arts-district-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:asheville-david-wilcox-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T021602Z
-DTSTART:20261128T000000Z
-DTEND:20261128T020000Z
-SUMMARY:David Wilcox
-LOCATION:The Grey Eagle\, 185 Clingman Ave\, Asheville\, NC 28801
-DESCRIPTION:The Asheville singer-songwriter’s hometown show. Tickets. De
- tails: https://weekendscout.app/e/asheville/david-wilcox-2026-11/
-URL:https://weekendscout.app/e/asheville/david-wilcox-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:asheville-fireside-collective-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T021602Z
-DTSTART:20261129T010000Z
-DTEND:20261129T030000Z
-SUMMARY:Fireside Collective
-LOCATION:The Orange Peel\, 101 Biltmore Ave\, Asheville\, NC 28801
-DESCRIPTION:Progressive bluegrass from the Asheville band. Tickets. Detail
- s: https://weekendscout.app/e/asheville/fireside-collective-2026-11/
-URL:https://weekendscout.app/e/asheville/fireside-collective-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:asheville-ellis-paul-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T021602Z
-DTSTART:20261130T010000Z
-DTEND:20261130T030000Z
-SUMMARY:Ellis Paul
-LOCATION:The Grey Eagle\, 185 Clingman Ave\, Asheville\, NC 28801
-DESCRIPTION:The folk songwriter on Sunday night. Tickets. Details: https:/
- /weekendscout.app/e/asheville/ellis-paul-2026-11/
-URL:https://weekendscout.app/e/asheville/ellis-paul-2026-11/
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,126 @@
+{
+ "city": "asheville",
+ "updated": "2026-11-25",
+ "source": "Picked from The Infatuation's Asheville guide (May 2026), Explore Asheville's bar guide (Jul 2026) and official venue sites (Nov 2026)",
+ "spots": [
+  {
+   "name": "Cúrate Bar de Tapas",
+   "kind": "dinner",
+   "cuisine": "Spanish tapas",
+   "area": "Downtown",
+   "lat": 35.59436,
+   "lon": -82.55159
+  },
+  {
+   "name": "Luminosa",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "Downtown",
+   "lat": 35.59514,
+   "lon": -82.55505
+  },
+  {
+   "name": "Chai Pani",
+   "kind": "dinner",
+   "cuisine": "Indian street food",
+   "area": "Downtown",
+   "lat": 35.59514,
+   "lon": -82.55507
+  },
+  {
+   "name": "Crusco",
+   "kind": "dinner",
+   "cuisine": "American",
+   "area": "River Arts District",
+   "lat": 35.58149,
+   "lon": -82.56437
+  },
+  {
+   "name": "Rosetta's Kitchen",
+   "kind": "lunch",
+   "cuisine": "Vegan comfort food, kid friendly",
+   "area": "Downtown",
+   "lat": 35.59826,
+   "lon": -82.55381
+  },
+  {
+   "name": "All Souls Pizza",
+   "kind": "lunch",
+   "cuisine": "Pizza",
+   "area": "River Arts District",
+   "lat": 35.58781,
+   "lon": -82.56431
+  },
+  {
+   "name": "Sovereign Remedies",
+   "kind": "drinks",
+   "cuisine": "Cocktails",
+   "area": "Downtown",
+   "lat": 35.5967,
+   "lon": -82.55121
+  },
+  {
+   "name": "5 Walnut Wine Bar",
+   "kind": "drinks",
+   "cuisine": "Wine bar & live music",
+   "area": "Downtown",
+   "lat": 35.59664,
+   "lon": -82.5525
+  },
+  {
+   "name": "Asheville Art Museum",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Pack Square",
+   "lat": 35.59487,
+   "lon": -82.55161,
+   "price": "Tickets",
+   "blurb": "American art from the 20th and 21st centuries on Pack Square; open Wednesday to Sunday",
+   "blurbEs": "Arte estadounidense de los siglos XX y XXI en Pack Square; abre de miércoles a domingo"
+  },
+  {
+   "name": "Western North Carolina Nature Center",
+   "kind": "always",
+   "cuisine": "",
+   "area": "East Asheville",
+   "lat": 35.57823,
+   "lon": -82.49494,
+   "price": "Tickets",
+   "blurb": "Wildlife park with red wolves, black bears and river otters native to the Southern Appalachians",
+   "blurbEs": "Parque de vida silvestre con lobos rojos, osos negros y nutrias de río nativos de los Apalaches del sur"
+  },
+  {
+   "name": "Botanical Gardens at Asheville",
+   "kind": "always",
+   "cuisine": "",
+   "area": "North Asheville",
+   "lat": 35.61534,
+   "lon": -82.55722,
+   "price": "Free",
+   "blurb": "Free garden of native Southern Appalachian plants, open daily from sunrise to sunset",
+   "blurbEs": "Jardín gratuito de plantas nativas de los Apalaches del sur, abierto todos los días de sol a sol"
+  },
+  {
+   "name": "Grove Arcade",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 35.59556,
+   "lon": -82.55667,
+   "price": "Free",
+   "blurb": "Grand 1929 arcade building filled with local shops, galleries and restaurants",
+   "blurbEs": "Gran edificio de galerías de 1929 lleno de tiendas locales, galerías de arte y restaurantes"
+  },
+  {
+   "name": "Biltmore Estate",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Biltmore Village",
+   "lat": 35.54,
+   "lon": -82.55194,
+   "price": "Tickets",
+   "blurb": "The Vanderbilts' 250-room chateau and gardens, decorated for Christmas through Jan. 10",
+   "blurbEs": "El castillo de 250 habitaciones de los Vanderbilt y sus jardines, decorado para Navidad hasta el 10 de enero"
+  }
+ ]
+}

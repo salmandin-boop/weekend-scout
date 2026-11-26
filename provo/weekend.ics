@@ -8,115 +8,153 @@ X-WR-CALDESC:Hand-checked weekend picks in Provo, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:provo-byu-museum-of-art-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T021602Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:BYU Museum of Art
-LOCATION:BYU Museum of Art\, N Campus Dr\, Provo\, UT 84602
-DESCRIPTION:BYU’s art museum\, free to visit. Free admission. Details: h
- ttps://weekendscout.app/e/provo/byu-museum-of-art-2026-11/
-URL:https://weekendscout.app/e/provo/byu-museum-of-art-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:provo-byu-museum-of-art-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T021602Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:BYU Museum of Art
-LOCATION:BYU Museum of Art\, N Campus Dr\, Provo\, UT 84602
-DESCRIPTION:BYU’s art museum\, free to visit. Free admission. Details: h
- ttps://weekendscout.app/e/provo/byu-museum-of-art-2026-11/
-URL:https://weekendscout.app/e/provo/byu-museum-of-art-2026-11/
-END:VEVENT
-BEGIN:VEVENT
 UID:provo-byu-cougars-vs-cincinnati-bearcats-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T021602Z
+DTSTAMP:20261126T024607Z
 DTSTART:20261128T203000Z
 DTEND:20261128T223000Z
 SUMMARY:BYU Cougars vs. Cincinnati Bearcats
 LOCATION:LaVell Edwards Stadium\, 1700 N Canyon Rd\, Provo\, UT 84604
-DESCRIPTION:BYU football on Saturday afternoon. Tickets. Details: https://
- weekendscout.app/e/provo/byu-cougars-vs-cincinnati-bearcats-2026-11/
+DESCRIPTION:BYU's final home football game of the regular season\, a Big 1
+ 2 matchup with Cincinnati that kicks off at 1:30 p.m. on FOX. Tickets. Det
+ ails: https://weekendscout.app/e/provo/byu-cougars-vs-cincinnati-bearcats-
+ 2026-11/
 URL:https://weekendscout.app/e/provo/byu-cougars-vs-cincinnati-bearcats-2026-11/
 END:VEVENT
 BEGIN:VEVENT
-UID:provo-earthbound-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T021602Z
-DTSTART:20261127T233000Z
-DTEND:20261128T013000Z
-SUMMARY:Earthbound
-LOCATION:Covey Center for the Arts\, 425 W Center St\, Provo\, UT 84601
-DESCRIPTION:A local ballet production\, six performances. Tickets. Details
- : https://weekendscout.app/e/provo/earthbound-2026-11/
-URL:https://weekendscout.app/e/provo/earthbound-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:provo-earthbound-2026-11-fri-1@weekendscout.app
-DTSTAMP:20261126T021602Z
-DTSTART:20261128T023000Z
-DTEND:20261128T043000Z
-SUMMARY:Earthbound
-LOCATION:Covey Center for the Arts\, 425 W Center St\, Provo\, UT 84601
-DESCRIPTION:A local ballet production\, six performances. Tickets. Details
- : https://weekendscout.app/e/provo/earthbound-2026-11/
-URL:https://weekendscout.app/e/provo/earthbound-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:provo-earthbound-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T021602Z
-DTSTART:20261128T170000Z
-DTEND:20261128T190000Z
-SUMMARY:Earthbound
-LOCATION:Covey Center for the Arts\, 425 W Center St\, Provo\, UT 84601
-DESCRIPTION:A local ballet production\, six performances. Tickets. Details
- : https://weekendscout.app/e/provo/earthbound-2026-11/
-URL:https://weekendscout.app/e/provo/earthbound-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:provo-earthbound-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261126T021602Z
-DTSTART:20261128T200000Z
-DTEND:20261128T220000Z
-SUMMARY:Earthbound
-LOCATION:Covey Center for the Arts\, 425 W Center St\, Provo\, UT 84601
-DESCRIPTION:A local ballet production\, six performances. Tickets. Details
- : https://weekendscout.app/e/provo/earthbound-2026-11/
-URL:https://weekendscout.app/e/provo/earthbound-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:provo-earthbound-2026-11-sat-2@weekendscout.app
-DTSTAMP:20261126T021602Z
-DTSTART:20261128T230000Z
-DTEND:20261129T010000Z
-SUMMARY:Earthbound
-LOCATION:Covey Center for the Arts\, 425 W Center St\, Provo\, UT 84601
-DESCRIPTION:A local ballet production\, six performances. Tickets. Details
- : https://weekendscout.app/e/provo/earthbound-2026-11/
-URL:https://weekendscout.app/e/provo/earthbound-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:provo-earthbound-2026-11-sat-3@weekendscout.app
-DTSTAMP:20261126T021602Z
-DTSTART:20261129T020000Z
-DTEND:20261129T040000Z
-SUMMARY:Earthbound
-LOCATION:Covey Center for the Arts\, 425 W Center St\, Provo\, UT 84601
-DESCRIPTION:A local ballet production\, six performances. Tickets. Details
- : https://weekendscout.app/e/provo/earthbound-2026-11/
-URL:https://weekendscout.app/e/provo/earthbound-2026-11/
-END:VEVENT
-BEGIN:VEVENT
 UID:provo-byu-women-s-volleyball-vs-tcu-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T021602Z
+DTSTAMP:20261126T024607Z
 DTSTART:20261128T013000Z
 DTEND:20261128T033000Z
-SUMMARY:BYU women’s volleyball vs. TCU
+SUMMARY:BYU women's volleyball vs. TCU
 LOCATION:Smith Fieldhouse\, BYU campus\, Provo\, UT 84602
-DESCRIPTION:Cougars volleyball on Friday evening. Tickets. Details: https:
- //weekendscout.app/e/provo/byu-women-s-volleyball-vs-tcu-2026-11/
+DESCRIPTION:The No. 10 Cougars close their regular season on senior night 
+ against No. 17 TCU. Tickets. Details: https://weekendscout.app/e/provo/byu
+ -women-s-volleyball-vs-tcu-2026-11/
 URL:https://weekendscout.app/e/provo/byu-women-s-volleyball-vs-tcu-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:provo-luminaria-thanksgiving-point-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART:20261127T230000Z
+DTEND:20261128T043000Z
+SUMMARY:Luminaria
+LOCATION:Ashton Gardens at Thanksgiving Point\, 3900 N Garden Dr\, Lehi\, 
+ UT 84048
+DESCRIPTION:A walk-through holiday light show across Ashton Gardens\; Frid
+ ay and Saturday hours are 4 to 9:30 p.m.\, with last entry at 9:45. Prices
+  vary by date\, and it's closed Sundays. From $17. Details: https://weeken
+ dscout.app/e/provo/luminaria-thanksgiving-point-2026-11/
+URL:https://weekendscout.app/e/provo/luminaria-thanksgiving-point-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:provo-luminaria-thanksgiving-point-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART:20261128T230000Z
+DTEND:20261129T043000Z
+SUMMARY:Luminaria
+LOCATION:Ashton Gardens at Thanksgiving Point\, 3900 N Garden Dr\, Lehi\, 
+ UT 84048
+DESCRIPTION:A walk-through holiday light show across Ashton Gardens\; Frid
+ ay and Saturday hours are 4 to 9:30 p.m.\, with last entry at 9:45. Prices
+  vary by date\, and it's closed Sundays. From $17. Details: https://weeken
+ dscout.app/e/provo/luminaria-thanksgiving-point-2026-11/
+URL:https://weekendscout.app/e/provo/luminaria-thanksgiving-point-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:provo-museum-of-natural-curiosity-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART:20261127T160000Z
+DTEND:20261127T180000Z
+SUMMARY:Museum of Natural Curiosity
+LOCATION:Museum of Natural Curiosity at Thanksgiving Point\, 3605 Garden D
+ r\, Lehi\, UT 84048
+DESCRIPTION:A hands-on science museum with a rainforest\, a water play are
+ a and a toddler zone\; it opens at 9 a.m. Friday and Saturday and is close
+ d Sunday. Kids under 3 get in free. From $17. Details: https://weekendscou
+ t.app/e/provo/museum-of-natural-curiosity-2026-11/
+URL:https://weekendscout.app/e/provo/museum-of-natural-curiosity-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:provo-museum-of-natural-curiosity-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART:20261128T160000Z
+DTEND:20261128T180000Z
+SUMMARY:Museum of Natural Curiosity
+LOCATION:Museum of Natural Curiosity at Thanksgiving Point\, 3605 Garden D
+ r\, Lehi\, UT 84048
+DESCRIPTION:A hands-on science museum with a rainforest\, a water play are
+ a and a toddler zone\; it opens at 9 a.m. Friday and Saturday and is close
+ d Sunday. Kids under 3 get in free. From $17. Details: https://weekendscou
+ t.app/e/provo/museum-of-natural-curiosity-2026-11/
+URL:https://weekendscout.app/e/provo/museum-of-natural-curiosity-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:provo-santas-grand-arrival-university-place-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART:20261127T163000Z
+DTEND:20261127T183000Z
+SUMMARY:Santa's Grand Arrival
+LOCATION:University Place\, 575 E University Pkwy\, Orem\, UT 84097
+DESCRIPTION:Santa arrives at 9:30 a.m. Friday in the parking lot between T
+ ucano's and The Cheesecake Factory\, which kicks off his village season at
+  the mall. Check details. Details: https://weekendscout.app/e/provo/santas
+ -grand-arrival-university-place-2026-11-27/
+URL:https://weekendscout.app/e/provo/santas-grand-arrival-university-place-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:provo-bryan-callen-wiseguys-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART:20261128T013000Z
+DTEND:20261128T033000Z
+SUMMARY:Bryan Callen
+LOCATION:Wiseguys Comedy Club (The Gateway)\, 190 S 400 W\, Salt Lake City
+ \, UT 84101
+DESCRIPTION:The actor and stand-up comedian plays four shows in The Showro
+ om at the Gateway\, about 45 minutes north of Provo. Bring an ID that matc
+ hes the card used to buy the tickets. Tickets. Details: https://weekendsco
+ ut.app/e/provo/bryan-callen-wiseguys-2026-11/
+URL:https://weekendscout.app/e/provo/bryan-callen-wiseguys-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:provo-bryan-callen-wiseguys-2026-11-fri-1@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART:20261128T040000Z
+DTEND:20261128T060000Z
+SUMMARY:Bryan Callen
+LOCATION:Wiseguys Comedy Club (The Gateway)\, 190 S 400 W\, Salt Lake City
+ \, UT 84101
+DESCRIPTION:The actor and stand-up comedian plays four shows in The Showro
+ om at the Gateway\, about 45 minutes north of Provo. Bring an ID that matc
+ hes the card used to buy the tickets. Tickets. Details: https://weekendsco
+ ut.app/e/provo/bryan-callen-wiseguys-2026-11/
+URL:https://weekendscout.app/e/provo/bryan-callen-wiseguys-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:provo-bryan-callen-wiseguys-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART:20261129T013000Z
+DTEND:20261129T033000Z
+SUMMARY:Bryan Callen
+LOCATION:Wiseguys Comedy Club (The Gateway)\, 190 S 400 W\, Salt Lake City
+ \, UT 84101
+DESCRIPTION:The actor and stand-up comedian plays four shows in The Showro
+ om at the Gateway\, about 45 minutes north of Provo. Bring an ID that matc
+ hes the card used to buy the tickets. Tickets. Details: https://weekendsco
+ ut.app/e/provo/bryan-callen-wiseguys-2026-11/
+URL:https://weekendscout.app/e/provo/bryan-callen-wiseguys-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:provo-bryan-callen-wiseguys-2026-11-sat-1@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART:20261129T040000Z
+DTEND:20261129T060000Z
+SUMMARY:Bryan Callen
+LOCATION:Wiseguys Comedy Club (The Gateway)\, 190 S 400 W\, Salt Lake City
+ \, UT 84101
+DESCRIPTION:The actor and stand-up comedian plays four shows in The Showro
+ om at the Gateway\, about 45 minutes north of Provo. Bring an ID that matc
+ hes the card used to buy the tickets. Tickets. Details: https://weekendsco
+ ut.app/e/provo/bryan-callen-wiseguys-2026-11/
+URL:https://weekendscout.app/e/provo/bryan-callen-wiseguys-2026-11/
 END:VEVENT
 END:VCALENDAR

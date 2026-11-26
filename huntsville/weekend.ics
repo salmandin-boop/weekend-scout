@@ -8,66 +8,181 @@ X-WR-CALDESC:Hand-checked weekend picks in Huntsville, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:huntsville-big-spring-park-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T021602Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Big Spring Park
-LOCATION:Big Spring Park\, 200 Church St SW\, Huntsville\, AL 35801
-DESCRIPTION:Downtown’s park around the spring where Huntsville began\, n
- ext to the Von Braun Center. Free. Details: https://weekendscout.app/e/hun
- tsville/big-spring-park-2026-11/
-URL:https://weekendscout.app/e/huntsville/big-spring-park-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:huntsville-big-spring-park-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T021602Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Big Spring Park
-LOCATION:Big Spring Park\, 200 Church St SW\, Huntsville\, AL 35801
-DESCRIPTION:Downtown’s park around the spring where Huntsville began\, n
- ext to the Von Braun Center. Free. Details: https://weekendscout.app/e/hun
- tsville/big-spring-park-2026-11/
-URL:https://weekendscout.app/e/huntsville/big-spring-park-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:huntsville-big-spring-park-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T021602Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Big Spring Park
-LOCATION:Big Spring Park\, 200 Church St SW\, Huntsville\, AL 35801
-DESCRIPTION:Downtown’s park around the spring where Huntsville began\, n
- ext to the Von Braun Center. Free. Details: https://weekendscout.app/e/hun
- tsville/big-spring-park-2026-11/
-URL:https://weekendscout.app/e/huntsville/big-spring-park-2026-11/
-END:VEVENT
-BEGIN:VEVENT
 UID:huntsville-huntsville-havoc-vs-pensacola-ice-flyers-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T021602Z
+DTSTAMP:20261126T024607Z
 DTSTART:20261128T010000Z
 DTEND:20261128T030000Z
 SUMMARY:Huntsville Havoc vs. Pensacola Ice Flyers
 LOCATION:Propst Arena at the Von Braun Center\, 700 Monroe St SW\, Huntsvi
  lle\, AL 35801
-DESCRIPTION:SPHL hockey on Black Friday. Tickets. Details: https://weekend
- scout.app/e/huntsville/huntsville-havoc-vs-pensacola-ice-flyers-2026-11/
+DESCRIPTION:SPHL hockey on Black Friday\, with merchandise deals at the ga
+ me. Doors open 90 minutes early\; clear bags only. Tickets. Details: https
+ ://weekendscout.app/e/huntsville/huntsville-havoc-vs-pensacola-ice-flyers-
+ 2026-11/
 URL:https://weekendscout.app/e/huntsville/huntsville-havoc-vs-pensacola-ice-flyers-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:huntsville-mustache-the-band-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T021602Z
+DTSTAMP:20261126T024607Z
 DTSTART:20261128T020000Z
 DTEND:20261128T040000Z
 SUMMARY:Mustache the Band
 LOCATION:Mars Music Hall at the Von Braun Center\, 700 Monroe St SW\, Hunt
  sville\, AL 35801
-DESCRIPTION:The ’70s and ’80s hits cover band. Tickets. Details: https
- ://weekendscout.app/e/huntsville/mustache-the-band-2026-11/
+DESCRIPTION:The '70s and '80s hits cover band plays Mars Music Hall. Doors
+  open an hour before the show. Tickets. Details: https://weekendscout.app/
+ e/huntsville/mustache-the-band-2026-11/
 URL:https://weekendscout.app/e/huntsville/mustache-the-band-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:huntsville-galaxy-of-lights-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART:20261127T223000Z
+DTEND:20261128T040000Z
+SUMMARY:Galaxy of Lights
+LOCATION:Huntsville Botanical Garden\, 4747 Bob Wallace Ave SW\, Huntsvill
+ e\, AL 35805
+DESCRIPTION:The garden's holiday light show on a walking night\, with time
+ d-entry tickets from 4:30 to 8:45 p.m. Saturday and Sunday open with a 4:3
+ 0 p.m. sensory hour with reduced music. Tickets. Details: https://weekends
+ cout.app/e/huntsville/galaxy-of-lights-2026-11-27/
+URL:https://weekendscout.app/e/huntsville/galaxy-of-lights-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:huntsville-galaxy-of-lights-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART:20261128T223000Z
+DTEND:20261129T040000Z
+SUMMARY:Galaxy of Lights
+LOCATION:Huntsville Botanical Garden\, 4747 Bob Wallace Ave SW\, Huntsvill
+ e\, AL 35805
+DESCRIPTION:The garden's holiday light show on a walking night\, with time
+ d-entry tickets from 4:30 to 8:45 p.m. Saturday and Sunday open with a 4:3
+ 0 p.m. sensory hour with reduced music. Tickets. Details: https://weekends
+ cout.app/e/huntsville/galaxy-of-lights-2026-11-27/
+URL:https://weekendscout.app/e/huntsville/galaxy-of-lights-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:huntsville-galaxy-of-lights-2026-11-27-sun-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART:20261129T223000Z
+DTEND:20261130T040000Z
+SUMMARY:Galaxy of Lights
+LOCATION:Huntsville Botanical Garden\, 4747 Bob Wallace Ave SW\, Huntsvill
+ e\, AL 35805
+DESCRIPTION:The garden's holiday light show on a walking night\, with time
+ d-entry tickets from 4:30 to 8:45 p.m. Saturday and Sunday open with a 4:3
+ 0 p.m. sensory hour with reduced music. Tickets. Details: https://weekends
+ cout.app/e/huntsville/galaxy-of-lights-2026-11-27/
+URL:https://weekendscout.app/e/huntsville/galaxy-of-lights-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:huntsville-lowe-mill-small-business-saturday-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART:20261128T170000Z
+DTEND:20261129T010000Z
+SUMMARY:Small Business Saturday at Lowe Mill
+LOCATION:Lowe Mill ARTS & Entertainment\, 2211 Seminole Dr SW\, Huntsville
+ \, AL 35805
+DESCRIPTION:Shop handmade gifts from the artists in the old mill's studios
+ \, with skill demos\, a Christmas boutique and a free drop-in cigar box gu
+ itar lesson at noon. Free. Details: https://weekendscout.app/e/huntsville/
+ lowe-mill-small-business-saturday-2026-11-28/
+URL:https://weekendscout.app/e/huntsville/lowe-mill-small-business-saturday-2026-11-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:huntsville-freaksgiving-2-0-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART:20261128T170000Z
+DTEND:20261129T070000Z
+SUMMARY:Freaksgiving 2.0
+LOCATION:Lowe Mill ARTS & Entertainment\, 2211 Seminole Dr SW\, Huntsville
+ \, AL 35805
+DESCRIPTION:A free alternative makers' market by day\, then a night of bin
+ go\, comedy\, music and camp performance benefiting Shenanigans Comedy The
+ atre. Free day market\; $25 at night. Details: https://weekendscout.app/e/
+ huntsville/freaksgiving-2-0-2026-11-28/
+URL:https://weekendscout.app/e/huntsville/freaksgiving-2-0-2026-11-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:huntsville-us-space-rocket-center-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART:20261127T160000Z
+DTEND:20261127T220000Z
+SUMMARY:U.S. Space & Rocket Center
+LOCATION:U.S. Space & Rocket Center\, One Tranquility Base\, Huntsville\, 
+ AL 35805
+DESCRIPTION:Rockets\, the Saturn V hall and space history exhibits\; open 
+ 10 a.m. to 4 p.m. all weekend. Kids 4 and under get in free. $20–$30. De
+ tails: https://weekendscout.app/e/huntsville/us-space-rocket-center-2026-1
+ 1/
+URL:https://weekendscout.app/e/huntsville/us-space-rocket-center-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:huntsville-us-space-rocket-center-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART:20261128T160000Z
+DTEND:20261128T220000Z
+SUMMARY:U.S. Space & Rocket Center
+LOCATION:U.S. Space & Rocket Center\, One Tranquility Base\, Huntsville\, 
+ AL 35805
+DESCRIPTION:Rockets\, the Saturn V hall and space history exhibits\; open 
+ 10 a.m. to 4 p.m. all weekend. Kids 4 and under get in free. $20–$30. De
+ tails: https://weekendscout.app/e/huntsville/us-space-rocket-center-2026-1
+ 1/
+URL:https://weekendscout.app/e/huntsville/us-space-rocket-center-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:huntsville-us-space-rocket-center-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART:20261129T160000Z
+DTEND:20261129T220000Z
+SUMMARY:U.S. Space & Rocket Center
+LOCATION:U.S. Space & Rocket Center\, One Tranquility Base\, Huntsville\, 
+ AL 35805
+DESCRIPTION:Rockets\, the Saturn V hall and space history exhibits\; open 
+ 10 a.m. to 4 p.m. all weekend. Kids 4 and under get in free. $20–$30. De
+ tails: https://weekendscout.app/e/huntsville/us-space-rocket-center-2026-1
+ 1/
+URL:https://weekendscout.app/e/huntsville/us-space-rocket-center-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:huntsville-big-spring-park-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Big Spring Park
+LOCATION:Big Spring Park\, 200 Church St SW\, Huntsville\, AL 35801
+DESCRIPTION:Downtown's park around the spring where Huntsville began\, nex
+ t to the Von Braun Center. Free. Details: https://weekendscout.app/e/hunts
+ ville/big-spring-park-2026-11/
+URL:https://weekendscout.app/e/huntsville/big-spring-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:huntsville-big-spring-park-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Big Spring Park
+LOCATION:Big Spring Park\, 200 Church St SW\, Huntsville\, AL 35801
+DESCRIPTION:Downtown's park around the spring where Huntsville began\, nex
+ t to the Von Braun Center. Free. Details: https://weekendscout.app/e/hunts
+ ville/big-spring-park-2026-11/
+URL:https://weekendscout.app/e/huntsville/big-spring-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:huntsville-big-spring-park-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Big Spring Park
+LOCATION:Big Spring Park\, 200 Church St SW\, Huntsville\, AL 35801
+DESCRIPTION:Downtown's park around the spring where Huntsville began\, nex
+ t to the Von Braun Center. Free. Details: https://weekendscout.app/e/hunts
+ ville/big-spring-park-2026-11/
+URL:https://weekendscout.app/e/huntsville/big-spring-park-2026-11/
 END:VEVENT
 END:VCALENDAR

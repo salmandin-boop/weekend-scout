@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:duluth-bentleyville-tour-of-lights-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T021603Z
+DTSTAMP:20261126T024607Z
 DTSTART:20261127T230000Z
 DTEND:20261128T030000Z
 SUMMARY:Bentleyville Tour of Lights
@@ -21,7 +21,7 @@ URL:https://weekendscout.app/e/duluth/bentleyville-tour-of-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:duluth-bentleyville-tour-of-lights-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T021603Z
+DTSTAMP:20261126T024607Z
 DTSTART:20261128T230000Z
 DTEND:20261129T040000Z
 SUMMARY:Bentleyville Tour of Lights
@@ -33,7 +33,7 @@ URL:https://weekendscout.app/e/duluth/bentleyville-tour-of-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:duluth-bentleyville-tour-of-lights-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T021603Z
+DTSTAMP:20261126T024607Z
 DTSTART:20261129T230000Z
 DTEND:20261130T030000Z
 SUMMARY:Bentleyville Tour of Lights
@@ -45,7 +45,7 @@ URL:https://weekendscout.app/e/duluth/bentleyville-tour-of-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:duluth-canal-park-aerial-lift-bridge-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T021603Z
+DTSTAMP:20261126T024607Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -58,7 +58,7 @@ URL:https://weekendscout.app/e/duluth/canal-park-aerial-lift-bridge-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:duluth-canal-park-aerial-lift-bridge-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T021603Z
+DTSTAMP:20261126T024607Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -71,7 +71,7 @@ URL:https://weekendscout.app/e/duluth/canal-park-aerial-lift-bridge-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:duluth-canal-park-aerial-lift-bridge-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T021603Z
+DTSTAMP:20261126T024607Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -84,7 +84,7 @@ URL:https://weekendscout.app/e/duluth/canal-park-aerial-lift-bridge-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:duluth-great-lakes-aquarium-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T021603Z
+DTSTAMP:20261126T024607Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -96,7 +96,7 @@ URL:https://weekendscout.app/e/duluth/great-lakes-aquarium-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:duluth-great-lakes-aquarium-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T021603Z
+DTSTAMP:20261126T024607Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -108,7 +108,7 @@ URL:https://weekendscout.app/e/duluth/great-lakes-aquarium-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:duluth-great-lakes-aquarium-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T021603Z
+DTSTAMP:20261126T024607Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -120,7 +120,7 @@ URL:https://weekendscout.app/e/duluth/great-lakes-aquarium-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:duluth-glensheen-mansion-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T021603Z
+DTSTAMP:20261126T024607Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -133,7 +133,7 @@ URL:https://weekendscout.app/e/duluth/glensheen-mansion-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:duluth-glensheen-mansion-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T021603Z
+DTSTAMP:20261126T024607Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -146,7 +146,7 @@ URL:https://weekendscout.app/e/duluth/glensheen-mansion-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:duluth-glensheen-mansion-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T021603Z
+DTSTAMP:20261126T024607Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT

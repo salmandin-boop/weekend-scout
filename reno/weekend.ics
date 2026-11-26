@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:reno-truckee-river-walk-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T021602Z
+DTSTAMP:20261126T024607Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/reno/truckee-river-walk-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:reno-truckee-river-walk-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T021602Z
+DTSTAMP:20261126T024607Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/reno/truckee-river-walk-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:reno-truckee-river-walk-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T021602Z
+DTSTAMP:20261126T024607Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -48,74 +48,79 @@ URL:https://weekendscout.app/e/reno/truckee-river-walk-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:reno-the-greatest-christmas-show-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T021602Z
+DTSTAMP:20261126T024607Z
 DTSTART:20261128T030000Z
 DTEND:20261128T050000Z
 SUMMARY:The Greatest Christmas Show
 LOCATION:Eldorado Showroom\, 345 N Virginia St\, Reno\, NV 89501
-DESCRIPTION:A holiday variety show\, five performances. Tickets. Details: 
- https://weekendscout.app/e/reno/the-greatest-christmas-show-2026-11/
+DESCRIPTION:A festive holiday variety show with sing-along songs and a vis
+ it from Santa\, with five performances this weekend. Tickets. Details: htt
+ ps://weekendscout.app/e/reno/the-greatest-christmas-show-2026-11/
 URL:https://weekendscout.app/e/reno/the-greatest-christmas-show-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:reno-the-greatest-christmas-show-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T021602Z
+DTSTAMP:20261126T024607Z
 DTSTART:20261129T000000Z
 DTEND:20261129T020000Z
 SUMMARY:The Greatest Christmas Show
 LOCATION:Eldorado Showroom\, 345 N Virginia St\, Reno\, NV 89501
-DESCRIPTION:A holiday variety show\, five performances. Tickets. Details: 
- https://weekendscout.app/e/reno/the-greatest-christmas-show-2026-11/
+DESCRIPTION:A festive holiday variety show with sing-along songs and a vis
+ it from Santa\, with five performances this weekend. Tickets. Details: htt
+ ps://weekendscout.app/e/reno/the-greatest-christmas-show-2026-11/
 URL:https://weekendscout.app/e/reno/the-greatest-christmas-show-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:reno-the-greatest-christmas-show-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261126T021602Z
+DTSTAMP:20261126T024607Z
 DTSTART:20261129T030000Z
 DTEND:20261129T050000Z
 SUMMARY:The Greatest Christmas Show
 LOCATION:Eldorado Showroom\, 345 N Virginia St\, Reno\, NV 89501
-DESCRIPTION:A holiday variety show\, five performances. Tickets. Details: 
- https://weekendscout.app/e/reno/the-greatest-christmas-show-2026-11/
+DESCRIPTION:A festive holiday variety show with sing-along songs and a vis
+ it from Santa\, with five performances this weekend. Tickets. Details: htt
+ ps://weekendscout.app/e/reno/the-greatest-christmas-show-2026-11/
 URL:https://weekendscout.app/e/reno/the-greatest-christmas-show-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:reno-the-greatest-christmas-show-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T021602Z
+DTSTAMP:20261126T024607Z
 DTSTART:20261129T210000Z
 DTEND:20261129T230000Z
 SUMMARY:The Greatest Christmas Show
 LOCATION:Eldorado Showroom\, 345 N Virginia St\, Reno\, NV 89501
-DESCRIPTION:A holiday variety show\, five performances. Tickets. Details: 
- https://weekendscout.app/e/reno/the-greatest-christmas-show-2026-11/
+DESCRIPTION:A festive holiday variety show with sing-along songs and a vis
+ it from Santa\, with five performances this weekend. Tickets. Details: htt
+ ps://weekendscout.app/e/reno/the-greatest-christmas-show-2026-11/
 URL:https://weekendscout.app/e/reno/the-greatest-christmas-show-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:reno-the-greatest-christmas-show-2026-11-sun-1@weekendscout.app
-DTSTAMP:20261126T021602Z
+DTSTAMP:20261126T024607Z
 DTSTART:20261130T000000Z
 DTEND:20261130T020000Z
 SUMMARY:The Greatest Christmas Show
 LOCATION:Eldorado Showroom\, 345 N Virginia St\, Reno\, NV 89501
-DESCRIPTION:A holiday variety show\, five performances. Tickets. Details: 
- https://weekendscout.app/e/reno/the-greatest-christmas-show-2026-11/
+DESCRIPTION:A festive holiday variety show with sing-along songs and a vis
+ it from Santa\, with five performances this weekend. Tickets. Details: htt
+ ps://weekendscout.app/e/reno/the-greatest-christmas-show-2026-11/
 URL:https://weekendscout.app/e/reno/the-greatest-christmas-show-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:reno-nevada-wolf-pack-vs-humboldt-state-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T021602Z
+DTSTAMP:20261126T024607Z
 DTSTART:20261128T220000Z
 DTEND:20261129T000000Z
-SUMMARY:Nevada Wolf Pack vs. Humboldt State
+SUMMARY:Nevada Wolf Pack vs. Cal Poly Humboldt
 LOCATION:Lawlor Events Center\, 1500 N Virginia St\, Reno\, NV 89503
-DESCRIPTION:Wolf Pack basketball on Saturday afternoon. Tickets. Details: 
- https://weekendscout.app/e/reno/nevada-wolf-pack-vs-humboldt-state-2026-11
- /
+DESCRIPTION:Wolf Pack men's basketball hosts Cal Poly Humboldt on Saturday
+  afternoon at Lawlor. Tickets. Details: https://weekendscout.app/e/reno/ne
+ vada-wolf-pack-vs-humboldt-state-2026-11/
 URL:https://weekendscout.app/e/reno/nevada-wolf-pack-vs-humboldt-state-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:reno-scott-bradlee-s-postmodern-jukebox-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T021602Z
+DTSTAMP:20261126T024607Z
 DTSTART:20261129T040000Z
 DTEND:20261129T060000Z
 SUMMARY:Scott Bradlee’s Postmodern Jukebox
@@ -127,26 +132,124 @@ URL:https://weekendscout.app/e/reno/scott-bradlee-s-postmodern-jukebox-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:reno-peanutcracker-the-story-in-a-nutshell-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T021602Z
+DTSTAMP:20261126T024607Z
 DTSTART:20261129T210000Z
 DTEND:20261129T230000Z
 SUMMARY:Peanutcracker: The Story in a Nutshell
 LOCATION:Pioneer Center for the Performing Arts\, 100 S Virginia St\, Reno
  \, NV 89501
-DESCRIPTION:A short\, kid-sized Nutcracker. Tickets. Details: https://week
- endscout.app/e/reno/peanutcracker-the-story-in-a-nutshell-2026-11/
+DESCRIPTION:Sierra Nevada Ballet's short\, kid-sized take on The Nutcracke
+ r\, with two Sunday shows. Tickets. Details: https://weekendscout.app/e/re
+ no/peanutcracker-the-story-in-a-nutshell-2026-11/
 URL:https://weekendscout.app/e/reno/peanutcracker-the-story-in-a-nutshell-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:reno-peanutcracker-the-story-in-a-nutshell-2026-11-sun-1@weekendscout.app
-DTSTAMP:20261126T021602Z
+DTSTAMP:20261126T024607Z
 DTSTART:20261130T010000Z
 DTEND:20261130T030000Z
 SUMMARY:Peanutcracker: The Story in a Nutshell
 LOCATION:Pioneer Center for the Performing Arts\, 100 S Virginia St\, Reno
  \, NV 89501
-DESCRIPTION:A short\, kid-sized Nutcracker. Tickets. Details: https://week
- endscout.app/e/reno/peanutcracker-the-story-in-a-nutshell-2026-11/
+DESCRIPTION:Sierra Nevada Ballet's short\, kid-sized take on The Nutcracke
+ r\, with two Sunday shows. Tickets. Details: https://weekendscout.app/e/re
+ no/peanutcracker-the-story-in-a-nutshell-2026-11/
 URL:https://weekendscout.app/e/reno/peanutcracker-the-story-in-a-nutshell-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:reno-home-for-the-holidays-greater-nevada-field-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART:20261128T010000Z
+DTEND:20261128T050000Z
+SUMMARY:Home for the Holidays
+LOCATION:Greater Nevada Field\, 250 Evans Ave\, Reno\, NV 89501
+DESCRIPTION:The Reno Aces' ballpark light show opens Black Friday\, with a
+  100-foot tree on the field\, lights on every seat and free hot chocolate 
+ with each ticket. Kids 2 and under are free. Tickets. Details: https://wee
+ kendscout.app/e/reno/home-for-the-holidays-greater-nevada-field-2026-11/
+URL:https://weekendscout.app/e/reno/home-for-the-holidays-greater-nevada-field-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:reno-home-for-the-holidays-greater-nevada-field-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART:20261129T010000Z
+DTEND:20261129T050000Z
+SUMMARY:Home for the Holidays
+LOCATION:Greater Nevada Field\, 250 Evans Ave\, Reno\, NV 89501
+DESCRIPTION:The Reno Aces' ballpark light show opens Black Friday\, with a
+  100-foot tree on the field\, lights on every seat and free hot chocolate 
+ with each ticket. Kids 2 and under are free. Tickets. Details: https://wee
+ kendscout.app/e/reno/home-for-the-holidays-greater-nevada-field-2026-11/
+URL:https://weekendscout.app/e/reno/home-for-the-holidays-greater-nevada-field-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:reno-home-for-the-holidays-greater-nevada-field-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART:20261130T010000Z
+DTEND:20261130T050000Z
+SUMMARY:Home for the Holidays
+LOCATION:Greater Nevada Field\, 250 Evans Ave\, Reno\, NV 89501
+DESCRIPTION:The Reno Aces' ballpark light show opens Black Friday\, with a
+  100-foot tree on the field\, lights on every seat and free hot chocolate 
+ with each ticket. Kids 2 and under are free. Tickets. Details: https://wee
+ kendscout.app/e/reno/home-for-the-holidays-greater-nevada-field-2026-11/
+URL:https://weekendscout.app/e/reno/home-for-the-holidays-greater-nevada-field-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:reno-laugh-factory-silver-legacy-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Laugh Factory Stand-Up
+LOCATION:Laugh Factory at Silver Legacy\, 407 N Virginia St\, Reno\, NV 89
+ 501
+DESCRIPTION:Touring stand-up comics at the Silver Legacy's comedy club\, w
+ ith shows Friday through Sunday. Friday and Saturday seats are $37.24 and 
+ Sunday seats are $32.24\, plus fees. $32.24–$37.24 + fees. Details: http
+ s://weekendscout.app/e/reno/laugh-factory-silver-legacy-2026-11/
+URL:https://weekendscout.app/e/reno/laugh-factory-silver-legacy-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:reno-laugh-factory-silver-legacy-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Laugh Factory Stand-Up
+LOCATION:Laugh Factory at Silver Legacy\, 407 N Virginia St\, Reno\, NV 89
+ 501
+DESCRIPTION:Touring stand-up comics at the Silver Legacy's comedy club\, w
+ ith shows Friday through Sunday. Friday and Saturday seats are $37.24 and 
+ Sunday seats are $32.24\, plus fees. $32.24–$37.24 + fees. Details: http
+ s://weekendscout.app/e/reno/laugh-factory-silver-legacy-2026-11/
+URL:https://weekendscout.app/e/reno/laugh-factory-silver-legacy-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:reno-laugh-factory-silver-legacy-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Laugh Factory Stand-Up
+LOCATION:Laugh Factory at Silver Legacy\, 407 N Virginia St\, Reno\, NV 89
+ 501
+DESCRIPTION:Touring stand-up comics at the Silver Legacy's comedy club\, w
+ ith shows Friday through Sunday. Friday and Saturday seats are $37.24 and 
+ Sunday seats are $32.24\, plus fees. $32.24–$37.24 + fees. Details: http
+ s://weekendscout.app/e/reno/laugh-factory-silver-legacy-2026-11/
+URL:https://weekendscout.app/e/reno/laugh-factory-silver-legacy-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:reno-riverside-farmers-market-2026-11-29-sun-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART:20261129T170000Z
+DTEND:20261129T210000Z
+SUMMARY:Riverside Farmers Market
+LOCATION:Idlewild Park\, 1000 Cowan Dr\, Reno\, NV 89509
+DESCRIPTION:Local farmers\, ranchers and food makers set up in Idlewild Pa
+ rk on Sunday morning\, the last market of the fall season. Free. Details: 
+ https://weekendscout.app/e/reno/riverside-farmers-market-2026-11-29/
+URL:https://weekendscout.app/e/reno/riverside-farmers-market-2026-11-29/
 END:VEVENT
 END:VCALENDAR

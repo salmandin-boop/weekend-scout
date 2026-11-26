@@ -9,98 +9,222 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:ann-arbor-university-of-michigan-museum-of-art-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T021602Z
+DTSTAMP:20261126T024607Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
 SUMMARY:University of Michigan Museum of Art
 LOCATION:UMMA\, 525 S State St\, Ann Arbor\, MI 48109
 DESCRIPTION:One of the largest university art museums in the country\, alw
- ays free. Free admission. Details: https://weekendscout.app/e/ann-arbor/un
- iversity-of-michigan-museum-of-art-2026-11/
+ ays free. Regular hours are Friday 10 a.m.–8 p.m. and weekends 11 a.m.
+ –8 p.m.\; check holiday hours before you go. Free admission. Details: ht
+ tps://weekendscout.app/e/ann-arbor/university-of-michigan-museum-of-art-20
+ 26-11/
 URL:https://weekendscout.app/e/ann-arbor/university-of-michigan-museum-of-art-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-university-of-michigan-museum-of-art-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T021602Z
+DTSTAMP:20261126T024607Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
 SUMMARY:University of Michigan Museum of Art
 LOCATION:UMMA\, 525 S State St\, Ann Arbor\, MI 48109
 DESCRIPTION:One of the largest university art museums in the country\, alw
- ays free. Free admission. Details: https://weekendscout.app/e/ann-arbor/un
- iversity-of-michigan-museum-of-art-2026-11/
+ ays free. Regular hours are Friday 10 a.m.–8 p.m. and weekends 11 a.m.
+ –8 p.m.\; check holiday hours before you go. Free admission. Details: ht
+ tps://weekendscout.app/e/ann-arbor/university-of-michigan-museum-of-art-20
+ 26-11/
 URL:https://weekendscout.app/e/ann-arbor/university-of-michigan-museum-of-art-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-university-of-michigan-museum-of-art-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T021602Z
+DTSTAMP:20261126T024607Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
 SUMMARY:University of Michigan Museum of Art
 LOCATION:UMMA\, 525 S State St\, Ann Arbor\, MI 48109
 DESCRIPTION:One of the largest university art museums in the country\, alw
- ays free. Free admission. Details: https://weekendscout.app/e/ann-arbor/un
- iversity-of-michigan-museum-of-art-2026-11/
+ ays free. Regular hours are Friday 10 a.m.–8 p.m. and weekends 11 a.m.
+ –8 p.m.\; check holiday hours before you go. Free admission. Details: ht
+ tps://weekendscout.app/e/ann-arbor/university-of-michigan-museum-of-art-20
+ 26-11/
 URL:https://weekendscout.app/e/ann-arbor/university-of-michigan-museum-of-art-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-michigan-wolverines-vs-ferris-state-bulldogs-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T021602Z
+DTSTAMP:20261126T024607Z
 DTSTART:20261128T000000Z
 DTEND:20261128T020000Z
 SUMMARY:Michigan Wolverines vs. Ferris State Bulldogs
 LOCATION:Yost Ice Arena\, 1000 S State St\, Ann Arbor\, MI 48104
-DESCRIPTION:Michigan hockey\, Friday and Saturday nights. Tickets. Details
- : https://weekendscout.app/e/ann-arbor/michigan-wolverines-vs-ferris-state
- -bulldogs-2026-11/
+DESCRIPTION:Michigan hockey hosts Ferris State in a two-game series\, with
+  7 p.m. puck drops Friday and Saturday. Tickets. Details: https://weekends
+ cout.app/e/ann-arbor/michigan-wolverines-vs-ferris-state-bulldogs-2026-11/
 URL:https://weekendscout.app/e/ann-arbor/michigan-wolverines-vs-ferris-state-bulldogs-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-michigan-wolverines-vs-ferris-state-bulldogs-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T021602Z
+DTSTAMP:20261126T024607Z
 DTSTART:20261129T000000Z
 DTEND:20261129T020000Z
 SUMMARY:Michigan Wolverines vs. Ferris State Bulldogs
 LOCATION:Yost Ice Arena\, 1000 S State St\, Ann Arbor\, MI 48104
-DESCRIPTION:Michigan hockey\, Friday and Saturday nights. Tickets. Details
- : https://weekendscout.app/e/ann-arbor/michigan-wolverines-vs-ferris-state
- -bulldogs-2026-11/
+DESCRIPTION:Michigan hockey hosts Ferris State in a two-game series\, with
+  7 p.m. puck drops Friday and Saturday. Tickets. Details: https://weekends
+ cout.app/e/ann-arbor/michigan-wolverines-vs-ferris-state-bulldogs-2026-11/
 URL:https://weekendscout.app/e/ann-arbor/michigan-wolverines-vs-ferris-state-bulldogs-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-chris-higgins-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T021602Z
+DTSTAMP:20261126T024607Z
 DTSTART:20261128T001500Z
 DTEND:20261128T021500Z
 SUMMARY:Chris Higgins
 LOCATION:Ann Arbor Comedy Showcase\, 212 S 4th Ave\, Ann Arbor\, MI 48104
-DESCRIPTION:Stand-up\, three shows. Tickets. Details: https://weekendscout
- .app/e/ann-arbor/chris-higgins-2026-11/
+DESCRIPTION:Stand-up from Chris Higgins\, with one show Friday and two Sat
+ urday. The club is an 18-and-over venue. Tickets. Details: https://weekend
+ scout.app/e/ann-arbor/chris-higgins-2026-11/
 URL:https://weekendscout.app/e/ann-arbor/chris-higgins-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-chris-higgins-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T021602Z
+DTSTAMP:20261126T024607Z
 DTSTART:20261129T001500Z
 DTEND:20261129T021500Z
 SUMMARY:Chris Higgins
 LOCATION:Ann Arbor Comedy Showcase\, 212 S 4th Ave\, Ann Arbor\, MI 48104
-DESCRIPTION:Stand-up\, three shows. Tickets. Details: https://weekendscout
- .app/e/ann-arbor/chris-higgins-2026-11/
+DESCRIPTION:Stand-up from Chris Higgins\, with one show Friday and two Sat
+ urday. The club is an 18-and-over venue. Tickets. Details: https://weekend
+ scout.app/e/ann-arbor/chris-higgins-2026-11/
 URL:https://weekendscout.app/e/ann-arbor/chris-higgins-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-chris-higgins-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261126T021602Z
+DTSTAMP:20261126T024607Z
 DTSTART:20261129T024500Z
 DTEND:20261129T044500Z
 SUMMARY:Chris Higgins
 LOCATION:Ann Arbor Comedy Showcase\, 212 S 4th Ave\, Ann Arbor\, MI 48104
-DESCRIPTION:Stand-up\, three shows. Tickets. Details: https://weekendscout
- .app/e/ann-arbor/chris-higgins-2026-11/
+DESCRIPTION:Stand-up from Chris Higgins\, with one show Friday and two Sat
+ urday. The club is an 18-and-over venue. Tickets. Details: https://weekend
+ scout.app/e/ann-arbor/chris-higgins-2026-11/
 URL:https://weekendscout.app/e/ann-arbor/chris-higgins-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:ann-arbor-white-christmas-sing-along-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART:20261128T000000Z
+DTEND:20261128T020000Z
+SUMMARY:White Christmas Sing-Along
+LOCATION:Michigan Theater\, 603 E Liberty St\, Ann Arbor\, MI 48104
+DESCRIPTION:The 1954 Bing Crosby classic on the big screen with on-screen 
+ lyrics\, part of the Holiday Classics series. The first 500 guests get fre
+ e goodie bags. Tickets. Details: https://weekendscout.app/e/ann-arbor/whit
+ e-christmas-sing-along-2026-11-27/
+URL:https://weekendscout.app/e/ann-arbor/white-christmas-sing-along-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:ann-arbor-mr-b-the-ark-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:Mr. B with special guest Grant Flick
+LOCATION:The Ark\, 316 S Main St\, Ann Arbor\, MI 48104
+DESCRIPTION:Boogie woogie piano from Michigan institution Mark "Mr. B" Bra
+ un\, with special guest Grant Flick. Doors at 7:30 p.m. $35–$46.50. Deta
+ ils: https://weekendscout.app/e/ann-arbor/mr-b-the-ark-2026-11-28/
+URL:https://weekendscout.app/e/ann-arbor/mr-b-the-ark-2026-11-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:ann-arbor-kat-edmonson-the-ark-2026-11-29-sun-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART:20261130T003000Z
+DTEND:20261130T023000Z
+SUMMARY:Kat Edmonson
+LOCATION:The Ark\, 316 S Main St\, Ann Arbor\, MI 48104
+DESCRIPTION:The singer revisits holiday classics from her new album Have Y
+ our Merry Christmas With Me\, plus songs from her earlier catalog. $29–$
+ 40. Details: https://weekendscout.app/e/ann-arbor/kat-edmonson-the-ark-202
+ 6-11-29/
+URL:https://weekendscout.app/e/ann-arbor/kat-edmonson-the-ark-2026-11-29/
+END:VEVENT
+BEGIN:VEVENT
+UID:ann-arbor-gemily-the-ark-2026-11-29-sun-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART:20261129T180000Z
+DTEND:20261129T200000Z
+SUMMARY:Gemily
+LOCATION:The Ark\, 316 S Main St\, Ann Arbor\, MI 48104
+DESCRIPTION:The annual Thanksgiving-weekend benefit concert for Mott Child
+ ren's Hospital from the family behind Gemini children's music. Kids 12 and
+  under get a reduced price. $13.50–$18.50. Details: https://weekendscout
+ .app/e/ann-arbor/gemily-the-ark-2026-11-29/
+URL:https://weekendscout.app/e/ann-arbor/gemily-the-ark-2026-11-29/
+END:VEVENT
+BEGIN:VEVENT
+UID:ann-arbor-ann-arbor-farmers-market-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART:20261128T120000Z
+DTEND:20261128T200000Z
+SUMMARY:Ann Arbor Farmers Market
+LOCATION:Ann Arbor Farmers Market\, 315 Detroit St\, Ann Arbor\, MI 48104
+DESCRIPTION:The city's year-round market in Kerrytown runs 7 a.m.–3 p.m.
+  on Saturday\, a good Small Business Saturday stop for local produce\, bak
+ ed goods and gifts. Free. Details: https://weekendscout.app/e/ann-arbor/an
+ n-arbor-farmers-market-2026-11-28/
+URL:https://weekendscout.app/e/ann-arbor/ann-arbor-farmers-market-2026-11-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:ann-arbor-palio-tree-lighting-2026-11-29-sun-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART:20261129T230000Z
+DTEND:20261130T010000Z
+SUMMARY:Santa's on the Rooftop & Palio Tree Lighting
+LOCATION:Palio\, 347 S Main St\, Ann Arbor\, MI 48104
+DESCRIPTION:Palio lights its rooftop tree on Main Street with carolers\, f
+ ree hot cocoa and sweets\, and a visit from Santa. Free. Details: https://
+ weekendscout.app/e/ann-arbor/palio-tree-lighting-2026-11-29/
+URL:https://weekendscout.app/e/ann-arbor/palio-tree-lighting-2026-11-29/
+END:VEVENT
+BEGIN:VEVENT
+UID:ann-arbor-ann-arbor-hands-on-museum-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART:20261127T150000Z
+DTEND:20261127T220000Z
+SUMMARY:Ann Arbor Hands-On Museum
+LOCATION:Ann Arbor Hands-On Museum\, 220 E Ann St\, Ann Arbor\, MI 48104
+DESCRIPTION:Downtown science museum full of interactive exhibits. Regular 
+ 10 a.m.–5 p.m. hours resume Friday after the Thanksgiving closure\; babi
+ es under 2 get in free. $16. Details: https://weekendscout.app/e/ann-arbor
+ /ann-arbor-hands-on-museum-2026-11/
+URL:https://weekendscout.app/e/ann-arbor/ann-arbor-hands-on-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:ann-arbor-ann-arbor-hands-on-museum-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART:20261128T150000Z
+DTEND:20261128T220000Z
+SUMMARY:Ann Arbor Hands-On Museum
+LOCATION:Ann Arbor Hands-On Museum\, 220 E Ann St\, Ann Arbor\, MI 48104
+DESCRIPTION:Downtown science museum full of interactive exhibits. Regular 
+ 10 a.m.–5 p.m. hours resume Friday after the Thanksgiving closure\; babi
+ es under 2 get in free. $16. Details: https://weekendscout.app/e/ann-arbor
+ /ann-arbor-hands-on-museum-2026-11/
+URL:https://weekendscout.app/e/ann-arbor/ann-arbor-hands-on-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:ann-arbor-ann-arbor-hands-on-museum-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T024607Z
+DTSTART:20261129T150000Z
+DTEND:20261129T220000Z
+SUMMARY:Ann Arbor Hands-On Museum
+LOCATION:Ann Arbor Hands-On Museum\, 220 E Ann St\, Ann Arbor\, MI 48104
+DESCRIPTION:Downtown science museum full of interactive exhibits. Regular 
+ 10 a.m.–5 p.m. hours resume Friday after the Thanksgiving closure\; babi
+ es under 2 get in free. $16. Details: https://weekendscout.app/e/ann-arbor
+ /ann-arbor-hands-on-museum-2026-11/
+URL:https://weekendscout.app/e/ann-arbor/ann-arbor-hands-on-museum-2026-11/
 END:VEVENT
 END:VCALENDAR
