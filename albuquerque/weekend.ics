@@ -8,46 +8,8 @@ X-WR-CALDESC:Hand-checked weekend picks in Albuquerque, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:albuquerque-albuquerque-museum-free-sunday-morning-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T000057Z
-DTSTART:20261129T160000Z
-DTEND:20261129T200000Z
-SUMMARY:Albuquerque Museum (free Sunday morning)
-LOCATION:Albuquerque Museum\, 2000 Mountain Rd NW\, Albuquerque\, NM 87104
-DESCRIPTION:Art and history of the Southwest by Old Town\, free on Sunday 
- mornings. Free Sunday 9 a.m.–1 p.m.. Details: https://weekendscout.app/e
- /albuquerque/albuquerque-museum-free-sunday-morning-2026-11/
-URL:https://weekendscout.app/e/albuquerque/albuquerque-museum-free-sunday-morning-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:albuquerque-river-of-lights-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T000057Z
-DTSTART:20261129T000000Z
-DTEND:20261129T050000Z
-SUMMARY:River of Lights
-LOCATION:ABQ BioPark Botanic Garden\, 2601 Central Ave NW\, Albuquerque\, 
- NM 87104
-DESCRIPTION:Opening weekend of New Mexico’s largest walk-through light s
- how. Free Park & Ride from the BioPark Zoo. Tickets. Details: https://week
- endscout.app/e/albuquerque/river-of-lights-2026-11/
-URL:https://weekendscout.app/e/albuquerque/river-of-lights-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:albuquerque-river-of-lights-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T000057Z
-DTSTART:20261130T000000Z
-DTEND:20261130T050000Z
-SUMMARY:River of Lights
-LOCATION:ABQ BioPark Botanic Garden\, 2601 Central Ave NW\, Albuquerque\, 
- NM 87104
-DESCRIPTION:Opening weekend of New Mexico’s largest walk-through light s
- how. Free Park & Ride from the BioPark Zoo. Tickets. Details: https://week
- endscout.app/e/albuquerque/river-of-lights-2026-11/
-URL:https://weekendscout.app/e/albuquerque/river-of-lights-2026-11/
-END:VEVENT
-BEGIN:VEVENT
 UID:albuquerque-nutcracker-magical-christmas-ballet-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T000057Z
+DTSTAMP:20261126T003532Z
 DTSTART:20261127T220000Z
 DTEND:20261128T000000Z
 SUMMARY:Nutcracker! Magical Christmas Ballet
@@ -59,7 +21,7 @@ URL:https://weekendscout.app/e/albuquerque/nutcracker-magical-christmas-ballet-2
 END:VEVENT
 BEGIN:VEVENT
 UID:albuquerque-nutcracker-magical-christmas-ballet-2026-11-fri-1@weekendscout.app
-DTSTAMP:20261126T000057Z
+DTSTAMP:20261126T003532Z
 DTSTART:20261128T020000Z
 DTEND:20261128T040000Z
 SUMMARY:Nutcracker! Magical Christmas Ballet
@@ -71,26 +33,124 @@ URL:https://weekendscout.app/e/albuquerque/nutcracker-magical-christmas-ballet-2
 END:VEVENT
 BEGIN:VEVENT
 UID:albuquerque-new-mexico-lobos-vs-air-force-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T000057Z
+DTSTAMP:20261126T003532Z
 DTSTART:20261127T213000Z
 DTEND:20261127T233000Z
 SUMMARY:New Mexico Lobos vs. Air Force
 LOCATION:University Stadium\, 1414 University Blvd SE\, Albuquerque\, NM 8
  7106
-DESCRIPTION:Lobo football on Black Friday afternoon. Tickets. Details: htt
- ps://weekendscout.app/e/albuquerque/new-mexico-lobos-vs-air-force-2026-11/
+DESCRIPTION:Lobo football vs. Air Force on Black Friday afternoon\; kickof
+ f 2:30 p.m. Tickets. Details: https://weekendscout.app/e/albuquerque/new-m
+ exico-lobos-vs-air-force-2026-11/
 URL:https://weekendscout.app/e/albuquerque/new-mexico-lobos-vs-air-force-2026-11/
 END:VEVENT
 BEGIN:VEVENT
+UID:albuquerque-river-of-lights-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T003532Z
+DTSTART:20261129T000000Z
+DTEND:20261129T050000Z
+SUMMARY:River of Lights
+LOCATION:ABQ BioPark Botanic Garden\, 2601 Central Ave NW\, Albuquerque\, 
+ NM 87104
+DESCRIPTION:Opening weekend of New Mexico’s largest walk-through light s
+ how\, running nightly through January 3. Tickets are timed\, so arrive in 
+ your slot. $21 adults\, $12 ages 3–12. Details: https://weekendscout.app
+ /e/albuquerque/river-of-lights-2026-11/
+URL:https://weekendscout.app/e/albuquerque/river-of-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:albuquerque-river-of-lights-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T003532Z
+DTSTART:20261130T000000Z
+DTEND:20261130T050000Z
+SUMMARY:River of Lights
+LOCATION:ABQ BioPark Botanic Garden\, 2601 Central Ave NW\, Albuquerque\, 
+ NM 87104
+DESCRIPTION:Opening weekend of New Mexico’s largest walk-through light s
+ how\, running nightly through January 3. Tickets are timed\, so arrive in 
+ your slot. $21 adults\, $12 ages 3–12. Details: https://weekendscout.app
+ /e/albuquerque/river-of-lights-2026-11/
+URL:https://weekendscout.app/e/albuquerque/river-of-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:albuquerque-albuquerque-museum-free-sunday-morning-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T003532Z
+DTSTART:20261129T160000Z
+DTEND:20261129T200000Z
+SUMMARY:Albuquerque Museum (free Sunday morning)
+LOCATION:Albuquerque Museum\, 2000 Mountain Rd NW\, Albuquerque\, NM 87104
+DESCRIPTION:Art and history of the Southwest by Old Town\, free on Sunday 
+ mornings. Free Sunday 9 a.m.–1 p.m.. Details: https://weekendscout.app/e
+ /albuquerque/albuquerque-museum-free-sunday-morning-2026-11/
+URL:https://weekendscout.app/e/albuquerque/albuquerque-museum-free-sunday-morning-2026-11/
+END:VEVENT
+BEGIN:VEVENT
 UID:albuquerque-jim-henson-s-fraggle-rock-live-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T000057Z
+DTSTAMP:20261126T003532Z
 DTSTART:20261130T010000Z
 DTEND:20261130T030000Z
-SUMMARY:Jim Henson’s Fraggle Rock Live
+SUMMARY:Fraggle Rock: Back to the Rock LIVE
 LOCATION:Popejoy Hall\, 203 Cornell Dr NE\, Albuquerque\, NM 87106
-DESCRIPTION:The Fraggles on stage in a live family show. Tickets. Details:
-  https://weekendscout.app/e/albuquerque/jim-henson-s-fraggle-rock-live-202
- 6-11/
+DESCRIPTION:The Fraggles on stage at UNM in a live family show with songs 
+ and puppetry. $34–$90. Details: https://weekendscout.app/e/albuquerque/j
+ im-henson-s-fraggle-rock-live-2026-11/
 URL:https://weekendscout.app/e/albuquerque/jim-henson-s-fraggle-rock-live-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:albuquerque-new-mexico-lobos-vs-utah-state-basketball-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T003532Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:New Mexico Lobos vs. Utah State (men’s basketball)
+LOCATION:The Pit\, University Blvd SE & Stadium Blvd SE\, Albuquerque\, NM
+  87106
+DESCRIPTION:Mountain West basketball at The Pit\, the Lobos’ famously lo
+ ud sunken arena. Tip time not yet announced. Check ticket prices. Details:
+  https://weekendscout.app/e/albuquerque/new-mexico-lobos-vs-utah-state-bas
+ ketball-2026-11/
+URL:https://weekendscout.app/e/albuquerque/new-mexico-lobos-vs-utah-state-basketball-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:albuquerque-petroglyph-national-monument-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T003532Z
+DTSTART:20261127T153000Z
+DTEND:20261127T230000Z
+SUMMARY:Petroglyph National Monument
+LOCATION:Petroglyph National Monument\, 6510 Western Trail NW\, Albuquerqu
+ e\, NM 87120
+DESCRIPTION:Free to visit: short desert trails past thousands of ancient r
+ ock carvings on the West Mesa. Leashed dogs are allowed at Rinconada and P
+ iedras Marcadas canyons\, not at Boca Negra. Free. Details: https://weeken
+ dscout.app/e/albuquerque/petroglyph-national-monument-2026-11/
+URL:https://weekendscout.app/e/albuquerque/petroglyph-national-monument-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:albuquerque-petroglyph-national-monument-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T003532Z
+DTSTART:20261128T153000Z
+DTEND:20261128T230000Z
+SUMMARY:Petroglyph National Monument
+LOCATION:Petroglyph National Monument\, 6510 Western Trail NW\, Albuquerqu
+ e\, NM 87120
+DESCRIPTION:Free to visit: short desert trails past thousands of ancient r
+ ock carvings on the West Mesa. Leashed dogs are allowed at Rinconada and P
+ iedras Marcadas canyons\, not at Boca Negra. Free. Details: https://weeken
+ dscout.app/e/albuquerque/petroglyph-national-monument-2026-11/
+URL:https://weekendscout.app/e/albuquerque/petroglyph-national-monument-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:albuquerque-petroglyph-national-monument-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T003532Z
+DTSTART:20261129T153000Z
+DTEND:20261129T230000Z
+SUMMARY:Petroglyph National Monument
+LOCATION:Petroglyph National Monument\, 6510 Western Trail NW\, Albuquerqu
+ e\, NM 87120
+DESCRIPTION:Free to visit: short desert trails past thousands of ancient r
+ ock carvings on the West Mesa. Leashed dogs are allowed at Rinconada and P
+ iedras Marcadas canyons\, not at Boca Negra. Free. Details: https://weeken
+ dscout.app/e/albuquerque/petroglyph-national-monument-2026-11/
+URL:https://weekendscout.app/e/albuquerque/petroglyph-national-monument-2026-11/
 END:VEVENT
 END:VCALENDAR

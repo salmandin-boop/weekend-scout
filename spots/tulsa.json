@@ -1,0 +1,18 @@
+{
+  "city": "tulsa",
+  "updated": "2026-11-25",
+  "source": "Philbrook official site (Nov 2026). Restaurants not yet added.",
+  "spots": [
+    {
+      "name": "Philbrook Museum of Art",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Midtown",
+      "lat": 36.12385,
+      "lon": -95.97009,
+      "price": "Tickets",
+      "blurb": "Art museum in a 1920s villa with formal gardens; holiday Festival lights run through Dec. 23.",
+      "blurbEs": "Museo de arte en una villa de los años 20 con jardines formales; las luces navideñas del Festival siguen hasta el 23 de diciembre."
+    }
+  ]
+}

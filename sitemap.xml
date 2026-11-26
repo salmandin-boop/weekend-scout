@@ -234,6 +234,7 @@
   <url><loc>https://weekendscout.app/charlotte/with-kids/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/charlotte/visiting/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/fort-worth/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://weekendscout.app/fort-worth/date-night/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/fort-worth/with-kids/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/fort-worth/visiting/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/hartford/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
@@ -241,6 +242,7 @@
   <url><loc>https://weekendscout.app/hartford/with-kids/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/hartford/visiting/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/birmingham/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://weekendscout.app/birmingham/date-night/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/birmingham/with-kids/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/birmingham/visiting/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/tucson/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
@@ -248,10 +250,13 @@
   <url><loc>https://weekendscout.app/tucson/with-kids/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/tucson/visiting/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/honolulu/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://weekendscout.app/honolulu/free/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/honolulu/date-night/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://weekendscout.app/honolulu/with-kids/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/honolulu/visiting/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/tulsa/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/tulsa/date-night/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://weekendscout.app/tulsa/with-kids/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/tulsa/visiting/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/fresno/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/fresno/date-night/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>

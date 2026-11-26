@@ -1,0 +1,62 @@
+{
+  "city": "albuquerque",
+  "updated": "2026-11-25",
+  "source": "Wikipedia/NPS coordinates and City of Albuquerque/NPS official sites (Nov 2026); restaurant picks pending: no verified coordinates this run",
+  "spots": [
+    {
+      "name": "Albuquerque Museum",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Old Town",
+      "lat": 35.0965,
+      "lon": -106.667,
+      "price": "Free Sun 9 a.m.–1 p.m.; tickets other times",
+      "blurb": "Art and history of the Southwest next to Old Town; open Tuesday to Sunday",
+      "blurbEs": "Arte e historia del suroeste junto a Old Town; abre de martes a domingo"
+    },
+    {
+      "name": "ABQ BioPark Zoo",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Barelas",
+      "lat": 35.0781,
+      "lon": -106.6632,
+      "price": "Tickets",
+      "blurb": "64-acre zoo by the Rio Grande with polar bears, penguins and a Mexican wolf pack",
+      "blurbEs": "Zoológico de 64 acres junto al río Grande con osos polares, pingüinos y una manada de lobos mexicanos"
+    },
+    {
+      "name": "ABQ BioPark Botanic Garden",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Old Town",
+      "lat": 35.0957,
+      "lon": -106.68,
+      "price": "Tickets",
+      "blurb": "Gardens, a desert conservatory and a heritage farm along the river",
+      "blurbEs": "Jardines, un invernadero desértico y una granja histórica junto al río"
+    },
+    {
+      "name": "Petroglyph National Monument",
+      "kind": "always",
+      "cuisine": "",
+      "area": "West Mesa",
+      "lat": 35.13583,
+      "lon": -106.76194,
+      "price": "Free",
+      "blurb": "Short trails past thousands of ancient rock carvings; closed only Thanksgiving, Christmas and New Year’s Day",
+      "blurbEs": "Senderos cortos entre miles de grabados rupestres antiguos; cierra solo en Acción de Gracias, Navidad y Año Nuevo"
+    },
+    {
+      "name": "Sandia Peak Tramway",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Northeast Heights",
+      "lat": 35.19056,
+      "lon": -106.47944,
+      "price": "Tickets",
+      "blurb": "Aerial tram up the Sandia Mountains with huge views over the city",
+      "blurbEs": "Teleférico a las montañas Sandía con enormes vistas sobre la ciudad"
+    }
+  ]
+}

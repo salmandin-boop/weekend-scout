@@ -1,0 +1,118 @@
+{
+  "city": "hartford",
+  "updated": "2026-11-25",
+  "source": "OpenTable date-night list, Fodor's and CTvisit.com (CT Office of Tourism) listings, Nov 2026",
+  "spots": [
+    {
+      "name": "Feng Chophouse",
+      "kind": "dinner",
+      "cuisine": "Asian steakhouse & sushi",
+      "area": "Downtown",
+      "lat": 41.76681,
+      "lon": -72.67505
+    },
+    {
+      "name": "Max Downtown",
+      "kind": "dinner",
+      "cuisine": "American chophouse",
+      "area": "Downtown",
+      "lat": 41.76677,
+      "lon": -72.67625
+    },
+    {
+      "name": "Trumbull Kitchen",
+      "kind": "dinner",
+      "cuisine": "Global small plates",
+      "area": "Downtown",
+      "lat": 41.76669,
+      "lon": -72.6754
+    },
+    {
+      "name": "Bear's Smokehouse BBQ",
+      "kind": "lunch",
+      "cuisine": "Barbecue, family friendly",
+      "area": "Front Street",
+      "lat": 41.76263,
+      "lon": -72.67138
+    },
+    {
+      "name": "Joey's Pizza Pie",
+      "kind": "lunch",
+      "cuisine": "Pizza & sandwiches",
+      "area": "West Hartford (Park Road)",
+      "lat": 41.75544,
+      "lon": -72.72973
+    },
+    {
+      "name": "Hartford Flavor Cocktail Parlour",
+      "kind": "drinks",
+      "cuisine": "Craft cocktails & distillery",
+      "area": "Pratt Street",
+      "lat": 41.7678,
+      "lon": -72.67423
+    },
+    {
+      "name": "The Russell",
+      "kind": "drinks",
+      "cuisine": "Cocktails & dinner",
+      "area": "Downtown",
+      "lat": 41.76863,
+      "lon": -72.68071
+    },
+    {
+      "name": "The Wadsworth",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Downtown",
+      "lat": 41.76364,
+      "lon": -72.67304,
+      "price": "$22",
+      "blurb": "America's oldest public art museum. Free for kids 12 and under and Hartford residents.",
+      "blurbEs": "El museo de arte público más antiguo de Estados Unidos. Gratis para niños de 12 años o menos y residentes de Hartford."
+    },
+    {
+      "name": "Connecticut Science Center",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Riverfront",
+      "lat": 41.76498,
+      "lon": -72.66898,
+      "price": "Tickets",
+      "blurb": "Hands-on science museum on the riverfront; Holiday Enchantment lights are included with admission through Dec. 23.",
+      "blurbEs": "Museo de ciencias interactivo junto al río; las luces de Holiday Enchantment están incluidas con la entrada hasta el 23 de diciembre."
+    },
+    {
+      "name": "The Mark Twain House & Museum",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Asylum Hill",
+      "lat": 41.76702,
+      "lon": -72.70145,
+      "price": "$28",
+      "blurb": "Guided tours of the Gilded Age home where Twain wrote his best-known books. Reserve ahead.",
+      "blurbEs": "Visitas guiadas a la casa de la Edad Dorada donde Twain escribió sus libros más conocidos. Reserva con anticipación."
+    },
+    {
+      "name": "Connecticut's Old State House",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Downtown",
+      "lat": 41.76618,
+      "lon": -72.67263,
+      "price": "$8",
+      "blurb": "The 1796 state house, now a history museum; open Saturday afternoons, closed Sunday.",
+      "blurbEs": "El capitolio de 1796, hoy museo de historia; abre los sábados por la tarde y cierra los domingos."
+    },
+    {
+      "name": "Bushnell Park",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Downtown",
+      "lat": 41.764,
+      "lon": -72.6795,
+      "price": "Free",
+      "blurb": "The city's central park, with the Soldiers and Sailors Memorial Arch and the free Winterfest rink this season.",
+      "blurbEs": "El parque central de la ciudad, con el Soldiers and Sailors Memorial Arch y la pista gratuita de Winterfest esta temporada."
+    }
+  ]
+}

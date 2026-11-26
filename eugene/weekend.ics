@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:eugene-holiday-market-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T000057Z
+DTSTAMP:20261126T003532Z
 DTSTART:20261127T180000Z
 DTEND:20261128T020000Z
 SUMMARY:Holiday Market
@@ -21,7 +21,7 @@ URL:https://weekendscout.app/e/eugene/holiday-market-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:eugene-holiday-market-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T000057Z
+DTSTAMP:20261126T003532Z
 DTSTART:20261128T180000Z
 DTEND:20261129T020000Z
 SUMMARY:Holiday Market
@@ -33,7 +33,7 @@ URL:https://weekendscout.app/e/eugene/holiday-market-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:eugene-holiday-market-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T000057Z
+DTSTAMP:20261126T003532Z
 DTSTART:20261129T180000Z
 DTEND:20261130T010000Z
 SUMMARY:Holiday Market
@@ -45,7 +45,7 @@ URL:https://weekendscout.app/e/eugene/holiday-market-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:eugene-skinner-butte-park-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T000057Z
+DTSTAMP:20261126T003532Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -57,7 +57,7 @@ URL:https://weekendscout.app/e/eugene/skinner-butte-park-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:eugene-skinner-butte-park-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T000057Z
+DTSTAMP:20261126T003532Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -69,7 +69,7 @@ URL:https://weekendscout.app/e/eugene/skinner-butte-park-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:eugene-skinner-butte-park-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T000057Z
+DTSTAMP:20261126T003532Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -81,7 +81,7 @@ URL:https://weekendscout.app/e/eugene/skinner-butte-park-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:eugene-oregon-vs-washington-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T000057Z
+DTSTAMP:20261126T003532Z
 DTSTART:20261129T003000Z
 DTEND:20261129T023000Z
 SUMMARY:Oregon vs. Washington
@@ -93,7 +93,7 @@ URL:https://weekendscout.app/e/eugene/oregon-vs-washington-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:eugene-ballet-fantastique-a-christmas-carol-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T000057Z
+DTSTAMP:20261126T003532Z
 DTSTART:20261129T033000Z
 DTEND:20261129T053000Z
 SUMMARY:Ballet Fantastique: A Christmas Carol
@@ -105,7 +105,7 @@ URL:https://weekendscout.app/e/eugene/ballet-fantastique-a-christmas-carol-2026-
 END:VEVENT
 BEGIN:VEVENT
 UID:eugene-ballet-fantastique-a-christmas-carol-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T000057Z
+DTSTAMP:20261126T003532Z
 DTSTART:20261129T223000Z
 DTEND:20261130T003000Z
 SUMMARY:Ballet Fantastique: A Christmas Carol

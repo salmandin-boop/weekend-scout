@@ -1,0 +1,73 @@
+{
+  "city": "tucson",
+  "updated": "2026-11-25",
+  "source": "Wikipedia/NPS/BGCI coordinates and official sites (Nov 2026); restaurant picks pending: no verified coordinates this run",
+  "spots": [
+    {
+      "name": "Arizona-Sonora Desert Museum",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Tucson Mountains",
+      "lat": 32.24389,
+      "lon": -111.16806,
+      "price": "Tickets",
+      "blurb": "Zoo, botanical garden and natural history museum of the Sonoran Desert, mostly outdoors",
+      "blurbEs": "Zoológico, jardín botánico y museo de historia natural del desierto de Sonora, casi todo al aire libre"
+    },
+    {
+      "name": "Reid Park Zoo",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Midtown",
+      "lat": 32.208,
+      "lon": -110.92,
+      "price": "Tickets",
+      "blurb": "Compact city zoo with elephants, giraffes and a big play area, inside Reid Park",
+      "blurbEs": "Zoológico urbano compacto con elefantes, jirafas y una gran zona de juegos, dentro de Reid Park"
+    },
+    {
+      "name": "Gene C. Reid Park",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Midtown",
+      "lat": 32.2105,
+      "lon": -110.9213,
+      "price": "Free",
+      "blurb": "Tucson’s big central park, with a duck pond, rose garden and playgrounds",
+      "blurbEs": "El gran parque central de Tucson, con estanque de patos, jardín de rosas y juegos infantiles"
+    },
+    {
+      "name": "Tucson Botanical Gardens",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Midtown",
+      "lat": 32.24852,
+      "lon": -110.90879,
+      "price": "Tickets",
+      "blurb": "Themed desert gardens and a butterfly exhibit in the middle of town",
+      "blurbEs": "Jardines desérticos temáticos y una exhibición de mariposas en el centro de la ciudad"
+    },
+    {
+      "name": "Mission Garden",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Menlo Park",
+      "lat": 32.21361,
+      "lon": -110.98722,
+      "price": "Free (donation suggested)",
+      "blurb": "A living-history garden at the foot of “A” Mountain growing 4,000 years of Tucson crops",
+      "blurbEs": "Un jardín de historia viva al pie de “A” Mountain con 4,000 años de cultivos de Tucson"
+    },
+    {
+      "name": "Mission San Xavier del Bac",
+      "kind": "always",
+      "cuisine": "",
+      "area": "San Xavier",
+      "lat": 32.107,
+      "lon": -111.008,
+      "price": "",
+      "blurb": "The “White Dove of the Desert,” an 18th-century Spanish mission church open to visitors daily",
+      "blurbEs": "La “Paloma Blanca del Desierto”, una iglesia misional española del siglo XVIII abierta a visitantes todos los días"
+    }
+  ]
+}

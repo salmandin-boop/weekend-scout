@@ -9,133 +9,143 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:hartford-winterfest-hartford-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T000057Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
+DTSTAMP:20261126T003532Z
+DTSTART:20261127T160000Z
+DTEND:20261128T010000Z
 SUMMARY:Winterfest Hartford
 LOCATION:Bushnell Park\, 99 Trinity St\, Hartford\, CT 06103
 DESCRIPTION:Opening weekend of the free outdoor ice rink in Bushnell Park\
- , with free skate rentals and learn-to-skate classes. Runs through Jan. 3.
-  Free skating & skate rental. Details: https://weekendscout.app/e/hartford
- /winterfest-hartford-2026-11/
+ , with free skating\, skate rentals and learn-to-skate classes. Open 11 a.
+ m.–8 p.m. on opening day\; runs through Jan. 3. Free skating & skate ren
+ tal. Details: https://weekendscout.app/e/hartford/winterfest-hartford-2026
+ -11/
 URL:https://weekendscout.app/e/hartford/winterfest-hartford-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:hartford-winterfest-hartford-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T000057Z
+DTSTAMP:20261126T003532Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
 SUMMARY:Winterfest Hartford
 LOCATION:Bushnell Park\, 99 Trinity St\, Hartford\, CT 06103
 DESCRIPTION:Opening weekend of the free outdoor ice rink in Bushnell Park\
- , with free skate rentals and learn-to-skate classes. Runs through Jan. 3.
-  Free skating & skate rental. Details: https://weekendscout.app/e/hartford
- /winterfest-hartford-2026-11/
+ , with free skating\, skate rentals and learn-to-skate classes. Open 11 a.
+ m.–8 p.m. on opening day\; runs through Jan. 3. Free skating & skate ren
+ tal. Details: https://weekendscout.app/e/hartford/winterfest-hartford-2026
+ -11/
 URL:https://weekendscout.app/e/hartford/winterfest-hartford-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:hartford-winterfest-hartford-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T000057Z
+DTSTAMP:20261126T003532Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
 SUMMARY:Winterfest Hartford
 LOCATION:Bushnell Park\, 99 Trinity St\, Hartford\, CT 06103
 DESCRIPTION:Opening weekend of the free outdoor ice rink in Bushnell Park\
- , with free skate rentals and learn-to-skate classes. Runs through Jan. 3.
-  Free skating & skate rental. Details: https://weekendscout.app/e/hartford
- /winterfest-hartford-2026-11/
+ , with free skating\, skate rentals and learn-to-skate classes. Open 11 a.
+ m.–8 p.m. on opening day\; runs through Jan. 3. Free skating & skate ren
+ tal. Details: https://weekendscout.app/e/hartford/winterfest-hartford-2026
+ -11/
 URL:https://weekendscout.app/e/hartford/winterfest-hartford-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:hartford-hartford-wolf-pack-vs-springfield-thunderbirds-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T000057Z
+DTSTAMP:20261126T003532Z
 DTSTART:20261127T220000Z
 DTEND:20261128T000000Z
 SUMMARY:Hartford Wolf Pack vs. Springfield Thunderbirds
 LOCATION:PeoplesBank Arena\, 1 Civic Center Plaza\, Hartford\, CT 06103
-DESCRIPTION:AHL hockey: the Wolf Pack host their Springfield rivals twice 
- this weekend. Tickets. Details: https://weekendscout.app/e/hartford/hartfo
- rd-wolf-pack-vs-springfield-thunderbirds-2026-11/
+DESCRIPTION:AHL hockey: the Wolf Pack host Springfield twice this weekend\
+ , with I-91 Rivalry Night on Friday and a Sensory Inclusivity Night on Sun
+ day. Tickets. Details: https://weekendscout.app/e/hartford/hartford-wolf-p
+ ack-vs-springfield-thunderbirds-2026-11/
 URL:https://weekendscout.app/e/hartford/hartford-wolf-pack-vs-springfield-thunderbirds-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:hartford-hartford-wolf-pack-vs-springfield-thunderbirds-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T000057Z
+DTSTAMP:20261126T003532Z
 DTSTART:20261129T200000Z
 DTEND:20261129T220000Z
 SUMMARY:Hartford Wolf Pack vs. Springfield Thunderbirds
 LOCATION:PeoplesBank Arena\, 1 Civic Center Plaza\, Hartford\, CT 06103
-DESCRIPTION:AHL hockey: the Wolf Pack host their Springfield rivals twice 
- this weekend. Tickets. Details: https://weekendscout.app/e/hartford/hartfo
- rd-wolf-pack-vs-springfield-thunderbirds-2026-11/
+DESCRIPTION:AHL hockey: the Wolf Pack host Springfield twice this weekend\
+ , with I-91 Rivalry Night on Friday and a Sensory Inclusivity Night on Sun
+ day. Tickets. Details: https://weekendscout.app/e/hartford/hartford-wolf-p
+ ack-vs-springfield-thunderbirds-2026-11/
 URL:https://weekendscout.app/e/hartford/hartford-wolf-pack-vs-springfield-thunderbirds-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:hartford-a-christmas-carol-a-ghost-story-of-christmas-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T000057Z
+DTSTAMP:20261126T003532Z
 DTSTART:20261127T190000Z
 DTEND:20261127T210000Z
 SUMMARY:A Christmas Carol: A Ghost Story of Christmas
 LOCATION:Hartford Stage\, 50 Church St\, Hartford\, CT 06103
 DESCRIPTION:Hartford Stage’s much-loved annual production of the Dickens
-  tale. Tickets. Details: https://weekendscout.app/e/hartford/a-christmas-c
- arol-a-ghost-story-of-christmas-2026-11/
+  tale\, running through Dec. 27. Youth tickets are half price. Tickets. De
+ tails: https://weekendscout.app/e/hartford/a-christmas-carol-a-ghost-story
+ -of-christmas-2026-11/
 URL:https://weekendscout.app/e/hartford/a-christmas-carol-a-ghost-story-of-christmas-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:hartford-a-christmas-carol-a-ghost-story-of-christmas-2026-11-fri-1@weekendscout.app
-DTSTAMP:20261126T000057Z
+DTSTAMP:20261126T003532Z
 DTSTART:20261128T003000Z
 DTEND:20261128T023000Z
 SUMMARY:A Christmas Carol: A Ghost Story of Christmas
 LOCATION:Hartford Stage\, 50 Church St\, Hartford\, CT 06103
 DESCRIPTION:Hartford Stage’s much-loved annual production of the Dickens
-  tale. Tickets. Details: https://weekendscout.app/e/hartford/a-christmas-c
- arol-a-ghost-story-of-christmas-2026-11/
+  tale\, running through Dec. 27. Youth tickets are half price. Tickets. De
+ tails: https://weekendscout.app/e/hartford/a-christmas-carol-a-ghost-story
+ -of-christmas-2026-11/
 URL:https://weekendscout.app/e/hartford/a-christmas-carol-a-ghost-story-of-christmas-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:hartford-a-christmas-carol-a-ghost-story-of-christmas-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T000057Z
+DTSTAMP:20261126T003532Z
+DTSTART:20261128T190000Z
+DTEND:20261128T210000Z
+SUMMARY:A Christmas Carol: A Ghost Story of Christmas
+LOCATION:Hartford Stage\, 50 Church St\, Hartford\, CT 06103
+DESCRIPTION:Hartford Stage’s much-loved annual production of the Dickens
+  tale\, running through Dec. 27. Youth tickets are half price. Tickets. De
+ tails: https://weekendscout.app/e/hartford/a-christmas-carol-a-ghost-story
+ -of-christmas-2026-11/
+URL:https://weekendscout.app/e/hartford/a-christmas-carol-a-ghost-story-of-christmas-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:hartford-a-christmas-carol-a-ghost-story-of-christmas-2026-11-sat-1@weekendscout.app
+DTSTAMP:20261126T003532Z
 DTSTART:20261129T003000Z
 DTEND:20261129T023000Z
 SUMMARY:A Christmas Carol: A Ghost Story of Christmas
 LOCATION:Hartford Stage\, 50 Church St\, Hartford\, CT 06103
 DESCRIPTION:Hartford Stage’s much-loved annual production of the Dickens
-  tale. Tickets. Details: https://weekendscout.app/e/hartford/a-christmas-c
- arol-a-ghost-story-of-christmas-2026-11/
+  tale\, running through Dec. 27. Youth tickets are half price. Tickets. De
+ tails: https://weekendscout.app/e/hartford/a-christmas-carol-a-ghost-story
+ -of-christmas-2026-11/
 URL:https://weekendscout.app/e/hartford/a-christmas-carol-a-ghost-story-of-christmas-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:hartford-a-christmas-carol-a-ghost-story-of-christmas-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T000057Z
-DTSTART:20261129T180000Z
-DTEND:20261129T200000Z
+DTSTAMP:20261126T003532Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
 SUMMARY:A Christmas Carol: A Ghost Story of Christmas
 LOCATION:Hartford Stage\, 50 Church St\, Hartford\, CT 06103
 DESCRIPTION:Hartford Stage’s much-loved annual production of the Dickens
-  tale. Tickets. Details: https://weekendscout.app/e/hartford/a-christmas-c
- arol-a-ghost-story-of-christmas-2026-11/
-URL:https://weekendscout.app/e/hartford/a-christmas-carol-a-ghost-story-of-christmas-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:hartford-a-christmas-carol-a-ghost-story-of-christmas-2026-11-sun-1@weekendscout.app
-DTSTAMP:20261126T000057Z
-DTSTART:20261129T233000Z
-DTEND:20261130T013000Z
-SUMMARY:A Christmas Carol: A Ghost Story of Christmas
-LOCATION:Hartford Stage\, 50 Church St\, Hartford\, CT 06103
-DESCRIPTION:Hartford Stage’s much-loved annual production of the Dickens
-  tale. Tickets. Details: https://weekendscout.app/e/hartford/a-christmas-c
- arol-a-ghost-story-of-christmas-2026-11/
+  tale\, running through Dec. 27. Youth tickets are half price. Tickets. De
+ tails: https://weekendscout.app/e/hartford/a-christmas-carol-a-ghost-story
+ -of-christmas-2026-11/
 URL:https://weekendscout.app/e/hartford/a-christmas-carol-a-ghost-story-of-christmas-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:hartford-jim-brickman-a-christmas-celebration-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T000057Z
+DTSTAMP:20261126T003532Z
 DTSTART:20261128T003000Z
 DTEND:20261128T023000Z
 SUMMARY:Jim Brickman: A Christmas Celebration
@@ -147,14 +157,120 @@ URL:https://weekendscout.app/e/hartford/jim-brickman-a-christmas-celebration-202
 END:VEVENT
 BEGIN:VEVENT
 UID:hartford-a-magical-cirque-christmas-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T000057Z
+DTSTAMP:20261126T003532Z
 DTSTART:20261129T210000Z
 DTEND:20261129T230000Z
 SUMMARY:A Magical Cirque Christmas
 LOCATION:The Bushnell\, 166 Capitol Ave\, Hartford\, CT 06106
 DESCRIPTION:Holiday songs with jugglers\, aerialists and acrobats in Morte
- nsen Hall. Tickets. Details: https://weekendscout.app/e/hartford/a-magical
- -cirque-christmas-2026-11/
+ nsen Hall. From $41.50. Details: https://weekendscout.app/e/hartford/a-mag
+ ical-cirque-christmas-2026-11/
 URL:https://weekendscout.app/e/hartford/a-magical-cirque-christmas-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:hartford-max-creek-infinity-hartford-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T003532Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:Max Creek
+LOCATION:Infinity Music Hall\, 32 Front St\, Hartford\, CT 06103
+DESCRIPTION:Hartford-rooted jam band Max Creek\, playing since 1972\, brin
+ gs its long funk-rock jams home to Front Street. Doors at 7 p.m. Check tic
+ ket prices. Details: https://weekendscout.app/e/hartford/max-creek-infinit
+ y-hartford-2026-11/
+URL:https://weekendscout.app/e/hartford/max-creek-infinity-hartford-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:hartford-jj-williamson-funny-bone-hartford-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T003532Z
+DTSTART:20261128T000000Z
+DTEND:20261128T020000Z
+SUMMARY:JJ Williamson
+LOCATION:Hartford Funny Bone Comedy Club & Restaurant\, 194 Buckland Hills
+  Dr\, Suite 1054\, Manchester\, CT 06042
+DESCRIPTION:Stand-up from the comedian and actor who has opened for Cedric
+  “The Entertainer\,” with four shows over two nights. Fees are include
+ d in the price. $24. Details: https://weekendscout.app/e/hartford/jj-willi
+ amson-funny-bone-hartford-2026-11/
+URL:https://weekendscout.app/e/hartford/jj-williamson-funny-bone-hartford-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:hartford-jj-williamson-funny-bone-hartford-2026-11-fri-1@weekendscout.app
+DTSTAMP:20261126T003532Z
+DTSTART:20261128T023000Z
+DTEND:20261128T043000Z
+SUMMARY:JJ Williamson
+LOCATION:Hartford Funny Bone Comedy Club & Restaurant\, 194 Buckland Hills
+  Dr\, Suite 1054\, Manchester\, CT 06042
+DESCRIPTION:Stand-up from the comedian and actor who has opened for Cedric
+  “The Entertainer\,” with four shows over two nights. Fees are include
+ d in the price. $24. Details: https://weekendscout.app/e/hartford/jj-willi
+ amson-funny-bone-hartford-2026-11/
+URL:https://weekendscout.app/e/hartford/jj-williamson-funny-bone-hartford-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:hartford-jj-williamson-funny-bone-hartford-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T003532Z
+DTSTART:20261128T233000Z
+DTEND:20261129T013000Z
+SUMMARY:JJ Williamson
+LOCATION:Hartford Funny Bone Comedy Club & Restaurant\, 194 Buckland Hills
+  Dr\, Suite 1054\, Manchester\, CT 06042
+DESCRIPTION:Stand-up from the comedian and actor who has opened for Cedric
+  “The Entertainer\,” with four shows over two nights. Fees are include
+ d in the price. $24. Details: https://weekendscout.app/e/hartford/jj-willi
+ amson-funny-bone-hartford-2026-11/
+URL:https://weekendscout.app/e/hartford/jj-williamson-funny-bone-hartford-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:hartford-jj-williamson-funny-bone-hartford-2026-11-sat-1@weekendscout.app
+DTSTAMP:20261126T003532Z
+DTSTART:20261129T020000Z
+DTEND:20261129T040000Z
+SUMMARY:JJ Williamson
+LOCATION:Hartford Funny Bone Comedy Club & Restaurant\, 194 Buckland Hills
+  Dr\, Suite 1054\, Manchester\, CT 06042
+DESCRIPTION:Stand-up from the comedian and actor who has opened for Cedric
+  “The Entertainer\,” with four shows over two nights. Fees are include
+ d in the price. $24. Details: https://weekendscout.app/e/hartford/jj-willi
+ amson-funny-bone-hartford-2026-11/
+URL:https://weekendscout.app/e/hartford/jj-williamson-funny-bone-hartford-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:hartford-sea-tea-improv-family-show-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T003532Z
+DTSTART:20261129T190000Z
+DTEND:20261129T210000Z
+SUMMARY:The Sea Tea Improv Family Show!
+LOCATION:Sea Tea Comedy Theater\, 15 Asylum St\, Hartford\, CT 06103
+DESCRIPTION:All-ages improv comedy for kids\, teens and the grown-ups they
+  bring along\, made up on the spot from audience suggestions. Tickets. Det
+ ails: https://weekendscout.app/e/hartford/sea-tea-improv-family-show-2026-
+ 11/
+URL:https://weekendscout.app/e/hartford/sea-tea-improv-family-show-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:hartford-winterfair-hartford-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T003532Z
+DTSTART:20261128T160000Z
+DTEND:20261128T180000Z
+SUMMARY:Winterfair Hartford
+LOCATION:Hartford Union Station\, 1 Union Pl\, Hartford\, CT 06103
+DESCRIPTION:The holiday market of local makers\, artists and food vendors 
+ returns to the grand hall of Union Station on weekends. Free to browse. De
+ tails: https://weekendscout.app/e/hartford/winterfair-hartford-2026-11/
+URL:https://weekendscout.app/e/hartford/winterfair-hartford-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:hartford-winterfair-hartford-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T003532Z
+DTSTART:20261129T160000Z
+DTEND:20261129T180000Z
+SUMMARY:Winterfair Hartford
+LOCATION:Hartford Union Station\, 1 Union Pl\, Hartford\, CT 06103
+DESCRIPTION:The holiday market of local makers\, artists and food vendors 
+ returns to the grand hall of Union Station on weekends. Free to browse. De
+ tails: https://weekendscout.app/e/hartford/winterfair-hartford-2026-11/
+URL:https://weekendscout.app/e/hartford/winterfair-hartford-2026-11/
 END:VEVENT
 END:VCALENDAR

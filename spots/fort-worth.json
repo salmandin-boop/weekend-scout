@@ -1,0 +1,29 @@
+{
+  "city": "fort-worth",
+  "updated": "2026-11-25",
+  "source": "Official museum and Stockyards sites (Nov 2026); coordinates from Wikipedia. Restaurants not yet added.",
+  "spots": [
+    {
+      "name": "Amon Carter Museum of American Art",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Cultural District",
+      "lat": 32.748,
+      "lon": -97.369,
+      "price": "Free",
+      "blurb": "Free museum of American art; open Tue–Sat 10–5 (Thu to 8), Sun noon–5.",
+      "blurbEs": "Museo gratuito de arte estadounidense; abre de martes a sábado de 10 a 5 (jueves hasta las 8) y domingo de 12 a 5."
+    },
+    {
+      "name": "Fort Worth Stockyards",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Stockyards",
+      "lat": 32.7893,
+      "lon": -97.347,
+      "price": "Free",
+      "blurb": "Historic Stockyards with the Fort Worth Herd's longhorn cattle drive daily at 11:30 a.m. and 4 p.m.",
+      "blurbEs": "Los históricos Stockyards, con el arreo de longhorns de la Fort Worth Herd todos los días a las 11:30 a.m. y 4 p.m."
+    }
+  ]
+}
