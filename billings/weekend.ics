@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:billings-downtown-billings-holiday-parade-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T050908Z
+DTSTAMP:20261126T055222Z
 DTSTART:20261128T013000Z
 DTEND:20261128T030000Z
 SUMMARY:Downtown Billings Holiday Parade
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/billings/downtown-billings-holiday-parade-2026-11
 END:VEVENT
 BEGIN:VEVENT
 UID:billings-billings-symphony-nutcracker-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T050908Z
+DTSTAMP:20261126T055222Z
 DTSTART:20261128T210000Z
 DTEND:20261128T230000Z
 SUMMARY:Billings Symphony Presents The Nutcracker Ballet
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/billings/billings-symphony-nutcracker-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:billings-billings-symphony-nutcracker-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261126T050908Z
+DTSTAMP:20261126T055222Z
 DTSTART:20261129T020000Z
 DTEND:20261129T040000Z
 SUMMARY:Billings Symphony Presents The Nutcracker Ballet
@@ -48,7 +48,7 @@ URL:https://weekendscout.app/e/billings/billings-symphony-nutcracker-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:billings-billings-symphony-nutcracker-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T050908Z
+DTSTAMP:20261126T055222Z
 DTSTART:20261129T210000Z
 DTEND:20261129T230000Z
 SUMMARY:Billings Symphony Presents The Nutcracker Ballet
@@ -61,7 +61,7 @@ URL:https://weekendscout.app/e/billings/billings-symphony-nutcracker-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:billings-holiday-nights-zoomontana-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T050908Z
+DTSTAMP:20261126T055222Z
 DTSTART:20261128T000000Z
 DTEND:20261128T040000Z
 SUMMARY:Holiday Nights at ZooMontana
@@ -74,7 +74,7 @@ URL:https://weekendscout.app/e/billings/holiday-nights-zoomontana-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:billings-holiday-nights-zoomontana-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T050908Z
+DTSTAMP:20261126T055222Z
 DTSTART:20261129T000000Z
 DTEND:20261129T040000Z
 SUMMARY:Holiday Nights at ZooMontana
@@ -87,7 +87,7 @@ URL:https://weekendscout.app/e/billings/holiday-nights-zoomontana-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:billings-holiday-nights-zoomontana-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T050908Z
+DTSTAMP:20261126T055222Z
 DTSTART:20261130T000000Z
 DTEND:20261130T040000Z
 SUMMARY:Holiday Nights at ZooMontana
@@ -100,7 +100,7 @@ URL:https://weekendscout.app/e/billings/holiday-nights-zoomontana-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:billings-yellowstone-art-museum-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T050908Z
+DTSTAMP:20261126T055222Z
 DTSTART:20261127T170000Z
 DTEND:20261128T000000Z
 SUMMARY:Yellowstone Art Museum
@@ -114,7 +114,7 @@ URL:https://weekendscout.app/e/billings/yellowstone-art-museum-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:billings-yellowstone-art-museum-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T050908Z
+DTSTAMP:20261126T055222Z
 DTSTART:20261128T170000Z
 DTEND:20261129T000000Z
 SUMMARY:Yellowstone Art Museum
@@ -128,7 +128,7 @@ URL:https://weekendscout.app/e/billings/yellowstone-art-museum-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:billings-western-heritage-center-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T050908Z
+DTSTAMP:20261126T055222Z
 DTSTART:20261128T170000Z
 DTEND:20261129T000000Z
 SUMMARY:Western Heritage Center

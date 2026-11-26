@@ -8,95 +8,136 @@ X-WR-CALDESC:Hand-checked weekend picks in Clarksville, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:clarksville-clarksville-riverwalk-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T050908Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Clarksville RiverWalk
-LOCATION:McGregor Park & RiverWalk\, 640 N Riverside Dr\, Clarksville\, TN
-  37040
-DESCRIPTION:A paved walk along the Cumberland River. Free. Details: https:
- //weekendscout.app/e/clarksville/clarksville-riverwalk-2026-11/
-URL:https://weekendscout.app/e/clarksville/clarksville-riverwalk-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:clarksville-clarksville-riverwalk-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T050908Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Clarksville RiverWalk
-LOCATION:McGregor Park & RiverWalk\, 640 N Riverside Dr\, Clarksville\, TN
-  37040
-DESCRIPTION:A paved walk along the Cumberland River. Free. Details: https:
- //weekendscout.app/e/clarksville/clarksville-riverwalk-2026-11/
-URL:https://weekendscout.app/e/clarksville/clarksville-riverwalk-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:clarksville-clarksville-riverwalk-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T050908Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Clarksville RiverWalk
-LOCATION:McGregor Park & RiverWalk\, 640 N Riverside Dr\, Clarksville\, TN
-  37040
-DESCRIPTION:A paved walk along the Cumberland River. Free. Details: https:
- //weekendscout.app/e/clarksville/clarksville-riverwalk-2026-11/
-URL:https://weekendscout.app/e/clarksville/clarksville-riverwalk-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:clarksville-customs-house-museum-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T050908Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Customs House Museum
-LOCATION:Customs House Museum & Cultural Center\, 200 S 2nd St\, Clarksvil
- le\, TN 37040
-DESCRIPTION:Art\, local history and a big model-train exhibit. Admission. 
- Details: https://weekendscout.app/e/clarksville/customs-house-museum-2026-
- 11/
-URL:https://weekendscout.app/e/clarksville/customs-house-museum-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:clarksville-customs-house-museum-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T050908Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Customs House Museum
-LOCATION:Customs House Museum & Cultural Center\, 200 S 2nd St\, Clarksvil
- le\, TN 37040
-DESCRIPTION:Art\, local history and a big model-train exhibit. Admission. 
- Details: https://weekendscout.app/e/clarksville/customs-house-museum-2026-
- 11/
-URL:https://weekendscout.app/e/clarksville/customs-house-museum-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:clarksville-customs-house-museum-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T050908Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Customs House Museum
-LOCATION:Customs House Museum & Cultural Center\, 200 S 2nd St\, Clarksvil
- le\, TN 37040
-DESCRIPTION:Art\, local history and a big model-train exhibit. Admission. 
- Details: https://weekendscout.app/e/clarksville/customs-house-museum-2026-
- 11/
-URL:https://weekendscout.app/e/clarksville/customs-house-museum-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:clarksville-austin-peay-vs-evansville-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T050908Z
+UID:clarksville-austin-peay-vs-evansville-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T055222Z
 DTSTART:20261128T200000Z
 DTEND:20261128T220000Z
 SUMMARY:Austin Peay vs. Evansville
 LOCATION:F&M Bank Arena\, 50 Franklin St\, Clarksville\, TN 37040
-DESCRIPTION:Governors women’s basketball on Saturday. Tickets. Details: 
- https://weekendscout.app/e/clarksville/austin-peay-vs-evansville-2026-11/
-URL:https://weekendscout.app/e/clarksville/austin-peay-vs-evansville-2026-11/
+DESCRIPTION:Austin Peay Governors women's basketball hosts Evansville at 2
+  p.m. Saturday on Gary Mathews Court\, part of a four-game homestand. Tick
+ ets. Details: https://weekendscout.app/e/clarksville/austin-peay-vs-evansv
+ ille-2026-11-28/
+URL:https://weekendscout.app/e/clarksville/austin-peay-vs-evansville-2026-11-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:clarksville-christmas-on-the-cumberland-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Christmas on the Cumberland
+LOCATION:McGregor Park & RiverWalk\, 640 N Riverside Dr\, Clarksville\, TN
+  37040
+DESCRIPTION:More than a million holiday lights line McGregor Park and the 
+ Cumberland RiverWalk downtown. It's a free evening stroll for families or 
+ a date. Free. Details: https://weekendscout.app/e/clarksville/christmas-on
+ -the-cumberland-2026-11-27/
+URL:https://weekendscout.app/e/clarksville/christmas-on-the-cumberland-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:clarksville-christmas-on-the-cumberland-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Christmas on the Cumberland
+LOCATION:McGregor Park & RiverWalk\, 640 N Riverside Dr\, Clarksville\, TN
+  37040
+DESCRIPTION:More than a million holiday lights line McGregor Park and the 
+ Cumberland RiverWalk downtown. It's a free evening stroll for families or 
+ a date. Free. Details: https://weekendscout.app/e/clarksville/christmas-on
+ -the-cumberland-2026-11-27/
+URL:https://weekendscout.app/e/clarksville/christmas-on-the-cumberland-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:clarksville-christmas-on-the-cumberland-2026-11-27-sun-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Christmas on the Cumberland
+LOCATION:McGregor Park & RiverWalk\, 640 N Riverside Dr\, Clarksville\, TN
+  37040
+DESCRIPTION:More than a million holiday lights line McGregor Park and the 
+ Cumberland RiverWalk downtown. It's a free evening stroll for families or 
+ a date. Free. Details: https://weekendscout.app/e/clarksville/christmas-on
+ -the-cumberland-2026-11-27/
+URL:https://weekendscout.app/e/clarksville/christmas-on-the-cumberland-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:clarksville-customs-house-museum-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261128T160000Z
+DTEND:20261128T230000Z
+SUMMARY:Customs House Museum
+LOCATION:Customs House Museum & Cultural Center\, 200 S 2nd St\, Clarksvil
+ le\, TN 37040
+DESCRIPTION:Downtown's art and history museum\, with current shows includi
+ ng The Chestnut Group's 25th anniversary exhibition and Toys from the Coll
+ ection. Kids get in for $5\, and children 2 and under are free. $12. Detai
+ ls: https://weekendscout.app/e/clarksville/customs-house-museum-2026-11-28
+ /
+URL:https://weekendscout.app/e/clarksville/customs-house-museum-2026-11-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:clarksville-customs-house-museum-2026-11-28-sun-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261129T190000Z
+DTEND:20261129T230000Z
+SUMMARY:Customs House Museum
+LOCATION:Customs House Museum & Cultural Center\, 200 S 2nd St\, Clarksvil
+ le\, TN 37040
+DESCRIPTION:Downtown's art and history museum\, with current shows includi
+ ng The Chestnut Group's 25th anniversary exhibition and Toys from the Coll
+ ection. Kids get in for $5\, and children 2 and under are free. $12. Detai
+ ls: https://weekendscout.app/e/clarksville/customs-house-museum-2026-11-28
+ /
+URL:https://weekendscout.app/e/clarksville/customs-house-museum-2026-11-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:clarksville-drive-thru-christmas-lights-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Drive Thru Christmas Lights
+LOCATION:Clarksville Speedway and Fairgrounds\, 1600 Needmore Rd\, Clarksv
+ ille\, TN
+DESCRIPTION:Drive the one-mile speedway track past millions of holiday lig
+ hts\, as many laps as you like\, without leaving your car. Check ticket pr
+ ices. Details: https://weekendscout.app/e/clarksville/drive-thru-christmas
+ -lights-2026-11-27/
+URL:https://weekendscout.app/e/clarksville/drive-thru-christmas-lights-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:clarksville-drive-thru-christmas-lights-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Drive Thru Christmas Lights
+LOCATION:Clarksville Speedway and Fairgrounds\, 1600 Needmore Rd\, Clarksv
+ ille\, TN
+DESCRIPTION:Drive the one-mile speedway track past millions of holiday lig
+ hts\, as many laps as you like\, without leaving your car. Check ticket pr
+ ices. Details: https://weekendscout.app/e/clarksville/drive-thru-christmas
+ -lights-2026-11-27/
+URL:https://weekendscout.app/e/clarksville/drive-thru-christmas-lights-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:clarksville-drive-thru-christmas-lights-2026-11-27-sun-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Drive Thru Christmas Lights
+LOCATION:Clarksville Speedway and Fairgrounds\, 1600 Needmore Rd\, Clarksv
+ ille\, TN
+DESCRIPTION:Drive the one-mile speedway track past millions of holiday lig
+ hts\, as many laps as you like\, without leaving your car. Check ticket pr
+ ices. Details: https://weekendscout.app/e/clarksville/drive-thru-christmas
+ -lights-2026-11-27/
+URL:https://weekendscout.app/e/clarksville/drive-thru-christmas-lights-2026-11-27/
 END:VEVENT
 END:VCALENDAR

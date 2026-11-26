@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:albuquerque-nutcracker-magical-christmas-ballet-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T050908Z
+DTSTAMP:20261126T055222Z
 DTSTART:20261127T220000Z
 DTEND:20261128T000000Z
 SUMMARY:Nutcracker! Magical Christmas Ballet
@@ -21,7 +21,7 @@ URL:https://weekendscout.app/e/albuquerque/nutcracker-magical-christmas-ballet-2
 END:VEVENT
 BEGIN:VEVENT
 UID:albuquerque-nutcracker-magical-christmas-ballet-2026-11-fri-1@weekendscout.app
-DTSTAMP:20261126T050908Z
+DTSTAMP:20261126T055222Z
 DTSTART:20261128T020000Z
 DTEND:20261128T040000Z
 SUMMARY:Nutcracker! Magical Christmas Ballet
@@ -33,7 +33,7 @@ URL:https://weekendscout.app/e/albuquerque/nutcracker-magical-christmas-ballet-2
 END:VEVENT
 BEGIN:VEVENT
 UID:albuquerque-new-mexico-lobos-vs-air-force-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T050908Z
+DTSTAMP:20261126T055222Z
 DTSTART:20261127T213000Z
 DTEND:20261127T233000Z
 SUMMARY:New Mexico Lobos vs. Air Force
@@ -46,7 +46,7 @@ URL:https://weekendscout.app/e/albuquerque/new-mexico-lobos-vs-air-force-2026-11
 END:VEVENT
 BEGIN:VEVENT
 UID:albuquerque-river-of-lights-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T050908Z
+DTSTAMP:20261126T055222Z
 DTSTART:20261129T000000Z
 DTEND:20261129T050000Z
 SUMMARY:River of Lights
@@ -60,7 +60,7 @@ URL:https://weekendscout.app/e/albuquerque/river-of-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:albuquerque-river-of-lights-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T050908Z
+DTSTAMP:20261126T055222Z
 DTSTART:20261130T000000Z
 DTEND:20261130T050000Z
 SUMMARY:River of Lights
@@ -74,7 +74,7 @@ URL:https://weekendscout.app/e/albuquerque/river-of-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:albuquerque-albuquerque-museum-free-sunday-morning-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T050908Z
+DTSTAMP:20261126T055222Z
 DTSTART:20261129T160000Z
 DTEND:20261129T200000Z
 SUMMARY:Albuquerque Museum (free Sunday morning)
@@ -86,7 +86,7 @@ URL:https://weekendscout.app/e/albuquerque/albuquerque-museum-free-sunday-mornin
 END:VEVENT
 BEGIN:VEVENT
 UID:albuquerque-jim-henson-s-fraggle-rock-live-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T050908Z
+DTSTAMP:20261126T055222Z
 DTSTART:20261130T010000Z
 DTEND:20261130T030000Z
 SUMMARY:Fraggle Rock: Back to the Rock LIVE
@@ -98,7 +98,7 @@ URL:https://weekendscout.app/e/albuquerque/jim-henson-s-fraggle-rock-live-2026-1
 END:VEVENT
 BEGIN:VEVENT
 UID:albuquerque-new-mexico-lobos-vs-utah-state-basketball-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T050908Z
+DTSTAMP:20261126T055222Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -113,7 +113,7 @@ URL:https://weekendscout.app/e/albuquerque/new-mexico-lobos-vs-utah-state-basket
 END:VEVENT
 BEGIN:VEVENT
 UID:albuquerque-petroglyph-national-monument-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T050908Z
+DTSTAMP:20261126T055222Z
 DTSTART:20261127T153000Z
 DTEND:20261127T230000Z
 SUMMARY:Petroglyph National Monument
@@ -127,7 +127,7 @@ URL:https://weekendscout.app/e/albuquerque/petroglyph-national-monument-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:albuquerque-petroglyph-national-monument-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T050908Z
+DTSTAMP:20261126T055222Z
 DTSTART:20261128T153000Z
 DTEND:20261128T230000Z
 SUMMARY:Petroglyph National Monument
@@ -141,7 +141,7 @@ URL:https://weekendscout.app/e/albuquerque/petroglyph-national-monument-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:albuquerque-petroglyph-national-monument-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T050908Z
+DTSTAMP:20261126T055222Z
 DTSTART:20261129T153000Z
 DTEND:20261129T230000Z
 SUMMARY:Petroglyph National Monument

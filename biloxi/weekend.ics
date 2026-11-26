@@ -8,75 +8,306 @@ X-WR-CALDESC:Hand-checked weekend picks in Biloxi, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:biloxi-biloxi-lighthouse-beach-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T050908Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Biloxi Lighthouse & Beach
-LOCATION:Biloxi Lighthouse\, 1050 Beach Blvd\, Biloxi\, MS 39530
-DESCRIPTION:The 1848 cast-iron lighthouse and 26 miles of Gulf beach. Free
- . Details: https://weekendscout.app/e/biloxi/biloxi-lighthouse-beach-2026-
- 11/
-URL:https://weekendscout.app/e/biloxi/biloxi-lighthouse-beach-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:biloxi-biloxi-lighthouse-beach-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T050908Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Biloxi Lighthouse & Beach
-LOCATION:Biloxi Lighthouse\, 1050 Beach Blvd\, Biloxi\, MS 39530
-DESCRIPTION:The 1848 cast-iron lighthouse and 26 miles of Gulf beach. Free
- . Details: https://weekendscout.app/e/biloxi/biloxi-lighthouse-beach-2026-
- 11/
-URL:https://weekendscout.app/e/biloxi/biloxi-lighthouse-beach-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:biloxi-biloxi-lighthouse-beach-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T050908Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Biloxi Lighthouse & Beach
-LOCATION:Biloxi Lighthouse\, 1050 Beach Blvd\, Biloxi\, MS 39530
-DESCRIPTION:The 1848 cast-iron lighthouse and 26 miles of Gulf beach. Free
- . Details: https://weekendscout.app/e/biloxi/biloxi-lighthouse-beach-2026-
- 11/
-URL:https://weekendscout.app/e/biloxi/biloxi-lighthouse-beach-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:biloxi-the-oak-ridge-boys-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T050908Z
+UID:biloxi-oak-ridge-boys-christmas-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T055222Z
 DTSTART:20261128T020000Z
 DTEND:20261128T040000Z
-SUMMARY:The Oak Ridge Boys
+SUMMARY:The Oak Ridge Boys Christmas
 LOCATION:Beau Rivage Theatre\, 875 Beach Blvd\, Biloxi\, MS 39530
-DESCRIPTION:The country-gospel group on Black Friday. Tickets. Details: ht
- tps://weekendscout.app/e/biloxi/the-oak-ridge-boys-2026-11/
-URL:https://weekendscout.app/e/biloxi/the-oak-ridge-boys-2026-11/
+DESCRIPTION:The country-gospel group brings its holiday show to the Beau R
+ ivage on Black Friday night. Tickets. Details: https://weekendscout.app/e/
+ biloxi/oak-ridge-boys-christmas-2026-11-27/
+URL:https://weekendscout.app/e/biloxi/oak-ridge-boys-christmas-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:biloxi-a-southern-nutcracker-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T050908Z
+UID:biloxi-a-southern-nutcracker-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T055222Z
 DTSTART:20261128T200000Z
 DTEND:20261128T220000Z
 SUMMARY:A Southern Nutcracker
 LOCATION:IP Casino Resort & Spa\, 850 Bayview Ave\, Biloxi\, MS 39530
-DESCRIPTION:The Nutcracker with a Gulf Coast twist\, two shows. Tickets. D
- etails: https://weekendscout.app/e/biloxi/a-southern-nutcracker-2026-11/
-URL:https://weekendscout.app/e/biloxi/a-southern-nutcracker-2026-11/
+DESCRIPTION:The holiday ballet with a Southern twist\, with a matinee and 
+ an evening show. Tickets. Details: https://weekendscout.app/e/biloxi/a-sou
+ thern-nutcracker-2026-11-28/
+URL:https://weekendscout.app/e/biloxi/a-southern-nutcracker-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
-UID:biloxi-a-southern-nutcracker-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261126T050908Z
+UID:biloxi-a-southern-nutcracker-2026-11-28-sat-1@weekendscout.app
+DTSTAMP:20261126T055222Z
 DTSTART:20261129T010000Z
 DTEND:20261129T030000Z
 SUMMARY:A Southern Nutcracker
 LOCATION:IP Casino Resort & Spa\, 850 Bayview Ave\, Biloxi\, MS 39530
-DESCRIPTION:The Nutcracker with a Gulf Coast twist\, two shows. Tickets. D
- etails: https://weekendscout.app/e/biloxi/a-southern-nutcracker-2026-11/
-URL:https://weekendscout.app/e/biloxi/a-southern-nutcracker-2026-11/
+DESCRIPTION:The holiday ballet with a Southern twist\, with a matinee and 
+ an evening show. Tickets. Details: https://weekendscout.app/e/biloxi/a-sou
+ thern-nutcracker-2026-11-28/
+URL:https://weekendscout.app/e/biloxi/a-southern-nutcracker-2026-11-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:biloxi-coast-coliseum-ice-skating-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261127T200000Z
+DTEND:20261127T210000Z
+SUMMARY:Holiday Ice Skating
+LOCATION:Mississippi Coast Coliseum\, 2350 Beach Blvd\, Biloxi\, MS
+DESCRIPTION:Public ice skating sessions at the Coliseum across the holiday
+  weekend. Tickets. Details: https://weekendscout.app/e/biloxi/coast-colise
+ um-ice-skating-2026-11-27/
+URL:https://weekendscout.app/e/biloxi/coast-coliseum-ice-skating-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:biloxi-coast-coliseum-ice-skating-2026-11-27-fri-1@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261127T214500Z
+DTEND:20261127T224500Z
+SUMMARY:Holiday Ice Skating
+LOCATION:Mississippi Coast Coliseum\, 2350 Beach Blvd\, Biloxi\, MS
+DESCRIPTION:Public ice skating sessions at the Coliseum across the holiday
+  weekend. Tickets. Details: https://weekendscout.app/e/biloxi/coast-colise
+ um-ice-skating-2026-11-27/
+URL:https://weekendscout.app/e/biloxi/coast-coliseum-ice-skating-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:biloxi-coast-coliseum-ice-skating-2026-11-27-fri-2@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261127T233000Z
+DTEND:20261128T003000Z
+SUMMARY:Holiday Ice Skating
+LOCATION:Mississippi Coast Coliseum\, 2350 Beach Blvd\, Biloxi\, MS
+DESCRIPTION:Public ice skating sessions at the Coliseum across the holiday
+  weekend. Tickets. Details: https://weekendscout.app/e/biloxi/coast-colise
+ um-ice-skating-2026-11-27/
+URL:https://weekendscout.app/e/biloxi/coast-coliseum-ice-skating-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:biloxi-coast-coliseum-ice-skating-2026-11-27-fri-3@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261128T011500Z
+DTEND:20261128T021500Z
+SUMMARY:Holiday Ice Skating
+LOCATION:Mississippi Coast Coliseum\, 2350 Beach Blvd\, Biloxi\, MS
+DESCRIPTION:Public ice skating sessions at the Coliseum across the holiday
+  weekend. Tickets. Details: https://weekendscout.app/e/biloxi/coast-colise
+ um-ice-skating-2026-11-27/
+URL:https://weekendscout.app/e/biloxi/coast-coliseum-ice-skating-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:biloxi-coast-coliseum-ice-skating-2026-11-27-fri-4@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261128T030000Z
+DTEND:20261128T040000Z
+SUMMARY:Holiday Ice Skating
+LOCATION:Mississippi Coast Coliseum\, 2350 Beach Blvd\, Biloxi\, MS
+DESCRIPTION:Public ice skating sessions at the Coliseum across the holiday
+  weekend. Tickets. Details: https://weekendscout.app/e/biloxi/coast-colise
+ um-ice-skating-2026-11-27/
+URL:https://weekendscout.app/e/biloxi/coast-coliseum-ice-skating-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:biloxi-coast-coliseum-ice-skating-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261128T200000Z
+DTEND:20261128T210000Z
+SUMMARY:Holiday Ice Skating
+LOCATION:Mississippi Coast Coliseum\, 2350 Beach Blvd\, Biloxi\, MS
+DESCRIPTION:Public ice skating sessions at the Coliseum across the holiday
+  weekend. Tickets. Details: https://weekendscout.app/e/biloxi/coast-colise
+ um-ice-skating-2026-11-27/
+URL:https://weekendscout.app/e/biloxi/coast-coliseum-ice-skating-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:biloxi-coast-coliseum-ice-skating-2026-11-27-sat-1@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261128T214500Z
+DTEND:20261128T224500Z
+SUMMARY:Holiday Ice Skating
+LOCATION:Mississippi Coast Coliseum\, 2350 Beach Blvd\, Biloxi\, MS
+DESCRIPTION:Public ice skating sessions at the Coliseum across the holiday
+  weekend. Tickets. Details: https://weekendscout.app/e/biloxi/coast-colise
+ um-ice-skating-2026-11-27/
+URL:https://weekendscout.app/e/biloxi/coast-coliseum-ice-skating-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:biloxi-coast-coliseum-ice-skating-2026-11-27-sat-2@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261128T233000Z
+DTEND:20261129T003000Z
+SUMMARY:Holiday Ice Skating
+LOCATION:Mississippi Coast Coliseum\, 2350 Beach Blvd\, Biloxi\, MS
+DESCRIPTION:Public ice skating sessions at the Coliseum across the holiday
+  weekend. Tickets. Details: https://weekendscout.app/e/biloxi/coast-colise
+ um-ice-skating-2026-11-27/
+URL:https://weekendscout.app/e/biloxi/coast-coliseum-ice-skating-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:biloxi-coast-coliseum-ice-skating-2026-11-27-sat-3@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261129T011500Z
+DTEND:20261129T021500Z
+SUMMARY:Holiday Ice Skating
+LOCATION:Mississippi Coast Coliseum\, 2350 Beach Blvd\, Biloxi\, MS
+DESCRIPTION:Public ice skating sessions at the Coliseum across the holiday
+  weekend. Tickets. Details: https://weekendscout.app/e/biloxi/coast-colise
+ um-ice-skating-2026-11-27/
+URL:https://weekendscout.app/e/biloxi/coast-coliseum-ice-skating-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:biloxi-coast-coliseum-ice-skating-2026-11-27-sat-4@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261129T030000Z
+DTEND:20261129T040000Z
+SUMMARY:Holiday Ice Skating
+LOCATION:Mississippi Coast Coliseum\, 2350 Beach Blvd\, Biloxi\, MS
+DESCRIPTION:Public ice skating sessions at the Coliseum across the holiday
+  weekend. Tickets. Details: https://weekendscout.app/e/biloxi/coast-colise
+ um-ice-skating-2026-11-27/
+URL:https://weekendscout.app/e/biloxi/coast-coliseum-ice-skating-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:biloxi-coast-coliseum-ice-skating-2026-11-27-sun-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261129T200000Z
+DTEND:20261129T210000Z
+SUMMARY:Holiday Ice Skating
+LOCATION:Mississippi Coast Coliseum\, 2350 Beach Blvd\, Biloxi\, MS
+DESCRIPTION:Public ice skating sessions at the Coliseum across the holiday
+  weekend. Tickets. Details: https://weekendscout.app/e/biloxi/coast-colise
+ um-ice-skating-2026-11-27/
+URL:https://weekendscout.app/e/biloxi/coast-coliseum-ice-skating-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:biloxi-coast-coliseum-ice-skating-2026-11-27-sun-1@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261129T214500Z
+DTEND:20261129T224500Z
+SUMMARY:Holiday Ice Skating
+LOCATION:Mississippi Coast Coliseum\, 2350 Beach Blvd\, Biloxi\, MS
+DESCRIPTION:Public ice skating sessions at the Coliseum across the holiday
+  weekend. Tickets. Details: https://weekendscout.app/e/biloxi/coast-colise
+ um-ice-skating-2026-11-27/
+URL:https://weekendscout.app/e/biloxi/coast-coliseum-ice-skating-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:biloxi-coast-coliseum-ice-skating-2026-11-27-sun-2@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261129T233000Z
+DTEND:20261130T003000Z
+SUMMARY:Holiday Ice Skating
+LOCATION:Mississippi Coast Coliseum\, 2350 Beach Blvd\, Biloxi\, MS
+DESCRIPTION:Public ice skating sessions at the Coliseum across the holiday
+  weekend. Tickets. Details: https://weekendscout.app/e/biloxi/coast-colise
+ um-ice-skating-2026-11-27/
+URL:https://weekendscout.app/e/biloxi/coast-coliseum-ice-skating-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:biloxi-gulfport-harbor-lights-winter-festival-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Gulfport Harbor Lights Winter Festival
+LOCATION:Jones Park\, Jones Park\, Gulfport\, MS
+DESCRIPTION:About 1.5 million lights fill 40-acre Jones Park on the Gulfpo
+ rt harbor\; the festival opens this Friday. Tickets. Details: https://week
+ endscout.app/e/biloxi/gulfport-harbor-lights-winter-festival-2026-11-27/
+URL:https://weekendscout.app/e/biloxi/gulfport-harbor-lights-winter-festival-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:biloxi-gulfport-harbor-lights-winter-festival-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Gulfport Harbor Lights Winter Festival
+LOCATION:Jones Park\, Jones Park\, Gulfport\, MS
+DESCRIPTION:About 1.5 million lights fill 40-acre Jones Park on the Gulfpo
+ rt harbor\; the festival opens this Friday. Tickets. Details: https://week
+ endscout.app/e/biloxi/gulfport-harbor-lights-winter-festival-2026-11-27/
+URL:https://weekendscout.app/e/biloxi/gulfport-harbor-lights-winter-festival-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:biloxi-gulfport-harbor-lights-winter-festival-2026-11-27-sun-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Gulfport Harbor Lights Winter Festival
+LOCATION:Jones Park\, Jones Park\, Gulfport\, MS
+DESCRIPTION:About 1.5 million lights fill 40-acre Jones Park on the Gulfpo
+ rt harbor\; the festival opens this Friday. Tickets. Details: https://week
+ endscout.app/e/biloxi/gulfport-harbor-lights-winter-festival-2026-11-27/
+URL:https://weekendscout.app/e/biloxi/gulfport-harbor-lights-winter-festival-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:biloxi-magical-mississippi-christmas-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261127T223000Z
+DTEND:20261128T020000Z
+SUMMARY:A Magical Mississippi Christmas
+LOCATION:Mississippi Aquarium\, 2100 E Beach Blvd\, Gulfport\, MS
+DESCRIPTION:The aquarium's evening holiday celebration\, next door to Harb
+ or Lights in Gulfport. Tickets. Details: https://weekendscout.app/e/biloxi
+ /magical-mississippi-christmas-2026-11-27/
+URL:https://weekendscout.app/e/biloxi/magical-mississippi-christmas-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:biloxi-magical-mississippi-christmas-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261128T223000Z
+DTEND:20261129T020000Z
+SUMMARY:A Magical Mississippi Christmas
+LOCATION:Mississippi Aquarium\, 2100 E Beach Blvd\, Gulfport\, MS
+DESCRIPTION:The aquarium's evening holiday celebration\, next door to Harb
+ or Lights in Gulfport. Tickets. Details: https://weekendscout.app/e/biloxi
+ /magical-mississippi-christmas-2026-11-27/
+URL:https://weekendscout.app/e/biloxi/magical-mississippi-christmas-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:biloxi-magical-mississippi-christmas-2026-11-27-sun-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261129T223000Z
+DTEND:20261130T020000Z
+SUMMARY:A Magical Mississippi Christmas
+LOCATION:Mississippi Aquarium\, 2100 E Beach Blvd\, Gulfport\, MS
+DESCRIPTION:The aquarium's evening holiday celebration\, next door to Harb
+ or Lights in Gulfport. Tickets. Details: https://weekendscout.app/e/biloxi
+ /magical-mississippi-christmas-2026-11-27/
+URL:https://weekendscout.app/e/biloxi/magical-mississippi-christmas-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:biloxi-biloxi-visitors-center-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261127T140000Z
+DTEND:20261127T230000Z
+SUMMARY:Biloxi Visitors Center
+LOCATION:Biloxi Visitors Center\, 1050 Beach Blvd\, Biloxi\, MS 39530
+DESCRIPTION:Free visitors center across from the 1848 Biloxi Lighthouse an
+ d the beach\; lighthouse tours are paused during restoration. Free. Detail
+ s: https://weekendscout.app/e/biloxi/biloxi-visitors-center-2026-11-27/
+URL:https://weekendscout.app/e/biloxi/biloxi-visitors-center-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:biloxi-biloxi-visitors-center-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261128T140000Z
+DTEND:20261128T230000Z
+SUMMARY:Biloxi Visitors Center
+LOCATION:Biloxi Visitors Center\, 1050 Beach Blvd\, Biloxi\, MS 39530
+DESCRIPTION:Free visitors center across from the 1848 Biloxi Lighthouse an
+ d the beach\; lighthouse tours are paused during restoration. Free. Detail
+ s: https://weekendscout.app/e/biloxi/biloxi-visitors-center-2026-11-27/
+URL:https://weekendscout.app/e/biloxi/biloxi-visitors-center-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:biloxi-biloxi-visitors-center-2026-11-27-sun-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261129T140000Z
+DTEND:20261129T230000Z
+SUMMARY:Biloxi Visitors Center
+LOCATION:Biloxi Visitors Center\, 1050 Beach Blvd\, Biloxi\, MS 39530
+DESCRIPTION:Free visitors center across from the 1848 Biloxi Lighthouse an
+ d the beach\; lighthouse tours are paused during restoration. Free. Detail
+ s: https://weekendscout.app/e/biloxi/biloxi-visitors-center-2026-11-27/
+URL:https://weekendscout.app/e/biloxi/biloxi-visitors-center-2026-11-27/
 END:VEVENT
 END:VCALENDAR

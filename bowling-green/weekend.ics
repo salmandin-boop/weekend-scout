@@ -8,8 +8,195 @@ X-WR-CALDESC:Hand-checked weekend picks in Bowling Green, updated every Wednesda
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
+UID:bowling-green-western-kentucky-vs-kennesaw-state-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261128T180000Z
+DTEND:20261128T200000Z
+SUMMARY:Western Kentucky vs. Kennesaw State
+LOCATION:L.T. Smith Stadium\, 1605 Avenue of Champions\, Bowling Green\, K
+ Y 42101
+DESCRIPTION:WKU Hilltoppers football closes its regular season at home aga
+ inst Kennesaw State\, with a noon kickoff on ESPN platforms. Tickets. Deta
+ ils: https://weekendscout.app/e/bowling-green/western-kentucky-vs-kennesaw
+ -state-2026-11-28/
+URL:https://weekendscout.app/e/bowling-green/western-kentucky-vs-kennesaw-state-2026-11-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:bowling-green-soky-ice-rink-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261127T190000Z
+DTEND:20261127T213000Z
+SUMMARY:SoKY Ice Rink
+LOCATION:SoKY Ice Rink\, 636 Center St\, Bowling Green\, KY
+DESCRIPTION:Downtown's seasonal skating rink\, under the SoKY Marketplace 
+ Pavilion behind SKyPAC. Skate rental is included\, kids under 12 skate for
+  $10\, and children under 4 are free. $12. Details: https://weekendscout.a
+ pp/e/bowling-green/soky-ice-rink-2026-11-27/
+URL:https://weekendscout.app/e/bowling-green/soky-ice-rink-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:bowling-green-soky-ice-rink-2026-11-27-fri-1@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261127T223000Z
+DTEND:20261128T003000Z
+SUMMARY:SoKY Ice Rink
+LOCATION:SoKY Ice Rink\, 636 Center St\, Bowling Green\, KY
+DESCRIPTION:Downtown's seasonal skating rink\, under the SoKY Marketplace 
+ Pavilion behind SKyPAC. Skate rental is included\, kids under 12 skate for
+  $10\, and children under 4 are free. $12. Details: https://weekendscout.a
+ pp/e/bowling-green/soky-ice-rink-2026-11-27/
+URL:https://weekendscout.app/e/bowling-green/soky-ice-rink-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:bowling-green-soky-ice-rink-2026-11-27-fri-2@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261128T013000Z
+DTEND:20261128T033000Z
+SUMMARY:SoKY Ice Rink
+LOCATION:SoKY Ice Rink\, 636 Center St\, Bowling Green\, KY
+DESCRIPTION:Downtown's seasonal skating rink\, under the SoKY Marketplace 
+ Pavilion behind SKyPAC. Skate rental is included\, kids under 12 skate for
+  $10\, and children under 4 are free. $12. Details: https://weekendscout.a
+ pp/e/bowling-green/soky-ice-rink-2026-11-27/
+URL:https://weekendscout.app/e/bowling-green/soky-ice-rink-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:bowling-green-soky-ice-rink-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261128T190000Z
+DTEND:20261128T213000Z
+SUMMARY:SoKY Ice Rink
+LOCATION:SoKY Ice Rink\, 636 Center St\, Bowling Green\, KY
+DESCRIPTION:Downtown's seasonal skating rink\, under the SoKY Marketplace 
+ Pavilion behind SKyPAC. Skate rental is included\, kids under 12 skate for
+  $10\, and children under 4 are free. $12. Details: https://weekendscout.a
+ pp/e/bowling-green/soky-ice-rink-2026-11-27/
+URL:https://weekendscout.app/e/bowling-green/soky-ice-rink-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:bowling-green-soky-ice-rink-2026-11-27-sat-1@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261128T223000Z
+DTEND:20261129T003000Z
+SUMMARY:SoKY Ice Rink
+LOCATION:SoKY Ice Rink\, 636 Center St\, Bowling Green\, KY
+DESCRIPTION:Downtown's seasonal skating rink\, under the SoKY Marketplace 
+ Pavilion behind SKyPAC. Skate rental is included\, kids under 12 skate for
+  $10\, and children under 4 are free. $12. Details: https://weekendscout.a
+ pp/e/bowling-green/soky-ice-rink-2026-11-27/
+URL:https://weekendscout.app/e/bowling-green/soky-ice-rink-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:bowling-green-soky-ice-rink-2026-11-27-sat-2@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261129T013000Z
+DTEND:20261129T033000Z
+SUMMARY:SoKY Ice Rink
+LOCATION:SoKY Ice Rink\, 636 Center St\, Bowling Green\, KY
+DESCRIPTION:Downtown's seasonal skating rink\, under the SoKY Marketplace 
+ Pavilion behind SKyPAC. Skate rental is included\, kids under 12 skate for
+  $10\, and children under 4 are free. $12. Details: https://weekendscout.a
+ pp/e/bowling-green/soky-ice-rink-2026-11-27/
+URL:https://weekendscout.app/e/bowling-green/soky-ice-rink-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:bowling-green-soky-ice-rink-2026-11-27-sun-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261129T190000Z
+DTEND:20261129T213000Z
+SUMMARY:SoKY Ice Rink
+LOCATION:SoKY Ice Rink\, 636 Center St\, Bowling Green\, KY
+DESCRIPTION:Downtown's seasonal skating rink\, under the SoKY Marketplace 
+ Pavilion behind SKyPAC. Skate rental is included\, kids under 12 skate for
+  $10\, and children under 4 are free. $12. Details: https://weekendscout.a
+ pp/e/bowling-green/soky-ice-rink-2026-11-27/
+URL:https://weekendscout.app/e/bowling-green/soky-ice-rink-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:bowling-green-soky-ice-rink-2026-11-27-sun-1@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261129T223000Z
+DTEND:20261130T003000Z
+SUMMARY:SoKY Ice Rink
+LOCATION:SoKY Ice Rink\, 636 Center St\, Bowling Green\, KY
+DESCRIPTION:Downtown's seasonal skating rink\, under the SoKY Marketplace 
+ Pavilion behind SKyPAC. Skate rental is included\, kids under 12 skate for
+  $10\, and children under 4 are free. $12. Details: https://weekendscout.a
+ pp/e/bowling-green/soky-ice-rink-2026-11-27/
+URL:https://weekendscout.app/e/bowling-green/soky-ice-rink-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:bowling-green-soky-ice-rink-2026-11-27-sun-2@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261130T013000Z
+DTEND:20261130T030000Z
+SUMMARY:SoKY Ice Rink
+LOCATION:SoKY Ice Rink\, 636 Center St\, Bowling Green\, KY
+DESCRIPTION:Downtown's seasonal skating rink\, under the SoKY Marketplace 
+ Pavilion behind SKyPAC. Skate rental is included\, kids under 12 skate for
+  $10\, and children under 4 are free. $12. Details: https://weekendscout.a
+ pp/e/bowling-green/soky-ice-rink-2026-11-27/
+URL:https://weekendscout.app/e/bowling-green/soky-ice-rink-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:bowling-green-holiday-market-kirby-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261128T160000Z
+DTEND:20261128T210000Z
+SUMMARY:Small Business Saturday Holiday Market
+LOCATION:Bob Kirby Branch Library\, 175 Iron Skillet Ct\, Bowling Green\, 
+ KY 42104
+DESCRIPTION:Local crafters\, artisans\, bakers and authors sell their own 
+ work at the Warren County Public Library's free holiday market. Free. Deta
+ ils: https://weekendscout.app/e/bowling-green/holiday-market-kirby-2026-11
+ -28/
+URL:https://weekendscout.app/e/bowling-green/holiday-market-kirby-2026-11-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:bowling-green-national-corvette-museum-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261127T160000Z
+DTEND:20261127T230000Z
+SUMMARY:National Corvette Museum
+LOCATION:National Corvette Museum\, 350 Corvette Dr\, Bowling Green\, KY 4
+ 2101
+DESCRIPTION:More than 80 Corvettes\, the famous sinkhole exhibit and racin
+ g simulators. Youth ages 5 to 12 pay $14\, and kids 4 and under are free. 
+ $25. Details: https://weekendscout.app/e/bowling-green/national-corvette-m
+ useum-2026-11-27/
+URL:https://weekendscout.app/e/bowling-green/national-corvette-museum-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:bowling-green-national-corvette-museum-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261128T150000Z
+DTEND:20261128T230000Z
+SUMMARY:National Corvette Museum
+LOCATION:National Corvette Museum\, 350 Corvette Dr\, Bowling Green\, KY 4
+ 2101
+DESCRIPTION:More than 80 Corvettes\, the famous sinkhole exhibit and racin
+ g simulators. Youth ages 5 to 12 pay $14\, and kids 4 and under are free. 
+ $25. Details: https://weekendscout.app/e/bowling-green/national-corvette-m
+ useum-2026-11-27/
+URL:https://weekendscout.app/e/bowling-green/national-corvette-museum-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:bowling-green-national-corvette-museum-2026-11-27-sun-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261129T150000Z
+DTEND:20261129T230000Z
+SUMMARY:National Corvette Museum
+LOCATION:National Corvette Museum\, 350 Corvette Dr\, Bowling Green\, KY 4
+ 2101
+DESCRIPTION:More than 80 Corvettes\, the famous sinkhole exhibit and racin
+ g simulators. Youth ages 5 to 12 pay $14\, and kids 4 and under are free. 
+ $25. Details: https://weekendscout.app/e/bowling-green/national-corvette-m
+ useum-2026-11-27/
+URL:https://weekendscout.app/e/bowling-green/national-corvette-museum-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
 UID:bowling-green-fountain-square-park-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T050908Z
+DTSTAMP:20261126T055222Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -22,7 +209,7 @@ URL:https://weekendscout.app/e/bowling-green/fountain-square-park-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:bowling-green-fountain-square-park-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T050908Z
+DTSTAMP:20261126T055222Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -35,7 +222,7 @@ URL:https://weekendscout.app/e/bowling-green/fountain-square-park-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:bowling-green-fountain-square-park-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T050908Z
+DTSTAMP:20261126T055222Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -45,60 +232,5 @@ DESCRIPTION:The historic town square\, decorated for the holidays. Free. D
  etails: https://weekendscout.app/e/bowling-green/fountain-square-park-2026
  -11/
 URL:https://weekendscout.app/e/bowling-green/fountain-square-park-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:bowling-green-national-corvette-museum-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T050908Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:National Corvette Museum
-LOCATION:National Corvette Museum\, 350 Corvette Dr\, Bowling Green\, KY 4
- 2101
-DESCRIPTION:More than 80 Corvettes and the famous sinkhole exhibit. Admiss
- ion. Details: https://weekendscout.app/e/bowling-green/national-corvette-m
- useum-2026-11/
-URL:https://weekendscout.app/e/bowling-green/national-corvette-museum-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:bowling-green-national-corvette-museum-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T050908Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:National Corvette Museum
-LOCATION:National Corvette Museum\, 350 Corvette Dr\, Bowling Green\, KY 4
- 2101
-DESCRIPTION:More than 80 Corvettes and the famous sinkhole exhibit. Admiss
- ion. Details: https://weekendscout.app/e/bowling-green/national-corvette-m
- useum-2026-11/
-URL:https://weekendscout.app/e/bowling-green/national-corvette-museum-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:bowling-green-national-corvette-museum-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T050908Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:National Corvette Museum
-LOCATION:National Corvette Museum\, 350 Corvette Dr\, Bowling Green\, KY 4
- 2101
-DESCRIPTION:More than 80 Corvettes and the famous sinkhole exhibit. Admiss
- ion. Details: https://weekendscout.app/e/bowling-green/national-corvette-m
- useum-2026-11/
-URL:https://weekendscout.app/e/bowling-green/national-corvette-museum-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:bowling-green-western-kentucky-vs-kennesaw-state-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T050908Z
-DTSTART:20261128T180000Z
-DTEND:20261128T200000Z
-SUMMARY:Western Kentucky vs. Kennesaw State
-LOCATION:L.T. Smith Stadium\, 1605 Avenue of Champions\, Bowling Green\, K
- Y 42101
-DESCRIPTION:Hilltoppers football at noon Saturday. Tickets. Details: https
- ://weekendscout.app/e/bowling-green/western-kentucky-vs-kennesaw-state-202
- 6-11/
-URL:https://weekendscout.app/e/bowling-green/western-kentucky-vs-kennesaw-state-2026-11/
 END:VEVENT
 END:VCALENDAR

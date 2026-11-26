@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:fresno-small-business-saturday-in-old-town-clovis-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T050908Z
+DTSTAMP:20261126T055222Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -23,7 +23,7 @@ URL:https://weekendscout.app/e/fresno/small-business-saturday-in-old-town-clovis
 END:VEVENT
 BEGIN:VEVENT
 UID:fresno-the-music-of-hey-arnold-live-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T050908Z
+DTSTAMP:20261126T055222Z
 DTSTART:20261129T040000Z
 DTEND:20261129T060000Z
 SUMMARY:The Music of Hey Arnold! Live!
@@ -36,7 +36,7 @@ URL:https://weekendscout.app/e/fresno/the-music-of-hey-arnold-live-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fresno-becky-robinson-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T050908Z
+DTSTAMP:20261126T055222Z
 DTSTART:20261130T030000Z
 DTEND:20261130T050000Z
 SUMMARY:Becky Robinson's Holiday Spectacular

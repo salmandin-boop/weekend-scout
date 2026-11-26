@@ -8,80 +8,102 @@ X-WR-CALDESC:Hand-checked weekend picks in Lafayette, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:lafayette-vermilionville-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T050908Z
+UID:lafayette-vibe-25-day-one-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261128T010000Z
+DTEND:20261128T030000Z
+SUMMARY:Vibe 25: Blue Moon Saloon 25th Anniversary\, Day One
+LOCATION:Blue Moon Saloon\, 215 E Convent St\, Lafayette\, LA 70501
+DESCRIPTION:Night one of the Blue Moon's silver-anniversary party\, with T
+ roy Richard of the Richard Revue\, SideQuest featuring Gino V. and Zach Ed
+ wards\, and Roddie Romero and the Hub City Allstars. Doors open at 6 p.m. 
+ Check ticket prices. Details: https://weekendscout.app/e/lafayette/vibe-25
+ -day-one-2026-11-27/
+URL:https://weekendscout.app/e/lafayette/vibe-25-day-one-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:lafayette-vibe-25-day-two-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261128T210000Z
+DTEND:20261128T230000Z
+SUMMARY:Vibe 25: Blue Moon Saloon 25th Anniversary\, Day Two
+LOCATION:Blue Moon Saloon\, 215 E Convent St\, Lafayette\, LA 70501
+DESCRIPTION:Day two of the anniversary brings a cookoff and Cajun music fr
+ om 3 p.m.\, with the Elise Riley Band\, the Slackers\, Grand Nathaniel\, B
+ rass Bed and Knives in the Champion. Check ticket prices. Details: https:/
+ /weekendscout.app/e/lafayette/vibe-25-day-two-2026-11-28/
+URL:https://weekendscout.app/e/lafayette/vibe-25-day-two-2026-11-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:lafayette-savoy-family-cajun-band-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T055222Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
-SUMMARY:Vermilionville
-LOCATION:Vermilionville\, 300 Fisher Rd\, Lafayette\, LA 70508
-DESCRIPTION:A Cajun and Creole living-history village on the bayou. Admiss
- ion. Details: https://weekendscout.app/e/lafayette/vermilionville-2026-11/
-URL:https://weekendscout.app/e/lafayette/vermilionville-2026-11/
+SUMMARY:Savoy Family Cajun Band with Ed Littlefield Jr.
+LOCATION:Hideaway on Lee\, 407 Lee Ave\, Lafayette\, LA 70501
+DESCRIPTION:Eunice's Savoy family\, Ann\, Marc\, Joel and Wilson\, play tr
+ aditional Cajun music downtown with special guest Ed Littlefield Jr. Check
+  details. Details: https://weekendscout.app/e/lafayette/savoy-family-cajun
+ -band-2026-11-27/
+URL:https://weekendscout.app/e/lafayette/savoy-family-cajun-band-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:lafayette-vermilionville-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T050908Z
+UID:lafayette-ragin-cajuns-mens-basketball-mcneese-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T055222Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
-SUMMARY:Vermilionville
-LOCATION:Vermilionville\, 300 Fisher Rd\, Lafayette\, LA 70508
-DESCRIPTION:A Cajun and Creole living-history village on the bayou. Admiss
- ion. Details: https://weekendscout.app/e/lafayette/vermilionville-2026-11/
-URL:https://weekendscout.app/e/lafayette/vermilionville-2026-11/
+SUMMARY:Ragin' Cajuns Men's Basketball vs. McNeese
+LOCATION:Cajundome\, 444 Cajundome Blvd\, Lafayette\, LA 70506
+DESCRIPTION:Louisiana hosts in-state rival McNeese in a non-conference gam
+ e at the Cajundome. Tickets. Details: https://weekendscout.app/e/lafayette
+ /ragin-cajuns-mens-basketball-mcneese-2026-11-28/
+URL:https://weekendscout.app/e/lafayette/ragin-cajuns-mens-basketball-mcneese-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
-UID:lafayette-vermilionville-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T050908Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Vermilionville
-LOCATION:Vermilionville\, 300 Fisher Rd\, Lafayette\, LA 70508
-DESCRIPTION:A Cajun and Creole living-history village on the bayou. Admiss
- ion. Details: https://weekendscout.app/e/lafayette/vermilionville-2026-11/
-URL:https://weekendscout.app/e/lafayette/vermilionville-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:lafayette-girard-park-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T050908Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Girard Park
-LOCATION:Girard Park\, 500 Girard Park Dr\, Lafayette\, LA 70503
-DESCRIPTION:A big oak-shaded park next to UL Lafayette. Free. Details: htt
- ps://weekendscout.app/e/lafayette/girard-park-2026-11/
-URL:https://weekendscout.app/e/lafayette/girard-park-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:lafayette-girard-park-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T050908Z
+UID:lafayette-cajun-french-music-jam-vermilionville-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T055222Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
-SUMMARY:Girard Park
-LOCATION:Girard Park\, 500 Girard Park Dr\, Lafayette\, LA 70503
-DESCRIPTION:A big oak-shaded park next to UL Lafayette. Free. Details: htt
- ps://weekendscout.app/e/lafayette/girard-park-2026-11/
-URL:https://weekendscout.app/e/lafayette/girard-park-2026-11/
+SUMMARY:Cajun French Music Jam
+LOCATION:Vermilionville\, 300 Fisher Rd\, Lafayette\, LA 70508
+DESCRIPTION:Musicians gather to play Cajun French tunes at Vermilionville\
+ , the Cajun and Creole living-history village on the bayou. Check details.
+  Details: https://weekendscout.app/e/lafayette/cajun-french-music-jam-verm
+ ilionville-2026-11-28/
+URL:https://weekendscout.app/e/lafayette/cajun-french-music-jam-vermilionville-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
-UID:lafayette-girard-park-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T050908Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Girard Park
-LOCATION:Girard Park\, 500 Girard Park Dr\, Lafayette\, LA 70503
-DESCRIPTION:A big oak-shaded park next to UL Lafayette. Free. Details: htt
- ps://weekendscout.app/e/lafayette/girard-park-2026-11/
-URL:https://weekendscout.app/e/lafayette/girard-park-2026-11/
+UID:lafayette-artists-alliance-aca-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261128T150000Z
+DTEND:20261128T230000Z
+SUMMARY:Artists' Alliance
+LOCATION:Acadiana Center for the Arts\, 101 W Vermilion St\, Lafayette\, L
+ A 70501
+DESCRIPTION:A group exhibition from AcA's Artists' Alliance fills the Main
+  Gallery downtown. The building is closed Thanksgiving Day and Friday\, so
+  Saturday is the day to go. Gallery admission. Details: https://weekendsco
+ ut.app/e/lafayette/artists-alliance-aca-2026-11-28/
+URL:https://weekendscout.app/e/lafayette/artists-alliance-aca-2026-11-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:lafayette-lafayette-farmers-artisans-market-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261128T140000Z
+DTEND:20261128T180000Z
+SUMMARY:Lafayette Farmers & Artisans Market
+LOCATION:Moncus Park\, 2913 Johnston St\, Lafayette\, LA 70503
+DESCRIPTION:The Saturday morning market at Moncus Park\, with local farmer
+ s\, food and artisans. Check details. Details: https://weekendscout.app/e/
+ lafayette/lafayette-farmers-artisans-market-2026-11-28/
+URL:https://weekendscout.app/e/lafayette/lafayette-farmers-artisans-market-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:lafayette-lake-martin-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T050908Z
+DTSTAMP:20261126T055222Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -94,7 +116,7 @@ URL:https://weekendscout.app/e/lafayette/lake-martin-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:lafayette-lake-martin-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T050908Z
+DTSTAMP:20261126T055222Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -107,7 +129,7 @@ URL:https://weekendscout.app/e/lafayette/lake-martin-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:lafayette-lake-martin-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T050908Z
+DTSTAMP:20261126T055222Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT

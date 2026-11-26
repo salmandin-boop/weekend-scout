@@ -8,185 +8,283 @@ X-WR-CALDESC:Hand-checked weekend picks in Myrtle Beach, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:myrtle-beach-myrtle-beach-boardwalk-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T050908Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Myrtle Beach Boardwalk
-LOCATION:Myrtle Beach Boardwalk\, N Ocean Blvd & 9th Ave N\, Myrtle Beach\
- , SC 29577
-DESCRIPTION:The 1.2-mile oceanfront boardwalk by the SkyWheel. Free. Detai
- ls: https://weekendscout.app/e/myrtle-beach/myrtle-beach-boardwalk-2026-11
- /
-URL:https://weekendscout.app/e/myrtle-beach/myrtle-beach-boardwalk-2026-11/
+UID:myrtle-beach-great-christmas-light-show-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261127T223000Z
+DTEND:20261128T023000Z
+SUMMARY:The Great Christmas Light Show
+LOCATION:North Myrtle Beach Park & Sports Complex\, 150 Citizens Circle\, 
+ North Myrtle Beach\, SC 29582
+DESCRIPTION:A two-mile drive-through of more than two million lights\, end
+ ing at Santa's Village with free Santa visits\, a petting zoo and a tree s
+ how. Pay at the gate\; no advance tickets. $25 per car. Details: https://w
+ eekendscout.app/e/myrtle-beach/great-christmas-light-show-2026-11-27/
+URL:https://weekendscout.app/e/myrtle-beach/great-christmas-light-show-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:myrtle-beach-myrtle-beach-boardwalk-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T050908Z
+UID:myrtle-beach-great-christmas-light-show-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261128T223000Z
+DTEND:20261129T023000Z
+SUMMARY:The Great Christmas Light Show
+LOCATION:North Myrtle Beach Park & Sports Complex\, 150 Citizens Circle\, 
+ North Myrtle Beach\, SC 29582
+DESCRIPTION:A two-mile drive-through of more than two million lights\, end
+ ing at Santa's Village with free Santa visits\, a petting zoo and a tree s
+ how. Pay at the gate\; no advance tickets. $25 per car. Details: https://w
+ eekendscout.app/e/myrtle-beach/great-christmas-light-show-2026-11-27/
+URL:https://weekendscout.app/e/myrtle-beach/great-christmas-light-show-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:myrtle-beach-great-christmas-light-show-2026-11-27-sun-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261129T223000Z
+DTEND:20261130T023000Z
+SUMMARY:The Great Christmas Light Show
+LOCATION:North Myrtle Beach Park & Sports Complex\, 150 Citizens Circle\, 
+ North Myrtle Beach\, SC 29582
+DESCRIPTION:A two-mile drive-through of more than two million lights\, end
+ ing at Santa's Village with free Santa visits\, a petting zoo and a tree s
+ how. Pay at the gate\; no advance tickets. $25 per car. Details: https://w
+ eekendscout.app/e/myrtle-beach/great-christmas-light-show-2026-11-27/
+URL:https://weekendscout.app/e/myrtle-beach/great-christmas-light-show-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:myrtle-beach-nights-of-a-thousand-candles-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261127T210000Z
+DTEND:20261128T020000Z
+SUMMARY:Nights of a Thousand Candles
+LOCATION:Brookgreen Gardens\, 1931 Brookgreen Drive\, Murrells Inlet\, SC 
+ 29576
+DESCRIPTION:Brookgreen's candlelit holiday nights open this weekend\, with
+  thousands of hand-lit candles and lights along the garden paths plus seas
+ onal music. Tickets are sold in advance only. Tickets. Details: https://we
+ ekendscout.app/e/myrtle-beach/nights-of-a-thousand-candles-2026-11-27/
+URL:https://weekendscout.app/e/myrtle-beach/nights-of-a-thousand-candles-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:myrtle-beach-nights-of-a-thousand-candles-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261128T210000Z
+DTEND:20261129T020000Z
+SUMMARY:Nights of a Thousand Candles
+LOCATION:Brookgreen Gardens\, 1931 Brookgreen Drive\, Murrells Inlet\, SC 
+ 29576
+DESCRIPTION:Brookgreen's candlelit holiday nights open this weekend\, with
+  thousands of hand-lit candles and lights along the garden paths plus seas
+ onal music. Tickets are sold in advance only. Tickets. Details: https://we
+ ekendscout.app/e/myrtle-beach/nights-of-a-thousand-candles-2026-11-27/
+URL:https://weekendscout.app/e/myrtle-beach/nights-of-a-thousand-candles-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:myrtle-beach-nights-of-a-thousand-candles-2026-11-27-sun-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261129T210000Z
+DTEND:20261130T020000Z
+SUMMARY:Nights of a Thousand Candles
+LOCATION:Brookgreen Gardens\, 1931 Brookgreen Drive\, Murrells Inlet\, SC 
+ 29576
+DESCRIPTION:Brookgreen's candlelit holiday nights open this weekend\, with
+  thousands of hand-lit candles and lights along the garden paths plus seas
+ onal music. Tickets are sold in advance only. Tickets. Details: https://we
+ ekendscout.app/e/myrtle-beach/nights-of-a-thousand-candles-2026-11-27/
+URL:https://weekendscout.app/e/myrtle-beach/nights-of-a-thousand-candles-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:myrtle-beach-winter-wonderland-at-the-beach-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261127T220000Z
+DTEND:20261128T020000Z
+SUMMARY:Winter Wonderland at The Beach
+LOCATION:Myrtle Beach Boardwalk\, N Ocean Blvd & 9th Ave N\, Myrtle Beach\
+ , SC 29577
+DESCRIPTION:Free holiday lights along the 1.2-mile oceanfront boardwalk ev
+ ery night. On Saturday\, the city tree lighting at Plyler Park (5:30–7 p
+ m\, tree lit at 6:30) brings choirs\, holiday characters and photos with S
+ anta. Free. Details: https://weekendscout.app/e/myrtle-beach/winter-wonder
+ land-at-the-beach-2026-11-27/
+URL:https://weekendscout.app/e/myrtle-beach/winter-wonderland-at-the-beach-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:myrtle-beach-winter-wonderland-at-the-beach-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261128T220000Z
+DTEND:20261129T020000Z
+SUMMARY:Winter Wonderland at The Beach
+LOCATION:Myrtle Beach Boardwalk\, N Ocean Blvd & 9th Ave N\, Myrtle Beach\
+ , SC 29577
+DESCRIPTION:Free holiday lights along the 1.2-mile oceanfront boardwalk ev
+ ery night. On Saturday\, the city tree lighting at Plyler Park (5:30–7 p
+ m\, tree lit at 6:30) brings choirs\, holiday characters and photos with S
+ anta. Free. Details: https://weekendscout.app/e/myrtle-beach/winter-wonder
+ land-at-the-beach-2026-11-27/
+URL:https://weekendscout.app/e/myrtle-beach/winter-wonderland-at-the-beach-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:myrtle-beach-winter-wonderland-at-the-beach-2026-11-27-sun-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261129T220000Z
+DTEND:20261130T020000Z
+SUMMARY:Winter Wonderland at The Beach
+LOCATION:Myrtle Beach Boardwalk\, N Ocean Blvd & 9th Ave N\, Myrtle Beach\
+ , SC 29577
+DESCRIPTION:Free holiday lights along the 1.2-mile oceanfront boardwalk ev
+ ery night. On Saturday\, the city tree lighting at Plyler Park (5:30–7 p
+ m\, tree lit at 6:30) brings choirs\, holiday characters and photos with S
+ anta. Free. Details: https://weekendscout.app/e/myrtle-beach/winter-wonder
+ land-at-the-beach-2026-11-27/
+URL:https://weekendscout.app/e/myrtle-beach/winter-wonderland-at-the-beach-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:myrtle-beach-carolina-opry-christmas-special-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261127T180000Z
+DTEND:20261127T203000Z
+SUMMARY:The Carolina Opry Christmas Special
+LOCATION:The Carolina Opry\, 8901 N Kings Hwy\, Myrtle Beach\, SC 29572
+DESCRIPTION:The Opry's long-running holiday show of music\, comedy and dan
+ ce\, with matinee and evening performances Friday and Saturday. Tickets. D
+ etails: https://weekendscout.app/e/myrtle-beach/carolina-opry-christmas-sp
+ ecial-2026-11-27/
+URL:https://weekendscout.app/e/myrtle-beach/carolina-opry-christmas-special-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:myrtle-beach-carolina-opry-christmas-special-2026-11-27-fri-1@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261128T000000Z
+DTEND:20261128T023000Z
+SUMMARY:The Carolina Opry Christmas Special
+LOCATION:The Carolina Opry\, 8901 N Kings Hwy\, Myrtle Beach\, SC 29572
+DESCRIPTION:The Opry's long-running holiday show of music\, comedy and dan
+ ce\, with matinee and evening performances Friday and Saturday. Tickets. D
+ etails: https://weekendscout.app/e/myrtle-beach/carolina-opry-christmas-sp
+ ecial-2026-11-27/
+URL:https://weekendscout.app/e/myrtle-beach/carolina-opry-christmas-special-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:myrtle-beach-carolina-opry-christmas-special-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261128T180000Z
+DTEND:20261128T203000Z
+SUMMARY:The Carolina Opry Christmas Special
+LOCATION:The Carolina Opry\, 8901 N Kings Hwy\, Myrtle Beach\, SC 29572
+DESCRIPTION:The Opry's long-running holiday show of music\, comedy and dan
+ ce\, with matinee and evening performances Friday and Saturday. Tickets. D
+ etails: https://weekendscout.app/e/myrtle-beach/carolina-opry-christmas-sp
+ ecial-2026-11-27/
+URL:https://weekendscout.app/e/myrtle-beach/carolina-opry-christmas-special-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:myrtle-beach-carolina-opry-christmas-special-2026-11-27-sat-1@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261129T000000Z
+DTEND:20261129T023000Z
+SUMMARY:The Carolina Opry Christmas Special
+LOCATION:The Carolina Opry\, 8901 N Kings Hwy\, Myrtle Beach\, SC 29572
+DESCRIPTION:The Opry's long-running holiday show of music\, comedy and dan
+ ce\, with matinee and evening performances Friday and Saturday. Tickets. D
+ etails: https://weekendscout.app/e/myrtle-beach/carolina-opry-christmas-sp
+ ecial-2026-11-27/
+URL:https://weekendscout.app/e/myrtle-beach/carolina-opry-christmas-special-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:myrtle-beach-intracoastal-christmas-regatta-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261128T220000Z
+DTEND:20261129T000000Z
+SUMMARY:Intracoastal Christmas Regatta
+LOCATION:Dock Holidays Marina\, 1525 13th Ave N\, North Myrtle Beach\, SC 
+ 29582
+DESCRIPTION:Decorated\, lit-up boats parade down the Intracoastal Waterway
+  from Little River Inlet around 5 pm\, reaching Dock Holidays Marina aroun
+ d 7 pm. Organizers ask for new toys for Yachts for Tots or pet supplies fo
+ r the local humane society. Free to watch. Details: https://weekendscout.a
+ pp/e/myrtle-beach/intracoastal-christmas-regatta-2026-11-28/
+URL:https://weekendscout.app/e/myrtle-beach/intracoastal-christmas-regatta-2026-11-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:myrtle-beach-springmaid-craft-show-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261127T150000Z
+DTEND:20261127T210000Z
+SUMMARY:Springmaid Craft Show
+LOCATION:DoubleTree Resort by Hilton Myrtle Beach Oceanfront\, 3200 S Ocea
+ n Blvd\, Myrtle Beach\, SC 29577
+DESCRIPTION:A Black Friday weekend craft show with handmade goods\, art an
+ d specialty foods spread over three floors of the oceanfront resort. Admis
+ sion and parking are free. Free. Details: https://weekendscout.app/e/myrtl
+ e-beach/springmaid-craft-show-2026-11-27/
+URL:https://weekendscout.app/e/myrtle-beach/springmaid-craft-show-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:myrtle-beach-springmaid-craft-show-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART:20261128T150000Z
+DTEND:20261128T210000Z
+SUMMARY:Springmaid Craft Show
+LOCATION:DoubleTree Resort by Hilton Myrtle Beach Oceanfront\, 3200 S Ocea
+ n Blvd\, Myrtle Beach\, SC 29577
+DESCRIPTION:A Black Friday weekend craft show with handmade goods\, art an
+ d specialty foods spread over three floors of the oceanfront resort. Admis
+ sion and parking are free. Free. Details: https://weekendscout.app/e/myrtl
+ e-beach/springmaid-craft-show-2026-11-27/
+URL:https://weekendscout.app/e/myrtle-beach/springmaid-craft-show-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:myrtle-beach-coastal-carolina-vs-western-illinois-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T055222Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
-SUMMARY:Myrtle Beach Boardwalk
-LOCATION:Myrtle Beach Boardwalk\, N Ocean Blvd & 9th Ave N\, Myrtle Beach\
- , SC 29577
-DESCRIPTION:The 1.2-mile oceanfront boardwalk by the SkyWheel. Free. Detai
- ls: https://weekendscout.app/e/myrtle-beach/myrtle-beach-boardwalk-2026-11
- /
-URL:https://weekendscout.app/e/myrtle-beach/myrtle-beach-boardwalk-2026-11/
+SUMMARY:Coastal Carolina vs. Western Illinois (men's basketball)
+LOCATION:HTC Center\, Coastal Carolina University\, Conway\, SC
+DESCRIPTION:The Chanticleers host Western Illinois in a nonconference home
+  game in Conway. Check the athletics site for tip-off time. Check ticket p
+ rices. Details: https://weekendscout.app/e/myrtle-beach/coastal-carolina-v
+ s-western-illinois-2026-11-28/
+URL:https://weekendscout.app/e/myrtle-beach/coastal-carolina-vs-western-illinois-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
-UID:myrtle-beach-myrtle-beach-boardwalk-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T050908Z
+UID:myrtle-beach-le-grand-cirque-winter-in-the-air-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Le Grand Cirque: Winter in the Air
+LOCATION:Broadway Theater\, 1318 Celebrity Cir\, Myrtle Beach\, SC 29577
+DESCRIPTION:A Cirque-style holiday show with acrobats and aerial acts set 
+ to a winter storyline\, at Broadway at the Beach. It runs about two hours 
+ with an intermission. Tickets. Details: https://weekendscout.app/e/myrtle-
+ beach/le-grand-cirque-winter-in-the-air-2026-11-27/
+URL:https://weekendscout.app/e/myrtle-beach/le-grand-cirque-winter-in-the-air-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:myrtle-beach-le-grand-cirque-winter-in-the-air-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T055222Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Le Grand Cirque: Winter in the Air
+LOCATION:Broadway Theater\, 1318 Celebrity Cir\, Myrtle Beach\, SC 29577
+DESCRIPTION:A Cirque-style holiday show with acrobats and aerial acts set 
+ to a winter storyline\, at Broadway at the Beach. It runs about two hours 
+ with an intermission. Tickets. Details: https://weekendscout.app/e/myrtle-
+ beach/le-grand-cirque-winter-in-the-air-2026-11-27/
+URL:https://weekendscout.app/e/myrtle-beach/le-grand-cirque-winter-in-the-air-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:myrtle-beach-le-grand-cirque-winter-in-the-air-2026-11-27-sun-0@weekendscout.app
+DTSTAMP:20261126T055222Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
-SUMMARY:Myrtle Beach Boardwalk
-LOCATION:Myrtle Beach Boardwalk\, N Ocean Blvd & 9th Ave N\, Myrtle Beach\
- , SC 29577
-DESCRIPTION:The 1.2-mile oceanfront boardwalk by the SkyWheel. Free. Detai
- ls: https://weekendscout.app/e/myrtle-beach/myrtle-beach-boardwalk-2026-11
- /
-URL:https://weekendscout.app/e/myrtle-beach/myrtle-beach-boardwalk-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:myrtle-beach-the-carolina-opry-christmas-special-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T050908Z
-DTSTART:20261127T180000Z
-DTEND:20261127T200000Z
-SUMMARY:The Carolina Opry Christmas Special
-LOCATION:The Carolina Opry\, 8901 N Kings Hwy\, Myrtle Beach\, SC 29572
-DESCRIPTION:Music\, comedy and dance for the holidays. Tickets. Details: h
- ttps://weekendscout.app/e/myrtle-beach/the-carolina-opry-christmas-special
- -2026-11/
-URL:https://weekendscout.app/e/myrtle-beach/the-carolina-opry-christmas-special-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:myrtle-beach-the-carolina-opry-christmas-special-2026-11-fri-1@weekendscout.app
-DTSTAMP:20261126T050908Z
-DTSTART:20261128T000000Z
-DTEND:20261128T020000Z
-SUMMARY:The Carolina Opry Christmas Special
-LOCATION:The Carolina Opry\, 8901 N Kings Hwy\, Myrtle Beach\, SC 29572
-DESCRIPTION:Music\, comedy and dance for the holidays. Tickets. Details: h
- ttps://weekendscout.app/e/myrtle-beach/the-carolina-opry-christmas-special
- -2026-11/
-URL:https://weekendscout.app/e/myrtle-beach/the-carolina-opry-christmas-special-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:myrtle-beach-the-carolina-opry-christmas-special-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T050908Z
-DTSTART:20261129T000000Z
-DTEND:20261129T020000Z
-SUMMARY:The Carolina Opry Christmas Special
-LOCATION:The Carolina Opry\, 8901 N Kings Hwy\, Myrtle Beach\, SC 29572
-DESCRIPTION:Music\, comedy and dance for the holidays. Tickets. Details: h
- ttps://weekendscout.app/e/myrtle-beach/the-carolina-opry-christmas-special
- -2026-11/
-URL:https://weekendscout.app/e/myrtle-beach/the-carolina-opry-christmas-special-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:myrtle-beach-winter-in-the-air-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T050908Z
-DTSTART:20261127T210000Z
-DTEND:20261127T230000Z
-SUMMARY:Winter in the Air
+SUMMARY:Le Grand Cirque: Winter in the Air
 LOCATION:Broadway Theater\, 1318 Celebrity Cir\, Myrtle Beach\, SC 29577
-DESCRIPTION:A holiday music-and-dance show at Broadway at the Beach. Ticke
- ts. Details: https://weekendscout.app/e/myrtle-beach/winter-in-the-air-202
- 6-11/
-URL:https://weekendscout.app/e/myrtle-beach/winter-in-the-air-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:myrtle-beach-winter-in-the-air-2026-11-fri-1@weekendscout.app
-DTSTAMP:20261126T050908Z
-DTSTART:20261128T000000Z
-DTEND:20261128T020000Z
-SUMMARY:Winter in the Air
-LOCATION:Broadway Theater\, 1318 Celebrity Cir\, Myrtle Beach\, SC 29577
-DESCRIPTION:A holiday music-and-dance show at Broadway at the Beach. Ticke
- ts. Details: https://weekendscout.app/e/myrtle-beach/winter-in-the-air-202
- 6-11/
-URL:https://weekendscout.app/e/myrtle-beach/winter-in-the-air-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:myrtle-beach-winter-in-the-air-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T050908Z
-DTSTART:20261128T210000Z
-DTEND:20261128T230000Z
-SUMMARY:Winter in the Air
-LOCATION:Broadway Theater\, 1318 Celebrity Cir\, Myrtle Beach\, SC 29577
-DESCRIPTION:A holiday music-and-dance show at Broadway at the Beach. Ticke
- ts. Details: https://weekendscout.app/e/myrtle-beach/winter-in-the-air-202
- 6-11/
-URL:https://weekendscout.app/e/myrtle-beach/winter-in-the-air-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:myrtle-beach-winter-in-the-air-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261126T050908Z
-DTSTART:20261129T000000Z
-DTEND:20261129T020000Z
-SUMMARY:Winter in the Air
-LOCATION:Broadway Theater\, 1318 Celebrity Cir\, Myrtle Beach\, SC 29577
-DESCRIPTION:A holiday music-and-dance show at Broadway at the Beach. Ticke
- ts. Details: https://weekendscout.app/e/myrtle-beach/winter-in-the-air-202
- 6-11/
-URL:https://weekendscout.app/e/myrtle-beach/winter-in-the-air-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:myrtle-beach-winter-in-the-air-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T050908Z
-DTSTART:20261129T210000Z
-DTEND:20261129T230000Z
-SUMMARY:Winter in the Air
-LOCATION:Broadway Theater\, 1318 Celebrity Cir\, Myrtle Beach\, SC 29577
-DESCRIPTION:A holiday music-and-dance show at Broadway at the Beach. Ticke
- ts. Details: https://weekendscout.app/e/myrtle-beach/winter-in-the-air-202
- 6-11/
-URL:https://weekendscout.app/e/myrtle-beach/winter-in-the-air-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:myrtle-beach-richie-minervini-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T050908Z
-DTSTART:20261128T000000Z
-DTEND:20261128T020000Z
-SUMMARY:Richie Minervini
-LOCATION:Comedy Cabana\, 9588 N Kings Hwy\, Myrtle Beach\, SC 29572
-DESCRIPTION:Stand-up\, two shows Friday and Saturday. Tickets. Details: ht
- tps://weekendscout.app/e/myrtle-beach/richie-minervini-2026-11/
-URL:https://weekendscout.app/e/myrtle-beach/richie-minervini-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:myrtle-beach-richie-minervini-2026-11-fri-1@weekendscout.app
-DTSTAMP:20261126T050908Z
-DTSTART:20261128T020000Z
-DTEND:20261128T040000Z
-SUMMARY:Richie Minervini
-LOCATION:Comedy Cabana\, 9588 N Kings Hwy\, Myrtle Beach\, SC 29572
-DESCRIPTION:Stand-up\, two shows Friday and Saturday. Tickets. Details: ht
- tps://weekendscout.app/e/myrtle-beach/richie-minervini-2026-11/
-URL:https://weekendscout.app/e/myrtle-beach/richie-minervini-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:myrtle-beach-richie-minervini-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T050908Z
-DTSTART:20261129T000000Z
-DTEND:20261129T020000Z
-SUMMARY:Richie Minervini
-LOCATION:Comedy Cabana\, 9588 N Kings Hwy\, Myrtle Beach\, SC 29572
-DESCRIPTION:Stand-up\, two shows Friday and Saturday. Tickets. Details: ht
- tps://weekendscout.app/e/myrtle-beach/richie-minervini-2026-11/
-URL:https://weekendscout.app/e/myrtle-beach/richie-minervini-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:myrtle-beach-richie-minervini-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261126T050908Z
-DTSTART:20261129T020000Z
-DTEND:20261129T040000Z
-SUMMARY:Richie Minervini
-LOCATION:Comedy Cabana\, 9588 N Kings Hwy\, Myrtle Beach\, SC 29572
-DESCRIPTION:Stand-up\, two shows Friday and Saturday. Tickets. Details: ht
- tps://weekendscout.app/e/myrtle-beach/richie-minervini-2026-11/
-URL:https://weekendscout.app/e/myrtle-beach/richie-minervini-2026-11/
+DESCRIPTION:A Cirque-style holiday show with acrobats and aerial acts set 
+ to a winter storyline\, at Broadway at the Beach. It runs about two hours 
+ with an intermission. Tickets. Details: https://weekendscout.app/e/myrtle-
+ beach/le-grand-cirque-winter-in-the-air-2026-11-27/
+URL:https://weekendscout.app/e/myrtle-beach/le-grand-cirque-winter-in-the-air-2026-11-27/
 END:VEVENT
 END:VCALENDAR
