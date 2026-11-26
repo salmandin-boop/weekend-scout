@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:winston-salem-old-salem-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/winston-salem/old-salem-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:winston-salem-old-salem-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/winston-salem/old-salem-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:winston-salem-old-salem-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -48,19 +48,21 @@ URL:https://weekendscout.app/e/winston-salem/old-salem-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:winston-salem-wake-forest-vs-duke-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T043819Z
-DTSTART:20261128T200000Z
-DTEND:20261128T220000Z
+DTSTAMP:20261126T050908Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
 SUMMARY:Wake Forest vs. Duke
 LOCATION:Allegacy Federal Credit Union Stadium\, 499 Deacon Blvd\, Winston
  -Salem\, NC 27105
-DESCRIPTION:ACC football on Saturday afternoon. Tickets. Details: https://
- weekendscout.app/e/winston-salem/wake-forest-vs-duke-2026-11/
+DESCRIPTION:The Demon Deacons host Duke in their regular-season finale\; c
+ heck the athletics site for kickoff. Tickets. Details: https://weekendscou
+ t.app/e/winston-salem/wake-forest-vs-duke-2026-11/
 URL:https://weekendscout.app/e/winston-salem/wake-forest-vs-duke-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:winston-salem-twin-city-thunderbirds-vs-blue-ridge-bobcats-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART:20261128T003500Z
 DTEND:20261128T023500Z
 SUMMARY:Twin City Thunderbirds vs. Blue Ridge Bobcats
@@ -73,7 +75,7 @@ URL:https://weekendscout.app/e/winston-salem/twin-city-thunderbirds-vs-blue-ridg
 END:VEVENT
 BEGIN:VEVENT
 UID:winston-salem-silent-disco-dance-party-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART:20261129T010000Z
 DTEND:20261129T030000Z
 SUMMARY:Silent Disco Dance Party
@@ -82,5 +84,131 @@ DESCRIPTION:Three DJs\, wireless headphones\, you pick the channel. Ticket
  s. Details: https://weekendscout.app/e/winston-salem/silent-disco-dance-pa
  rty-2026-11/
 URL:https://weekendscout.app/e/winston-salem/silent-disco-dance-party-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:winston-salem-tanglewood-festival-of-lights-2026-fri-0@weekendscout.app
+DTSTAMP:20261126T050908Z
+DTSTART:20261127T230000Z
+DTEND:20261128T040000Z
+SUMMARY:Tanglewood Festival of Lights
+LOCATION:Tanglewood Park\, 4061 Clemmons Rd\, Clemmons\, NC 27012
+DESCRIPTION:A drive-through holiday light show winding through Tanglewood 
+ Park\, running nightly through January 1. $25 per car Fri–Sun (cash)\, $
+ 28 card. Details: https://weekendscout.app/e/winston-salem/tanglewood-fest
+ ival-of-lights-2026/
+URL:https://weekendscout.app/e/winston-salem/tanglewood-festival-of-lights-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:winston-salem-tanglewood-festival-of-lights-2026-sat-0@weekendscout.app
+DTSTAMP:20261126T050908Z
+DTSTART:20261128T230000Z
+DTEND:20261129T040000Z
+SUMMARY:Tanglewood Festival of Lights
+LOCATION:Tanglewood Park\, 4061 Clemmons Rd\, Clemmons\, NC 27012
+DESCRIPTION:A drive-through holiday light show winding through Tanglewood 
+ Park\, running nightly through January 1. $25 per car Fri–Sun (cash)\, $
+ 28 card. Details: https://weekendscout.app/e/winston-salem/tanglewood-fest
+ ival-of-lights-2026/
+URL:https://weekendscout.app/e/winston-salem/tanglewood-festival-of-lights-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:winston-salem-tanglewood-festival-of-lights-2026-sun-0@weekendscout.app
+DTSTAMP:20261126T050908Z
+DTSTART:20261129T230000Z
+DTEND:20261130T040000Z
+SUMMARY:Tanglewood Festival of Lights
+LOCATION:Tanglewood Park\, 4061 Clemmons Rd\, Clemmons\, NC 27012
+DESCRIPTION:A drive-through holiday light show winding through Tanglewood 
+ Park\, running nightly through January 1. $25 per car Fri–Sun (cash)\, $
+ 28 card. Details: https://weekendscout.app/e/winston-salem/tanglewood-fest
+ ival-of-lights-2026/
+URL:https://weekendscout.app/e/winston-salem/tanglewood-festival-of-lights-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:winston-salem-trailer-park-christmas-musical-2026-fri-0@weekendscout.app
+DTSTAMP:20261126T050908Z
+DTSTART:20261128T003000Z
+DTEND:20261128T023000Z
+SUMMARY:The Great American Trailer Park Christmas Musical
+LOCATION:Winston-Salem Theatre Alliance\, 650 W 6th St\, Winston-Salem\, N
+ C 27101
+DESCRIPTION:A raunchy holiday musical comedy\; the theater describes it as
+  R-rated. Tickets. Details: https://weekendscout.app/e/winston-salem/trail
+ er-park-christmas-musical-2026/
+URL:https://weekendscout.app/e/winston-salem/trailer-park-christmas-musical-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:winston-salem-trailer-park-christmas-musical-2026-sat-0@weekendscout.app
+DTSTAMP:20261126T050908Z
+DTSTART:20261129T003000Z
+DTEND:20261129T023000Z
+SUMMARY:The Great American Trailer Park Christmas Musical
+LOCATION:Winston-Salem Theatre Alliance\, 650 W 6th St\, Winston-Salem\, N
+ C 27101
+DESCRIPTION:A raunchy holiday musical comedy\; the theater describes it as
+  R-rated. Tickets. Details: https://weekendscout.app/e/winston-salem/trail
+ er-park-christmas-musical-2026/
+URL:https://weekendscout.app/e/winston-salem/trailer-park-christmas-musical-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:winston-salem-trailer-park-christmas-musical-2026-sun-0@weekendscout.app
+DTSTAMP:20261126T050908Z
+DTSTART:20261129T190000Z
+DTEND:20261129T210000Z
+SUMMARY:The Great American Trailer Park Christmas Musical
+LOCATION:Winston-Salem Theatre Alliance\, 650 W 6th St\, Winston-Salem\, N
+ C 27101
+DESCRIPTION:A raunchy holiday musical comedy\; the theater describes it as
+  R-rated. Tickets. Details: https://weekendscout.app/e/winston-salem/trail
+ er-park-christmas-musical-2026/
+URL:https://weekendscout.app/e/winston-salem/trailer-park-christmas-musical-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:winston-salem-cirque-de-la-symphonie-ws-2026-sat-0@weekendscout.app
+DTSTAMP:20261126T050908Z
+DTSTART:20261129T003000Z
+DTEND:20261129T023000Z
+SUMMARY:Cirque de la Symphonie
+LOCATION:Reynolds Auditorium\, Winston-Salem\, NC
+DESCRIPTION:The Winston-Salem Symphony plays while cirque artists perform 
+ aerial and acrobatic acts. From $28. Details: https://weekendscout.app/e/w
+ inston-salem/cirque-de-la-symphonie-ws-2026/
+URL:https://weekendscout.app/e/winston-salem/cirque-de-la-symphonie-ws-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:winston-salem-cirque-de-la-symphonie-ws-2026-sun-0@weekendscout.app
+DTSTAMP:20261126T050908Z
+DTSTART:20261129T200000Z
+DTEND:20261129T220000Z
+SUMMARY:Cirque de la Symphonie
+LOCATION:Reynolds Auditorium\, Winston-Salem\, NC
+DESCRIPTION:The Winston-Salem Symphony plays while cirque artists perform 
+ aerial and acrobatic acts. From $28. Details: https://weekendscout.app/e/w
+ inston-salem/cirque-de-la-symphonie-ws-2026/
+URL:https://weekendscout.app/e/winston-salem/cirque-de-la-symphonie-ws-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:winston-salem-joy-of-christmas-evening-tours-2026-fri-0@weekendscout.app
+DTSTAMP:20261126T050908Z
+DTSTART:20261127T233000Z
+DTEND:20261128T004500Z
+SUMMARY:Joy of Christmas Evening Tours
+LOCATION:Old Salem\, 600 S Main St\, Winston-Salem\, NC 27101
+DESCRIPTION:Evening holiday tours of Old Salem\, departing every 15 minute
+ s from 6:30 to 7:45 p.m. $60 adults\, $40 students. Details: https://weeke
+ ndscout.app/e/winston-salem/joy-of-christmas-evening-tours-2026/
+URL:https://weekendscout.app/e/winston-salem/joy-of-christmas-evening-tours-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:winston-salem-joy-of-christmas-evening-tours-2026-sat-0@weekendscout.app
+DTSTAMP:20261126T050908Z
+DTSTART:20261128T233000Z
+DTEND:20261129T004500Z
+SUMMARY:Joy of Christmas Evening Tours
+LOCATION:Old Salem\, 600 S Main St\, Winston-Salem\, NC 27101
+DESCRIPTION:Evening holiday tours of Old Salem\, departing every 15 minute
+ s from 6:30 to 7:45 p.m. $60 adults\, $40 students. Details: https://weeke
+ ndscout.app/e/winston-salem/joy-of-christmas-evening-tours-2026/
+URL:https://weekendscout.app/e/winston-salem/joy-of-christmas-evening-tours-2026/
 END:VEVENT
 END:VCALENDAR

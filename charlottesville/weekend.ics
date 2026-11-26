@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:charlottesville-downtown-mall-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/charlottesville/downtown-mall-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:charlottesville-downtown-mall-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/charlottesville/downtown-mall-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:charlottesville-downtown-mall-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -48,7 +48,7 @@ URL:https://weekendscout.app/e/charlottesville/downtown-mall-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:charlottesville-uva-lawn-rotunda-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -61,7 +61,7 @@ URL:https://weekendscout.app/e/charlottesville/uva-lawn-rotunda-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:charlottesville-uva-lawn-rotunda-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -74,7 +74,7 @@ URL:https://weekendscout.app/e/charlottesville/uva-lawn-rotunda-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:charlottesville-uva-lawn-rotunda-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -87,10 +87,10 @@ URL:https://weekendscout.app/e/charlottesville/uva-lawn-rotunda-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:charlottesville-pentatonix-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART:20261129T000000Z
 DTEND:20261129T020000Z
-SUMMARY:Pentatonix
+SUMMARY:Pentatonix: Christmas in the City Tour
 LOCATION:John Paul Jones Arena\, 295 Massie Rd\, Charlottesville\, VA 2290
  3
 DESCRIPTION:The a cappella group’s Christmas tour. Tickets. Details: htt
@@ -99,7 +99,7 @@ URL:https://weekendscout.app/e/charlottesville/pentatonix-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:charlottesville-dog-man-the-musical-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART:20261128T210000Z
 DTEND:20261128T230000Z
 SUMMARY:Dog Man: The Musical
@@ -111,7 +111,7 @@ URL:https://weekendscout.app/e/charlottesville/dog-man-the-musical-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:charlottesville-peen-a-tribute-to-ween-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART:20261128T010000Z
 DTEND:20261128T030000Z
 SUMMARY:Peen: A Tribute to Ween
@@ -120,5 +120,30 @@ LOCATION:The Southern Café & Music Hall\, 103 1st St S\, Charlottesville\
 DESCRIPTION:A Ween tribute band. Tickets. Details: https://weekendscout.ap
  p/e/charlottesville/peen-a-tribute-to-ween-2026-11/
 URL:https://weekendscout.app/e/charlottesville/peen-a-tribute-to-ween-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:charlottesville-we-are-star-children-southern-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T050908Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:We Are Star Children & Theocles
+LOCATION:The Southern Café & Music Hall\, 103 1st St S\, Charlottesville\
+ , VA 22902
+DESCRIPTION:A Saturday-night double bill at the downtown music hall. Ticke
+ ts. Details: https://weekendscout.app/e/charlottesville/we-are-star-childr
+ en-southern-2026-11-28/
+URL:https://weekendscout.app/e/charlottesville/we-are-star-children-southern-2026-11-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:charlottesville-farmers-market-at-ix-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T050908Z
+DTSTART:20261128T140000Z
+DTEND:20261128T180000Z
+SUMMARY:Farmers Market at IX
+LOCATION:IX Art Park\, 522 2nd St SE\, Charlottesville\, VA 22902
+DESCRIPTION:Saturday-morning farmers market at IX Art Park. Free to browse
+ . Details: https://weekendscout.app/e/charlottesville/farmers-market-at-ix
+ -2026-11-28/
+URL:https://weekendscout.app/e/charlottesville/farmers-market-at-ix-2026-11-28/
 END:VEVENT
 END:VCALENDAR

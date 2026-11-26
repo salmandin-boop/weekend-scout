@@ -8,34 +8,44 @@ X-WR-CALDESC:Hand-checked weekend picks in Norfolk, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:norfolk-chrysler-museum-of-art-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T043819Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
+UID:norfolk-chrysler-museum-of-art-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T050908Z
+DTSTART:20261127T170000Z
+DTEND:20261127T190000Z
 SUMMARY:Chrysler Museum of Art
 LOCATION:Chrysler Museum of Art\, 1 Memorial Pl\, Norfolk\, VA 23510
 DESCRIPTION:Fifty centuries of art and a celebrated glass collection\; fre
- e glass-blowing demos. Free admission. Details: https://weekendscout.app/e
- /norfolk/chrysler-museum-of-art-2026-11/
+ e glassmaking demo at noon in the Perry Glass Studio. Free admission. Deta
+ ils: https://weekendscout.app/e/norfolk/chrysler-museum-of-art-2026-11/
+URL:https://weekendscout.app/e/norfolk/chrysler-museum-of-art-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:norfolk-chrysler-museum-of-art-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T050908Z
+DTSTART:20261128T170000Z
+DTEND:20261128T190000Z
+SUMMARY:Chrysler Museum of Art
+LOCATION:Chrysler Museum of Art\, 1 Memorial Pl\, Norfolk\, VA 23510
+DESCRIPTION:Fifty centuries of art and a celebrated glass collection\; fre
+ e glassmaking demo at noon in the Perry Glass Studio. Free admission. Deta
+ ils: https://weekendscout.app/e/norfolk/chrysler-museum-of-art-2026-11/
 URL:https://weekendscout.app/e/norfolk/chrysler-museum-of-art-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:norfolk-chrysler-museum-of-art-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T043819Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
+DTSTAMP:20261126T050908Z
+DTSTART:20261129T170000Z
+DTEND:20261129T190000Z
 SUMMARY:Chrysler Museum of Art
 LOCATION:Chrysler Museum of Art\, 1 Memorial Pl\, Norfolk\, VA 23510
 DESCRIPTION:Fifty centuries of art and a celebrated glass collection\; fre
- e glass-blowing demos. Free admission. Details: https://weekendscout.app/e
- /norfolk/chrysler-museum-of-art-2026-11/
+ e glassmaking demo at noon in the Perry Glass Studio. Free admission. Deta
+ ils: https://weekendscout.app/e/norfolk/chrysler-museum-of-art-2026-11/
 URL:https://weekendscout.app/e/norfolk/chrysler-museum-of-art-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:norfolk-norfolk-admirals-vs-greensboro-gargoyles-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART:20261128T000500Z
 DTEND:20261128T020500Z
 SUMMARY:Norfolk Admirals vs. Greensboro Gargoyles
@@ -47,7 +57,7 @@ URL:https://weekendscout.app/e/norfolk/norfolk-admirals-vs-greensboro-gargoyles-
 END:VEVENT
 BEGIN:VEVENT
 UID:norfolk-norfolk-admirals-vs-greensboro-gargoyles-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART:20261129T000500Z
 DTEND:20261129T020500Z
 SUMMARY:Norfolk Admirals vs. Greensboro Gargoyles
@@ -59,7 +69,7 @@ URL:https://weekendscout.app/e/norfolk/norfolk-admirals-vs-greensboro-gargoyles-
 END:VEVENT
 BEGIN:VEVENT
 UID:norfolk-old-dominion-vs-southern-miss-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART:20261128T180000Z
 DTEND:20261128T200000Z
 SUMMARY:Old Dominion vs. Southern Miss
@@ -70,7 +80,7 @@ URL:https://weekendscout.app/e/norfolk/old-dominion-vs-southern-miss-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:norfolk-lindsey-stirling-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART:20261128T000000Z
 DTEND:20261128T020000Z
 SUMMARY:Lindsey Stirling
@@ -78,5 +88,146 @@ LOCATION:Chartway Arena\, 4320 Hampton Blvd\, Norfolk\, VA 23529
 DESCRIPTION:The violinist’s holiday tour. Tickets. Details: https://week
  endscout.app/e/norfolk/lindsey-stirling-2026-11/
 URL:https://weekendscout.app/e/norfolk/lindsey-stirling-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:norfolk-garden-of-lights-norfolk-2026-fri-0@weekendscout.app
+DTSTAMP:20261126T050908Z
+DTSTART:20261127T223000Z
+DTEND:20261128T013000Z
+SUMMARY:Dominion Energy Garden of Lights
+LOCATION:Norfolk Botanical Garden\, 6700 Azalea Garden Rd\, Norfolk\, VA 2
+ 3518
+DESCRIPTION:A nightly holiday light show through the botanical garden\; ti
+ med tickets required. From $24 adults\, $15 kids 3–12. Details: https://
+ weekendscout.app/e/norfolk/garden-of-lights-norfolk-2026/
+URL:https://weekendscout.app/e/norfolk/garden-of-lights-norfolk-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:norfolk-garden-of-lights-norfolk-2026-sat-0@weekendscout.app
+DTSTAMP:20261126T050908Z
+DTSTART:20261128T223000Z
+DTEND:20261129T013000Z
+SUMMARY:Dominion Energy Garden of Lights
+LOCATION:Norfolk Botanical Garden\, 6700 Azalea Garden Rd\, Norfolk\, VA 2
+ 3518
+DESCRIPTION:A nightly holiday light show through the botanical garden\; ti
+ med tickets required. From $24 adults\, $15 kids 3–12. Details: https://
+ weekendscout.app/e/norfolk/garden-of-lights-norfolk-2026/
+URL:https://weekendscout.app/e/norfolk/garden-of-lights-norfolk-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:norfolk-garden-of-lights-norfolk-2026-sun-0@weekendscout.app
+DTSTAMP:20261126T050908Z
+DTSTART:20261129T223000Z
+DTEND:20261130T013000Z
+SUMMARY:Dominion Energy Garden of Lights
+LOCATION:Norfolk Botanical Garden\, 6700 Azalea Garden Rd\, Norfolk\, VA 2
+ 3518
+DESCRIPTION:A nightly holiday light show through the botanical garden\; ti
+ med tickets required. From $24 adults\, $15 kids 3–12. Details: https://
+ weekendscout.app/e/norfolk/garden-of-lights-norfolk-2026/
+URL:https://weekendscout.app/e/norfolk/garden-of-lights-norfolk-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:norfolk-peters-pirate-fairy-festival-2026-fri-0@weekendscout.app
+DTSTAMP:20261126T050908Z
+DTSTART:20261127T140000Z
+DTEND:20261127T190000Z
+SUMMARY:Peter's Pirate and Fairy Festival
+LOCATION:Nauticus\, 1 Waterside Dr\, Norfolk\, VA 23510
+DESCRIPTION:A Neverland day with Captain Hook\, crafts\, games and a costu
+ me contest\, included with Nauticus admission. Admission $19.95 adults\, $
+ 16 kids. Details: https://weekendscout.app/e/norfolk/peters-pirate-fairy-f
+ estival-2026/
+URL:https://weekendscout.app/e/norfolk/peters-pirate-fairy-festival-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:norfolk-winterfest-on-the-wisconsin-2026-fri-0@weekendscout.app
+DTSTAMP:20261126T050908Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:WinterFest on the Wisconsin
+LOCATION:Nauticus\, 1 Waterside Dr\, Norfolk\, VA 23510
+DESCRIPTION:Holiday lights and festivities aboard the Battleship Wisconsin
+ \; kids 2 and under free. $23–$27 adults\, $21–$23 kids. Details: http
+ s://weekendscout.app/e/norfolk/winterfest-on-the-wisconsin-2026/
+URL:https://weekendscout.app/e/norfolk/winterfest-on-the-wisconsin-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:norfolk-winterfest-on-the-wisconsin-2026-sat-0@weekendscout.app
+DTSTAMP:20261126T050908Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:WinterFest on the Wisconsin
+LOCATION:Nauticus\, 1 Waterside Dr\, Norfolk\, VA 23510
+DESCRIPTION:Holiday lights and festivities aboard the Battleship Wisconsin
+ \; kids 2 and under free. $23–$27 adults\, $21–$23 kids. Details: http
+ s://weekendscout.app/e/norfolk/winterfest-on-the-wisconsin-2026/
+URL:https://weekendscout.app/e/norfolk/winterfest-on-the-wisconsin-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:norfolk-winterfest-on-the-wisconsin-2026-sun-0@weekendscout.app
+DTSTAMP:20261126T050908Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:WinterFest on the Wisconsin
+LOCATION:Nauticus\, 1 Waterside Dr\, Norfolk\, VA 23510
+DESCRIPTION:Holiday lights and festivities aboard the Battleship Wisconsin
+ \; kids 2 and under free. $23–$27 adults\, $21–$23 kids. Details: http
+ s://weekendscout.app/e/norfolk/winterfest-on-the-wisconsin-2026/
+URL:https://weekendscout.app/e/norfolk/winterfest-on-the-wisconsin-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:norfolk-skate-the-riverwalk-2026-fri-0@weekendscout.app
+DTSTAMP:20261126T050908Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Skate the Riverwalk
+LOCATION:Nauticus\, 1 Waterside Dr\, Norfolk\, VA 23510
+DESCRIPTION:An open-air real-ice rink on the downtown waterfront with fire
+  pits and holiday music\; opens Friday\, skate rental included. Tickets. D
+ etails: https://weekendscout.app/e/norfolk/skate-the-riverwalk-2026/
+URL:https://weekendscout.app/e/norfolk/skate-the-riverwalk-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:norfolk-skate-the-riverwalk-2026-sat-0@weekendscout.app
+DTSTAMP:20261126T050908Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Skate the Riverwalk
+LOCATION:Nauticus\, 1 Waterside Dr\, Norfolk\, VA 23510
+DESCRIPTION:An open-air real-ice rink on the downtown waterfront with fire
+  pits and holiday music\; opens Friday\, skate rental included. Tickets. D
+ etails: https://weekendscout.app/e/norfolk/skate-the-riverwalk-2026/
+URL:https://weekendscout.app/e/norfolk/skate-the-riverwalk-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:norfolk-skate-the-riverwalk-2026-sun-0@weekendscout.app
+DTSTAMP:20261126T050908Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Skate the Riverwalk
+LOCATION:Nauticus\, 1 Waterside Dr\, Norfolk\, VA 23510
+DESCRIPTION:An open-air real-ice rink on the downtown waterfront with fire
+  pits and holiday music\; opens Friday\, skate rental included. Tickets. D
+ etails: https://weekendscout.app/e/norfolk/skate-the-riverwalk-2026/
+URL:https://weekendscout.app/e/norfolk/skate-the-riverwalk-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:norfolk-emo-nite-norva-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T050908Z
+DTSTART:20261129T020000Z
+DTEND:20261129T040000Z
+SUMMARY:Emo Nite
+LOCATION:The NorVa\, 317 Monticello Ave\, Norfolk\, VA 23510
+DESCRIPTION:The touring emo and pop-punk dance party. Tickets. Details: ht
+ tps://weekendscout.app/e/norfolk/emo-nite-norva-2026-11-28/
+URL:https://weekendscout.app/e/norfolk/emo-nite-norva-2026-11-28/
 END:VEVENT
 END:VCALENDAR

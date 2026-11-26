@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:myrtle-beach-myrtle-beach-boardwalk-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -23,7 +23,7 @@ URL:https://weekendscout.app/e/myrtle-beach/myrtle-beach-boardwalk-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:myrtle-beach-myrtle-beach-boardwalk-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -37,7 +37,7 @@ URL:https://weekendscout.app/e/myrtle-beach/myrtle-beach-boardwalk-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:myrtle-beach-myrtle-beach-boardwalk-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -51,7 +51,7 @@ URL:https://weekendscout.app/e/myrtle-beach/myrtle-beach-boardwalk-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:myrtle-beach-the-carolina-opry-christmas-special-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART:20261127T180000Z
 DTEND:20261127T200000Z
 SUMMARY:The Carolina Opry Christmas Special
@@ -63,7 +63,7 @@ URL:https://weekendscout.app/e/myrtle-beach/the-carolina-opry-christmas-special-
 END:VEVENT
 BEGIN:VEVENT
 UID:myrtle-beach-the-carolina-opry-christmas-special-2026-11-fri-1@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART:20261128T000000Z
 DTEND:20261128T020000Z
 SUMMARY:The Carolina Opry Christmas Special
@@ -75,7 +75,7 @@ URL:https://weekendscout.app/e/myrtle-beach/the-carolina-opry-christmas-special-
 END:VEVENT
 BEGIN:VEVENT
 UID:myrtle-beach-the-carolina-opry-christmas-special-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART:20261129T000000Z
 DTEND:20261129T020000Z
 SUMMARY:The Carolina Opry Christmas Special
@@ -87,7 +87,7 @@ URL:https://weekendscout.app/e/myrtle-beach/the-carolina-opry-christmas-special-
 END:VEVENT
 BEGIN:VEVENT
 UID:myrtle-beach-winter-in-the-air-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART:20261127T210000Z
 DTEND:20261127T230000Z
 SUMMARY:Winter in the Air
@@ -99,7 +99,7 @@ URL:https://weekendscout.app/e/myrtle-beach/winter-in-the-air-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:myrtle-beach-winter-in-the-air-2026-11-fri-1@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART:20261128T000000Z
 DTEND:20261128T020000Z
 SUMMARY:Winter in the Air
@@ -111,7 +111,7 @@ URL:https://weekendscout.app/e/myrtle-beach/winter-in-the-air-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:myrtle-beach-winter-in-the-air-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART:20261128T210000Z
 DTEND:20261128T230000Z
 SUMMARY:Winter in the Air
@@ -123,7 +123,7 @@ URL:https://weekendscout.app/e/myrtle-beach/winter-in-the-air-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:myrtle-beach-winter-in-the-air-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART:20261129T000000Z
 DTEND:20261129T020000Z
 SUMMARY:Winter in the Air
@@ -135,7 +135,7 @@ URL:https://weekendscout.app/e/myrtle-beach/winter-in-the-air-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:myrtle-beach-winter-in-the-air-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART:20261129T210000Z
 DTEND:20261129T230000Z
 SUMMARY:Winter in the Air
@@ -147,7 +147,7 @@ URL:https://weekendscout.app/e/myrtle-beach/winter-in-the-air-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:myrtle-beach-richie-minervini-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART:20261128T000000Z
 DTEND:20261128T020000Z
 SUMMARY:Richie Minervini
@@ -158,7 +158,7 @@ URL:https://weekendscout.app/e/myrtle-beach/richie-minervini-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:myrtle-beach-richie-minervini-2026-11-fri-1@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART:20261128T020000Z
 DTEND:20261128T040000Z
 SUMMARY:Richie Minervini
@@ -169,7 +169,7 @@ URL:https://weekendscout.app/e/myrtle-beach/richie-minervini-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:myrtle-beach-richie-minervini-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART:20261129T000000Z
 DTEND:20261129T020000Z
 SUMMARY:Richie Minervini
@@ -180,7 +180,7 @@ URL:https://weekendscout.app/e/myrtle-beach/richie-minervini-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:myrtle-beach-richie-minervini-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART:20261129T020000Z
 DTEND:20261129T040000Z
 SUMMARY:Richie Minervini

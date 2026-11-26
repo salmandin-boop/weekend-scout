@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:trenton-palmer-square-tree-lighting-2026-fri-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART:20261127T220000Z
 DTEND:20261127T230000Z
 SUMMARY:Palmer Square Annual Tree Lighting
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/trenton/palmer-square-tree-lighting-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:trenton-nj-state-museum-thanksgiving-drop-in-2026-fri-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART:20261127T170000Z
 DTEND:20261127T200000Z
 SUMMARY:Thanksgiving Weekend Drop-in at the State Museum
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/trenton/nj-state-museum-thanksgiving-drop-in-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:trenton-nj-state-museum-thanksgiving-drop-in-2026-sat-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART:20261128T170000Z
 DTEND:20261128T200000Z
 SUMMARY:Thanksgiving Weekend Drop-in at the State Museum
@@ -48,7 +48,7 @@ URL:https://weekendscout.app/e/trenton/nj-state-museum-thanksgiving-drop-in-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:trenton-grounds-for-sculpture-holiday-artisan-market-2026-fri-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART:20261127T150000Z
 DTEND:20261127T220000Z
 SUMMARY:Grounds For Sculpture & Holiday Artisan Market
@@ -61,7 +61,7 @@ URL:https://weekendscout.app/e/trenton/grounds-for-sculpture-holiday-artisan-mar
 END:VEVENT
 BEGIN:VEVENT
 UID:trenton-grounds-for-sculpture-holiday-artisan-market-2026-sat-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART:20261128T150000Z
 DTEND:20261128T220000Z
 SUMMARY:Grounds For Sculpture & Holiday Artisan Market
@@ -74,7 +74,7 @@ URL:https://weekendscout.app/e/trenton/grounds-for-sculpture-holiday-artisan-mar
 END:VEVENT
 BEGIN:VEVENT
 UID:trenton-grounds-for-sculpture-holiday-artisan-market-2026-sun-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART:20261129T150000Z
 DTEND:20261129T220000Z
 SUMMARY:Grounds For Sculpture & Holiday Artisan Market
@@ -87,7 +87,7 @@ URL:https://weekendscout.app/e/trenton/grounds-for-sculpture-holiday-artisan-mar
 END:VEVENT
 BEGIN:VEVENT
 UID:trenton-descendants-musical-kelsey-2026-sat-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART:20261128T190000Z
 DTEND:20261128T210000Z
 SUMMARY:Disney's Descendants\, The Musical
@@ -99,7 +99,7 @@ URL:https://weekendscout.app/e/trenton/descendants-musical-kelsey-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:trenton-descendants-musical-kelsey-2026-sat-1@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART:20261129T010000Z
 DTEND:20261129T030000Z
 SUMMARY:Disney's Descendants\, The Musical
@@ -111,7 +111,7 @@ URL:https://weekendscout.app/e/trenton/descendants-musical-kelsey-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:trenton-descendants-musical-kelsey-2026-sun-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART:20261129T190000Z
 DTEND:20261129T210000Z
 SUMMARY:Disney's Descendants\, The Musical
@@ -123,7 +123,7 @@ URL:https://weekendscout.app/e/trenton/descendants-musical-kelsey-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:trenton-trenton-ironhawks-hockey-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART:20261128T000000Z
 DTEND:20261128T020000Z
 SUMMARY:Trenton Ironhawks vs. Trois-Rivières Lions
@@ -135,7 +135,7 @@ URL:https://weekendscout.app/e/trenton/trenton-ironhawks-hockey-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:trenton-trenton-ironhawks-reading-2026-11-29-sun-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART:20261129T200000Z
 DTEND:20261129T220000Z
 SUMMARY:Trenton Ironhawks vs. Reading Royals
@@ -146,7 +146,7 @@ URL:https://weekendscout.app/e/trenton/trenton-ironhawks-reading-2026-11-29/
 END:VEVENT
 BEGIN:VEVENT
 UID:trenton-cadwalader-park-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -159,7 +159,7 @@ URL:https://weekendscout.app/e/trenton/cadwalader-park-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:trenton-cadwalader-park-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -172,7 +172,7 @@ URL:https://weekendscout.app/e/trenton/cadwalader-park-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:trenton-cadwalader-park-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT

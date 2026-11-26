@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:naples-naples-pier-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -21,7 +21,7 @@ URL:https://weekendscout.app/e/naples/naples-pier-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:naples-naples-pier-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -33,7 +33,7 @@ URL:https://weekendscout.app/e/naples/naples-pier-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:naples-naples-pier-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -45,7 +45,7 @@ URL:https://weekendscout.app/e/naples/naples-pier-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:naples-third-street-south-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -58,7 +58,7 @@ URL:https://weekendscout.app/e/naples/third-street-south-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:naples-third-street-south-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -71,7 +71,7 @@ URL:https://weekendscout.app/e/naples/third-street-south-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:naples-third-street-south-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -84,7 +84,7 @@ URL:https://weekendscout.app/e/naples/third-street-south-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:naples-hamilton-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART:20261128T003000Z
 DTEND:20261128T023000Z
 SUMMARY:Hamilton
@@ -95,7 +95,7 @@ URL:https://weekendscout.app/e/naples/hamilton-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:naples-hamilton-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART:20261128T183000Z
 DTEND:20261128T203000Z
 SUMMARY:Hamilton
@@ -106,7 +106,7 @@ URL:https://weekendscout.app/e/naples/hamilton-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:naples-hamilton-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART:20261129T003000Z
 DTEND:20261129T023000Z
 SUMMARY:Hamilton
@@ -117,7 +117,7 @@ URL:https://weekendscout.app/e/naples/hamilton-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:naples-hamilton-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART:20261129T183000Z
 DTEND:20261129T203000Z
 SUMMARY:Hamilton
@@ -128,7 +128,7 @@ URL:https://weekendscout.app/e/naples/hamilton-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:naples-hamilton-2026-11-sun-1@weekendscout.app
-DTSTAMP:20261126T043819Z
+DTSTAMP:20261126T050908Z
 DTSTART:20261130T003000Z
 DTEND:20261130T023000Z
 SUMMARY:Hamilton
@@ -136,5 +136,72 @@ LOCATION:Artis—Naples\, 5833 Pelican Bay Blvd\, Naples\, FL 34108
 DESCRIPTION:The Broadway tour\, five shows this weekend. Tickets. Details:
   https://weekendscout.app/e/naples/hamilton-2026-11/
 URL:https://weekendscout.app/e/naples/hamilton-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:naples-night-lights-in-the-garden-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T050908Z
+DTSTART:20261127T230000Z
+DTEND:20261128T030000Z
+SUMMARY:Johnsonville Night Lights in the Garden
+LOCATION:Naples Botanical Garden\, 4820 Bayshore Dr\, Naples\, FL 34112
+DESCRIPTION:The garden glows with holiday lights\, live music and festive 
+ food and drink\; opening weekend of a run through Jan 3. Late-night ticket
+ s (7:45 p.m. and later) cost less. Adults $36\, kids 4–17 $18 (late-nigh
+ t from $12). Details: https://weekendscout.app/e/naples/night-lights-in-th
+ e-garden-2026-11/
+URL:https://weekendscout.app/e/naples/night-lights-in-the-garden-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:naples-night-lights-in-the-garden-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T050908Z
+DTSTART:20261128T230000Z
+DTEND:20261129T030000Z
+SUMMARY:Johnsonville Night Lights in the Garden
+LOCATION:Naples Botanical Garden\, 4820 Bayshore Dr\, Naples\, FL 34112
+DESCRIPTION:The garden glows with holiday lights\, live music and festive 
+ food and drink\; opening weekend of a run through Jan 3. Late-night ticket
+ s (7:45 p.m. and later) cost less. Adults $36\, kids 4–17 $18 (late-nigh
+ t from $12). Details: https://weekendscout.app/e/naples/night-lights-in-th
+ e-garden-2026-11/
+URL:https://weekendscout.app/e/naples/night-lights-in-the-garden-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:naples-night-lights-in-the-garden-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T050908Z
+DTSTART:20261129T230000Z
+DTEND:20261130T020000Z
+SUMMARY:Johnsonville Night Lights in the Garden
+LOCATION:Naples Botanical Garden\, 4820 Bayshore Dr\, Naples\, FL 34112
+DESCRIPTION:The garden glows with holiday lights\, live music and festive 
+ food and drink\; opening weekend of a run through Jan 3. Late-night ticket
+ s (7:45 p.m. and later) cost less. Adults $36\, kids 4–17 $18 (late-nigh
+ t from $12). Details: https://weekendscout.app/e/naples/night-lights-in-th
+ e-garden-2026-11/
+URL:https://weekendscout.app/e/naples/night-lights-in-the-garden-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:naples-wonder-in-the-garden-2026-11-29-sun-0@weekendscout.app
+DTSTAMP:20261126T050908Z
+DTSTART:20261129T150000Z
+DTEND:20261129T170000Z
+SUMMARY:W.O.N.D.E.R. in the Garden
+LOCATION:Naples Botanical Garden\, 4820 Bayshore Dr\, Naples\, FL 34112
+DESCRIPTION:A drop-in family program on the Hoffmann Lawn in Wonder Circle
+ \; no registration needed. Included with admission (adults $27\, kids $12)
+ . Details: https://weekendscout.app/e/naples/wonder-in-the-garden-2026-11-
+ 29/
+URL:https://weekendscout.app/e/naples/wonder-in-the-garden-2026-11-29/
+END:VEVENT
+BEGIN:VEVENT
+UID:naples-eric-dalessandro-naples-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T050908Z
+DTSTART:20261127T233000Z
+DTEND:20261128T013000Z
+SUMMARY:Eric D'Alessandro
+LOCATION:Off the Hook Comedy Club\, Naples\, FL
+DESCRIPTION:Stand-up from the New York comedian on Thanksgiving weekend. $
+ 10–$40. Details: https://weekendscout.app/e/naples/eric-dalessandro-napl
+ es-2026-11-27/
+URL:https://weekendscout.app/e/naples/eric-dalessandro-naples-2026-11-27/
 END:VEVENT
 END:VCALENDAR
