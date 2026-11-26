@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:annapolis-city-dock-ego-alley-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/annapolis/city-dock-ego-alley-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:annapolis-city-dock-ego-alley-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/annapolis/city-dock-ego-alley-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:annapolis-city-dock-ego-alley-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -48,7 +48,7 @@ URL:https://weekendscout.app/e/annapolis/city-dock-ego-alley-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:annapolis-maryland-state-house-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -61,7 +61,7 @@ URL:https://weekendscout.app/e/annapolis/maryland-state-house-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:annapolis-maryland-state-house-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -74,7 +74,7 @@ URL:https://weekendscout.app/e/annapolis/maryland-state-house-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:annapolis-irving-berlin-s-holiday-inn-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261128T010000Z
 DTEND:20261128T030000Z
 SUMMARY:Irving Berlin’s Holiday Inn
@@ -86,7 +86,7 @@ URL:https://weekendscout.app/e/annapolis/irving-berlin-s-holiday-inn-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:annapolis-irving-berlin-s-holiday-inn-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261128T190000Z
 DTEND:20261128T210000Z
 SUMMARY:Irving Berlin’s Holiday Inn
@@ -98,7 +98,7 @@ URL:https://weekendscout.app/e/annapolis/irving-berlin-s-holiday-inn-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:annapolis-irving-berlin-s-holiday-inn-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261129T010000Z
 DTEND:20261129T030000Z
 SUMMARY:Irving Berlin’s Holiday Inn
@@ -110,7 +110,7 @@ URL:https://weekendscout.app/e/annapolis/irving-berlin-s-holiday-inn-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:annapolis-irving-berlin-s-holiday-inn-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261129T190000Z
 DTEND:20261129T210000Z
 SUMMARY:Irving Berlin’s Holiday Inn

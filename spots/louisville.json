@@ -1,6 +1,6 @@
 {
   "city": "louisville",
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "source": "Dinner picks from OpenTable's Louisville date-night and 'restaurants near' lists (2026) plus hotel dining pages (Brown Hotel, Galt House); drinks from Go To Louisville and Wikipedia (Galt House); lunch from the Brown Hotel dining page and osf.com. Coordinates from OpenTable page metadata (Lobby Bar & Grill, La Bodeguita de Mima, Volare), Wikipedia (Galt House, Seelbach, Brown Hotel, sights) and the Wikipedia NRHP list for Downtown Louisville by street address (Vincenzo's 150 S 5th St, Old Spaghetti Factory 235 W Market St); Derby Museum uses Churchill Downs' coordinates (Nov 2026).",
   "spots": [
     {
@@ -82,7 +82,9 @@
       "area": "Downtown (Museum Row)",
       "price": "Tickets",
       "blurb": "Bat factory tours and baseball museum",
-      "blurbEs": "Fábrica de bates y museo de béisbol"
+      "blurbEs": "Fábrica de bates y museo de béisbol",
+      "lat": 38.25714,
+      "lon": -85.76358
     },
     {
       "name": "Muhammad Ali Center",

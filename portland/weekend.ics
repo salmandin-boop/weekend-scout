@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:portland-pioneer-square-tree-lighting-fri-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261128T013000Z
 DTEND:20261128T024500Z
 SUMMARY:42nd Annual Tree Lighting Ceremony
@@ -21,7 +21,7 @@ URL:https://weekendscout.app/e/portland/pioneer-square-tree-lighting/
 END:VEVENT
 BEGIN:VEVENT
 UID:portland-get-a-life-marching-band-square-sat-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261129T010000Z
 DTEND:20261129T020000Z
 SUMMARY:Get A Life Marching Band: Holiday Performances at The Square
@@ -33,7 +33,7 @@ URL:https://weekendscout.app/e/portland/get-a-life-marching-band-square/
 END:VEVENT
 BEGIN:VEVENT
 UID:portland-blazers-warriors-fri-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261128T023000Z
 DTEND:20261128T043000Z
 SUMMARY:Trail Blazers vs. Warriors
@@ -44,7 +44,7 @@ URL:https://weekendscout.app/e/portland/blazers-warriors/
 END:VEVENT
 BEGIN:VEVENT
 UID:portland-blazers-pelicans-sun-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261129T230000Z
 DTEND:20261130T010000Z
 SUMMARY:Trail Blazers vs. Pelicans
@@ -55,7 +55,7 @@ URL:https://weekendscout.app/e/portland/blazers-pelicans/
 END:VEVENT
 BEGIN:VEVENT
 UID:portland-oregon-zoo-zoolights-fri-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261128T003000Z
 DTEND:20261128T060000Z
 SUMMARY:ZooLights
@@ -68,7 +68,7 @@ URL:https://weekendscout.app/e/portland/oregon-zoo-zoolights/
 END:VEVENT
 BEGIN:VEVENT
 UID:portland-oregon-zoo-zoolights-sat-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261129T003000Z
 DTEND:20261129T060000Z
 SUMMARY:ZooLights
@@ -81,7 +81,7 @@ URL:https://weekendscout.app/e/portland/oregon-zoo-zoolights/
 END:VEVENT
 BEGIN:VEVENT
 UID:portland-oregon-zoo-zoolights-sun-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261130T003000Z
 DTEND:20261130T050000Z
 SUMMARY:ZooLights
@@ -94,7 +94,7 @@ URL:https://weekendscout.app/e/portland/oregon-zoo-zoolights/
 END:VEVENT
 BEGIN:VEVENT
 UID:portland-oregon-symphony-hans-zimmer-sat-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261129T033000Z
 DTEND:20261129T053000Z
 SUMMARY:Oregon Symphony: Music of Hans Zimmer
@@ -108,7 +108,7 @@ URL:https://weekendscout.app/e/portland/oregon-symphony-hans-zimmer/
 END:VEVENT
 BEGIN:VEVENT
 UID:portland-oregon-symphony-hans-zimmer-sun-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261129T220000Z
 DTEND:20261130T000000Z
 SUMMARY:Oregon Symphony: Music of Hans Zimmer
@@ -122,7 +122,7 @@ URL:https://weekendscout.app/e/portland/oregon-symphony-hans-zimmer/
 END:VEVENT
 BEGIN:VEVENT
 UID:portland-pcs-little-shop-of-horrors-fri-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261128T033000Z
 DTEND:20261128T053000Z
 SUMMARY:Little Shop of Horrors
@@ -136,7 +136,7 @@ URL:https://weekendscout.app/e/portland/pcs-little-shop-of-horrors/
 END:VEVENT
 BEGIN:VEVENT
 UID:portland-pcs-little-shop-of-horrors-sat-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261128T220000Z
 DTEND:20261129T000000Z
 SUMMARY:Little Shop of Horrors
@@ -150,7 +150,7 @@ URL:https://weekendscout.app/e/portland/pcs-little-shop-of-horrors/
 END:VEVENT
 BEGIN:VEVENT
 UID:portland-pcs-little-shop-of-horrors-sat-1@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261129T033000Z
 DTEND:20261129T053000Z
 SUMMARY:Little Shop of Horrors
@@ -164,7 +164,7 @@ URL:https://weekendscout.app/e/portland/pcs-little-shop-of-horrors/
 END:VEVENT
 BEGIN:VEVENT
 UID:portland-pcs-little-shop-of-horrors-sun-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261129T220000Z
 DTEND:20261130T000000Z
 SUMMARY:Little Shop of Horrors
@@ -178,7 +178,7 @@ URL:https://weekendscout.app/e/portland/pcs-little-shop-of-horrors/
 END:VEVENT
 BEGIN:VEVENT
 UID:portland-crystal-ballroom-holiday-bazaar-brewfest-sat-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261128T210000Z
 DTEND:20261129T030000Z
 SUMMARY:Holiday Bazaar Brewfest
@@ -192,7 +192,7 @@ URL:https://weekendscout.app/e/portland/crystal-ballroom-holiday-bazaar-brewfest
 END:VEVENT
 BEGIN:VEVENT
 UID:portland-grotto-christmas-festival-of-lights-fri-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261128T010000Z
 DTEND:20261128T053000Z
 SUMMARY:Christmas Festival of Lights
@@ -206,7 +206,7 @@ URL:https://weekendscout.app/e/portland/grotto-christmas-festival-of-lights/
 END:VEVENT
 BEGIN:VEVENT
 UID:portland-grotto-christmas-festival-of-lights-sat-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261129T010000Z
 DTEND:20261129T053000Z
 SUMMARY:Christmas Festival of Lights
@@ -220,7 +220,7 @@ URL:https://weekendscout.app/e/portland/grotto-christmas-festival-of-lights/
 END:VEVENT
 BEGIN:VEVENT
 UID:portland-grotto-christmas-festival-of-lights-sun-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261130T010000Z
 DTEND:20261130T053000Z
 SUMMARY:Christmas Festival of Lights
@@ -234,7 +234,7 @@ URL:https://weekendscout.app/e/portland/grotto-christmas-festival-of-lights/
 END:VEVENT
 BEGIN:VEVENT
 UID:portland-winterhawks-silvertips-sat-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261129T020000Z
 DTEND:20261129T040000Z
 SUMMARY:Winterhawks vs. Everett Silvertips
@@ -247,7 +247,7 @@ URL:https://weekendscout.app/e/portland/winterhawks-silvertips/
 END:VEVENT
 BEGIN:VEVENT
 UID:portland-pittock-home-for-the-holidays-fri-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261127T170000Z
 DTEND:20261128T000000Z
 SUMMARY:Pittock Mansion: Home for the Holidays
@@ -260,7 +260,7 @@ URL:https://weekendscout.app/e/portland/pittock-home-for-the-holidays/
 END:VEVENT
 BEGIN:VEVENT
 UID:portland-pittock-home-for-the-holidays-sat-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261128T170000Z
 DTEND:20261129T000000Z
 SUMMARY:Pittock Mansion: Home for the Holidays
@@ -273,7 +273,7 @@ URL:https://weekendscout.app/e/portland/pittock-home-for-the-holidays/
 END:VEVENT
 BEGIN:VEVENT
 UID:portland-pittock-home-for-the-holidays-sun-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261129T170000Z
 DTEND:20261130T000000Z
 SUMMARY:Pittock Mansion: Home for the Holidays

@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:fort-worth-fort-worth-herd-cattle-drive-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261127T173000Z
 DTEND:20261127T193000Z
 SUMMARY:Fort Worth Herd Cattle Drive
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/fort-worth/fort-worth-herd-cattle-drive-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fort-worth-fort-worth-herd-cattle-drive-2026-11-fri-1@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261127T220000Z
 DTEND:20261128T000000Z
 SUMMARY:Fort Worth Herd Cattle Drive
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/fort-worth/fort-worth-herd-cattle-drive-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fort-worth-fort-worth-herd-cattle-drive-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261128T173000Z
 DTEND:20261128T193000Z
 SUMMARY:Fort Worth Herd Cattle Drive
@@ -48,7 +48,7 @@ URL:https://weekendscout.app/e/fort-worth/fort-worth-herd-cattle-drive-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fort-worth-fort-worth-herd-cattle-drive-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261128T220000Z
 DTEND:20261129T000000Z
 SUMMARY:Fort Worth Herd Cattle Drive
@@ -61,7 +61,7 @@ URL:https://weekendscout.app/e/fort-worth/fort-worth-herd-cattle-drive-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fort-worth-fort-worth-herd-cattle-drive-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261129T173000Z
 DTEND:20261129T193000Z
 SUMMARY:Fort Worth Herd Cattle Drive
@@ -74,7 +74,7 @@ URL:https://weekendscout.app/e/fort-worth/fort-worth-herd-cattle-drive-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fort-worth-fort-worth-herd-cattle-drive-2026-11-sun-1@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261129T220000Z
 DTEND:20261130T000000Z
 SUMMARY:Fort Worth Herd Cattle Drive
@@ -87,7 +87,7 @@ URL:https://weekendscout.app/e/fort-worth/fort-worth-herd-cattle-drive-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fort-worth-stockyards-championship-rodeo-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261127T193000Z
 DTEND:20261127T213000Z
 SUMMARY:Stockyards Championship Rodeo
@@ -99,7 +99,7 @@ URL:https://weekendscout.app/e/fort-worth/stockyards-championship-rodeo-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fort-worth-stockyards-championship-rodeo-2026-11-fri-1@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261128T013000Z
 DTEND:20261128T033000Z
 SUMMARY:Stockyards Championship Rodeo
@@ -111,7 +111,7 @@ URL:https://weekendscout.app/e/fort-worth/stockyards-championship-rodeo-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fort-worth-stockyards-championship-rodeo-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261128T193000Z
 DTEND:20261128T213000Z
 SUMMARY:Stockyards Championship Rodeo
@@ -123,7 +123,7 @@ URL:https://weekendscout.app/e/fort-worth/stockyards-championship-rodeo-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fort-worth-stockyards-championship-rodeo-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261129T013000Z
 DTEND:20261129T033000Z
 SUMMARY:Stockyards Championship Rodeo
@@ -135,7 +135,7 @@ URL:https://weekendscout.app/e/fort-worth/stockyards-championship-rodeo-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fort-worth-stockyards-championship-rodeo-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261129T193000Z
 DTEND:20261129T213000Z
 SUMMARY:Stockyards Championship Rodeo
@@ -147,7 +147,7 @@ URL:https://weekendscout.app/e/fort-worth/stockyards-championship-rodeo-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fort-worth-a-christmas-carol-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261127T210000Z
 DTEND:20261127T230000Z
 SUMMARY:A Christmas Carol
@@ -159,7 +159,7 @@ URL:https://weekendscout.app/e/fort-worth/a-christmas-carol-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fort-worth-a-christmas-carol-2026-11-fri-1@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261128T010000Z
 DTEND:20261128T030000Z
 SUMMARY:A Christmas Carol
@@ -171,7 +171,7 @@ URL:https://weekendscout.app/e/fort-worth/a-christmas-carol-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fort-worth-a-christmas-carol-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261128T190000Z
 DTEND:20261128T210000Z
 SUMMARY:A Christmas Carol
@@ -183,7 +183,7 @@ URL:https://weekendscout.app/e/fort-worth/a-christmas-carol-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fort-worth-a-christmas-carol-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261128T230000Z
 DTEND:20261129T010000Z
 SUMMARY:A Christmas Carol
@@ -195,7 +195,7 @@ URL:https://weekendscout.app/e/fort-worth/a-christmas-carol-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fort-worth-a-christmas-carol-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261129T170000Z
 DTEND:20261129T190000Z
 SUMMARY:A Christmas Carol
@@ -207,7 +207,7 @@ URL:https://weekendscout.app/e/fort-worth/a-christmas-carol-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fort-worth-a-christmas-carol-2026-11-sun-1@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261129T210000Z
 DTEND:20261129T230000Z
 SUMMARY:A Christmas Carol

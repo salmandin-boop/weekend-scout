@@ -1,7 +1,7 @@
 {
   "city": "richmond",
-  "updated": "2026-11-24",
-  "source": "Dinner, lunch and drinks picks from OpenTable's Richmond lists (Diners' Choice, Best Restaurants in Richmond, Best Bars for Foodies, updated 2026) and Visit Richmond's 2026 accolades; their coordinates from each restaurant's OpenTable page metadata, Nov 2026. Sights from official sites (Lewis Ginter, VMFA, Science Museum of Virginia, Maymont); Lewis Ginter coordinates from its official page, VMFA, Science Museum and Maymont coordinates from Wikipedia.",
+  "updated": "2026-11-25",
+  "source": "Dinner, lunch and drinks picks from OpenTable's Richmond lists (Diners' Choice, Best Restaurants in Richmond, Best Bars for Foodies, updated 2026) and Visit Richmond's 2026 accolades; their coordinates from each restaurant's OpenTable page metadata, Nov 2026. Sights from official sites (Lewis Ginter, VMFA, Science Museum of Virginia, Maymont); Lewis Ginter coordinates from its official page, VMFA, Science Museum and Maymont coordinates from Wikipedia. Nov 25, 2026: added West Coast Provisions and The Wine Whisperer (OpenTable ratings and coordinates).",
   "spots": [
     {
       "name": "Lemaire",
@@ -118,6 +118,22 @@
       "price": "Free",
       "blurb": "Historic estate and park; mansion decorated for the holidays ($12 self-guided)",
       "blurbEs": "Finca histórica y parque; mansión decorada para las fiestas ($12 visita libre)"
+    },
+    {
+      "name": "West Coast Provisions",
+      "kind": "dinner",
+      "cuisine": "Modern American, seafood & sushi",
+      "area": "Short Pump (GreenGate)",
+      "lat": 37.65894,
+      "lon": -77.63728
+    },
+    {
+      "name": "The Wine Whisperer",
+      "kind": "drinks",
+      "cuisine": "Wine bar & bistro",
+      "area": "Short Pump (W Broad St)",
+      "lat": 37.65074,
+      "lon": -77.61361
     }
   ]
 }

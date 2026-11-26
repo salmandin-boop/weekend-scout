@@ -1,7 +1,7 @@
 {
   "city": "milwaukee",
-  "updated": "2026-11-24",
-  "source": "Dinner, lunch and drinks picks from The Infatuation's 'Best Restaurants in Milwaukee' guide (updated Sep 2026); coordinates (Nov 2026) from latlong.net (Lupi & Iris, Milwaukee Public Market, Milwaukee Art Museum), Wikipedia (Milwaukee County Zoo; Discovery World, Harley-Davidson Museum and Lake Park via artwork coordinates in Wikipedia's List of public art in Milwaukee). Restaurants without lat/lon could not be geolocated from a source this pass.",
+  "updated": "2026-11-25",
+  "source": "Dinner, lunch and drinks picks from The Infatuation's 'Best Restaurants in Milwaukee' guide (updated Sep 2026); coordinates (Nov 2026) from latlong.net (Lupi & Iris, Milwaukee Public Market, Milwaukee Art Museum), Wikipedia (Milwaukee County Zoo; Discovery World, Harley-Davidson Museum and Lake Park via artwork coordinates in Wikipedia's List of public art in Milwaukee). Restaurants without lat/lon could not be geolocated from a source this pass. Nov 25, 2026: coordinates for the remaining restaurants from OpenTable page metadata and latlong.net; added Blu at the Pfister (OnMilwaukee, Urban Milwaukee) and The Outsider (Milwaukee Magazine).",
   "spots": [
     {
       "name": "Lupi & Iris",
@@ -15,25 +15,33 @@
       "name": "Amilinda",
       "kind": "dinner",
       "cuisine": "Spanish",
-      "area": "Downtown"
+      "area": "Downtown",
+      "lat": 43.03861,
+      "lon": -87.90721
     },
     {
       "name": "Mader's Restaurant",
       "kind": "dinner",
       "cuisine": "German",
-      "area": "Downtown"
+      "area": "Downtown",
+      "lat": 43.04391,
+      "lon": -87.91487
     },
     {
       "name": "Dan Dan",
       "kind": "dinner",
       "cuisine": "Chinese",
-      "area": "Third Ward"
+      "area": "Third Ward",
+      "lat": 43.03003,
+      "lon": -87.90533
     },
     {
       "name": "Sanford Restaurant",
       "kind": "dinner",
       "cuisine": "American",
-      "area": "East Side"
+      "area": "East Side",
+      "lat": 43.05044,
+      "lon": -87.905
     },
     {
       "name": "St. Paul Fish Company (Milwaukee Public Market)",
@@ -47,19 +55,25 @@
       "name": "Zaffiro's Pizza & Bar",
       "kind": "lunch",
       "cuisine": "Pizza",
-      "area": "East Side"
+      "area": "East Side",
+      "lat": 43.05334,
+      "lon": -87.89174
     },
     {
       "name": "Momo Mee",
       "kind": "drinks",
       "cuisine": "Cocktails",
-      "area": "Walker's Point"
+      "area": "Walker's Point",
+      "lat": 43.0173,
+      "lon": -87.91071
     },
     {
       "name": "Goodkind",
       "kind": "drinks",
       "cuisine": "Cocktails",
-      "area": "Bay View"
+      "area": "Bay View",
+      "lat": 42.99959,
+      "lon": -87.89166
     },
     {
       "name": "Milwaukee Art Museum",
@@ -126,6 +140,22 @@
       "price": "Free",
       "blurb": "Olmsted-designed park on the bluffs above Lake Michigan",
       "blurbEs": "Parque diseñado por Olmsted sobre los acantilados del lago Michigan"
+    },
+    {
+      "name": "Blu at the Pfister",
+      "kind": "drinks",
+      "cuisine": "Cocktail lounge",
+      "area": "Downtown (Pfister Hotel, 23rd floor)",
+      "lat": 43.03913,
+      "lon": -87.90578
+    },
+    {
+      "name": "The Outsider",
+      "kind": "drinks",
+      "cuisine": "Rooftop cocktail bar",
+      "area": "Historic Third Ward (Kimpton Journeyman)",
+      "lat": 43.03297,
+      "lon": -87.90674
     }
   ]
 }

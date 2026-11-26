@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:knoxville-regal-celebration-of-lights-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261127T221500Z
 DTEND:20261128T020000Z
 SUMMARY:Regal Celebration of Lights
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/knoxville/regal-celebration-of-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:knoxville-death-becomes-her-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261127T190000Z
 DTEND:20261127T210000Z
 SUMMARY:Death Becomes Her
@@ -34,7 +34,7 @@ URL:https://weekendscout.app/e/knoxville/death-becomes-her-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:knoxville-death-becomes-her-2026-11-fri-1@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261128T010000Z
 DTEND:20261128T030000Z
 SUMMARY:Death Becomes Her
@@ -46,7 +46,7 @@ URL:https://weekendscout.app/e/knoxville/death-becomes-her-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:knoxville-death-becomes-her-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261128T190000Z
 DTEND:20261128T210000Z
 SUMMARY:Death Becomes Her
@@ -58,7 +58,7 @@ URL:https://weekendscout.app/e/knoxville/death-becomes-her-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:knoxville-death-becomes-her-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261129T010000Z
 DTEND:20261129T030000Z
 SUMMARY:Death Becomes Her
@@ -70,7 +70,7 @@ URL:https://weekendscout.app/e/knoxville/death-becomes-her-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:knoxville-death-becomes-her-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261129T183000Z
 DTEND:20261129T203000Z
 SUMMARY:Death Becomes Her
@@ -82,7 +82,7 @@ URL:https://weekendscout.app/e/knoxville/death-becomes-her-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:knoxville-death-becomes-her-2026-11-sun-1@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261130T000000Z
 DTEND:20261130T020000Z
 SUMMARY:Death Becomes Her
@@ -94,7 +94,7 @@ URL:https://weekendscout.app/e/knoxville/death-becomes-her-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:knoxville-a-christmas-carol-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261128T003000Z
 DTEND:20261128T023000Z
 SUMMARY:A Christmas Carol
@@ -107,7 +107,7 @@ URL:https://weekendscout.app/e/knoxville/a-christmas-carol-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:knoxville-a-christmas-carol-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261129T003000Z
 DTEND:20261129T023000Z
 SUMMARY:A Christmas Carol
@@ -120,7 +120,7 @@ URL:https://weekendscout.app/e/knoxville/a-christmas-carol-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:knoxville-a-christmas-carol-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261129T190000Z
 DTEND:20261129T210000Z
 SUMMARY:A Christmas Carol
@@ -133,7 +133,7 @@ URL:https://weekendscout.app/e/knoxville/a-christmas-carol-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:knoxville-knoxville-ice-bears-vs-athens-rock-lobsters-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261127T230000Z
 DTEND:20261128T010000Z
 SUMMARY:Knoxville Ice Bears vs. Athens Rock Lobsters
@@ -145,7 +145,7 @@ URL:https://weekendscout.app/e/knoxville/knoxville-ice-bears-vs-athens-rock-lobs
 END:VEVENT
 BEGIN:VEVENT
 UID:knoxville-knoxville-symphony-how-the-grinch-stole-christmas-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261129T200000Z
 DTEND:20261129T220000Z
 SUMMARY:Knoxville Symphony: How the Grinch Stole Christmas

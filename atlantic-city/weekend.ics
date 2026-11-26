@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:atlantic-city-atlantic-city-boardwalk-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/atlantic-city/atlantic-city-boardwalk-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:atlantic-city-atlantic-city-boardwalk-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/atlantic-city/atlantic-city-boardwalk-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:atlantic-city-atlantic-city-boardwalk-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -48,7 +48,7 @@ URL:https://weekendscout.app/e/atlantic-city/atlantic-city-boardwalk-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:atlantic-city-kem-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261128T010000Z
 DTEND:20261128T030000Z
 SUMMARY:Kem
@@ -59,7 +59,7 @@ URL:https://weekendscout.app/e/atlantic-city/kem-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:atlantic-city-chris-isaak-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261128T010000Z
 DTEND:20261128T030000Z
 SUMMARY:Chris Isaak
@@ -70,7 +70,7 @@ URL:https://weekendscout.app/e/atlantic-city/chris-isaak-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:atlantic-city-the-temptations-and-the-four-tops-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261128T020000Z
 DTEND:20261128T040000Z
 SUMMARY:The Temptations and The Four Tops
@@ -82,7 +82,7 @@ URL:https://weekendscout.app/e/atlantic-city/the-temptations-and-the-four-tops-2
 END:VEVENT
 BEGIN:VEVENT
 UID:atlantic-city-a-magical-cirque-christmas-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261129T010000Z
 DTEND:20261129T030000Z
 SUMMARY:A Magical Cirque Christmas
@@ -93,7 +93,7 @@ URL:https://weekendscout.app/e/atlantic-city/a-magical-cirque-christmas-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:atlantic-city-jason-bonham-s-led-zeppelin-evening-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261125T222212Z
+DTSTAMP:20261126T000057Z
 DTSTART:20261129T010000Z
 DTEND:20261129T030000Z
 SUMMARY:Jason Bonham’s Led Zeppelin Evening
