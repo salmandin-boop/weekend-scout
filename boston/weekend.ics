@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:boston-bruins-maple-leafs-black-friday-fri-0@weekendscout.app
-DTSTAMP:20261126T070715Z
+DTSTAMP:20261126T074048Z
 DTSTART:20261127T180000Z
 DTEND:20261127T200000Z
 SUMMARY:Bruins vs. Maple Leafs
@@ -21,7 +21,7 @@ URL:https://weekendscout.app/e/boston/bruins-maple-leafs-black-friday/
 END:VEVENT
 BEGIN:VEVENT
 UID:boston-celtics-hawks-nba-cup-fri-0@weekendscout.app
-DTSTAMP:20261126T070715Z
+DTSTAMP:20261126T074048Z
 DTSTART:20261128T010000Z
 DTEND:20261128T030000Z
 SUMMARY:Celtics vs. Hawks (NBA Cup)
@@ -33,7 +33,7 @@ URL:https://weekendscout.app/e/boston/celtics-hawks-nba-cup/
 END:VEVENT
 BEGIN:VEVENT
 UID:boston-boston-ballet-nutcracker-fri-0@weekendscout.app
-DTSTAMP:20261126T070715Z
+DTSTAMP:20261126T074048Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -46,7 +46,7 @@ URL:https://weekendscout.app/e/boston/boston-ballet-nutcracker/
 END:VEVENT
 BEGIN:VEVENT
 UID:boston-boston-ballet-nutcracker-sat-0@weekendscout.app
-DTSTAMP:20261126T070715Z
+DTSTAMP:20261126T074048Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -59,7 +59,7 @@ URL:https://weekendscout.app/e/boston/boston-ballet-nutcracker/
 END:VEVENT
 BEGIN:VEVENT
 UID:boston-boston-ballet-nutcracker-sun-0@weekendscout.app
-DTSTAMP:20261126T070715Z
+DTSTAMP:20261126T074048Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -72,7 +72,7 @@ URL:https://weekendscout.app/e/boston/boston-ballet-nutcracker/
 END:VEVENT
 BEGIN:VEVENT
 UID:boston-peter-wolf-shubert-sat-0@weekendscout.app
-DTSTAMP:20261126T070715Z
+DTSTAMP:20261126T074048Z
 DTSTART:20261129T010000Z
 DTEND:20261129T030000Z
 SUMMARY:Peter Wolf and the Midnight Travelers
@@ -85,7 +85,7 @@ URL:https://weekendscout.app/e/boston/peter-wolf-shubert/
 END:VEVENT
 BEGIN:VEVENT
 UID:boston-jinkx-dela-holiday-show-sat-0@weekendscout.app
-DTSTAMP:20261126T070715Z
+DTSTAMP:20261126T074048Z
 DTSTART:20261129T010000Z
 DTEND:20261129T030000Z
 SUMMARY:The Jinkx & DeLa Holiday Show
@@ -97,7 +97,7 @@ URL:https://weekendscout.app/e/boston/jinkx-dela-holiday-show/
 END:VEVENT
 BEGIN:VEVENT
 UID:boston-martins-park-ship-lighting-sat-0@weekendscout.app
-DTSTAMP:20261126T070715Z
+DTSTAMP:20261126T074048Z
 DTSTART:20261128T220000Z
 DTEND:20261128T230000Z
 SUMMARY:Holiday Ship Lighting at Martin's Park
@@ -109,7 +109,7 @@ URL:https://weekendscout.app/e/boston/martins-park-ship-lighting/
 END:VEVENT
 BEGIN:VEVENT
 UID:boston-snowport-holiday-market-fri-0@weekendscout.app
-DTSTAMP:20261126T070715Z
+DTSTAMP:20261126T074048Z
 DTSTART:20261127T160000Z
 DTEND:20261128T020000Z
 SUMMARY:Snowport Holiday Market
@@ -121,7 +121,7 @@ URL:https://weekendscout.app/e/boston/snowport-holiday-market/
 END:VEVENT
 BEGIN:VEVENT
 UID:boston-snowport-holiday-market-sat-0@weekendscout.app
-DTSTAMP:20261126T070715Z
+DTSTAMP:20261126T074048Z
 DTSTART:20261128T150000Z
 DTEND:20261129T020000Z
 SUMMARY:Snowport Holiday Market
@@ -133,7 +133,7 @@ URL:https://weekendscout.app/e/boston/snowport-holiday-market/
 END:VEVENT
 BEGIN:VEVENT
 UID:boston-snowport-holiday-market-sun-0@weekendscout.app
-DTSTAMP:20261126T070715Z
+DTSTAMP:20261126T074048Z
 DTSTART:20261129T160000Z
 DTEND:20261130T010000Z
 SUMMARY:Snowport Holiday Market
@@ -145,7 +145,7 @@ URL:https://weekendscout.app/e/boston/snowport-holiday-market/
 END:VEVENT
 BEGIN:VEVENT
 UID:boston-zoolights-stone-zoo-fri-0@weekendscout.app
-DTSTAMP:20261126T070715Z
+DTSTAMP:20261126T074048Z
 DTSTART:20261127T210000Z
 DTEND:20261128T023000Z
 SUMMARY:ZooLights at Stone Zoo
@@ -157,7 +157,7 @@ URL:https://weekendscout.app/e/boston/zoolights-stone-zoo/
 END:VEVENT
 BEGIN:VEVENT
 UID:boston-zoolights-stone-zoo-sat-0@weekendscout.app
-DTSTAMP:20261126T070715Z
+DTSTAMP:20261126T074048Z
 DTSTART:20261128T210000Z
 DTEND:20261129T023000Z
 SUMMARY:ZooLights at Stone Zoo
@@ -169,7 +169,7 @@ URL:https://weekendscout.app/e/boston/zoolights-stone-zoo/
 END:VEVENT
 BEGIN:VEVENT
 UID:boston-zoolights-stone-zoo-sun-0@weekendscout.app
-DTSTAMP:20261126T070715Z
+DTSTAMP:20261126T074048Z
 DTSTART:20261129T210000Z
 DTEND:20261130T023000Z
 SUMMARY:ZooLights at Stone Zoo

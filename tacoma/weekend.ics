@@ -8,47 +8,163 @@ X-WR-CALDESC:Hand-checked weekend picks in Tacoma, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:tacoma-point-defiance-park-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T070716Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Point Defiance Park
-LOCATION:Point Defiance Park\, 5400 N Pearl St\, Tacoma\, WA 98407
-DESCRIPTION:A 760-acre park with old-growth forest and Puget Sound views. 
- Free. Details: https://weekendscout.app/e/tacoma/point-defiance-park-2026-
- 11/
-URL:https://weekendscout.app/e/tacoma/point-defiance-park-2026-11/
+UID:tacoma-zoolights-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T074049Z
+DTSTART:20261128T003000Z
+DTEND:20261128T060000Z
+SUMMARY:Zoolights
+LOCATION:Point Defiance Zoo & Aquarium\, 5400 N Pearl St\, Tacoma\, WA 984
+ 07
+DESCRIPTION:Point Defiance Zoo & Aquarium's holiday light display opens it
+ s 2026 season Friday and runs nightly through January 3\, 2027. Online tim
+ ed tickets are required. Tickets. Details: https://weekendscout.app/e/taco
+ ma/zoolights-2026-11-27/
+URL:https://weekendscout.app/e/tacoma/zoolights-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:tacoma-point-defiance-park-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T070716Z
+UID:tacoma-zoolights-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T074049Z
+DTSTART:20261129T003000Z
+DTEND:20261129T060000Z
+SUMMARY:Zoolights
+LOCATION:Point Defiance Zoo & Aquarium\, 5400 N Pearl St\, Tacoma\, WA 984
+ 07
+DESCRIPTION:Point Defiance Zoo & Aquarium's holiday light display opens it
+ s 2026 season Friday and runs nightly through January 3\, 2027. Online tim
+ ed tickets are required. Tickets. Details: https://weekendscout.app/e/taco
+ ma/zoolights-2026-11-27/
+URL:https://weekendscout.app/e/tacoma/zoolights-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:tacoma-zoolights-2026-11-27-sun-0@weekendscout.app
+DTSTAMP:20261126T074049Z
+DTSTART:20261130T003000Z
+DTEND:20261130T060000Z
+SUMMARY:Zoolights
+LOCATION:Point Defiance Zoo & Aquarium\, 5400 N Pearl St\, Tacoma\, WA 984
+ 07
+DESCRIPTION:Point Defiance Zoo & Aquarium's holiday light display opens it
+ s 2026 season Friday and runs nightly through January 3\, 2027. Online tim
+ ed tickets are required. Tickets. Details: https://weekendscout.app/e/taco
+ ma/zoolights-2026-11-27/
+URL:https://weekendscout.app/e/tacoma/zoolights-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:tacoma-tacoma-tree-lighting-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T074049Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
-SUMMARY:Point Defiance Park
-LOCATION:Point Defiance Park\, 5400 N Pearl St\, Tacoma\, WA 98407
-DESCRIPTION:A 760-acre park with old-growth forest and Puget Sound views. 
- Free. Details: https://weekendscout.app/e/tacoma/point-defiance-park-2026-
- 11/
-URL:https://weekendscout.app/e/tacoma/point-defiance-park-2026-11/
+SUMMARY:81st Annual Tacoma Tree Lighting
+LOCATION:Pantages Theater\, 901 Broadway\, Tacoma\, WA 98402
+DESCRIPTION:Tacoma City Theaters and the City of Tacoma kick off the holid
+ ay season with the city's 81st annual tree lighting at the Pantages Theate
+ r. Check the event page for the start time. Check ticket prices. Details: 
+ https://weekendscout.app/e/tacoma/tacoma-tree-lighting-2026-11-28/
+URL:https://weekendscout.app/e/tacoma/tacoma-tree-lighting-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
-UID:tacoma-point-defiance-park-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T070716Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Point Defiance Park
-LOCATION:Point Defiance Park\, 5400 N Pearl St\, Tacoma\, WA 98407
-DESCRIPTION:A 760-acre park with old-growth forest and Puget Sound views. 
- Free. Details: https://weekendscout.app/e/tacoma/point-defiance-park-2026-
- 11/
-URL:https://weekendscout.app/e/tacoma/point-defiance-park-2026-11/
+UID:tacoma-tacoma-concert-band-sounds-of-the-season-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T074049Z
+DTSTART:20261128T230000Z
+DTEND:20261129T010000Z
+SUMMARY:Tacoma Concert Band: Sounds of the Season
+LOCATION:Pantages Theater\, 901 Broadway\, Tacoma\, WA 98402
+DESCRIPTION:The Tacoma Concert Band's holiday concert in the historic Pant
+ ages Theater. Tickets are free for youth 18 and under when picked up in pe
+ rson at the Pantages box office. Tickets. Details: https://weekendscout.ap
+ p/e/tacoma/tacoma-concert-band-sounds-of-the-season-2026-11-28/
+URL:https://weekendscout.app/e/tacoma/tacoma-concert-band-sounds-of-the-season-2026-11-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:tacoma-gabriel-rutledge-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T074049Z
+DTSTART:20261128T030000Z
+DTEND:20261128T050000Z
+SUMMARY:Gabriel Rutledge
+LOCATION:Tacoma Comedy Club\, 933 Market St\, Tacoma\, WA 98402
+DESCRIPTION:Stand-up from Gabriel Rutledge at the club's downtown room\, w
+ ith five shows over three nights. Tickets. Details: https://weekendscout.a
+ pp/e/tacoma/gabriel-rutledge-2026-11-27/
+URL:https://weekendscout.app/e/tacoma/gabriel-rutledge-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:tacoma-gabriel-rutledge-2026-11-27-fri-1@weekendscout.app
+DTSTAMP:20261126T074049Z
+DTSTART:20261128T054500Z
+DTEND:20261128T074500Z
+SUMMARY:Gabriel Rutledge
+LOCATION:Tacoma Comedy Club\, 933 Market St\, Tacoma\, WA 98402
+DESCRIPTION:Stand-up from Gabriel Rutledge at the club's downtown room\, w
+ ith five shows over three nights. Tickets. Details: https://weekendscout.a
+ pp/e/tacoma/gabriel-rutledge-2026-11-27/
+URL:https://weekendscout.app/e/tacoma/gabriel-rutledge-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:tacoma-gabriel-rutledge-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T074049Z
+DTSTART:20261129T030000Z
+DTEND:20261129T050000Z
+SUMMARY:Gabriel Rutledge
+LOCATION:Tacoma Comedy Club\, 933 Market St\, Tacoma\, WA 98402
+DESCRIPTION:Stand-up from Gabriel Rutledge at the club's downtown room\, w
+ ith five shows over three nights. Tickets. Details: https://weekendscout.a
+ pp/e/tacoma/gabriel-rutledge-2026-11-27/
+URL:https://weekendscout.app/e/tacoma/gabriel-rutledge-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:tacoma-gabriel-rutledge-2026-11-27-sat-1@weekendscout.app
+DTSTAMP:20261126T074049Z
+DTSTART:20261129T054500Z
+DTEND:20261129T074500Z
+SUMMARY:Gabriel Rutledge
+LOCATION:Tacoma Comedy Club\, 933 Market St\, Tacoma\, WA 98402
+DESCRIPTION:Stand-up from Gabriel Rutledge at the club's downtown room\, w
+ ith five shows over three nights. Tickets. Details: https://weekendscout.a
+ pp/e/tacoma/gabriel-rutledge-2026-11-27/
+URL:https://weekendscout.app/e/tacoma/gabriel-rutledge-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:tacoma-gabriel-rutledge-2026-11-27-sun-0@weekendscout.app
+DTSTAMP:20261126T074049Z
+DTSTART:20261130T030000Z
+DTEND:20261130T050000Z
+SUMMARY:Gabriel Rutledge
+LOCATION:Tacoma Comedy Club\, 933 Market St\, Tacoma\, WA 98402
+DESCRIPTION:Stand-up from Gabriel Rutledge at the club's downtown room\, w
+ ith five shows over three nights. Tickets. Details: https://weekendscout.a
+ pp/e/tacoma/gabriel-rutledge-2026-11-27/
+URL:https://weekendscout.app/e/tacoma/gabriel-rutledge-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:tacoma-tales-from-the-crypt-cabaret-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T074049Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:Tacoma Cabaret: Tales from the Crypt
+LOCATION:McMenamins Elks Temple\, 565 Broadway\, Tacoma\, WA 98402
+DESCRIPTION:A campy horror-themed cabaret in the Spanish Ballroom\, with b
+ urlesque\, aerial and pole acts\, live vocals\, comedy and dance. Two show
+ s\; doors open an hour before each. Tickets. Details: https://weekendscout
+ .app/e/tacoma/tales-from-the-crypt-cabaret-2026-11-28/
+URL:https://weekendscout.app/e/tacoma/tales-from-the-crypt-cabaret-2026-11-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:tacoma-tales-from-the-crypt-cabaret-2026-11-28-sat-1@weekendscout.app
+DTSTAMP:20261126T074049Z
+DTSTART:20261129T050000Z
+DTEND:20261129T070000Z
+SUMMARY:Tacoma Cabaret: Tales from the Crypt
+LOCATION:McMenamins Elks Temple\, 565 Broadway\, Tacoma\, WA 98402
+DESCRIPTION:A campy horror-themed cabaret in the Spanish Ballroom\, with b
+ urlesque\, aerial and pole acts\, live vocals\, comedy and dance. Two show
+ s\; doors open an hour before each. Tickets. Details: https://weekendscout
+ .app/e/tacoma/tales-from-the-crypt-cabaret-2026-11-28/
+URL:https://weekendscout.app/e/tacoma/tales-from-the-crypt-cabaret-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:tacoma-chihuly-bridge-of-glass-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T070716Z
+DTSTAMP:20261126T074049Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -61,7 +177,7 @@ URL:https://weekendscout.app/e/tacoma/chihuly-bridge-of-glass-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:tacoma-chihuly-bridge-of-glass-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T070716Z
+DTSTAMP:20261126T074049Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -74,7 +190,7 @@ URL:https://weekendscout.app/e/tacoma/chihuly-bridge-of-glass-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:tacoma-chihuly-bridge-of-glass-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T070716Z
+DTSTAMP:20261126T074049Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -84,82 +200,5 @@ DESCRIPTION:A pedestrian bridge lined with Dale Chihuly glass\, by the Mus
  eum of Glass. Free. Details: https://weekendscout.app/e/tacoma/chihuly-bri
  dge-of-glass-2026-11/
 URL:https://weekendscout.app/e/tacoma/chihuly-bridge-of-glass-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:tacoma-gabriel-rutledge-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T070716Z
-DTSTART:20261128T030000Z
-DTEND:20261128T050000Z
-SUMMARY:Gabriel Rutledge
-LOCATION:Tacoma Comedy Club\, 933 Market St\, Tacoma\, WA 98402
-DESCRIPTION:Stand-up all weekend. Tickets. Details: https://weekendscout.a
- pp/e/tacoma/gabriel-rutledge-2026-11/
-URL:https://weekendscout.app/e/tacoma/gabriel-rutledge-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:tacoma-gabriel-rutledge-2026-11-fri-1@weekendscout.app
-DTSTAMP:20261126T070716Z
-DTSTART:20261128T054500Z
-DTEND:20261128T074500Z
-SUMMARY:Gabriel Rutledge
-LOCATION:Tacoma Comedy Club\, 933 Market St\, Tacoma\, WA 98402
-DESCRIPTION:Stand-up all weekend. Tickets. Details: https://weekendscout.a
- pp/e/tacoma/gabriel-rutledge-2026-11/
-URL:https://weekendscout.app/e/tacoma/gabriel-rutledge-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:tacoma-gabriel-rutledge-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T070716Z
-DTSTART:20261129T054500Z
-DTEND:20261129T074500Z
-SUMMARY:Gabriel Rutledge
-LOCATION:Tacoma Comedy Club\, 933 Market St\, Tacoma\, WA 98402
-DESCRIPTION:Stand-up all weekend. Tickets. Details: https://weekendscout.a
- pp/e/tacoma/gabriel-rutledge-2026-11/
-URL:https://weekendscout.app/e/tacoma/gabriel-rutledge-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:tacoma-gabriel-rutledge-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T070716Z
-DTSTART:20261130T030000Z
-DTEND:20261130T050000Z
-SUMMARY:Gabriel Rutledge
-LOCATION:Tacoma Comedy Club\, 933 Market St\, Tacoma\, WA 98402
-DESCRIPTION:Stand-up all weekend. Tickets. Details: https://weekendscout.a
- pp/e/tacoma/gabriel-rutledge-2026-11/
-URL:https://weekendscout.app/e/tacoma/gabriel-rutledge-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:tacoma-tacoma-concert-band-sounds-of-the-season-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T070716Z
-DTSTART:20261128T230000Z
-DTEND:20261129T010000Z
-SUMMARY:Tacoma Concert Band: Sounds of the Season
-LOCATION:Pantages Theater\, 901 Broadway\, Tacoma\, WA 98402
-DESCRIPTION:Holiday music in the 1918 theater. Tickets. Details: https://w
- eekendscout.app/e/tacoma/tacoma-concert-band-sounds-of-the-season-2026-11/
-URL:https://weekendscout.app/e/tacoma/tacoma-concert-band-sounds-of-the-season-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:tacoma-90-s-rewind-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T070716Z
-DTSTART:20261128T040000Z
-DTEND:20261128T060000Z
-SUMMARY:90’s Rewind
-LOCATION:McMenamins Elks Temple\, 565 Broadway\, Tacoma\, WA 98402
-DESCRIPTION:A ’90s dance party in the Spanish Ballroom. Tickets. Details
- : https://weekendscout.app/e/tacoma/90-s-rewind-2026-11/
-URL:https://weekendscout.app/e/tacoma/90-s-rewind-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:tacoma-laughing-elksgiving-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T070716Z
-DTSTART:20261130T030000Z
-DTEND:20261130T050000Z
-SUMMARY:Laughing Elksgiving
-LOCATION:McMenamins Elks Temple\, 565 Broadway\, Tacoma\, WA 98402
-DESCRIPTION:A post-Thanksgiving comedy night. Tickets. Details: https://we
- ekendscout.app/e/tacoma/laughing-elksgiving-2026-11/
-URL:https://weekendscout.app/e/tacoma/laughing-elksgiving-2026-11/
 END:VEVENT
 END:VCALENDAR

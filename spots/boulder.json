@@ -1,0 +1,29 @@
+{
+ "city": "boulder",
+ "updated": "2026-11-26",
+ "source": "Partial: Nominatim and restaurant/review sites were unreachable this run, so only two free landmarks with coordinates reused from the current Boulder events file and hours confirmed by the City of Boulder's Nov 2026 holiday schedule / Downtown Boulder are included; dinner, lunch and drinks picks still needed.",
+ "spots": [
+  {
+   "name": "Pearl Street Mall",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 40.018,
+   "lon": -105.278,
+   "price": "Free",
+   "blurb": "Four pedestrian blocks of shops, cafés and street performers, lit up for the holidays.",
+   "blurbEs": "Cuatro cuadras peatonales de tiendas, cafés y artistas callejeros, iluminadas para las fiestas."
+  },
+  {
+   "name": "Chautauqua Park",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Chautauqua",
+   "lat": 39.999,
+   "lon": -105.281,
+   "price": "Free",
+   "blurb": "Lawn and trailheads at the foot of the Flatirons; city parks are open 5 a.m. to 11 p.m.",
+   "blurbEs": "Pradera e inicios de sendero al pie de los Flatirons; los parques de la ciudad abren de 5 a.m. a 11 p.m."
+  }
+ ]
+}

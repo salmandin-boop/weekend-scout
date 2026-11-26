@@ -8,134 +8,221 @@ X-WR-CALDESC:Hand-checked weekend picks in Boulder, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:boulder-pearl-street-mall-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T070716Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Pearl Street Mall
-LOCATION:Pearl Street Mall\, 1942 Broadway\, Boulder\, CO 80302
-DESCRIPTION:Four pedestrian blocks of shops\, cafés and street performers
- . Free. Details: https://weekendscout.app/e/boulder/pearl-street-mall-2026
- -11/
-URL:https://weekendscout.app/e/boulder/pearl-street-mall-2026-11/
+UID:boulder-leftover-salmon-sam-bush-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T074049Z
+DTSTART:20261128T020000Z
+DTEND:20261128T040000Z
+SUMMARY:Leftover Salmon feat. Sam Bush
+LOCATION:Boulder Theater\, 2032 14th St\, Boulder\, CO 80302
+DESCRIPTION:Leftover Salmon's annual Thanksgiving-weekend run with mandoli
+ n legend Sam Bush\; Deer Creek Sharpshooters open Friday and Tonewood join
+ s Saturday. Doors 6 p.m.\; all ages\, under 16 with an adult. Tickets. Det
+ ails: https://weekendscout.app/e/boulder/leftover-salmon-sam-bush-2026-11-
+ 27/
+URL:https://weekendscout.app/e/boulder/leftover-salmon-sam-bush-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:boulder-pearl-street-mall-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T070716Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Pearl Street Mall
-LOCATION:Pearl Street Mall\, 1942 Broadway\, Boulder\, CO 80302
-DESCRIPTION:Four pedestrian blocks of shops\, cafés and street performers
- . Free. Details: https://weekendscout.app/e/boulder/pearl-street-mall-2026
- -11/
-URL:https://weekendscout.app/e/boulder/pearl-street-mall-2026-11/
+UID:boulder-leftover-salmon-sam-bush-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T074049Z
+DTSTART:20261129T020000Z
+DTEND:20261129T040000Z
+SUMMARY:Leftover Salmon feat. Sam Bush
+LOCATION:Boulder Theater\, 2032 14th St\, Boulder\, CO 80302
+DESCRIPTION:Leftover Salmon's annual Thanksgiving-weekend run with mandoli
+ n legend Sam Bush\; Deer Creek Sharpshooters open Friday and Tonewood join
+ s Saturday. Doors 6 p.m.\; all ages\, under 16 with an adult. Tickets. Det
+ ails: https://weekendscout.app/e/boulder/leftover-salmon-sam-bush-2026-11-
+ 27/
+URL:https://weekendscout.app/e/boulder/leftover-salmon-sam-bush-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:boulder-pearl-street-mall-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T070716Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Pearl Street Mall
-LOCATION:Pearl Street Mall\, 1942 Broadway\, Boulder\, CO 80302
-DESCRIPTION:Four pedestrian blocks of shops\, cafés and street performers
- . Free. Details: https://weekendscout.app/e/boulder/pearl-street-mall-2026
- -11/
-URL:https://weekendscout.app/e/boulder/pearl-street-mall-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:boulder-chautauqua-park-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T070716Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Chautauqua Park
-LOCATION:Chautauqua Park\, 900 Baseline Rd\, Boulder\, CO 80302
-DESCRIPTION:Trailheads under the Flatirons. Free. Details: https://weekend
- scout.app/e/boulder/chautauqua-park-2026-11/
-URL:https://weekendscout.app/e/boulder/chautauqua-park-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:boulder-chautauqua-park-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T070716Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Chautauqua Park
-LOCATION:Chautauqua Park\, 900 Baseline Rd\, Boulder\, CO 80302
-DESCRIPTION:Trailheads under the Flatirons. Free. Details: https://weekend
- scout.app/e/boulder/chautauqua-park-2026-11/
-URL:https://weekendscout.app/e/boulder/chautauqua-park-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:boulder-chautauqua-park-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T070716Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Chautauqua Park
-LOCATION:Chautauqua Park\, 900 Baseline Rd\, Boulder\, CO 80302
-DESCRIPTION:Trailheads under the Flatirons. Free. Details: https://weekend
- scout.app/e/boulder/chautauqua-park-2026-11/
-URL:https://weekendscout.app/e/boulder/chautauqua-park-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:boulder-the-nutcracker-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T070716Z
+UID:boulder-the-nutcracker-boulder-ballet-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T074049Z
 DTSTART:20261127T230000Z
 DTEND:20261128T010000Z
 SUMMARY:The Nutcracker
-LOCATION:Macky Auditorium\, 1595 Pleasant St\, Boulder\, CO 80302
-DESCRIPTION:Boulder Ballet with the Boulder Philharmonic. Tickets. Details
- : https://weekendscout.app/e/boulder/the-nutcracker-2026-11/
-URL:https://weekendscout.app/e/boulder/the-nutcracker-2026-11/
+LOCATION:Macky Auditorium\, 1595 Pleasant St\, Boulder\, CO 80309
+DESCRIPTION:Boulder Ballet's full-length Nutcracker with the Boulder Philh
+ armonic on Friday and Sunday at 4 p.m.\, plus a one-hour Nutcracker Suite 
+ for young audiences Sunday at 1 p.m. Buy only through Macky's CU box offic
+ e. Tickets. Details: https://weekendscout.app/e/boulder/the-nutcracker-bou
+ lder-ballet-2026-11-27/
+URL:https://weekendscout.app/e/boulder/the-nutcracker-boulder-ballet-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:boulder-the-nutcracker-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T070716Z
+UID:boulder-the-nutcracker-boulder-ballet-2026-11-27-sun-0@weekendscout.app
+DTSTAMP:20261126T074049Z
 DTSTART:20261129T200000Z
 DTEND:20261129T220000Z
 SUMMARY:The Nutcracker
-LOCATION:Macky Auditorium\, 1595 Pleasant St\, Boulder\, CO 80302
-DESCRIPTION:Boulder Ballet with the Boulder Philharmonic. Tickets. Details
- : https://weekendscout.app/e/boulder/the-nutcracker-2026-11/
-URL:https://weekendscout.app/e/boulder/the-nutcracker-2026-11/
+LOCATION:Macky Auditorium\, 1595 Pleasant St\, Boulder\, CO 80309
+DESCRIPTION:Boulder Ballet's full-length Nutcracker with the Boulder Philh
+ armonic on Friday and Sunday at 4 p.m.\, plus a one-hour Nutcracker Suite 
+ for young audiences Sunday at 1 p.m. Buy only through Macky's CU box offic
+ e. Tickets. Details: https://weekendscout.app/e/boulder/the-nutcracker-bou
+ lder-ballet-2026-11-27/
+URL:https://weekendscout.app/e/boulder/the-nutcracker-boulder-ballet-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:boulder-the-nutcracker-2026-11-sun-1@weekendscout.app
-DTSTAMP:20261126T070716Z
+UID:boulder-the-nutcracker-boulder-ballet-2026-11-27-sun-1@weekendscout.app
+DTSTAMP:20261126T074049Z
 DTSTART:20261129T230000Z
 DTEND:20261130T010000Z
 SUMMARY:The Nutcracker
-LOCATION:Macky Auditorium\, 1595 Pleasant St\, Boulder\, CO 80302
-DESCRIPTION:Boulder Ballet with the Boulder Philharmonic. Tickets. Details
- : https://weekendscout.app/e/boulder/the-nutcracker-2026-11/
-URL:https://weekendscout.app/e/boulder/the-nutcracker-2026-11/
+LOCATION:Macky Auditorium\, 1595 Pleasant St\, Boulder\, CO 80309
+DESCRIPTION:Boulder Ballet's full-length Nutcracker with the Boulder Philh
+ armonic on Friday and Sunday at 4 p.m.\, plus a one-hour Nutcracker Suite 
+ for young audiences Sunday at 1 p.m. Buy only through Macky's CU box offic
+ e. Tickets. Details: https://weekendscout.app/e/boulder/the-nutcracker-bou
+ lder-ballet-2026-11-27/
+URL:https://weekendscout.app/e/boulder/the-nutcracker-boulder-ballet-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:boulder-colorado-vs-ucf-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T070716Z
+UID:boulder-colorado-vs-ucf-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T074049Z
 DTSTART:20261128T190000Z
 DTEND:20261128T210000Z
 SUMMARY:Colorado vs. UCF
 LOCATION:Folsom Field\, 2400 Colorado Ave\, Boulder\, CO 80302
-DESCRIPTION:Buffaloes football at noon Saturday. Tickets. Details: https:/
- /weekendscout.app/e/boulder/colorado-vs-ucf-2026-11/
-URL:https://weekendscout.app/e/boulder/colorado-vs-ucf-2026-11/
+DESCRIPTION:The Buffaloes close the regular season at home against UCF wit
+ h a noon kickoff. Tickets. Details: https://weekendscout.app/e/boulder/col
+ orado-vs-ucf-2026-11-28/
+URL:https://weekendscout.app/e/boulder/colorado-vs-ucf-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
-UID:boulder-leftover-salmon-sam-bush-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T070716Z
-DTSTART:20261129T010000Z
-DTEND:20261129T030000Z
-SUMMARY:Leftover Salmon & Sam Bush
-LOCATION:Boulder Theater\, 2032 14th St\, Boulder\, CO 80302
-DESCRIPTION:Colorado jamgrass with the bluegrass mandolin legend. Tickets.
-  Details: https://weekendscout.app/e/boulder/leftover-salmon-sam-bush-2026
- -11/
-URL:https://weekendscout.app/e/boulder/leftover-salmon-sam-bush-2026-11/
+UID:boulder-pearl-street-stampedes-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T074049Z
+DTSTART:20261128T020000Z
+DTEND:20261128T040000Z
+SUMMARY:Pearl Street Stampedes
+LOCATION:Pearl Street Mall\, 1300 Pearl St\, Boulder\, CO 80302
+DESCRIPTION:CU's pre-game parade the night before the home finale: Golden 
+ Buffalo Marching Band members and the spirit team follow a 1948 fire truck
+  west along the mall\, stopping on each block\, starting in front of the C
+ ounty Courthouse. See event page. Details: https://weekendscout.app/e/boul
+ der/pearl-street-stampedes-2026-11-27/
+URL:https://weekendscout.app/e/boulder/pearl-street-stampedes-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:boulder-st-nick-on-the-bricks-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T074049Z
+DTSTART:20261127T180000Z
+DTEND:20261127T210000Z
+SUMMARY:St. Nick on the Bricks
+LOCATION:Downtown Boulder Visitor Information Center\, 1303 Pearl St\, Bou
+ lder\, CO 80302
+DESCRIPTION:Free visits with Santa on the Pearl Street Mall\; bring a wish
+  list and a camera. A $10 donation per group is suggested. Free (suggested
+  $10 donation per group). Details: https://weekendscout.app/e/boulder/st-n
+ ick-on-the-bricks-2026-11-27/
+URL:https://weekendscout.app/e/boulder/st-nick-on-the-bricks-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:boulder-st-nick-on-the-bricks-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T074049Z
+DTSTART:20261128T180000Z
+DTEND:20261128T210000Z
+SUMMARY:St. Nick on the Bricks
+LOCATION:Downtown Boulder Visitor Information Center\, 1303 Pearl St\, Bou
+ lder\, CO 80302
+DESCRIPTION:Free visits with Santa on the Pearl Street Mall\; bring a wish
+  list and a camera. A $10 donation per group is suggested. Free (suggested
+  $10 donation per group). Details: https://weekendscout.app/e/boulder/st-n
+ ick-on-the-bricks-2026-11-27/
+URL:https://weekendscout.app/e/boulder/st-nick-on-the-bricks-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:boulder-tebo-train-snowflake-express-2026-11-29-sun-0@weekendscout.app
+DTSTAMP:20261126T074049Z
+DTSTART:20261129T180000Z
+DTEND:20261129T210000Z
+SUMMARY:Tebo Train's Snowflake Express
+LOCATION:Pearl Street Mall\, 1242 Pearl St\, Boulder\, CO 80302
+DESCRIPTION:Rides on the all-electric Tebo Train along Pearl Street for ki
+ ds 10 and under with their adults\; board in front of Wells Fargo. Weather
+  can cancel it. $5 suggested donation per group. Details: https://weekends
+ cout.app/e/boulder/tebo-train-snowflake-express-2026-11-29/
+URL:https://weekendscout.app/e/boulder/tebo-train-snowflake-express-2026-11-29/
+END:VEVENT
+BEGIN:VEVENT
+UID:boulder-small-business-saturday-weekend-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T074049Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Small Business Saturday Weekend
+LOCATION:Pearl Street Mall\, 1942 Broadway\, Boulder\, CO 80302
+DESCRIPTION:Downtown Boulder's shop-local weekend at independent stores an
+ d restaurants on and around the Pearl Street Mall\, under the holiday ligh
+ ts. Free. Details: https://weekendscout.app/e/boulder/small-business-satur
+ day-weekend-2026-11-27/
+URL:https://weekendscout.app/e/boulder/small-business-saturday-weekend-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:boulder-small-business-saturday-weekend-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T074049Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Small Business Saturday Weekend
+LOCATION:Pearl Street Mall\, 1942 Broadway\, Boulder\, CO 80302
+DESCRIPTION:Downtown Boulder's shop-local weekend at independent stores an
+ d restaurants on and around the Pearl Street Mall\, under the holiday ligh
+ ts. Free. Details: https://weekendscout.app/e/boulder/small-business-satur
+ day-weekend-2026-11-27/
+URL:https://weekendscout.app/e/boulder/small-business-saturday-weekend-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:boulder-small-business-saturday-weekend-2026-11-27-sun-0@weekendscout.app
+DTSTAMP:20261126T074049Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Small Business Saturday Weekend
+LOCATION:Pearl Street Mall\, 1942 Broadway\, Boulder\, CO 80302
+DESCRIPTION:Downtown Boulder's shop-local weekend at independent stores an
+ d restaurants on and around the Pearl Street Mall\, under the holiday ligh
+ ts. Free. Details: https://weekendscout.app/e/boulder/small-business-satur
+ day-weekend-2026-11-27/
+URL:https://weekendscout.app/e/boulder/small-business-saturday-weekend-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:boulder-chautauqua-park-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T074049Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Chautauqua Park
+LOCATION:Chautauqua Park\, 900 Baseline Rd\, Boulder\, CO 80302
+DESCRIPTION:Lawn and trailheads under the Flatirons. The city says Open Sp
+ ace and Mountain Parks trails stay open over the holiday. Free. Details: h
+ ttps://weekendscout.app/e/boulder/chautauqua-park-2026-11-27/
+URL:https://weekendscout.app/e/boulder/chautauqua-park-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:boulder-chautauqua-park-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T074049Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Chautauqua Park
+LOCATION:Chautauqua Park\, 900 Baseline Rd\, Boulder\, CO 80302
+DESCRIPTION:Lawn and trailheads under the Flatirons. The city says Open Sp
+ ace and Mountain Parks trails stay open over the holiday. Free. Details: h
+ ttps://weekendscout.app/e/boulder/chautauqua-park-2026-11-27/
+URL:https://weekendscout.app/e/boulder/chautauqua-park-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:boulder-chautauqua-park-2026-11-27-sun-0@weekendscout.app
+DTSTAMP:20261126T074049Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Chautauqua Park
+LOCATION:Chautauqua Park\, 900 Baseline Rd\, Boulder\, CO 80302
+DESCRIPTION:Lawn and trailheads under the Flatirons. The city says Open Sp
+ ace and Mountain Parks trails stay open over the holiday. Free. Details: h
+ ttps://weekendscout.app/e/boulder/chautauqua-park-2026-11-27/
+URL:https://weekendscout.app/e/boulder/chautauqua-park-2026-11-27/
 END:VEVENT
 END:VCALENDAR

@@ -8,126 +8,176 @@ X-WR-CALDESC:Hand-checked weekend picks in Flagstaff, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:flagstaff-historic-downtown-flagstaff-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T070716Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Historic Downtown Flagstaff
-LOCATION:Downtown Flagstaff\, Route 66 & San Francisco St\, Flagstaff\, AZ
-  86001
-DESCRIPTION:Route 66 storefronts\, breweries and cafés under the San Fran
- cisco Peaks. Free to browse. Details: https://weekendscout.app/e/flagstaff
- /historic-downtown-flagstaff-2026-11/
-URL:https://weekendscout.app/e/flagstaff/historic-downtown-flagstaff-2026-11/
+UID:flagstaff-polar-express-grand-canyon-railway-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T074049Z
+DTSTART:20261129T003000Z
+DTEND:20261129T020000Z
+SUMMARY:The Polar Express Train Ride
+LOCATION:Grand Canyon Railway Depot\, 233 N Grand Canyon Blvd\, Williams\,
+  AZ 86046
+DESCRIPTION:Grand Canyon Railway's holiday train leaves the Williams depot
+  for a little over an hour round trip to the "North Pole"\; Saturday and S
+ unday each have 5:30 and 7:30 p.m. departures. Tickets. Details: https://w
+ eekendscout.app/e/flagstaff/polar-express-grand-canyon-railway-2026-11-28/
+URL:https://weekendscout.app/e/flagstaff/polar-express-grand-canyon-railway-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
-UID:flagstaff-historic-downtown-flagstaff-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T070716Z
+UID:flagstaff-polar-express-grand-canyon-railway-2026-11-28-sat-1@weekendscout.app
+DTSTAMP:20261126T074049Z
+DTSTART:20261129T023000Z
+DTEND:20261129T040000Z
+SUMMARY:The Polar Express Train Ride
+LOCATION:Grand Canyon Railway Depot\, 233 N Grand Canyon Blvd\, Williams\,
+  AZ 86046
+DESCRIPTION:Grand Canyon Railway's holiday train leaves the Williams depot
+  for a little over an hour round trip to the "North Pole"\; Saturday and S
+ unday each have 5:30 and 7:30 p.m. departures. Tickets. Details: https://w
+ eekendscout.app/e/flagstaff/polar-express-grand-canyon-railway-2026-11-28/
+URL:https://weekendscout.app/e/flagstaff/polar-express-grand-canyon-railway-2026-11-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:flagstaff-polar-express-grand-canyon-railway-2026-11-28-sun-0@weekendscout.app
+DTSTAMP:20261126T074049Z
+DTSTART:20261130T003000Z
+DTEND:20261130T020000Z
+SUMMARY:The Polar Express Train Ride
+LOCATION:Grand Canyon Railway Depot\, 233 N Grand Canyon Blvd\, Williams\,
+  AZ 86046
+DESCRIPTION:Grand Canyon Railway's holiday train leaves the Williams depot
+  for a little over an hour round trip to the "North Pole"\; Saturday and S
+ unday each have 5:30 and 7:30 p.m. departures. Tickets. Details: https://w
+ eekendscout.app/e/flagstaff/polar-express-grand-canyon-railway-2026-11-28/
+URL:https://weekendscout.app/e/flagstaff/polar-express-grand-canyon-railway-2026-11-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:flagstaff-polar-express-grand-canyon-railway-2026-11-28-sun-1@weekendscout.app
+DTSTAMP:20261126T074049Z
+DTSTART:20261130T023000Z
+DTEND:20261130T040000Z
+SUMMARY:The Polar Express Train Ride
+LOCATION:Grand Canyon Railway Depot\, 233 N Grand Canyon Blvd\, Williams\,
+  AZ 86046
+DESCRIPTION:Grand Canyon Railway's holiday train leaves the Williams depot
+  for a little over an hour round trip to the "North Pole"\; Saturday and S
+ unday each have 5:30 and 7:30 p.m. departures. Tickets. Details: https://w
+ eekendscout.app/e/flagstaff/polar-express-grand-canyon-railway-2026-11-28/
+URL:https://weekendscout.app/e/flagstaff/polar-express-grand-canyon-railway-2026-11-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:flagstaff-a-christmas-carol-theatrikos-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T074049Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
-SUMMARY:Historic Downtown Flagstaff
-LOCATION:Downtown Flagstaff\, Route 66 & San Francisco St\, Flagstaff\, AZ
-  86001
-DESCRIPTION:Route 66 storefronts\, breweries and cafés under the San Fran
- cisco Peaks. Free to browse. Details: https://weekendscout.app/e/flagstaff
- /historic-downtown-flagstaff-2026-11/
-URL:https://weekendscout.app/e/flagstaff/historic-downtown-flagstaff-2026-11/
+SUMMARY:A Christmas Carol
+LOCATION:Doris Harper-White Playhouse\, 11 W Cherry Ave\, Flagstaff\, AZ 8
+ 6001
+DESCRIPTION:Theatrikos and Flagstaff Shakespeare Festival stage a new\, mu
+ sic-filled adaptation of Dickens (90 minutes\, all ages)\, running through
+  Dec. 20. Check ticket prices. Details: https://weekendscout.app/e/flagsta
+ ff/a-christmas-carol-theatrikos-2026-11-28/
+URL:https://weekendscout.app/e/flagstaff/a-christmas-carol-theatrikos-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
-UID:flagstaff-historic-downtown-flagstaff-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T070716Z
+UID:flagstaff-a-christmas-carol-theatrikos-2026-11-28-sun-0@weekendscout.app
+DTSTAMP:20261126T074049Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
-SUMMARY:Historic Downtown Flagstaff
-LOCATION:Downtown Flagstaff\, Route 66 & San Francisco St\, Flagstaff\, AZ
-  86001
-DESCRIPTION:Route 66 storefronts\, breweries and cafés under the San Fran
- cisco Peaks. Free to browse. Details: https://weekendscout.app/e/flagstaff
- /historic-downtown-flagstaff-2026-11/
-URL:https://weekendscout.app/e/flagstaff/historic-downtown-flagstaff-2026-11/
+SUMMARY:A Christmas Carol
+LOCATION:Doris Harper-White Playhouse\, 11 W Cherry Ave\, Flagstaff\, AZ 8
+ 6001
+DESCRIPTION:Theatrikos and Flagstaff Shakespeare Festival stage a new\, mu
+ sic-filled adaptation of Dickens (90 minutes\, all ages)\, running through
+  Dec. 20. Check ticket prices. Details: https://weekendscout.app/e/flagsta
+ ff/a-christmas-carol-theatrikos-2026-11-28/
+URL:https://weekendscout.app/e/flagstaff/a-christmas-carol-theatrikos-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
-UID:flagstaff-lowell-observatory-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T070716Z
+UID:flagstaff-lowell-observatory-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T074049Z
+DTSTART:20261127T190000Z
+DTEND:20261128T050000Z
+SUMMARY:Lowell Observatory
+LOCATION:Lowell Observatory\, 1400 W Mars Hill Rd\, Flagstaff\, AZ 86001
+DESCRIPTION:The observatory where Pluto was discovered is open noon to 10 
+ p.m. (closed Thanksgiving Day)\; telescopes open around sunset for night-s
+ ky viewing. Tickets. Details: https://weekendscout.app/e/flagstaff/lowell-
+ observatory-2026-11-27/
+URL:https://weekendscout.app/e/flagstaff/lowell-observatory-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:flagstaff-lowell-observatory-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T074049Z
+DTSTART:20261128T190000Z
+DTEND:20261129T050000Z
+SUMMARY:Lowell Observatory
+LOCATION:Lowell Observatory\, 1400 W Mars Hill Rd\, Flagstaff\, AZ 86001
+DESCRIPTION:The observatory where Pluto was discovered is open noon to 10 
+ p.m. (closed Thanksgiving Day)\; telescopes open around sunset for night-s
+ ky viewing. Tickets. Details: https://weekendscout.app/e/flagstaff/lowell-
+ observatory-2026-11-27/
+URL:https://weekendscout.app/e/flagstaff/lowell-observatory-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:flagstaff-lowell-observatory-2026-11-27-sun-0@weekendscout.app
+DTSTAMP:20261126T074049Z
+DTSTART:20261129T190000Z
+DTEND:20261130T050000Z
+SUMMARY:Lowell Observatory
+LOCATION:Lowell Observatory\, 1400 W Mars Hill Rd\, Flagstaff\, AZ 86001
+DESCRIPTION:The observatory where Pluto was discovered is open noon to 10 
+ p.m. (closed Thanksgiving Day)\; telescopes open around sunset for night-s
+ ky viewing. Tickets. Details: https://weekendscout.app/e/flagstaff/lowell-
+ observatory-2026-11-27/
+URL:https://weekendscout.app/e/flagstaff/lowell-observatory-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:flagstaff-stroll-holiday-magic-downtown-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T074049Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
-SUMMARY:Lowell Observatory
-LOCATION:Lowell Observatory\, 1400 W Mars Hill Rd\, Flagstaff\, AZ 86001
-DESCRIPTION:Where Pluto was discovered\; telescope viewing after dark. Tic
- kets. Details: https://weekendscout.app/e/flagstaff/lowell-observatory-202
- 6-11/
-URL:https://weekendscout.app/e/flagstaff/lowell-observatory-2026-11/
+SUMMARY:Stroll Holiday Magic
+LOCATION:Downtown Flagstaff\, Route 66 & San Francisco St\, Flagstaff\, AZ
+  86001
+DESCRIPTION:Downtown's holiday light stroll begins Friday and runs through
+  Dec. 31\; start at the Visitor Center in the historic train station. Blac
+ k Friday and Small Business Saturday deals run in downtown shops. Free. De
+ tails: https://weekendscout.app/e/flagstaff/stroll-holiday-magic-downtown-
+ 2026-11-27/
+URL:https://weekendscout.app/e/flagstaff/stroll-holiday-magic-downtown-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:flagstaff-lowell-observatory-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T070716Z
+UID:flagstaff-stroll-holiday-magic-downtown-2026-11-27-sat-0@weekendscout.app
+DTSTAMP:20261126T074049Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
-SUMMARY:Lowell Observatory
-LOCATION:Lowell Observatory\, 1400 W Mars Hill Rd\, Flagstaff\, AZ 86001
-DESCRIPTION:Where Pluto was discovered\; telescope viewing after dark. Tic
- kets. Details: https://weekendscout.app/e/flagstaff/lowell-observatory-202
- 6-11/
-URL:https://weekendscout.app/e/flagstaff/lowell-observatory-2026-11/
+SUMMARY:Stroll Holiday Magic
+LOCATION:Downtown Flagstaff\, Route 66 & San Francisco St\, Flagstaff\, AZ
+  86001
+DESCRIPTION:Downtown's holiday light stroll begins Friday and runs through
+  Dec. 31\; start at the Visitor Center in the historic train station. Blac
+ k Friday and Small Business Saturday deals run in downtown shops. Free. De
+ tails: https://weekendscout.app/e/flagstaff/stroll-holiday-magic-downtown-
+ 2026-11-27/
+URL:https://weekendscout.app/e/flagstaff/stroll-holiday-magic-downtown-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:flagstaff-lowell-observatory-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T070716Z
+UID:flagstaff-stroll-holiday-magic-downtown-2026-11-27-sun-0@weekendscout.app
+DTSTAMP:20261126T074049Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
-SUMMARY:Lowell Observatory
-LOCATION:Lowell Observatory\, 1400 W Mars Hill Rd\, Flagstaff\, AZ 86001
-DESCRIPTION:Where Pluto was discovered\; telescope viewing after dark. Tic
- kets. Details: https://weekendscout.app/e/flagstaff/lowell-observatory-202
- 6-11/
-URL:https://weekendscout.app/e/flagstaff/lowell-observatory-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:flagstaff-museum-of-northern-arizona-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T070716Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Museum of Northern Arizona
-LOCATION:Museum of Northern Arizona\, 3101 N Fort Valley Rd\, Flagstaff\, 
- AZ 86001
-DESCRIPTION:Native art\, geology and natural history of the Colorado Plate
- au. Admission. Details: https://weekendscout.app/e/flagstaff/museum-of-nor
- thern-arizona-2026-11/
-URL:https://weekendscout.app/e/flagstaff/museum-of-northern-arizona-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:flagstaff-museum-of-northern-arizona-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T070716Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Museum of Northern Arizona
-LOCATION:Museum of Northern Arizona\, 3101 N Fort Valley Rd\, Flagstaff\, 
- AZ 86001
-DESCRIPTION:Native art\, geology and natural history of the Colorado Plate
- au. Admission. Details: https://weekendscout.app/e/flagstaff/museum-of-nor
- thern-arizona-2026-11/
-URL:https://weekendscout.app/e/flagstaff/museum-of-northern-arizona-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:flagstaff-museum-of-northern-arizona-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T070716Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Museum of Northern Arizona
-LOCATION:Museum of Northern Arizona\, 3101 N Fort Valley Rd\, Flagstaff\, 
- AZ 86001
-DESCRIPTION:Native art\, geology and natural history of the Colorado Plate
- au. Admission. Details: https://weekendscout.app/e/flagstaff/museum-of-nor
- thern-arizona-2026-11/
-URL:https://weekendscout.app/e/flagstaff/museum-of-northern-arizona-2026-11/
+SUMMARY:Stroll Holiday Magic
+LOCATION:Downtown Flagstaff\, Route 66 & San Francisco St\, Flagstaff\, AZ
+  86001
+DESCRIPTION:Downtown's holiday light stroll begins Friday and runs through
+  Dec. 31\; start at the Visitor Center in the historic train station. Blac
+ k Friday and Small Business Saturday deals run in downtown shops. Free. De
+ tails: https://weekendscout.app/e/flagstaff/stroll-holiday-magic-downtown-
+ 2026-11-27/
+URL:https://weekendscout.app/e/flagstaff/stroll-holiday-magic-downtown-2026-11-27/
 END:VEVENT
 END:VCALENDAR

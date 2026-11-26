@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:st-augustine-nights-of-lights-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T070716Z
+DTSTAMP:20261126T074049Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -24,7 +24,7 @@ URL:https://weekendscout.app/e/st-augustine/nights-of-lights-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:st-augustine-nights-of-lights-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261126T070716Z
+DTSTAMP:20261126T074049Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -39,7 +39,7 @@ URL:https://weekendscout.app/e/st-augustine/nights-of-lights-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:st-augustine-nights-of-lights-2026-11-27-sun-0@weekendscout.app
-DTSTAMP:20261126T070716Z
+DTSTAMP:20261126T074049Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -54,7 +54,7 @@ URL:https://weekendscout.app/e/st-augustine/nights-of-lights-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:st-augustine-shaelyn-band-colonial-oak-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T070716Z
+DTSTAMP:20261126T074049Z
 DTSTART:20261128T000000Z
 DTEND:20261128T030000Z
 SUMMARY:Shaelyn Band at Colonial Oak Music Park
@@ -67,7 +67,7 @@ URL:https://weekendscout.app/e/st-augustine/shaelyn-band-colonial-oak-2026-11-27
 END:VEVENT
 BEGIN:VEVENT
 UID:st-augustine-shaelyn-band-colonial-oak-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261126T070716Z
+DTSTAMP:20261126T074049Z
 DTSTART:20261129T000000Z
 DTEND:20261129T030000Z
 SUMMARY:Shaelyn Band at Colonial Oak Music Park
@@ -80,7 +80,7 @@ URL:https://weekendscout.app/e/st-augustine/shaelyn-band-colonial-oak-2026-11-27
 END:VEVENT
 BEGIN:VEVENT
 UID:st-augustine-amp-farmers-market-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261126T070716Z
+DTSTAMP:20261126T074049Z
 DTSTART:20261128T133000Z
 DTEND:20261128T173000Z
 SUMMARY:St. Augustine Amphitheatre Farmers Market
@@ -93,7 +93,7 @@ URL:https://weekendscout.app/e/st-augustine/amp-farmers-market-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:st-augustine-light-up-the-beach-art-walk-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261126T070716Z
+DTSTAMP:20261126T074049Z
 DTSTART:20261128T180000Z
 DTEND:20261128T230000Z
 SUMMARY:Light Up the Beach Art Walk
@@ -107,7 +107,7 @@ URL:https://weekendscout.app/e/st-augustine/light-up-the-beach-art-walk-2026-11-
 END:VEVENT
 BEGIN:VEVENT
 UID:st-augustine-villa-zorayda-holiday-evening-tour-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261126T070716Z
+DTSTAMP:20261126T074049Z
 DTSTART:20261128T221500Z
 DTEND:20261129T010000Z
 SUMMARY:Villa Zorayda Holiday Evening Tour
@@ -121,7 +121,7 @@ URL:https://weekendscout.app/e/st-augustine/villa-zorayda-holiday-evening-tour-2
 END:VEVENT
 BEGIN:VEVENT
 UID:st-augustine-holiday-hootenanny-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261126T070716Z
+DTSTAMP:20261126T074049Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -135,7 +135,7 @@ URL:https://weekendscout.app/e/st-augustine/holiday-hootenanny-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:st-augustine-castillo-de-san-marcos-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T070716Z
+DTSTAMP:20261126T074049Z
 DTSTART:20261127T140000Z
 DTEND:20261127T221500Z
 SUMMARY:Castillo de San Marcos
@@ -149,7 +149,7 @@ URL:https://weekendscout.app/e/st-augustine/castillo-de-san-marcos-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:st-augustine-castillo-de-san-marcos-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261126T070716Z
+DTSTAMP:20261126T074049Z
 DTSTART:20261128T140000Z
 DTEND:20261128T221500Z
 SUMMARY:Castillo de San Marcos
@@ -163,7 +163,7 @@ URL:https://weekendscout.app/e/st-augustine/castillo-de-san-marcos-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:st-augustine-castillo-de-san-marcos-2026-11-27-sun-0@weekendscout.app
-DTSTAMP:20261126T070716Z
+DTSTAMP:20261126T074049Z
 DTSTART:20261129T140000Z
 DTEND:20261129T221500Z
 SUMMARY:Castillo de San Marcos
@@ -177,7 +177,7 @@ URL:https://weekendscout.app/e/st-augustine/castillo-de-san-marcos-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:st-augustine-alligator-farm-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T070716Z
+DTSTAMP:20261126T074049Z
 DTSTART:20261127T140000Z
 DTEND:20261127T220000Z
 SUMMARY:St. Augustine Alligator Farm Zoological Park
@@ -190,7 +190,7 @@ URL:https://weekendscout.app/e/st-augustine/alligator-farm-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:st-augustine-alligator-farm-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261126T070716Z
+DTSTAMP:20261126T074049Z
 DTSTART:20261128T140000Z
 DTEND:20261128T220000Z
 SUMMARY:St. Augustine Alligator Farm Zoological Park
@@ -203,7 +203,7 @@ URL:https://weekendscout.app/e/st-augustine/alligator-farm-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:st-augustine-alligator-farm-2026-11-27-sun-0@weekendscout.app
-DTSTAMP:20261126T070716Z
+DTSTAMP:20261126T074049Z
 DTSTART:20261129T140000Z
 DTEND:20261129T220000Z
 SUMMARY:St. Augustine Alligator Farm Zoological Park

@@ -1,0 +1,29 @@
+{
+ "city": "santa-fe",
+ "updated": "2026-11-26",
+ "source": "Only places whose coordinates could be verified (Nominatim was blocked); Plaza coords from current events file, Wheelwright coords from the museum's own map embed; hours/prices from wheelwright.org and santafe.org (Nov 2026)",
+ "spots": [
+  {
+   "name": "Santa Fe Plaza",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 35.687,
+   "lon": -105.938,
+   "price": "Free",
+   "blurb": "The historic downtown plaza, lit with about 30,000 holiday lights from Nov 27.",
+   "blurbEs": "La plaza histórica del centro, iluminada con unas 30,000 luces navideñas desde el 27 de noviembre."
+  },
+  {
+   "name": "Wheelwright Museum of the American Indian",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Museum Hill",
+   "lat": 35.66275,
+   "lon": -105.92958,
+   "price": "$10; under 12 free",
+   "blurb": "Native art museum with the Case Trading Post; open Tue–Sat 10–5.",
+   "blurbEs": "Museo de arte nativo con el Case Trading Post; abre de martes a sábado de 10 a 5."
+  }
+ ]
+}

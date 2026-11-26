@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:college-station-texas-am-vs-texas-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T070716Z
+DTSTAMP:20261126T074049Z
 DTSTART:20261128T003000Z
 DTEND:20261128T023000Z
 SUMMARY:Texas A&M vs. Texas
@@ -21,7 +21,7 @@ URL:https://weekendscout.app/e/college-station/texas-am-vs-texas-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:college-station-santas-wonderland-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T070716Z
+DTSTAMP:20261126T074049Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -34,7 +34,7 @@ URL:https://weekendscout.app/e/college-station/santas-wonderland-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:college-station-santas-wonderland-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261126T070716Z
+DTSTAMP:20261126T074049Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -47,7 +47,7 @@ URL:https://weekendscout.app/e/college-station/santas-wonderland-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:college-station-santas-wonderland-2026-11-27-sun-0@weekendscout.app
-DTSTAMP:20261126T070716Z
+DTSTAMP:20261126T074049Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -60,7 +60,7 @@ URL:https://weekendscout.app/e/college-station/santas-wonderland-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:college-station-farmers-market-brazos-county-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261126T070716Z
+DTSTAMP:20261126T074049Z
 DTSTART:20261128T140000Z
 DTEND:20261128T180000Z
 SUMMARY:The Farmers' Market in Brazos County
@@ -74,7 +74,7 @@ URL:https://weekendscout.app/e/college-station/farmers-market-brazos-county-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:college-station-out-about-holiday-market-rountree-2026-11-29-sun-0@weekendscout.app
-DTSTAMP:20261126T070716Z
+DTSTAMP:20261126T074049Z
 DTSTART:20261129T180000Z
 DTEND:20261129T220000Z
 SUMMARY:Out & About Holiday Market Hangout
@@ -87,7 +87,7 @@ URL:https://weekendscout.app/e/college-station/out-about-holiday-market-rountree
 END:VEVENT
 BEGIN:VEVENT
 UID:college-station-bush-library-museum-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T070716Z
+DTSTAMP:20261126T074049Z
 DTSTART:20261127T153000Z
 DTEND:20261127T230000Z
 SUMMARY:George H.W. Bush Presidential Library and Museum
@@ -101,7 +101,7 @@ URL:https://weekendscout.app/e/college-station/bush-library-museum-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:college-station-bush-library-museum-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261126T070716Z
+DTSTAMP:20261126T074049Z
 DTSTART:20261128T153000Z
 DTEND:20261128T230000Z
 SUMMARY:George H.W. Bush Presidential Library and Museum
@@ -115,7 +115,7 @@ URL:https://weekendscout.app/e/college-station/bush-library-museum-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:college-station-bush-library-museum-2026-11-27-sun-0@weekendscout.app
-DTSTAMP:20261126T070716Z
+DTSTAMP:20261126T074049Z
 DTSTART:20261129T180000Z
 DTEND:20261129T230000Z
 SUMMARY:George H.W. Bush Presidential Library and Museum
@@ -129,7 +129,7 @@ URL:https://weekendscout.app/e/college-station/bush-library-museum-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:college-station-downtown-bryan-holiday-lights-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T070716Z
+DTSTAMP:20261126T074049Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -144,7 +144,7 @@ URL:https://weekendscout.app/e/college-station/downtown-bryan-holiday-lights-202
 END:VEVENT
 BEGIN:VEVENT
 UID:college-station-downtown-bryan-holiday-lights-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261126T070716Z
+DTSTAMP:20261126T074049Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -159,7 +159,7 @@ URL:https://weekendscout.app/e/college-station/downtown-bryan-holiday-lights-202
 END:VEVENT
 BEGIN:VEVENT
 UID:college-station-downtown-bryan-holiday-lights-2026-11-27-sun-0@weekendscout.app
-DTSTAMP:20261126T070716Z
+DTSTAMP:20261126T074049Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
