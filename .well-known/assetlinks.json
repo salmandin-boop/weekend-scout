@@ -7,6 +7,8 @@
       "namespace": "android_app",
       "package_name": "app.weekendscout",
       "sha256_cert_fingerprints": [
+        "64:97:7E:60:BA:23:5C:FE:37:E2:77:3A:02:5A:61:B7:DC:6C:A6:C8:11:96:42:09:44:6D:FA:F3:D3:DD:0D:33",
+        "4A:22:F2:DB:7A:D2:83:F0:8B:55:7A:A6:40:98:81:34:3A:F0:7F:43:3C:BF:44:E6:4F:29:0F:F3:7A:D6:F4:6B",
         "F7:5D:10:48:32:5C:CF:0A:B9:0D:3C:52:FD:A4:DE:2E:3E:D3:BA:FE:39:4F:36:7E:31:14:E4:C3:62:71:C1:77",
         "3B:75:D9:11:9D:77:1E:F3:13:9A:92:0A:04:FE:C6:4F:7D:EE:F7:66:B4:A8:B7:E2:2A:FA:A6:0E:D1:B6:B6:27"
       ]
