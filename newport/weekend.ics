@@ -8,111 +8,318 @@ X-WR-CALDESC:Hand-checked weekend picks in Newport, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:newport-cliff-walk-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T081235Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Cliff Walk
-LOCATION:Newport Cliff Walk\, Memorial Blvd\, Newport\, RI 02840
-DESCRIPTION:A 3.5-mile path between the Gilded Age mansions and the ocean.
-  Free. Details: https://weekendscout.app/e/newport/cliff-walk-2026-11/
-URL:https://weekendscout.app/e/newport/cliff-walk-2026-11/
+UID:newport-sparkling-lights-the-breakers-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261127T210000Z
+DTEND:20261128T010000Z
+SUMMARY:Sparkling Lights at The Breakers
+LOCATION:The Breakers\, 44 Ochre Point Ave\, Newport\, RI 02840
+DESCRIPTION:The Vanderbilt mansion and grounds glow with holiday lights af
+ ter dark\, with interior access included. Timed entry every half hour from
+  4 to 6 p.m.\; a special evening ticket is required. $18–$45. Details: h
+ ttps://weekendscout.app/e/newport/sparkling-lights-the-breakers-2026-11/
+URL:https://weekendscout.app/e/newport/sparkling-lights-the-breakers-2026-11/
 END:VEVENT
 BEGIN:VEVENT
-UID:newport-cliff-walk-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T081235Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Cliff Walk
-LOCATION:Newport Cliff Walk\, Memorial Blvd\, Newport\, RI 02840
-DESCRIPTION:A 3.5-mile path between the Gilded Age mansions and the ocean.
-  Free. Details: https://weekendscout.app/e/newport/cliff-walk-2026-11/
-URL:https://weekendscout.app/e/newport/cliff-walk-2026-11/
+UID:newport-sparkling-lights-the-breakers-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261128T210000Z
+DTEND:20261129T010000Z
+SUMMARY:Sparkling Lights at The Breakers
+LOCATION:The Breakers\, 44 Ochre Point Ave\, Newport\, RI 02840
+DESCRIPTION:The Vanderbilt mansion and grounds glow with holiday lights af
+ ter dark\, with interior access included. Timed entry every half hour from
+  4 to 6 p.m.\; a special evening ticket is required. $18–$45. Details: h
+ ttps://weekendscout.app/e/newport/sparkling-lights-the-breakers-2026-11/
+URL:https://weekendscout.app/e/newport/sparkling-lights-the-breakers-2026-11/
 END:VEVENT
 BEGIN:VEVENT
-UID:newport-cliff-walk-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T081235Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Cliff Walk
-LOCATION:Newport Cliff Walk\, Memorial Blvd\, Newport\, RI 02840
-DESCRIPTION:A 3.5-mile path between the Gilded Age mansions and the ocean.
-  Free. Details: https://weekendscout.app/e/newport/cliff-walk-2026-11/
-URL:https://weekendscout.app/e/newport/cliff-walk-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:newport-bowen-s-wharf-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T081235Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Bowen’s Wharf
-LOCATION:Bowen’s Wharf\, Bowen’s Wharf\, Newport\, RI 02840
-DESCRIPTION:The harbor wharf of shops\, oysters and chowder. Free to brows
- e. Details: https://weekendscout.app/e/newport/bowen-s-wharf-2026-11/
-URL:https://weekendscout.app/e/newport/bowen-s-wharf-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:newport-bowen-s-wharf-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T081235Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Bowen’s Wharf
-LOCATION:Bowen’s Wharf\, Bowen’s Wharf\, Newport\, RI 02840
-DESCRIPTION:The harbor wharf of shops\, oysters and chowder. Free to brows
- e. Details: https://weekendscout.app/e/newport/bowen-s-wharf-2026-11/
-URL:https://weekendscout.app/e/newport/bowen-s-wharf-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:newport-bowen-s-wharf-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T081235Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Bowen’s Wharf
-LOCATION:Bowen’s Wharf\, Bowen’s Wharf\, Newport\, RI 02840
-DESCRIPTION:The harbor wharf of shops\, oysters and chowder. Free to brows
- e. Details: https://weekendscout.app/e/newport/bowen-s-wharf-2026-11/
-URL:https://weekendscout.app/e/newport/bowen-s-wharf-2026-11/
+UID:newport-sparkling-lights-the-breakers-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261129T210000Z
+DTEND:20261130T010000Z
+SUMMARY:Sparkling Lights at The Breakers
+LOCATION:The Breakers\, 44 Ochre Point Ave\, Newport\, RI 02840
+DESCRIPTION:The Vanderbilt mansion and grounds glow with holiday lights af
+ ter dark\, with interior access included. Timed entry every half hour from
+  4 to 6 p.m.\; a special evening ticket is required. $18–$45. Details: h
+ ttps://weekendscout.app/e/newport/sparkling-lights-the-breakers-2026-11/
+URL:https://weekendscout.app/e/newport/sparkling-lights-the-breakers-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:newport-christmas-at-the-breakers-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T081235Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
+DTSTAMP:20261126T084518Z
+DTSTART:20261127T140000Z
+DTEND:20261127T200000Z
 SUMMARY:Christmas at The Breakers
 LOCATION:The Breakers\, 44 Ochre Point Ave\, Newport\, RI 02840
-DESCRIPTION:The Vanderbilt mansion dressed for the holidays. Tickets. Deta
- ils: https://weekendscout.app/e/newport/christmas-at-the-breakers-2026-11/
+DESCRIPTION:Self-guided daytime tours of the Vanderbilt mansion dressed fo
+ r the holidays (last admission 2 p.m.). Timed tickets are required and buy
+ ing ahead is recommended. Tickets. Details: https://weekendscout.app/e/new
+ port/christmas-at-the-breakers-2026-11/
 URL:https://weekendscout.app/e/newport/christmas-at-the-breakers-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:newport-christmas-at-the-breakers-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T081235Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
+DTSTAMP:20261126T084518Z
+DTSTART:20261128T140000Z
+DTEND:20261128T200000Z
 SUMMARY:Christmas at The Breakers
 LOCATION:The Breakers\, 44 Ochre Point Ave\, Newport\, RI 02840
-DESCRIPTION:The Vanderbilt mansion dressed for the holidays. Tickets. Deta
- ils: https://weekendscout.app/e/newport/christmas-at-the-breakers-2026-11/
+DESCRIPTION:Self-guided daytime tours of the Vanderbilt mansion dressed fo
+ r the holidays (last admission 2 p.m.). Timed tickets are required and buy
+ ing ahead is recommended. Tickets. Details: https://weekendscout.app/e/new
+ port/christmas-at-the-breakers-2026-11/
 URL:https://weekendscout.app/e/newport/christmas-at-the-breakers-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:newport-christmas-at-the-breakers-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+DTSTAMP:20261126T084518Z
+DTSTART:20261129T140000Z
+DTEND:20261129T200000Z
+SUMMARY:Christmas at The Breakers
+LOCATION:The Breakers\, 44 Ochre Point Ave\, Newport\, RI 02840
+DESCRIPTION:Self-guided daytime tours of the Vanderbilt mansion dressed fo
+ r the holidays (last admission 2 p.m.). Timed tickets are required and buy
+ ing ahead is recommended. Tickets. Details: https://weekendscout.app/e/new
+ port/christmas-at-the-breakers-2026-11/
+URL:https://weekendscout.app/e/newport/christmas-at-the-breakers-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:newport-holidays-marble-house-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261127T140000Z
+DTEND:20261127T220000Z
+SUMMARY:Holidays at Marble House
+LOCATION:Marble House\, 596 Bellevue Ave\, Newport\, RI 02840
+DESCRIPTION:The Gilded Age mansion is open daily for the Newport Mansions 
+ holiday season (last admission 4 p.m.). Tickets. Details: https://weekends
+ cout.app/e/newport/holidays-marble-house-2026-11/
+URL:https://weekendscout.app/e/newport/holidays-marble-house-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:newport-holidays-marble-house-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261128T140000Z
+DTEND:20261128T220000Z
+SUMMARY:Holidays at Marble House
+LOCATION:Marble House\, 596 Bellevue Ave\, Newport\, RI 02840
+DESCRIPTION:The Gilded Age mansion is open daily for the Newport Mansions 
+ holiday season (last admission 4 p.m.). Tickets. Details: https://weekends
+ cout.app/e/newport/holidays-marble-house-2026-11/
+URL:https://weekendscout.app/e/newport/holidays-marble-house-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:newport-holidays-marble-house-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261129T140000Z
+DTEND:20261129T220000Z
+SUMMARY:Holidays at Marble House
+LOCATION:Marble House\, 596 Bellevue Ave\, Newport\, RI 02840
+DESCRIPTION:The Gilded Age mansion is open daily for the Newport Mansions 
+ holiday season (last admission 4 p.m.). Tickets. Details: https://weekends
+ cout.app/e/newport/holidays-marble-house-2026-11/
+URL:https://weekendscout.app/e/newport/holidays-marble-house-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:newport-newport-nutcracker-rosecliff-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:The Newport Nutcracker at Rosecliff
+LOCATION:Rosecliff\, 548 Bellevue Ave\, Newport\, RI 02840
+DESCRIPTION:Newport Contemporary Ballet performs The Nutcracker inside the
+  Rosecliff mansion. Tickets are for ages 6 and up\, and all sales are fina
+ l. From $159. Details: https://weekendscout.app/e/newport/newport-nutcrack
+ er-rosecliff-2026-11/
+URL:https://weekendscout.app/e/newport/newport-nutcracker-rosecliff-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:newport-newport-nutcracker-rosecliff-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:The Newport Nutcracker at Rosecliff
+LOCATION:Rosecliff\, 548 Bellevue Ave\, Newport\, RI 02840
+DESCRIPTION:Newport Contemporary Ballet performs The Nutcracker inside the
+  Rosecliff mansion. Tickets are for ages 6 and up\, and all sales are fina
+ l. From $159. Details: https://weekendscout.app/e/newport/newport-nutcrack
+ er-rosecliff-2026-11/
+URL:https://weekendscout.app/e/newport/newport-nutcracker-rosecliff-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:newport-newport-nutcracker-rosecliff-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T084518Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
-SUMMARY:Christmas at The Breakers
-LOCATION:The Breakers\, 44 Ochre Point Ave\, Newport\, RI 02840
-DESCRIPTION:The Vanderbilt mansion dressed for the holidays. Tickets. Deta
- ils: https://weekendscout.app/e/newport/christmas-at-the-breakers-2026-11/
-URL:https://weekendscout.app/e/newport/christmas-at-the-breakers-2026-11/
+SUMMARY:The Newport Nutcracker at Rosecliff
+LOCATION:Rosecliff\, 548 Bellevue Ave\, Newport\, RI 02840
+DESCRIPTION:Newport Contemporary Ballet performs The Nutcracker inside the
+  Rosecliff mansion. Tickets are for ages 6 and up\, and all sales are fina
+ l. From $159. Details: https://weekendscout.app/e/newport/newport-nutcrack
+ er-rosecliff-2026-11/
+URL:https://weekendscout.app/e/newport/newport-nutcracker-rosecliff-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:newport-rough-point-holiday-after-dark-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261127T210000Z
+DTEND:20261127T223000Z
+SUMMARY:A Rough Point Holiday: After Dark
+LOCATION:Rough Point\, 680 Bellevue Ave\, Newport\, RI 02840
+DESCRIPTION:Doris Duke's oceanfront mansion after dusk\, decorated for the
+  holidays\, with drinks and jazz on the terrace. Tickets. Details: https:/
+ /weekendscout.app/e/newport/rough-point-holiday-after-dark-2026-11/
+URL:https://weekendscout.app/e/newport/rough-point-holiday-after-dark-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:newport-rough-point-holiday-after-dark-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261128T210000Z
+DTEND:20261128T223000Z
+SUMMARY:A Rough Point Holiday: After Dark
+LOCATION:Rough Point\, 680 Bellevue Ave\, Newport\, RI 02840
+DESCRIPTION:Doris Duke's oceanfront mansion after dusk\, decorated for the
+  holidays\, with drinks and jazz on the terrace. Tickets. Details: https:/
+ /weekendscout.app/e/newport/rough-point-holiday-after-dark-2026-11/
+URL:https://weekendscout.app/e/newport/rough-point-holiday-after-dark-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:newport-rough-point-holiday-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261127T150000Z
+DTEND:20261127T210000Z
+SUMMARY:A Rough Point Holiday
+LOCATION:Rough Point\, 680 Bellevue Ave\, Newport\, RI 02840
+DESCRIPTION:Daytime holiday admission to the Rough Point museum and ground
+ s on the Cliff Walk\, open Fridays through Sundays this season. Tickets. D
+ etails: https://weekendscout.app/e/newport/rough-point-holiday-2026-11/
+URL:https://weekendscout.app/e/newport/rough-point-holiday-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:newport-rough-point-holiday-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261128T150000Z
+DTEND:20261128T210000Z
+SUMMARY:A Rough Point Holiday
+LOCATION:Rough Point\, 680 Bellevue Ave\, Newport\, RI 02840
+DESCRIPTION:Daytime holiday admission to the Rough Point museum and ground
+ s on the Cliff Walk\, open Fridays through Sundays this season. Tickets. D
+ etails: https://weekendscout.app/e/newport/rough-point-holiday-2026-11/
+URL:https://weekendscout.app/e/newport/rough-point-holiday-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:newport-rough-point-holiday-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261129T150000Z
+DTEND:20261129T210000Z
+SUMMARY:A Rough Point Holiday
+LOCATION:Rough Point\, 680 Bellevue Ave\, Newport\, RI 02840
+DESCRIPTION:Daytime holiday admission to the Rough Point museum and ground
+ s on the Cliff Walk\, open Fridays through Sundays this season. Tickets. D
+ etails: https://weekendscout.app/e/newport/rough-point-holiday-2026-11/
+URL:https://weekendscout.app/e/newport/rough-point-holiday-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:newport-farce-day-of-christmas-newport-playhouse-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261128T003000Z
+DTEND:20261128T023000Z
+SUMMARY:On the Farce Day of Christmas
+LOCATION:Newport Playhouse\, 102 Connell Hwy\, Newport\, RI 02840
+DESCRIPTION:Ken Levine's holiday farce at the dinner theater\, with a caba
+ ret after the play. Buffet dinner packages or theater-only seats. $32 show
+ \; $76.95 dinner & show. Details: https://weekendscout.app/e/newport/farce
+ -day-of-christmas-newport-playhouse-2026-11/
+URL:https://weekendscout.app/e/newport/farce-day-of-christmas-newport-playhouse-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:newport-farce-day-of-christmas-newport-playhouse-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261129T003000Z
+DTEND:20261129T023000Z
+SUMMARY:On the Farce Day of Christmas
+LOCATION:Newport Playhouse\, 102 Connell Hwy\, Newport\, RI 02840
+DESCRIPTION:Ken Levine's holiday farce at the dinner theater\, with a caba
+ ret after the play. Buffet dinner packages or theater-only seats. $32 show
+ \; $76.95 dinner & show. Details: https://weekendscout.app/e/newport/farce
+ -day-of-christmas-newport-playhouse-2026-11/
+URL:https://weekendscout.app/e/newport/farce-day-of-christmas-newport-playhouse-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:newport-farce-day-of-christmas-newport-playhouse-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261129T190000Z
+DTEND:20261129T210000Z
+SUMMARY:On the Farce Day of Christmas
+LOCATION:Newport Playhouse\, 102 Connell Hwy\, Newport\, RI 02840
+DESCRIPTION:Ken Levine's holiday farce at the dinner theater\, with a caba
+ ret after the play. Buffet dinner packages or theater-only seats. $32 show
+ \; $76.95 dinner & show. Details: https://weekendscout.app/e/newport/farce
+ -day-of-christmas-newport-playhouse-2026-11/
+URL:https://weekendscout.app/e/newport/farce-day-of-christmas-newport-playhouse-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:newport-bit-players-firehouse-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261128T010000Z
+DTEND:20261128T020000Z
+SUMMARY:The Bit Players Improv Comedy
+LOCATION:Firehouse Theater\, 4 Equality Park Pl\, Newport\, RI 02840
+DESCRIPTION:An hour of audience-driven improv\, aiming for PG-13\, followe
+ d by a 10 p.m. late show geared to adults. BYOB. $18. Details: https://wee
+ kendscout.app/e/newport/bit-players-firehouse-2026-11/
+URL:https://weekendscout.app/e/newport/bit-players-firehouse-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:newport-bit-players-firehouse-2026-11-fri-1@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261128T030000Z
+DTEND:20261128T040000Z
+SUMMARY:The Bit Players Improv Comedy
+LOCATION:Firehouse Theater\, 4 Equality Park Pl\, Newport\, RI 02840
+DESCRIPTION:An hour of audience-driven improv\, aiming for PG-13\, followe
+ d by a 10 p.m. late show geared to adults. BYOB. $18. Details: https://wee
+ kendscout.app/e/newport/bit-players-firehouse-2026-11/
+URL:https://weekendscout.app/e/newport/bit-players-firehouse-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:newport-bit-players-firehouse-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261129T010000Z
+DTEND:20261129T020000Z
+SUMMARY:The Bit Players Improv Comedy
+LOCATION:Firehouse Theater\, 4 Equality Park Pl\, Newport\, RI 02840
+DESCRIPTION:An hour of audience-driven improv\, aiming for PG-13\, followe
+ d by a 10 p.m. late show geared to adults. BYOB. $18. Details: https://wee
+ kendscout.app/e/newport/bit-players-firehouse-2026-11/
+URL:https://weekendscout.app/e/newport/bit-players-firehouse-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:newport-bit-players-firehouse-2026-11-sat-1@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261129T030000Z
+DTEND:20261129T040000Z
+SUMMARY:The Bit Players Improv Comedy
+LOCATION:Firehouse Theater\, 4 Equality Park Pl\, Newport\, RI 02840
+DESCRIPTION:An hour of audience-driven improv\, aiming for PG-13\, followe
+ d by a 10 p.m. late show geared to adults. BYOB. $18. Details: https://wee
+ kendscout.app/e/newport/bit-players-firehouse-2026-11/
+URL:https://weekendscout.app/e/newport/bit-players-firehouse-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:newport-fireside-fridays-newport-vineyards-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261127T210000Z
+DTEND:20261128T010000Z
+SUMMARY:Fireside Fridays with Live Music
+LOCATION:Newport Vineyards\, 909 E Main Rd\, Middletown\, RI 02842
+DESCRIPTION:Live acoustic music from 4:30 to 7:30 p.m. at the winery's Far
+ m & Barrel Bistro\; food and drinks are extra. Free. Details: https://week
+ endscout.app/e/newport/fireside-fridays-newport-vineyards-2026-11-27/
+URL:https://weekendscout.app/e/newport/fireside-fridays-newport-vineyards-2026-11-27/
 END:VEVENT
 END:VCALENDAR

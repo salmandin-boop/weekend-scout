@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:cleveland-winterland-kickoff-sat-0@weekendscout.app
-DTSTAMP:20261126T081234Z
+DTSTAMP:20261126T084517Z
 DTSTART:20261128T200000Z
 DTEND:20261129T010000Z
 SUMMARY:WinterLand Kickoff
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/cleveland/winterland-kickoff/
 END:VEVENT
 BEGIN:VEVENT
 UID:cleveland-wild-winter-lights-fri-0@weekendscout.app
-DTSTAMP:20261126T081234Z
+DTSTAMP:20261126T084517Z
 DTSTART:20261127T220000Z
 DTEND:20261128T020000Z
 SUMMARY:Wild Winter Lights
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/cleveland/wild-winter-lights/
 END:VEVENT
 BEGIN:VEVENT
 UID:cleveland-wild-winter-lights-sat-0@weekendscout.app
-DTSTAMP:20261126T081234Z
+DTSTAMP:20261126T084517Z
 DTSTART:20261128T220000Z
 DTEND:20261129T020000Z
 SUMMARY:Wild Winter Lights
@@ -48,7 +48,7 @@ URL:https://weekendscout.app/e/cleveland/wild-winter-lights/
 END:VEVENT
 BEGIN:VEVENT
 UID:cleveland-wild-winter-lights-sun-0@weekendscout.app
-DTSTAMP:20261126T081234Z
+DTSTAMP:20261126T084517Z
 DTSTART:20261129T220000Z
 DTEND:20261130T020000Z
 SUMMARY:Wild Winter Lights
@@ -61,7 +61,7 @@ URL:https://weekendscout.app/e/cleveland/wild-winter-lights/
 END:VEVENT
 BEGIN:VEVENT
 UID:cleveland-great-lakes-christmas-carol-fri-0@weekendscout.app
-DTSTAMP:20261126T081234Z
+DTSTAMP:20261126T084517Z
 DTSTART:20261128T003000Z
 DTEND:20261128T023000Z
 SUMMARY:A Christmas Carol
@@ -73,7 +73,7 @@ URL:https://weekendscout.app/e/cleveland/great-lakes-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:cleveland-great-lakes-christmas-carol-sat-0@weekendscout.app
-DTSTAMP:20261126T081234Z
+DTSTAMP:20261126T084517Z
 DTSTART:20261128T183000Z
 DTEND:20261128T203000Z
 SUMMARY:A Christmas Carol
@@ -85,7 +85,7 @@ URL:https://weekendscout.app/e/cleveland/great-lakes-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:cleveland-great-lakes-christmas-carol-sat-1@weekendscout.app
-DTSTAMP:20261126T081234Z
+DTSTAMP:20261126T084517Z
 DTSTART:20261129T003000Z
 DTEND:20261129T023000Z
 SUMMARY:A Christmas Carol
@@ -97,7 +97,7 @@ URL:https://weekendscout.app/e/cleveland/great-lakes-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:cleveland-great-lakes-christmas-carol-sun-0@weekendscout.app
-DTSTAMP:20261126T081234Z
+DTSTAMP:20261126T084517Z
 DTSTART:20261129T200000Z
 DTEND:20261129T220000Z
 SUMMARY:A Christmas Carol
@@ -109,7 +109,7 @@ URL:https://weekendscout.app/e/cleveland/great-lakes-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:cleveland-annie-cleveland-play-house-sat-0@weekendscout.app
-DTSTAMP:20261126T081234Z
+DTSTAMP:20261126T084517Z
 DTSTART:20261129T003000Z
 DTEND:20261129T023000Z
 SUMMARY:Annie
@@ -121,7 +121,7 @@ URL:https://weekendscout.app/e/cleveland/annie-cleveland-play-house/
 END:VEVENT
 BEGIN:VEVENT
 UID:cleveland-annie-cleveland-play-house-sun-0@weekendscout.app
-DTSTAMP:20261126T081234Z
+DTSTAMP:20261126T084517Z
 DTSTART:20261130T003000Z
 DTEND:20261130T023000Z
 SUMMARY:Annie
@@ -133,7 +133,7 @@ URL:https://weekendscout.app/e/cleveland/annie-cleveland-play-house/
 END:VEVENT
 BEGIN:VEVENT
 UID:cleveland-motown-christmas-fri-0@weekendscout.app
-DTSTAMP:20261126T081234Z
+DTSTAMP:20261126T084517Z
 DTSTART:20261128T003000Z
 DTEND:20261128T023000Z
 SUMMARY:A Motown Christmas
@@ -145,7 +145,7 @@ URL:https://weekendscout.app/e/cleveland/motown-christmas/
 END:VEVENT
 BEGIN:VEVENT
 UID:cleveland-motown-christmas-sat-0@weekendscout.app
-DTSTAMP:20261126T081234Z
+DTSTAMP:20261126T084517Z
 DTSTART:20261129T003000Z
 DTEND:20261129T023000Z
 SUMMARY:A Motown Christmas
@@ -157,7 +157,7 @@ URL:https://weekendscout.app/e/cleveland/motown-christmas/
 END:VEVENT
 BEGIN:VEVENT
 UID:cleveland-motown-christmas-sun-0@weekendscout.app
-DTSTAMP:20261126T081234Z
+DTSTAMP:20261126T084517Z
 DTSTART:20261129T200000Z
 DTEND:20261129T220000Z
 SUMMARY:A Motown Christmas
@@ -169,7 +169,7 @@ URL:https://weekendscout.app/e/cleveland/motown-christmas/
 END:VEVENT
 BEGIN:VEVENT
 UID:cleveland-cma-open-studio-sun-0@weekendscout.app
-DTSTAMP:20261126T081234Z
+DTSTAMP:20261126T084517Z
 DTSTART:20261129T150000Z
 DTEND:20261129T190000Z
 SUMMARY:Open Studio: Wonders of Watercolor
@@ -181,7 +181,7 @@ URL:https://weekendscout.app/e/cleveland/cma-open-studio/
 END:VEVENT
 BEGIN:VEVENT
 UID:cleveland-monsters-vs-hammers-fri-0@weekendscout.app
-DTSTAMP:20261126T081234Z
+DTSTAMP:20261126T084517Z
 DTSTART:20261128T000000Z
 DTEND:20261128T020000Z
 SUMMARY:Cleveland Monsters vs. Hamilton Hammers
@@ -193,7 +193,7 @@ URL:https://weekendscout.app/e/cleveland/monsters-vs-hammers/
 END:VEVENT
 BEGIN:VEVENT
 UID:cleveland-monsters-vs-hammers-sat-0@weekendscout.app
-DTSTAMP:20261126T081234Z
+DTSTAMP:20261126T084517Z
 DTSTART:20261129T000000Z
 DTEND:20261129T020000Z
 SUMMARY:Cleveland Monsters vs. Hamilton Hammers
@@ -205,7 +205,7 @@ URL:https://weekendscout.app/e/cleveland/monsters-vs-hammers/
 END:VEVENT
 BEGIN:VEVENT
 UID:cleveland-cavaliers-vs-heat-sun-0@weekendscout.app
-DTSTAMP:20261126T081234Z
+DTSTAMP:20261126T084517Z
 DTSTART:20261129T203000Z
 DTEND:20261129T223000Z
 SUMMARY:Cavaliers vs. Miami Heat
@@ -216,7 +216,7 @@ URL:https://weekendscout.app/e/cleveland/cavaliers-vs-heat/
 END:VEVENT
 BEGIN:VEVENT
 UID:cleveland-browns-vs-raiders-sun-0@weekendscout.app
-DTSTAMP:20261126T081234Z
+DTSTAMP:20261126T084517Z
 DTSTART:20261130T012000Z
 DTEND:20261130T032000Z
 SUMMARY:Browns vs. Las Vegas Raiders
@@ -229,7 +229,7 @@ URL:https://weekendscout.app/e/cleveland/browns-vs-raiders/
 END:VEVENT
 BEGIN:VEVENT
 UID:cleveland-mary-santora-hilarities-fri-0@weekendscout.app
-DTSTAMP:20261126T081234Z
+DTSTAMP:20261126T084517Z
 DTSTART:20261127T233000Z
 DTEND:20261128T013000Z
 SUMMARY:Mary Santora
@@ -242,7 +242,7 @@ URL:https://weekendscout.app/e/cleveland/mary-santora-hilarities/
 END:VEVENT
 BEGIN:VEVENT
 UID:cleveland-mary-santora-hilarities-sat-0@weekendscout.app
-DTSTAMP:20261126T081234Z
+DTSTAMP:20261126T084517Z
 DTSTART:20261128T233000Z
 DTEND:20261129T013000Z
 SUMMARY:Mary Santora
@@ -255,7 +255,7 @@ URL:https://weekendscout.app/e/cleveland/mary-santora-hilarities/
 END:VEVENT
 BEGIN:VEVENT
 UID:cleveland-mary-santora-hilarities-sat-1@weekendscout.app
-DTSTAMP:20261126T081234Z
+DTSTAMP:20261126T084517Z
 DTSTART:20261129T021500Z
 DTEND:20261129T041500Z
 SUMMARY:Mary Santora
@@ -268,7 +268,7 @@ URL:https://weekendscout.app/e/cleveland/mary-santora-hilarities/
 END:VEVENT
 BEGIN:VEVENT
 UID:cleveland-mary-santora-hilarities-sun-0@weekendscout.app
-DTSTAMP:20261126T081234Z
+DTSTAMP:20261126T084517Z
 DTSTART:20261130T000000Z
 DTEND:20261130T020000Z
 SUMMARY:Mary Santora

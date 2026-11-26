@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:kalamazoo-bronson-park-tree-lighting-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+DTSTAMP:20261126T084518Z
 DTSTART:20261127T220000Z
 DTEND:20261128T000000Z
 SUMMARY:Annual Tree Lighting Ceremony
@@ -23,7 +23,7 @@ URL:https://weekendscout.app/e/kalamazoo/bronson-park-tree-lighting-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:kalamazoo-kwings-wheeling-teddy-bear-toss-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+DTSTAMP:20261126T084518Z
 DTSTART:20261129T000000Z
 DTEND:20261129T020000Z
 SUMMARY:Kalamazoo Wings vs. Wheeling Nailers: Teddy Bear Toss
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/kalamazoo/kwings-wheeling-teddy-bear-toss-2026-11
 END:VEVENT
 BEGIN:VEVENT
 UID:kalamazoo-kwings-cincinnati-pirates-princesses-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+DTSTAMP:20261126T084518Z
 DTSTART:20261129T200000Z
 DTEND:20261129T220000Z
 SUMMARY:Kalamazoo Wings vs. Cincinnati Cyclones: Pirates & Princesses Day
@@ -48,7 +48,7 @@ URL:https://weekendscout.app/e/kalamazoo/kwings-cincinnati-pirates-princesses-20
 END:VEVENT
 BEGIN:VEVENT
 UID:kalamazoo-gilmore-winter-wonderland-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+DTSTAMP:20261126T084518Z
 DTSTART:20261128T220000Z
 DTEND:20261129T020000Z
 SUMMARY:Winter Wonderland: A Holiday Lights Spectacular
@@ -63,7 +63,7 @@ URL:https://weekendscout.app/e/kalamazoo/gilmore-winter-wonderland-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:kalamazoo-gilmore-winter-wonderland-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+DTSTAMP:20261126T084518Z
 DTSTART:20261129T220000Z
 DTEND:20261130T020000Z
 SUMMARY:Winter Wonderland: A Holiday Lights Spectacular
@@ -78,7 +78,7 @@ URL:https://weekendscout.app/e/kalamazoo/gilmore-winter-wonderland-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:kalamazoo-come-from-away-farmers-alley-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+DTSTAMP:20261126T084518Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -92,7 +92,7 @@ URL:https://weekendscout.app/e/kalamazoo/come-from-away-farmers-alley-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:kalamazoo-kalamazoo-institute-of-arts-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+DTSTAMP:20261126T084518Z
 DTSTART:20261127T160000Z
 DTEND:20261127T220000Z
 SUMMARY:Kalamazoo Institute of Arts
@@ -106,7 +106,7 @@ URL:https://weekendscout.app/e/kalamazoo/kalamazoo-institute-of-arts-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:kalamazoo-kalamazoo-institute-of-arts-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+DTSTAMP:20261126T084518Z
 DTSTART:20261128T160000Z
 DTEND:20261128T220000Z
 SUMMARY:Kalamazoo Institute of Arts
@@ -120,7 +120,7 @@ URL:https://weekendscout.app/e/kalamazoo/kalamazoo-institute-of-arts-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:kalamazoo-kalamazoo-institute-of-arts-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+DTSTAMP:20261126T084518Z
 DTSTART:20261129T170000Z
 DTEND:20261129T210000Z
 SUMMARY:Kalamazoo Institute of Arts
@@ -134,7 +134,7 @@ URL:https://weekendscout.app/e/kalamazoo/kalamazoo-institute-of-arts-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:kalamazoo-kalamazoo-valley-museum-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+DTSTAMP:20261126T084518Z
 DTSTART:20261128T150000Z
 DTEND:20261128T210000Z
 SUMMARY:Kalamazoo Valley Museum
@@ -146,7 +146,7 @@ URL:https://weekendscout.app/e/kalamazoo/kalamazoo-valley-museum-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:kalamazoo-kalamazoo-valley-museum-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+DTSTAMP:20261126T084518Z
 DTSTART:20261129T170000Z
 DTEND:20261129T210000Z
 SUMMARY:Kalamazoo Valley Museum
@@ -158,7 +158,7 @@ URL:https://weekendscout.app/e/kalamazoo/kalamazoo-valley-museum-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:kalamazoo-kalamazoo-mall-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+DTSTAMP:20261126T084518Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -171,7 +171,7 @@ URL:https://weekendscout.app/e/kalamazoo/kalamazoo-mall-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:kalamazoo-kalamazoo-mall-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+DTSTAMP:20261126T084518Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -184,7 +184,7 @@ URL:https://weekendscout.app/e/kalamazoo/kalamazoo-mall-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:kalamazoo-kalamazoo-mall-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+DTSTAMP:20261126T084518Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT

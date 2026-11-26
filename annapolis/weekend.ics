@@ -8,116 +8,212 @@ X-WR-CALDESC:Hand-checked weekend picks in Annapolis, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:annapolis-city-dock-ego-alley-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+UID:annapolis-holiday-inn-classic-theatre-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261128T010000Z
+DTEND:20261128T030000Z
+SUMMARY:Irving Berlin's Holiday Inn
+LOCATION:Classic Theatre of Maryland\, 1804 West St\, Annapolis\, MD 21401
+DESCRIPTION:The Broadway song-and-dance musical opens Black Friday\, playi
+ ng in rotating repertory with A Christmas Carol through New Year's. Ticket
+ s. Details: https://weekendscout.app/e/annapolis/holiday-inn-classic-theat
+ re-2026-11/
+URL:https://weekendscout.app/e/annapolis/holiday-inn-classic-theatre-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:annapolis-holiday-inn-classic-theatre-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261128T190000Z
+DTEND:20261128T210000Z
+SUMMARY:Irving Berlin's Holiday Inn
+LOCATION:Classic Theatre of Maryland\, 1804 West St\, Annapolis\, MD 21401
+DESCRIPTION:The Broadway song-and-dance musical opens Black Friday\, playi
+ ng in rotating repertory with A Christmas Carol through New Year's. Ticket
+ s. Details: https://weekendscout.app/e/annapolis/holiday-inn-classic-theat
+ re-2026-11/
+URL:https://weekendscout.app/e/annapolis/holiday-inn-classic-theatre-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:annapolis-holiday-inn-classic-theatre-2026-11-sat-1@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:Irving Berlin's Holiday Inn
+LOCATION:Classic Theatre of Maryland\, 1804 West St\, Annapolis\, MD 21401
+DESCRIPTION:The Broadway song-and-dance musical opens Black Friday\, playi
+ ng in rotating repertory with A Christmas Carol through New Year's. Ticket
+ s. Details: https://weekendscout.app/e/annapolis/holiday-inn-classic-theat
+ re-2026-11/
+URL:https://weekendscout.app/e/annapolis/holiday-inn-classic-theatre-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:annapolis-holiday-inn-classic-theatre-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261129T190000Z
+DTEND:20261129T210000Z
+SUMMARY:Irving Berlin's Holiday Inn
+LOCATION:Classic Theatre of Maryland\, 1804 West St\, Annapolis\, MD 21401
+DESCRIPTION:The Broadway song-and-dance musical opens Black Friday\, playi
+ ng in rotating repertory with A Christmas Carol through New Year's. Ticket
+ s. Details: https://weekendscout.app/e/annapolis/holiday-inn-classic-theat
+ re-2026-11/
+URL:https://weekendscout.app/e/annapolis/holiday-inn-classic-theatre-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:annapolis-so-fetch-2000s-dance-party-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261128T010000Z
+DTEND:20261128T030000Z
+SUMMARY:So Fetch: The ULTIMATE 2000's Dance Party!
+LOCATION:Rams Head On Stage\, 33 West St\, Annapolis\, MD 21401
+DESCRIPTION:A 2000s throwback dance party with the floor cleared for danci
+ ng. Doors at 7 p.m. Check ticket prices. Details: https://weekendscout.app
+ /e/annapolis/so-fetch-2000s-dance-party-2026-11/
+URL:https://weekendscout.app/e/annapolis/so-fetch-2000s-dance-party-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:annapolis-8-ohms-band-matinee-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261128T173000Z
+DTEND:20261128T193000Z
+SUMMARY:8 Ohms Band w/ The G Method (Matinee)
+LOCATION:Rams Head On Stage\, 33 West St\, Annapolis\, MD 21401
+DESCRIPTION:An afternoon show with the 8 Ohms Band and The G Method. Doors
+  at 11:30 a.m.\; all ages with a parent or guardian. Check ticket prices. 
+ Details: https://weekendscout.app/e/annapolis/8-ohms-band-matinee-2026-11/
+URL:https://weekendscout.app/e/annapolis/8-ohms-band-matinee-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:annapolis-nicole-atkins-rams-head-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:Nicole Atkins w/ John Gallagher Jr. & Callum
+LOCATION:Rams Head On Stage\, 33 West St\, Annapolis\, MD 21401
+DESCRIPTION:The soulful singer-songwriter plays the intimate supper-club r
+ oom\, with Tony winner John Gallagher Jr. opening. Doors at 7 p.m. Check t
+ icket prices. Details: https://weekendscout.app/e/annapolis/nicole-atkins-
+ rams-head-2026-11/
+URL:https://weekendscout.app/e/annapolis/nicole-atkins-rams-head-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:annapolis-john-lodge-tribute-rams-head-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261130T000000Z
+DTEND:20261130T020000Z
+SUMMARY:A Tribute to John Lodge - An Evening of Moody Blues Magic
+LOCATION:Rams Head On Stage\, 33 West St\, Annapolis\, MD 21401
+DESCRIPTION:Moody Blues songs performed by John's 10\,000 Light Years Band
+ \, featuring Jon Davison of YES. Doors at 6 p.m. Check ticket prices. Deta
+ ils: https://weekendscout.app/e/annapolis/john-lodge-tribute-rams-head-202
+ 6-11/
+URL:https://weekendscout.app/e/annapolis/john-lodge-tribute-rams-head-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:annapolis-grand-illumination-annapolis-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Grand Illumination
+LOCATION:City Dock\, 1 Dock St\, Annapolis\, MD 21401
+DESCRIPTION:Downtown Annapolis lights its Christmas tree near the Market H
+ ouse and City Dock to open the holiday season. Free. Details: https://week
+ endscout.app/e/annapolis/grand-illumination-annapolis-2026-11/
+URL:https://weekendscout.app/e/annapolis/grand-illumination-annapolis-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:annapolis-lights-on-the-bay-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T084518Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
-SUMMARY:City Dock & Ego Alley
-LOCATION:City Dock\, 1 Dock St\, Annapolis\, MD 21401
-DESCRIPTION:The historic harbor where boats parade through “Ego Alley.
- ” Free. Details: https://weekendscout.app/e/annapolis/city-dock-ego-alle
- y-2026-11/
-URL:https://weekendscout.app/e/annapolis/city-dock-ego-alley-2026-11/
+SUMMARY:Lights on the Bay
+LOCATION:Sandy Point State Park\, 1100 E College Pkwy\, Annapolis\, MD 214
+ 09
+DESCRIPTION:A two-mile drive-through of more than 70 animated light displa
+ ys along the Chesapeake Bay\, running through January 3. From $20. Details
+ : https://weekendscout.app/e/annapolis/lights-on-the-bay-2026-11/
+URL:https://weekendscout.app/e/annapolis/lights-on-the-bay-2026-11/
 END:VEVENT
 BEGIN:VEVENT
-UID:annapolis-city-dock-ego-alley-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+UID:annapolis-lights-on-the-bay-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T084518Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
-SUMMARY:City Dock & Ego Alley
-LOCATION:City Dock\, 1 Dock St\, Annapolis\, MD 21401
-DESCRIPTION:The historic harbor where boats parade through “Ego Alley.
- ” Free. Details: https://weekendscout.app/e/annapolis/city-dock-ego-alle
- y-2026-11/
-URL:https://weekendscout.app/e/annapolis/city-dock-ego-alley-2026-11/
+SUMMARY:Lights on the Bay
+LOCATION:Sandy Point State Park\, 1100 E College Pkwy\, Annapolis\, MD 214
+ 09
+DESCRIPTION:A two-mile drive-through of more than 70 animated light displa
+ ys along the Chesapeake Bay\, running through January 3. From $20. Details
+ : https://weekendscout.app/e/annapolis/lights-on-the-bay-2026-11/
+URL:https://weekendscout.app/e/annapolis/lights-on-the-bay-2026-11/
 END:VEVENT
 BEGIN:VEVENT
-UID:annapolis-city-dock-ego-alley-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+UID:annapolis-lights-on-the-bay-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T084518Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
-SUMMARY:City Dock & Ego Alley
-LOCATION:City Dock\, 1 Dock St\, Annapolis\, MD 21401
-DESCRIPTION:The historic harbor where boats parade through “Ego Alley.
- ” Free. Details: https://weekendscout.app/e/annapolis/city-dock-ego-alle
- y-2026-11/
-URL:https://weekendscout.app/e/annapolis/city-dock-ego-alley-2026-11/
+SUMMARY:Lights on the Bay
+LOCATION:Sandy Point State Park\, 1100 E College Pkwy\, Annapolis\, MD 214
+ 09
+DESCRIPTION:A two-mile drive-through of more than 70 animated light displa
+ ys along the Chesapeake Bay\, running through January 3. From $20. Details
+ : https://weekendscout.app/e/annapolis/lights-on-the-bay-2026-11/
+URL:https://weekendscout.app/e/annapolis/lights-on-the-bay-2026-11/
 END:VEVENT
 BEGIN:VEVENT
-UID:annapolis-maryland-state-house-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T081235Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Maryland State House
-LOCATION:Maryland State House\, 100 State Cir\, Annapolis\, MD 21401
-DESCRIPTION:The oldest state capitol still in legislative use\; George Was
- hington resigned his commission here. Free. Details: https://weekendscout.
- app/e/annapolis/maryland-state-house-2026-11/
-URL:https://weekendscout.app/e/annapolis/maryland-state-house-2026-11/
+UID:annapolis-naval-academy-museum-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261127T140000Z
+DTEND:20261127T220000Z
+SUMMARY:U.S. Naval Academy Museum
+LOCATION:U.S. Naval Academy Museum\, 118 Maryland Ave\, Annapolis\, MD 214
+ 02
+DESCRIPTION:Ship models\, flags and naval history in Preble Hall on the Ac
+ ademy grounds. Visitors 18 and up need a valid photo ID. Free. Details: ht
+ tps://weekendscout.app/e/annapolis/naval-academy-museum-2026-11/
+URL:https://weekendscout.app/e/annapolis/naval-academy-museum-2026-11/
 END:VEVENT
 BEGIN:VEVENT
-UID:annapolis-maryland-state-house-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T081235Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Maryland State House
-LOCATION:Maryland State House\, 100 State Cir\, Annapolis\, MD 21401
-DESCRIPTION:The oldest state capitol still in legislative use\; George Was
- hington resigned his commission here. Free. Details: https://weekendscout.
- app/e/annapolis/maryland-state-house-2026-11/
-URL:https://weekendscout.app/e/annapolis/maryland-state-house-2026-11/
+UID:annapolis-naval-academy-museum-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261128T140000Z
+DTEND:20261128T220000Z
+SUMMARY:U.S. Naval Academy Museum
+LOCATION:U.S. Naval Academy Museum\, 118 Maryland Ave\, Annapolis\, MD 214
+ 02
+DESCRIPTION:Ship models\, flags and naval history in Preble Hall on the Ac
+ ademy grounds. Visitors 18 and up need a valid photo ID. Free. Details: ht
+ tps://weekendscout.app/e/annapolis/naval-academy-museum-2026-11/
+URL:https://weekendscout.app/e/annapolis/naval-academy-museum-2026-11/
 END:VEVENT
 BEGIN:VEVENT
-UID:annapolis-irving-berlin-s-holiday-inn-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T081235Z
-DTSTART:20261128T010000Z
-DTEND:20261128T030000Z
-SUMMARY:Irving Berlin’s Holiday Inn
-LOCATION:Classic Theatre of Maryland\, 1804 West St\, Annapolis\, MD 21401
-DESCRIPTION:The holiday song-and-dance musical\, four shows. Tickets. Deta
- ils: https://weekendscout.app/e/annapolis/irving-berlin-s-holiday-inn-2026
- -11/
-URL:https://weekendscout.app/e/annapolis/irving-berlin-s-holiday-inn-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:annapolis-irving-berlin-s-holiday-inn-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T081235Z
-DTSTART:20261128T190000Z
-DTEND:20261128T210000Z
-SUMMARY:Irving Berlin’s Holiday Inn
-LOCATION:Classic Theatre of Maryland\, 1804 West St\, Annapolis\, MD 21401
-DESCRIPTION:The holiday song-and-dance musical\, four shows. Tickets. Deta
- ils: https://weekendscout.app/e/annapolis/irving-berlin-s-holiday-inn-2026
- -11/
-URL:https://weekendscout.app/e/annapolis/irving-berlin-s-holiday-inn-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:annapolis-irving-berlin-s-holiday-inn-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261126T081235Z
-DTSTART:20261129T010000Z
-DTEND:20261129T030000Z
-SUMMARY:Irving Berlin’s Holiday Inn
-LOCATION:Classic Theatre of Maryland\, 1804 West St\, Annapolis\, MD 21401
-DESCRIPTION:The holiday song-and-dance musical\, four shows. Tickets. Deta
- ils: https://weekendscout.app/e/annapolis/irving-berlin-s-holiday-inn-2026
- -11/
-URL:https://weekendscout.app/e/annapolis/irving-berlin-s-holiday-inn-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:annapolis-irving-berlin-s-holiday-inn-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T081235Z
-DTSTART:20261129T190000Z
+UID:annapolis-naval-academy-museum-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261129T150000Z
 DTEND:20261129T210000Z
-SUMMARY:Irving Berlin’s Holiday Inn
-LOCATION:Classic Theatre of Maryland\, 1804 West St\, Annapolis\, MD 21401
-DESCRIPTION:The holiday song-and-dance musical\, four shows. Tickets. Deta
- ils: https://weekendscout.app/e/annapolis/irving-berlin-s-holiday-inn-2026
- -11/
-URL:https://weekendscout.app/e/annapolis/irving-berlin-s-holiday-inn-2026-11/
+SUMMARY:U.S. Naval Academy Museum
+LOCATION:U.S. Naval Academy Museum\, 118 Maryland Ave\, Annapolis\, MD 214
+ 02
+DESCRIPTION:Ship models\, flags and naval history in Preble Hall on the Ac
+ ademy grounds. Visitors 18 and up need a valid photo ID. Free. Details: ht
+ tps://weekendscout.app/e/annapolis/naval-academy-museum-2026-11/
+URL:https://weekendscout.app/e/annapolis/naval-academy-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:annapolis-banneker-douglass-museum-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261128T150000Z
+DTEND:20261128T210000Z
+SUMMARY:Banneker-Douglass-Tubman Museum
+LOCATION:Banneker-Douglass-Tubman Museum\, 84 Franklin St\, Annapolis\, MD
+  21401
+DESCRIPTION:Maryland's official museum of African American history and cul
+ ture\, a short walk from the State House. Free. Details: https://weekendsc
+ out.app/e/annapolis/banneker-douglass-museum-2026-11/
+URL:https://weekendscout.app/e/annapolis/banneker-douglass-museum-2026-11/
 END:VEVENT
 END:VCALENDAR

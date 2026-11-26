@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:las-cruces-las-cruces-farmers-crafts-market-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+DTSTAMP:20261126T084518Z
 DTSTART:20261128T153000Z
 DTEND:20261128T200000Z
 SUMMARY:Las Cruces Farmers & Crafts Market
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/las-cruces/las-cruces-farmers-crafts-market-2026-
 END:VEVENT
 BEGIN:VEVENT
 UID:las-cruces-mesilla-farmers-crafts-market-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+DTSTAMP:20261126T084518Z
 DTSTART:20261127T180000Z
 DTEND:20261127T230000Z
 SUMMARY:Mesilla Farmers and Crafts Market
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/las-cruces/mesilla-farmers-crafts-market-2026-11-
 END:VEVENT
 BEGIN:VEVENT
 UID:las-cruces-mesilla-farmers-crafts-market-2026-11-27-sun-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+DTSTAMP:20261126T084518Z
 DTSTART:20261129T160000Z
 DTEND:20261129T230000Z
 SUMMARY:Mesilla Farmers and Crafts Market
@@ -48,7 +48,7 @@ URL:https://weekendscout.app/e/las-cruces/mesilla-farmers-crafts-market-2026-11-
 END:VEVENT
 BEGIN:VEVENT
 UID:las-cruces-new-mexico-farm-ranch-heritage-museum-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+DTSTAMP:20261126T084518Z
 DTSTART:20261128T170000Z
 DTEND:20261128T230000Z
 SUMMARY:New Mexico Farm & Ranch Heritage Museum

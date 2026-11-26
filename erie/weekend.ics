@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:erie-ahn-festival-of-trees-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+DTSTAMP:20261126T084518Z
 DTSTART:20261127T140000Z
 DTEND:20261128T010000Z
 SUMMARY:AHN Saint Vincent Festival of Trees
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/erie/ahn-festival-of-trees-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:erie-ahn-festival-of-trees-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+DTSTAMP:20261126T084518Z
 DTSTART:20261128T140000Z
 DTEND:20261128T230000Z
 SUMMARY:AHN Saint Vincent Festival of Trees
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/erie/ahn-festival-of-trees-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:erie-ahn-festival-of-trees-2026-11-27-sun-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+DTSTAMP:20261126T084518Z
 DTSTART:20261129T140000Z
 DTEND:20261129T220000Z
 SUMMARY:AHN Saint Vincent Festival of Trees
@@ -48,7 +48,7 @@ URL:https://weekendscout.app/e/erie/ahn-festival-of-trees-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:erie-festival-after-dark-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+DTSTAMP:20261126T084518Z
 DTSTART:20261129T000000Z
 DTEND:20261129T040000Z
 SUMMARY:AHN Saint Vincent Festival After Dark
@@ -60,7 +60,7 @@ URL:https://weekendscout.app/e/erie/festival-after-dark-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:erie-erie-otters-vs-windsor-spitfires-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+DTSTAMP:20261126T084518Z
 DTSTART:20261128T230000Z
 DTEND:20261129T010000Z
 SUMMARY:Erie Otters vs. Windsor Spitfires
@@ -72,7 +72,7 @@ URL:https://weekendscout.app/e/erie/erie-otters-vs-windsor-spitfires-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:erie-presque-isle-lights-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+DTSTAMP:20261126T084518Z
 DTSTART:20261127T220000Z
 DTEND:20261128T030000Z
 SUMMARY:Presque Isle Lights
@@ -85,7 +85,7 @@ URL:https://weekendscout.app/e/erie/presque-isle-lights-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:erie-presque-isle-lights-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+DTSTAMP:20261126T084518Z
 DTSTART:20261128T220000Z
 DTEND:20261129T030000Z
 SUMMARY:Presque Isle Lights
@@ -98,7 +98,7 @@ URL:https://weekendscout.app/e/erie/presque-isle-lights-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:erie-presque-isle-lights-2026-11-27-sun-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+DTSTAMP:20261126T084518Z
 DTSTART:20261129T220000Z
 DTEND:20261130T030000Z
 SUMMARY:Presque Isle Lights
@@ -111,7 +111,7 @@ URL:https://weekendscout.app/e/erie/presque-isle-lights-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:erie-small-business-saturday-downtown-erie-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+DTSTAMP:20261126T084518Z
 DTSTART:20261128T160000Z
 DTEND:20261128T210000Z
 SUMMARY:Small Business Saturday (Miracle on State)
@@ -124,7 +124,7 @@ URL:https://weekendscout.app/e/erie/small-business-saturday-downtown-erie-2026-1
 END:VEVENT
 BEGIN:VEVENT
 UID:erie-erie-phil-messiah-2026-11-29-sun-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+DTSTAMP:20261126T084518Z
 DTSTART:20261129T200000Z
 DTEND:20261129T220000Z
 SUMMARY:Handel's Messiah
@@ -136,7 +136,7 @@ URL:https://weekendscout.app/e/erie/erie-phil-messiah-2026-11-29/
 END:VEVENT
 BEGIN:VEVENT
 UID:erie-the-nutcracker-ecbt-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+DTSTAMP:20261126T084518Z
 DTSTART:20261129T000000Z
 DTEND:20261129T020000Z
 SUMMARY:The Nutcracker
@@ -149,7 +149,7 @@ URL:https://weekendscout.app/e/erie/the-nutcracker-ecbt-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:erie-the-nutcracker-ecbt-2026-11-28-sun-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+DTSTAMP:20261126T084518Z
 DTSTART:20261129T190000Z
 DTEND:20261129T210000Z
 SUMMARY:The Nutcracker
@@ -162,7 +162,7 @@ URL:https://weekendscout.app/e/erie/the-nutcracker-ecbt-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:erie-selleena-bigbar-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+DTSTAMP:20261126T084518Z
 DTSTART:20261128T230000Z
 DTEND:20261129T030000Z
 SUMMARY:Selleena (No Cover)

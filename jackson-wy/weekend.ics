@@ -8,123 +8,153 @@ X-WR-CALDESC:Hand-checked weekend picks in Jackson, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:jackson-wy-jackson-town-square-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+UID:jackson-wy-town-square-lighting-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261128T000000Z
+DTEND:20261128T020000Z
+SUMMARY:Town Square Lighting
+LOCATION:Town Square\, Broadway & Cache St\, Jackson\, WY 83001
+DESCRIPTION:The elk antler arches light up for the season with carolers\, 
+ holiday treats\, live entertainment and a visit from Santa. Free. Details:
+  https://weekendscout.app/e/jackson-wy/town-square-lighting-2026-11/
+URL:https://weekendscout.app/e/jackson-wy/town-square-lighting-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:jackson-wy-shop-local-cookies-cocoa-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261128T200000Z
+DTEND:20261128T230000Z
+SUMMARY:Shop Local Holiday Weekend: Cookies & Cocoa
+LOCATION:Town Square\, Broadway & Cache St\, Jackson\, WY 83001
+DESCRIPTION:Complimentary cocoa\, live music and pop-up festivities at the
+  Stage Stop on Town Square\, kicking off the Chamber's Shop Local holiday 
+ weekends. Free. Details: https://weekendscout.app/e/jackson-wy/shop-local-
+ cookies-cocoa-2026-11/
+URL:https://weekendscout.app/e/jackson-wy/shop-local-cookies-cocoa-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:jackson-wy-shop-local-cookies-cocoa-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261129T200000Z
+DTEND:20261129T230000Z
+SUMMARY:Shop Local Holiday Weekend: Cookies & Cocoa
+LOCATION:Town Square\, Broadway & Cache St\, Jackson\, WY 83001
+DESCRIPTION:Complimentary cocoa\, live music and pop-up festivities at the
+  Stage Stop on Town Square\, kicking off the Chamber's Shop Local holiday 
+ weekends. Free. Details: https://weekendscout.app/e/jackson-wy/shop-local-
+ cookies-cocoa-2026-11/
+URL:https://weekendscout.app/e/jackson-wy/shop-local-cookies-cocoa-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:jackson-wy-jhmr-opening-day-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T084518Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
-SUMMARY:Jackson Town Square
-LOCATION:Town Square\, Broadway & Cache St\, Jackson\, WY 83001
-DESCRIPTION:The square with its four elk-antler arches\, strung with light
- s for the holidays. Free. Details: https://weekendscout.app/e/jackson-wy/j
- ackson-town-square-2026-11/
-URL:https://weekendscout.app/e/jackson-wy/jackson-town-square-2026-11/
+SUMMARY:Opening Day Winter 2026-27
+LOCATION:Jackson Hole Mountain Resort\, 3395 Cody Ln\, Teton Village\, WY 
+ 83025
+DESCRIPTION:Jackson Hole Mountain Resort opens for the ski and snowboard s
+ eason on Friday. Buy lift tickets in advance\; dates can sell out. Lift ti
+ ckets. Details: https://weekendscout.app/e/jackson-wy/jhmr-opening-day-202
+ 6-11/
+URL:https://weekendscout.app/e/jackson-wy/jhmr-opening-day-2026-11/
 END:VEVENT
 BEGIN:VEVENT
-UID:jackson-wy-jackson-town-square-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+UID:jackson-wy-jhmr-opening-day-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T084518Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
-SUMMARY:Jackson Town Square
-LOCATION:Town Square\, Broadway & Cache St\, Jackson\, WY 83001
-DESCRIPTION:The square with its four elk-antler arches\, strung with light
- s for the holidays. Free. Details: https://weekendscout.app/e/jackson-wy/j
- ackson-town-square-2026-11/
-URL:https://weekendscout.app/e/jackson-wy/jackson-town-square-2026-11/
+SUMMARY:Opening Day Winter 2026-27
+LOCATION:Jackson Hole Mountain Resort\, 3395 Cody Ln\, Teton Village\, WY 
+ 83025
+DESCRIPTION:Jackson Hole Mountain Resort opens for the ski and snowboard s
+ eason on Friday. Buy lift tickets in advance\; dates can sell out. Lift ti
+ ckets. Details: https://weekendscout.app/e/jackson-wy/jhmr-opening-day-202
+ 6-11/
+URL:https://weekendscout.app/e/jackson-wy/jhmr-opening-day-2026-11/
 END:VEVENT
 BEGIN:VEVENT
-UID:jackson-wy-jackson-town-square-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+UID:jackson-wy-jhmr-opening-day-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T084518Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
-SUMMARY:Jackson Town Square
-LOCATION:Town Square\, Broadway & Cache St\, Jackson\, WY 83001
-DESCRIPTION:The square with its four elk-antler arches\, strung with light
- s for the holidays. Free. Details: https://weekendscout.app/e/jackson-wy/j
- ackson-town-square-2026-11/
-URL:https://weekendscout.app/e/jackson-wy/jackson-town-square-2026-11/
+SUMMARY:Opening Day Winter 2026-27
+LOCATION:Jackson Hole Mountain Resort\, 3395 Cody Ln\, Teton Village\, WY 
+ 83025
+DESCRIPTION:Jackson Hole Mountain Resort opens for the ski and snowboard s
+ eason on Friday. Buy lift tickets in advance\; dates can sell out. Lift ti
+ ckets. Details: https://weekendscout.app/e/jackson-wy/jhmr-opening-day-202
+ 6-11/
+URL:https://weekendscout.app/e/jackson-wy/jhmr-opening-day-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:jackson-wy-raptor-experience-masters-of-survival-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261127T180000Z
+DTEND:20261127T190000Z
+SUMMARY:Raptor Experience: Masters of Survival
+LOCATION:Teton Raptor Center\, 5450 WY-22\, Wilson\, WY 83014
+DESCRIPTION:An hour with the center's raptors\, learning how talons\, eyes
+ ight and other adaptations help them survive. Book online. Check ticket pr
+ ices. Details: https://weekendscout.app/e/jackson-wy/raptor-experience-mas
+ ters-of-survival-2026-11/
+URL:https://weekendscout.app/e/jackson-wy/raptor-experience-masters-of-survival-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:jackson-wy-talons-at-trailborn-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261127T230000Z
+DTEND:20261128T000000Z
+SUMMARY:Talons at Trailborn
+LOCATION:Trailborn Jackson Hole\, 400 E Snow King Ave\, Jackson\, WY 83001
+DESCRIPTION:Teton Raptor Center brings some of its avian ambassadors to Tr
+ ailborn for a free hour on raptors and their conservation. Free. Details: 
+ https://weekendscout.app/e/jackson-wy/talons-at-trailborn-2026-11/
+URL:https://weekendscout.app/e/jackson-wy/talons-at-trailborn-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:jackson-wy-national-museum-of-wildlife-art-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T081235Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
+DTSTAMP:20261126T084518Z
+DTSTART:20261127T170000Z
+DTEND:20261128T000000Z
 SUMMARY:National Museum of Wildlife Art
 LOCATION:National Museum of Wildlife Art\, 2820 Rungius Rd\, Jackson\, WY 
  83001
-DESCRIPTION:Wildlife art from Bierstadt to Warhol\, overlooking the Elk Re
- fuge. Admission. Details: https://weekendscout.app/e/jackson-wy/national-m
- useum-of-wildlife-art-2026-11/
+DESCRIPTION:The 50th-anniversary Birds in Art show and Cristina Mittermeie
+ r's photography are on view above the Elk Refuge. Sunday is Museum Store S
+ unday in the shop. Admission. Details: https://weekendscout.app/e/jackson-
+ wy/national-museum-of-wildlife-art-2026-11/
 URL:https://weekendscout.app/e/jackson-wy/national-museum-of-wildlife-art-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:jackson-wy-national-museum-of-wildlife-art-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T081235Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
+DTSTAMP:20261126T084518Z
+DTSTART:20261128T170000Z
+DTEND:20261129T000000Z
 SUMMARY:National Museum of Wildlife Art
 LOCATION:National Museum of Wildlife Art\, 2820 Rungius Rd\, Jackson\, WY 
  83001
-DESCRIPTION:Wildlife art from Bierstadt to Warhol\, overlooking the Elk Re
- fuge. Admission. Details: https://weekendscout.app/e/jackson-wy/national-m
- useum-of-wildlife-art-2026-11/
+DESCRIPTION:The 50th-anniversary Birds in Art show and Cristina Mittermeie
+ r's photography are on view above the Elk Refuge. Sunday is Museum Store S
+ unday in the shop. Admission. Details: https://weekendscout.app/e/jackson-
+ wy/national-museum-of-wildlife-art-2026-11/
 URL:https://weekendscout.app/e/jackson-wy/national-museum-of-wildlife-art-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:jackson-wy-national-museum-of-wildlife-art-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T081235Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
+DTSTAMP:20261126T084518Z
+DTSTART:20261129T170000Z
+DTEND:20261130T000000Z
 SUMMARY:National Museum of Wildlife Art
 LOCATION:National Museum of Wildlife Art\, 2820 Rungius Rd\, Jackson\, WY 
  83001
-DESCRIPTION:Wildlife art from Bierstadt to Warhol\, overlooking the Elk Re
- fuge. Admission. Details: https://weekendscout.app/e/jackson-wy/national-m
- useum-of-wildlife-art-2026-11/
+DESCRIPTION:The 50th-anniversary Birds in Art show and Cristina Mittermeie
+ r's photography are on view above the Elk Refuge. Sunday is Museum Store S
+ unday in the shop. Admission. Details: https://weekendscout.app/e/jackson-
+ wy/national-museum-of-wildlife-art-2026-11/
 URL:https://weekendscout.app/e/jackson-wy/national-museum-of-wildlife-art-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:jackson-wy-grand-teton-national-park-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T081235Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Grand Teton National Park
-LOCATION:Moose Entrance\, Teton Park Rd\, Moose\, WY 83012
-DESCRIPTION:Winter views of the Tetons\; the inner park road closes to car
- s for the season. Park entry. Details: https://weekendscout.app/e/jackson-
- wy/grand-teton-national-park-2026-11/
-URL:https://weekendscout.app/e/jackson-wy/grand-teton-national-park-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:jackson-wy-grand-teton-national-park-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T081235Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Grand Teton National Park
-LOCATION:Moose Entrance\, Teton Park Rd\, Moose\, WY 83012
-DESCRIPTION:Winter views of the Tetons\; the inner park road closes to car
- s for the season. Park entry. Details: https://weekendscout.app/e/jackson-
- wy/grand-teton-national-park-2026-11/
-URL:https://weekendscout.app/e/jackson-wy/grand-teton-national-park-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:jackson-wy-grand-teton-national-park-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T081235Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Grand Teton National Park
-LOCATION:Moose Entrance\, Teton Park Rd\, Moose\, WY 83012
-DESCRIPTION:Winter views of the Tetons\; the inner park road closes to car
- s for the season. Park entry. Details: https://weekendscout.app/e/jackson-
- wy/grand-teton-national-park-2026-11/
-URL:https://weekendscout.app/e/jackson-wy/grand-teton-national-park-2026-11/
 END:VEVENT
 END:VCALENDAR

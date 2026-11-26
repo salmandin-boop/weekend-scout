@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:lubbock-dolly-parton-smoky-mountain-christmas-carol-2026-11-29-sun-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+DTSTAMP:20261126T084518Z
 DTSTART:20261129T223000Z
 DTEND:20261130T003000Z
 SUMMARY:Dolly Parton’s Smoky Mountain Christmas Carol
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/lubbock/dolly-parton-smoky-mountain-christmas-car
 END:VEVENT
 BEGIN:VEVENT
 UID:lubbock-lhuca-affordable-art-sale-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+DTSTAMP:20261126T084518Z
 DTSTART:20261128T150000Z
 DTEND:20261128T210000Z
 SUMMARY:Affordable Art Sale & LDFM Pop-Up Gift Market
@@ -36,7 +36,7 @@ URL:https://weekendscout.app/e/lubbock/lhuca-affordable-art-sale-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:lubbock-science-spectrum-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+DTSTAMP:20261126T084518Z
 DTSTART:20261127T160000Z
 DTEND:20261127T230000Z
 SUMMARY:Science Spectrum Museum & OMNI Theater
@@ -49,7 +49,7 @@ URL:https://weekendscout.app/e/lubbock/science-spectrum-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:lubbock-science-spectrum-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+DTSTAMP:20261126T084518Z
 DTSTART:20261128T160000Z
 DTEND:20261129T000000Z
 SUMMARY:Science Spectrum Museum & OMNI Theater
@@ -62,7 +62,7 @@ URL:https://weekendscout.app/e/lubbock/science-spectrum-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:lubbock-science-spectrum-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+DTSTAMP:20261126T084518Z
 DTSTART:20261129T190000Z
 DTEND:20261129T230000Z
 SUMMARY:Science Spectrum Museum & OMNI Theater
@@ -75,7 +75,7 @@ URL:https://weekendscout.app/e/lubbock/science-spectrum-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:lubbock-buddy-holly-center-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+DTSTAMP:20261126T084518Z
 DTSTART:20261128T160000Z
 DTEND:20261128T230000Z
 SUMMARY:Buddy Holly Center
@@ -88,7 +88,7 @@ URL:https://weekendscout.app/e/lubbock/buddy-holly-center-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:lubbock-buddy-holly-center-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+DTSTAMP:20261126T084518Z
 DTSTART:20261129T190000Z
 DTEND:20261129T230000Z
 SUMMARY:Buddy Holly Center

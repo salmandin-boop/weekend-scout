@@ -8,73 +8,182 @@ X-WR-CALDESC:Hand-checked weekend picks in Stamford, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:stamford-mill-river-park-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T081235Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Mill River Park
-LOCATION:Mill River Park\, 1 Mill River St\, Stamford\, CT 06902
-DESCRIPTION:Downtown’s riverside park with a seasonal ice rink. Free. De
- tails: https://weekendscout.app/e/stamford/mill-river-park-2026-11/
-URL:https://weekendscout.app/e/stamford/mill-river-park-2026-11/
+UID:stamford-cohen-skating-center-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261127T220000Z
+DTEND:20261128T030000Z
+SUMMARY:Outdoor Skating at the Cohen Skating Center
+LOCATION:Cohen Skating Center at Mill River Park\, 1010 Washington Blvd\, 
+ Stamford\, CT 06901
+DESCRIPTION:Mill River Park's downtown outdoor rink opened for the season 
+ on Nov 25 and runs evening public skates all weekend. Skate rentals cost e
+ xtra. $14 adults\, $12 kids (weekends). Details: https://weekendscout.app/
+ e/stamford/cohen-skating-center-2026-11/
+URL:https://weekendscout.app/e/stamford/cohen-skating-center-2026-11/
 END:VEVENT
 BEGIN:VEVENT
-UID:stamford-mill-river-park-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T081235Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Mill River Park
-LOCATION:Mill River Park\, 1 Mill River St\, Stamford\, CT 06902
-DESCRIPTION:Downtown’s riverside park with a seasonal ice rink. Free. De
- tails: https://weekendscout.app/e/stamford/mill-river-park-2026-11/
-URL:https://weekendscout.app/e/stamford/mill-river-park-2026-11/
+UID:stamford-cohen-skating-center-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261128T220000Z
+DTEND:20261129T030000Z
+SUMMARY:Outdoor Skating at the Cohen Skating Center
+LOCATION:Cohen Skating Center at Mill River Park\, 1010 Washington Blvd\, 
+ Stamford\, CT 06901
+DESCRIPTION:Mill River Park's downtown outdoor rink opened for the season 
+ on Nov 25 and runs evening public skates all weekend. Skate rentals cost e
+ xtra. $14 adults\, $12 kids (weekends). Details: https://weekendscout.app/
+ e/stamford/cohen-skating-center-2026-11/
+URL:https://weekendscout.app/e/stamford/cohen-skating-center-2026-11/
 END:VEVENT
 BEGIN:VEVENT
-UID:stamford-mill-river-park-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T081235Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Mill River Park
-LOCATION:Mill River Park\, 1 Mill River St\, Stamford\, CT 06902
-DESCRIPTION:Downtown’s riverside park with a seasonal ice rink. Free. De
- tails: https://weekendscout.app/e/stamford/mill-river-park-2026-11/
-URL:https://weekendscout.app/e/stamford/mill-river-park-2026-11/
+UID:stamford-cohen-skating-center-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261129T220000Z
+DTEND:20261130T020000Z
+SUMMARY:Outdoor Skating at the Cohen Skating Center
+LOCATION:Cohen Skating Center at Mill River Park\, 1010 Washington Blvd\, 
+ Stamford\, CT 06901
+DESCRIPTION:Mill River Park's downtown outdoor rink opened for the season 
+ on Nov 25 and runs evening public skates all weekend. Skate rentals cost e
+ xtra. $14 adults\, $12 kids (weekends). Details: https://weekendscout.app/
+ e/stamford/cohen-skating-center-2026-11/
+URL:https://weekendscout.app/e/stamford/cohen-skating-center-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:stamford-smnc-tarantula-drop-ins-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261127T203000Z
+DTEND:20261127T205000Z
+SUMMARY:Tarantula Feeding & Spider Stories
+LOCATION:Stamford Museum & Nature Center\, 39 Scofieldtown Rd\, Stamford\,
+  CT 06903
+DESCRIPTION:Free short drop-in programs in the Bendel Mansion tarantula ex
+ hibit: watch a feeding on Friday and Sunday afternoons\, or come for spide
+ r stories Sunday morning. Museum admission may apply. Free drop-in. Detail
+ s: https://weekendscout.app/e/stamford/smnc-tarantula-drop-ins-2026-11/
+URL:https://weekendscout.app/e/stamford/smnc-tarantula-drop-ins-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:stamford-smnc-tarantula-drop-ins-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261129T150000Z
+DTEND:20261129T152000Z
+SUMMARY:Tarantula Feeding & Spider Stories
+LOCATION:Stamford Museum & Nature Center\, 39 Scofieldtown Rd\, Stamford\,
+  CT 06903
+DESCRIPTION:Free short drop-in programs in the Bendel Mansion tarantula ex
+ hibit: watch a feeding on Friday and Sunday afternoons\, or come for spide
+ r stories Sunday morning. Museum admission may apply. Free drop-in. Detail
+ s: https://weekendscout.app/e/stamford/smnc-tarantula-drop-ins-2026-11/
+URL:https://weekendscout.app/e/stamford/smnc-tarantula-drop-ins-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:stamford-smnc-tarantula-drop-ins-2026-11-sun-1@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261129T203000Z
+DTEND:20261129T205000Z
+SUMMARY:Tarantula Feeding & Spider Stories
+LOCATION:Stamford Museum & Nature Center\, 39 Scofieldtown Rd\, Stamford\,
+  CT 06903
+DESCRIPTION:Free short drop-in programs in the Bendel Mansion tarantula ex
+ hibit: watch a feeding on Friday and Sunday afternoons\, or come for spide
+ r stories Sunday morning. Museum admission may apply. Free drop-in. Detail
+ s: https://weekendscout.app/e/stamford/smnc-tarantula-drop-ins-2026-11/
+URL:https://weekendscout.app/e/stamford/smnc-tarantula-drop-ins-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:stamford-smnc-night-sky-observing-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261128T000000Z
+DTEND:20261128T030000Z
+SUMMARY:Friday & Saturday Night Sky Observing
+LOCATION:Stamford Museum & Nature Center\, 151 Scofieldtown Rd\, Stamford\
+ , CT 06903
+DESCRIPTION:Educator-led stargazing at the museum's Astronomy Center on Fr
+ iday and Saturday nights. Check prices. Details: https://weekendscout.app/
+ e/stamford/smnc-night-sky-observing-2026-11/
+URL:https://weekendscout.app/e/stamford/smnc-night-sky-observing-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:stamford-smnc-night-sky-observing-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261129T000000Z
+DTEND:20261129T030000Z
+SUMMARY:Friday & Saturday Night Sky Observing
+LOCATION:Stamford Museum & Nature Center\, 151 Scofieldtown Rd\, Stamford\
+ , CT 06903
+DESCRIPTION:Educator-led stargazing at the museum's Astronomy Center on Fr
+ iday and Saturday nights. Check prices. Details: https://weekendscout.app/
+ e/stamford/smnc-night-sky-observing-2026-11/
+URL:https://weekendscout.app/e/stamford/smnc-night-sky-observing-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:stamford-kevin-herrera-nycc-stamford-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261128T000000Z
+DTEND:20261128T020000Z
+SUMMARY:Sessions and Confessions with Kevin Herrera
+LOCATION:New York Comedy Club Stamford\, 230 Tresser Blvd\, Stamford\, CT 
+ 06901
+DESCRIPTION:The New York comedian and TikTok sketch star\, also host of Th
+ e Lunchroom podcast\, does stand-up about his life. There's a $20 per-pers
+ on food and drink minimum. $39 + fees. Details: https://weekendscout.app/e
+ /stamford/kevin-herrera-nycc-stamford-2026-11/
+URL:https://weekendscout.app/e/stamford/kevin-herrera-nycc-stamford-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:stamford-nycc-stamford-saturday-showcase-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261128T230000Z
+DTEND:20261129T010000Z
+SUMMARY:Jenny Zigrino\, Eeland Stribling\, Maximilian Spinelli & Jason Cho
+ i
+LOCATION:New York Comedy Club Stamford\, 230 Tresser Blvd\, Stamford\, CT 
+ 06901
+DESCRIPTION:A Saturday stand-up showcase with four comics and a host\, two
+  shows. Connecticut residents with ID can get $10 tickets\, and there's a 
+ $20 per-person food and drink minimum. From $29 + fees. Details: https://w
+ eekendscout.app/e/stamford/nycc-stamford-saturday-showcase-2026-11/
+URL:https://weekendscout.app/e/stamford/nycc-stamford-saturday-showcase-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:stamford-nycc-stamford-saturday-showcase-2026-11-sat-1@weekendscout.app
+DTSTAMP:20261126T084518Z
+DTSTART:20261129T013000Z
+DTEND:20261129T033000Z
+SUMMARY:Jenny Zigrino\, Eeland Stribling\, Maximilian Spinelli & Jason Cho
+ i
+LOCATION:New York Comedy Club Stamford\, 230 Tresser Blvd\, Stamford\, CT 
+ 06901
+DESCRIPTION:A Saturday stand-up showcase with four comics and a host\, two
+  shows. Connecticut residents with ID can get $10 tickets\, and there's a 
+ $20 per-person food and drink minimum. From $29 + fees. Details: https://w
+ eekendscout.app/e/stamford/nycc-stamford-saturday-showcase-2026-11/
+URL:https://weekendscout.app/e/stamford/nycc-stamford-saturday-showcase-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:stamford-a-christmas-carol-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T081235Z
-DTSTART:20261128T003000Z
-DTEND:20261128T023000Z
+DTSTAMP:20261126T084518Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
 SUMMARY:A Christmas Carol
-LOCATION:Kweskin Theatre\, Kweskin Theatre\, Stamford\, CT 06903
-DESCRIPTION:A community production of Dickens. Tickets. Details: https://w
- eekendscout.app/e/stamford/a-christmas-carol-2026-11/
+LOCATION:Kweskin Theatre\, 1349 Newfield Ave\, Stamford\, CT
+DESCRIPTION:Curtain Call's holiday staging of Dickens opens Friday and run
+ s through December 12. Tickets. Details: https://weekendscout.app/e/stamfo
+ rd/a-christmas-carol-2026-11/
 URL:https://weekendscout.app/e/stamford/a-christmas-carol-2026-11/
 END:VEVENT
 BEGIN:VEVENT
-UID:stamford-a-christmas-carol-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T081235Z
-DTSTART:20261129T003000Z
-DTEND:20261129T023000Z
-SUMMARY:A Christmas Carol
-LOCATION:Kweskin Theatre\, Kweskin Theatre\, Stamford\, CT 06903
-DESCRIPTION:A community production of Dickens. Tickets. Details: https://w
- eekendscout.app/e/stamford/a-christmas-carol-2026-11/
-URL:https://weekendscout.app/e/stamford/a-christmas-carol-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:stamford-jessica-lynn-s-a-very-merry-classic-christmas-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T081235Z
+UID:stamford-jessica-lynn-merry-classic-christmas-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T084518Z
 DTSTART:20261130T000000Z
 DTEND:20261130T020000Z
-SUMMARY:Jessica Lynn’s A Very Merry Classic Christmas
+SUMMARY:Jessica Lynn's - A Very Merry Classic Christmas
 LOCATION:Palace Theatre\, 61 Atlantic St\, Stamford\, CT 06901
-DESCRIPTION:Country singer Jessica Lynn’s holiday show. Tickets. Details
- : https://weekendscout.app/e/stamford/jessica-lynn-s-a-very-merry-classic-
- christmas-2026-11/
-URL:https://weekendscout.app/e/stamford/jessica-lynn-s-a-very-merry-classic-christmas-2026-11/
+DESCRIPTION:Country singer Jessica Lynn's holiday show of Christmas standa
+ rds and originals. Tickets. Details: https://weekendscout.app/e/stamford/j
+ essica-lynn-merry-classic-christmas-2026-11/
+URL:https://weekendscout.app/e/stamford/jessica-lynn-merry-classic-christmas-2026-11/
 END:VEVENT
 END:VCALENDAR
