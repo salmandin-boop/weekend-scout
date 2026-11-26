@@ -8,90 +8,177 @@ X-WR-CALDESC:Hand-checked weekend picks in Allentown, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:allentown-allentown-art-museum-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T003532Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Allentown Art Museum
-LOCATION:Allentown Art Museum\, 31 N 5th St\, Allentown\, PA 18101
-DESCRIPTION:Downtown’s art museum\, free for everyone every day. Free ad
- mission. Details: https://weekendscout.app/e/allentown/allentown-art-museu
- m-2026-11/
-URL:https://weekendscout.app/e/allentown/allentown-art-museum-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:allentown-allentown-art-museum-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T003532Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Allentown Art Museum
-LOCATION:Allentown Art Museum\, 31 N 5th St\, Allentown\, PA 18101
-DESCRIPTION:Downtown’s art museum\, free for everyone every day. Free ad
- mission. Details: https://weekendscout.app/e/allentown/allentown-art-museu
- m-2026-11/
-URL:https://weekendscout.app/e/allentown/allentown-art-museum-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:allentown-allentown-art-museum-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T003532Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Allentown Art Museum
-LOCATION:Allentown Art Museum\, 31 N 5th St\, Allentown\, PA 18101
-DESCRIPTION:Downtown’s art museum\, free for everyone every day. Free ad
- mission. Details: https://weekendscout.app/e/allentown/allentown-art-museu
- m-2026-11/
-URL:https://weekendscout.app/e/allentown/allentown-art-museum-2026-11/
-END:VEVENT
-BEGIN:VEVENT
 UID:allentown-lehigh-valley-phantoms-vs-providence-bruins-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T003532Z
+DTSTAMP:20261126T005952Z
 DTSTART:20261129T000500Z
 DTEND:20261129T020500Z
 SUMMARY:Lehigh Valley Phantoms vs. Providence Bruins
 LOCATION:PPL Center\, 701 Hamilton St\, Allentown\, PA 18101
-DESCRIPTION:AHL hockey downtown on Saturday night. Tickets. Details: https
- ://weekendscout.app/e/allentown/lehigh-valley-phantoms-vs-providence-bruin
- s-2026-11/
+DESCRIPTION:AHL hockey downtown on Saturday night as the Phantoms host the
+  Providence Bruins. Tickets. Details: https://weekendscout.app/e/allentown
+ /lehigh-valley-phantoms-vs-providence-bruins-2026-11/
 URL:https://weekendscout.app/e/allentown/lehigh-valley-phantoms-vs-providence-bruins-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:allentown-christkindlmarkt-bethlehem-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T003532Z
+DTSTAMP:20261126T005952Z
 DTSTART:20261127T150000Z
 DTEND:20261128T010000Z
 SUMMARY:Christkindlmarkt Bethlehem
 LOCATION:PNC Plaza at SteelStacks\, 645 E 1st St\, Bethlehem\, PA 18015
-DESCRIPTION:The German-style Christmas market under the old blast furnaces
- \, 15 minutes from Allentown. Cashless. Tickets. Details: https://weekends
- cout.app/e/allentown/christkindlmarkt-bethlehem-2026-11/
+DESCRIPTION:The German-style Christmas market at SteelStacks\, 15 minutes 
+ from Allentown. Admission is free Friday 5–8 p.m. and for kids 5 and und
+ er\; it's cashless and no pets except service dogs. From $14. Details: htt
+ ps://weekendscout.app/e/allentown/christkindlmarkt-bethlehem-2026-11/
 URL:https://weekendscout.app/e/allentown/christkindlmarkt-bethlehem-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:allentown-christkindlmarkt-bethlehem-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T003532Z
+DTSTAMP:20261126T005952Z
 DTSTART:20261128T150000Z
 DTEND:20261129T010000Z
 SUMMARY:Christkindlmarkt Bethlehem
 LOCATION:PNC Plaza at SteelStacks\, 645 E 1st St\, Bethlehem\, PA 18015
-DESCRIPTION:The German-style Christmas market under the old blast furnaces
- \, 15 minutes from Allentown. Cashless. Tickets. Details: https://weekends
- cout.app/e/allentown/christkindlmarkt-bethlehem-2026-11/
+DESCRIPTION:The German-style Christmas market at SteelStacks\, 15 minutes 
+ from Allentown. Admission is free Friday 5–8 p.m. and for kids 5 and und
+ er\; it's cashless and no pets except service dogs. From $14. Details: htt
+ ps://weekendscout.app/e/allentown/christkindlmarkt-bethlehem-2026-11/
 URL:https://weekendscout.app/e/allentown/christkindlmarkt-bethlehem-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:allentown-christkindlmarkt-bethlehem-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T003532Z
+DTSTAMP:20261126T005952Z
 DTSTART:20261129T150000Z
 DTEND:20261129T230000Z
 SUMMARY:Christkindlmarkt Bethlehem
 LOCATION:PNC Plaza at SteelStacks\, 645 E 1st St\, Bethlehem\, PA 18015
-DESCRIPTION:The German-style Christmas market under the old blast furnaces
- \, 15 minutes from Allentown. Cashless. Tickets. Details: https://weekends
- cout.app/e/allentown/christkindlmarkt-bethlehem-2026-11/
+DESCRIPTION:The German-style Christmas market at SteelStacks\, 15 minutes 
+ from Allentown. Admission is free Friday 5–8 p.m. and for kids 5 and und
+ er\; it's cashless and no pets except service dogs. From $14. Details: htt
+ ps://weekendscout.app/e/allentown/christkindlmarkt-bethlehem-2026-11/
 URL:https://weekendscout.app/e/allentown/christkindlmarkt-bethlehem-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:allentown-easton-winter-village-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T005952Z
+DTSTART:20261127T210000Z
+DTEND:20261128T010000Z
+SUMMARY:Easton Winter Village & Peace Candle Lighting
+LOCATION:Centre Square\, Easton\, 1 Centre Square\, Easton\, PA 18042
+DESCRIPTION:Holiday vendor huts open for the season in downtown Easton on 
+ Friday\, and the town lights its giant Peace Candle on Saturday evening. F
+ ree. Details: https://weekendscout.app/e/allentown/easton-winter-village-2
+ 026-11/
+URL:https://weekendscout.app/e/allentown/easton-winter-village-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:allentown-easton-winter-village-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T005952Z
+DTSTART:20261128T170000Z
+DTEND:20261129T010000Z
+SUMMARY:Easton Winter Village & Peace Candle Lighting
+LOCATION:Centre Square\, Easton\, 1 Centre Square\, Easton\, PA 18042
+DESCRIPTION:Holiday vendor huts open for the season in downtown Easton on 
+ Friday\, and the town lights its giant Peace Candle on Saturday evening. F
+ ree. Details: https://weekendscout.app/e/allentown/easton-winter-village-2
+ 026-11/
+URL:https://weekendscout.app/e/allentown/easton-winter-village-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:allentown-easton-winter-village-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T005952Z
+DTSTART:20261129T170000Z
+DTEND:20261129T220000Z
+SUMMARY:Easton Winter Village & Peace Candle Lighting
+LOCATION:Centre Square\, Easton\, 1 Centre Square\, Easton\, PA 18042
+DESCRIPTION:Holiday vendor huts open for the season in downtown Easton on 
+ Friday\, and the town lights its giant Peace Candle on Saturday evening. F
+ ree. Details: https://weekendscout.app/e/allentown/easton-winter-village-2
+ 026-11/
+URL:https://weekendscout.app/e/allentown/easton-winter-village-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:allentown-winter-light-spectacular-lv-zoo-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T005952Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Winter Light Spectacular
+LOCATION:Lehigh Valley Zoo\, 5150 Game Preserve Rd\, Schnecksville\, PA 18
+ 078
+DESCRIPTION:A walk-through holiday light show at the zoo\, with Elsa appea
+ ring nightly and Anna joining on Saturdays. The barnyard stays open until 
+ 8 p.m. Adults $18\, kids $16. Details: https://weekendscout.app/e/allentow
+ n/winter-light-spectacular-lv-zoo-2026-11/
+URL:https://weekendscout.app/e/allentown/winter-light-spectacular-lv-zoo-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:allentown-winter-light-spectacular-lv-zoo-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T005952Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Winter Light Spectacular
+LOCATION:Lehigh Valley Zoo\, 5150 Game Preserve Rd\, Schnecksville\, PA 18
+ 078
+DESCRIPTION:A walk-through holiday light show at the zoo\, with Elsa appea
+ ring nightly and Anna joining on Saturdays. The barnyard stays open until 
+ 8 p.m. Adults $18\, kids $16. Details: https://weekendscout.app/e/allentow
+ n/winter-light-spectacular-lv-zoo-2026-11/
+URL:https://weekendscout.app/e/allentown/winter-light-spectacular-lv-zoo-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:allentown-winter-light-spectacular-lv-zoo-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T005952Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Winter Light Spectacular
+LOCATION:Lehigh Valley Zoo\, 5150 Game Preserve Rd\, Schnecksville\, PA 18
+ 078
+DESCRIPTION:A walk-through holiday light show at the zoo\, with Elsa appea
+ ring nightly and Anna joining on Saturdays. The barnyard stays open until 
+ 8 p.m. Adults $18\, kids $16. Details: https://weekendscout.app/e/allentow
+ n/winter-light-spectacular-lv-zoo-2026-11/
+URL:https://weekendscout.app/e/allentown/winter-light-spectacular-lv-zoo-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:allentown-allentown-art-museum-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T005952Z
+DTSTART:20261127T160000Z
+DTEND:20261127T210000Z
+SUMMARY:Allentown Art Museum
+LOCATION:Allentown Art Museum\, 31 N 5th St\, Allentown\, PA 18101
+DESCRIPTION:Downtown’s art museum is free for everyone and open Friday t
+ hrough Sunday\, 11 a.m. to 4 p.m. Free parking in the lot at Fifth and Lin
+ den streets. Free. Details: https://weekendscout.app/e/allentown/allentown
+ -art-museum-2026-11/
+URL:https://weekendscout.app/e/allentown/allentown-art-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:allentown-allentown-art-museum-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T005952Z
+DTSTART:20261128T160000Z
+DTEND:20261128T210000Z
+SUMMARY:Allentown Art Museum
+LOCATION:Allentown Art Museum\, 31 N 5th St\, Allentown\, PA 18101
+DESCRIPTION:Downtown’s art museum is free for everyone and open Friday t
+ hrough Sunday\, 11 a.m. to 4 p.m. Free parking in the lot at Fifth and Lin
+ den streets. Free. Details: https://weekendscout.app/e/allentown/allentown
+ -art-museum-2026-11/
+URL:https://weekendscout.app/e/allentown/allentown-art-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:allentown-allentown-art-museum-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T005952Z
+DTSTART:20261129T160000Z
+DTEND:20261129T210000Z
+SUMMARY:Allentown Art Museum
+LOCATION:Allentown Art Museum\, 31 N 5th St\, Allentown\, PA 18101
+DESCRIPTION:Downtown’s art museum is free for everyone and open Friday t
+ hrough Sunday\, 11 a.m. to 4 p.m. Free parking in the lot at Fifth and Lin
+ den streets. Free. Details: https://weekendscout.app/e/allentown/allentown
+ -art-museum-2026-11/
+URL:https://weekendscout.app/e/allentown/allentown-art-museum-2026-11/
 END:VEVENT
 END:VCALENDAR

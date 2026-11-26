@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:jackson-mississippi-museum-of-art-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T003532Z
+DTSTAMP:20261126T005952Z
 DTSTART:20261127T170000Z
 DTEND:20261127T230000Z
 SUMMARY:Mississippi Museum of Art
@@ -21,7 +21,7 @@ URL:https://weekendscout.app/e/jackson/mississippi-museum-of-art-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:jackson-mississippi-museum-of-art-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T003532Z
+DTSTAMP:20261126T005952Z
 DTSTART:20261128T170000Z
 DTEND:20261128T230000Z
 SUMMARY:Mississippi Museum of Art
@@ -33,7 +33,7 @@ URL:https://weekendscout.app/e/jackson/mississippi-museum-of-art-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:jackson-mississippi-museum-of-art-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T003532Z
+DTSTAMP:20261126T005952Z
 DTSTART:20261129T190000Z
 DTEND:20261129T230000Z
 SUMMARY:Mississippi Museum of Art
@@ -45,7 +45,7 @@ URL:https://weekendscout.app/e/jackson/mississippi-museum-of-art-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:jackson-masterclass-trap-orchestra-boosie-badazz-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T003532Z
+DTSTAMP:20261126T005952Z
 DTSTART:20261128T020000Z
 DTEND:20261128T040000Z
 SUMMARY:Masterclass Trap Orchestra: Boosie Badazz
@@ -57,7 +57,7 @@ URL:https://weekendscout.app/e/jackson/masterclass-trap-orchestra-boosie-badazz-
 END:VEVENT
 BEGIN:VEVENT
 UID:jackson-two-mississippi-museums-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T003532Z
+DTSTAMP:20261126T005952Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -70,7 +70,7 @@ URL:https://weekendscout.app/e/jackson/two-mississippi-museums-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:jackson-two-mississippi-museums-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T003532Z
+DTSTAMP:20261126T005952Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT

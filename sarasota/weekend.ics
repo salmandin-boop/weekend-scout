@@ -9,109 +9,202 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:sarasota-sarasota-farmers-market-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T003532Z
+DTSTAMP:20261126T005952Z
 DTSTART:20261128T120000Z
 DTEND:20261128T180000Z
 SUMMARY:Sarasota Farmers Market
 LOCATION:Downtown Sarasota\, Lemon Ave & Main St\, Sarasota\, FL 34236
-DESCRIPTION:The big Saturday market downtown: produce\, food stalls\, flow
- ers and crafts. Free to browse. Details: https://weekendscout.app/e/saraso
- ta/sarasota-farmers-market-2026-11/
+DESCRIPTION:The big year-round Saturday market downtown: produce\, food st
+ alls\, flowers and crafts. Go early for the best pick. Free to browse. Det
+ ails: https://weekendscout.app/e/sarasota/sarasota-farmers-market-2026-11/
 URL:https://weekendscout.app/e/sarasota/sarasota-farmers-market-2026-11/
 END:VEVENT
 BEGIN:VEVENT
-UID:sarasota-wonderland-circus-home-for-the-holidays-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T003532Z
-DTSTART:20261127T190000Z
-DTEND:20261127T210000Z
-SUMMARY:Wonderland Circus: Home for the Holidays
-LOCATION:Wonderland Big Top\, 191 University Town Center Dr\, Sarasota\, F
- L 34243
-DESCRIPTION:Nik Wallenda’s holiday big-top circus next to the Mall at Un
- iversity Town Center\, five shows this weekend. $20–$110. Details: https
- ://weekendscout.app/e/sarasota/wonderland-circus-home-for-the-holidays-202
- 6-11/
-URL:https://weekendscout.app/e/sarasota/wonderland-circus-home-for-the-holidays-2026-11/
+UID:sarasota-kimberly-akimbo-fst-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T005952Z
+DTSTART:20261128T010000Z
+DTEND:20261128T033000Z
+SUMMARY:Kimberly Akimbo
+LOCATION:Florida Studio Theatre\, 1241 N Palm Ave\, Sarasota\, FL 34236
+DESCRIPTION:Florida Studio Theatre opens its winter mainstage season with 
+ the Tony-winning musical about a New Jersey teen with a rare aging conditi
+ on. Runs through Jan. 3. Tickets. Details: https://weekendscout.app/e/sara
+ sota/kimberly-akimbo-fst-2026-11/
+URL:https://weekendscout.app/e/sarasota/kimberly-akimbo-fst-2026-11/
 END:VEVENT
 BEGIN:VEVENT
-UID:sarasota-wonderland-circus-home-for-the-holidays-2026-11-fri-1@weekendscout.app
-DTSTAMP:20261126T003532Z
-DTSTART:20261128T000000Z
-DTEND:20261128T020000Z
-SUMMARY:Wonderland Circus: Home for the Holidays
-LOCATION:Wonderland Big Top\, 191 University Town Center Dr\, Sarasota\, F
- L 34243
-DESCRIPTION:Nik Wallenda’s holiday big-top circus next to the Mall at Un
- iversity Town Center\, five shows this weekend. $20–$110. Details: https
- ://weekendscout.app/e/sarasota/wonderland-circus-home-for-the-holidays-202
- 6-11/
-URL:https://weekendscout.app/e/sarasota/wonderland-circus-home-for-the-holidays-2026-11/
+UID:sarasota-kimberly-akimbo-fst-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T005952Z
+DTSTART:20261128T200000Z
+DTEND:20261128T223000Z
+SUMMARY:Kimberly Akimbo
+LOCATION:Florida Studio Theatre\, 1241 N Palm Ave\, Sarasota\, FL 34236
+DESCRIPTION:Florida Studio Theatre opens its winter mainstage season with 
+ the Tony-winning musical about a New Jersey teen with a rare aging conditi
+ on. Runs through Jan. 3. Tickets. Details: https://weekendscout.app/e/sara
+ sota/kimberly-akimbo-fst-2026-11/
+URL:https://weekendscout.app/e/sarasota/kimberly-akimbo-fst-2026-11/
 END:VEVENT
 BEGIN:VEVENT
-UID:sarasota-wonderland-circus-home-for-the-holidays-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T003532Z
-DTSTART:20261128T190000Z
-DTEND:20261128T210000Z
-SUMMARY:Wonderland Circus: Home for the Holidays
-LOCATION:Wonderland Big Top\, 191 University Town Center Dr\, Sarasota\, F
- L 34243
-DESCRIPTION:Nik Wallenda’s holiday big-top circus next to the Mall at Un
- iversity Town Center\, five shows this weekend. $20–$110. Details: https
- ://weekendscout.app/e/sarasota/wonderland-circus-home-for-the-holidays-202
- 6-11/
-URL:https://weekendscout.app/e/sarasota/wonderland-circus-home-for-the-holidays-2026-11/
+UID:sarasota-kimberly-akimbo-fst-2026-11-sat-1@weekendscout.app
+DTSTAMP:20261126T005952Z
+DTSTART:20261129T010000Z
+DTEND:20261129T033000Z
+SUMMARY:Kimberly Akimbo
+LOCATION:Florida Studio Theatre\, 1241 N Palm Ave\, Sarasota\, FL 34236
+DESCRIPTION:Florida Studio Theatre opens its winter mainstage season with 
+ the Tony-winning musical about a New Jersey teen with a rare aging conditi
+ on. Runs through Jan. 3. Tickets. Details: https://weekendscout.app/e/sara
+ sota/kimberly-akimbo-fst-2026-11/
+URL:https://weekendscout.app/e/sarasota/kimberly-akimbo-fst-2026-11/
 END:VEVENT
 BEGIN:VEVENT
-UID:sarasota-wonderland-circus-home-for-the-holidays-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261126T003532Z
-DTSTART:20261129T000000Z
-DTEND:20261129T020000Z
-SUMMARY:Wonderland Circus: Home for the Holidays
-LOCATION:Wonderland Big Top\, 191 University Town Center Dr\, Sarasota\, F
- L 34243
-DESCRIPTION:Nik Wallenda’s holiday big-top circus next to the Mall at Un
- iversity Town Center\, five shows this weekend. $20–$110. Details: https
- ://weekendscout.app/e/sarasota/wonderland-circus-home-for-the-holidays-202
- 6-11/
-URL:https://weekendscout.app/e/sarasota/wonderland-circus-home-for-the-holidays-2026-11/
+UID:sarasota-kimberly-akimbo-fst-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T005952Z
+DTSTART:20261129T190000Z
+DTEND:20261129T213000Z
+SUMMARY:Kimberly Akimbo
+LOCATION:Florida Studio Theatre\, 1241 N Palm Ave\, Sarasota\, FL 34236
+DESCRIPTION:Florida Studio Theatre opens its winter mainstage season with 
+ the Tony-winning musical about a New Jersey teen with a rare aging conditi
+ on. Runs through Jan. 3. Tickets. Details: https://weekendscout.app/e/sara
+ sota/kimberly-akimbo-fst-2026-11/
+URL:https://weekendscout.app/e/sarasota/kimberly-akimbo-fst-2026-11/
 END:VEVENT
 BEGIN:VEVENT
-UID:sarasota-wonderland-circus-home-for-the-holidays-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T003532Z
-DTSTART:20261129T180000Z
-DTEND:20261129T200000Z
-SUMMARY:Wonderland Circus: Home for the Holidays
-LOCATION:Wonderland Big Top\, 191 University Town Center Dr\, Sarasota\, F
- L 34243
-DESCRIPTION:Nik Wallenda’s holiday big-top circus next to the Mall at Un
- iversity Town Center\, five shows this weekend. $20–$110. Details: https
- ://weekendscout.app/e/sarasota/wonderland-circus-home-for-the-holidays-202
- 6-11/
-URL:https://weekendscout.app/e/sarasota/wonderland-circus-home-for-the-holidays-2026-11/
+UID:sarasota-kimberly-akimbo-fst-2026-11-sun-1@weekendscout.app
+DTSTAMP:20261126T005952Z
+DTSTART:20261130T000000Z
+DTEND:20261130T023000Z
+SUMMARY:Kimberly Akimbo
+LOCATION:Florida Studio Theatre\, 1241 N Palm Ave\, Sarasota\, FL 34236
+DESCRIPTION:Florida Studio Theatre opens its winter mainstage season with 
+ the Tony-winning musical about a New Jersey teen with a rare aging conditi
+ on. Runs through Jan. 3. Tickets. Details: https://weekendscout.app/e/sara
+ sota/kimberly-akimbo-fst-2026-11/
+URL:https://weekendscout.app/e/sarasota/kimberly-akimbo-fst-2026-11/
 END:VEVENT
 BEGIN:VEVENT
-UID:sarasota-wonderland-circus-home-for-the-holidays-2026-11-sun-1@weekendscout.app
-DTSTAMP:20261126T003532Z
-DTSTART:20261129T220000Z
-DTEND:20261130T000000Z
-SUMMARY:Wonderland Circus: Home for the Holidays
-LOCATION:Wonderland Big Top\, 191 University Town Center Dr\, Sarasota\, F
- L 34243
-DESCRIPTION:Nik Wallenda’s holiday big-top circus next to the Mall at Un
- iversity Town Center\, five shows this weekend. $20–$110. Details: https
- ://weekendscout.app/e/sarasota/wonderland-circus-home-for-the-holidays-202
- 6-11/
-URL:https://weekendscout.app/e/sarasota/wonderland-circus-home-for-the-holidays-2026-11/
+UID:sarasota-ahoy-hoy-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T005952Z
+DTSTART:20261128T003000Z
+DTEND:20261128T023000Z
+SUMMARY:Ahoy-Hoy
+LOCATION:Urbanite Theatre\, 1487 2nd St\, Sarasota\, FL 34236
+DESCRIPTION:Jenny Stafford’s play\, a Modern Works Festival audience fav
+ orite\, ends its run this weekend at downtown’s intimate Urbanite Theatr
+ e. Students $5 with ID. $52 ($32 under 40). Details: https://weekendscout.
+ app/e/sarasota/ahoy-hoy-2026-11/
+URL:https://weekendscout.app/e/sarasota/ahoy-hoy-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:sarasota-ahoy-hoy-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T005952Z
+DTSTART:20261129T003000Z
+DTEND:20261129T023000Z
+SUMMARY:Ahoy-Hoy
+LOCATION:Urbanite Theatre\, 1487 2nd St\, Sarasota\, FL 34236
+DESCRIPTION:Jenny Stafford’s play\, a Modern Works Festival audience fav
+ orite\, ends its run this weekend at downtown’s intimate Urbanite Theatr
+ e. Students $5 with ID. $52 ($32 under 40). Details: https://weekendscout.
+ app/e/sarasota/ahoy-hoy-2026-11/
+URL:https://weekendscout.app/e/sarasota/ahoy-hoy-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:sarasota-ahoy-hoy-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T003532Z
+DTSTAMP:20261126T005952Z
 DTSTART:20261129T190000Z
 DTEND:20261129T210000Z
 SUMMARY:Ahoy-Hoy
 LOCATION:Urbanite Theatre\, 1487 2nd St\, Sarasota\, FL 34236
-DESCRIPTION:New work at downtown’s small\, adventurous theater. Tickets.
-  Details: https://weekendscout.app/e/sarasota/ahoy-hoy-2026-11/
+DESCRIPTION:Jenny Stafford’s play\, a Modern Works Festival audience fav
+ orite\, ends its run this weekend at downtown’s intimate Urbanite Theatr
+ e. Students $5 with ID. $52 ($32 under 40). Details: https://weekendscout.
+ app/e/sarasota/ahoy-hoy-2026-11/
 URL:https://weekendscout.app/e/sarasota/ahoy-hoy-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:sarasota-deck-the-halls-fst-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T005952Z
+DTSTART:20261128T150000Z
+DTEND:20261128T160000Z
+SUMMARY:Deck the Halls
+LOCATION:Florida Studio Theatre\, 1241 N Palm Ave\, Sarasota\, FL 34236
+DESCRIPTION:FST’s hour-long holiday show for kids\, Sarasota style: palm
+  trees wrapped in lights\, sand snowmen and festive tunes. Opens Saturday.
+  Tickets. Details: https://weekendscout.app/e/sarasota/deck-the-halls-fst-
+ 2026-11/
+URL:https://weekendscout.app/e/sarasota/deck-the-halls-fst-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:sarasota-deck-the-halls-fst-2026-11-sat-1@weekendscout.app
+DTSTAMP:20261126T005952Z
+DTSTART:20261128T170000Z
+DTEND:20261128T180000Z
+SUMMARY:Deck the Halls
+LOCATION:Florida Studio Theatre\, 1241 N Palm Ave\, Sarasota\, FL 34236
+DESCRIPTION:FST’s hour-long holiday show for kids\, Sarasota style: palm
+  trees wrapped in lights\, sand snowmen and festive tunes. Opens Saturday.
+  Tickets. Details: https://weekendscout.app/e/sarasota/deck-the-halls-fst-
+ 2026-11/
+URL:https://weekendscout.app/e/sarasota/deck-the-halls-fst-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:sarasota-deck-the-halls-fst-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T005952Z
+DTSTART:20261129T150000Z
+DTEND:20261129T160000Z
+SUMMARY:Deck the Halls
+LOCATION:Florida Studio Theatre\, 1241 N Palm Ave\, Sarasota\, FL 34236
+DESCRIPTION:FST’s hour-long holiday show for kids\, Sarasota style: palm
+  trees wrapped in lights\, sand snowmen and festive tunes. Opens Saturday.
+  Tickets. Details: https://weekendscout.app/e/sarasota/deck-the-halls-fst-
+ 2026-11/
+URL:https://weekendscout.app/e/sarasota/deck-the-halls-fst-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:sarasota-wonderland-circus-home-for-the-holidays-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T005952Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Wonderland Circus: Home for the Holidays
+LOCATION:Wonderland Big Top\, 191 University Town Center Dr\, Sarasota\, F
+ L 34243
+DESCRIPTION:Nik Wallenda’s holiday big-top circus just east of the Mall 
+ at University Town Center\, running through Jan. 2. Check the official sit
+ e for this weekend’s showtimes. $20–$110. Details: https://weekendscou
+ t.app/e/sarasota/wonderland-circus-home-for-the-holidays-2026-11/
+URL:https://weekendscout.app/e/sarasota/wonderland-circus-home-for-the-holidays-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:sarasota-wonderland-circus-home-for-the-holidays-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T005952Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Wonderland Circus: Home for the Holidays
+LOCATION:Wonderland Big Top\, 191 University Town Center Dr\, Sarasota\, F
+ L 34243
+DESCRIPTION:Nik Wallenda’s holiday big-top circus just east of the Mall 
+ at University Town Center\, running through Jan. 2. Check the official sit
+ e for this weekend’s showtimes. $20–$110. Details: https://weekendscou
+ t.app/e/sarasota/wonderland-circus-home-for-the-holidays-2026-11/
+URL:https://weekendscout.app/e/sarasota/wonderland-circus-home-for-the-holidays-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:sarasota-wonderland-circus-home-for-the-holidays-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T005952Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Wonderland Circus: Home for the Holidays
+LOCATION:Wonderland Big Top\, 191 University Town Center Dr\, Sarasota\, F
+ L 34243
+DESCRIPTION:Nik Wallenda’s holiday big-top circus just east of the Mall 
+ at University Town Center\, running through Jan. 2. Check the official sit
+ e for this weekend’s showtimes. $20–$110. Details: https://weekendscou
+ t.app/e/sarasota/wonderland-circus-home-for-the-holidays-2026-11/
+URL:https://weekendscout.app/e/sarasota/wonderland-circus-home-for-the-holidays-2026-11/
 END:VEVENT
 END:VCALENDAR

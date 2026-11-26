@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:durham-sarah-p-duke-gardens-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T003532Z
+DTSTAMP:20261126T005952Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/durham/sarah-p-duke-gardens-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:durham-sarah-p-duke-gardens-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T003532Z
+DTSTAMP:20261126T005952Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/durham/sarah-p-duke-gardens-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:durham-sarah-p-duke-gardens-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T003532Z
+DTSTAMP:20261126T005952Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -48,7 +48,7 @@ URL:https://weekendscout.app/e/durham/sarah-p-duke-gardens-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:durham-duke-chapel-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T003532Z
+DTSTAMP:20261126T005952Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -61,7 +61,7 @@ URL:https://weekendscout.app/e/durham/duke-chapel-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:durham-duke-chapel-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T003532Z
+DTSTAMP:20261126T005952Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -74,7 +74,7 @@ URL:https://weekendscout.app/e/durham/duke-chapel-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:durham-duke-chapel-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T003532Z
+DTSTAMP:20261126T005952Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -87,7 +87,7 @@ URL:https://weekendscout.app/e/durham/duke-chapel-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:durham-cirque-du-soleil-twas-the-night-before-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T003532Z
+DTSTAMP:20261126T005952Z
 DTSTART:20261127T180000Z
 DTEND:20261127T200000Z
 SUMMARY:Cirque du Soleil: ’Twas the Night Before…
@@ -99,7 +99,7 @@ URL:https://weekendscout.app/e/durham/cirque-du-soleil-twas-the-night-before-202
 END:VEVENT
 BEGIN:VEVENT
 UID:durham-cirque-du-soleil-twas-the-night-before-2026-11-fri-1@weekendscout.app
-DTSTAMP:20261126T003532Z
+DTSTAMP:20261126T005952Z
 DTSTART:20261127T210000Z
 DTEND:20261127T230000Z
 SUMMARY:Cirque du Soleil: ’Twas the Night Before…
@@ -111,7 +111,7 @@ URL:https://weekendscout.app/e/durham/cirque-du-soleil-twas-the-night-before-202
 END:VEVENT
 BEGIN:VEVENT
 UID:durham-cirque-du-soleil-twas-the-night-before-2026-11-fri-2@weekendscout.app
-DTSTAMP:20261126T003532Z
+DTSTAMP:20261126T005952Z
 DTSTART:20261128T003000Z
 DTEND:20261128T023000Z
 SUMMARY:Cirque du Soleil: ’Twas the Night Before…
@@ -123,7 +123,7 @@ URL:https://weekendscout.app/e/durham/cirque-du-soleil-twas-the-night-before-202
 END:VEVENT
 BEGIN:VEVENT
 UID:durham-cirque-du-soleil-twas-the-night-before-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T003532Z
+DTSTAMP:20261126T005952Z
 DTSTART:20261128T180000Z
 DTEND:20261128T200000Z
 SUMMARY:Cirque du Soleil: ’Twas the Night Before…
@@ -135,7 +135,7 @@ URL:https://weekendscout.app/e/durham/cirque-du-soleil-twas-the-night-before-202
 END:VEVENT
 BEGIN:VEVENT
 UID:durham-cirque-du-soleil-twas-the-night-before-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261126T003532Z
+DTSTAMP:20261126T005952Z
 DTSTART:20261128T210000Z
 DTEND:20261128T230000Z
 SUMMARY:Cirque du Soleil: ’Twas the Night Before…
@@ -147,7 +147,7 @@ URL:https://weekendscout.app/e/durham/cirque-du-soleil-twas-the-night-before-202
 END:VEVENT
 BEGIN:VEVENT
 UID:durham-cirque-du-soleil-twas-the-night-before-2026-11-sat-2@weekendscout.app
-DTSTAMP:20261126T003532Z
+DTSTAMP:20261126T005952Z
 DTSTART:20261129T003000Z
 DTEND:20261129T023000Z
 SUMMARY:Cirque du Soleil: ’Twas the Night Before…
@@ -159,7 +159,7 @@ URL:https://weekendscout.app/e/durham/cirque-du-soleil-twas-the-night-before-202
 END:VEVENT
 BEGIN:VEVENT
 UID:durham-cirque-du-soleil-twas-the-night-before-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T003532Z
+DTSTAMP:20261126T005952Z
 DTSTART:20261129T170000Z
 DTEND:20261129T190000Z
 SUMMARY:Cirque du Soleil: ’Twas the Night Before…
@@ -171,7 +171,7 @@ URL:https://weekendscout.app/e/durham/cirque-du-soleil-twas-the-night-before-202
 END:VEVENT
 BEGIN:VEVENT
 UID:durham-cirque-du-soleil-twas-the-night-before-2026-11-sun-1@weekendscout.app
-DTSTAMP:20261126T003532Z
+DTSTAMP:20261126T005952Z
 DTSTART:20261129T200000Z
 DTEND:20261129T220000Z
 SUMMARY:Cirque du Soleil: ’Twas the Night Before…

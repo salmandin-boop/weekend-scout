@@ -8,8 +8,63 @@ X-WR-CALDESC:Hand-checked weekend picks in Bakersfield, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
+UID:bakersfield-becky-robinson-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T005952Z
+DTSTART:20261128T040000Z
+DTEND:20261128T060000Z
+SUMMARY:Becky Robinson's: Holiday Spectacular
+LOCATION:The Bakersfield Fox Theater\, 2001 H St\, Bakersfield\, CA 93301
+DESCRIPTION:A holiday-themed stand-up show from the comedian behind the vi
+ ral character videos\, in the restored 1930 theater. Doors open at 7 p.m. 
+ Tickets. Details: https://weekendscout.app/e/bakersfield/becky-robinson-20
+ 26-11/
+URL:https://weekendscout.app/e/bakersfield/becky-robinson-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:bakersfield-bakersfield-condors-vs-abbotsford-canucks-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T005952Z
+DTSTART:20261129T030000Z
+DTEND:20261129T050000Z
+SUMMARY:Bakersfield Condors vs. Abbotsford Canucks
+LOCATION:Dignity Health Arena\, 1001 Truxtun Ave\, Bakersfield\, CA 93301
+DESCRIPTION:AHL hockey downtown on Saturday night. Tickets. Details: https
+ ://weekendscout.app/e/bakersfield/bakersfield-condors-vs-abbotsford-canuck
+ s-2026-11/
+URL:https://weekendscout.app/e/bakersfield/bakersfield-condors-vs-abbotsford-canucks-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:bakersfield-holidaylights-at-calm-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T005952Z
+DTSTART:20261129T013000Z
+DTEND:20261129T060000Z
+SUMMARY:HolidayLights at CALM
+LOCATION:California Living Museum (CALM)\, 10500 Alfred Harrell Hwy\, Bake
+ rsfield\, CA 93306
+DESCRIPTION:CALM's 24th annual walk-through light show opens Saturday\, wi
+ th Santa visits\, the Candy Cane Express and a craft area included. Friday
+  and Saturday need timed tickets\; buy ahead online. $19 adults · $16 kid
+ s 3–12. Details: https://weekendscout.app/e/bakersfield/holidaylights-at
+ -calm-2026-11/
+URL:https://weekendscout.app/e/bakersfield/holidaylights-at-calm-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:bakersfield-holidaylights-at-calm-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T005952Z
+DTSTART:20261130T013000Z
+DTEND:20261130T050000Z
+SUMMARY:HolidayLights at CALM
+LOCATION:California Living Museum (CALM)\, 10500 Alfred Harrell Hwy\, Bake
+ rsfield\, CA 93306
+DESCRIPTION:CALM's 24th annual walk-through light show opens Saturday\, wi
+ th Santa visits\, the Candy Cane Express and a craft area included. Friday
+  and Saturday need timed tickets\; buy ahead online. $19 adults · $16 kid
+ s 3–12. Details: https://weekendscout.app/e/bakersfield/holidaylights-at
+ -calm-2026-11/
+URL:https://weekendscout.app/e/bakersfield/holidaylights-at-calm-2026-11/
+END:VEVENT
+BEGIN:VEVENT
 UID:bakersfield-small-business-saturday-in-downtown-bakersfield-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T003532Z
+DTSTAMP:20261126T005952Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -20,29 +75,5 @@ DESCRIPTION:Shop downtown’s independent stores\, cafés and antique shop
  t.app/e/bakersfield/small-business-saturday-in-downtown-bakersfield-2026-1
  1/
 URL:https://weekendscout.app/e/bakersfield/small-business-saturday-in-downtown-bakersfield-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:bakersfield-becky-robinson-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T003532Z
-DTSTART:20261128T040000Z
-DTEND:20261128T060000Z
-SUMMARY:Becky Robinson
-LOCATION:The Bakersfield Fox Theater\, 2001 H St\, Bakersfield\, CA 93301
-DESCRIPTION:Stand-up from the comedian behind the viral character videos\,
-  in the restored 1930 theater. Tickets. Details: https://weekendscout.app/
- e/bakersfield/becky-robinson-2026-11/
-URL:https://weekendscout.app/e/bakersfield/becky-robinson-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:bakersfield-bakersfield-condors-vs-abbotsford-canucks-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T003532Z
-DTSTART:20261129T030000Z
-DTEND:20261129T050000Z
-SUMMARY:Bakersfield Condors vs. Abbotsford Canucks
-LOCATION:Dignity Health Arena\, 1001 Truxtun Ave\, Bakersfield\, CA 93301
-DESCRIPTION:AHL hockey downtown on Saturday night. Tickets. Details: https
- ://weekendscout.app/e/bakersfield/bakersfield-condors-vs-abbotsford-canuck
- s-2026-11/
-URL:https://weekendscout.app/e/bakersfield/bakersfield-condors-vs-abbotsford-canucks-2026-11/
 END:VEVENT
 END:VCALENDAR

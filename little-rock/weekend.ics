@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:little-rock-arkansas-museum-of-fine-arts-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T003532Z
+DTSTAMP:20261126T005952Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -23,7 +23,7 @@ URL:https://weekendscout.app/e/little-rock/arkansas-museum-of-fine-arts-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:little-rock-arkansas-museum-of-fine-arts-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T003532Z
+DTSTAMP:20261126T005952Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -37,7 +37,7 @@ URL:https://weekendscout.app/e/little-rock/arkansas-museum-of-fine-arts-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:little-rock-arkansas-museum-of-fine-arts-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T003532Z
+DTSTAMP:20261126T005952Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -51,7 +51,7 @@ URL:https://weekendscout.app/e/little-rock/arkansas-museum-of-fine-arts-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:little-rock-mojo-brookzz-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T003532Z
+DTSTAMP:20261126T005952Z
 DTSTART:20261128T013000Z
 DTEND:20261128T033000Z
 SUMMARY:Mojo Brookzz
@@ -62,7 +62,7 @@ URL:https://weekendscout.app/e/little-rock/mojo-brookzz-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:little-rock-mojo-brookzz-2026-11-fri-1@weekendscout.app
-DTSTAMP:20261126T003532Z
+DTSTAMP:20261126T005952Z
 DTSTART:20261128T040000Z
 DTEND:20261128T060000Z
 SUMMARY:Mojo Brookzz
@@ -73,7 +73,7 @@ URL:https://weekendscout.app/e/little-rock/mojo-brookzz-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:little-rock-a-community-celebration-of-the-last-waltz-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T003532Z
+DTSTAMP:20261126T005952Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT

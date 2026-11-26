@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:baton-rouge-small-business-saturday-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T003532Z
+DTSTAMP:20261126T005952Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -22,85 +22,88 @@ URL:https://weekendscout.app/e/baton-rouge/small-business-saturday-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:baton-rouge-louisiana-lights-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T003532Z
+DTSTAMP:20261126T005952Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
 SUMMARY:Louisiana Lights
 LOCATION:Burden Museum & Gardens\, 4560 Essen Ln\, Baton Rouge\, LA 70809
-DESCRIPTION:Opening weekend of the walk-through light show in the gardens.
-  Tickets. Details: https://weekendscout.app/e/baton-rouge/louisiana-lights
- -2026-11/
+DESCRIPTION:Opening weekend of the walk-through holiday light show in Wind
+ rush Gardens at Burden\, running through December 30. Tickets. Details: ht
+ tps://weekendscout.app/e/baton-rouge/louisiana-lights-2026-11/
 URL:https://weekendscout.app/e/baton-rouge/louisiana-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:baton-rouge-louisiana-lights-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T003532Z
+DTSTAMP:20261126T005952Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
 SUMMARY:Louisiana Lights
 LOCATION:Burden Museum & Gardens\, 4560 Essen Ln\, Baton Rouge\, LA 70809
-DESCRIPTION:Opening weekend of the walk-through light show in the gardens.
-  Tickets. Details: https://weekendscout.app/e/baton-rouge/louisiana-lights
- -2026-11/
+DESCRIPTION:Opening weekend of the walk-through holiday light show in Wind
+ rush Gardens at Burden\, running through December 30. Tickets. Details: ht
+ tps://weekendscout.app/e/baton-rouge/louisiana-lights-2026-11/
 URL:https://weekendscout.app/e/baton-rouge/louisiana-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:baton-rouge-louisiana-lights-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T003532Z
+DTSTAMP:20261126T005952Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
 SUMMARY:Louisiana Lights
 LOCATION:Burden Museum & Gardens\, 4560 Essen Ln\, Baton Rouge\, LA 70809
-DESCRIPTION:Opening weekend of the walk-through light show in the gardens.
-  Tickets. Details: https://weekendscout.app/e/baton-rouge/louisiana-lights
- -2026-11/
+DESCRIPTION:Opening weekend of the walk-through holiday light show in Wind
+ rush Gardens at Burden\, running through December 30. Tickets. Details: ht
+ tps://weekendscout.app/e/baton-rouge/louisiana-lights-2026-11/
 URL:https://weekendscout.app/e/baton-rouge/louisiana-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:baton-rouge-zoo-lights-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T003532Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
+DTSTAMP:20261126T005952Z
+DTSTART:20261127T233000Z
+DTEND:20261128T030000Z
 SUMMARY:Zoo Lights
 LOCATION:BREC’s Baton Rouge Zoo\, 3601 Thomas Rd\, Baton Rouge\, LA 7080
  7
-DESCRIPTION:The zoo’s holiday lights open on Black Friday. Tickets. Deta
- ils: https://weekendscout.app/e/baton-rouge/zoo-lights-2026-11/
+DESCRIPTION:The zoo’s holiday lights open on Black Friday\; admission ru
+ ns 5:30–8 p.m. and the grounds close at 9. Bring a non-perishable food i
+ tem for half off. $5 adults\, $3 kids 2–12. Details: https://weekendscou
+ t.app/e/baton-rouge/zoo-lights-2026-11/
 URL:https://weekendscout.app/e/baton-rouge/zoo-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:baton-rouge-zoo-lights-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T003532Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
+DTSTAMP:20261126T005952Z
+DTSTART:20261128T233000Z
+DTEND:20261129T030000Z
 SUMMARY:Zoo Lights
 LOCATION:BREC’s Baton Rouge Zoo\, 3601 Thomas Rd\, Baton Rouge\, LA 7080
  7
-DESCRIPTION:The zoo’s holiday lights open on Black Friday. Tickets. Deta
- ils: https://weekendscout.app/e/baton-rouge/zoo-lights-2026-11/
+DESCRIPTION:The zoo’s holiday lights open on Black Friday\; admission ru
+ ns 5:30–8 p.m. and the grounds close at 9. Bring a non-perishable food i
+ tem for half off. $5 adults\, $3 kids 2–12. Details: https://weekendscou
+ t.app/e/baton-rouge/zoo-lights-2026-11/
 URL:https://weekendscout.app/e/baton-rouge/zoo-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:baton-rouge-zoo-lights-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T003532Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
+DTSTAMP:20261126T005952Z
+DTSTART:20261129T233000Z
+DTEND:20261130T030000Z
 SUMMARY:Zoo Lights
 LOCATION:BREC’s Baton Rouge Zoo\, 3601 Thomas Rd\, Baton Rouge\, LA 7080
  7
-DESCRIPTION:The zoo’s holiday lights open on Black Friday. Tickets. Deta
- ils: https://weekendscout.app/e/baton-rouge/zoo-lights-2026-11/
+DESCRIPTION:The zoo’s holiday lights open on Black Friday\; admission ru
+ ns 5:30–8 p.m. and the grounds close at 9. Bring a non-perishable food i
+ tem for half off. $5 adults\, $3 kids 2–12. Details: https://weekendscou
+ t.app/e/baton-rouge/zoo-lights-2026-11/
 URL:https://weekendscout.app/e/baton-rouge/zoo-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:baton-rouge-baton-rouge-kingfish-vs-mid-south-monarchs-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T003532Z
+DTSTAMP:20261126T005952Z
 DTSTART:20261128T010500Z
 DTEND:20261128T030500Z
 SUMMARY:Baton Rouge Kingfish vs. Mid-South Monarchs
@@ -110,5 +113,18 @@ DESCRIPTION:Hockey downtown on Black Friday night. Tickets. Details: https
  ://weekendscout.app/e/baton-rouge/baton-rouge-kingfish-vs-mid-south-monarc
  hs-2026-11/
 URL:https://weekendscout.app/e/baton-rouge/baton-rouge-kingfish-vs-mid-south-monarchs-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:baton-rouge-you-can-see-everything-manship-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T005952Z
+DTSTART:20261128T000000Z
+DTEND:20261128T030000Z
+SUMMARY:You Can See Everything (Film)
+LOCATION:Manship Theatre\, 100 Lafayette St\, Baton Rouge\, LA 70801
+DESCRIPTION:A screening of Nathan Fielder and Lance Oppenheim’s document
+ ary following Elizabeth Holmes in the weeks before her prison sentence. Ra
+ ted R and nearly three hours long. Tickets. Details: https://weekendscout.
+ app/e/baton-rouge/you-can-see-everything-manship-2026-11/
+URL:https://weekendscout.app/e/baton-rouge/you-can-see-everything-manship-2026-11/
 END:VEVENT
 END:VCALENDAR

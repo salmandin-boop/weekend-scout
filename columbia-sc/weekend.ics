@@ -9,62 +9,170 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:columbia-sc-soda-city-market-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T003532Z
+DTSTAMP:20261126T005952Z
 DTSTART:20261128T140000Z
 DTEND:20261128T180000Z
 SUMMARY:Soda City Market
 LOCATION:Main Street\, 1500 Main St\, Columbia\, SC 29201
-DESCRIPTION:Columbia’s Saturday street market on Main Street: farmers\, 
- food stalls and local makers. Free to browse. Details: https://weekendscou
- t.app/e/columbia-sc/soda-city-market-2026-11/
+DESCRIPTION:Columbia’s Saturday street market fills the 1300–1700 bloc
+ ks of Main Street with farmers\, food stalls and local makers\, rain or sh
+ ine. Street parking is free on Saturdays. Free to browse. Details: https:/
+ /weekendscout.app/e/columbia-sc/soda-city-market-2026-11/
 URL:https://weekendscout.app/e/columbia-sc/soda-city-market-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:columbia-sc-the-nutcracker-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T003532Z
+DTSTAMP:20261126T005952Z
 DTSTART:20261128T003000Z
 DTEND:20261128T023000Z
 SUMMARY:The Nutcracker
 LOCATION:Township Auditorium\, 1703 Taylor St\, Columbia\, SC 29201
-DESCRIPTION:The holiday ballet on Friday night and Sunday afternoon. Ticke
- ts. Details: https://weekendscout.app/e/columbia-sc/the-nutcracker-2026-11
- /
+DESCRIPTION:Ann Brodie’s Carolina Ballet stages the holiday classic\, pr
+ esented by the Carolina Music Festival Association\, with a Friday evening
+  show and a Sunday matinee. Tickets. Details: https://weekendscout.app/e/c
+ olumbia-sc/the-nutcracker-2026-11/
 URL:https://weekendscout.app/e/columbia-sc/the-nutcracker-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:columbia-sc-the-nutcracker-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T003532Z
+DTSTAMP:20261126T005952Z
 DTSTART:20261129T200000Z
 DTEND:20261129T220000Z
 SUMMARY:The Nutcracker
 LOCATION:Township Auditorium\, 1703 Taylor St\, Columbia\, SC 29201
-DESCRIPTION:The holiday ballet on Friday night and Sunday afternoon. Ticke
- ts. Details: https://weekendscout.app/e/columbia-sc/the-nutcracker-2026-11
- /
+DESCRIPTION:Ann Brodie’s Carolina Ballet stages the holiday classic\, pr
+ esented by the Carolina Music Festival Association\, with a Friday evening
+  show and a Sunday matinee. Tickets. Details: https://weekendscout.app/e/c
+ olumbia-sc/the-nutcracker-2026-11/
 URL:https://weekendscout.app/e/columbia-sc/the-nutcracker-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:columbia-sc-powher-player-classic-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T003532Z
-DTSTART:20261128T170000Z
-DTEND:20261128T190000Z
+DTSTAMP:20261126T005952Z
+DTSTART:20261128T193000Z
+DTEND:20261128T213000Z
 SUMMARY:PowHER Player Classic
 LOCATION:Colonial Life Arena\, 801 Lincoln St\, Columbia\, SC 29201
-DESCRIPTION:Two days of women’s college basketball at the Gamecocks’ a
- rena. Tickets. Details: https://weekendscout.app/e/columbia-sc/powher-play
- er-classic-2026-11/
+DESCRIPTION:South Carolina hosts the first PowHER Player Classic with NC C
+ entral\, Alabama A&M and Tennessee State. The Gamecocks play Tennessee Sta
+ te Saturday at 2:30 p.m. after the NC Central–Alabama A&M game\; the con
+ solation and title games are Sunday. Tickets. Details: https://weekendscou
+ t.app/e/columbia-sc/powher-player-classic-2026-11/
 URL:https://weekendscout.app/e/columbia-sc/powher-player-classic-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:columbia-sc-powher-player-classic-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T003532Z
+DTSTAMP:20261126T005952Z
 DTSTART:20261129T170000Z
 DTEND:20261129T190000Z
 SUMMARY:PowHER Player Classic
 LOCATION:Colonial Life Arena\, 801 Lincoln St\, Columbia\, SC 29201
-DESCRIPTION:Two days of women’s college basketball at the Gamecocks’ a
- rena. Tickets. Details: https://weekendscout.app/e/columbia-sc/powher-play
- er-classic-2026-11/
+DESCRIPTION:South Carolina hosts the first PowHER Player Classic with NC C
+ entral\, Alabama A&M and Tennessee State. The Gamecocks play Tennessee Sta
+ te Saturday at 2:30 p.m. after the NC Central–Alabama A&M game\; the con
+ solation and title games are Sunday. Tickets. Details: https://weekendscou
+ t.app/e/columbia-sc/powher-player-classic-2026-11/
 URL:https://weekendscout.app/e/columbia-sc/powher-player-classic-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:columbia-sc-powher-player-classic-2026-11-sun-1@weekendscout.app
+DTSTAMP:20261126T005952Z
+DTSTART:20261129T193000Z
+DTEND:20261129T213000Z
+SUMMARY:PowHER Player Classic
+LOCATION:Colonial Life Arena\, 801 Lincoln St\, Columbia\, SC 29201
+DESCRIPTION:South Carolina hosts the first PowHER Player Classic with NC C
+ entral\, Alabama A&M and Tennessee State. The Gamecocks play Tennessee Sta
+ te Saturday at 2:30 p.m. after the NC Central–Alabama A&M game\; the con
+ solation and title games are Sunday. Tickets. Details: https://weekendscou
+ t.app/e/columbia-sc/powher-player-classic-2026-11/
+URL:https://weekendscout.app/e/columbia-sc/powher-player-classic-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:columbia-sc-fireflies-holiday-lights-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T005952Z
+DTSTART:20261127T230000Z
+DTEND:20261128T020000Z
+SUMMARY:Fireflies Holiday Lights
+LOCATION:Prisma Health Park (Segra Park)\, 1640 Freed St\, Columbia\, SC 2
+ 9201
+DESCRIPTION:About 2 million lights fill the Columbia Fireflies’ ballpark
+ \, with a walk-through display on the field\, s’mores pits\, light tunne
+ ls and a kids’ train. Kids 2 and under free\; last entry 8:30 p.m. $10 (
+ Nov) · +$2 day-of. Details: https://weekendscout.app/e/columbia-sc/firefl
+ ies-holiday-lights-2026-11/
+URL:https://weekendscout.app/e/columbia-sc/fireflies-holiday-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:columbia-sc-fireflies-holiday-lights-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T005952Z
+DTSTART:20261128T230000Z
+DTEND:20261129T020000Z
+SUMMARY:Fireflies Holiday Lights
+LOCATION:Prisma Health Park (Segra Park)\, 1640 Freed St\, Columbia\, SC 2
+ 9201
+DESCRIPTION:About 2 million lights fill the Columbia Fireflies’ ballpark
+ \, with a walk-through display on the field\, s’mores pits\, light tunne
+ ls and a kids’ train. Kids 2 and under free\; last entry 8:30 p.m. $10 (
+ Nov) · +$2 day-of. Details: https://weekendscout.app/e/columbia-sc/firefl
+ ies-holiday-lights-2026-11/
+URL:https://weekendscout.app/e/columbia-sc/fireflies-holiday-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:columbia-sc-fireflies-holiday-lights-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T005952Z
+DTSTART:20261129T230000Z
+DTEND:20261130T020000Z
+SUMMARY:Fireflies Holiday Lights
+LOCATION:Prisma Health Park (Segra Park)\, 1640 Freed St\, Columbia\, SC 2
+ 9201
+DESCRIPTION:About 2 million lights fill the Columbia Fireflies’ ballpark
+ \, with a walk-through display on the field\, s’mores pits\, light tunne
+ ls and a kids’ train. Kids 2 and under free\; last entry 8:30 p.m. $10 (
+ Nov) · +$2 day-of. Details: https://weekendscout.app/e/columbia-sc/firefl
+ ies-holiday-lights-2026-11/
+URL:https://weekendscout.app/e/columbia-sc/fireflies-holiday-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:columbia-sc-sc-state-museum-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T005952Z
+DTSTART:20261127T150000Z
+DTEND:20261127T220000Z
+SUMMARY:South Carolina State Museum: Santa Saturday
+LOCATION:South Carolina State Museum\, 301 Gervais St\, Columbia\, SC 2920
+ 1
+DESCRIPTION:Four floors of science\, history and art\, open all holiday we
+ ekend. Santa visits Saturday from 11 a.m. to 3 p.m. with holiday shows\, i
+ ncluded with admission. $13 adults · $10 kids 3–12. Details: https://we
+ ekendscout.app/e/columbia-sc/sc-state-museum-2026-11/
+URL:https://weekendscout.app/e/columbia-sc/sc-state-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:columbia-sc-sc-state-museum-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T005952Z
+DTSTART:20261128T150000Z
+DTEND:20261128T220000Z
+SUMMARY:South Carolina State Museum: Santa Saturday
+LOCATION:South Carolina State Museum\, 301 Gervais St\, Columbia\, SC 2920
+ 1
+DESCRIPTION:Four floors of science\, history and art\, open all holiday we
+ ekend. Santa visits Saturday from 11 a.m. to 3 p.m. with holiday shows\, i
+ ncluded with admission. $13 adults · $10 kids 3–12. Details: https://we
+ ekendscout.app/e/columbia-sc/sc-state-museum-2026-11/
+URL:https://weekendscout.app/e/columbia-sc/sc-state-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:columbia-sc-sc-state-museum-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T005952Z
+DTSTART:20261129T170000Z
+DTEND:20261129T220000Z
+SUMMARY:South Carolina State Museum: Santa Saturday
+LOCATION:South Carolina State Museum\, 301 Gervais St\, Columbia\, SC 2920
+ 1
+DESCRIPTION:Four floors of science\, history and art\, open all holiday we
+ ekend. Santa visits Saturday from 11 a.m. to 3 p.m. with holiday shows\, i
+ ncluded with admission. $13 adults · $10 kids 3–12. Details: https://we
+ ekendscout.app/e/columbia-sc/sc-state-museum-2026-11/
+URL:https://weekendscout.app/e/columbia-sc/sc-state-museum-2026-11/
 END:VEVENT
 END:VCALENDAR
