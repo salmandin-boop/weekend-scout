@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:bellingham-nutcracker-mount-baker-theatre-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114654Z
 DTSTART:20261128T030000Z
 DTEND:20261128T050000Z
 SUMMARY:The Nutcracker (Opus Performing Arts with the Bellingham Symphony 
@@ -23,7 +23,7 @@ URL:https://weekendscout.app/e/bellingham/nutcracker-mount-baker-theatre-2026-11
 END:VEVENT
 BEGIN:VEVENT
 UID:bellingham-nutcracker-mount-baker-theatre-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114654Z
 DTSTART:20261128T210000Z
 DTEND:20261128T230000Z
 SUMMARY:The Nutcracker (Opus Performing Arts with the Bellingham Symphony 
@@ -37,7 +37,7 @@ URL:https://weekendscout.app/e/bellingham/nutcracker-mount-baker-theatre-2026-11
 END:VEVENT
 BEGIN:VEVENT
 UID:bellingham-nutcracker-mount-baker-theatre-2026-11-27-sat-1@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114654Z
 DTSTART:20261129T030000Z
 DTEND:20261129T050000Z
 SUMMARY:The Nutcracker (Opus Performing Arts with the Bellingham Symphony 
@@ -51,7 +51,7 @@ URL:https://weekendscout.app/e/bellingham/nutcracker-mount-baker-theatre-2026-11
 END:VEVENT
 BEGIN:VEVENT
 UID:bellingham-nutcracker-mount-baker-theatre-2026-11-27-sun-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114654Z
 DTSTART:20261129T210000Z
 DTEND:20261129T230000Z
 SUMMARY:The Nutcracker (Opus Performing Arts with the Bellingham Symphony 
@@ -65,7 +65,7 @@ URL:https://weekendscout.app/e/bellingham/nutcracker-mount-baker-theatre-2026-11
 END:VEVENT
 BEGIN:VEVENT
 UID:bellingham-seattle-intl-comedy-finals-mount-baker-theatre-2026-11-29-sun-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114654Z
 DTSTART:20261130T030000Z
 DTEND:20261130T050000Z
 SUMMARY:Seattle International Comedy Competition Finals
@@ -79,7 +79,7 @@ URL:https://weekendscout.app/e/bellingham/seattle-intl-comedy-finals-mount-baker
 END:VEVENT
 BEGIN:VEVENT
 UID:bellingham-a-christmas-carol-firehouse-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114654Z
 DTSTART:20261128T030000Z
 DTEND:20261128T040000Z
 SUMMARY:Allen Fitzpatrick in A Christmas Carol
@@ -92,7 +92,7 @@ URL:https://weekendscout.app/e/bellingham/a-christmas-carol-firehouse-2026-11-27
 END:VEVENT
 BEGIN:VEVENT
 UID:bellingham-shop-small-saturday-downtown-bellingham-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114654Z
 DTSTART:20261128T170000Z
 DTEND:20261129T040000Z
 SUMMARY:Shop Small Saturday
@@ -105,7 +105,7 @@ URL:https://weekendscout.app/e/bellingham/shop-small-saturday-downtown-bellingha
 END:VEVENT
 BEGIN:VEVENT
 UID:bellingham-fairhaven-winterfest-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114654Z
 DTSTART:20261129T000000Z
 DTEND:20261129T020000Z
 SUMMARY:Fairhaven Winterfest
@@ -117,7 +117,7 @@ URL:https://weekendscout.app/e/bellingham/fairhaven-winterfest-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:bellingham-bellingham-farmers-market-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114654Z
 DTSTART:20261128T180000Z
 DTEND:20261128T220000Z
 SUMMARY:Bellingham Farmers Market: Saturday Market
@@ -129,7 +129,7 @@ URL:https://weekendscout.app/e/bellingham/bellingham-farmers-market-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:bellingham-megazapper-spark-museum-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114654Z
 DTSTART:20261127T223000Z
 DTEND:20261128T003000Z
 SUMMARY:MegaZapper Electrical Show
@@ -142,7 +142,7 @@ URL:https://weekendscout.app/e/bellingham/megazapper-spark-museum-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:bellingham-megazapper-spark-museum-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114654Z
 DTSTART:20261128T223000Z
 DTEND:20261129T003000Z
 SUMMARY:MegaZapper Electrical Show
@@ -155,7 +155,7 @@ URL:https://weekendscout.app/e/bellingham/megazapper-spark-museum-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:bellingham-blaine-holiday-harbor-lights-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114654Z
 DTSTART:20261128T210000Z
 DTEND:20261129T030000Z
 SUMMARY:Blaine Holiday Harbor Lights
@@ -167,7 +167,7 @@ URL:https://weekendscout.app/e/bellingham/blaine-holiday-harbor-lights-2026-11-2
 END:VEVENT
 BEGIN:VEVENT
 UID:bellingham-laughs-at-larrabee-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114654Z
 DTSTART:20261128T040000Z
 DTEND:20261128T053000Z
 SUMMARY:Laughs at Larrabee Comedy Night Starring Billie Manton
@@ -180,7 +180,7 @@ URL:https://weekendscout.app/e/bellingham/laughs-at-larrabee-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:bellingham-live-music-stones-throw-brewery-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114654Z
 DTSTART:20261128T020000Z
 DTEND:20261128T040000Z
 SUMMARY:Live Music at Stones Throw Brewery

@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:tallahassee-florida-state-vs-florida-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114654Z
 DTSTART:20261127T203000Z
 DTEND:20261127T223000Z
 SUMMARY:Florida State vs. Florida
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/tallahassee/florida-state-vs-florida-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:tallahassee-cascades-park-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114654Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/tallahassee/cascades-park-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:tallahassee-cascades-park-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114654Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -48,7 +48,7 @@ URL:https://weekendscout.app/e/tallahassee/cascades-park-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:tallahassee-cascades-park-2026-11-27-sun-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114654Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -58,5 +58,104 @@ DESCRIPTION:Downtown park with walking trails\, a waterfall and a playgrou
  nd\, a short walk from the Capitol. Free. Details: https://weekendscout.ap
  p/e/tallahassee/cascades-park-2026-11-27/
 URL:https://weekendscout.app/e/tallahassee/cascades-park-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:tallahassee-holiday-lights-at-dorothy-b-oven-park-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T114654Z
+DTSTART:20261127T223000Z
+DTEND:20261128T040000Z
+SUMMARY:Holiday lights at Dorothy B. Oven Park
+LOCATION:Dorothy B. Oven Park\, 3205 Thomasville Rd\, Tallahassee\, FL 323
+ 08
+DESCRIPTION:Thousands of lights through the park's gardens. Weekend nights
+  5:30 to 11 p.m. Free. Details: https://weekendscout.app/e/tallahassee/hol
+ iday-lights-at-dorothy-b-oven-park-2026-11/
+URL:https://weekendscout.app/e/tallahassee/holiday-lights-at-dorothy-b-oven-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:tallahassee-holiday-lights-at-dorothy-b-oven-park-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T114654Z
+DTSTART:20261128T223000Z
+DTEND:20261129T040000Z
+SUMMARY:Holiday lights at Dorothy B. Oven Park
+LOCATION:Dorothy B. Oven Park\, 3205 Thomasville Rd\, Tallahassee\, FL 323
+ 08
+DESCRIPTION:Thousands of lights through the park's gardens. Weekend nights
+  5:30 to 11 p.m. Free. Details: https://weekendscout.app/e/tallahassee/hol
+ iday-lights-at-dorothy-b-oven-park-2026-11/
+URL:https://weekendscout.app/e/tallahassee/holiday-lights-at-dorothy-b-oven-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:tallahassee-holiday-lights-at-dorothy-b-oven-park-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T114654Z
+DTSTART:20261129T223000Z
+DTEND:20261130T040000Z
+SUMMARY:Holiday lights at Dorothy B. Oven Park
+LOCATION:Dorothy B. Oven Park\, 3205 Thomasville Rd\, Tallahassee\, FL 323
+ 08
+DESCRIPTION:Thousands of lights through the park's gardens. Weekend nights
+  5:30 to 11 p.m. Free. Details: https://weekendscout.app/e/tallahassee/hol
+ iday-lights-at-dorothy-b-oven-park-2026-11/
+URL:https://weekendscout.app/e/tallahassee/holiday-lights-at-dorothy-b-oven-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:tallahassee-lemoyne-arts-holiday-show-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T114654Z
+DTSTART:20261127T150000Z
+DTEND:20261127T220000Z
+SUMMARY:LeMoyne Arts Holiday Show
+LOCATION:LeMoyne Arts\, 125 N Gadsden St\, Tallahassee\, FL 32301
+DESCRIPTION:The 63rd annual holiday show and sale fills the historic house
+  with local art and gifts. See website. Details: https://weekendscout.app/
+ e/tallahassee/lemoyne-arts-holiday-show-2026-11/
+URL:https://weekendscout.app/e/tallahassee/lemoyne-arts-holiday-show-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:tallahassee-lemoyne-arts-holiday-show-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T114654Z
+DTSTART:20261128T150000Z
+DTEND:20261128T220000Z
+SUMMARY:LeMoyne Arts Holiday Show
+LOCATION:LeMoyne Arts\, 125 N Gadsden St\, Tallahassee\, FL 32301
+DESCRIPTION:The 63rd annual holiday show and sale fills the historic house
+  with local art and gifts. See website. Details: https://weekendscout.app/
+ e/tallahassee/lemoyne-arts-holiday-show-2026-11/
+URL:https://weekendscout.app/e/tallahassee/lemoyne-arts-holiday-show-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:tallahassee-tallahassee-museum-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T114654Z
+DTSTART:20261127T140000Z
+DTEND:20261127T220000Z
+SUMMARY:Tallahassee Museum
+LOCATION:Tallahassee Museum\, 3945 Museum Dr\, Tallahassee\, FL 32310
+DESCRIPTION:Native Florida wildlife\, an 1880s farm and boardwalks through
+  the woods. Open Fri–Sat 9–5\, Sun 11–5. Admission. Details: https:/
+ /weekendscout.app/e/tallahassee/tallahassee-museum-2026-11/
+URL:https://weekendscout.app/e/tallahassee/tallahassee-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:tallahassee-tallahassee-museum-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T114654Z
+DTSTART:20261128T140000Z
+DTEND:20261128T220000Z
+SUMMARY:Tallahassee Museum
+LOCATION:Tallahassee Museum\, 3945 Museum Dr\, Tallahassee\, FL 32310
+DESCRIPTION:Native Florida wildlife\, an 1880s farm and boardwalks through
+  the woods. Open Fri–Sat 9–5\, Sun 11–5. Admission. Details: https:/
+ /weekendscout.app/e/tallahassee/tallahassee-museum-2026-11/
+URL:https://weekendscout.app/e/tallahassee/tallahassee-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:tallahassee-tallahassee-museum-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T114654Z
+DTSTART:20261129T160000Z
+DTEND:20261129T220000Z
+SUMMARY:Tallahassee Museum
+LOCATION:Tallahassee Museum\, 3945 Museum Dr\, Tallahassee\, FL 32310
+DESCRIPTION:Native Florida wildlife\, an 1880s farm and boardwalks through
+  the woods. Open Fri–Sat 9–5\, Sun 11–5. Admission. Details: https:/
+ /weekendscout.app/e/tallahassee/tallahassee-museum-2026-11/
+URL:https://weekendscout.app/e/tallahassee/tallahassee-museum-2026-11/
 END:VEVENT
 END:VCALENDAR

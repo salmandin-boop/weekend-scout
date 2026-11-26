@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:riverside-mission-inn-festival-of-lights-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261128T010000Z
 DTEND:20261128T070000Z
 SUMMARY:Mission Inn Festival of Lights
@@ -23,7 +23,7 @@ URL:https://weekendscout.app/e/riverside/mission-inn-festival-of-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:riverside-mission-inn-festival-of-lights-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261129T010000Z
 DTEND:20261129T070000Z
 SUMMARY:Mission Inn Festival of Lights
@@ -37,7 +37,7 @@ URL:https://weekendscout.app/e/riverside/mission-inn-festival-of-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:riverside-mission-inn-festival-of-lights-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261130T010000Z
 DTEND:20261130T070000Z
 SUMMARY:Mission Inn Festival of Lights
@@ -51,7 +51,7 @@ URL:https://weekendscout.app/e/riverside/mission-inn-festival-of-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:riverside-festival-of-lights-ice-rink-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261128T010000Z
 DTEND:20261128T060000Z
 SUMMARY:Festival of Lights ice rink
@@ -64,7 +64,7 @@ URL:https://weekendscout.app/e/riverside/festival-of-lights-ice-rink-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:riverside-festival-of-lights-ice-rink-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261129T010000Z
 DTEND:20261129T060000Z
 SUMMARY:Festival of Lights ice rink
@@ -77,7 +77,7 @@ URL:https://weekendscout.app/e/riverside/festival-of-lights-ice-rink-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:riverside-festival-of-lights-ice-rink-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261130T010000Z
 DTEND:20261130T060000Z
 SUMMARY:Festival of Lights ice rink
@@ -87,5 +87,83 @@ DESCRIPTION:Outdoor skating downtown every night of the festival. $20 with
   skates. Details: https://weekendscout.app/e/riverside/festival-of-lights-
  ice-rink-2026-11/
 URL:https://weekendscout.app/e/riverside/festival-of-lights-ice-rink-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:riverside-mt-rubidoux-hike-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T114653Z
+DTSTART:20261127T150000Z
+DTEND:20261128T003000Z
+SUMMARY:Mt. Rubidoux hike
+LOCATION:Mt. Rubidoux Park\, 4706 Mt. Rubidoux Dr\, Riverside\, CA 92501
+DESCRIPTION:Paved loop to the summit cross with views over the city and th
+ e Santa Ana River. Open dawn to dusk\; park at Ryan Bonaminio Park. Free. 
+ Details: https://weekendscout.app/e/riverside/mt-rubidoux-hike-2026-11/
+URL:https://weekendscout.app/e/riverside/mt-rubidoux-hike-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:riverside-mt-rubidoux-hike-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T114653Z
+DTSTART:20261128T150000Z
+DTEND:20261129T003000Z
+SUMMARY:Mt. Rubidoux hike
+LOCATION:Mt. Rubidoux Park\, 4706 Mt. Rubidoux Dr\, Riverside\, CA 92501
+DESCRIPTION:Paved loop to the summit cross with views over the city and th
+ e Santa Ana River. Open dawn to dusk\; park at Ryan Bonaminio Park. Free. 
+ Details: https://weekendscout.app/e/riverside/mt-rubidoux-hike-2026-11/
+URL:https://weekendscout.app/e/riverside/mt-rubidoux-hike-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:riverside-mt-rubidoux-hike-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T114653Z
+DTSTART:20261129T150000Z
+DTEND:20261130T003000Z
+SUMMARY:Mt. Rubidoux hike
+LOCATION:Mt. Rubidoux Park\, 4706 Mt. Rubidoux Dr\, Riverside\, CA 92501
+DESCRIPTION:Paved loop to the summit cross with views over the city and th
+ e Santa Ana River. Open dawn to dusk\; park at Ryan Bonaminio Park. Free. 
+ Details: https://weekendscout.app/e/riverside/mt-rubidoux-hike-2026-11/
+URL:https://weekendscout.app/e/riverside/mt-rubidoux-hike-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:riverside-california-citrus-state-historic-park-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T114653Z
+DTSTART:20261127T160000Z
+DTEND:20261128T010000Z
+SUMMARY:California Citrus State Historic Park
+LOCATION:California Citrus State Historic Park\, 9400 Dufferin Ave\, River
+ side\, CA 92504
+DESCRIPTION:Walk the working citrus groves that built Riverside. Park open
+  8–5\; visitor center and museum Fri–Sun 10–4. $7 per vehicle. Detai
+ ls: https://weekendscout.app/e/riverside/california-citrus-state-historic-
+ park-2026-11/
+URL:https://weekendscout.app/e/riverside/california-citrus-state-historic-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:riverside-california-citrus-state-historic-park-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T114653Z
+DTSTART:20261128T160000Z
+DTEND:20261129T010000Z
+SUMMARY:California Citrus State Historic Park
+LOCATION:California Citrus State Historic Park\, 9400 Dufferin Ave\, River
+ side\, CA 92504
+DESCRIPTION:Walk the working citrus groves that built Riverside. Park open
+  8–5\; visitor center and museum Fri–Sun 10–4. $7 per vehicle. Detai
+ ls: https://weekendscout.app/e/riverside/california-citrus-state-historic-
+ park-2026-11/
+URL:https://weekendscout.app/e/riverside/california-citrus-state-historic-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:riverside-california-citrus-state-historic-park-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T114653Z
+DTSTART:20261129T160000Z
+DTEND:20261130T010000Z
+SUMMARY:California Citrus State Historic Park
+LOCATION:California Citrus State Historic Park\, 9400 Dufferin Ave\, River
+ side\, CA 92504
+DESCRIPTION:Walk the working citrus groves that built Riverside. Park open
+  8–5\; visitor center and museum Fri–Sun 10–4. $7 per vehicle. Detai
+ ls: https://weekendscout.app/e/riverside/california-citrus-state-historic-
+ park-2026-11/
+URL:https://weekendscout.app/e/riverside/california-citrus-state-historic-park-2026-11/
 END:VEVENT
 END:VCALENDAR

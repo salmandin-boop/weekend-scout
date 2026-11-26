@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:burlington-church-street-marketplace-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261127T170000Z
 DTEND:20261127T190000Z
 SUMMARY:Church Street Marketplace
@@ -23,7 +23,7 @@ URL:https://weekendscout.app/e/burlington/church-street-marketplace-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:burlington-church-street-marketplace-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -38,7 +38,7 @@ URL:https://weekendscout.app/e/burlington/church-street-marketplace-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:burlington-church-street-marketplace-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261129T150000Z
 DTEND:20261129T190000Z
 SUMMARY:Church Street Marketplace
@@ -52,7 +52,7 @@ URL:https://weekendscout.app/e/burlington/church-street-marketplace-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:burlington-church-street-tree-lighting-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261127T221500Z
 DTEND:20261128T001500Z
 SUMMARY:Church Street Tree Lighting Ceremony
@@ -66,7 +66,7 @@ URL:https://weekendscout.app/e/burlington/church-street-tree-lighting-2026-11-27
 END:VEVENT
 BEGIN:VEVENT
 UID:burlington-the-nutcracker-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261128T180000Z
 DTEND:20261128T200000Z
 SUMMARY:The Nutcracker
@@ -78,7 +78,7 @@ URL:https://weekendscout.app/e/burlington/the-nutcracker-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:burlington-the-nutcracker-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261128T220000Z
 DTEND:20261129T000000Z
 SUMMARY:The Nutcracker
@@ -90,7 +90,7 @@ URL:https://weekendscout.app/e/burlington/the-nutcracker-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:burlington-the-eyetraps-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261129T003000Z
 DTEND:20261129T023000Z
 SUMMARY:Chin Ho! with The Eyetraps
@@ -103,7 +103,7 @@ URL:https://weekendscout.app/e/burlington/the-eyetraps-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:burlington-nate-smith-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261130T003000Z
 DTEND:20261130T023000Z
 SUMMARY:Nate Smith
@@ -115,7 +115,7 @@ URL:https://weekendscout.app/e/burlington/nate-smith-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:burlington-house-of-sparkle-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261128T010000Z
 DTEND:20261128T030000Z
 SUMMARY:House of Sparkle with Cheetatah
@@ -127,7 +127,7 @@ URL:https://weekendscout.app/e/burlington/house-of-sparkle-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:burlington-uvm-st-cloud-state-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261128T000000Z
 DTEND:20261128T020000Z
 SUMMARY:Vermont Catamounts vs. St. Cloud State
@@ -139,7 +139,7 @@ URL:https://weekendscout.app/e/burlington/uvm-st-cloud-state-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:burlington-uvm-st-cloud-state-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261129T000000Z
 DTEND:20261129T020000Z
 SUMMARY:Vermont Catamounts vs. St. Cloud State
@@ -151,7 +151,7 @@ URL:https://weekendscout.app/e/burlington/uvm-st-cloud-state-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:burlington-drew-dunn-vermont-comedy-club-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261127T233000Z
 DTEND:20261128T013000Z
 SUMMARY:Drew Dunn
@@ -164,7 +164,7 @@ URL:https://weekendscout.app/e/burlington/drew-dunn-vermont-comedy-club-2026-11-
 END:VEVENT
 BEGIN:VEVENT
 UID:burlington-drew-dunn-vermont-comedy-club-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261128T233000Z
 DTEND:20261129T013000Z
 SUMMARY:Drew Dunn
@@ -177,7 +177,7 @@ URL:https://weekendscout.app/e/burlington/drew-dunn-vermont-comedy-club-2026-11-
 END:VEVENT
 BEGIN:VEVENT
 UID:burlington-drew-dunn-vermont-comedy-club-2026-11-27-sat-1@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261129T013000Z
 DTEND:20261129T033000Z
 SUMMARY:Drew Dunn
@@ -190,7 +190,7 @@ URL:https://weekendscout.app/e/burlington/drew-dunn-vermont-comedy-club-2026-11-
 END:VEVENT
 BEGIN:VEVENT
 UID:burlington-btv-winter-market-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261128T160000Z
 DTEND:20261128T220000Z
 SUMMARY:BTV Winter Market

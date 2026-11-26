@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:jackson-wy-town-square-lighting-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114654Z
 DTSTART:20261128T000000Z
 DTEND:20261128T020000Z
 SUMMARY:Town Square Lighting
@@ -21,7 +21,7 @@ URL:https://weekendscout.app/e/jackson-wy/town-square-lighting-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:jackson-wy-shop-local-cookies-cocoa-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114654Z
 DTSTART:20261128T200000Z
 DTEND:20261128T230000Z
 SUMMARY:Shop Local Holiday Weekend: Cookies & Cocoa
@@ -34,7 +34,7 @@ URL:https://weekendscout.app/e/jackson-wy/shop-local-cookies-cocoa-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:jackson-wy-shop-local-cookies-cocoa-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114654Z
 DTSTART:20261129T200000Z
 DTEND:20261129T230000Z
 SUMMARY:Shop Local Holiday Weekend: Cookies & Cocoa
@@ -47,7 +47,7 @@ URL:https://weekendscout.app/e/jackson-wy/shop-local-cookies-cocoa-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:jackson-wy-jhmr-opening-day-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114654Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -62,7 +62,7 @@ URL:https://weekendscout.app/e/jackson-wy/jhmr-opening-day-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:jackson-wy-jhmr-opening-day-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114654Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -77,7 +77,7 @@ URL:https://weekendscout.app/e/jackson-wy/jhmr-opening-day-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:jackson-wy-jhmr-opening-day-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114654Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -92,7 +92,7 @@ URL:https://weekendscout.app/e/jackson-wy/jhmr-opening-day-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:jackson-wy-raptor-experience-masters-of-survival-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114654Z
 DTSTART:20261127T180000Z
 DTEND:20261127T190000Z
 SUMMARY:Raptor Experience: Masters of Survival
@@ -105,7 +105,7 @@ URL:https://weekendscout.app/e/jackson-wy/raptor-experience-masters-of-survival-
 END:VEVENT
 BEGIN:VEVENT
 UID:jackson-wy-talons-at-trailborn-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114654Z
 DTSTART:20261127T230000Z
 DTEND:20261128T000000Z
 SUMMARY:Talons at Trailborn
@@ -117,7 +117,7 @@ URL:https://weekendscout.app/e/jackson-wy/talons-at-trailborn-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:jackson-wy-national-museum-of-wildlife-art-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114654Z
 DTSTART:20261127T170000Z
 DTEND:20261128T000000Z
 SUMMARY:National Museum of Wildlife Art
@@ -131,7 +131,7 @@ URL:https://weekendscout.app/e/jackson-wy/national-museum-of-wildlife-art-2026-1
 END:VEVENT
 BEGIN:VEVENT
 UID:jackson-wy-national-museum-of-wildlife-art-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114654Z
 DTSTART:20261128T170000Z
 DTEND:20261129T000000Z
 SUMMARY:National Museum of Wildlife Art
@@ -145,7 +145,7 @@ URL:https://weekendscout.app/e/jackson-wy/national-museum-of-wildlife-art-2026-1
 END:VEVENT
 BEGIN:VEVENT
 UID:jackson-wy-national-museum-of-wildlife-art-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114654Z
 DTSTART:20261129T170000Z
 DTEND:20261130T000000Z
 SUMMARY:National Museum of Wildlife Art

@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:cheyenne-cheyenne-christmas-parade-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114654Z
 DTSTART:20261129T003000Z
 DTEND:20261129T023000Z
 SUMMARY:Cheyenne Christmas Parade
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/cheyenne/cheyenne-christmas-parade-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:cheyenne-elves-off-their-shelves-botanic-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114654Z
 DTSTART:20261128T170000Z
 DTEND:20261129T000000Z
 SUMMARY:Elves Off Their Shelves
@@ -37,7 +37,7 @@ URL:https://weekendscout.app/e/cheyenne/elves-off-their-shelves-botanic-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:cheyenne-wyoming-state-museum-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114654Z
 DTSTART:20261128T160000Z
 DTEND:20261128T233000Z
 SUMMARY:Wyoming State Museum
@@ -50,7 +50,7 @@ URL:https://weekendscout.app/e/cheyenne/wyoming-state-museum-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:cheyenne-cheyenne-depot-museum-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114654Z
 DTSTART:20261128T160000Z
 DTEND:20261128T220000Z
 SUMMARY:Cheyenne Depot Museum
@@ -63,7 +63,7 @@ URL:https://weekendscout.app/e/cheyenne/cheyenne-depot-museum-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:cheyenne-cheyenne-depot-museum-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114654Z
 DTSTART:20261129T180000Z
 DTEND:20261129T220000Z
 SUMMARY:Cheyenne Depot Museum
@@ -76,7 +76,7 @@ URL:https://weekendscout.app/e/cheyenne/cheyenne-depot-museum-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:cheyenne-old-west-museum-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114654Z
 DTSTART:20261128T160000Z
 DTEND:20261129T000000Z
 SUMMARY:Cheyenne Frontier Days Old West Museum
@@ -90,7 +90,7 @@ URL:https://weekendscout.app/e/cheyenne/old-west-museum-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:cheyenne-old-west-museum-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114654Z
 DTSTART:20261129T160000Z
 DTEND:20261130T000000Z
 SUMMARY:Cheyenne Frontier Days Old West Museum
@@ -104,7 +104,7 @@ URL:https://weekendscout.app/e/cheyenne/old-west-museum-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:cheyenne-artists-sunday-market-laramie-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114654Z
 DTSTART:20261129T170000Z
 DTEND:20261129T230000Z
 SUMMARY:Artists Sunday Market
@@ -118,7 +118,7 @@ URL:https://weekendscout.app/e/cheyenne/artists-sunday-market-laramie-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:cheyenne-wyoming-cowboys-eastern-washington-2026-11-29-sun-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114654Z
 DTSTART:20261129T200000Z
 DTEND:20261129T220000Z
 SUMMARY:Wyoming Cowboys vs. Eastern Washington

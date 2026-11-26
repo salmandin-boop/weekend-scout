@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:las-vegas-golden-knights-canadiens-kids-day-sat-0@weekendscout.app
-DTSTAMP:20261126T084517Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261128T210000Z
 DTEND:20261128T230000Z
 SUMMARY:Golden Knights vs. Canadiens
@@ -21,7 +21,7 @@ URL:https://weekendscout.app/e/las-vegas/golden-knights-canadiens-kids-day/
 END:VEVENT
 BEGIN:VEVENT
 UID:las-vegas-postmodern-jukebox-encore-theater-fri-0@weekendscout.app
-DTSTAMP:20261126T084517Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261128T040000Z
 DTEND:20261128T060000Z
 SUMMARY:Scott Bradlee's Postmodern Jukebox: The Future Is Vintage World To
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/las-vegas/postmodern-jukebox-encore-theater/
 END:VEVENT
 BEGIN:VEVENT
 UID:las-vegas-journey-final-frontier-mgm-grand-fri-0@weekendscout.app
-DTSTAMP:20261126T084517Z
+DTSTAMP:20261126T114653Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -49,7 +49,7 @@ URL:https://weekendscout.app/e/las-vegas/journey-final-frontier-mgm-grand/
 END:VEVENT
 BEGIN:VEVENT
 UID:las-vegas-jonas-brothers-burning-up-tour-sat-0@weekendscout.app
-DTSTAMP:20261126T084517Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261129T033000Z
 DTEND:20261129T053000Z
 SUMMARY:Jonas Brothers: The Burning Up Tour All Over Again
@@ -62,7 +62,7 @@ URL:https://weekendscout.app/e/las-vegas/jonas-brothers-burning-up-tour/
 END:VEVENT
 BEGIN:VEVENT
 UID:las-vegas-ethel-m-holiday-cactus-garden-lights-fri-0@weekendscout.app
-DTSTAMP:20261126T084517Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261128T010000Z
 DTEND:20261128T060000Z
 SUMMARY:Holiday Cactus Garden Lights
@@ -75,7 +75,7 @@ URL:https://weekendscout.app/e/las-vegas/ethel-m-holiday-cactus-garden-lights/
 END:VEVENT
 BEGIN:VEVENT
 UID:las-vegas-ethel-m-holiday-cactus-garden-lights-sat-0@weekendscout.app
-DTSTAMP:20261126T084517Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261129T010000Z
 DTEND:20261129T060000Z
 SUMMARY:Holiday Cactus Garden Lights
@@ -88,7 +88,7 @@ URL:https://weekendscout.app/e/las-vegas/ethel-m-holiday-cactus-garden-lights/
 END:VEVENT
 BEGIN:VEVENT
 UID:las-vegas-ethel-m-holiday-cactus-garden-lights-sun-0@weekendscout.app
-DTSTAMP:20261126T084517Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261130T010000Z
 DTEND:20261130T060000Z
 SUMMARY:Holiday Cactus Garden Lights
@@ -101,7 +101,7 @@ URL:https://weekendscout.app/e/las-vegas/ethel-m-holiday-cactus-garden-lights/
 END:VEVENT
 BEGIN:VEVENT
 UID:las-vegas-downtown-summerlin-holiday-parade-sat-0@weekendscout.app
-DTSTAMP:20261126T084517Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261129T020000Z
 DTEND:20261129T040000Z
 SUMMARY:Downtown Summerlin Holiday Parade
@@ -115,7 +115,7 @@ URL:https://weekendscout.app/e/las-vegas/downtown-summerlin-holiday-parade/
 END:VEVENT
 BEGIN:VEVENT
 UID:las-vegas-luenell-jimmy-kimmels-comedy-club-sun-0@weekendscout.app
-DTSTAMP:20261126T084517Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261130T053000Z
 DTEND:20261130T073000Z
 SUMMARY:Luenell
@@ -128,7 +128,7 @@ URL:https://weekendscout.app/e/las-vegas/luenell-jimmy-kimmels-comedy-club/
 END:VEVENT
 BEGIN:VEVENT
 UID:las-vegas-unlv-utrgv-thomas-mack-sat-0@weekendscout.app
-DTSTAMP:20261126T084517Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261128T200000Z
 DTEND:20261128T220000Z
 SUMMARY:UNLV Runnin' Rebels vs. UTRGV
@@ -141,7 +141,7 @@ URL:https://weekendscout.app/e/las-vegas/unlv-utrgv-thomas-mack/
 END:VEVENT
 BEGIN:VEVENT
 UID:las-vegas-elf-the-musical-smith-center-fri-0@weekendscout.app
-DTSTAMP:20261126T084517Z
+DTSTAMP:20261126T114653Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -156,7 +156,7 @@ URL:https://weekendscout.app/e/las-vegas/elf-the-musical-smith-center/
 END:VEVENT
 BEGIN:VEVENT
 UID:las-vegas-elf-the-musical-smith-center-sat-0@weekendscout.app
-DTSTAMP:20261126T084517Z
+DTSTAMP:20261126T114653Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -171,7 +171,7 @@ URL:https://weekendscout.app/e/las-vegas/elf-the-musical-smith-center/
 END:VEVENT
 BEGIN:VEVENT
 UID:las-vegas-elf-the-musical-smith-center-sun-0@weekendscout.app
-DTSTAMP:20261126T084517Z
+DTSTAMP:20261126T114653Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -186,7 +186,7 @@ URL:https://weekendscout.app/e/las-vegas/elf-the-musical-smith-center/
 END:VEVENT
 BEGIN:VEVENT
 UID:las-vegas-fremont-street-free-live-entertainment-fri-0@weekendscout.app
-DTSTAMP:20261126T084517Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261127T220000Z
 DTEND:20261128T000000Z
 SUMMARY:Free Live Entertainment on the 3rd Street Stage
@@ -200,7 +200,7 @@ URL:https://weekendscout.app/e/las-vegas/fremont-street-free-live-entertainment/
 END:VEVENT
 BEGIN:VEVENT
 UID:las-vegas-fremont-street-free-live-entertainment-sat-0@weekendscout.app
-DTSTAMP:20261126T084517Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261128T200000Z
 DTEND:20261128T220000Z
 SUMMARY:Free Live Entertainment on the 3rd Street Stage
@@ -214,7 +214,7 @@ URL:https://weekendscout.app/e/las-vegas/fremont-street-free-live-entertainment/
 END:VEVENT
 BEGIN:VEVENT
 UID:las-vegas-fremont-street-free-live-entertainment-sun-0@weekendscout.app
-DTSTAMP:20261126T084517Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261129T200000Z
 DTEND:20261129T220000Z
 SUMMARY:Free Live Entertainment on the 3rd Street Stage

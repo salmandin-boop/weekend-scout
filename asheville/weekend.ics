@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:asheville-david-wilcox-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261128T000000Z
 DTEND:20261128T020000Z
 SUMMARY:David Wilcox Annual Thanksgiving Homecoming Concert
@@ -21,7 +21,7 @@ URL:https://weekendscout.app/e/asheville/david-wilcox-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:asheville-fireside-collective-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261129T010000Z
 DTEND:20261129T030000Z
 SUMMARY:Fireside Collective's Family Jamboree
@@ -34,7 +34,7 @@ URL:https://weekendscout.app/e/asheville/fireside-collective-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:asheville-ellis-paul-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261130T010000Z
 DTEND:20261130T030000Z
 SUMMARY:An Evening With Ellis Paul
@@ -46,7 +46,7 @@ URL:https://weekendscout.app/e/asheville/ellis-paul-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:asheville-unca-vs-georgia-southern-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261128T190000Z
 DTEND:20261128T210000Z
 SUMMARY:UNC Asheville vs. Georgia Southern (Holiday Game)
@@ -59,7 +59,7 @@ URL:https://weekendscout.app/e/asheville/unca-vs-georgia-southern-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:asheville-winter-lights-nc-arboretum-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261127T230000Z
 DTEND:20261128T030000Z
 SUMMARY:Winter Lights
@@ -73,7 +73,7 @@ URL:https://weekendscout.app/e/asheville/winter-lights-nc-arboretum-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:asheville-winter-lights-nc-arboretum-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261128T230000Z
 DTEND:20261129T030000Z
 SUMMARY:Winter Lights
@@ -87,7 +87,7 @@ URL:https://weekendscout.app/e/asheville/winter-lights-nc-arboretum-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:asheville-winter-lights-nc-arboretum-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261129T230000Z
 DTEND:20261130T030000Z
 SUMMARY:Winter Lights
@@ -101,7 +101,7 @@ URL:https://weekendscout.app/e/asheville/winter-lights-nc-arboretum-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:asheville-holiday-ice-rink-asheville-yards-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261127T200000Z
 DTEND:20261127T220000Z
 SUMMARY:Holiday Ice Rink & Winter Wonderland
@@ -114,7 +114,7 @@ URL:https://weekendscout.app/e/asheville/holiday-ice-rink-asheville-yards-2026-1
 END:VEVENT
 BEGIN:VEVENT
 UID:asheville-holiday-ice-rink-asheville-yards-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261128T150000Z
 DTEND:20261128T170000Z
 SUMMARY:Holiday Ice Rink & Winter Wonderland
@@ -127,7 +127,7 @@ URL:https://weekendscout.app/e/asheville/holiday-ice-rink-asheville-yards-2026-1
 END:VEVENT
 BEGIN:VEVENT
 UID:asheville-holiday-ice-rink-asheville-yards-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261129T150000Z
 DTEND:20261129T170000Z
 SUMMARY:Holiday Ice Rink & Winter Wonderland
@@ -140,7 +140,7 @@ URL:https://weekendscout.app/e/asheville/holiday-ice-rink-asheville-yards-2026-1
 END:VEVENT
 BEGIN:VEVENT
 UID:asheville-grove-arcade-tree-lighting-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261128T200000Z
 DTEND:20261129T000000Z
 SUMMARY:Holiday Tree Lighting Block Party
@@ -153,7 +153,7 @@ URL:https://weekendscout.app/e/asheville/grove-arcade-tree-lighting-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:asheville-lazoom-holiday-comedy-tour-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -167,7 +167,7 @@ URL:https://weekendscout.app/e/asheville/lazoom-holiday-comedy-tour-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:asheville-lazoom-holiday-comedy-tour-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -181,7 +181,7 @@ URL:https://weekendscout.app/e/asheville/lazoom-holiday-comedy-tour-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:asheville-lazoom-holiday-comedy-tour-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -195,7 +195,7 @@ URL:https://weekendscout.app/e/asheville/lazoom-holiday-comedy-tour-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:asheville-river-arts-district-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -208,7 +208,7 @@ URL:https://weekendscout.app/e/asheville/river-arts-district-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:asheville-river-arts-district-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -221,7 +221,7 @@ URL:https://weekendscout.app/e/asheville/river-arts-district-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:asheville-river-arts-district-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT

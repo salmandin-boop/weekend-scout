@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:sarasota-sarasota-farmers-market-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261128T120000Z
 DTEND:20261128T180000Z
 SUMMARY:Sarasota Farmers Market
@@ -21,7 +21,7 @@ URL:https://weekendscout.app/e/sarasota/sarasota-farmers-market-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:sarasota-kimberly-akimbo-fst-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261128T010000Z
 DTEND:20261128T033000Z
 SUMMARY:Kimberly Akimbo
@@ -34,7 +34,7 @@ URL:https://weekendscout.app/e/sarasota/kimberly-akimbo-fst-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:sarasota-kimberly-akimbo-fst-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261128T200000Z
 DTEND:20261128T223000Z
 SUMMARY:Kimberly Akimbo
@@ -47,7 +47,7 @@ URL:https://weekendscout.app/e/sarasota/kimberly-akimbo-fst-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:sarasota-kimberly-akimbo-fst-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261129T010000Z
 DTEND:20261129T033000Z
 SUMMARY:Kimberly Akimbo
@@ -60,7 +60,7 @@ URL:https://weekendscout.app/e/sarasota/kimberly-akimbo-fst-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:sarasota-kimberly-akimbo-fst-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261129T190000Z
 DTEND:20261129T213000Z
 SUMMARY:Kimberly Akimbo
@@ -73,7 +73,7 @@ URL:https://weekendscout.app/e/sarasota/kimberly-akimbo-fst-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:sarasota-kimberly-akimbo-fst-2026-11-sun-1@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261130T000000Z
 DTEND:20261130T023000Z
 SUMMARY:Kimberly Akimbo
@@ -86,7 +86,7 @@ URL:https://weekendscout.app/e/sarasota/kimberly-akimbo-fst-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:sarasota-ahoy-hoy-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261128T003000Z
 DTEND:20261128T023000Z
 SUMMARY:Ahoy-Hoy
@@ -99,7 +99,7 @@ URL:https://weekendscout.app/e/sarasota/ahoy-hoy-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:sarasota-ahoy-hoy-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261129T003000Z
 DTEND:20261129T023000Z
 SUMMARY:Ahoy-Hoy
@@ -112,7 +112,7 @@ URL:https://weekendscout.app/e/sarasota/ahoy-hoy-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:sarasota-ahoy-hoy-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261129T190000Z
 DTEND:20261129T210000Z
 SUMMARY:Ahoy-Hoy
@@ -125,7 +125,7 @@ URL:https://weekendscout.app/e/sarasota/ahoy-hoy-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:sarasota-deck-the-halls-fst-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261128T150000Z
 DTEND:20261128T160000Z
 SUMMARY:Deck the Halls
@@ -138,7 +138,7 @@ URL:https://weekendscout.app/e/sarasota/deck-the-halls-fst-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:sarasota-deck-the-halls-fst-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261128T170000Z
 DTEND:20261128T180000Z
 SUMMARY:Deck the Halls
@@ -151,7 +151,7 @@ URL:https://weekendscout.app/e/sarasota/deck-the-halls-fst-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:sarasota-deck-the-halls-fst-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261129T150000Z
 DTEND:20261129T160000Z
 SUMMARY:Deck the Halls
@@ -164,7 +164,7 @@ URL:https://weekendscout.app/e/sarasota/deck-the-halls-fst-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:sarasota-wonderland-circus-home-for-the-holidays-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -179,7 +179,7 @@ URL:https://weekendscout.app/e/sarasota/wonderland-circus-home-for-the-holidays-
 END:VEVENT
 BEGIN:VEVENT
 UID:sarasota-wonderland-circus-home-for-the-holidays-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -194,7 +194,7 @@ URL:https://weekendscout.app/e/sarasota/wonderland-circus-home-for-the-holidays-
 END:VEVENT
 BEGIN:VEVENT
 UID:sarasota-wonderland-circus-home-for-the-holidays-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T084518Z
+DTSTAMP:20261126T114653Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT

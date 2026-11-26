@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:dallas-grinch-musical-dallas-fri-0@weekendscout.app
-DTSTAMP:20261126T084517Z
+DTSTAMP:20261126T114653Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/dallas/grinch-musical-dallas/
 END:VEVENT
 BEGIN:VEVENT
 UID:dallas-grinch-musical-dallas-sat-0@weekendscout.app
-DTSTAMP:20261126T084517Z
+DTSTAMP:20261126T114653Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/dallas/grinch-musical-dallas/
 END:VEVENT
 BEGIN:VEVENT
 UID:dallas-grinch-musical-dallas-sun-0@weekendscout.app
-DTSTAMP:20261126T084517Z
+DTSTAMP:20261126T114653Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -48,7 +48,7 @@ URL:https://weekendscout.app/e/dallas/grinch-musical-dallas/
 END:VEVENT
 BEGIN:VEVENT
 UID:dallas-arboretum-holiday-fri-0@weekendscout.app
-DTSTAMP:20261126T084517Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261127T150000Z
 DTEND:20261128T040000Z
 SUMMARY:Holiday at the Arboretum
@@ -60,7 +60,7 @@ URL:https://weekendscout.app/e/dallas/arboretum-holiday/
 END:VEVENT
 BEGIN:VEVENT
 UID:dallas-arboretum-holiday-sat-0@weekendscout.app
-DTSTAMP:20261126T084517Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261128T150000Z
 DTEND:20261129T040000Z
 SUMMARY:Holiday at the Arboretum
@@ -72,7 +72,7 @@ URL:https://weekendscout.app/e/dallas/arboretum-holiday/
 END:VEVENT
 BEGIN:VEVENT
 UID:dallas-arboretum-holiday-sun-0@weekendscout.app
-DTSTAMP:20261126T084517Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261129T150000Z
 DTEND:20261130T040000Z
 SUMMARY:Holiday at the Arboretum
@@ -84,7 +84,7 @@ URL:https://weekendscout.app/e/dallas/arboretum-holiday/
 END:VEVENT
 BEGIN:VEVENT
 UID:dallas-texas-christkindl-market-fri-0@weekendscout.app
-DTSTAMP:20261126T084517Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261128T003000Z
 DTEND:20261128T023000Z
 SUMMARY:Texas Christkindl Market
@@ -97,7 +97,7 @@ URL:https://weekendscout.app/e/dallas/texas-christkindl-market/
 END:VEVENT
 BEGIN:VEVENT
 UID:dallas-texas-christkindl-market-sat-0@weekendscout.app
-DTSTAMP:20261126T084517Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261128T170000Z
 DTEND:20261129T020000Z
 SUMMARY:Texas Christkindl Market
@@ -110,7 +110,7 @@ URL:https://weekendscout.app/e/dallas/texas-christkindl-market/
 END:VEVENT
 BEGIN:VEVENT
 UID:dallas-texas-christkindl-market-sun-0@weekendscout.app
-DTSTAMP:20261126T084517Z
+DTSTAMP:20261126T114653Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -124,7 +124,7 @@ URL:https://weekendscout.app/e/dallas/texas-christkindl-market/
 END:VEVENT
 BEGIN:VEVENT
 UID:dallas-dallas-stars-utah-sat-0@weekendscout.app
-DTSTAMP:20261126T084517Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261129T010000Z
 DTEND:20261129T030000Z
 SUMMARY:Dallas Stars vs. Utah Mammoth
@@ -135,7 +135,7 @@ URL:https://weekendscout.app/e/dallas/dallas-stars-utah/
 END:VEVENT
 BEGIN:VEVENT
 UID:dallas-texas-ballet-nutcracker-sat-0@weekendscout.app
-DTSTAMP:20261126T084517Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261128T200000Z
 DTEND:20261128T220000Z
 SUMMARY:Texas Ballet Theater: The Nutcracker
@@ -146,7 +146,7 @@ URL:https://weekendscout.app/e/dallas/texas-ballet-nutcracker/
 END:VEVENT
 BEGIN:VEVENT
 UID:dallas-texas-ballet-nutcracker-sat-1@weekendscout.app
-DTSTAMP:20261126T084517Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261129T020000Z
 DTEND:20261129T040000Z
 SUMMARY:Texas Ballet Theater: The Nutcracker
@@ -157,7 +157,7 @@ URL:https://weekendscout.app/e/dallas/texas-ballet-nutcracker/
 END:VEVENT
 BEGIN:VEVENT
 UID:dallas-texas-ballet-nutcracker-sun-0@weekendscout.app
-DTSTAMP:20261126T084517Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261129T200000Z
 DTEND:20261129T220000Z
 SUMMARY:Texas Ballet Theater: The Nutcracker
@@ -168,7 +168,7 @@ URL:https://weekendscout.app/e/dallas/texas-ballet-nutcracker/
 END:VEVENT
 BEGIN:VEVENT
 UID:dallas-dtc-christmas-carol-fri-0@weekendscout.app
-DTSTAMP:20261126T084517Z
+DTSTAMP:20261126T114653Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -181,7 +181,7 @@ URL:https://weekendscout.app/e/dallas/dtc-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:dallas-dtc-christmas-carol-sat-0@weekendscout.app
-DTSTAMP:20261126T084517Z
+DTSTAMP:20261126T114653Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -194,7 +194,7 @@ URL:https://weekendscout.app/e/dallas/dtc-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:dallas-dtc-christmas-carol-sun-0@weekendscout.app
-DTSTAMP:20261126T084517Z
+DTSTAMP:20261126T114653Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -207,7 +207,7 @@ URL:https://weekendscout.app/e/dallas/dtc-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:dallas-galleria-dallas-tree-lighting-fri-0@weekendscout.app
-DTSTAMP:20261126T084517Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261127T180000Z
 DTEND:20261127T200000Z
 SUMMARY:Galleria Dallas Grand Tree Lighting
@@ -220,7 +220,7 @@ URL:https://weekendscout.app/e/dallas/galleria-dallas-tree-lighting/
 END:VEVENT
 BEGIN:VEVENT
 UID:dallas-prairie-lights-fri-0@weekendscout.app
-DTSTAMP:20261126T084517Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261128T000000Z
 DTEND:20261128T040000Z
 SUMMARY:Prairie Lights
@@ -231,7 +231,7 @@ URL:https://weekendscout.app/e/dallas/prairie-lights/
 END:VEVENT
 BEGIN:VEVENT
 UID:dallas-prairie-lights-sat-0@weekendscout.app
-DTSTAMP:20261126T084517Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261129T000000Z
 DTEND:20261129T040000Z
 SUMMARY:Prairie Lights
@@ -242,7 +242,7 @@ URL:https://weekendscout.app/e/dallas/prairie-lights/
 END:VEVENT
 BEGIN:VEVENT
 UID:dallas-prairie-lights-sun-0@weekendscout.app
-DTSTAMP:20261126T084517Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261130T000000Z
 DTEND:20261130T040000Z
 SUMMARY:Prairie Lights
@@ -253,7 +253,7 @@ URL:https://weekendscout.app/e/dallas/prairie-lights/
 END:VEVENT
 BEGIN:VEVENT
 UID:dallas-perot-museum-fri-0@weekendscout.app
-DTSTAMP:20261126T084517Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261127T160000Z
 DTEND:20261127T230000Z
 SUMMARY:Perot Museum of Nature and Science
@@ -264,7 +264,7 @@ URL:https://weekendscout.app/e/dallas/perot-museum/
 END:VEVENT
 BEGIN:VEVENT
 UID:dallas-perot-museum-sat-0@weekendscout.app
-DTSTAMP:20261126T084517Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261128T160000Z
 DTEND:20261128T230000Z
 SUMMARY:Perot Museum of Nature and Science
@@ -275,7 +275,7 @@ URL:https://weekendscout.app/e/dallas/perot-museum/
 END:VEVENT
 BEGIN:VEVENT
 UID:dallas-perot-museum-sun-0@weekendscout.app
-DTSTAMP:20261126T084517Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261129T170000Z
 DTEND:20261129T230000Z
 SUMMARY:Perot Museum of Nature and Science
@@ -286,7 +286,7 @@ URL:https://weekendscout.app/e/dallas/perot-museum/
 END:VEVENT
 BEGIN:VEVENT
 UID:dallas-dallas-museum-of-art-fri-0@weekendscout.app
-DTSTAMP:20261126T084517Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261127T170000Z
 DTEND:20261127T230000Z
 SUMMARY:Dallas Museum of Art
@@ -298,7 +298,7 @@ URL:https://weekendscout.app/e/dallas/dallas-museum-of-art/
 END:VEVENT
 BEGIN:VEVENT
 UID:dallas-dallas-museum-of-art-sat-0@weekendscout.app
-DTSTAMP:20261126T084517Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261128T170000Z
 DTEND:20261128T230000Z
 SUMMARY:Dallas Museum of Art
@@ -310,7 +310,7 @@ URL:https://weekendscout.app/e/dallas/dallas-museum-of-art/
 END:VEVENT
 BEGIN:VEVENT
 UID:dallas-dallas-museum-of-art-sun-0@weekendscout.app
-DTSTAMP:20261126T084517Z
+DTSTAMP:20261126T114653Z
 DTSTART:20261129T170000Z
 DTEND:20261129T230000Z
 SUMMARY:Dallas Museum of Art
