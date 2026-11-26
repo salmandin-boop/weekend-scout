@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:durham-cirque-du-soleil-twas-the-night-before-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261127T180000Z
 DTEND:20261127T200000Z
 SUMMARY:Cirque du Soleil: ’Twas the Night Before…
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/durham/cirque-du-soleil-twas-the-night-before-202
 END:VEVENT
 BEGIN:VEVENT
 UID:durham-cirque-du-soleil-twas-the-night-before-2026-11-fri-1@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261127T210000Z
 DTEND:20261127T230000Z
 SUMMARY:Cirque du Soleil: ’Twas the Night Before…
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/durham/cirque-du-soleil-twas-the-night-before-202
 END:VEVENT
 BEGIN:VEVENT
 UID:durham-cirque-du-soleil-twas-the-night-before-2026-11-fri-2@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261128T003000Z
 DTEND:20261128T023000Z
 SUMMARY:Cirque du Soleil: ’Twas the Night Before…
@@ -48,7 +48,7 @@ URL:https://weekendscout.app/e/durham/cirque-du-soleil-twas-the-night-before-202
 END:VEVENT
 BEGIN:VEVENT
 UID:durham-cirque-du-soleil-twas-the-night-before-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261128T180000Z
 DTEND:20261128T200000Z
 SUMMARY:Cirque du Soleil: ’Twas the Night Before…
@@ -61,7 +61,7 @@ URL:https://weekendscout.app/e/durham/cirque-du-soleil-twas-the-night-before-202
 END:VEVENT
 BEGIN:VEVENT
 UID:durham-cirque-du-soleil-twas-the-night-before-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261128T210000Z
 DTEND:20261128T230000Z
 SUMMARY:Cirque du Soleil: ’Twas the Night Before…
@@ -74,7 +74,7 @@ URL:https://weekendscout.app/e/durham/cirque-du-soleil-twas-the-night-before-202
 END:VEVENT
 BEGIN:VEVENT
 UID:durham-cirque-du-soleil-twas-the-night-before-2026-11-sat-2@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261129T003000Z
 DTEND:20261129T023000Z
 SUMMARY:Cirque du Soleil: ’Twas the Night Before…
@@ -87,7 +87,7 @@ URL:https://weekendscout.app/e/durham/cirque-du-soleil-twas-the-night-before-202
 END:VEVENT
 BEGIN:VEVENT
 UID:durham-cirque-du-soleil-twas-the-night-before-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261129T170000Z
 DTEND:20261129T190000Z
 SUMMARY:Cirque du Soleil: ’Twas the Night Before…
@@ -100,7 +100,7 @@ URL:https://weekendscout.app/e/durham/cirque-du-soleil-twas-the-night-before-202
 END:VEVENT
 BEGIN:VEVENT
 UID:durham-cirque-du-soleil-twas-the-night-before-2026-11-sun-1@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261129T200000Z
 DTEND:20261129T220000Z
 SUMMARY:Cirque du Soleil: ’Twas the Night Before…
@@ -113,7 +113,7 @@ URL:https://weekendscout.app/e/durham/cirque-du-soleil-twas-the-night-before-202
 END:VEVENT
 BEGIN:VEVENT
 UID:durham-festibull-of-lights-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261127T223000Z
 DTEND:20261128T020000Z
 SUMMARY:FestiBull of Lights
@@ -125,7 +125,7 @@ URL:https://weekendscout.app/e/durham/festibull-of-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:durham-festibull-of-lights-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261128T223000Z
 DTEND:20261129T020000Z
 SUMMARY:FestiBull of Lights
@@ -137,7 +137,7 @@ URL:https://weekendscout.app/e/durham/festibull-of-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:durham-festibull-of-lights-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261129T223000Z
 DTEND:20261130T020000Z
 SUMMARY:FestiBull of Lights
@@ -149,7 +149,7 @@ URL:https://weekendscout.app/e/durham/festibull-of-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:durham-hurricanes-vs-senators-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261129T000000Z
 DTEND:20261129T020000Z
 SUMMARY:Carolina Hurricanes vs. Ottawa Senators
@@ -161,7 +161,7 @@ URL:https://weekendscout.app/e/durham/hurricanes-vs-senators-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:durham-sarah-p-duke-gardens-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261127T130000Z
 DTEND:20261127T150000Z
 SUMMARY:Sarah P. Duke Gardens
@@ -174,7 +174,7 @@ URL:https://weekendscout.app/e/durham/sarah-p-duke-gardens-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:durham-sarah-p-duke-gardens-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261128T130000Z
 DTEND:20261128T150000Z
 SUMMARY:Sarah P. Duke Gardens
@@ -187,7 +187,7 @@ URL:https://weekendscout.app/e/durham/sarah-p-duke-gardens-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:durham-sarah-p-duke-gardens-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261129T130000Z
 DTEND:20261129T150000Z
 SUMMARY:Sarah P. Duke Gardens
@@ -200,7 +200,7 @@ URL:https://weekendscout.app/e/durham/sarah-p-duke-gardens-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:durham-duke-chapel-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261127T150000Z
 DTEND:20261128T010000Z
 SUMMARY:Duke Chapel
@@ -213,7 +213,7 @@ URL:https://weekendscout.app/e/durham/duke-chapel-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:durham-duke-chapel-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261128T150000Z
 DTEND:20261129T010000Z
 SUMMARY:Duke Chapel
@@ -226,7 +226,7 @@ URL:https://weekendscout.app/e/durham/duke-chapel-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:durham-duke-chapel-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261129T150000Z
 DTEND:20261130T010000Z
 SUMMARY:Duke Chapel
@@ -239,7 +239,7 @@ URL:https://weekendscout.app/e/durham/duke-chapel-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:durham-museum-of-life-and-science-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261127T150000Z
 DTEND:20261127T220000Z
 SUMMARY:Museum of Life and Science
@@ -252,7 +252,7 @@ URL:https://weekendscout.app/e/durham/museum-of-life-and-science-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:durham-museum-of-life-and-science-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261128T150000Z
 DTEND:20261128T220000Z
 SUMMARY:Museum of Life and Science
@@ -265,7 +265,7 @@ URL:https://weekendscout.app/e/durham/museum-of-life-and-science-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:durham-museum-of-life-and-science-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261129T150000Z
 DTEND:20261129T220000Z
 SUMMARY:Museum of Life and Science
@@ -278,7 +278,7 @@ URL:https://weekendscout.app/e/durham/museum-of-life-and-science-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:durham-durham-craft-market-shop-small-saturday-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261128T140000Z
 DTEND:20261128T200000Z
 SUMMARY:Durham Craft Market Shop Small Saturday
@@ -291,7 +291,7 @@ URL:https://weekendscout.app/e/durham/durham-craft-market-shop-small-saturday-20
 END:VEVENT
 BEGIN:VEVENT
 UID:durham-motorco-holiday-record-fair-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261129T170000Z
 DTEND:20261129T220000Z
 SUMMARY:Holiday Record Fair

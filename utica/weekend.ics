@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:utica-utica-comets-vs-laval-rocket-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T194559Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261128T000000Z
 DTEND:20261128T020000Z
 SUMMARY:Utica Comets vs. Laval Rocket
@@ -21,7 +21,7 @@ URL:https://weekendscout.app/e/utica/utica-comets-vs-laval-rocket-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:utica-utica-zoo-bright-nights-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T194559Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261127T220000Z
 DTEND:20261128T010000Z
 SUMMARY:Bright Nights at the Utica Zoo
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/utica/utica-zoo-bright-nights-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:utica-utica-zoo-bright-nights-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261126T194559Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261128T220000Z
 DTEND:20261129T010000Z
 SUMMARY:Bright Nights at the Utica Zoo
@@ -49,7 +49,7 @@ URL:https://weekendscout.app/e/utica/utica-zoo-bright-nights-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:utica-utica-zoo-daytime-2026-11-28-fri-0@weekendscout.app
-DTSTAMP:20261126T194559Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261127T150000Z
 DTEND:20261127T213000Z
 SUMMARY:Utica Zoo
@@ -61,7 +61,7 @@ URL:https://weekendscout.app/e/utica/utica-zoo-daytime-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:utica-utica-zoo-daytime-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261126T194559Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261128T150000Z
 DTEND:20261128T213000Z
 SUMMARY:Utica Zoo
@@ -73,7 +73,7 @@ URL:https://weekendscout.app/e/utica/utica-zoo-daytime-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:utica-utica-zoo-daytime-2026-11-28-sun-0@weekendscout.app
-DTSTAMP:20261126T194559Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261129T150000Z
 DTEND:20261129T213000Z
 SUMMARY:Utica Zoo
@@ -85,7 +85,7 @@ URL:https://weekendscout.app/e/utica/utica-zoo-daytime-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:utica-christmas-and-crafts-turning-stone-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T194559Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261127T220000Z
 DTEND:20261128T020000Z
 SUMMARY:Christmas & Crafts: The Premier Arts & Crafts Show
@@ -99,7 +99,7 @@ URL:https://weekendscout.app/e/utica/christmas-and-crafts-turning-stone-2026-11-
 END:VEVENT
 BEGIN:VEVENT
 UID:utica-christmas-and-crafts-turning-stone-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261126T194559Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261128T150000Z
 DTEND:20261128T220000Z
 SUMMARY:Christmas & Crafts: The Premier Arts & Crafts Show
@@ -113,7 +113,7 @@ URL:https://weekendscout.app/e/utica/christmas-and-crafts-turning-stone-2026-11-
 END:VEVENT
 BEGIN:VEVENT
 UID:utica-christmas-and-crafts-turning-stone-2026-11-27-sun-0@weekendscout.app
-DTSTAMP:20261126T194559Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261129T150000Z
 DTEND:20261129T210000Z
 SUMMARY:Christmas & Crafts: The Premier Arts & Crafts Show
@@ -127,7 +127,7 @@ URL:https://weekendscout.app/e/utica/christmas-and-crafts-turning-stone-2026-11-
 END:VEVENT
 BEGIN:VEVENT
 UID:utica-clinton-shoppers-stroll-holiday-parade-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T194559Z
+DTSTAMP:20261126T202503Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -142,7 +142,7 @@ URL:https://weekendscout.app/e/utica/clinton-shoppers-stroll-holiday-parade-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:utica-clinton-shoppers-stroll-holiday-parade-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261126T194559Z
+DTSTAMP:20261126T202503Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -157,7 +157,7 @@ URL:https://weekendscout.app/e/utica/clinton-shoppers-stroll-holiday-parade-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:utica-munson-victorian-groove-tide-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T194559Z
+DTSTAMP:20261126T202503Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -170,7 +170,7 @@ URL:https://weekendscout.app/e/utica/munson-victorian-groove-tide-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:utica-munson-victorian-groove-tide-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T194559Z
+DTSTAMP:20261126T202503Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -183,7 +183,7 @@ URL:https://weekendscout.app/e/utica/munson-victorian-groove-tide-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:utica-munson-victorian-groove-tide-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T194559Z
+DTSTAMP:20261126T202503Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -196,7 +196,7 @@ URL:https://weekendscout.app/e/utica/munson-victorian-groove-tide-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:utica-munson-museum-of-art-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T194559Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261127T150000Z
 DTEND:20261127T220000Z
 SUMMARY:Munson Museum of Art
@@ -208,7 +208,7 @@ URL:https://weekendscout.app/e/utica/munson-museum-of-art-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:utica-munson-museum-of-art-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T194559Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261128T150000Z
 DTEND:20261128T220000Z
 SUMMARY:Munson Museum of Art
@@ -220,7 +220,7 @@ URL:https://weekendscout.app/e/utica/munson-museum-of-art-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:utica-munson-museum-of-art-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T194559Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261129T170000Z
 DTEND:20261129T220000Z
 SUMMARY:Munson Museum of Art

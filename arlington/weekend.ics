@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:arlington-texas-christkindl-market-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T194559Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261127T170000Z
 DTEND:20261128T020000Z
 SUMMARY:Texas Christkindl Market
@@ -23,7 +23,7 @@ URL:https://weekendscout.app/e/arlington/texas-christkindl-market-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:arlington-texas-christkindl-market-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261126T194559Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261128T170000Z
 DTEND:20261129T020000Z
 SUMMARY:Texas Christkindl Market
@@ -37,7 +37,7 @@ URL:https://weekendscout.app/e/arlington/texas-christkindl-market-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:arlington-texas-christkindl-market-2026-11-27-sun-0@weekendscout.app
-DTSTAMP:20261126T194559Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261129T170000Z
 DTEND:20261130T020000Z
 SUMMARY:Texas Christkindl Market
@@ -51,7 +51,7 @@ URL:https://weekendscout.app/e/arlington/texas-christkindl-market-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:arlington-miracle-at-live-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T194559Z
+DTSTAMP:20261126T202503Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -65,7 +65,7 @@ URL:https://weekendscout.app/e/arlington/miracle-at-live-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:arlington-miracle-at-live-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261126T194559Z
+DTSTAMP:20261126T202503Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -79,7 +79,7 @@ URL:https://weekendscout.app/e/arlington/miracle-at-live-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:arlington-miracle-at-live-2026-11-27-sun-0@weekendscout.app
-DTSTAMP:20261126T194559Z
+DTSTAMP:20261126T202503Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -93,7 +93,7 @@ URL:https://weekendscout.app/e/arlington/miracle-at-live-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:arlington-leap-of-faith-the-nutcracker-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261126T194559Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261128T193000Z
 DTEND:20261128T213000Z
 SUMMARY:Leap of Faith: The Nutcracker

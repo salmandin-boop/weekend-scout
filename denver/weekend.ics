@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:denver-home-alone-in-concert-colorado-symphony-fri-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261128T023000Z
 DTEND:20261128T043000Z
 SUMMARY:Home Alone in Concert
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/denver/home-alone-in-concert-colorado-symphony/
 END:VEVENT
 BEGIN:VEVENT
 UID:denver-home-alone-in-concert-colorado-symphony-sat-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261129T023000Z
 DTEND:20261129T043000Z
 SUMMARY:Home Alone in Concert
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/denver/home-alone-in-concert-colorado-symphony/
 END:VEVENT
 BEGIN:VEVENT
 UID:denver-home-alone-in-concert-colorado-symphony-sun-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261129T213000Z
 DTEND:20261129T233000Z
 SUMMARY:Home Alone in Concert
@@ -48,7 +48,7 @@ URL:https://weekendscout.app/e/denver/home-alone-in-concert-colorado-symphony/
 END:VEVENT
 BEGIN:VEVENT
 UID:denver-colorado-ballet-nutcracker-sat-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261128T200000Z
 DTEND:20261128T220000Z
 SUMMARY:Colorado Ballet: The Nutcracker
@@ -61,7 +61,7 @@ URL:https://weekendscout.app/e/denver/colorado-ballet-nutcracker/
 END:VEVENT
 BEGIN:VEVENT
 UID:denver-colorado-ballet-nutcracker-sat-1@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261129T013000Z
 DTEND:20261129T033000Z
 SUMMARY:Colorado Ballet: The Nutcracker
@@ -74,7 +74,7 @@ URL:https://weekendscout.app/e/denver/colorado-ballet-nutcracker/
 END:VEVENT
 BEGIN:VEVENT
 UID:denver-colorado-ballet-nutcracker-sun-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261129T200000Z
 DTEND:20261129T220000Z
 SUMMARY:Colorado Ballet: The Nutcracker
@@ -87,7 +87,7 @@ URL:https://weekendscout.app/e/denver/colorado-ballet-nutcracker/
 END:VEVENT
 BEGIN:VEVENT
 UID:denver-colorado-ballet-nutcracker-sun-1@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261130T013000Z
 DTEND:20261130T033000Z
 SUMMARY:Colorado Ballet: The Nutcracker
@@ -100,7 +100,7 @@ URL:https://weekendscout.app/e/denver/colorado-ballet-nutcracker/
 END:VEVENT
 BEGIN:VEVENT
 UID:denver-dcpa-a-christmas-carol-fri-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -114,7 +114,7 @@ URL:https://weekendscout.app/e/denver/dcpa-a-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:denver-dcpa-a-christmas-carol-sat-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -128,7 +128,7 @@ URL:https://weekendscout.app/e/denver/dcpa-a-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:denver-dcpa-a-christmas-carol-sun-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -142,7 +142,7 @@ URL:https://weekendscout.app/e/denver/dcpa-a-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:denver-avalanche-vs-sharks-sat-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261129T020000Z
 DTEND:20261129T040000Z
 SUMMARY:Colorado Avalanche vs. San Jose Sharks
@@ -154,7 +154,7 @@ URL:https://weekendscout.app/e/denver/avalanche-vs-sharks/
 END:VEVENT
 BEGIN:VEVENT
 UID:denver-denver-zoo-lights-fri-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261127T233000Z
 DTEND:20261128T050000Z
 SUMMARY:Zoo Lights
@@ -166,7 +166,7 @@ URL:https://weekendscout.app/e/denver/denver-zoo-lights/
 END:VEVENT
 BEGIN:VEVENT
 UID:denver-denver-zoo-lights-sat-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261128T233000Z
 DTEND:20261129T050000Z
 SUMMARY:Zoo Lights
@@ -178,7 +178,7 @@ URL:https://weekendscout.app/e/denver/denver-zoo-lights/
 END:VEVENT
 BEGIN:VEVENT
 UID:denver-denver-zoo-lights-sun-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261129T233000Z
 DTEND:20261130T040000Z
 SUMMARY:Zoo Lights
@@ -190,7 +190,7 @@ URL:https://weekendscout.app/e/denver/denver-zoo-lights/
 END:VEVENT
 BEGIN:VEVENT
 UID:denver-blossoms-of-light-fri-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261127T233000Z
 DTEND:20261128T040000Z
 SUMMARY:Blossoms of Light
@@ -202,7 +202,7 @@ URL:https://weekendscout.app/e/denver/blossoms-of-light/
 END:VEVENT
 BEGIN:VEVENT
 UID:denver-blossoms-of-light-sat-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261128T233000Z
 DTEND:20261129T040000Z
 SUMMARY:Blossoms of Light
@@ -214,7 +214,7 @@ URL:https://weekendscout.app/e/denver/blossoms-of-light/
 END:VEVENT
 BEGIN:VEVENT
 UID:denver-blossoms-of-light-sun-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261129T233000Z
 DTEND:20261130T040000Z
 SUMMARY:Blossoms of Light
@@ -226,7 +226,7 @@ URL:https://weekendscout.app/e/denver/blossoms-of-light/
 END:VEVENT
 BEGIN:VEVENT
 UID:denver-denver-christkindlmarket-fri-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261127T180000Z
 DTEND:20261128T040000Z
 SUMMARY:Denver Christkindlmarket
@@ -239,7 +239,7 @@ URL:https://weekendscout.app/e/denver/denver-christkindlmarket/
 END:VEVENT
 BEGIN:VEVENT
 UID:denver-denver-christkindlmarket-sat-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261128T180000Z
 DTEND:20261129T040000Z
 SUMMARY:Denver Christkindlmarket
@@ -252,7 +252,7 @@ URL:https://weekendscout.app/e/denver/denver-christkindlmarket/
 END:VEVENT
 BEGIN:VEVENT
 UID:denver-denver-christkindlmarket-sun-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261129T180000Z
 DTEND:20261130T040000Z
 SUMMARY:Denver Christkindlmarket
@@ -265,7 +265,7 @@ URL:https://weekendscout.app/e/denver/denver-christkindlmarket/
 END:VEVENT
 BEGIN:VEVENT
 UID:denver-mile-high-tree-drone-show-fri-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261128T020000Z
 DTEND:20261128T040000Z
 SUMMARY:Mile High Tree & Drone Show
@@ -278,7 +278,7 @@ URL:https://weekendscout.app/e/denver/mile-high-tree-drone-show/
 END:VEVENT
 BEGIN:VEVENT
 UID:denver-mile-high-tree-drone-show-sat-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261129T020000Z
 DTEND:20261129T040000Z
 SUMMARY:Mile High Tree & Drone Show
@@ -291,7 +291,7 @@ URL:https://weekendscout.app/e/denver/mile-high-tree-drone-show/
 END:VEVENT
 BEGIN:VEVENT
 UID:denver-mile-high-tree-drone-show-sun-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261130T020000Z
 DTEND:20261130T040000Z
 SUMMARY:Mile High Tree & Drone Show
@@ -304,7 +304,7 @@ URL:https://weekendscout.app/e/denver/mile-high-tree-drone-show/
 END:VEVENT
 BEGIN:VEVENT
 UID:denver-union-station-grand-illumination-fri-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261127T230000Z
 DTEND:20261128T030000Z
 SUMMARY:Grand Illumination at Union Station
@@ -316,7 +316,7 @@ URL:https://weekendscout.app/e/denver/union-station-grand-illumination/
 END:VEVENT
 BEGIN:VEVENT
 UID:denver-sam-tallent-comedy-works-fri-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261128T020000Z
 DTEND:20261128T040000Z
 SUMMARY:Sam Tallent
@@ -328,7 +328,7 @@ URL:https://weekendscout.app/e/denver/sam-tallent-comedy-works/
 END:VEVENT
 BEGIN:VEVENT
 UID:denver-sam-tallent-comedy-works-fri-1@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261128T041500Z
 DTEND:20261128T061500Z
 SUMMARY:Sam Tallent
@@ -340,7 +340,7 @@ URL:https://weekendscout.app/e/denver/sam-tallent-comedy-works/
 END:VEVENT
 BEGIN:VEVENT
 UID:denver-sam-tallent-comedy-works-sat-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261129T041500Z
 DTEND:20261129T061500Z
 SUMMARY:Sam Tallent

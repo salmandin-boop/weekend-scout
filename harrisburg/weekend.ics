@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:harrisburg-pennsylvania-state-capitol-tour-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261127T140000Z
 DTEND:20261127T160000Z
 SUMMARY:Pennsylvania State Capitol tour
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/harrisburg/pennsylvania-state-capitol-tour-2026-1
 END:VEVENT
 BEGIN:VEVENT
 UID:harrisburg-pennsylvania-state-capitol-tour-2026-11-fri-1@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261127T160000Z
 DTEND:20261127T180000Z
 SUMMARY:Pennsylvania State Capitol tour
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/harrisburg/pennsylvania-state-capitol-tour-2026-1
 END:VEVENT
 BEGIN:VEVENT
 UID:harrisburg-pennsylvania-state-capitol-tour-2026-11-fri-2@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261127T180000Z
 DTEND:20261127T200000Z
 SUMMARY:Pennsylvania State Capitol tour
@@ -48,7 +48,7 @@ URL:https://weekendscout.app/e/harrisburg/pennsylvania-state-capitol-tour-2026-1
 END:VEVENT
 BEGIN:VEVENT
 UID:harrisburg-pennsylvania-state-capitol-tour-2026-11-fri-3@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261127T200000Z
 DTEND:20261127T220000Z
 SUMMARY:Pennsylvania State Capitol tour
@@ -61,7 +61,7 @@ URL:https://weekendscout.app/e/harrisburg/pennsylvania-state-capitol-tour-2026-1
 END:VEVENT
 BEGIN:VEVENT
 UID:harrisburg-pennsylvania-state-capitol-tour-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261128T140000Z
 DTEND:20261128T160000Z
 SUMMARY:Pennsylvania State Capitol tour
@@ -74,7 +74,7 @@ URL:https://weekendscout.app/e/harrisburg/pennsylvania-state-capitol-tour-2026-1
 END:VEVENT
 BEGIN:VEVENT
 UID:harrisburg-pennsylvania-state-capitol-tour-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261128T160000Z
 DTEND:20261128T180000Z
 SUMMARY:Pennsylvania State Capitol tour
@@ -87,7 +87,7 @@ URL:https://weekendscout.app/e/harrisburg/pennsylvania-state-capitol-tour-2026-1
 END:VEVENT
 BEGIN:VEVENT
 UID:harrisburg-pennsylvania-state-capitol-tour-2026-11-sat-2@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261128T180000Z
 DTEND:20261128T200000Z
 SUMMARY:Pennsylvania State Capitol tour
@@ -100,7 +100,7 @@ URL:https://weekendscout.app/e/harrisburg/pennsylvania-state-capitol-tour-2026-1
 END:VEVENT
 BEGIN:VEVENT
 UID:harrisburg-pennsylvania-state-capitol-tour-2026-11-sat-3@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261128T200000Z
 DTEND:20261128T220000Z
 SUMMARY:Pennsylvania State Capitol tour
@@ -113,7 +113,7 @@ URL:https://weekendscout.app/e/harrisburg/pennsylvania-state-capitol-tour-2026-1
 END:VEVENT
 BEGIN:VEVENT
 UID:harrisburg-pennsylvania-state-capitol-tour-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261129T140000Z
 DTEND:20261129T160000Z
 SUMMARY:Pennsylvania State Capitol tour
@@ -126,7 +126,7 @@ URL:https://weekendscout.app/e/harrisburg/pennsylvania-state-capitol-tour-2026-1
 END:VEVENT
 BEGIN:VEVENT
 UID:harrisburg-pennsylvania-state-capitol-tour-2026-11-sun-1@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261129T160000Z
 DTEND:20261129T180000Z
 SUMMARY:Pennsylvania State Capitol tour
@@ -139,7 +139,7 @@ URL:https://weekendscout.app/e/harrisburg/pennsylvania-state-capitol-tour-2026-1
 END:VEVENT
 BEGIN:VEVENT
 UID:harrisburg-pennsylvania-state-capitol-tour-2026-11-sun-2@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261129T180000Z
 DTEND:20261129T200000Z
 SUMMARY:Pennsylvania State Capitol tour
@@ -152,7 +152,7 @@ URL:https://weekendscout.app/e/harrisburg/pennsylvania-state-capitol-tour-2026-1
 END:VEVENT
 BEGIN:VEVENT
 UID:harrisburg-pennsylvania-state-capitol-tour-2026-11-sun-3@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261129T200000Z
 DTEND:20261129T220000Z
 SUMMARY:Pennsylvania State Capitol tour
@@ -165,7 +165,7 @@ URL:https://weekendscout.app/e/harrisburg/pennsylvania-state-capitol-tour-2026-1
 END:VEVENT
 BEGIN:VEVENT
 UID:harrisburg-christmas-at-fort-hunter-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261128T173000Z
 DTEND:20261128T213000Z
 SUMMARY:Christmas at Fort Hunter: Toy Trains & Festival of Trees
@@ -180,7 +180,7 @@ URL:https://weekendscout.app/e/harrisburg/christmas-at-fort-hunter-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:harrisburg-christmas-at-fort-hunter-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261129T173000Z
 DTEND:20261129T213000Z
 SUMMARY:Christmas at Fort Hunter: Toy Trains & Festival of Trees
@@ -195,7 +195,7 @@ URL:https://weekendscout.app/e/harrisburg/christmas-at-fort-hunter-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:harrisburg-hersheypark-christmas-candylane-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261127T221500Z
 DTEND:20261128T001500Z
 SUMMARY:Hersheypark Christmas Candylane: Fire & Ice opening night
@@ -209,7 +209,7 @@ URL:https://weekendscout.app/e/harrisburg/hersheypark-christmas-candylane-2026-1
 END:VEVENT
 BEGIN:VEVENT
 UID:harrisburg-gimme-gimme-disco-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART:20261128T010000Z
 DTEND:20261128T030000Z
 SUMMARY:Gimme Gimme Disco
@@ -221,7 +221,7 @@ URL:https://weekendscout.app/e/harrisburg/gimme-gimme-disco-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:harrisburg-soma-christmas-market-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T194558Z
+DTSTAMP:20261126T202503Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT

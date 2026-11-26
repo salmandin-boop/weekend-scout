@@ -317,7 +317,7 @@ def main():
                 ld_extras(it, e, img, url, (d.get('updated') or date.today().isoformat()) + 'T00:00:00')
                 items.append({'@type': 'ListItem', 'position': i + 1, 'item': it})
             ld = json.dumps({'@context': 'https://schema.org', '@type': 'ItemList', 'name': f"{h1}", 'itemListElement': items}, ensure_ascii=False).replace('</', '<\\/')
-            others = ''.join(f'<a href="/{o["id"]}/{slug + "/" if slug else ""}">{esc(o["name"])}</a>' for o in cities if o['id'] != c['id'])
+            others = ''.join(f'<a href="/{o["id"]}/{slug + "/" if slug else ""}">{esc(o["name"])}{", " + esc(o["state"]) if o.get("state") else ""}</a>' for o in sorted(cities, key=lambda o: (o['name'], o.get('state', ''))) if o['id'] != c['id'])
             tabs = ''.join(f'<a href="/{c["id"]}/{v[0] + "/" if v[0] else ""}"{" aria-current=\"page\"" if v[0] == slug else ""}>{esc(VLABEL[v[0]])}</a>' for v in made)
             app = f"/?city={c['id']}" + {'free': '&cat=free', 'date-night': '&good=date', 'with-kids': '&good=family'}.get(slug, '')
             page = head(title, desc, url, img, f'<script type="application/ld+json">{ld}</script>') + f"""
