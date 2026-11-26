@@ -8,89 +8,116 @@ X-WR-CALDESC:Hand-checked weekend picks in Topeka, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:topeka-kansas-state-capitol-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T063011Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Kansas State Capitol
-LOCATION:Kansas State Capitol\, 300 SW 10th Ave\, Topeka\, KS 66612
-DESCRIPTION:The capitol with John Steuart Curry’s John Brown mural\; fre
- e tours. Free. Details: https://weekendscout.app/e/topeka/kansas-state-cap
- itol-2026-11/
-URL:https://weekendscout.app/e/topeka/kansas-state-capitol-2026-11/
+UID:topeka-topeka-zoo-lights-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T070716Z
+DTSTART:20261127T230000Z
+DTEND:20261128T040000Z
+SUMMARY:Zoo Lights
+LOCATION:Topeka Zoo\, 635 SW Gage Blvd\, Topeka\, KS 66606
+DESCRIPTION:The Topeka Zoo glows with holiday lights after dark. Last tick
+ ets are sold an hour before closing\; kids under 2 get in free. $9–$14. 
+ Details: https://weekendscout.app/e/topeka/topeka-zoo-lights-2026-11/
+URL:https://weekendscout.app/e/topeka/topeka-zoo-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
-UID:topeka-gage-park-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T063011Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Gage Park
-LOCATION:Gage Park\, 635 SW Gage Blvd\, Topeka\, KS 66606
-DESCRIPTION:A big park with a rose garden\, mini-train and the Topeka Zoo.
-  Free. Details: https://weekendscout.app/e/topeka/gage-park-2026-11/
-URL:https://weekendscout.app/e/topeka/gage-park-2026-11/
+UID:topeka-topeka-zoo-lights-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T070716Z
+DTSTART:20261128T230000Z
+DTEND:20261129T040000Z
+SUMMARY:Zoo Lights
+LOCATION:Topeka Zoo\, 635 SW Gage Blvd\, Topeka\, KS 66606
+DESCRIPTION:The Topeka Zoo glows with holiday lights after dark. Last tick
+ ets are sold an hour before closing\; kids under 2 get in free. $9–$14. 
+ Details: https://weekendscout.app/e/topeka/topeka-zoo-lights-2026-11/
+URL:https://weekendscout.app/e/topeka/topeka-zoo-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
-UID:topeka-gage-park-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T063011Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Gage Park
-LOCATION:Gage Park\, 635 SW Gage Blvd\, Topeka\, KS 66606
-DESCRIPTION:A big park with a rose garden\, mini-train and the Topeka Zoo.
-  Free. Details: https://weekendscout.app/e/topeka/gage-park-2026-11/
-URL:https://weekendscout.app/e/topeka/gage-park-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:topeka-gage-park-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T063011Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Gage Park
-LOCATION:Gage Park\, 635 SW Gage Blvd\, Topeka\, KS 66606
-DESCRIPTION:A big park with a rose garden\, mini-train and the Topeka Zoo.
-  Free. Details: https://weekendscout.app/e/topeka/gage-park-2026-11/
-URL:https://weekendscout.app/e/topeka/gage-park-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:topeka-topeka-scarecrows-vs-monroe-moccasins-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T063011Z
-DTSTART:20261128T010500Z
-DTEND:20261128T030500Z
-SUMMARY:Topeka Scarecrows vs. Monroe Moccasins
-LOCATION:Landon Arena at Stormont Vail Events Center\, 1 Expocentre Dr\, T
- opeka\, KS 66612
-DESCRIPTION:FPHL hockey on Friday and Saturday. Tickets. Details: https://
- weekendscout.app/e/topeka/topeka-scarecrows-vs-monroe-moccasins-2026-11/
-URL:https://weekendscout.app/e/topeka/topeka-scarecrows-vs-monroe-moccasins-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:topeka-topeka-scarecrows-vs-monroe-moccasins-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T063011Z
-DTSTART:20261129T010500Z
-DTEND:20261129T030500Z
-SUMMARY:Topeka Scarecrows vs. Monroe Moccasins
-LOCATION:Landon Arena at Stormont Vail Events Center\, 1 Expocentre Dr\, T
- opeka\, KS 66612
-DESCRIPTION:FPHL hockey on Friday and Saturday. Tickets. Details: https://
- weekendscout.app/e/topeka/topeka-scarecrows-vs-monroe-moccasins-2026-11/
-URL:https://weekendscout.app/e/topeka/topeka-scarecrows-vs-monroe-moccasins-2026-11/
+UID:topeka-topeka-zoo-lights-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T070716Z
+DTSTART:20261129T230000Z
+DTEND:20261130T030000Z
+SUMMARY:Zoo Lights
+LOCATION:Topeka Zoo\, 635 SW Gage Blvd\, Topeka\, KS 66606
+DESCRIPTION:The Topeka Zoo glows with holiday lights after dark. Last tick
+ ets are sold an hour before closing\; kids under 2 get in free. $9–$14. 
+ Details: https://weekendscout.app/e/topeka/topeka-zoo-lights-2026-11/
+URL:https://weekendscout.app/e/topeka/topeka-zoo-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:topeka-a-taste-of-ireland-a-celtic-christmas-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART:20261128T013000Z
 DTEND:20261128T033000Z
 SUMMARY:A Taste of Ireland: A Celtic Christmas
 LOCATION:Topeka Performing Arts Center\, 214 SE 8th Ave\, Topeka\, KS 6660
  3
-DESCRIPTION:Irish dance and music for the holidays. Tickets. Details: http
- s://weekendscout.app/e/topeka/a-taste-of-ireland-a-celtic-christmas-2026-1
- 1/
+DESCRIPTION:Irish dancers and live musicians put on a holiday show of Celt
+ ic music and dance. From $35. Details: https://weekendscout.app/e/topeka/a
+ -taste-of-ireland-a-celtic-christmas-2026-11/
 URL:https://weekendscout.app/e/topeka/a-taste-of-ireland-a-celtic-christmas-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:topeka-topeka-scarecrows-vs-monroe-moccasins-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T070716Z
+DTSTART:20261128T010500Z
+DTEND:20261128T030500Z
+SUMMARY:Topeka Scarecrows vs. Monroe Moccasins
+LOCATION:Landon Arena at Stormont Vail Events Center\, 1 Expocentre Dr\, T
+ opeka\, KS 66612
+DESCRIPTION:Topeka's FPHL pro hockey team hosts Monroe in a Friday–Satur
+ day series. Tickets. Details: https://weekendscout.app/e/topeka/topeka-sca
+ recrows-vs-monroe-moccasins-2026-11/
+URL:https://weekendscout.app/e/topeka/topeka-scarecrows-vs-monroe-moccasins-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:topeka-topeka-scarecrows-vs-monroe-moccasins-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T070716Z
+DTSTART:20261129T010500Z
+DTEND:20261129T030500Z
+SUMMARY:Topeka Scarecrows vs. Monroe Moccasins
+LOCATION:Landon Arena at Stormont Vail Events Center\, 1 Expocentre Dr\, T
+ opeka\, KS 66612
+DESCRIPTION:Topeka's FPHL pro hockey team hosts Monroe in a Friday–Satur
+ day series. Tickets. Details: https://weekendscout.app/e/topeka/topeka-sca
+ recrows-vs-monroe-moccasins-2026-11/
+URL:https://weekendscout.app/e/topeka/topeka-scarecrows-vs-monroe-moccasins-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:topeka-washburn-vs-oklahoma-baptist-mbb-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T070716Z
+DTSTART:20261127T200000Z
+DTEND:20261127T220000Z
+SUMMARY:Washburn Ichabods vs. Oklahoma Baptist (Men's Basketball)
+LOCATION:Lee Arena\, 1700 SW College Ave\, Topeka\, KS 66621
+DESCRIPTION:Washburn's men's basketball team plays a Black Friday afternoo
+ n game in the newly renovated Lee Arena. Kids 4 and under get in free. Tic
+ kets. Details: https://weekendscout.app/e/topeka/washburn-vs-oklahoma-bapt
+ ist-mbb-2026-11/
+URL:https://weekendscout.app/e/topeka/washburn-vs-oklahoma-baptist-mbb-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:topeka-brant-jester-trio-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T070716Z
+DTSTART:20261129T210000Z
+DTEND:20261129T230000Z
+SUMMARY:Brant Jester Trio
+LOCATION:Topeka Performing Arts Center\, 214 SE 8th Ave\, Topeka\, KS 6660
+ 3
+DESCRIPTION:Kansas City jazz pianist Brant Jester leads his trio in the co
+ ncert that closes Topeka Jazz's 2026 season. Tickets. Details: https://wee
+ kendscout.app/e/topeka/brant-jester-trio-2026-11/
+URL:https://weekendscout.app/e/topeka/brant-jester-trio-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:topeka-kansas-state-capitol-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T070716Z
+DTSTART:20261128T160000Z
+DTEND:20261128T220000Z
+SUMMARY:Kansas State Capitol
+LOCATION:Kansas State Capitol\, 300 SW 10th Ave\, Topeka\, KS 66612
+DESCRIPTION:See John Steuart Curry's John Brown mural and join a guided hi
+ storic or dome tour\; Saturday tours start hourly from 10 a.m. Free. Detai
+ ls: https://weekendscout.app/e/topeka/kansas-state-capitol-2026-11/
+URL:https://weekendscout.app/e/topeka/kansas-state-capitol-2026-11/
 END:VEVENT
 END:VCALENDAR

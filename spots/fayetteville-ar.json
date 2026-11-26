@@ -1,0 +1,18 @@
+{
+ "city": "fayetteville-ar",
+ "updated": "2026-11-26",
+ "source": "Evergreen pick confirmed on the museum's own site (Nov 2026); dinner and drinks picks still to add",
+ "spots": [
+  {
+   "name": "Crystal Bridges Museum of American Art",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Bentonville",
+   "lat": 36.3825,
+   "lon": -94.20361,
+   "price": "Free",
+   "blurb": "Free American art museum with wooded trails, about 25 miles north in Bentonville",
+   "blurbEs": "Museo gratuito de arte estadounidense con senderos boscosos, a unos 40 km al norte, en Bentonville"
+  }
+ ]
+}

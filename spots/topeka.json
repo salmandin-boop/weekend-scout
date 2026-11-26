@@ -1,0 +1,42 @@
+{
+ "city": "topeka",
+ "updated": "2026-11-26",
+ "source": "Picked from Visit Topeka's fine-dining and Sips & Swigs guides plus OpenTable (Nov 2026); refreshed with the weekly update",
+ "spots": [
+  {
+   "name": "The White Linen",
+   "kind": "dinner",
+   "cuisine": "French-inspired New American",
+   "area": "Downtown",
+   "lat": 39.05213,
+   "lon": -95.674
+  },
+  {
+   "name": "The Weather Room",
+   "kind": "dinner",
+   "cuisine": "Upscale American and steaks",
+   "area": "Downtown (Cyrus Hotel)",
+   "lat": 39.04652,
+   "lon": -95.67508
+  },
+  {
+   "name": "The Knox Cocktail Bar & Lounge",
+   "kind": "drinks",
+   "cuisine": "Cocktail bar",
+   "area": "Downtown",
+   "lat": 39.05233,
+   "lon": -95.67398
+  },
+  {
+   "name": "Brown v. Board of Education National Historical Park",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Monroe School",
+   "lat": 39.0375,
+   "lon": -95.67568,
+   "price": "Free",
+   "blurb": "The former Monroe Elementary School, now a free national park telling the story of the landmark school-desegregation case",
+   "blurbEs": "La antigua escuela primaria Monroe, hoy un parque nacional gratuito que cuenta la historia del histórico caso de desegregación escolar"
+  }
+ ]
+}

@@ -8,77 +8,97 @@ X-WR-CALDESC:Hand-checked weekend picks in Cedar Rapids, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:cedar-rapids-newbo-city-market-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T063011Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:NewBo City Market
-LOCATION:NewBo City Market\, 1100 3rd St SE\, Cedar Rapids\, IA 52401
-DESCRIPTION:A food hall and local-maker market in the New Bohemia district
- . Free to browse. Details: https://weekendscout.app/e/cedar-rapids/newbo-c
- ity-market-2026-11/
-URL:https://weekendscout.app/e/cedar-rapids/newbo-city-market-2026-11/
+UID:cedar-rapids-made-in-iowa-holiday-market-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T070716Z
+DTSTART:20261128T160000Z
+DTEND:20261128T210000Z
+SUMMARY:Made in Iowa Holiday Market
+LOCATION:Hawkeye Downs Expo Center\, 4400 6th St SW\, Cedar Rapids\, IA 52
+ 404
+DESCRIPTION:A holiday shopping market of Iowa-made goods from local vendor
+ s. One $5 adult admission covers both days\; kids 12 and under get in free
+ . $5 (weekend pass)\; 12 and under free. Details: https://weekendscout.app
+ /e/cedar-rapids/made-in-iowa-holiday-market-2026-11/
+URL:https://weekendscout.app/e/cedar-rapids/made-in-iowa-holiday-market-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:cedar-rapids-made-in-iowa-holiday-market-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T070716Z
+DTSTART:20261129T160000Z
+DTEND:20261129T210000Z
+SUMMARY:Made in Iowa Holiday Market
+LOCATION:Hawkeye Downs Expo Center\, 4400 6th St SW\, Cedar Rapids\, IA 52
+ 404
+DESCRIPTION:A holiday shopping market of Iowa-made goods from local vendor
+ s. One $5 adult admission covers both days\; kids 12 and under get in free
+ . $5 (weekend pass)\; 12 and under free. Details: https://weekendscout.app
+ /e/cedar-rapids/made-in-iowa-holiday-market-2026-11/
+URL:https://weekendscout.app/e/cedar-rapids/made-in-iowa-holiday-market-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:cedar-rapids-newbo-city-market-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T063011Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:NewBo City Market
+DTSTAMP:20261126T070716Z
+DTSTART:20261128T160000Z
+DTEND:20261128T220000Z
+SUMMARY:Weekend Guest Vendor Market at NewBo City Market
 LOCATION:NewBo City Market\, 1100 3rd St SE\, Cedar Rapids\, IA 52401
-DESCRIPTION:A food hall and local-maker market in the New Bohemia district
- . Free to browse. Details: https://weekendscout.app/e/cedar-rapids/newbo-c
- ity-market-2026-11/
+DESCRIPTION:Local makers fill the empty stalls of the New Bohemia food hal
+ l and market with crafts\, jewelry\, vintage finds and baked goods\; good 
+ for Small Business Saturday gift shopping. Free to browse. Details: https:
+ //weekendscout.app/e/cedar-rapids/newbo-city-market-2026-11/
 URL:https://weekendscout.app/e/cedar-rapids/newbo-city-market-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:cedar-rapids-newbo-city-market-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T063011Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:NewBo City Market
+DTSTAMP:20261126T070716Z
+DTSTART:20261129T160000Z
+DTEND:20261129T210000Z
+SUMMARY:Weekend Guest Vendor Market at NewBo City Market
 LOCATION:NewBo City Market\, 1100 3rd St SE\, Cedar Rapids\, IA 52401
-DESCRIPTION:A food hall and local-maker market in the New Bohemia district
- . Free to browse. Details: https://weekendscout.app/e/cedar-rapids/newbo-c
- ity-market-2026-11/
+DESCRIPTION:Local makers fill the empty stalls of the New Bohemia food hal
+ l and market with crafts\, jewelry\, vintage finds and baked goods\; good 
+ for Small Business Saturday gift shopping. Free to browse. Details: https:
+ //weekendscout.app/e/cedar-rapids/newbo-city-market-2026-11/
 URL:https://weekendscout.app/e/cedar-rapids/newbo-city-market-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:cedar-rapids-christmas-with-c-s-lewis-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART:20261128T210000Z
 DTEND:20261128T230000Z
 SUMMARY:Christmas with C.S. Lewis
 LOCATION:Paramount Theatre\, 123 3rd Ave SE\, Cedar Rapids\, IA 52401
-DESCRIPTION:A one-man play about C.S. Lewis at Christmas. Tickets. Details
- : https://weekendscout.app/e/cedar-rapids/christmas-with-c-s-lewis-2026-11
- /
+DESCRIPTION:David Payne's play finds C.S. Lewis hosting American visitors 
+ at his home near Oxford on Christmas Eve\, recalling how his friendship wi
+ th Tolkien changed his faith and his Christmases. From $56. Details: https
+ ://weekendscout.app/e/cedar-rapids/christmas-with-c-s-lewis-2026-11/
 URL:https://weekendscout.app/e/cedar-rapids/christmas-with-c-s-lewis-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:cedar-rapids-cedar-rapids-roughriders-vs-waterloo-black-hawks-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART:20261129T010500Z
 DTEND:20261129T030500Z
 SUMMARY:Cedar Rapids RoughRiders vs. Waterloo Black Hawks
-LOCATION:ImOn Ice Arena\, ImOn Ice Arena\, Cedar Rapids\, IA 52401
-DESCRIPTION:USHL rivalry hockey. Tickets. Details: https://weekendscout.ap
- p/e/cedar-rapids/cedar-rapids-roughriders-vs-waterloo-black-hawks-2026-11/
+LOCATION:ImOn Ice Arena\, 1100 Rockford Rd SW\, Cedar Rapids\, IA 52404
+DESCRIPTION:USHL junior hockey's Eastern Iowa rivalry\, the return game tw
+ o nights after the Thanksgiving matchup in Waterloo. From $16.95. Details:
+  https://weekendscout.app/e/cedar-rapids/cedar-rapids-roughriders-vs-water
+ loo-black-hawks-2026-11/
 URL:https://weekendscout.app/e/cedar-rapids/cedar-rapids-roughriders-vs-waterloo-black-hawks-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:cedar-rapids-a-taste-of-ireland-a-celtic-christmas-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART:20261130T010000Z
 DTEND:20261130T030000Z
-SUMMARY:A Taste of Ireland: A Celtic Christmas
+SUMMARY:A Celtic Christmas presented by A Taste of Ireland
 LOCATION:Paramount Theatre\, 123 3rd Ave SE\, Cedar Rapids\, IA 52401
-DESCRIPTION:Irish dance and music for the holidays. Tickets. Details: http
- s://weekendscout.app/e/cedar-rapids/a-taste-of-ireland-a-celtic-christmas-
- 2026-11/
+DESCRIPTION:An Irish holiday show of dance\, music and storytelling with f
+ ormer world Irish dance champions and alumni of Riverdance and Lord of the
+  Dance\, mixing traditional tunes with familiar carols. From $51.19. Detai
+ ls: https://weekendscout.app/e/cedar-rapids/a-taste-of-ireland-a-celtic-ch
+ ristmas-2026-11/
 URL:https://weekendscout.app/e/cedar-rapids/a-taste-of-ireland-a-celtic-christmas-2026-11/
 END:VEVENT
 END:VCALENDAR

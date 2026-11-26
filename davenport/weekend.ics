@@ -8,123 +8,124 @@ X-WR-CALDESC:Hand-checked weekend picks in Davenport, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:davenport-davenport-riverfront-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T063011Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Davenport Riverfront
-LOCATION:LeClaire Park\, 400 Beiderbecke Dr\, Davenport\, IA 52801
-DESCRIPTION:A path along the Mississippi past the Skybridge and the Centen
- nial Bridge. Free. Details: https://weekendscout.app/e/davenport/davenport
- -riverfront-2026-11/
-URL:https://weekendscout.app/e/davenport/davenport-riverfront-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:davenport-davenport-riverfront-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T063011Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Davenport Riverfront
-LOCATION:LeClaire Park\, 400 Beiderbecke Dr\, Davenport\, IA 52801
-DESCRIPTION:A path along the Mississippi past the Skybridge and the Centen
- nial Bridge. Free. Details: https://weekendscout.app/e/davenport/davenport
- -riverfront-2026-11/
-URL:https://weekendscout.app/e/davenport/davenport-riverfront-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:davenport-davenport-riverfront-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T063011Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Davenport Riverfront
-LOCATION:LeClaire Park\, 400 Beiderbecke Dr\, Davenport\, IA 52801
-DESCRIPTION:A path along the Mississippi past the Skybridge and the Centen
- nial Bridge. Free. Details: https://weekendscout.app/e/davenport/davenport
- -riverfront-2026-11/
-URL:https://weekendscout.app/e/davenport/davenport-riverfront-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:davenport-figge-art-museum-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T063011Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Figge Art Museum
-LOCATION:Figge Art Museum\, 225 W 2nd St\, Davenport\, IA 52801
-DESCRIPTION:Regionalist and Haitian art in a glass box by the river. Admis
- sion. Details: https://weekendscout.app/e/davenport/figge-art-museum-2026-
- 11/
-URL:https://weekendscout.app/e/davenport/figge-art-museum-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:davenport-figge-art-museum-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T063011Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Figge Art Museum
-LOCATION:Figge Art Museum\, 225 W 2nd St\, Davenport\, IA 52801
-DESCRIPTION:Regionalist and Haitian art in a glass box by the river. Admis
- sion. Details: https://weekendscout.app/e/davenport/figge-art-museum-2026-
- 11/
-URL:https://weekendscout.app/e/davenport/figge-art-museum-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:davenport-figge-art-museum-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T063011Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Figge Art Museum
-LOCATION:Figge Art Museum\, 225 W 2nd St\, Davenport\, IA 52801
-DESCRIPTION:Regionalist and Haitian art in a glass box by the river. Admis
- sion. Details: https://weekendscout.app/e/davenport/figge-art-museum-2026-
- 11/
-URL:https://weekendscout.app/e/davenport/figge-art-museum-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:davenport-quad-city-botanical-center-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T063011Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Quad City Botanical Center
+UID:davenport-winter-lights-qcbc-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T070716Z
+DTSTART:20261127T230000Z
+DTEND:20261128T030000Z
+SUMMARY:Winter Lights
 LOCATION:Quad City Botanical Center\, 2525 4th Ave\, Rock Island\, IL 6120
  1
-DESCRIPTION:A tropical sun garden under glass\, with holiday decorations. 
- Admission. Details: https://weekendscout.app/e/davenport/quad-city-botanic
- al-center-2026-11/
-URL:https://weekendscout.app/e/davenport/quad-city-botanical-center-2026-11/
+DESCRIPTION:The 10th season of the Botanical Center's holiday light walk t
+ hrough its garden grounds. Last entry 8:30 PM\; Sunday night is Lights & L
+ eashes\, when leashed dogs are welcome. $12 adults\, $8 ages 2–15. Detai
+ ls: https://weekendscout.app/e/davenport/winter-lights-qcbc-2026-11/
+URL:https://weekendscout.app/e/davenport/winter-lights-qcbc-2026-11/
 END:VEVENT
 BEGIN:VEVENT
-UID:davenport-quad-city-botanical-center-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T063011Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Quad City Botanical Center
+UID:davenport-winter-lights-qcbc-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T070716Z
+DTSTART:20261128T230000Z
+DTEND:20261129T030000Z
+SUMMARY:Winter Lights
 LOCATION:Quad City Botanical Center\, 2525 4th Ave\, Rock Island\, IL 6120
  1
-DESCRIPTION:A tropical sun garden under glass\, with holiday decorations. 
- Admission. Details: https://weekendscout.app/e/davenport/quad-city-botanic
- al-center-2026-11/
-URL:https://weekendscout.app/e/davenport/quad-city-botanical-center-2026-11/
+DESCRIPTION:The 10th season of the Botanical Center's holiday light walk t
+ hrough its garden grounds. Last entry 8:30 PM\; Sunday night is Lights & L
+ eashes\, when leashed dogs are welcome. $12 adults\, $8 ages 2–15. Detai
+ ls: https://weekendscout.app/e/davenport/winter-lights-qcbc-2026-11/
+URL:https://weekendscout.app/e/davenport/winter-lights-qcbc-2026-11/
 END:VEVENT
 BEGIN:VEVENT
-UID:davenport-quad-city-botanical-center-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T063011Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Quad City Botanical Center
+UID:davenport-winter-lights-qcbc-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T070716Z
+DTSTART:20261129T230000Z
+DTEND:20261130T030000Z
+SUMMARY:Winter Lights
 LOCATION:Quad City Botanical Center\, 2525 4th Ave\, Rock Island\, IL 6120
  1
-DESCRIPTION:A tropical sun garden under glass\, with holiday decorations. 
- Admission. Details: https://weekendscout.app/e/davenport/quad-city-botanic
- al-center-2026-11/
-URL:https://weekendscout.app/e/davenport/quad-city-botanical-center-2026-11/
+DESCRIPTION:The 10th season of the Botanical Center's holiday light walk t
+ hrough its garden grounds. Last entry 8:30 PM\; Sunday night is Lights & L
+ eashes\, when leashed dogs are welcome. $12 adults\, $8 ages 2–15. Detai
+ ls: https://weekendscout.app/e/davenport/winter-lights-qcbc-2026-11/
+URL:https://weekendscout.app/e/davenport/winter-lights-qcbc-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:davenport-festival-of-trees-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T070716Z
+DTSTART:20261127T150000Z
+DTEND:20261128T010000Z
+SUMMARY:Festival of Trees
+LOCATION:RiverCenter\, 136 E 3rd St\, Davenport\, IA 52801
+DESCRIPTION:Quad City Arts' big holiday fundraiser fills the RiverCenter w
+ ith designer trees\, festive displays and visits with Santa. Check ticket 
+ prices. Details: https://weekendscout.app/e/davenport/festival-of-trees-20
+ 26-11/
+URL:https://weekendscout.app/e/davenport/festival-of-trees-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:davenport-festival-of-trees-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T070716Z
+DTSTART:20261128T150000Z
+DTEND:20261129T010000Z
+SUMMARY:Festival of Trees
+LOCATION:RiverCenter\, 136 E 3rd St\, Davenport\, IA 52801
+DESCRIPTION:Quad City Arts' big holiday fundraiser fills the RiverCenter w
+ ith designer trees\, festive displays and visits with Santa. Check ticket 
+ prices. Details: https://weekendscout.app/e/davenport/festival-of-trees-20
+ 26-11/
+URL:https://weekendscout.app/e/davenport/festival-of-trees-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:davenport-downtown-davenport-cookie-crawl-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T070716Z
+DTSTART:20261128T170000Z
+DTEND:20261128T210000Z
+SUMMARY:Deck the Downtowns Cookie Crawl
+LOCATION:Downtown Davenport\, 325 E 2nd St\, Davenport\, IA 52801
+DESCRIPTION:Small Business Saturday stroll: free holiday cookies at 25+ do
+ wntown shops\, plus a photo booth\, caricatures\, gift wrapping and live m
+ usic. Turn in your challenge card at The Last Picture House for a gift-car
+ d drawing. Free. Details: https://weekendscout.app/e/davenport/downtown-da
+ venport-cookie-crawl-2026-11/
+URL:https://weekendscout.app/e/davenport/downtown-davenport-cookie-crawl-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:davenport-putnam-storytelling-drumming-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T070716Z
+DTSTART:20261128T200000Z
+DTEND:20261128T220000Z
+SUMMARY:Storytelling & Drumming
+LOCATION:Putnam Museum\, 1717 W 12th St\, Davenport\, IA 52804
+DESCRIPTION:Larry Lockwood of the Northern Cheyenne Nation shares Native A
+ merican stories and drumming songs at the Putnam. Check ticket prices. Det
+ ails: https://weekendscout.app/e/davenport/putnam-storytelling-drumming-20
+ 26-11/
+URL:https://weekendscout.app/e/davenport/putnam-storytelling-drumming-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:davenport-freight-house-farmers-market-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T070716Z
+DTSTART:20261128T140000Z
+DTEND:20261128T200000Z
+SUMMARY:Freight House Farmers Market
+LOCATION:Freight House Farmers Market\, 421 W River Dr\, Davenport\, IA 52
+ 801
+DESCRIPTION:The year-round indoor market in the riverfront Freight House\,
+  with local growers\, bakers and makers. Free entry. Details: https://week
+ endscout.app/e/davenport/freight-house-farmers-market-2026-11/
+URL:https://weekendscout.app/e/davenport/freight-house-farmers-market-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:davenport-freight-house-farmers-market-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T070716Z
+DTSTART:20261129T160000Z
+DTEND:20261129T200000Z
+SUMMARY:Freight House Farmers Market
+LOCATION:Freight House Farmers Market\, 421 W River Dr\, Davenport\, IA 52
+ 801
+DESCRIPTION:The year-round indoor market in the riverfront Freight House\,
+  with local growers\, bakers and makers. Free entry. Details: https://week
+ endscout.app/e/davenport/freight-house-farmers-market-2026-11/
+URL:https://weekendscout.app/e/davenport/freight-house-farmers-market-2026-11/
 END:VEVENT
 END:VCALENDAR

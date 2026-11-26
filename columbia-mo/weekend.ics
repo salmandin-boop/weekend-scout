@@ -8,8 +8,36 @@ X-WR-CALDESC:Hand-checked weekend picks in Columbia, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
+UID:columbia-mo-mizzou-mbb-vs-arkansas-pine-bluff-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T070716Z
+DTSTART:20261127T210000Z
+DTEND:20261127T230000Z
+SUMMARY:Mizzou Men's Basketball vs. Arkansas-Pine Bluff
+LOCATION:Mizzou Arena\, Mizzou Arena\, University of Missouri\, Columbia\,
+  MO
+DESCRIPTION:The Missouri Tigers host Arkansas-Pine Bluff in a Black Friday
+  afternoon game at Mizzou Arena. Check ticket prices. Details: https://wee
+ kendscout.app/e/columbia-mo/mizzou-mbb-vs-arkansas-pine-bluff-2026-11/
+URL:https://weekendscout.app/e/columbia-mo/mizzou-mbb-vs-arkansas-pine-bluff-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:columbia-mo-mizzou-football-vs-oklahoma-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T070716Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Mizzou Football vs. Oklahoma
+LOCATION:Faurot Field at Memorial Stadium\, Faurot Field\, University of M
+ issouri\, Columbia\, MO
+DESCRIPTION:Missouri closes its regular season at home against Oklahoma. T
+ he SEC put it in the afternoon window (about 2:30–3:30 p.m.)\; check the
+  schedule for the exact kickoff. Check ticket prices. Details: https://wee
+ kendscout.app/e/columbia-mo/mizzou-football-vs-oklahoma-2026-11/
+URL:https://weekendscout.app/e/columbia-mo/mizzou-football-vs-oklahoma-2026-11/
+END:VEVENT
+BEGIN:VEVENT
 UID:columbia-mo-mkt-trail-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -22,7 +50,7 @@ URL:https://weekendscout.app/e/columbia-mo/mkt-trail-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:columbia-mo-mkt-trail-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -35,7 +63,7 @@ URL:https://weekendscout.app/e/columbia-mo/mkt-trail-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:columbia-mo-mkt-trail-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -48,7 +76,7 @@ URL:https://weekendscout.app/e/columbia-mo/mkt-trail-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:columbia-mo-shelter-gardens-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -61,7 +89,7 @@ URL:https://weekendscout.app/e/columbia-mo/shelter-gardens-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:columbia-mo-shelter-gardens-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -74,7 +102,7 @@ URL:https://weekendscout.app/e/columbia-mo/shelter-gardens-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:columbia-mo-shelter-gardens-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -84,19 +112,5 @@ DESCRIPTION:A five-acre garden with a pond and a one-room schoolhouse. Fre
  e. Details: https://weekendscout.app/e/columbia-mo/shelter-gardens-2026-11
  /
 URL:https://weekendscout.app/e/columbia-mo/shelter-gardens-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:columbia-mo-state-historical-society-of-missouri-art-gallery-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T063011Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:State Historical Society of Missouri Art Gallery
-LOCATION:State Historical Society of Missouri\, 605 Elm St\, Columbia\, MO
-  65201
-DESCRIPTION:Missouri art including works by George Caleb Bingham and Thoma
- s Hart Benton. Free. Details: https://weekendscout.app/e/columbia-mo/state
- -historical-society-of-missouri-art-gallery-2026-11/
-URL:https://weekendscout.app/e/columbia-mo/state-historical-society-of-missouri-art-gallery-2026-11/
 END:VEVENT
 END:VCALENDAR

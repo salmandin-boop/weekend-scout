@@ -9,119 +9,167 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:fayetteville-ar-lights-of-the-ozarks-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T063011Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
+DTSTAMP:20261126T070716Z
+DTSTART:20261127T230000Z
+DTEND:20261128T010000Z
 SUMMARY:Lights of the Ozarks
-LOCATION:Fayetteville Square\, 1 E Center St\, Fayetteville\, AR 72701
-DESCRIPTION:Hundreds of thousands of lights on the downtown square through
-  the holidays. Free. Details: https://weekendscout.app/e/fayetteville-ar/l
- ights-of-the-ozarks-2026-11/
+LOCATION:Fayetteville Square\, 1 W Center St\, Fayetteville\, AR 72701
+DESCRIPTION:The historic downtown square glows with holiday lights every n
+ ight from 5 p.m. to 1 a.m. through Jan. 1. Leashed\, well-behaved pets are
+  welcome. Free. Details: https://weekendscout.app/e/fayetteville-ar/lights
+ -of-the-ozarks-2026-11/
 URL:https://weekendscout.app/e/fayetteville-ar/lights-of-the-ozarks-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fayetteville-ar-lights-of-the-ozarks-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T063011Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
+DTSTAMP:20261126T070716Z
+DTSTART:20261128T230000Z
+DTEND:20261129T010000Z
 SUMMARY:Lights of the Ozarks
-LOCATION:Fayetteville Square\, 1 E Center St\, Fayetteville\, AR 72701
-DESCRIPTION:Hundreds of thousands of lights on the downtown square through
-  the holidays. Free. Details: https://weekendscout.app/e/fayetteville-ar/l
- ights-of-the-ozarks-2026-11/
+LOCATION:Fayetteville Square\, 1 W Center St\, Fayetteville\, AR 72701
+DESCRIPTION:The historic downtown square glows with holiday lights every n
+ ight from 5 p.m. to 1 a.m. through Jan. 1. Leashed\, well-behaved pets are
+  welcome. Free. Details: https://weekendscout.app/e/fayetteville-ar/lights
+ -of-the-ozarks-2026-11/
 URL:https://weekendscout.app/e/fayetteville-ar/lights-of-the-ozarks-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fayetteville-ar-lights-of-the-ozarks-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T063011Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
+DTSTAMP:20261126T070716Z
+DTSTART:20261129T230000Z
+DTEND:20261130T010000Z
 SUMMARY:Lights of the Ozarks
-LOCATION:Fayetteville Square\, 1 E Center St\, Fayetteville\, AR 72701
-DESCRIPTION:Hundreds of thousands of lights on the downtown square through
-  the holidays. Free. Details: https://weekendscout.app/e/fayetteville-ar/l
- ights-of-the-ozarks-2026-11/
+LOCATION:Fayetteville Square\, 1 W Center St\, Fayetteville\, AR 72701
+DESCRIPTION:The historic downtown square glows with holiday lights every n
+ ight from 5 p.m. to 1 a.m. through Jan. 1. Leashed\, well-behaved pets are
+  welcome. Free. Details: https://weekendscout.app/e/fayetteville-ar/lights
+ -of-the-ozarks-2026-11/
 URL:https://weekendscout.app/e/fayetteville-ar/lights-of-the-ozarks-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fayetteville-ar-arkansas-vs-lsu-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART:20261128T170000Z
 DTEND:20261128T190000Z
 SUMMARY:Arkansas vs. LSU
 LOCATION:Razorback Stadium\, 350 N Razorback Rd\, Fayetteville\, AR 72701
-DESCRIPTION:SEC football on Saturday morning. Tickets. Details: https://we
- ekendscout.app/e/fayetteville-ar/arkansas-vs-lsu-2026-11/
+DESCRIPTION:The Razorbacks host LSU in SEC football\, with kickoff in the 
+ 11 a.m.–noon window. Tickets. Details: https://weekendscout.app/e/fayett
+ eville-ar/arkansas-vs-lsu-2026-11/
 URL:https://weekendscout.app/e/fayetteville-ar/arkansas-vs-lsu-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fayetteville-ar-jersey-boys-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART:20261128T013000Z
 DTEND:20261128T033000Z
 SUMMARY:Jersey Boys
 LOCATION:Walton Arts Center\, 495 W Dickson St\, Fayetteville\, AR 72701
-DESCRIPTION:The Four Seasons musical\, five shows. Tickets. Details: https
- ://weekendscout.app/e/fayetteville-ar/jersey-boys-2026-11/
+DESCRIPTION:The Tony-winning musical about Frankie Valli and The Four Seas
+ ons in Baum Walker Hall. Recommended for ages 12 and up. Tickets. Details:
+  https://weekendscout.app/e/fayetteville-ar/jersey-boys-2026-11/
 URL:https://weekendscout.app/e/fayetteville-ar/jersey-boys-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fayetteville-ar-jersey-boys-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART:20261128T200000Z
 DTEND:20261128T220000Z
 SUMMARY:Jersey Boys
 LOCATION:Walton Arts Center\, 495 W Dickson St\, Fayetteville\, AR 72701
-DESCRIPTION:The Four Seasons musical\, five shows. Tickets. Details: https
- ://weekendscout.app/e/fayetteville-ar/jersey-boys-2026-11/
+DESCRIPTION:The Tony-winning musical about Frankie Valli and The Four Seas
+ ons in Baum Walker Hall. Recommended for ages 12 and up. Tickets. Details:
+  https://weekendscout.app/e/fayetteville-ar/jersey-boys-2026-11/
 URL:https://weekendscout.app/e/fayetteville-ar/jersey-boys-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fayetteville-ar-jersey-boys-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART:20261129T013000Z
 DTEND:20261129T033000Z
 SUMMARY:Jersey Boys
 LOCATION:Walton Arts Center\, 495 W Dickson St\, Fayetteville\, AR 72701
-DESCRIPTION:The Four Seasons musical\, five shows. Tickets. Details: https
- ://weekendscout.app/e/fayetteville-ar/jersey-boys-2026-11/
+DESCRIPTION:The Tony-winning musical about Frankie Valli and The Four Seas
+ ons in Baum Walker Hall. Recommended for ages 12 and up. Tickets. Details:
+  https://weekendscout.app/e/fayetteville-ar/jersey-boys-2026-11/
 URL:https://weekendscout.app/e/fayetteville-ar/jersey-boys-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fayetteville-ar-jersey-boys-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART:20261129T200000Z
 DTEND:20261129T220000Z
 SUMMARY:Jersey Boys
 LOCATION:Walton Arts Center\, 495 W Dickson St\, Fayetteville\, AR 72701
-DESCRIPTION:The Four Seasons musical\, five shows. Tickets. Details: https
- ://weekendscout.app/e/fayetteville-ar/jersey-boys-2026-11/
+DESCRIPTION:The Tony-winning musical about Frankie Valli and The Four Seas
+ ons in Baum Walker Hall. Recommended for ages 12 and up. Tickets. Details:
+  https://weekendscout.app/e/fayetteville-ar/jersey-boys-2026-11/
 URL:https://weekendscout.app/e/fayetteville-ar/jersey-boys-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fayetteville-ar-jersey-boys-2026-11-sun-1@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART:20261130T010000Z
 DTEND:20261130T030000Z
 SUMMARY:Jersey Boys
 LOCATION:Walton Arts Center\, 495 W Dickson St\, Fayetteville\, AR 72701
-DESCRIPTION:The Four Seasons musical\, five shows. Tickets. Details: https
- ://weekendscout.app/e/fayetteville-ar/jersey-boys-2026-11/
+DESCRIPTION:The Tony-winning musical about Frankie Valli and The Four Seas
+ ons in Baum Walker Hall. Recommended for ages 12 and up. Tickets. Details:
+  https://weekendscout.app/e/fayetteville-ar/jersey-boys-2026-11/
 URL:https://weekendscout.app/e/fayetteville-ar/jersey-boys-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fayetteville-ar-arkansas-vs-louisiana-tech-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART:20261129T200000Z
 DTEND:20261129T220000Z
 SUMMARY:Arkansas vs. Louisiana Tech
 LOCATION:Bud Walton Arena\, 1270 W Leroy Pond Dr\, Fayetteville\, AR 72701
-DESCRIPTION:Razorbacks women’s basketball on Sunday. Tickets. Details: h
- ttps://weekendscout.app/e/fayetteville-ar/arkansas-vs-louisiana-tech-2026-
- 11/
+DESCRIPTION:Razorbacks women's basketball hosts Louisiana Tech on Sunday a
+ fternoon. Tickets. Details: https://weekendscout.app/e/fayetteville-ar/ark
+ ansas-vs-louisiana-tech-2026-11/
 URL:https://weekendscout.app/e/fayetteville-ar/arkansas-vs-louisiana-tech-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fayetteville-ar-crystal-bridges-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T070716Z
+DTSTART:20261127T170000Z
+DTEND:20261128T020000Z
+SUMMARY:Crystal Bridges Museum of American Art
+LOCATION:Crystal Bridges Museum of American Art\, 600 Museum Way\, Bentonv
+ ille\, AR 72712
+DESCRIPTION:Free general admission to American art and wooded trails in Be
+ ntonville\, about 25 miles north. Sunday is Museum Store Sunday\; some spe
+ cial exhibitions are ticketed. Free general admission. Details: https://we
+ ekendscout.app/e/fayetteville-ar/crystal-bridges-2026-11/
+URL:https://weekendscout.app/e/fayetteville-ar/crystal-bridges-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fayetteville-ar-crystal-bridges-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T070716Z
+DTSTART:20261128T160000Z
+DTEND:20261129T000000Z
+SUMMARY:Crystal Bridges Museum of American Art
+LOCATION:Crystal Bridges Museum of American Art\, 600 Museum Way\, Bentonv
+ ille\, AR 72712
+DESCRIPTION:Free general admission to American art and wooded trails in Be
+ ntonville\, about 25 miles north. Sunday is Museum Store Sunday\; some spe
+ cial exhibitions are ticketed. Free general admission. Details: https://we
+ ekendscout.app/e/fayetteville-ar/crystal-bridges-2026-11/
+URL:https://weekendscout.app/e/fayetteville-ar/crystal-bridges-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fayetteville-ar-crystal-bridges-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T070716Z
+DTSTART:20261129T160000Z
+DTEND:20261130T000000Z
+SUMMARY:Crystal Bridges Museum of American Art
+LOCATION:Crystal Bridges Museum of American Art\, 600 Museum Way\, Bentonv
+ ille\, AR 72712
+DESCRIPTION:Free general admission to American art and wooded trails in Be
+ ntonville\, about 25 miles north. Sunday is Museum Store Sunday\; some spe
+ cial exhibitions are ticketed. Free general admission. Details: https://we
+ ekendscout.app/e/fayetteville-ar/crystal-bridges-2026-11/
+URL:https://weekendscout.app/e/fayetteville-ar/crystal-bridges-2026-11/
 END:VEVENT
 END:VCALENDAR

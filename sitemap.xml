@@ -667,6 +667,7 @@
   <url><loc>https://weekendscout.app/traverse-city/with-kids/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/traverse-city/visiting/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/green-bay/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://weekendscout.app/green-bay/date-night/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/green-bay/with-kids/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/green-bay/visiting/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/duluth/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
@@ -674,6 +675,7 @@
   <url><loc>https://weekendscout.app/duluth/with-kids/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/duluth/visiting/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/rochester-mn/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://weekendscout.app/rochester-mn/date-night/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/rochester-mn/with-kids/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/rochester-mn/visiting/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/cedar-rapids/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
@@ -681,21 +683,24 @@
   <url><loc>https://weekendscout.app/cedar-rapids/with-kids/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/cedar-rapids/visiting/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/davenport/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://weekendscout.app/davenport/date-night/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://weekendscout.app/davenport/with-kids/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/davenport/visiting/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/lincoln/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://weekendscout.app/lincoln/date-night/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://weekendscout.app/lincoln/with-kids/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/lincoln/visiting/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/topeka/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://weekendscout.app/topeka/date-night/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/topeka/with-kids/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/topeka/visiting/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/columbia-mo/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://weekendscout.app/columbia-mo/free/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://weekendscout.app/columbia-mo/with-kids/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/columbia-mo/visiting/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/fayetteville-ar/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://weekendscout.app/fayetteville-ar/date-night/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/fayetteville-ar/with-kids/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/fayetteville-ar/visiting/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/norman/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://weekendscout.app/norman/date-night/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/norman/visiting/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/fort-collins/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/fort-collins/with-kids/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>

@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:montgomery-elf-the-musical-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART:20261128T010000Z
 DTEND:20261128T030000Z
 SUMMARY:Elf: The Musical
@@ -23,7 +23,7 @@ URL:https://weekendscout.app/e/montgomery/elf-the-musical-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:montgomery-elf-the-musical-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART:20261128T170000Z
 DTEND:20261128T190000Z
 SUMMARY:Elf: The Musical
@@ -37,7 +37,7 @@ URL:https://weekendscout.app/e/montgomery/elf-the-musical-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:montgomery-elf-the-musical-2026-11-27-sat-1@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART:20261128T220000Z
 DTEND:20261129T000000Z
 SUMMARY:Elf: The Musical
@@ -51,7 +51,7 @@ URL:https://weekendscout.app/e/montgomery/elf-the-musical-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:montgomery-elf-the-musical-2026-11-27-sun-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART:20261129T200000Z
 DTEND:20261129T220000Z
 SUMMARY:Elf: The Musical
@@ -65,7 +65,7 @@ URL:https://weekendscout.app/e/montgomery/elf-the-musical-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:montgomery-paranormal-cirque-specter-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART:20261128T013000Z
 DTEND:20261128T033000Z
 SUMMARY:Paranormal Cirque: Specter
@@ -77,7 +77,7 @@ URL:https://weekendscout.app/e/montgomery/paranormal-cirque-specter-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:montgomery-paranormal-cirque-specter-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART:20261129T003000Z
 DTEND:20261129T023000Z
 SUMMARY:Paranormal Cirque: Specter
@@ -89,7 +89,7 @@ URL:https://weekendscout.app/e/montgomery/paranormal-cirque-specter-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:montgomery-paranormal-cirque-specter-2026-11-27-sat-1@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART:20261129T033000Z
 DTEND:20261129T053000Z
 SUMMARY:Paranormal Cirque: Specter
@@ -101,7 +101,7 @@ URL:https://weekendscout.app/e/montgomery/paranormal-cirque-specter-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:montgomery-paranormal-cirque-specter-2026-11-27-sun-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART:20261129T233000Z
 DTEND:20261130T013000Z
 SUMMARY:Paranormal Cirque: Specter
@@ -113,7 +113,7 @@ URL:https://weekendscout.app/e/montgomery/paranormal-cirque-specter-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:montgomery-paranormal-cirque-specter-2026-11-27-sun-1@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART:20261130T023000Z
 DTEND:20261130T043000Z
 SUMMARY:Paranormal Cirque: Specter
@@ -125,7 +125,7 @@ URL:https://weekendscout.app/e/montgomery/paranormal-cirque-specter-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:montgomery-ballpark-lights-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -139,7 +139,7 @@ URL:https://weekendscout.app/e/montgomery/ballpark-lights-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:montgomery-ballpark-lights-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -153,7 +153,7 @@ URL:https://weekendscout.app/e/montgomery/ballpark-lights-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:montgomery-ballpark-lights-2026-11-27-sun-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -167,7 +167,7 @@ URL:https://weekendscout.app/e/montgomery/ballpark-lights-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:montgomery-montgomery-zoo-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART:20261127T153000Z
 DTEND:20261127T223000Z
 SUMMARY:Montgomery Zoo
@@ -180,7 +180,7 @@ URL:https://weekendscout.app/e/montgomery/montgomery-zoo-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:montgomery-montgomery-zoo-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART:20261128T153000Z
 DTEND:20261128T223000Z
 SUMMARY:Montgomery Zoo
@@ -193,7 +193,7 @@ URL:https://weekendscout.app/e/montgomery/montgomery-zoo-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:montgomery-montgomery-zoo-2026-11-27-sun-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART:20261129T153000Z
 DTEND:20261129T223000Z
 SUMMARY:Montgomery Zoo
@@ -206,7 +206,7 @@ URL:https://weekendscout.app/e/montgomery/montgomery-zoo-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:montgomery-montgomery-museum-of-fine-arts-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART:20261128T160000Z
 DTEND:20261128T230000Z
 SUMMARY:Montgomery Museum of Fine Arts
@@ -220,7 +220,7 @@ URL:https://weekendscout.app/e/montgomery/montgomery-museum-of-fine-arts-2026-11
 END:VEVENT
 BEGIN:VEVENT
 UID:montgomery-montgomery-museum-of-fine-arts-2026-11-28-sun-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART:20261129T180000Z
 DTEND:20261129T230000Z
 SUMMARY:Montgomery Museum of Fine Arts
@@ -234,7 +234,7 @@ URL:https://weekendscout.app/e/montgomery/montgomery-museum-of-fine-arts-2026-11
 END:VEVENT
 BEGIN:VEVENT
 UID:montgomery-montgomery-curb-market-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART:20261128T113000Z
 DTEND:20261128T200000Z
 SUMMARY:Montgomery Curb Market

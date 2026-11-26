@@ -1,0 +1,18 @@
+{
+ "city": "norman",
+ "updated": "2026-11-26",
+ "source": "Evergreen pick confirmed on the museum's own site (Nov 2026); dinner and drinks picks still to add",
+ "spots": [
+  {
+   "name": "Sam Noble Oklahoma Museum of Natural History",
+   "kind": "always",
+   "cuisine": "",
+   "area": "South OU campus",
+   "lat": 35.1944,
+   "lon": -97.449,
+   "price": "$12",
+   "blurb": "OU's natural history museum, known for its dinosaur skeletons",
+   "blurbEs": "El museo de historia natural de OU, conocido por sus esqueletos de dinosaurios"
+  }
+ ]
+}

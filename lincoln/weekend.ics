@@ -8,8 +8,47 @@ X-WR-CALDESC:Hand-checked weekend picks in Lincoln, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
+UID:lincoln-zoo-lights-lincoln-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T070716Z
+DTSTART:20261127T233000Z
+DTEND:20261128T033000Z
+SUMMARY:Zoo Lights Powered by LES
+LOCATION:Lincoln Children's Zoo\, 1222 S 27th St\, Lincoln\, NE 68502
+DESCRIPTION:Holiday lights fill the zoo each evening\, with a holiday trai
+ n ride ($3) and cafes open until 9 PM. Timed tickets can sell out\, so buy
+  ahead\; kids 1 and under are free. $16.95 ($13.95 members). Details: http
+ s://weekendscout.app/e/lincoln/zoo-lights-lincoln-2026-11/
+URL:https://weekendscout.app/e/lincoln/zoo-lights-lincoln-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:lincoln-zoo-lights-lincoln-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T070716Z
+DTSTART:20261128T233000Z
+DTEND:20261129T033000Z
+SUMMARY:Zoo Lights Powered by LES
+LOCATION:Lincoln Children's Zoo\, 1222 S 27th St\, Lincoln\, NE 68502
+DESCRIPTION:Holiday lights fill the zoo each evening\, with a holiday trai
+ n ride ($3) and cafes open until 9 PM. Timed tickets can sell out\, so buy
+  ahead\; kids 1 and under are free. $16.95 ($13.95 members). Details: http
+ s://weekendscout.app/e/lincoln/zoo-lights-lincoln-2026-11/
+URL:https://weekendscout.app/e/lincoln/zoo-lights-lincoln-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:lincoln-zoo-lights-lincoln-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T070716Z
+DTSTART:20261129T233000Z
+DTEND:20261130T033000Z
+SUMMARY:Zoo Lights Powered by LES
+LOCATION:Lincoln Children's Zoo\, 1222 S 27th St\, Lincoln\, NE 68502
+DESCRIPTION:Holiday lights fill the zoo each evening\, with a holiday trai
+ n ride ($3) and cafes open until 9 PM. Timed tickets can sell out\, so buy
+  ahead\; kids 1 and under are free. $16.95 ($13.95 members). Details: http
+ s://weekendscout.app/e/lincoln/zoo-lights-lincoln-2026-11/
+URL:https://weekendscout.app/e/lincoln/zoo-lights-lincoln-2026-11/
+END:VEVENT
+BEGIN:VEVENT
 UID:lincoln-sheldon-museum-of-art-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -22,7 +61,7 @@ URL:https://weekendscout.app/e/lincoln/sheldon-museum-of-art-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:lincoln-sheldon-museum-of-art-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -35,7 +74,7 @@ URL:https://weekendscout.app/e/lincoln/sheldon-museum-of-art-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:lincoln-nebraska-state-capitol-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -48,7 +87,7 @@ URL:https://weekendscout.app/e/lincoln/nebraska-state-capitol-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:lincoln-nebraska-state-capitol-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -61,7 +100,7 @@ URL:https://weekendscout.app/e/lincoln/nebraska-state-capitol-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:lincoln-lincoln-stars-vs-sioux-city-musketeers-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART:20261127T230500Z
 DTEND:20261128T010500Z
 SUMMARY:Lincoln Stars vs. Sioux City Musketeers
@@ -72,7 +111,7 @@ URL:https://weekendscout.app/e/lincoln/lincoln-stars-vs-sioux-city-musketeers-20
 END:VEVENT
 BEGIN:VEVENT
 UID:lincoln-plack-blague-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART:20261128T020000Z
 DTEND:20261128T040000Z
 SUMMARY:Plack Blague

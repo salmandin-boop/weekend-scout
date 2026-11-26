@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:rockford-stroll-on-state-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART:20261128T200000Z
 DTEND:20261129T030000Z
 SUMMARY:Stroll on State
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/rockford/stroll-on-state-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:rockford-icehogs-texas-stars-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART:20261128T010000Z
 DTEND:20261128T030000Z
 SUMMARY:Rockford IceHogs vs. Texas Stars
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/rockford/icehogs-texas-stars-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:rockford-holiday-festival-of-lights-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -48,7 +48,7 @@ URL:https://weekendscout.app/e/rockford/holiday-festival-of-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:rockford-holiday-festival-of-lights-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -61,7 +61,7 @@ URL:https://weekendscout.app/e/rockford/holiday-festival-of-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:rockford-holiday-festival-of-lights-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -74,7 +74,7 @@ URL:https://weekendscout.app/e/rockford/holiday-festival-of-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:rockford-all-aglow-nicholas-conservatory-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -89,7 +89,7 @@ URL:https://weekendscout.app/e/rockford/all-aglow-nicholas-conservatory-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:rockford-all-aglow-nicholas-conservatory-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -104,7 +104,7 @@ URL:https://weekendscout.app/e/rockford/all-aglow-nicholas-conservatory-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:rockford-second-city-hard-rock-live-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -117,7 +117,7 @@ URL:https://weekendscout.app/e/rockford/second-city-hard-rock-live-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:rockford-second-city-hard-rock-live-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -130,7 +130,7 @@ URL:https://weekendscout.app/e/rockford/second-city-hard-rock-live-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:rockford-burpee-museum-of-natural-history-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART:20261127T160000Z
 DTEND:20261127T230000Z
 SUMMARY:Burpee Museum of Natural History
@@ -143,7 +143,7 @@ URL:https://weekendscout.app/e/rockford/burpee-museum-of-natural-history-2026-11
 END:VEVENT
 BEGIN:VEVENT
 UID:rockford-burpee-museum-of-natural-history-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART:20261128T160000Z
 DTEND:20261128T230000Z
 SUMMARY:Burpee Museum of Natural History
@@ -156,7 +156,7 @@ URL:https://weekendscout.app/e/rockford/burpee-museum-of-natural-history-2026-11
 END:VEVENT
 BEGIN:VEVENT
 UID:rockford-burpee-museum-of-natural-history-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART:20261129T160000Z
 DTEND:20261129T230000Z
 SUMMARY:Burpee Museum of Natural History
@@ -169,7 +169,7 @@ URL:https://weekendscout.app/e/rockford/burpee-museum-of-natural-history-2026-11
 END:VEVENT
 BEGIN:VEVENT
 UID:rockford-discovery-center-museum-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART:20261127T153000Z
 DTEND:20261127T223000Z
 SUMMARY:Discovery Center Museum
@@ -181,7 +181,7 @@ URL:https://weekendscout.app/e/rockford/discovery-center-museum-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:rockford-discovery-center-museum-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART:20261128T153000Z
 DTEND:20261128T223000Z
 SUMMARY:Discovery Center Museum
@@ -193,7 +193,7 @@ URL:https://weekendscout.app/e/rockford/discovery-center-museum-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:rockford-discovery-center-museum-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART:20261129T153000Z
 DTEND:20261129T223000Z
 SUMMARY:Discovery Center Museum

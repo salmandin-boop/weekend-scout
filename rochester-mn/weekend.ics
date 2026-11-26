@@ -8,90 +8,160 @@ X-WR-CALDESC:Hand-checked weekend picks in Rochester, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:rochester-mn-peace-plaza-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T063011Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Peace Plaza
+UID:rochester-mn-here-comes-santa-claus-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T070716Z
+DTSTART:20261127T203000Z
+DTEND:20261128T010000Z
+SUMMARY:Here Comes Santa Claus
 LOCATION:Peace Plaza\, 1st Ave SW & 2nd St SW\, Rochester\, MN 55902
-DESCRIPTION:Downtown’s plaza by the Mayo Clinic\, decorated for the holi
- days. Free. Details: https://weekendscout.app/e/rochester-mn/peace-plaza-2
- 026-11/
-URL:https://weekendscout.app/e/rochester-mn/peace-plaza-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:rochester-mn-peace-plaza-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T063011Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Peace Plaza
-LOCATION:Peace Plaza\, 1st Ave SW & 2nd St SW\, Rochester\, MN 55902
-DESCRIPTION:Downtown’s plaza by the Mayo Clinic\, decorated for the holi
- days. Free. Details: https://weekendscout.app/e/rochester-mn/peace-plaza-2
- 026-11/
-URL:https://weekendscout.app/e/rochester-mn/peace-plaza-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:rochester-mn-peace-plaza-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T063011Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Peace Plaza
-LOCATION:Peace Plaza\, 1st Ave SW & 2nd St SW\, Rochester\, MN 55902
-DESCRIPTION:Downtown’s plaza by the Mayo Clinic\, decorated for the holi
- days. Free. Details: https://weekendscout.app/e/rochester-mn/peace-plaza-2
- 026-11/
-URL:https://weekendscout.app/e/rochester-mn/peace-plaza-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:rochester-mn-quarry-hill-park-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T063011Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Quarry Hill Park
-LOCATION:Quarry Hill Park\, 701 Silver Creek Rd NE\, Rochester\, MN 55906
-DESCRIPTION:Trails\, caves and a nature center. Free. Details: https://wee
- kendscout.app/e/rochester-mn/quarry-hill-park-2026-11/
-URL:https://weekendscout.app/e/rochester-mn/quarry-hill-park-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:rochester-mn-quarry-hill-park-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T063011Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Quarry Hill Park
-LOCATION:Quarry Hill Park\, 701 Silver Creek Rd NE\, Rochester\, MN 55906
-DESCRIPTION:Trails\, caves and a nature center. Free. Details: https://wee
- kendscout.app/e/rochester-mn/quarry-hill-park-2026-11/
-URL:https://weekendscout.app/e/rochester-mn/quarry-hill-park-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:rochester-mn-quarry-hill-park-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T063011Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Quarry Hill Park
-LOCATION:Quarry Hill Park\, 701 Silver Creek Rd NE\, Rochester\, MN 55906
-DESCRIPTION:Trails\, caves and a nature center. Free. Details: https://wee
- kendscout.app/e/rochester-mn/quarry-hill-park-2026-11/
-URL:https://weekendscout.app/e/rochester-mn/quarry-hill-park-2026-11/
+DESCRIPTION:Downtown's 52nd annual Santa kickoff: Mrs. Claus' Workshop wit
+ h Nutcracker performances at the Historic Chateau Theatre (2:30–4:45 p.m
+ .)\, Santa's rescue at Old City Hall at 5\, the Peace Plaza tree lighting 
+ at 5:15\, then photos with Santa at the Galleria until 7. See details. Det
+ ails: https://weekendscout.app/e/rochester-mn/here-comes-santa-claus-2026-
+ 11/
+URL:https://weekendscout.app/e/rochester-mn/here-comes-santa-claus-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:rochester-mn-the-wizards-of-winter-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T063011Z
+DTSTAMP:20261126T070716Z
 DTSTART:20261129T230000Z
 DTEND:20261130T010000Z
 SUMMARY:The Wizards of Winter
 LOCATION:Mayo Civic Center Presentation Hall\, 30 Civic Center Dr SE\, Roc
  hester\, MN 55904
-DESCRIPTION:A rock-opera Christmas show. Tickets. Details: https://weekend
- scout.app/e/rochester-mn/the-wizards-of-winter-2026-11/
+DESCRIPTION:A holiday rock-opera concert that gives familiar Christmas mus
+ ic a rock treatment. Tickets. Details: https://weekendscout.app/e/rocheste
+ r-mn/the-wizards-of-winter-2026-11/
 URL:https://weekendscout.app/e/rochester-mn/the-wizards-of-winter-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:rochester-mn-festival-of-trees-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T070716Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Festival of Trees
+LOCATION:The Kahler Grand Hotel\, The Kahler Grand Hotel\, Rochester\, MN
+DESCRIPTION:Hiawatha Homes' 41st Festival of Trees fills the Kahler Grand 
+ with decorated holiday trees\; general viewing runs Friday through Sunday 
+ and supports people with disabilities. Check admission. Details: https://w
+ eekendscout.app/e/rochester-mn/festival-of-trees-2026-11/
+URL:https://weekendscout.app/e/rochester-mn/festival-of-trees-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:rochester-mn-festival-of-trees-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T070716Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Festival of Trees
+LOCATION:The Kahler Grand Hotel\, The Kahler Grand Hotel\, Rochester\, MN
+DESCRIPTION:Hiawatha Homes' 41st Festival of Trees fills the Kahler Grand 
+ with decorated holiday trees\; general viewing runs Friday through Sunday 
+ and supports people with disabilities. Check admission. Details: https://w
+ eekendscout.app/e/rochester-mn/festival-of-trees-2026-11/
+URL:https://weekendscout.app/e/rochester-mn/festival-of-trees-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:rochester-mn-festival-of-trees-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T070716Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Festival of Trees
+LOCATION:The Kahler Grand Hotel\, The Kahler Grand Hotel\, Rochester\, MN
+DESCRIPTION:Hiawatha Homes' 41st Festival of Trees fills the Kahler Grand 
+ with decorated holiday trees\; general viewing runs Friday through Sunday 
+ and supports people with disabilities. Check admission. Details: https://w
+ eekendscout.app/e/rochester-mn/festival-of-trees-2026-11/
+URL:https://weekendscout.app/e/rochester-mn/festival-of-trees-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:rochester-mn-rochester-art-center-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T070716Z
+DTSTART:20261127T170000Z
+DTEND:20261127T220000Z
+SUMMARY:Rochester Art Center
+LOCATION:Rochester Art Center\, 30 Civic Center Dr SE\, Suite 120\, Roches
+ ter\, MN 55904
+DESCRIPTION:Contemporary art downtown\, with current shows including Forms
+  of Care: The Art of Representing the Body and Roger Wardin's Painting a P
+ arallel World. Visitors 21 and under get in free. $8 adults\; 21 and under
+  free. Details: https://weekendscout.app/e/rochester-mn/rochester-art-cent
+ er-2026-11/
+URL:https://weekendscout.app/e/rochester-mn/rochester-art-center-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:rochester-mn-rochester-art-center-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T070716Z
+DTSTART:20261128T170000Z
+DTEND:20261128T220000Z
+SUMMARY:Rochester Art Center
+LOCATION:Rochester Art Center\, 30 Civic Center Dr SE\, Suite 120\, Roches
+ ter\, MN 55904
+DESCRIPTION:Contemporary art downtown\, with current shows including Forms
+  of Care: The Art of Representing the Body and Roger Wardin's Painting a P
+ arallel World. Visitors 21 and under get in free. $8 adults\; 21 and under
+  free. Details: https://weekendscout.app/e/rochester-mn/rochester-art-cent
+ er-2026-11/
+URL:https://weekendscout.app/e/rochester-mn/rochester-art-center-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:rochester-mn-rochester-art-center-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T070716Z
+DTSTART:20261129T170000Z
+DTEND:20261129T220000Z
+SUMMARY:Rochester Art Center
+LOCATION:Rochester Art Center\, 30 Civic Center Dr SE\, Suite 120\, Roches
+ ter\, MN 55904
+DESCRIPTION:Contemporary art downtown\, with current shows including Forms
+  of Care: The Art of Representing the Body and Roger Wardin's Painting a P
+ arallel World. Visitors 21 and under get in free. $8 adults\; 21 and under
+  free. Details: https://weekendscout.app/e/rochester-mn/rochester-art-cent
+ er-2026-11/
+URL:https://weekendscout.app/e/rochester-mn/rochester-art-center-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:rochester-mn-quarry-hill-park-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T070716Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Quarry Hill Park & Nature Center
+LOCATION:Quarry Hill Park\, 701 Silver Creek Rd NE\, Rochester\, MN 55906
+DESCRIPTION:Free trails\, caves and a nature center\; the park is open daw
+ n to dusk and the free nature center is open Fri–Sat 9 a.m.–4 p.m. and
+  Sun noon–4 p.m. Free. Details: https://weekendscout.app/e/rochester-mn/
+ quarry-hill-park-2026-11/
+URL:https://weekendscout.app/e/rochester-mn/quarry-hill-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:rochester-mn-quarry-hill-park-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T070716Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Quarry Hill Park & Nature Center
+LOCATION:Quarry Hill Park\, 701 Silver Creek Rd NE\, Rochester\, MN 55906
+DESCRIPTION:Free trails\, caves and a nature center\; the park is open daw
+ n to dusk and the free nature center is open Fri–Sat 9 a.m.–4 p.m. and
+  Sun noon–4 p.m. Free. Details: https://weekendscout.app/e/rochester-mn/
+ quarry-hill-park-2026-11/
+URL:https://weekendscout.app/e/rochester-mn/quarry-hill-park-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:rochester-mn-quarry-hill-park-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T070716Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Quarry Hill Park & Nature Center
+LOCATION:Quarry Hill Park\, 701 Silver Creek Rd NE\, Rochester\, MN 55906
+DESCRIPTION:Free trails\, caves and a nature center\; the park is open daw
+ n to dusk and the free nature center is open Fri–Sat 9 a.m.–4 p.m. and
+  Sun noon–4 p.m. Free. Details: https://weekendscout.app/e/rochester-mn/
+ quarry-hill-park-2026-11/
+URL:https://weekendscout.app/e/rochester-mn/quarry-hill-park-2026-11/
 END:VEVENT
 END:VCALENDAR
