@@ -9,74 +9,165 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:boise-downtown-boise-holiday-tree-lighting-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261128T000000Z
-DTEND:20261128T020000Z
+DTEND:20261128T010000Z
 SUMMARY:Downtown Boise Holiday Tree Lighting
-LOCATION:Grove Plaza\, Grove Plaza\, Boise\, ID 83702
-DESCRIPTION:The city’s big tree lights up on the Grove on the night afte
- r Thanksgiving. Free to attend. Details: https://weekendscout.app/e/boise/
- downtown-boise-holiday-tree-lighting-2026-11/
+LOCATION:Grove Plaza\, 827 W Main St\, Boise\, ID 83702
+DESCRIPTION:The Mayor counts down to light the downtown holiday tree\, wit
+ h live music from Red Light Challenge\, a candle-lighting ceremony and gue
+ st speakers. Free. Details: https://weekendscout.app/e/boise/downtown-bois
+ e-holiday-tree-lighting-2026-11/
 URL:https://weekendscout.app/e/boise/downtown-boise-holiday-tree-lighting-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:boise-trans-siberian-orchestra-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261127T213000Z
 DTEND:20261127T233000Z
-SUMMARY:Trans-Siberian Orchestra
+SUMMARY:Trans-Siberian Orchestra: The Ghosts of Christmas Eve
 LOCATION:ExtraMile Arena\, 1401 Bronco Ln\, Boise\, ID 83725
-DESCRIPTION:The rock orchestra’s holiday tour\, matinee and evening show
- s. Tickets. Details: https://weekendscout.app/e/boise/trans-siberian-orche
- stra-2026-11/
+DESCRIPTION:The rock orchestra’s 30th-anniversary holiday tour\, with a 
+ matinee and an evening show. Tickets. Details: https://weekendscout.app/e/
+ boise/trans-siberian-orchestra-2026-11/
 URL:https://weekendscout.app/e/boise/trans-siberian-orchestra-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:boise-trans-siberian-orchestra-2026-11-fri-1@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261128T020000Z
 DTEND:20261128T040000Z
-SUMMARY:Trans-Siberian Orchestra
+SUMMARY:Trans-Siberian Orchestra: The Ghosts of Christmas Eve
 LOCATION:ExtraMile Arena\, 1401 Bronco Ln\, Boise\, ID 83725
-DESCRIPTION:The rock orchestra’s holiday tour\, matinee and evening show
- s. Tickets. Details: https://weekendscout.app/e/boise/trans-siberian-orche
- stra-2026-11/
+DESCRIPTION:The rock orchestra’s 30th-anniversary holiday tour\, with a 
+ matinee and an evening show. Tickets. Details: https://weekendscout.app/e/
+ boise/trans-siberian-orchestra-2026-11/
 URL:https://weekendscout.app/e/boise/trans-siberian-orchestra-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:boise-a-little-princess-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261128T023000Z
 DTEND:20261128T043000Z
 SUMMARY:A Little Princess
 LOCATION:Boise Little Theater\, 100 E Fort St\, Boise\, ID 83702
-DESCRIPTION:The community theater’s family production of the classic sto
- ry. Tickets. Details: https://weekendscout.app/e/boise/a-little-princess-2
- 026-11/
+DESCRIPTION:The community theater’s holiday-season production of the cla
+ ssic story\, running through Dec 19. Tickets. Details: https://weekendscou
+ t.app/e/boise/a-little-princess-2026-11/
 URL:https://weekendscout.app/e/boise/a-little-princess-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:boise-a-little-princess-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261129T023000Z
 DTEND:20261129T043000Z
 SUMMARY:A Little Princess
 LOCATION:Boise Little Theater\, 100 E Fort St\, Boise\, ID 83702
-DESCRIPTION:The community theater’s family production of the classic sto
- ry. Tickets. Details: https://weekendscout.app/e/boise/a-little-princess-2
- 026-11/
+DESCRIPTION:The community theater’s holiday-season production of the cla
+ ssic story\, running through Dec 19. Tickets. Details: https://weekendscou
+ t.app/e/boise/a-little-princess-2026-11/
 URL:https://weekendscout.app/e/boise/a-little-princess-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:boise-a-little-princess-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261129T210000Z
 DTEND:20261129T230000Z
 SUMMARY:A Little Princess
 LOCATION:Boise Little Theater\, 100 E Fort St\, Boise\, ID 83702
-DESCRIPTION:The community theater’s family production of the classic sto
- ry. Tickets. Details: https://weekendscout.app/e/boise/a-little-princess-2
- 026-11/
+DESCRIPTION:The community theater’s holiday-season production of the cla
+ ssic story\, running through Dec 19. Tickets. Details: https://weekendscou
+ t.app/e/boise/a-little-princess-2026-11/
 URL:https://weekendscout.app/e/boise/a-little-princess-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:boise-festival-of-trees-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261127T170000Z
+DTEND:20261128T040000Z
+SUMMARY:Festival of Trees
+LOCATION:Boise Centre\, 850 W Front St\, Boise\, ID 83702
+DESCRIPTION:Saint Alphonsus’ 42nd annual display of decorated trees\, wi
+ th Santa visits\, a LEGO build area\, North Pole Village and a kids’ sca
+ venger hunt\; Saturday is Family Day. $16 adults\, $11 kids 3–12. Detail
+ s: https://weekendscout.app/e/boise/festival-of-trees-2026-11/
+URL:https://weekendscout.app/e/boise/festival-of-trees-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:boise-festival-of-trees-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261128T170000Z
+DTEND:20261129T030000Z
+SUMMARY:Festival of Trees
+LOCATION:Boise Centre\, 850 W Front St\, Boise\, ID 83702
+DESCRIPTION:Saint Alphonsus’ 42nd annual display of decorated trees\, wi
+ th Santa visits\, a LEGO build area\, North Pole Village and a kids’ sca
+ venger hunt\; Saturday is Family Day. $16 adults\, $11 kids 3–12. Detail
+ s: https://weekendscout.app/e/boise/festival-of-trees-2026-11/
+URL:https://weekendscout.app/e/boise/festival-of-trees-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:boise-festival-of-trees-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261129T170000Z
+DTEND:20261130T000000Z
+SUMMARY:Festival of Trees
+LOCATION:Boise Centre\, 850 W Front St\, Boise\, ID 83702
+DESCRIPTION:Saint Alphonsus’ 42nd annual display of decorated trees\, wi
+ th Santa visits\, a LEGO build area\, North Pole Village and a kids’ sca
+ venger hunt\; Saturday is Family Day. $16 adults\, $11 kids 3–12. Detail
+ s: https://weekendscout.app/e/boise/festival-of-trees-2026-11/
+URL:https://weekendscout.app/e/boise/festival-of-trees-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:boise-winter-garden-aglow-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261128T010000Z
+DTEND:20261128T040000Z
+SUMMARY:Winter Garden aGlow
+LOCATION:Idaho Botanical Garden\, 2355 Old Penitentiary Rd\, Boise\, ID 83
+ 712
+DESCRIPTION:The botanical garden’s holiday light show opens Friday and r
+ uns on select nights through Dec 30. Adults $20\; under 3 free. Details: h
+ ttps://weekendscout.app/e/boise/winter-garden-aglow-2026-11/
+URL:https://weekendscout.app/e/boise/winter-garden-aglow-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:boise-winter-garden-aglow-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261129T010000Z
+DTEND:20261129T040000Z
+SUMMARY:Winter Garden aGlow
+LOCATION:Idaho Botanical Garden\, 2355 Old Penitentiary Rd\, Boise\, ID 83
+ 712
+DESCRIPTION:The botanical garden’s holiday light show opens Friday and r
+ uns on select nights through Dec 30. Adults $20\; under 3 free. Details: h
+ ttps://weekendscout.app/e/boise/winter-garden-aglow-2026-11/
+URL:https://weekendscout.app/e/boise/winter-garden-aglow-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:boise-winter-garden-aglow-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261130T000000Z
+DTEND:20261130T030000Z
+SUMMARY:Winter Garden aGlow
+LOCATION:Idaho Botanical Garden\, 2355 Old Penitentiary Rd\, Boise\, ID 83
+ 712
+DESCRIPTION:The botanical garden’s holiday light show opens Friday and r
+ uns on select nights through Dec 30. Adults $20\; under 3 free. Details: h
+ ttps://weekendscout.app/e/boise/winter-garden-aglow-2026-11/
+URL:https://weekendscout.app/e/boise/winter-garden-aglow-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:boise-capital-city-public-market-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261128T163000Z
+DTEND:20261128T203000Z
+SUMMARY:Capital City Public Market
+LOCATION:Grove Plaza\, 827 W Main St\, Boise\, ID 83702
+DESCRIPTION:Downtown’s Saturday market with local food\, produce and mak
+ ers\, on Small Business Saturday. Free. Details: https://weekendscout.app/
+ e/boise/capital-city-public-market-2026-11/
+URL:https://weekendscout.app/e/boise/capital-city-public-market-2026-11/
 END:VEVENT
 END:VCALENDAR

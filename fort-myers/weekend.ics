@@ -8,98 +8,117 @@ X-WR-CALDESC:Hand-checked weekend picks in Fort Myers, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:fort-myers-small-business-saturday-in-the-river-district-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T005952Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Small Business Saturday in the River District
-LOCATION:Downtown Fort Myers River District\, First St\, Fort Myers\, FL 3
- 3901
-DESCRIPTION:Shop the local boutiques and cafés of the brick-street River 
- District on Small Business Saturday. Free to browse. Details: https://week
- endscout.app/e/fort-myers/small-business-saturday-in-the-river-district-20
- 26-11/
-URL:https://weekendscout.app/e/fort-myers/small-business-saturday-in-the-river-district-2026-11/
-END:VEVENT
-BEGIN:VEVENT
 UID:fort-myers-edison-ford-holiday-nights-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261127T223000Z
 DTEND:20261128T020000Z
 SUMMARY:Edison & Ford Holiday Nights
 LOCATION:Edison and Ford Winter Estates\, 2350 McGregor Blvd\, Fort Myers\
  , FL 33901
-DESCRIPTION:Opening weekend of the 50-plus-year tradition: the winter home
- s of Thomas Edison and Henry Ford lit up for the holidays\, with a tree li
- ghting on Friday. $23 adults\, $3–$13 kids. Details: https://weekendscou
- t.app/e/fort-myers/edison-ford-holiday-nights-2026-11/
+DESCRIPTION:The 51st annual Holiday Nights opens at the winter homes of Th
+ omas Edison and Henry Ford\, glowing with thousands of lights and historic
+  decorations. Opening night Friday includes a tree lighting at 6 p.m. $23 
+ adults\, $13 teens\, $3 ages 6–12\; 5 and under free. Details: https://w
+ eekendscout.app/e/fort-myers/edison-ford-holiday-nights-2026-11/
 URL:https://weekendscout.app/e/fort-myers/edison-ford-holiday-nights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fort-myers-edison-ford-holiday-nights-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261128T223000Z
 DTEND:20261129T020000Z
 SUMMARY:Edison & Ford Holiday Nights
 LOCATION:Edison and Ford Winter Estates\, 2350 McGregor Blvd\, Fort Myers\
  , FL 33901
-DESCRIPTION:Opening weekend of the 50-plus-year tradition: the winter home
- s of Thomas Edison and Henry Ford lit up for the holidays\, with a tree li
- ghting on Friday. $23 adults\, $3–$13 kids. Details: https://weekendscou
- t.app/e/fort-myers/edison-ford-holiday-nights-2026-11/
+DESCRIPTION:The 51st annual Holiday Nights opens at the winter homes of Th
+ omas Edison and Henry Ford\, glowing with thousands of lights and historic
+  decorations. Opening night Friday includes a tree lighting at 6 p.m. $23 
+ adults\, $13 teens\, $3 ages 6–12\; 5 and under free. Details: https://w
+ eekendscout.app/e/fort-myers/edison-ford-holiday-nights-2026-11/
 URL:https://weekendscout.app/e/fort-myers/edison-ford-holiday-nights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fort-myers-edison-ford-holiday-nights-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261129T223000Z
 DTEND:20261130T020000Z
 SUMMARY:Edison & Ford Holiday Nights
 LOCATION:Edison and Ford Winter Estates\, 2350 McGregor Blvd\, Fort Myers\
  , FL 33901
-DESCRIPTION:Opening weekend of the 50-plus-year tradition: the winter home
- s of Thomas Edison and Henry Ford lit up for the holidays\, with a tree li
- ghting on Friday. $23 adults\, $3–$13 kids. Details: https://weekendscou
- t.app/e/fort-myers/edison-ford-holiday-nights-2026-11/
+DESCRIPTION:The 51st annual Holiday Nights opens at the winter homes of Th
+ omas Edison and Henry Ford\, glowing with thousands of lights and historic
+  decorations. Opening night Friday includes a tree lighting at 6 p.m. $23 
+ adults\, $13 teens\, $3 ages 6–12\; 5 and under free. Details: https://w
+ eekendscout.app/e/fort-myers/edison-ford-holiday-nights-2026-11/
 URL:https://weekendscout.app/e/fort-myers/edison-ford-holiday-nights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fort-myers-a-magical-motown-christmas-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261128T003000Z
 DTEND:20261128T023000Z
 SUMMARY:A Magical Motown Christmas
 LOCATION:Barbara B. Mann Performing Arts Hall\, 13350 FSW Pkwy\, Fort Myer
  s\, FL 33919
-DESCRIPTION:Motown hits and holiday classics. Tickets. Details: https://we
- ekendscout.app/e/fort-myers/a-magical-motown-christmas-2026-11/
+DESCRIPTION:A holiday concert of Motown hits from the Temptations\, the Ja
+ ckson Five\, the Supremes\, Marvin Gaye\, Stevie Wonder and Smokey Robinso
+ n. From $60.73. Details: https://weekendscout.app/e/fort-myers/a-magical-m
+ otown-christmas-2026-11/
 URL:https://weekendscout.app/e/fort-myers/a-magical-motown-christmas-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fort-myers-the-rock-orchestra-by-candlelight-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261129T010000Z
 DTEND:20261129T030000Z
 SUMMARY:The Rock Orchestra by Candlelight
 LOCATION:Barbara B. Mann Performing Arts Hall\, 13350 FSW Pkwy\, Fort Myer
  s\, FL 33919
-DESCRIPTION:Rock classics played by an orchestra in candlelight. Tickets. 
- Details: https://weekendscout.app/e/fort-myers/the-rock-orchestra-by-candl
- elight-2026-11/
+DESCRIPTION:A 14-member classical ensemble plays rock and metal hits by Me
+ tallica\, AC/DC\, Guns N' Roses and Linkin Park in a candlelit 90-minute s
+ how. From $58.60. Details: https://weekendscout.app/e/fort-myers/the-rock-
+ orchestra-by-candlelight-2026-11/
 URL:https://weekendscout.app/e/fort-myers/the-rock-orchestra-by-candlelight-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fort-myers-a-j-croce-croce-plays-croce-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261130T010000Z
 DTEND:20261130T030000Z
-SUMMARY:A.J. Croce: Croce Plays Croce
+SUMMARY:A.J. Croce Presents Croce Plays Croce
 LOCATION:Barbara B. Mann Performing Arts Hall\, 13350 FSW Pkwy\, Fort Myer
  s\, FL 33919
-DESCRIPTION:Jim Croce’s son plays his father’s songs and his own. Tick
- ets. Details: https://weekendscout.app/e/fort-myers/a-j-croce-croce-plays-
- croce-2026-11/
+DESCRIPTION:A.J. Croce mixes his father Jim Croce's songs\, like "Operator
+ " and "Time in a Bottle\," with his own music and stories. From $51.48. De
+ tails: https://weekendscout.app/e/fort-myers/a-j-croce-croce-plays-croce-2
+ 026-11/
 URL:https://weekendscout.app/e/fort-myers/a-j-croce-croce-plays-croce-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fort-myers-fgcu-womens-basketball-vs-tennessee-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261127T233000Z
+DTEND:20261128T013000Z
+SUMMARY:FGCU Women's Basketball vs. Tennessee
+LOCATION:Alico Arena\, FGCU Lake Pkwy E\, Fort Myers\, FL 33965
+DESCRIPTION:The FGCU Eagles host the Tennessee Lady Vols on Black Friday n
+ ight at Alico Arena. Check ticket prices. Details: https://weekendscout.ap
+ p/e/fort-myers/fgcu-womens-basketball-vs-tennessee-2026-11/
+URL:https://weekendscout.app/e/fort-myers/fgcu-womens-basketball-vs-tennessee-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fort-myers-six-mile-cypress-slough-guided-walk-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261128T143000Z
+DTEND:20261128T151500Z
+SUMMARY:Guided Boardwalk Walk at Six Mile Cypress Slough
+LOCATION:Six Mile Cypress Slough Preserve\, 7791 Penzance Blvd\, Fort Myer
+ s\, FL 33912
+DESCRIPTION:A free 45-minute guided walk along the preserve's 1.2-mile boa
+ rdwalk through a cypress wetland\, held on the fourth Saturday. Registrati
+ on opens 30 minutes before at the Trail Host Station\; groups are limited 
+ to 10 per guide. Free (parking $1/hour\, $5/day max). Details: https://wee
+ kendscout.app/e/fort-myers/six-mile-cypress-slough-guided-walk-2026-11/
+URL:https://weekendscout.app/e/fort-myers/six-mile-cypress-slough-guided-walk-2026-11/
 END:VEVENT
 END:VCALENDAR

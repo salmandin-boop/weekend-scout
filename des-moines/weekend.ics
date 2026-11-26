@@ -8,173 +8,333 @@ X-WR-CALDESC:Hand-checked weekend picks in Des Moines, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
+UID:des-moines-disney-on-ice-find-your-hero-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261127T170000Z
+DTEND:20261127T190000Z
+SUMMARY:Disney On Ice: Find Your Hero
+LOCATION:Casey’s Center\, 233 Center St\, Des Moines\, IA 50309
+DESCRIPTION:Disney characters on skates in Find Your Hero\, with eight sho
+ ws Friday through Sunday. Tickets. Details: https://weekendscout.app/e/des
+ -moines/disney-on-ice-find-your-hero-2026-11/
+URL:https://weekendscout.app/e/des-moines/disney-on-ice-find-your-hero-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:des-moines-disney-on-ice-find-your-hero-2026-11-fri-1@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261127T210000Z
+DTEND:20261127T230000Z
+SUMMARY:Disney On Ice: Find Your Hero
+LOCATION:Casey’s Center\, 233 Center St\, Des Moines\, IA 50309
+DESCRIPTION:Disney characters on skates in Find Your Hero\, with eight sho
+ ws Friday through Sunday. Tickets. Details: https://weekendscout.app/e/des
+ -moines/disney-on-ice-find-your-hero-2026-11/
+URL:https://weekendscout.app/e/des-moines/disney-on-ice-find-your-hero-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:des-moines-disney-on-ice-find-your-hero-2026-11-fri-2@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261128T010000Z
+DTEND:20261128T030000Z
+SUMMARY:Disney On Ice: Find Your Hero
+LOCATION:Casey’s Center\, 233 Center St\, Des Moines\, IA 50309
+DESCRIPTION:Disney characters on skates in Find Your Hero\, with eight sho
+ ws Friday through Sunday. Tickets. Details: https://weekendscout.app/e/des
+ -moines/disney-on-ice-find-your-hero-2026-11/
+URL:https://weekendscout.app/e/des-moines/disney-on-ice-find-your-hero-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:des-moines-disney-on-ice-find-your-hero-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261128T170000Z
+DTEND:20261128T190000Z
+SUMMARY:Disney On Ice: Find Your Hero
+LOCATION:Casey’s Center\, 233 Center St\, Des Moines\, IA 50309
+DESCRIPTION:Disney characters on skates in Find Your Hero\, with eight sho
+ ws Friday through Sunday. Tickets. Details: https://weekendscout.app/e/des
+ -moines/disney-on-ice-find-your-hero-2026-11/
+URL:https://weekendscout.app/e/des-moines/disney-on-ice-find-your-hero-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:des-moines-disney-on-ice-find-your-hero-2026-11-sat-1@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261128T210000Z
+DTEND:20261128T230000Z
+SUMMARY:Disney On Ice: Find Your Hero
+LOCATION:Casey’s Center\, 233 Center St\, Des Moines\, IA 50309
+DESCRIPTION:Disney characters on skates in Find Your Hero\, with eight sho
+ ws Friday through Sunday. Tickets. Details: https://weekendscout.app/e/des
+ -moines/disney-on-ice-find-your-hero-2026-11/
+URL:https://weekendscout.app/e/des-moines/disney-on-ice-find-your-hero-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:des-moines-disney-on-ice-find-your-hero-2026-11-sat-2@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:Disney On Ice: Find Your Hero
+LOCATION:Casey’s Center\, 233 Center St\, Des Moines\, IA 50309
+DESCRIPTION:Disney characters on skates in Find Your Hero\, with eight sho
+ ws Friday through Sunday. Tickets. Details: https://weekendscout.app/e/des
+ -moines/disney-on-ice-find-your-hero-2026-11/
+URL:https://weekendscout.app/e/des-moines/disney-on-ice-find-your-hero-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:des-moines-disney-on-ice-find-your-hero-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261129T190000Z
+DTEND:20261129T210000Z
+SUMMARY:Disney On Ice: Find Your Hero
+LOCATION:Casey’s Center\, 233 Center St\, Des Moines\, IA 50309
+DESCRIPTION:Disney characters on skates in Find Your Hero\, with eight sho
+ ws Friday through Sunday. Tickets. Details: https://weekendscout.app/e/des
+ -moines/disney-on-ice-find-your-hero-2026-11/
+URL:https://weekendscout.app/e/des-moines/disney-on-ice-find-your-hero-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:des-moines-disney-on-ice-find-your-hero-2026-11-sun-1@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261129T230000Z
+DTEND:20261130T010000Z
+SUMMARY:Disney On Ice: Find Your Hero
+LOCATION:Casey’s Center\, 233 Center St\, Des Moines\, IA 50309
+DESCRIPTION:Disney characters on skates in Find Your Hero\, with eight sho
+ ws Friday through Sunday. Tickets. Details: https://weekendscout.app/e/des
+ -moines/disney-on-ice-find-your-hero-2026-11/
+URL:https://weekendscout.app/e/des-moines/disney-on-ice-find-your-hero-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:des-moines-an-irving-berlin-white-christmas-revue-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261128T013000Z
+DTEND:20261128T033000Z
+SUMMARY:An Irving Berlin White Christmas Revue
+LOCATION:The Ingersoll\, 3711 Ingersoll Ave\, Des Moines\, IA 50312
+DESCRIPTION:A stage revue of Irving Berlin holiday songs\, with shows Frid
+ ay night and a matinee and evening show Saturday. Tickets. Details: https:
+ //weekendscout.app/e/des-moines/an-irving-berlin-white-christmas-revue-202
+ 6-11/
+URL:https://weekendscout.app/e/des-moines/an-irving-berlin-white-christmas-revue-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:des-moines-an-irving-berlin-white-christmas-revue-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261128T200000Z
+DTEND:20261128T220000Z
+SUMMARY:An Irving Berlin White Christmas Revue
+LOCATION:The Ingersoll\, 3711 Ingersoll Ave\, Des Moines\, IA 50312
+DESCRIPTION:A stage revue of Irving Berlin holiday songs\, with shows Frid
+ ay night and a matinee and evening show Saturday. Tickets. Details: https:
+ //weekendscout.app/e/des-moines/an-irving-berlin-white-christmas-revue-202
+ 6-11/
+URL:https://weekendscout.app/e/des-moines/an-irving-berlin-white-christmas-revue-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:des-moines-an-irving-berlin-white-christmas-revue-2026-11-sat-1@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261129T013000Z
+DTEND:20261129T033000Z
+SUMMARY:An Irving Berlin White Christmas Revue
+LOCATION:The Ingersoll\, 3711 Ingersoll Ave\, Des Moines\, IA 50312
+DESCRIPTION:A stage revue of Irving Berlin holiday songs\, with shows Frid
+ ay night and a matinee and evening show Saturday. Tickets. Details: https:
+ //weekendscout.app/e/des-moines/an-irving-berlin-white-christmas-revue-202
+ 6-11/
+URL:https://weekendscout.app/e/des-moines/an-irving-berlin-white-christmas-revue-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:des-moines-festival-of-trees-lights-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261127T170000Z
+DTEND:20261127T190000Z
+SUMMARY:Festival of Trees & Lights
+LOCATION:Community Choice Convention Center\, 730 3rd St\, Des Moines\, IA
+  50309
+DESCRIPTION:Decorated holiday trees and light displays at the Iowa Events 
+ Center\; admission includes children's activities and ages 2 and under are
+  free. $10. Details: https://weekendscout.app/e/des-moines/festival-of-tre
+ es-lights-2026-11/
+URL:https://weekendscout.app/e/des-moines/festival-of-trees-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:des-moines-festival-of-trees-lights-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261128T170000Z
+DTEND:20261128T190000Z
+SUMMARY:Festival of Trees & Lights
+LOCATION:Community Choice Convention Center\, 730 3rd St\, Des Moines\, IA
+  50309
+DESCRIPTION:Decorated holiday trees and light displays at the Iowa Events 
+ Center\; admission includes children's activities and ages 2 and under are
+  free. $10. Details: https://weekendscout.app/e/des-moines/festival-of-tre
+ es-lights-2026-11/
+URL:https://weekendscout.app/e/des-moines/festival-of-trees-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:des-moines-festival-of-trees-lights-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261129T170000Z
+DTEND:20261129T190000Z
+SUMMARY:Festival of Trees & Lights
+LOCATION:Community Choice Convention Center\, 730 3rd St\, Des Moines\, IA
+  50309
+DESCRIPTION:Decorated holiday trees and light displays at the Iowa Events 
+ Center\; admission includes children's activities and ages 2 and under are
+  free. $10. Details: https://weekendscout.app/e/des-moines/festival-of-tre
+ es-lights-2026-11/
+URL:https://weekendscout.app/e/des-moines/festival-of-trees-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:des-moines-holiday-promenade-east-village-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261127T230000Z
+DTEND:20261128T020000Z
+SUMMARY:Holiday Promenade
+LOCATION:Historic East Village\, E Locust St\, Des Moines\, IA 50309
+DESCRIPTION:Friday-evening holiday stroll in the Historic East Village wit
+ h street carolers\, live music\, free trolley rides and shops open late. F
+ ree. Details: https://weekendscout.app/e/des-moines/holiday-promenade-east
+ -village-2026-11/
+URL:https://weekendscout.app/e/des-moines/holiday-promenade-east-village-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:des-moines-jolly-holiday-lights-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261127T233000Z
+DTEND:20261128T040000Z
+SUMMARY:Jolly Holiday Lights
+LOCATION:Iowa State Fairgrounds\, E 30th St & E Grand Ave\, Des Moines\, I
+ A 50317
+DESCRIPTION:A nightly holiday light show at the Iowa State Fairgrounds cam
+ pgrounds\, running through Jan. 3. Check ticket prices. Details: https://w
+ eekendscout.app/e/des-moines/jolly-holiday-lights-2026-11/
+URL:https://weekendscout.app/e/des-moines/jolly-holiday-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:des-moines-jolly-holiday-lights-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261128T233000Z
+DTEND:20261129T040000Z
+SUMMARY:Jolly Holiday Lights
+LOCATION:Iowa State Fairgrounds\, E 30th St & E Grand Ave\, Des Moines\, I
+ A 50317
+DESCRIPTION:A nightly holiday light show at the Iowa State Fairgrounds cam
+ pgrounds\, running through Jan. 3. Check ticket prices. Details: https://w
+ eekendscout.app/e/des-moines/jolly-holiday-lights-2026-11/
+URL:https://weekendscout.app/e/des-moines/jolly-holiday-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:des-moines-jolly-holiday-lights-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261129T233000Z
+DTEND:20261130T030000Z
+SUMMARY:Jolly Holiday Lights
+LOCATION:Iowa State Fairgrounds\, E 30th St & E Grand Ave\, Des Moines\, I
+ A 50317
+DESCRIPTION:A nightly holiday light show at the Iowa State Fairgrounds cam
+ pgrounds\, running through Jan. 3. Check ticket prices. Details: https://w
+ eekendscout.app/e/des-moines/jolly-holiday-lights-2026-11/
+URL:https://weekendscout.app/e/des-moines/jolly-holiday-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:des-moines-drake-classic-womens-basketball-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Drake Classic: Drake Women's Basketball
+LOCATION:Knapp Center\, 2601 Forest Ave\, Des Moines\, IA 50311
+DESCRIPTION:The Drake Bulldogs host Saint Louis on Friday and Detroit Merc
+ y on Saturday in the Drake Classic. Check ticket prices. Details: https://
+ weekendscout.app/e/des-moines/drake-classic-womens-basketball-2026-11/
+URL:https://weekendscout.app/e/des-moines/drake-classic-womens-basketball-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:des-moines-drake-classic-womens-basketball-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Drake Classic: Drake Women's Basketball
+LOCATION:Knapp Center\, 2601 Forest Ave\, Des Moines\, IA 50311
+DESCRIPTION:The Drake Bulldogs host Saint Louis on Friday and Detroit Merc
+ y on Saturday in the Drake Classic. Check ticket prices. Details: https://
+ weekendscout.app/e/des-moines/drake-classic-womens-basketball-2026-11/
+URL:https://weekendscout.app/e/des-moines/drake-classic-womens-basketball-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:des-moines-des-moines-art-center-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261127T160000Z
+DTEND:20261128T010000Z
+SUMMARY:Des Moines Art Center
+LOCATION:Des Moines Art Center\, 4700 Grand Ave\, Des Moines\, IA 50312
+DESCRIPTION:The city's art museum\, with free admission and regular hours 
+ Friday through Sunday after the Thanksgiving closure. Free. Details: https
+ ://weekendscout.app/e/des-moines/des-moines-art-center-2026-11/
+URL:https://weekendscout.app/e/des-moines/des-moines-art-center-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:des-moines-des-moines-art-center-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261128T160000Z
+DTEND:20261128T230000Z
+SUMMARY:Des Moines Art Center
+LOCATION:Des Moines Art Center\, 4700 Grand Ave\, Des Moines\, IA 50312
+DESCRIPTION:The city's art museum\, with free admission and regular hours 
+ Friday through Sunday after the Thanksgiving closure. Free. Details: https
+ ://weekendscout.app/e/des-moines/des-moines-art-center-2026-11/
+URL:https://weekendscout.app/e/des-moines/des-moines-art-center-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:des-moines-des-moines-art-center-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261129T160000Z
+DTEND:20261129T230000Z
+SUMMARY:Des Moines Art Center
+LOCATION:Des Moines Art Center\, 4700 Grand Ave\, Des Moines\, IA 50312
+DESCRIPTION:The city's art museum\, with free admission and regular hours 
+ Friday through Sunday after the Thanksgiving closure. Free. Details: https
+ ://weekendscout.app/e/des-moines/des-moines-art-center-2026-11/
+URL:https://weekendscout.app/e/des-moines/des-moines-art-center-2026-11/
+END:VEVENT
+BEGIN:VEVENT
 UID:des-moines-pappajohn-sculpture-park-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
 SUMMARY:Pappajohn Sculpture Park
 LOCATION:Pappajohn Sculpture Park\, 1330 Grand Ave\, Des Moines\, IA 50309
-DESCRIPTION:Two dozen major outdoor sculptures downtown\, open every day. 
- Free. Details: https://weekendscout.app/e/des-moines/pappajohn-sculpture-p
- ark-2026-11/
+DESCRIPTION:Dozens of monumental sculptures by more than two dozen artists
+  downtown\, open sunrise to midnight. Free. Details: https://weekendscout.
+ app/e/des-moines/pappajohn-sculpture-park-2026-11/
 URL:https://weekendscout.app/e/des-moines/pappajohn-sculpture-park-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:des-moines-pappajohn-sculpture-park-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
 SUMMARY:Pappajohn Sculpture Park
 LOCATION:Pappajohn Sculpture Park\, 1330 Grand Ave\, Des Moines\, IA 50309
-DESCRIPTION:Two dozen major outdoor sculptures downtown\, open every day. 
- Free. Details: https://weekendscout.app/e/des-moines/pappajohn-sculpture-p
- ark-2026-11/
+DESCRIPTION:Dozens of monumental sculptures by more than two dozen artists
+  downtown\, open sunrise to midnight. Free. Details: https://weekendscout.
+ app/e/des-moines/pappajohn-sculpture-park-2026-11/
 URL:https://weekendscout.app/e/des-moines/pappajohn-sculpture-park-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:des-moines-pappajohn-sculpture-park-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
 SUMMARY:Pappajohn Sculpture Park
 LOCATION:Pappajohn Sculpture Park\, 1330 Grand Ave\, Des Moines\, IA 50309
-DESCRIPTION:Two dozen major outdoor sculptures downtown\, open every day. 
- Free. Details: https://weekendscout.app/e/des-moines/pappajohn-sculpture-p
- ark-2026-11/
+DESCRIPTION:Dozens of monumental sculptures by more than two dozen artists
+  downtown\, open sunrise to midnight. Free. Details: https://weekendscout.
+ app/e/des-moines/pappajohn-sculpture-park-2026-11/
 URL:https://weekendscout.app/e/des-moines/pappajohn-sculpture-park-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:des-moines-disney-on-ice-find-your-hero-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T005952Z
-DTSTART:20261127T170000Z
-DTEND:20261127T190000Z
-SUMMARY:Disney On Ice: Find Your Hero
-LOCATION:Casey’s Center\, 233 Center St\, Des Moines\, IA 50309
-DESCRIPTION:Disney characters on skates\, eight shows this weekend. Ticket
- s. Details: https://weekendscout.app/e/des-moines/disney-on-ice-find-your-
- hero-2026-11/
-URL:https://weekendscout.app/e/des-moines/disney-on-ice-find-your-hero-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:des-moines-disney-on-ice-find-your-hero-2026-11-fri-1@weekendscout.app
-DTSTAMP:20261126T005952Z
-DTSTART:20261127T210000Z
-DTEND:20261127T230000Z
-SUMMARY:Disney On Ice: Find Your Hero
-LOCATION:Casey’s Center\, 233 Center St\, Des Moines\, IA 50309
-DESCRIPTION:Disney characters on skates\, eight shows this weekend. Ticket
- s. Details: https://weekendscout.app/e/des-moines/disney-on-ice-find-your-
- hero-2026-11/
-URL:https://weekendscout.app/e/des-moines/disney-on-ice-find-your-hero-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:des-moines-disney-on-ice-find-your-hero-2026-11-fri-2@weekendscout.app
-DTSTAMP:20261126T005952Z
-DTSTART:20261128T010000Z
-DTEND:20261128T030000Z
-SUMMARY:Disney On Ice: Find Your Hero
-LOCATION:Casey’s Center\, 233 Center St\, Des Moines\, IA 50309
-DESCRIPTION:Disney characters on skates\, eight shows this weekend. Ticket
- s. Details: https://weekendscout.app/e/des-moines/disney-on-ice-find-your-
- hero-2026-11/
-URL:https://weekendscout.app/e/des-moines/disney-on-ice-find-your-hero-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:des-moines-disney-on-ice-find-your-hero-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T005952Z
-DTSTART:20261128T170000Z
-DTEND:20261128T190000Z
-SUMMARY:Disney On Ice: Find Your Hero
-LOCATION:Casey’s Center\, 233 Center St\, Des Moines\, IA 50309
-DESCRIPTION:Disney characters on skates\, eight shows this weekend. Ticket
- s. Details: https://weekendscout.app/e/des-moines/disney-on-ice-find-your-
- hero-2026-11/
-URL:https://weekendscout.app/e/des-moines/disney-on-ice-find-your-hero-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:des-moines-disney-on-ice-find-your-hero-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261126T005952Z
-DTSTART:20261128T210000Z
-DTEND:20261128T230000Z
-SUMMARY:Disney On Ice: Find Your Hero
-LOCATION:Casey’s Center\, 233 Center St\, Des Moines\, IA 50309
-DESCRIPTION:Disney characters on skates\, eight shows this weekend. Ticket
- s. Details: https://weekendscout.app/e/des-moines/disney-on-ice-find-your-
- hero-2026-11/
-URL:https://weekendscout.app/e/des-moines/disney-on-ice-find-your-hero-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:des-moines-disney-on-ice-find-your-hero-2026-11-sat-2@weekendscout.app
-DTSTAMP:20261126T005952Z
-DTSTART:20261129T010000Z
-DTEND:20261129T030000Z
-SUMMARY:Disney On Ice: Find Your Hero
-LOCATION:Casey’s Center\, 233 Center St\, Des Moines\, IA 50309
-DESCRIPTION:Disney characters on skates\, eight shows this weekend. Ticket
- s. Details: https://weekendscout.app/e/des-moines/disney-on-ice-find-your-
- hero-2026-11/
-URL:https://weekendscout.app/e/des-moines/disney-on-ice-find-your-hero-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:des-moines-disney-on-ice-find-your-hero-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T005952Z
-DTSTART:20261129T190000Z
-DTEND:20261129T210000Z
-SUMMARY:Disney On Ice: Find Your Hero
-LOCATION:Casey’s Center\, 233 Center St\, Des Moines\, IA 50309
-DESCRIPTION:Disney characters on skates\, eight shows this weekend. Ticket
- s. Details: https://weekendscout.app/e/des-moines/disney-on-ice-find-your-
- hero-2026-11/
-URL:https://weekendscout.app/e/des-moines/disney-on-ice-find-your-hero-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:des-moines-disney-on-ice-find-your-hero-2026-11-sun-1@weekendscout.app
-DTSTAMP:20261126T005952Z
-DTSTART:20261129T230000Z
-DTEND:20261130T010000Z
-SUMMARY:Disney On Ice: Find Your Hero
-LOCATION:Casey’s Center\, 233 Center St\, Des Moines\, IA 50309
-DESCRIPTION:Disney characters on skates\, eight shows this weekend. Ticket
- s. Details: https://weekendscout.app/e/des-moines/disney-on-ice-find-your-
- hero-2026-11/
-URL:https://weekendscout.app/e/des-moines/disney-on-ice-find-your-hero-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:des-moines-an-irving-berlin-white-christmas-revue-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T005952Z
-DTSTART:20261128T200000Z
-DTEND:20261128T220000Z
-SUMMARY:An Irving Berlin White Christmas Revue
-LOCATION:The Ingersoll\, 3711 Ingersoll Ave\, Des Moines\, IA 50312
-DESCRIPTION:Irving Berlin holiday songs on stage\, two shows Saturday. Tic
- kets. Details: https://weekendscout.app/e/des-moines/an-irving-berlin-whit
- e-christmas-revue-2026-11/
-URL:https://weekendscout.app/e/des-moines/an-irving-berlin-white-christmas-revue-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:des-moines-an-irving-berlin-white-christmas-revue-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261126T005952Z
-DTSTART:20261129T013000Z
-DTEND:20261129T033000Z
-SUMMARY:An Irving Berlin White Christmas Revue
-LOCATION:The Ingersoll\, 3711 Ingersoll Ave\, Des Moines\, IA 50312
-DESCRIPTION:Irving Berlin holiday songs on stage\, two shows Saturday. Tic
- kets. Details: https://weekendscout.app/e/des-moines/an-irving-berlin-whit
- e-christmas-revue-2026-11/
-URL:https://weekendscout.app/e/des-moines/an-irving-berlin-white-christmas-revue-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:des-moines-release-pearl-jam-tribute-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T005952Z
-DTSTART:20261129T020000Z
-DTEND:20261129T040000Z
-SUMMARY:Release: Pearl Jam Tribute
-LOCATION:Wooly’s\, 504 E Locust St\, Des Moines\, IA 50309
-DESCRIPTION:A Pearl Jam tribute in the East Village. Tickets. Details: htt
- ps://weekendscout.app/e/des-moines/release-pearl-jam-tribute-2026-11/
-URL:https://weekendscout.app/e/des-moines/release-pearl-jam-tribute-2026-11/
 END:VEVENT
 END:VCALENDAR

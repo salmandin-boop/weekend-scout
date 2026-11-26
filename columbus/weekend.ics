@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:columbus-ohio-state-vs-michigan-sat-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261128T170000Z
 DTEND:20261128T190000Z
 SUMMARY:The Game: Ohio State vs. Michigan
@@ -21,7 +21,7 @@ URL:https://weekendscout.app/e/columbus/ohio-state-vs-michigan/
 END:VEVENT
 BEGIN:VEVENT
 UID:columbus-blue-jackets-vs-red-wings-fri-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261127T200000Z
 DTEND:20261127T220000Z
 SUMMARY:Blue Jackets vs. Detroit Red Wings
@@ -33,7 +33,7 @@ URL:https://weekendscout.app/e/columbus/blue-jackets-vs-red-wings/
 END:VEVENT
 BEGIN:VEVENT
 UID:columbus-capa-a-christmas-carol-fri-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261127T190000Z
 DTEND:20261127T210000Z
 SUMMARY:A Christmas Carol
@@ -45,7 +45,7 @@ URL:https://weekendscout.app/e/columbus/capa-a-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:columbus-capa-a-christmas-carol-fri-1@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261128T003000Z
 DTEND:20261128T023000Z
 SUMMARY:A Christmas Carol
@@ -57,7 +57,7 @@ URL:https://weekendscout.app/e/columbus/capa-a-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:columbus-capa-a-christmas-carol-sat-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261129T003000Z
 DTEND:20261129T023000Z
 SUMMARY:A Christmas Carol
@@ -69,7 +69,7 @@ URL:https://weekendscout.app/e/columbus/capa-a-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:columbus-capa-a-christmas-carol-sun-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261129T190000Z
 DTEND:20261129T210000Z
 SUMMARY:A Christmas Carol
@@ -81,7 +81,7 @@ URL:https://weekendscout.app/e/columbus/capa-a-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:columbus-columbus-zoo-wildlights-fri-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261127T220000Z
 DTEND:20261128T030000Z
 SUMMARY:Wildlights
@@ -93,7 +93,7 @@ URL:https://weekendscout.app/e/columbus/columbus-zoo-wildlights/
 END:VEVENT
 BEGIN:VEVENT
 UID:columbus-columbus-zoo-wildlights-sat-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261128T220000Z
 DTEND:20261129T030000Z
 SUMMARY:Wildlights
@@ -105,7 +105,7 @@ URL:https://weekendscout.app/e/columbus/columbus-zoo-wildlights/
 END:VEVENT
 BEGIN:VEVENT
 UID:columbus-columbus-zoo-wildlights-sun-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261129T220000Z
 DTEND:20261130T020000Z
 SUMMARY:Wildlights
@@ -117,7 +117,7 @@ URL:https://weekendscout.app/e/columbus/columbus-zoo-wildlights/
 END:VEVENT
 BEGIN:VEVENT
 UID:columbus-wanderlights-downtown-fri-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261127T220000Z
 DTEND:20261128T030000Z
 SUMMARY:Wanderlights
@@ -130,7 +130,7 @@ URL:https://weekendscout.app/e/columbus/wanderlights-downtown/
 END:VEVENT
 BEGIN:VEVENT
 UID:columbus-wanderlights-downtown-sat-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261128T220000Z
 DTEND:20261129T030000Z
 SUMMARY:Wanderlights
@@ -143,7 +143,7 @@ URL:https://weekendscout.app/e/columbus/wanderlights-downtown/
 END:VEVENT
 BEGIN:VEVENT
 UID:columbus-wanderlights-downtown-sun-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261129T220000Z
 DTEND:20261130T030000Z
 SUMMARY:Wanderlights
@@ -156,7 +156,7 @@ URL:https://weekendscout.app/e/columbus/wanderlights-downtown/
 END:VEVENT
 BEGIN:VEVENT
 UID:columbus-christkindlmarkt-dublin-fri-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261127T170000Z
 DTEND:20261128T020000Z
 SUMMARY:Christkindlmarkt Dublin
@@ -168,7 +168,7 @@ URL:https://weekendscout.app/e/columbus/christkindlmarkt-dublin/
 END:VEVENT
 BEGIN:VEVENT
 UID:columbus-christkindlmarkt-dublin-sat-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261128T170000Z
 DTEND:20261129T020000Z
 SUMMARY:Christkindlmarkt Dublin
@@ -180,7 +180,7 @@ URL:https://weekendscout.app/e/columbus/christkindlmarkt-dublin/
 END:VEVENT
 BEGIN:VEVENT
 UID:columbus-christkindlmarkt-dublin-sun-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261129T170000Z
 DTEND:20261130T010000Z
 SUMMARY:Christkindlmarkt Dublin
@@ -192,7 +192,7 @@ URL:https://weekendscout.app/e/columbus/christkindlmarkt-dublin/
 END:VEVENT
 BEGIN:VEVENT
 UID:columbus-desi-banks-funny-bone-fri-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261128T000000Z
 DTEND:20261128T020000Z
 SUMMARY:Desi Banks: Your Favorite Cousin Tour
@@ -205,7 +205,7 @@ URL:https://weekendscout.app/e/columbus/desi-banks-funny-bone/
 END:VEVENT
 BEGIN:VEVENT
 UID:columbus-desi-banks-funny-bone-fri-1@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261128T024500Z
 DTEND:20261128T044500Z
 SUMMARY:Desi Banks: Your Favorite Cousin Tour
@@ -218,7 +218,7 @@ URL:https://weekendscout.app/e/columbus/desi-banks-funny-bone/
 END:VEVENT
 BEGIN:VEVENT
 UID:columbus-desi-banks-funny-bone-sat-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261128T233000Z
 DTEND:20261129T013000Z
 SUMMARY:Desi Banks: Your Favorite Cousin Tour
@@ -231,7 +231,7 @@ URL:https://weekendscout.app/e/columbus/desi-banks-funny-bone/
 END:VEVENT
 BEGIN:VEVENT
 UID:columbus-desi-banks-funny-bone-sat-1@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261129T021500Z
 DTEND:20261129T041500Z
 SUMMARY:Desi Banks: Your Favorite Cousin Tour
@@ -244,7 +244,7 @@ URL:https://weekendscout.app/e/columbus/desi-banks-funny-bone/
 END:VEVENT
 BEGIN:VEVENT
 UID:columbus-desi-banks-funny-bone-sun-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261129T230000Z
 DTEND:20261130T010000Z
 SUMMARY:Desi Banks: Your Favorite Cousin Tour
@@ -257,7 +257,7 @@ URL:https://weekendscout.app/e/columbus/desi-banks-funny-bone/
 END:VEVENT
 BEGIN:VEVENT
 UID:columbus-candlelight-michael-jackson-sun-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261129T233000Z
 DTEND:20261130T003000Z
 SUMMARY:Candlelight: Tribute to Michael Jackson
@@ -269,7 +269,7 @@ URL:https://weekendscout.app/e/columbus/candlelight-michael-jackson/
 END:VEVENT
 BEGIN:VEVENT
 UID:columbus-candlelight-beatles-sun-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261130T014500Z
 DTEND:20261130T034500Z
 SUMMARY:Candlelight: Tribute to The Beatles
@@ -281,7 +281,7 @@ URL:https://weekendscout.app/e/columbus/candlelight-beatles/
 END:VEVENT
 BEGIN:VEVENT
 UID:columbus-ohio-state-mbb-vs-lipscomb-sun-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261129T223000Z
 DTEND:20261130T003000Z
 SUMMARY:Ohio State Men's Basketball vs. Lipscomb

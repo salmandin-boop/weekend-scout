@@ -9,80 +9,80 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:little-rock-arkansas-museum-of-fine-arts-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T005952Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
+DTSTAMP:20261126T014208Z
+DTSTART:20261127T160000Z
+DTEND:20261128T020000Z
 SUMMARY:Arkansas Museum of Fine Arts
 LOCATION:Arkansas Museum of Fine Arts\, 501 E 9th St\, Little Rock\, AR 72
  202
-DESCRIPTION:The rebuilt museum in MacArthur Park\, with free general admis
- sion. Free general admission. Details: https://weekendscout.app/e/little-r
- ock/arkansas-museum-of-fine-arts-2026-11/
+DESCRIPTION:The rebuilt museum in MacArthur Park\, with free admission\; o
+ pen late until 8 p.m. on Friday. Free admission. Details: https://weekends
+ cout.app/e/little-rock/arkansas-museum-of-fine-arts-2026-11/
 URL:https://weekendscout.app/e/little-rock/arkansas-museum-of-fine-arts-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:little-rock-arkansas-museum-of-fine-arts-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T005952Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
+DTSTAMP:20261126T014208Z
+DTSTART:20261128T160000Z
+DTEND:20261128T230000Z
 SUMMARY:Arkansas Museum of Fine Arts
 LOCATION:Arkansas Museum of Fine Arts\, 501 E 9th St\, Little Rock\, AR 72
  202
-DESCRIPTION:The rebuilt museum in MacArthur Park\, with free general admis
- sion. Free general admission. Details: https://weekendscout.app/e/little-r
- ock/arkansas-museum-of-fine-arts-2026-11/
+DESCRIPTION:The rebuilt museum in MacArthur Park\, with free admission\; o
+ pen late until 8 p.m. on Friday. Free admission. Details: https://weekends
+ cout.app/e/little-rock/arkansas-museum-of-fine-arts-2026-11/
 URL:https://weekendscout.app/e/little-rock/arkansas-museum-of-fine-arts-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:little-rock-arkansas-museum-of-fine-arts-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T005952Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
+DTSTAMP:20261126T014208Z
+DTSTART:20261129T180000Z
+DTEND:20261129T230000Z
 SUMMARY:Arkansas Museum of Fine Arts
 LOCATION:Arkansas Museum of Fine Arts\, 501 E 9th St\, Little Rock\, AR 72
  202
-DESCRIPTION:The rebuilt museum in MacArthur Park\, with free general admis
- sion. Free general admission. Details: https://weekendscout.app/e/little-r
- ock/arkansas-museum-of-fine-arts-2026-11/
+DESCRIPTION:The rebuilt museum in MacArthur Park\, with free admission\; o
+ pen late until 8 p.m. on Friday. Free admission. Details: https://weekends
+ cout.app/e/little-rock/arkansas-museum-of-fine-arts-2026-11/
 URL:https://weekendscout.app/e/little-rock/arkansas-museum-of-fine-arts-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:little-rock-mojo-brookzz-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261128T013000Z
 DTEND:20261128T033000Z
-SUMMARY:Mojo Brookzz
+SUMMARY:Mojo Brookzz: Outta Pocket Tour
 LOCATION:Robinson Center\, 426 W Markham St\, Little Rock\, AR 72201
-DESCRIPTION:Two shows from the comedian on Friday night. Tickets. Details:
-  https://weekendscout.app/e/little-rock/mojo-brookzz-2026-11/
+DESCRIPTION:Two Black Friday shows from the Chicago comedian and actor\; b
+ oth are sold out. Sold out. Details: https://weekendscout.app/e/little-roc
+ k/mojo-brookzz-2026-11/
 URL:https://weekendscout.app/e/little-rock/mojo-brookzz-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:little-rock-mojo-brookzz-2026-11-fri-1@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261128T040000Z
 DTEND:20261128T060000Z
-SUMMARY:Mojo Brookzz
+SUMMARY:Mojo Brookzz: Outta Pocket Tour
 LOCATION:Robinson Center\, 426 W Markham St\, Little Rock\, AR 72201
-DESCRIPTION:Two shows from the comedian on Friday night. Tickets. Details:
-  https://weekendscout.app/e/little-rock/mojo-brookzz-2026-11/
+DESCRIPTION:Two Black Friday shows from the Chicago comedian and actor\; b
+ oth are sold out. Sold out. Details: https://weekendscout.app/e/little-roc
+ k/mojo-brookzz-2026-11/
 URL:https://weekendscout.app/e/little-rock/mojo-brookzz-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:little-rock-a-community-celebration-of-the-last-waltz-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
-SUMMARY:A Community Celebration of The Last Waltz
+SUMMARY:A Community Celebration of The Last Waltz: A Film Screening
 LOCATION:Argenta Music Complex\, Argenta Arts District\, North Little Rock
  \, AR 72114
-DESCRIPTION:A screening of the Scorsese concert film with a community cele
- bration in Argenta. Check details. Details: https://weekendscout.app/e/lit
- tle-rock/a-community-celebration-of-the-last-waltz-2026-11/
+DESCRIPTION:An evening screening of The Last Waltz\, the concert film of T
+ he Band's farewell show\, with a community celebration in Argenta. Check d
+ etails. Details: https://weekendscout.app/e/little-rock/a-community-celebr
+ ation-of-the-last-waltz-2026-11/
 URL:https://weekendscout.app/e/little-rock/a-community-celebration-of-the-last-waltz-2026-11/
 END:VEVENT
 END:VCALENDAR

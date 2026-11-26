@@ -8,163 +8,161 @@ X-WR-CALDESC:Hand-checked weekend picks in Madison, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:madison-chazen-museum-of-art-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T005952Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Chazen Museum of Art
-LOCATION:Chazen Museum of Art\, 750 University Ave\, Madison\, WI 53706
-DESCRIPTION:UW–Madison’s art museum\, always free. Free admission. Det
- ails: https://weekendscout.app/e/madison/chazen-museum-of-art-2026-11/
-URL:https://weekendscout.app/e/madison/chazen-museum-of-art-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:madison-chazen-museum-of-art-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T005952Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Chazen Museum of Art
-LOCATION:Chazen Museum of Art\, 750 University Ave\, Madison\, WI 53706
-DESCRIPTION:UW–Madison’s art museum\, always free. Free admission. Det
- ails: https://weekendscout.app/e/madison/chazen-museum-of-art-2026-11/
-URL:https://weekendscout.app/e/madison/chazen-museum-of-art-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:madison-chazen-museum-of-art-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T005952Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Chazen Museum of Art
-LOCATION:Chazen Museum of Art\, 750 University Ave\, Madison\, WI 53706
-DESCRIPTION:UW–Madison’s art museum\, always free. Free admission. Det
- ails: https://weekendscout.app/e/madison/chazen-museum-of-art-2026-11/
-URL:https://weekendscout.app/e/madison/chazen-museum-of-art-2026-11/
-END:VEVENT
-BEGIN:VEVENT
 UID:madison-wisconsin-badgers-vs-minnesota-golden-gophers-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261128T003000Z
 DTEND:20261128T023000Z
 SUMMARY:Wisconsin Badgers vs. Minnesota Golden Gophers
 LOCATION:Camp Randall Stadium\, 1440 Monroe St\, Madison\, WI 53711
-DESCRIPTION:The Paul Bunyan’s Axe rivalry game on Black Friday night. Ti
- ckets. Details: https://weekendscout.app/e/madison/wisconsin-badgers-vs-mi
- nnesota-golden-gophers-2026-11/
+DESCRIPTION:The Paul Bunyan’s Axe rivalry game under the lights on Black
+  Friday\, on NBC. Tickets. Details: https://weekendscout.app/e/madison/wis
+ consin-badgers-vs-minnesota-golden-gophers-2026-11/
 URL:https://weekendscout.app/e/madison/wisconsin-badgers-vs-minnesota-golden-gophers-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:madison-maybe-happy-ending-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261127T190000Z
 DTEND:20261127T210000Z
 SUMMARY:Maybe Happy Ending
 LOCATION:Overture Hall\, 201 State St\, Madison\, WI 53703
-DESCRIPTION:The Tony-winning musical about two robots\, six shows. Tickets
- . Details: https://weekendscout.app/e/madison/maybe-happy-ending-2026-11/
+DESCRIPTION:The Tony-winning musical about two robots\, in its Wisconsin p
+ remiere\; six shows this weekend. Tickets. Details: https://weekendscout.a
+ pp/e/madison/maybe-happy-ending-2026-11/
 URL:https://weekendscout.app/e/madison/maybe-happy-ending-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:madison-maybe-happy-ending-2026-11-fri-1@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261128T013000Z
 DTEND:20261128T033000Z
 SUMMARY:Maybe Happy Ending
 LOCATION:Overture Hall\, 201 State St\, Madison\, WI 53703
-DESCRIPTION:The Tony-winning musical about two robots\, six shows. Tickets
- . Details: https://weekendscout.app/e/madison/maybe-happy-ending-2026-11/
+DESCRIPTION:The Tony-winning musical about two robots\, in its Wisconsin p
+ remiere\; six shows this weekend. Tickets. Details: https://weekendscout.a
+ pp/e/madison/maybe-happy-ending-2026-11/
 URL:https://weekendscout.app/e/madison/maybe-happy-ending-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:madison-maybe-happy-ending-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261128T200000Z
 DTEND:20261128T220000Z
 SUMMARY:Maybe Happy Ending
 LOCATION:Overture Hall\, 201 State St\, Madison\, WI 53703
-DESCRIPTION:The Tony-winning musical about two robots\, six shows. Tickets
- . Details: https://weekendscout.app/e/madison/maybe-happy-ending-2026-11/
+DESCRIPTION:The Tony-winning musical about two robots\, in its Wisconsin p
+ remiere\; six shows this weekend. Tickets. Details: https://weekendscout.a
+ pp/e/madison/maybe-happy-ending-2026-11/
 URL:https://weekendscout.app/e/madison/maybe-happy-ending-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:madison-maybe-happy-ending-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261129T013000Z
 DTEND:20261129T033000Z
 SUMMARY:Maybe Happy Ending
 LOCATION:Overture Hall\, 201 State St\, Madison\, WI 53703
-DESCRIPTION:The Tony-winning musical about two robots\, six shows. Tickets
- . Details: https://weekendscout.app/e/madison/maybe-happy-ending-2026-11/
+DESCRIPTION:The Tony-winning musical about two robots\, in its Wisconsin p
+ remiere\; six shows this weekend. Tickets. Details: https://weekendscout.a
+ pp/e/madison/maybe-happy-ending-2026-11/
 URL:https://weekendscout.app/e/madison/maybe-happy-ending-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:madison-maybe-happy-ending-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261129T190000Z
 DTEND:20261129T210000Z
 SUMMARY:Maybe Happy Ending
 LOCATION:Overture Hall\, 201 State St\, Madison\, WI 53703
-DESCRIPTION:The Tony-winning musical about two robots\, six shows. Tickets
- . Details: https://weekendscout.app/e/madison/maybe-happy-ending-2026-11/
+DESCRIPTION:The Tony-winning musical about two robots\, in its Wisconsin p
+ remiere\; six shows this weekend. Tickets. Details: https://weekendscout.a
+ pp/e/madison/maybe-happy-ending-2026-11/
 URL:https://weekendscout.app/e/madison/maybe-happy-ending-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:madison-maybe-happy-ending-2026-11-sun-1@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261130T003000Z
 DTEND:20261130T023000Z
 SUMMARY:Maybe Happy Ending
 LOCATION:Overture Hall\, 201 State St\, Madison\, WI 53703
-DESCRIPTION:The Tony-winning musical about two robots\, six shows. Tickets
- . Details: https://weekendscout.app/e/madison/maybe-happy-ending-2026-11/
+DESCRIPTION:The Tony-winning musical about two robots\, in its Wisconsin p
+ remiere\; six shows this weekend. Tickets. Details: https://weekendscout.a
+ pp/e/madison/maybe-happy-ending-2026-11/
 URL:https://weekendscout.app/e/madison/maybe-happy-ending-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:madison-a-charlie-brown-christmas-with-strings-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261128T210000Z
 DTEND:20261128T230000Z
 SUMMARY:A Charlie Brown Christmas with Strings
 LOCATION:Orpheum Theatre\, 216 State St\, Madison\, WI 53703
-DESCRIPTION:The Vince Guaraldi holiday music with a string section. Ticket
- s. Details: https://weekendscout.app/e/madison/a-charlie-brown-christmas-w
- ith-strings-2026-11/
+DESCRIPTION:The jazz trio Mr. Chair\, the Wisconsin Chamber Orchestra and 
+ Madison Youth Choirs singers play the Peanuts holiday music. About 90 minu
+ tes. Tickets. Details: https://weekendscout.app/e/madison/a-charlie-brown-
+ christmas-with-strings-2026-11/
 URL:https://weekendscout.app/e/madison/a-charlie-brown-christmas-with-strings-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:madison-a-charlie-brown-christmas-with-strings-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261129T013000Z
 DTEND:20261129T033000Z
 SUMMARY:A Charlie Brown Christmas with Strings
 LOCATION:Orpheum Theatre\, 216 State St\, Madison\, WI 53703
-DESCRIPTION:The Vince Guaraldi holiday music with a string section. Ticket
- s. Details: https://weekendscout.app/e/madison/a-charlie-brown-christmas-w
- ith-strings-2026-11/
+DESCRIPTION:The jazz trio Mr. Chair\, the Wisconsin Chamber Orchestra and 
+ Madison Youth Choirs singers play the Peanuts holiday music. About 90 minu
+ tes. Tickets. Details: https://weekendscout.app/e/madison/a-charlie-brown-
+ christmas-with-strings-2026-11/
 URL:https://weekendscout.app/e/madison/a-charlie-brown-christmas-with-strings-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:madison-wisconsin-badgers-hockey-vs-canisius-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261129T000000Z
 DTEND:20261129T020000Z
 SUMMARY:Wisconsin Badgers hockey vs. Canisius
 LOCATION:Kohl Center\, 601 W Dayton St\, Madison\, WI 53715
-DESCRIPTION:Men’s hockey\, Saturday and Sunday. Tickets. Details: https:
- //weekendscout.app/e/madison/wisconsin-badgers-hockey-vs-canisius-2026-11/
+DESCRIPTION:Men’s college hockey\, a two-game weekend series. Tickets. D
+ etails: https://weekendscout.app/e/madison/wisconsin-badgers-hockey-vs-can
+ isius-2026-11/
 URL:https://weekendscout.app/e/madison/wisconsin-badgers-hockey-vs-canisius-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:madison-wisconsin-badgers-hockey-vs-canisius-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261129T230000Z
 DTEND:20261130T010000Z
 SUMMARY:Wisconsin Badgers hockey vs. Canisius
 LOCATION:Kohl Center\, 601 W Dayton St\, Madison\, WI 53715
-DESCRIPTION:Men’s hockey\, Saturday and Sunday. Tickets. Details: https:
- //weekendscout.app/e/madison/wisconsin-badgers-hockey-vs-canisius-2026-11/
+DESCRIPTION:Men’s college hockey\, a two-game weekend series. Tickets. D
+ etails: https://weekendscout.app/e/madison/wisconsin-badgers-hockey-vs-can
+ isius-2026-11/
 URL:https://weekendscout.app/e/madison/wisconsin-badgers-hockey-vs-canisius-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:madison-chazen-museum-of-art-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261128T170000Z
+DTEND:20261128T230000Z
+SUMMARY:Chazen Museum of Art
+LOCATION:Chazen Museum of Art\, 750 University Ave\, Madison\, WI 53706
+DESCRIPTION:UW–Madison’s art museum\, free and open to the public\; ga
+ lleries open 11 a.m.–5 p.m. on weekends. Free admission. Details: https:
+ //weekendscout.app/e/madison/chazen-museum-of-art-2026-11/
+URL:https://weekendscout.app/e/madison/chazen-museum-of-art-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:madison-chazen-museum-of-art-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261129T170000Z
+DTEND:20261129T230000Z
+SUMMARY:Chazen Museum of Art
+LOCATION:Chazen Museum of Art\, 750 University Ave\, Madison\, WI 53706
+DESCRIPTION:UW–Madison’s art museum\, free and open to the public\; ga
+ lleries open 11 a.m.–5 p.m. on weekends. Free admission. Details: https:
+ //weekendscout.app/e/madison/chazen-museum-of-art-2026-11/
+URL:https://weekendscout.app/e/madison/chazen-museum-of-art-2026-11/
 END:VEVENT
 END:VCALENDAR

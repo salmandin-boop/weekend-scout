@@ -9,113 +9,250 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:grand-rapids-grand-rapids-christkindl-markt-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261127T160000Z
 DTEND:20261128T020000Z
 SUMMARY:Grand Rapids Christkindl Markt
 LOCATION:Downtown Market Grand Rapids\, 435 Ionia Ave SW\, Grand Rapids\, 
  MI 49503
-DESCRIPTION:A German-style Christmas market on the Downtown Market grounds
- \, open Wednesday–Sunday through Dec. 23. Free to browse. Details: https
- ://weekendscout.app/e/grand-rapids/grand-rapids-christkindl-markt-2026-11/
+DESCRIPTION:A German-style Christmas market with 60+ vendors at the Downto
+ wn Market\, open Wednesday–Sunday through Dec. 24. Free to browse. Detai
+ ls: https://weekendscout.app/e/grand-rapids/grand-rapids-christkindl-markt
+ -2026-11/
 URL:https://weekendscout.app/e/grand-rapids/grand-rapids-christkindl-markt-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:grand-rapids-grand-rapids-christkindl-markt-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261128T150000Z
 DTEND:20261129T020000Z
 SUMMARY:Grand Rapids Christkindl Markt
 LOCATION:Downtown Market Grand Rapids\, 435 Ionia Ave SW\, Grand Rapids\, 
  MI 49503
-DESCRIPTION:A German-style Christmas market on the Downtown Market grounds
- \, open Wednesday–Sunday through Dec. 23. Free to browse. Details: https
- ://weekendscout.app/e/grand-rapids/grand-rapids-christkindl-markt-2026-11/
+DESCRIPTION:A German-style Christmas market with 60+ vendors at the Downto
+ wn Market\, open Wednesday–Sunday through Dec. 24. Free to browse. Detai
+ ls: https://weekendscout.app/e/grand-rapids/grand-rapids-christkindl-markt
+ -2026-11/
 URL:https://weekendscout.app/e/grand-rapids/grand-rapids-christkindl-markt-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:grand-rapids-grand-rapids-christkindl-markt-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261129T150000Z
 DTEND:20261130T010000Z
 SUMMARY:Grand Rapids Christkindl Markt
 LOCATION:Downtown Market Grand Rapids\, 435 Ionia Ave SW\, Grand Rapids\, 
  MI 49503
-DESCRIPTION:A German-style Christmas market on the Downtown Market grounds
- \, open Wednesday–Sunday through Dec. 23. Free to browse. Details: https
- ://weekendscout.app/e/grand-rapids/grand-rapids-christkindl-markt-2026-11/
+DESCRIPTION:A German-style Christmas market with 60+ vendors at the Downto
+ wn Market\, open Wednesday–Sunday through Dec. 24. Free to browse. Detai
+ ls: https://weekendscout.app/e/grand-rapids/grand-rapids-christkindl-markt
+ -2026-11/
 URL:https://weekendscout.app/e/grand-rapids/grand-rapids-christkindl-markt-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:grand-rapids-cirque-dreams-holidaze-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T005952Z
-DTSTART:20261128T003000Z
-DTEND:20261128T023000Z
+DTSTAMP:20261126T014208Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
 SUMMARY:Cirque Dreams Holidaze
 LOCATION:DeVos Performance Hall\, 303 Monroe Ave NW\, Grand Rapids\, MI 49
  503
-DESCRIPTION:The holiday acrobatics spectacular. Tickets. Details: https://
- weekendscout.app/e/grand-rapids/cirque-dreams-holidaze-2026-11/
+DESCRIPTION:The touring holiday circus spectacular with acrobats\, juggler
+ s and circus acts\, for one night only. Tickets. Details: https://weekends
+ cout.app/e/grand-rapids/cirque-dreams-holidaze-2026-11/
 URL:https://weekendscout.app/e/grand-rapids/cirque-dreams-holidaze-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:grand-rapids-annie-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261128T003000Z
 DTEND:20261128T023000Z
 SUMMARY:Annie
 LOCATION:Grand Rapids Civic Theatre\, 30 N Division Ave\, Grand Rapids\, M
  I 49503
-DESCRIPTION:The Civic’s holiday musical\, four shows. Tickets. Details: 
- https://weekendscout.app/e/grand-rapids/annie-2026-11/
+DESCRIPTION:Grand Rapids Civic Theatre’s holiday production of the famil
+ y musical\, set during Christmas 1933. Rated PG\; Friday’s show has ASL 
+ interpretation. Tickets. Details: https://weekendscout.app/e/grand-rapids/
+ annie-2026-11/
 URL:https://weekendscout.app/e/grand-rapids/annie-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:grand-rapids-annie-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261128T190000Z
 DTEND:20261128T210000Z
 SUMMARY:Annie
 LOCATION:Grand Rapids Civic Theatre\, 30 N Division Ave\, Grand Rapids\, M
  I 49503
-DESCRIPTION:The Civic’s holiday musical\, four shows. Tickets. Details: 
- https://weekendscout.app/e/grand-rapids/annie-2026-11/
+DESCRIPTION:Grand Rapids Civic Theatre’s holiday production of the famil
+ y musical\, set during Christmas 1933. Rated PG\; Friday’s show has ASL 
+ interpretation. Tickets. Details: https://weekendscout.app/e/grand-rapids/
+ annie-2026-11/
 URL:https://weekendscout.app/e/grand-rapids/annie-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:grand-rapids-annie-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261129T003000Z
 DTEND:20261129T023000Z
 SUMMARY:Annie
 LOCATION:Grand Rapids Civic Theatre\, 30 N Division Ave\, Grand Rapids\, M
  I 49503
-DESCRIPTION:The Civic’s holiday musical\, four shows. Tickets. Details: 
- https://weekendscout.app/e/grand-rapids/annie-2026-11/
+DESCRIPTION:Grand Rapids Civic Theatre’s holiday production of the famil
+ y musical\, set during Christmas 1933. Rated PG\; Friday’s show has ASL 
+ interpretation. Tickets. Details: https://weekendscout.app/e/grand-rapids/
+ annie-2026-11/
 URL:https://weekendscout.app/e/grand-rapids/annie-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:grand-rapids-annie-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261129T190000Z
 DTEND:20261129T210000Z
 SUMMARY:Annie
 LOCATION:Grand Rapids Civic Theatre\, 30 N Division Ave\, Grand Rapids\, M
  I 49503
-DESCRIPTION:The Civic’s holiday musical\, four shows. Tickets. Details: 
- https://weekendscout.app/e/grand-rapids/annie-2026-11/
+DESCRIPTION:Grand Rapids Civic Theatre’s holiday production of the famil
+ y musical\, set during Christmas 1933. Rated PG\; Friday’s show has ASL 
+ interpretation. Tickets. Details: https://weekendscout.app/e/grand-rapids/
+ annie-2026-11/
 URL:https://weekendscout.app/e/grand-rapids/annie-2026-11/
 END:VEVENT
 BEGIN:VEVENT
-UID:grand-rapids-grand-rapids-gold-vs-noblesville-boom-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T005952Z
-DTSTART:20261129T000000Z
-DTEND:20261129T020000Z
-SUMMARY:Grand Rapids Gold vs. Noblesville Boom
+UID:grand-rapids-griffins-vs-iowa-wild-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261128T000000Z
+DTEND:20261128T020000Z
+SUMMARY:Grand Rapids Griffins vs. Iowa Wild: Teddy Bear Toss
 LOCATION:Van Andel Arena\, 130 Fulton St W\, Grand Rapids\, MI 49503
-DESCRIPTION:NBA G League basketball downtown. Tickets. Details: https://we
- ekendscout.app/e/grand-rapids/grand-rapids-gold-vs-noblesville-boom-2026-1
- 1/
-URL:https://weekendscout.app/e/grand-rapids/grand-rapids-gold-vs-noblesville-boom-2026-11/
+DESCRIPTION:AHL hockey on Black Friday: fans toss teddy bears onto the ice
+  after the first Griffins goal\, with $3 beers and $3 hot dogs. From $24. 
+ Details: https://weekendscout.app/e/grand-rapids/griffins-vs-iowa-wild-202
+ 6-11-27/
+URL:https://weekendscout.app/e/grand-rapids/griffins-vs-iowa-wild-2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:grand-rapids-griffins-vs-iowa-wild-2026-11-29-sun-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261129T210000Z
+DTEND:20261129T230000Z
+SUMMARY:Grand Rapids Griffins vs. Iowa Wild: Hot Wheels Game Day
+LOCATION:Van Andel Arena\, 130 Fulton St W\, Grand Rapids\, MI 49503
+DESCRIPTION:Sunday afternoon AHL hockey with a Hot Wheels car giveaway\, $
+ 1 Pepsi drinks and $1 ice cream. From $24. Details: https://weekendscout.a
+ pp/e/grand-rapids/griffins-vs-iowa-wild-2026-11-29/
+URL:https://weekendscout.app/e/grand-rapids/griffins-vs-iowa-wild-2026-11-29/
+END:VEVENT
+BEGIN:VEVENT
+UID:grand-rapids-straight-no-chaser-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Straight No Chaser: Making Spirits Bright Tour
+LOCATION:DeVos Performance Hall\, 303 Monroe Ave NW\, Grand Rapids\, MI 49
+ 503
+DESCRIPTION:The a cappella group brings its holiday tour to DeVos Performa
+ nce Hall. Tickets. Details: https://weekendscout.app/e/grand-rapids/straig
+ ht-no-chaser-2026-11/
+URL:https://weekendscout.app/e/grand-rapids/straight-no-chaser-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:grand-rapids-love-actually-in-concert-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261129T200000Z
+DTEND:20261129T220000Z
+SUMMARY:Love Actually In Concert
+LOCATION:DeVos Performance Hall\, 303 Monroe Ave NW\, Grand Rapids\, MI 49
+ 503
+DESCRIPTION:The holiday rom-com screened on the big screen with its score 
+ performed live. Tickets. Details: https://weekendscout.app/e/grand-rapids/
+ love-actually-in-concert-2026-11/
+URL:https://weekendscout.app/e/grand-rapids/love-actually-in-concert-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:grand-rapids-meijer-gardens-christmas-holiday-traditions-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261127T140000Z
+DTEND:20261127T220000Z
+SUMMARY:Christmas & Holiday Traditions
+LOCATION:Frederik Meijer Gardens & Sculpture Park\, 1000 E Beltline Ave NE
+ \, Grand Rapids\, MI 49525
+DESCRIPTION:Meijer Gardens’ annual exhibition of 40+ holiday traditions 
+ from around the world\, with a miniature railway\; included with general a
+ dmission. $25 adults\, $14 ages 3–13. Details: https://weekendscout.app/
+ e/grand-rapids/meijer-gardens-christmas-holiday-traditions-2026-11/
+URL:https://weekendscout.app/e/grand-rapids/meijer-gardens-christmas-holiday-traditions-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:grand-rapids-meijer-gardens-christmas-holiday-traditions-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261128T140000Z
+DTEND:20261128T220000Z
+SUMMARY:Christmas & Holiday Traditions
+LOCATION:Frederik Meijer Gardens & Sculpture Park\, 1000 E Beltline Ave NE
+ \, Grand Rapids\, MI 49525
+DESCRIPTION:Meijer Gardens’ annual exhibition of 40+ holiday traditions 
+ from around the world\, with a miniature railway\; included with general a
+ dmission. $25 adults\, $14 ages 3–13. Details: https://weekendscout.app/
+ e/grand-rapids/meijer-gardens-christmas-holiday-traditions-2026-11/
+URL:https://weekendscout.app/e/grand-rapids/meijer-gardens-christmas-holiday-traditions-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:grand-rapids-meijer-gardens-christmas-holiday-traditions-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261129T160000Z
+DTEND:20261129T220000Z
+SUMMARY:Christmas & Holiday Traditions
+LOCATION:Frederik Meijer Gardens & Sculpture Park\, 1000 E Beltline Ave NE
+ \, Grand Rapids\, MI 49525
+DESCRIPTION:Meijer Gardens’ annual exhibition of 40+ holiday traditions 
+ from around the world\, with a miniature railway\; included with general a
+ dmission. $25 adults\, $14 ages 3–13. Details: https://weekendscout.app/
+ e/grand-rapids/meijer-gardens-christmas-holiday-traditions-2026-11/
+URL:https://weekendscout.app/e/grand-rapids/meijer-gardens-christmas-holiday-traditions-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:grand-rapids-grand-rapids-public-museum-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261127T140000Z
+DTEND:20261127T220000Z
+SUMMARY:Grand Rapids Public Museum
+LOCATION:Grand Rapids Public Museum\, 272 Pearl St NW\, Grand Rapids\, MI 
+ 49504
+DESCRIPTION:Downtown history and science museum\; current exhibits include
+  a LEGO display of historic Grand Rapids. Kent County kids get free genera
+ l admission. Check ticket prices. Details: https://weekendscout.app/e/gran
+ d-rapids/grand-rapids-public-museum-2026-11/
+URL:https://weekendscout.app/e/grand-rapids/grand-rapids-public-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:grand-rapids-grand-rapids-public-museum-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261128T150000Z
+DTEND:20261128T220000Z
+SUMMARY:Grand Rapids Public Museum
+LOCATION:Grand Rapids Public Museum\, 272 Pearl St NW\, Grand Rapids\, MI 
+ 49504
+DESCRIPTION:Downtown history and science museum\; current exhibits include
+  a LEGO display of historic Grand Rapids. Kent County kids get free genera
+ l admission. Check ticket prices. Details: https://weekendscout.app/e/gran
+ d-rapids/grand-rapids-public-museum-2026-11/
+URL:https://weekendscout.app/e/grand-rapids/grand-rapids-public-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:grand-rapids-grand-rapids-public-museum-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261129T150000Z
+DTEND:20261129T220000Z
+SUMMARY:Grand Rapids Public Museum
+LOCATION:Grand Rapids Public Museum\, 272 Pearl St NW\, Grand Rapids\, MI 
+ 49504
+DESCRIPTION:Downtown history and science museum\; current exhibits include
+  a LEGO display of historic Grand Rapids. Kent County kids get free genera
+ l admission. Check ticket prices. Details: https://weekendscout.app/e/gran
+ d-rapids/grand-rapids-public-museum-2026-11/
+URL:https://weekendscout.app/e/grand-rapids/grand-rapids-public-museum-2026-11/
 END:VEVENT
 END:VCALENDAR

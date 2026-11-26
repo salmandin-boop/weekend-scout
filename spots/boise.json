@@ -1,0 +1,118 @@
+{
+ "city": "boise",
+ "updated": "2026-11-25",
+ "source": "Dinner picks from OpenTable's Boise date-night list; bars from Visit Boise; attractions from official sites (Nov 2026)",
+ "spots": [
+  {
+   "name": "ALAVITA",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "Downtown",
+   "lat": 43.6163841,
+   "lon": -116.2031996
+  },
+  {
+   "name": "Fork",
+   "kind": "dinner",
+   "cuisine": "American / Northwest",
+   "area": "Downtown",
+   "lat": 43.6163895,
+   "lon": -116.2030568
+  },
+  {
+   "name": "Chandlers Steakhouse",
+   "kind": "dinner",
+   "cuisine": "Steakhouse & seafood",
+   "area": "Downtown",
+   "lat": 43.6155789,
+   "lon": -116.2064809
+  },
+  {
+   "name": "Red Feather Lounge",
+   "kind": "dinner",
+   "cuisine": "Modern French / American",
+   "area": "Downtown",
+   "lat": 43.6165919,
+   "lon": -116.2023165
+  },
+  {
+   "name": "Bombay Grill",
+   "kind": "lunch",
+   "cuisine": "Indian",
+   "area": "Downtown",
+   "lat": 43.6169225,
+   "lon": -116.2054045
+  },
+  {
+   "name": "Boise Fry Company",
+   "kind": "lunch",
+   "cuisine": "Burgers & fries",
+   "area": "West Boise (State St)",
+   "lat": 43.666658,
+   "lon": -116.275815
+  },
+  {
+   "name": "Press & Pony",
+   "kind": "drinks",
+   "cuisine": "Cocktail bar",
+   "area": "Downtown",
+   "lat": 43.615795,
+   "lon": -116.201231
+  },
+  {
+   "name": "Julia Davis Park",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 43.607556,
+   "lon": -116.2015111,
+   "price": "Free",
+   "blurb": "Riverside park with the Greenbelt, rose garden and playground; home to Zoo Boise",
+   "blurbEs": "Parque junto al río con el Greenbelt, jardín de rosas y área de juegos; aquí está Zoo Boise"
+  },
+  {
+   "name": "Boise Art Museum",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Julia Davis Park",
+   "lat": 43.609968,
+   "lon": -116.206243,
+   "price": "$9",
+   "blurb": "Art museum; closed Fri Nov 27, open Sat–Sun",
+   "blurbEs": "Museo de arte; cerrado el viernes 27 de noviembre, abierto sábado y domingo"
+  },
+  {
+   "name": "Old Idaho Penitentiary",
+   "kind": "always",
+   "cuisine": "",
+   "area": "East End",
+   "lat": 43.6027,
+   "lon": -116.162,
+   "price": "$9",
+   "blurb": "Historic 1872 prison site; closed Fri Nov 27, open Sat–Sun noon–5",
+   "blurbEs": "Antigua prisión histórica de 1872; cerrada el viernes 27 de noviembre, abierta sábado y domingo de 12 a 5"
+  },
+  {
+   "name": "Freak Alley Gallery",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 43.617339,
+   "lon": -116.203418,
+   "price": "Free",
+   "blurb": "Open-air mural gallery in a downtown alley",
+   "blurbEs": "Galería de murales al aire libre en un callejón del centro"
+  },
+  {
+   "name": "Grove Plaza",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 43.6145,
+   "lon": -116.203,
+   "price": "Free",
+   "blurb": "Downtown’s central plaza, with the holiday tree and vendor sheds",
+   "blurbEs": "La plaza central del centro, con el árbol navideño y casetas de vendedores"
+  }
+ ]
+}

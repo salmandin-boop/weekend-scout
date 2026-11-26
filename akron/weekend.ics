@@ -8,8 +8,93 @@ X-WR-CALDESC:Hand-checked weekend picks in Akron, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
+UID:akron-akron-zoo-wild-lights-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261127T220000Z
+DTEND:20261128T020000Z
+SUMMARY:Wild Lights
+LOCATION:Akron Zoo\, 505 Euclid Ave\, Akron\, OH 44307
+DESCRIPTION:The Akron Zoo’s evening holiday light display\; the Grinch i
+ s in his cave 6–8 p.m. Open Friday and Saturday this weekend. From $16. 
+ Details: https://weekendscout.app/e/akron/akron-zoo-wild-lights-2026-11/
+URL:https://weekendscout.app/e/akron/akron-zoo-wild-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:akron-akron-zoo-wild-lights-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261128T220000Z
+DTEND:20261129T020000Z
+SUMMARY:Wild Lights
+LOCATION:Akron Zoo\, 505 Euclid Ave\, Akron\, OH 44307
+DESCRIPTION:The Akron Zoo’s evening holiday light display\; the Grinch i
+ s in his cave 6–8 p.m. Open Friday and Saturday this weekend. From $16. 
+ Details: https://weekendscout.app/e/akron/akron-zoo-wild-lights-2026-11/
+URL:https://weekendscout.app/e/akron/akron-zoo-wild-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:akron-the-nutcracker-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261128T190000Z
+DTEND:20261128T210000Z
+SUMMARY:The Nutcracker
+LOCATION:Akron Civic Theatre\, 182 S Main St\, Akron\, OH 44308
+DESCRIPTION:Ballet Theatre of Ohio’s annual holiday ballet at the 1929 A
+ kron Civic Theatre. Tickets. Details: https://weekendscout.app/e/akron/the
+ -nutcracker-2026-11/
+URL:https://weekendscout.app/e/akron/the-nutcracker-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:akron-the-nutcracker-2026-11-sat-1@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:The Nutcracker
+LOCATION:Akron Civic Theatre\, 182 S Main St\, Akron\, OH 44308
+DESCRIPTION:Ballet Theatre of Ohio’s annual holiday ballet at the 1929 A
+ kron Civic Theatre. Tickets. Details: https://weekendscout.app/e/akron/the
+ -nutcracker-2026-11/
+URL:https://weekendscout.app/e/akron/the-nutcracker-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:akron-the-nutcracker-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261129T190000Z
+DTEND:20261129T210000Z
+SUMMARY:The Nutcracker
+LOCATION:Akron Civic Theatre\, 182 S Main St\, Akron\, OH 44308
+DESCRIPTION:Ballet Theatre of Ohio’s annual holiday ballet at the 1929 A
+ kron Civic Theatre. Tickets. Details: https://weekendscout.app/e/akron/the
+ -nutcracker-2026-11/
+URL:https://weekendscout.app/e/akron/the-nutcracker-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:akron-a-chanticleer-christmas-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261128T200000Z
+DTEND:20261128T220000Z
+SUMMARY:A Chanticleer Christmas
+LOCATION:E.J. Thomas Hall\, 198 Hill St\, Akron\, OH 44325
+DESCRIPTION:The Grammy-winning men’s vocal ensemble’s holiday concert\
+ , presented by Tuesday Musical. From $19. Details: https://weekendscout.ap
+ p/e/akron/a-chanticleer-christmas-2026-11/
+URL:https://weekendscout.app/e/akron/a-chanticleer-christmas-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:akron-akron-zips-vs-buffalo-bulls-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Akron Zips vs. Buffalo Bulls
+LOCATION:InfoCision Stadium\, 375 E Exchange St\, Akron\, OH 44304
+DESCRIPTION:Akron Zips football hosts Buffalo in a Black Friday MAC game a
+ t InfoCision Stadium-Summa Field. Tickets. Details: https://weekendscout.a
+ pp/e/akron/akron-zips-vs-buffalo-bulls-2026-11/
+URL:https://weekendscout.app/e/akron/akron-zips-vs-buffalo-bulls-2026-11/
+END:VEVENT
+BEGIN:VEVENT
 UID:akron-cuyahoga-valley-national-park-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -23,7 +108,7 @@ URL:https://weekendscout.app/e/akron/cuyahoga-valley-national-park-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:akron-cuyahoga-valley-national-park-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -37,7 +122,7 @@ URL:https://weekendscout.app/e/akron/cuyahoga-valley-national-park-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:akron-cuyahoga-valley-national-park-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -48,64 +133,5 @@ DESCRIPTION:Trails\, waterfalls and the towpath in the national park just
  north of Akron. No entrance fee. Free entry. Details: https://weekendscout
  .app/e/akron/cuyahoga-valley-national-park-2026-11/
 URL:https://weekendscout.app/e/akron/cuyahoga-valley-national-park-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:akron-akron-zips-vs-buffalo-bulls-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T005952Z
-DTSTART:20261127T170000Z
-DTEND:20261127T190000Z
-SUMMARY:Akron Zips vs. Buffalo Bulls
-LOCATION:InfoCision Stadium\, 375 E Exchange St\, Akron\, OH 44304
-DESCRIPTION:Zips football on Black Friday at noon. Tickets. Details: https
- ://weekendscout.app/e/akron/akron-zips-vs-buffalo-bulls-2026-11/
-URL:https://weekendscout.app/e/akron/akron-zips-vs-buffalo-bulls-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:akron-the-nutcracker-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T005952Z
-DTSTART:20261128T190000Z
-DTEND:20261128T210000Z
-SUMMARY:The Nutcracker
-LOCATION:Akron Civic Theatre\, 182 S Main St\, Akron\, OH 44308
-DESCRIPTION:Ballet Theatre of Ohio’s holiday ballet in the 1929 atmosphe
- ric theater. Tickets. Details: https://weekendscout.app/e/akron/the-nutcra
- cker-2026-11/
-URL:https://weekendscout.app/e/akron/the-nutcracker-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:akron-the-nutcracker-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261126T005952Z
-DTSTART:20261129T000000Z
-DTEND:20261129T020000Z
-SUMMARY:The Nutcracker
-LOCATION:Akron Civic Theatre\, 182 S Main St\, Akron\, OH 44308
-DESCRIPTION:Ballet Theatre of Ohio’s holiday ballet in the 1929 atmosphe
- ric theater. Tickets. Details: https://weekendscout.app/e/akron/the-nutcra
- cker-2026-11/
-URL:https://weekendscout.app/e/akron/the-nutcracker-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:akron-the-nutcracker-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T005952Z
-DTSTART:20261129T190000Z
-DTEND:20261129T210000Z
-SUMMARY:The Nutcracker
-LOCATION:Akron Civic Theatre\, 182 S Main St\, Akron\, OH 44308
-DESCRIPTION:Ballet Theatre of Ohio’s holiday ballet in the 1929 atmosphe
- ric theater. Tickets. Details: https://weekendscout.app/e/akron/the-nutcra
- cker-2026-11/
-URL:https://weekendscout.app/e/akron/the-nutcracker-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:akron-a-chanticleer-christmas-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T005952Z
-DTSTART:20261128T200000Z
-DTEND:20261128T220000Z
-SUMMARY:A Chanticleer Christmas
-LOCATION:E.J. Thomas Hall\, 198 Hill St\, Akron\, OH 44325
-DESCRIPTION:The Grammy-winning men’s choir’s holiday concert. Tickets.
-  Details: https://weekendscout.app/e/akron/a-chanticleer-christmas-2026-11
- /
-URL:https://weekendscout.app/e/akron/a-chanticleer-christmas-2026-11/
 END:VEVENT
 END:VCALENDAR

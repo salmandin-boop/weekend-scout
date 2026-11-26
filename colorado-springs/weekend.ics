@@ -8,148 +8,125 @@ X-WR-CALDESC:Hand-checked weekend picks in Colorado Springs, updated every Wedne
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:colorado-springs-christmas-stroll-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T005952Z
-DTSTART:20261128T230000Z
-DTEND:20261129T020000Z
-SUMMARY:Christmas Stroll
-LOCATION:Old Colorado City\, W Colorado Ave\, Colorado Springs\, CO 80904
-DESCRIPTION:Holiday shopping\, carolers and Santa in the historic Westside
-  shopping district. Free. Details: https://weekendscout.app/e/colorado-spr
- ings/christmas-stroll-2026-11/
-URL:https://weekendscout.app/e/colorado-springs/christmas-stroll-2026-11/
-END:VEVENT
-BEGIN:VEVENT
 UID:colorado-springs-the-nutcracker-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261127T210000Z
 DTEND:20261127T230000Z
 SUMMARY:The Nutcracker
 LOCATION:Pikes Peak Center\, 190 S Cascade Ave\, Colorado Springs\, CO 809
  03
-DESCRIPTION:The Colorado Springs Philharmonic plays the ballet’s score l
- ive\, five performances. $40 and up. Details: https://weekendscout.app/e/c
- olorado-springs/the-nutcracker-2026-11/
+DESCRIPTION:The Colorado Springs Philharmonic plays Tchaikovsky’s score 
+ live\, with the University of Oklahoma School of Dance and the Colorado Sp
+ rings Children’s Chorale. $40 and up. Details: https://weekendscout.app/
+ e/colorado-springs/the-nutcracker-2026-11/
 URL:https://weekendscout.app/e/colorado-springs/the-nutcracker-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:colorado-springs-the-nutcracker-2026-11-fri-1@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261128T020000Z
 DTEND:20261128T040000Z
 SUMMARY:The Nutcracker
 LOCATION:Pikes Peak Center\, 190 S Cascade Ave\, Colorado Springs\, CO 809
  03
-DESCRIPTION:The Colorado Springs Philharmonic plays the ballet’s score l
- ive\, five performances. $40 and up. Details: https://weekendscout.app/e/c
- olorado-springs/the-nutcracker-2026-11/
+DESCRIPTION:The Colorado Springs Philharmonic plays Tchaikovsky’s score 
+ live\, with the University of Oklahoma School of Dance and the Colorado Sp
+ rings Children’s Chorale. $40 and up. Details: https://weekendscout.app/
+ e/colorado-springs/the-nutcracker-2026-11/
 URL:https://weekendscout.app/e/colorado-springs/the-nutcracker-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:colorado-springs-the-nutcracker-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261128T210000Z
 DTEND:20261128T230000Z
 SUMMARY:The Nutcracker
 LOCATION:Pikes Peak Center\, 190 S Cascade Ave\, Colorado Springs\, CO 809
  03
-DESCRIPTION:The Colorado Springs Philharmonic plays the ballet’s score l
- ive\, five performances. $40 and up. Details: https://weekendscout.app/e/c
- olorado-springs/the-nutcracker-2026-11/
+DESCRIPTION:The Colorado Springs Philharmonic plays Tchaikovsky’s score 
+ live\, with the University of Oklahoma School of Dance and the Colorado Sp
+ rings Children’s Chorale. $40 and up. Details: https://weekendscout.app/
+ e/colorado-springs/the-nutcracker-2026-11/
 URL:https://weekendscout.app/e/colorado-springs/the-nutcracker-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:colorado-springs-the-nutcracker-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261129T020000Z
 DTEND:20261129T040000Z
 SUMMARY:The Nutcracker
 LOCATION:Pikes Peak Center\, 190 S Cascade Ave\, Colorado Springs\, CO 809
  03
-DESCRIPTION:The Colorado Springs Philharmonic plays the ballet’s score l
- ive\, five performances. $40 and up. Details: https://weekendscout.app/e/c
- olorado-springs/the-nutcracker-2026-11/
+DESCRIPTION:The Colorado Springs Philharmonic plays Tchaikovsky’s score 
+ live\, with the University of Oklahoma School of Dance and the Colorado Sp
+ rings Children’s Chorale. $40 and up. Details: https://weekendscout.app/
+ e/colorado-springs/the-nutcracker-2026-11/
 URL:https://weekendscout.app/e/colorado-springs/the-nutcracker-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:colorado-springs-the-nutcracker-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261129T210000Z
 DTEND:20261129T230000Z
 SUMMARY:The Nutcracker
 LOCATION:Pikes Peak Center\, 190 S Cascade Ave\, Colorado Springs\, CO 809
  03
-DESCRIPTION:The Colorado Springs Philharmonic plays the ballet’s score l
- ive\, five performances. $40 and up. Details: https://weekendscout.app/e/c
- olorado-springs/the-nutcracker-2026-11/
+DESCRIPTION:The Colorado Springs Philharmonic plays Tchaikovsky’s score 
+ live\, with the University of Oklahoma School of Dance and the Colorado Sp
+ rings Children’s Chorale. $40 and up. Details: https://weekendscout.app/
+ e/colorado-springs/the-nutcracker-2026-11/
 URL:https://weekendscout.app/e/colorado-springs/the-nutcracker-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:colorado-springs-an-irish-christmas-in-america-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261128T020000Z
-DTEND:20261128T040000Z
+DTEND:20261128T050000Z
 SUMMARY:An Irish Christmas in America
 LOCATION:Stargazers Theatre\, 10 S Parkside Dr\, Colorado Springs\, CO 809
  10
-DESCRIPTION:Irish music\, song and dance for the holidays. $33–$38. Deta
- ils: https://weekendscout.app/e/colorado-springs/an-irish-christmas-in-ame
- rica-2026-11/
+DESCRIPTION:A touring show of Irish music\, song and dance for the holiday
+ s. General admission: $30 in advance\, $35 at the door. $30–$35 + fee. D
+ etails: https://weekendscout.app/e/colorado-springs/an-irish-christmas-in-
+ america-2026-11/
 URL:https://weekendscout.app/e/colorado-springs/an-irish-christmas-in-america-2026-11/
 END:VEVENT
 BEGIN:VEVENT
+UID:colorado-springs-christmas-stroll-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261128T230000Z
+DTEND:20261129T020000Z
+SUMMARY:Christmas Stroll
+LOCATION:Old Colorado City\, W Colorado Ave\, Colorado Springs\, CO 80904
+DESCRIPTION:Small Business Saturday in the historic Westside district\, wi
+ th carolers\, live music and Santa photos in Bancroft Park. Free. Details:
+  https://weekendscout.app/e/colorado-springs/christmas-stroll-2026-11/
+URL:https://weekendscout.app/e/colorado-springs/christmas-stroll-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:colorado-springs-rachaels-school-of-dance-the-nutcracker-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T014208Z
+DTSTART:20261128T230000Z
+DTEND:20261129T010000Z
+SUMMARY:Rachael’s School of Dance: The Nutcracker
+LOCATION:Ent Center for the Arts\, 5225 N Nevada Ave\, Colorado Springs\, 
+ CO 80918
+DESCRIPTION:A local dance school’s Nutcracker in the Shockley-Zalabak Th
+ eater. $15–$69. Details: https://weekendscout.app/e/colorado-springs/rac
+ haels-school-of-dance-the-nutcracker-2026-11/
+URL:https://weekendscout.app/e/colorado-springs/rachaels-school-of-dance-the-nutcracker-2026-11/
+END:VEVENT
+BEGIN:VEVENT
 UID:colorado-springs-blue-violin-s-retro-rock-roll-christmas-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T005952Z
+DTSTAMP:20261126T014208Z
 DTSTART:20261130T000000Z
 DTEND:20261130T020000Z
 SUMMARY:Blue Violin’s Retro Rock & Roll Christmas
 LOCATION:Ent Center for the Arts\, 5225 N Nevada Ave\, Colorado Springs\, 
  CO 80918
-DESCRIPTION:Holiday rock and roll from the local violin band. $18.75–$64
- .50. Details: https://weekendscout.app/e/colorado-springs/blue-violin-s-re
- tro-rock-roll-christmas-2026-11/
+DESCRIPTION:Holiday rock and roll from the Blue Violin band in the Shockle
+ y-Zalabak Theater. $18.75–$64.50. Details: https://weekendscout.app/e/co
+ lorado-springs/blue-violin-s-retro-rock-roll-christmas-2026-11/
 URL:https://weekendscout.app/e/colorado-springs/blue-violin-s-retro-rock-roll-christmas-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:colorado-springs-magic-of-lights-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T005952Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Magic of Lights
-LOCATION:Pikes Peak International Raceway\, 16650 Midway Ranch Rd\, Founta
- in\, CO 80817
-DESCRIPTION:A drive-through holiday light show at the raceway\, opening Fr
- iday. Tickets per car. Details: https://weekendscout.app/e/colorado-spring
- s/magic-of-lights-2026-11/
-URL:https://weekendscout.app/e/colorado-springs/magic-of-lights-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:colorado-springs-magic-of-lights-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T005952Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Magic of Lights
-LOCATION:Pikes Peak International Raceway\, 16650 Midway Ranch Rd\, Founta
- in\, CO 80817
-DESCRIPTION:A drive-through holiday light show at the raceway\, opening Fr
- iday. Tickets per car. Details: https://weekendscout.app/e/colorado-spring
- s/magic-of-lights-2026-11/
-URL:https://weekendscout.app/e/colorado-springs/magic-of-lights-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:colorado-springs-magic-of-lights-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T005952Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Magic of Lights
-LOCATION:Pikes Peak International Raceway\, 16650 Midway Ranch Rd\, Founta
- in\, CO 80817
-DESCRIPTION:A drive-through holiday light show at the raceway\, opening Fr
- iday. Tickets per car. Details: https://weekendscout.app/e/colorado-spring
- s/magic-of-lights-2026-11/
-URL:https://weekendscout.app/e/colorado-springs/magic-of-lights-2026-11/
 END:VEVENT
 END:VCALENDAR
