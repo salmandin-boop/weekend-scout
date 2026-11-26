@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:orlando-solar-bears-swamp-rabbits-black-friday-fri-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART:20261128T000000Z
 DTEND:20261128T020000Z
 SUMMARY:Orlando Solar Bears vs. Greenville Swamp Rabbits
@@ -21,7 +21,7 @@ URL:https://weekendscout.app/e/orlando/solar-bears-swamp-rabbits-black-friday/
 END:VEVENT
 BEGIN:VEVENT
 UID:orlando-fusionfest-2026-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART:20261128T150000Z
 DTEND:20261129T010000Z
 SUMMARY:FusionFest
@@ -34,7 +34,7 @@ URL:https://weekendscout.app/e/orlando/fusionfest-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:orlando-fusionfest-2026-sun-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART:20261129T170000Z
 DTEND:20261129T230000Z
 SUMMARY:FusionFest
@@ -47,7 +47,7 @@ URL:https://weekendscout.app/e/orlando/fusionfest-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:orlando-morse-thanksgiving-weekend-celebration-fri-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART:20261127T143000Z
 DTEND:20261128T010000Z
 SUMMARY:Morse Museum Thanksgiving Weekend Celebration
@@ -60,7 +60,7 @@ URL:https://weekendscout.app/e/orlando/morse-thanksgiving-weekend-celebration/
 END:VEVENT
 BEGIN:VEVENT
 UID:orlando-morse-thanksgiving-weekend-celebration-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART:20261128T143000Z
 DTEND:20261128T210000Z
 SUMMARY:Morse Museum Thanksgiving Weekend Celebration
@@ -73,7 +73,7 @@ URL:https://weekendscout.app/e/orlando/morse-thanksgiving-weekend-celebration/
 END:VEVENT
 BEGIN:VEVENT
 UID:orlando-morse-thanksgiving-weekend-celebration-sun-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART:20261129T180000Z
 DTEND:20261129T210000Z
 SUMMARY:Morse Museum Thanksgiving Weekend Celebration
@@ -86,7 +86,7 @@ URL:https://weekendscout.app/e/orlando/morse-thanksgiving-weekend-celebration/
 END:VEVENT
 BEGIN:VEVENT
 UID:orlando-orlando-shakes-christmas-carol-fri-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART:20261128T003000Z
 DTEND:20261128T023000Z
 SUMMARY:A Christmas Carol
@@ -99,7 +99,7 @@ URL:https://weekendscout.app/e/orlando/orlando-shakes-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:orlando-orlando-shakes-christmas-carol-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -113,7 +113,7 @@ URL:https://weekendscout.app/e/orlando/orlando-shakes-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:orlando-orlando-shakes-christmas-carol-sun-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -127,7 +127,7 @@ URL:https://weekendscout.app/e/orlando/orlando-shakes-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:orlando-orlando-phil-fierce-holiday-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART:20261128T193000Z
 DTEND:20261128T213000Z
 SUMMARY:Home for the Holidays: Michael James Scott's A Fierce Holiday
@@ -140,7 +140,7 @@ URL:https://weekendscout.app/e/orlando/orlando-phil-fierce-holiday/
 END:VEVENT
 BEGIN:VEVENT
 UID:orlando-orlando-phil-fierce-holiday-sat-1@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART:20261129T003000Z
 DTEND:20261129T023000Z
 SUMMARY:Home for the Holidays: Michael James Scott's A Fierce Holiday
@@ -153,7 +153,7 @@ URL:https://weekendscout.app/e/orlando/orlando-phil-fierce-holiday/
 END:VEVENT
 BEGIN:VEVENT
 UID:orlando-dazzling-nights-leu-gardens-fri-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART:20261127T223000Z
 DTEND:20261128T040000Z
 SUMMARY:Dazzling Nights at Harry P. Leu Gardens
@@ -165,7 +165,7 @@ URL:https://weekendscout.app/e/orlando/dazzling-nights-leu-gardens/
 END:VEVENT
 BEGIN:VEVENT
 UID:orlando-dazzling-nights-leu-gardens-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART:20261128T223000Z
 DTEND:20261129T040000Z
 SUMMARY:Dazzling Nights at Harry P. Leu Gardens
@@ -177,7 +177,7 @@ URL:https://weekendscout.app/e/orlando/dazzling-nights-leu-gardens/
 END:VEVENT
 BEGIN:VEVENT
 UID:orlando-dazzling-nights-leu-gardens-sun-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART:20261129T223000Z
 DTEND:20261130T040000Z
 SUMMARY:Dazzling Nights at Harry P. Leu Gardens
@@ -189,7 +189,7 @@ URL:https://weekendscout.app/e/orlando/dazzling-nights-leu-gardens/
 END:VEVENT
 BEGIN:VEVENT
 UID:orlando-frontyard-holiday-festival-fri-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART:20261127T220000Z
 DTEND:20261128T030000Z
 SUMMARY:Frontyard Holiday Festival
@@ -202,7 +202,7 @@ URL:https://weekendscout.app/e/orlando/frontyard-holiday-festival/
 END:VEVENT
 BEGIN:VEVENT
 UID:orlando-frontyard-holiday-festival-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART:20261128T190000Z
 DTEND:20261129T030000Z
 SUMMARY:Frontyard Holiday Festival
@@ -215,7 +215,7 @@ URL:https://weekendscout.app/e/orlando/frontyard-holiday-festival/
 END:VEVENT
 BEGIN:VEVENT
 UID:orlando-frontyard-holiday-festival-sun-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART:20261129T190000Z
 DTEND:20261130T030000Z
 SUMMARY:Frontyard Holiday Festival
@@ -228,7 +228,7 @@ URL:https://weekendscout.app/e/orlando/frontyard-holiday-festival/
 END:VEVENT
 BEGIN:VEVENT
 UID:orlando-silent-disco-orlando-science-center-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART:20261129T000000Z
 DTEND:20261129T033000Z
 SUMMARY:Amazing Silent Discos: Throwback Party

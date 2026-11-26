@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:baton-rouge-small-business-saturday-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/baton-rouge/small-business-saturday-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:baton-rouge-louisiana-lights-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/baton-rouge/louisiana-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:baton-rouge-louisiana-lights-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -48,7 +48,7 @@ URL:https://weekendscout.app/e/baton-rouge/louisiana-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:baton-rouge-louisiana-lights-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -61,7 +61,7 @@ URL:https://weekendscout.app/e/baton-rouge/louisiana-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:baton-rouge-zoo-lights-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART:20261127T233000Z
 DTEND:20261128T030000Z
 SUMMARY:Zoo Lights
@@ -75,7 +75,7 @@ URL:https://weekendscout.app/e/baton-rouge/zoo-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:baton-rouge-zoo-lights-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART:20261128T233000Z
 DTEND:20261129T030000Z
 SUMMARY:Zoo Lights
@@ -89,7 +89,7 @@ URL:https://weekendscout.app/e/baton-rouge/zoo-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:baton-rouge-zoo-lights-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART:20261129T233000Z
 DTEND:20261130T030000Z
 SUMMARY:Zoo Lights
@@ -103,7 +103,7 @@ URL:https://weekendscout.app/e/baton-rouge/zoo-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:baton-rouge-baton-rouge-kingfish-vs-mid-south-monarchs-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART:20261128T010500Z
 DTEND:20261128T030500Z
 SUMMARY:Baton Rouge Kingfish vs. Mid-South Monarchs
@@ -116,7 +116,7 @@ URL:https://weekendscout.app/e/baton-rouge/baton-rouge-kingfish-vs-mid-south-mon
 END:VEVENT
 BEGIN:VEVENT
 UID:baton-rouge-you-can-see-everything-manship-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART:20261128T000000Z
 DTEND:20261128T030000Z
 SUMMARY:You Can See Everything (Film)

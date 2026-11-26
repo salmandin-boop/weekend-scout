@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:st-petersburg-rabbit-in-the-moon-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063011Z
 DTSTART:20261128T000000Z
 DTEND:20261128T020000Z
 SUMMARY:Rabbit in the Moon
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/st-petersburg/rabbit-in-the-moon-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:st-petersburg-trippie-redd-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063011Z
 DTSTART:20261129T000000Z
 DTEND:20261129T020000Z
 SUMMARY:Trippie Redd: The Non-Disclosure Agreement Tour
@@ -34,7 +34,7 @@ URL:https://weekendscout.app/e/st-petersburg/trippie-redd-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:st-petersburg-silverstein-story-of-the-year-2026-11-29-sun-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063011Z
 DTSTART:20261129T230000Z
 DTEND:20261130T010000Z
 SUMMARY:Silverstein & Story of the Year: Camp Screamo Tour
@@ -46,7 +46,7 @@ URL:https://weekendscout.app/e/st-petersburg/silverstein-story-of-the-year-2026-
 END:VEVENT
 BEGIN:VEVENT
 UID:st-petersburg-saturday-morning-market-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063011Z
 DTSTART:20261128T140000Z
 DTEND:20261128T190000Z
 SUMMARY:St. Pete Saturday Morning Market
@@ -60,7 +60,7 @@ URL:https://weekendscout.app/e/st-petersburg/saturday-morning-market-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:st-petersburg-the-dali-museum-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063011Z
 DTSTART:20261127T150000Z
 DTEND:20261127T230000Z
 SUMMARY:The Dalí Museum
@@ -73,7 +73,7 @@ URL:https://weekendscout.app/e/st-petersburg/the-dali-museum-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:st-petersburg-the-dali-museum-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063011Z
 DTSTART:20261128T150000Z
 DTEND:20261128T230000Z
 SUMMARY:The Dalí Museum
@@ -86,7 +86,7 @@ URL:https://weekendscout.app/e/st-petersburg/the-dali-museum-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:st-petersburg-the-dali-museum-2026-11-27-sun-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063011Z
 DTSTART:20261129T150000Z
 DTEND:20261129T230000Z
 SUMMARY:The Dalí Museum
@@ -99,7 +99,7 @@ URL:https://weekendscout.app/e/st-petersburg/the-dali-museum-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:st-petersburg-st-pete-pier-holiday-lights-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063011Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -113,7 +113,7 @@ URL:https://weekendscout.app/e/st-petersburg/st-pete-pier-holiday-lights-2026-11
 END:VEVENT
 BEGIN:VEVENT
 UID:st-petersburg-st-pete-pier-holiday-lights-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063011Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -127,7 +127,7 @@ URL:https://weekendscout.app/e/st-petersburg/st-pete-pier-holiday-lights-2026-11
 END:VEVENT
 BEGIN:VEVENT
 UID:st-petersburg-st-pete-pier-holiday-lights-2026-11-27-sun-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063011Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT

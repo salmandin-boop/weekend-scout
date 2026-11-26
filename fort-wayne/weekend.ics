@@ -8,8 +8,248 @@ X-WR-CALDESC:Hand-checked weekend picks in Fort Wayne, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
+UID:fort-wayne-festival-of-trees-embassy-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261127T160000Z
+DTEND:20261128T010000Z
+SUMMARY:42nd Festival of Trees
+LOCATION:Embassy Theatre\, 125 W Jefferson Blvd\, Fort Wayne\, IN 46802
+DESCRIPTION:Decorated trees fill the 1928 movie palace with pipe organ mus
+ ic\, youth choirs and dance on stage. Sunday 9–11 a.m. is reserved for s
+ ensory-friendly visits\, and Friday's Breakfast with Santa still had ticke
+ ts (Saturday is sold out). $12 adults\, $5 ages 1–12. Details: https://w
+ eekendscout.app/e/fort-wayne/festival-of-trees-embassy-2026-11/
+URL:https://weekendscout.app/e/fort-wayne/festival-of-trees-embassy-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fort-wayne-festival-of-trees-embassy-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261128T160000Z
+DTEND:20261129T010000Z
+SUMMARY:42nd Festival of Trees
+LOCATION:Embassy Theatre\, 125 W Jefferson Blvd\, Fort Wayne\, IN 46802
+DESCRIPTION:Decorated trees fill the 1928 movie palace with pipe organ mus
+ ic\, youth choirs and dance on stage. Sunday 9–11 a.m. is reserved for s
+ ensory-friendly visits\, and Friday's Breakfast with Santa still had ticke
+ ts (Saturday is sold out). $12 adults\, $5 ages 1–12. Details: https://w
+ eekendscout.app/e/fort-wayne/festival-of-trees-embassy-2026-11/
+URL:https://weekendscout.app/e/fort-wayne/festival-of-trees-embassy-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fort-wayne-festival-of-trees-embassy-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261129T160000Z
+DTEND:20261130T010000Z
+SUMMARY:42nd Festival of Trees
+LOCATION:Embassy Theatre\, 125 W Jefferson Blvd\, Fort Wayne\, IN 46802
+DESCRIPTION:Decorated trees fill the 1928 movie palace with pipe organ mus
+ ic\, youth choirs and dance on stage. Sunday 9–11 a.m. is reserved for s
+ ensory-friendly visits\, and Friday's Breakfast with Santa still had ticke
+ ts (Saturday is sold out). $12 adults\, $5 ages 1–12. Details: https://w
+ eekendscout.app/e/fort-wayne/festival-of-trees-embassy-2026-11/
+URL:https://weekendscout.app/e/fort-wayne/festival-of-trees-embassy-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fort-wayne-wild-lights-fort-wayne-zoo-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261127T223000Z
+DTEND:20261128T020000Z
+SUMMARY:Wild Lights at the Fort Wayne Zoo
+LOCATION:Fort Wayne Children's Zoo\, 3411 Sherman Blvd\, Fort Wayne\, IN 4
+ 6808
+DESCRIPTION:An evening walk through the zoo lit up for the holidays\, open
+  Friday through Sunday nights in November. Tickets\; ages 1 and under free
+ . Details: https://weekendscout.app/e/fort-wayne/wild-lights-fort-wayne-zo
+ o-2026-11/
+URL:https://weekendscout.app/e/fort-wayne/wild-lights-fort-wayne-zoo-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fort-wayne-wild-lights-fort-wayne-zoo-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261128T223000Z
+DTEND:20261129T020000Z
+SUMMARY:Wild Lights at the Fort Wayne Zoo
+LOCATION:Fort Wayne Children's Zoo\, 3411 Sherman Blvd\, Fort Wayne\, IN 4
+ 6808
+DESCRIPTION:An evening walk through the zoo lit up for the holidays\, open
+  Friday through Sunday nights in November. Tickets\; ages 1 and under free
+ . Details: https://weekendscout.app/e/fort-wayne/wild-lights-fort-wayne-zo
+ o-2026-11/
+URL:https://weekendscout.app/e/fort-wayne/wild-lights-fort-wayne-zoo-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fort-wayne-wild-lights-fort-wayne-zoo-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261129T223000Z
+DTEND:20261130T020000Z
+SUMMARY:Wild Lights at the Fort Wayne Zoo
+LOCATION:Fort Wayne Children's Zoo\, 3411 Sherman Blvd\, Fort Wayne\, IN 4
+ 6808
+DESCRIPTION:An evening walk through the zoo lit up for the holidays\, open
+  Friday through Sunday nights in November. Tickets\; ages 1 and under free
+ . Details: https://weekendscout.app/e/fort-wayne/wild-lights-fort-wayne-zo
+ o-2026-11/
+URL:https://weekendscout.app/e/fort-wayne/wild-lights-fort-wayne-zoo-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fort-wayne-parkview-field-holiday-lights-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Parkview Field Holiday Lights
+LOCATION:Parkview Field\, 1301 Ewing St\, Fort Wayne\, IN 46802
+DESCRIPTION:A walk-through light show around the TinCaps' downtown ballpar
+ k. Tickets are needed for everyone 2 and older\; gates open at 5:30 or 6 p
+ .m. depending on the night. $12 in November. Details: https://weekendscout
+ .app/e/fort-wayne/parkview-field-holiday-lights-2026-11/
+URL:https://weekendscout.app/e/fort-wayne/parkview-field-holiday-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fort-wayne-parkview-field-holiday-lights-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Parkview Field Holiday Lights
+LOCATION:Parkview Field\, 1301 Ewing St\, Fort Wayne\, IN 46802
+DESCRIPTION:A walk-through light show around the TinCaps' downtown ballpar
+ k. Tickets are needed for everyone 2 and older\; gates open at 5:30 or 6 p
+ .m. depending on the night. $12 in November. Details: https://weekendscout
+ .app/e/fort-wayne/parkview-field-holiday-lights-2026-11/
+URL:https://weekendscout.app/e/fort-wayne/parkview-field-holiday-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fort-wayne-parkview-field-holiday-lights-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Parkview Field Holiday Lights
+LOCATION:Parkview Field\, 1301 Ewing St\, Fort Wayne\, IN 46802
+DESCRIPTION:A walk-through light show around the TinCaps' downtown ballpar
+ k. Tickets are needed for everyone 2 and older\; gates open at 5:30 or 6 p
+ .m. depending on the night. $12 in November. Details: https://weekendscout
+ .app/e/fort-wayne/parkview-field-holiday-lights-2026-11/
+URL:https://weekendscout.app/e/fort-wayne/parkview-field-holiday-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fort-wayne-festival-of-gingerbread-history-center-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261127T140000Z
+DTEND:20261128T010000Z
+SUMMARY:Festival of Gingerbread
+LOCATION:The History Center\, 302 E Berry St\, Fort Wayne\, IN 46802
+DESCRIPTION:Gingerbread houses and scenes made by local bakers\, families 
+ and kids fill the old City Hall museum. Check ticket prices. Details: http
+ s://weekendscout.app/e/fort-wayne/festival-of-gingerbread-history-center-2
+ 026-11/
+URL:https://weekendscout.app/e/fort-wayne/festival-of-gingerbread-history-center-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fort-wayne-festival-of-gingerbread-history-center-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261128T140000Z
+DTEND:20261129T010000Z
+SUMMARY:Festival of Gingerbread
+LOCATION:The History Center\, 302 E Berry St\, Fort Wayne\, IN 46802
+DESCRIPTION:Gingerbread houses and scenes made by local bakers\, families 
+ and kids fill the old City Hall museum. Check ticket prices. Details: http
+ s://weekendscout.app/e/fort-wayne/festival-of-gingerbread-history-center-2
+ 026-11/
+URL:https://weekendscout.app/e/fort-wayne/festival-of-gingerbread-history-center-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fort-wayne-festival-of-gingerbread-history-center-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261129T170000Z
+DTEND:20261129T220000Z
+SUMMARY:Festival of Gingerbread
+LOCATION:The History Center\, 302 E Berry St\, Fort Wayne\, IN 46802
+DESCRIPTION:Gingerbread houses and scenes made by local bakers\, families 
+ and kids fill the old City Hall museum. Check ticket prices. Details: http
+ s://weekendscout.app/e/fort-wayne/festival-of-gingerbread-history-center-2
+ 026-11/
+URL:https://weekendscout.app/e/fort-wayne/festival-of-gingerbread-history-center-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fort-wayne-eddie-griffin-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261128T003000Z
+DTEND:20261128T023000Z
+SUMMARY:Eddie Griffin
+LOCATION:Clyde Theatre\, 1808 Bluffton Rd\, Fort Wayne\, IN 46809
+DESCRIPTION:Stand-up from the comedian and actor\, with an early and a lat
+ e show on Friday. Reserved seating. From $39.50. Details: https://weekends
+ cout.app/e/fort-wayne/eddie-griffin-2026-11/
+URL:https://weekendscout.app/e/fort-wayne/eddie-griffin-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fort-wayne-eddie-griffin-2026-11-fri-1@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261128T030000Z
+DTEND:20261128T050000Z
+SUMMARY:Eddie Griffin
+LOCATION:Clyde Theatre\, 1808 Bluffton Rd\, Fort Wayne\, IN 46809
+DESCRIPTION:Stand-up from the comedian and actor\, with an early and a lat
+ e show on Friday. Reserved seating. From $39.50. Details: https://weekends
+ cout.app/e/fort-wayne/eddie-griffin-2026-11/
+URL:https://weekendscout.app/e/fort-wayne/eddie-griffin-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fort-wayne-american-elton-clyde-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:American Elton: Elton John Tribute
+LOCATION:Clyde Theatre\, 1808 Bluffton Rd\, Fort Wayne\, IN 46809
+DESCRIPTION:Bill Connors performs Elton John's hits in costume. General ad
+ mission is standing room. From $18. Details: https://weekendscout.app/e/fo
+ rt-wayne/american-elton-clyde-2026-11/
+URL:https://weekendscout.app/e/fort-wayne/american-elton-clyde-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fort-wayne-fort-wayne-komets-vs-toledo-walleye-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:Fort Wayne Komets vs. Toledo Walleye
+LOCATION:Allen County War Memorial Coliseum\, 4000 Parnell Ave\, Fort Wayn
+ e\, IN 46805
+DESCRIPTION:ECHL hockey rivalry on Saturday night. Tickets. Details: https
+ ://weekendscout.app/e/fort-wayne/fort-wayne-komets-vs-toledo-walleye-2026-
+ 11/
+URL:https://weekendscout.app/e/fort-wayne/fort-wayne-komets-vs-toledo-walleye-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fort-wayne-rival-sons-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261130T000000Z
+DTEND:20261130T020000Z
+SUMMARY:Rival Sons
+LOCATION:Clyde Theatre\, 1808 Bluffton Rd\, Fort Wayne\, IN 46809
+DESCRIPTION:Blues-rock on the Domestic Bliss Tour\, with The Blue Stones a
+ nd The Velveteers opening. General admission is standing room. From $35. D
+ etails: https://weekendscout.app/e/fort-wayne/rival-sons-2026-11/
+URL:https://weekendscout.app/e/fort-wayne/rival-sons-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fort-wayne-holly-shopping-downtown-fort-wayne-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Holly Shopping in Downtown Fort Wayne
+LOCATION:Downtown Fort Wayne\, Downtown\, Fort Wayne\, IN 46802
+DESCRIPTION:Small Business Saturday kicks off Saturdays of shopping at dow
+ ntown boutiques\, with trolley rides and deals at the Visitors Center. Fre
+ e. Details: https://weekendscout.app/e/fort-wayne/holly-shopping-downtown-
+ fort-wayne-2026-11/
+URL:https://weekendscout.app/e/fort-wayne/holly-shopping-downtown-fort-wayne-2026-11/
+END:VEVENT
+BEGIN:VEVENT
 UID:fort-wayne-promenade-park-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063011Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -21,7 +261,7 @@ URL:https://weekendscout.app/e/fort-wayne/promenade-park-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fort-wayne-promenade-park-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063011Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -33,7 +273,7 @@ URL:https://weekendscout.app/e/fort-wayne/promenade-park-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fort-wayne-promenade-park-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063011Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -42,87 +282,5 @@ LOCATION:Promenade Park\, 202 W Superior St\, Fort Wayne\, IN 46802
 DESCRIPTION:The riverfront park downtown with a treetop canopy trail. Free
  . Details: https://weekendscout.app/e/fort-wayne/promenade-park-2026-11/
 URL:https://weekendscout.app/e/fort-wayne/promenade-park-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:fort-wayne-breakfast-with-santa-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T055222Z
-DTSTART:20261127T140000Z
-DTEND:20261127T160000Z
-SUMMARY:Breakfast with Santa
-LOCATION:Embassy Theatre\, 125 W Jefferson Blvd\, Fort Wayne\, IN 46802
-DESCRIPTION:Breakfast and photos with Santa in the 1928 movie palace. Tick
- ets. Details: https://weekendscout.app/e/fort-wayne/breakfast-with-santa-2
- 026-11/
-URL:https://weekendscout.app/e/fort-wayne/breakfast-with-santa-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:fort-wayne-breakfast-with-santa-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
-DTSTART:20261128T140000Z
-DTEND:20261128T160000Z
-SUMMARY:Breakfast with Santa
-LOCATION:Embassy Theatre\, 125 W Jefferson Blvd\, Fort Wayne\, IN 46802
-DESCRIPTION:Breakfast and photos with Santa in the 1928 movie palace. Tick
- ets. Details: https://weekendscout.app/e/fort-wayne/breakfast-with-santa-2
- 026-11/
-URL:https://weekendscout.app/e/fort-wayne/breakfast-with-santa-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:fort-wayne-eddie-griffin-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T055222Z
-DTSTART:20261128T003000Z
-DTEND:20261128T023000Z
-SUMMARY:Eddie Griffin
-LOCATION:Clyde Theatre\, 1806 Bluffton Rd\, Fort Wayne\, IN 46809
-DESCRIPTION:Stand-up\, two Friday shows. Tickets. Details: https://weekend
- scout.app/e/fort-wayne/eddie-griffin-2026-11/
-URL:https://weekendscout.app/e/fort-wayne/eddie-griffin-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:fort-wayne-eddie-griffin-2026-11-fri-1@weekendscout.app
-DTSTAMP:20261126T055222Z
-DTSTART:20261128T030000Z
-DTEND:20261128T050000Z
-SUMMARY:Eddie Griffin
-LOCATION:Clyde Theatre\, 1806 Bluffton Rd\, Fort Wayne\, IN 46809
-DESCRIPTION:Stand-up\, two Friday shows. Tickets. Details: https://weekend
- scout.app/e/fort-wayne/eddie-griffin-2026-11/
-URL:https://weekendscout.app/e/fort-wayne/eddie-griffin-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:fort-wayne-fort-wayne-komets-vs-toledo-walleye-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
-DTSTART:20261129T003500Z
-DTEND:20261129T023500Z
-SUMMARY:Fort Wayne Komets vs. Toledo Walleye
-LOCATION:Allen County War Memorial Coliseum\, 4000 Parnell Ave\, Fort Wayn
- e\, IN 46805
-DESCRIPTION:ECHL hockey rivalry on Saturday night. Tickets. Details: https
- ://weekendscout.app/e/fort-wayne/fort-wayne-komets-vs-toledo-walleye-2026-
- 11/
-URL:https://weekendscout.app/e/fort-wayne/fort-wayne-komets-vs-toledo-walleye-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:fort-wayne-face-2-face-billy-joel-elton-john-tribute-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
-DTSTART:20261129T010000Z
-DTEND:20261129T030000Z
-SUMMARY:Face 2 Face: Billy Joel & Elton John tribute
-LOCATION:Clyde Theatre\, 1806 Bluffton Rd\, Fort Wayne\, IN 46809
-DESCRIPTION:Dueling pianos of Billy Joel and Elton John hits. Tickets. Det
- ails: https://weekendscout.app/e/fort-wayne/face-2-face-billy-joel-elton-j
- ohn-tribute-2026-11/
-URL:https://weekendscout.app/e/fort-wayne/face-2-face-billy-joel-elton-john-tribute-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:fort-wayne-rival-sons-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T055222Z
-DTSTART:20261130T000000Z
-DTEND:20261130T020000Z
-SUMMARY:Rival Sons
-LOCATION:Clyde Theatre\, 1806 Bluffton Rd\, Fort Wayne\, IN 46809
-DESCRIPTION:Blues-rock on Sunday night. Tickets. Details: https://weekends
- cout.app/e/fort-wayne/rival-sons-2026-11/
-URL:https://weekendscout.app/e/fort-wayne/rival-sons-2026-11/
 END:VEVENT
 END:VCALENDAR

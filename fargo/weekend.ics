@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:fargo-christkindlmarkt-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -23,7 +23,7 @@ URL:https://weekendscout.app/e/fargo/christkindlmarkt-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fargo-christkindlmarkt-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -37,7 +37,7 @@ URL:https://weekendscout.app/e/fargo/christkindlmarkt-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fargo-christkindlmarkt-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -51,7 +51,7 @@ URL:https://weekendscout.app/e/fargo/christkindlmarkt-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fargo-fargo-force-tri-city-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART:20261128T010500Z
 DTEND:20261128T030500Z
 SUMMARY:Fargo Force vs. Tri-City Storm
@@ -63,7 +63,7 @@ URL:https://weekendscout.app/e/fargo/fargo-force-tri-city-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fargo-fargo-force-tri-city-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART:20261129T000500Z
 DTEND:20261129T020500Z
 SUMMARY:Fargo Force vs. Tri-City Storm
@@ -75,7 +75,7 @@ URL:https://weekendscout.app/e/fargo/fargo-force-tri-city-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fargo-deuces-wild-dueling-pianos-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART:20261129T013000Z
 DTEND:20261129T033000Z
 SUMMARY:Deuces Wild Dueling Pianos
@@ -88,7 +88,7 @@ URL:https://weekendscout.app/e/fargo/deuces-wild-dueling-pianos-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fargo-emo-orchestra-spill-canvas-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART:20261130T010000Z
 DTEND:20261130T030000Z
 SUMMARY:Emo Orchestra w/ The Spill Canvas: An Evening of Emo
@@ -101,7 +101,7 @@ URL:https://weekendscout.app/e/fargo/emo-orchestra-spill-canvas-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fargo-holiday-lights-fairgrounds-2026-fri-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART:20261127T230000Z
 DTEND:20261128T040000Z
 SUMMARY:Holiday Lights at the Fairgrounds
@@ -115,7 +115,7 @@ URL:https://weekendscout.app/e/fargo/holiday-lights-fairgrounds-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:fargo-holiday-lights-fairgrounds-2026-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART:20261128T230000Z
 DTEND:20261129T040000Z
 SUMMARY:Holiday Lights at the Fairgrounds
@@ -129,7 +129,7 @@ URL:https://weekendscout.app/e/fargo/holiday-lights-fairgrounds-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:fargo-holiday-lights-fairgrounds-2026-sun-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART:20261129T230000Z
 DTEND:20261130T040000Z
 SUMMARY:Holiday Lights at the Fairgrounds
@@ -143,7 +143,7 @@ URL:https://weekendscout.app/e/fargo/holiday-lights-fairgrounds-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:fargo-plains-art-museum-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART:20261127T170000Z
 DTEND:20261127T230000Z
 SUMMARY:Plains Art Museum
@@ -155,7 +155,7 @@ URL:https://weekendscout.app/e/fargo/plains-art-museum-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fargo-plains-art-museum-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART:20261128T170000Z
 DTEND:20261128T230000Z
 SUMMARY:Plains Art Museum
@@ -167,7 +167,7 @@ URL:https://weekendscout.app/e/fargo/plains-art-museum-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fargo-plains-art-museum-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART:20261129T170000Z
 DTEND:20261129T230000Z
 SUMMARY:Plains Art Museum
@@ -179,7 +179,7 @@ URL:https://weekendscout.app/e/fargo/plains-art-museum-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fargo-red-river-zoo-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART:20261127T160000Z
 DTEND:20261127T220000Z
 SUMMARY:Red River Zoo
@@ -191,7 +191,7 @@ URL:https://weekendscout.app/e/fargo/red-river-zoo-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fargo-red-river-zoo-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART:20261128T160000Z
 DTEND:20261128T220000Z
 SUMMARY:Red River Zoo
@@ -203,7 +203,7 @@ URL:https://weekendscout.app/e/fargo/red-river-zoo-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fargo-red-river-zoo-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063010Z
 DTSTART:20261129T160000Z
 DTEND:20261129T220000Z
 SUMMARY:Red River Zoo

@@ -8,36 +8,144 @@ X-WR-CALDESC:Hand-checked weekend picks in Youngstown, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
+UID:youngstown-chicken-and-biscuits-youngstown-playhouse-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261128T010000Z
+DTEND:20261128T030000Z
+SUMMARY:Chicken & Biscuits
+LOCATION:The Playhouse Downtown\, 220 W Boardman St\, Youngstown\, OH 4450
+ 3
+DESCRIPTION:The Youngstown Playhouse closes its run of Douglas Lyons' come
+ dy about two sisters reunited for their father's funeral. Some seats are p
+ ay-what-you-can. $23 ($27 with fees). Details: https://weekendscout.app/e/
+ youngstown/chicken-and-biscuits-youngstown-playhouse-2026-11/
+URL:https://weekendscout.app/e/youngstown/chicken-and-biscuits-youngstown-playhouse-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:youngstown-chicken-and-biscuits-youngstown-playhouse-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:Chicken & Biscuits
+LOCATION:The Playhouse Downtown\, 220 W Boardman St\, Youngstown\, OH 4450
+ 3
+DESCRIPTION:The Youngstown Playhouse closes its run of Douglas Lyons' come
+ dy about two sisters reunited for their father's funeral. Some seats are p
+ ay-what-you-can. $23 ($27 with fees). Details: https://weekendscout.app/e/
+ youngstown/chicken-and-biscuits-youngstown-playhouse-2026-11/
+URL:https://weekendscout.app/e/youngstown/chicken-and-biscuits-youngstown-playhouse-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:youngstown-chicken-and-biscuits-youngstown-playhouse-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261129T193000Z
+DTEND:20261129T213000Z
+SUMMARY:Chicken & Biscuits
+LOCATION:The Playhouse Downtown\, 220 W Boardman St\, Youngstown\, OH 4450
+ 3
+DESCRIPTION:The Youngstown Playhouse closes its run of Douglas Lyons' come
+ dy about two sisters reunited for their father's funeral. Some seats are p
+ ay-what-you-can. $23 ($27 with fees). Details: https://weekendscout.app/e/
+ youngstown/chicken-and-biscuits-youngstown-playhouse-2026-11/
+URL:https://weekendscout.app/e/youngstown/chicken-and-biscuits-youngstown-playhouse-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:youngstown-tubachristmas-stambaugh-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261129T160000Z
+DTEND:20261129T180000Z
+SUMMARY:TubaChristmas & Holiday Craft Show
+LOCATION:Stambaugh Auditorium\, 1000 Fifth Ave\, Youngstown\, OH 44504
+DESCRIPTION:Local tuba players fill the hall with Christmas classics at 4 
+ p.m.\, with a craft show of local makers in the ballroom from 11 a.m. Park
+ ing is free. Goodwill offering at the door. Details: https://weekendscout.
+ app/e/youngstown/tubachristmas-stambaugh-2026-11/
+URL:https://weekendscout.app/e/youngstown/tubachristmas-stambaugh-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:youngstown-tubachristmas-stambaugh-2026-11-sun-1@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261129T210000Z
+DTEND:20261129T230000Z
+SUMMARY:TubaChristmas & Holiday Craft Show
+LOCATION:Stambaugh Auditorium\, 1000 Fifth Ave\, Youngstown\, OH 44504
+DESCRIPTION:Local tuba players fill the hall with Christmas classics at 4 
+ p.m.\, with a craft show of local makers in the ballroom from 11 a.m. Park
+ ing is free. Goodwill offering at the door. Details: https://weekendscout.
+ app/e/youngstown/tubachristmas-stambaugh-2026-11/
+URL:https://weekendscout.app/e/youngstown/tubachristmas-stambaugh-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:youngstown-memories-of-christmas-past-arms-museum-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261127T170000Z
+DTEND:20261127T210000Z
+SUMMARY:Memories of Christmas Past
+LOCATION:Arms Family Museum\, 648 Wick Ave\, Youngstown\, OH 44502
+DESCRIPTION:The Mahoning Valley Historical Society's 18th annual holiday e
+ xhibit fills the Arms mansion with vintage decorations and toys. Admission
+  includes same-day entry to the Tyler History Center. $8–$10\; under 3 f
+ ree. Details: https://weekendscout.app/e/youngstown/memories-of-christmas-
+ past-arms-museum-2026-11/
+URL:https://weekendscout.app/e/youngstown/memories-of-christmas-past-arms-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:youngstown-memories-of-christmas-past-arms-museum-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261128T170000Z
+DTEND:20261128T210000Z
+SUMMARY:Memories of Christmas Past
+LOCATION:Arms Family Museum\, 648 Wick Ave\, Youngstown\, OH 44502
+DESCRIPTION:The Mahoning Valley Historical Society's 18th annual holiday e
+ xhibit fills the Arms mansion with vintage decorations and toys. Admission
+  includes same-day entry to the Tyler History Center. $8–$10\; under 3 f
+ ree. Details: https://weekendscout.app/e/youngstown/memories-of-christmas-
+ past-arms-museum-2026-11/
+URL:https://weekendscout.app/e/youngstown/memories-of-christmas-past-arms-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:youngstown-memories-of-christmas-past-arms-museum-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261129T170000Z
+DTEND:20261129T210000Z
+SUMMARY:Memories of Christmas Past
+LOCATION:Arms Family Museum\, 648 Wick Ave\, Youngstown\, OH 44502
+DESCRIPTION:The Mahoning Valley Historical Society's 18th annual holiday e
+ xhibit fills the Arms mansion with vintage decorations and toys. Admission
+  includes same-day entry to the Tyler History Center. $8–$10\; under 3 f
+ ree. Details: https://weekendscout.app/e/youngstown/memories-of-christmas-
+ past-arms-museum-2026-11/
+URL:https://weekendscout.app/e/youngstown/memories-of-christmas-past-arms-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
 UID:youngstown-butler-institute-of-american-art-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
+DTSTAMP:20261126T063011Z
+DTSTART:20261128T160000Z
+DTEND:20261128T210000Z
 SUMMARY:Butler Institute of American Art
 LOCATION:Butler Institute of American Art\, 524 Wick Ave\, Youngstown\, OH
   44502
-DESCRIPTION:The first museum devoted to American art\, always free. Free a
- dmission. Details: https://weekendscout.app/e/youngstown/butler-institute-
- of-american-art-2026-11/
+DESCRIPTION:The first museum devoted to American art\, always free\, with 
+ a free lot next door. Free admission. Details: https://weekendscout.app/e/
+ youngstown/butler-institute-of-american-art-2026-11/
 URL:https://weekendscout.app/e/youngstown/butler-institute-of-american-art-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:youngstown-butler-institute-of-american-art-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T055222Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
+DTSTAMP:20261126T063011Z
+DTSTART:20261129T170000Z
+DTEND:20261129T210000Z
 SUMMARY:Butler Institute of American Art
 LOCATION:Butler Institute of American Art\, 524 Wick Ave\, Youngstown\, OH
   44502
-DESCRIPTION:The first museum devoted to American art\, always free. Free a
- dmission. Details: https://weekendscout.app/e/youngstown/butler-institute-
- of-american-art-2026-11/
+DESCRIPTION:The first museum devoted to American art\, always free\, with 
+ a free lot next door. Free admission. Details: https://weekendscout.app/e/
+ youngstown/butler-institute-of-american-art-2026-11/
 URL:https://weekendscout.app/e/youngstown/butler-institute-of-american-art-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:youngstown-mill-creek-park-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063011Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -51,7 +159,7 @@ URL:https://weekendscout.app/e/youngstown/mill-creek-park-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:youngstown-mill-creek-park-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063011Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -65,7 +173,7 @@ URL:https://weekendscout.app/e/youngstown/mill-creek-park-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:youngstown-mill-creek-park-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063011Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -79,14 +187,14 @@ URL:https://weekendscout.app/e/youngstown/mill-creek-park-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:youngstown-youngstown-state-vs-bryant-stratton-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063011Z
 DTSTART:20261127T180000Z
 DTEND:20261127T200000Z
 SUMMARY:Youngstown State vs. Bryant & Stratton
 LOCATION:Beeghly Center\, 1 University Plaza\, Youngstown\, OH 44555
-DESCRIPTION:Penguins basketball on Friday afternoon. Tickets. Details: htt
- ps://weekendscout.app/e/youngstown/youngstown-state-vs-bryant-stratton-202
- 6-11/
+DESCRIPTION:Penguins men's basketball on Friday afternoon at the Zidian Fa
+ mily Arena. Tickets. Details: https://weekendscout.app/e/youngstown/youngs
+ town-state-vs-bryant-stratton-2026-11/
 URL:https://weekendscout.app/e/youngstown/youngstown-state-vs-bryant-stratton-2026-11/
 END:VEVENT
 END:VCALENDAR

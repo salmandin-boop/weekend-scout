@@ -8,120 +8,209 @@ X-WR-CALDESC:Hand-checked weekend picks in Peoria, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:peoria-peoria-riverfront-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T055222Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Peoria Riverfront
-LOCATION:Riverfront Park\, 200 NE Water St\, Peoria\, IL 61602
-DESCRIPTION:Downtown’s park on the Illinois River. Free. Details: https:
- //weekendscout.app/e/peoria/peoria-riverfront-2026-11/
-URL:https://weekendscout.app/e/peoria/peoria-riverfront-2026-11/
+UID:peoria-peoria-santa-claus-parade-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261127T151500Z
+DTEND:20261127T171500Z
+SUMMARY:Santa Claus Parade
+LOCATION:Downtown Peoria\, NE Monroe St & Bryan St\, Peoria\, IL 61602
+DESCRIPTION:Peoria's long-running holiday parade with floats\, marching ba
+ nds\, costumed characters and Santa. It starts at the Central Firehouse an
+ d ends on Fayette past the courthouse. Free. Details: https://weekendscout
+ .app/e/peoria/peoria-santa-claus-parade-2026-11/
+URL:https://weekendscout.app/e/peoria/peoria-santa-claus-parade-2026-11/
 END:VEVENT
 BEGIN:VEVENT
-UID:peoria-peoria-riverfront-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Peoria Riverfront
-LOCATION:Riverfront Park\, 200 NE Water St\, Peoria\, IL 61602
-DESCRIPTION:Downtown’s park on the Illinois River. Free. Details: https:
- //weekendscout.app/e/peoria/peoria-riverfront-2026-11/
-URL:https://weekendscout.app/e/peoria/peoria-riverfront-2026-11/
+UID:peoria-kris-kringle-market-peoria-heights-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261127T210000Z
+DTEND:20261128T010000Z
+SUMMARY:Kris Kringle Market in the Heights
+LOCATION:Tower Park\, 1222 E Kingman Ave\, Peoria Heights\, IL 61616
+DESCRIPTION:A free holiday market in Peoria Heights over three days. Frida
+ y has a tree lighting at 6 p.m. Free. Details: https://weekendscout.app/e/
+ peoria/kris-kringle-market-peoria-heights-2026-11/
+URL:https://weekendscout.app/e/peoria/kris-kringle-market-peoria-heights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
-UID:peoria-peoria-riverfront-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T055222Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Peoria Riverfront
-LOCATION:Riverfront Park\, 200 NE Water St\, Peoria\, IL 61602
-DESCRIPTION:Downtown’s park on the Illinois River. Free. Details: https:
- //weekendscout.app/e/peoria/peoria-riverfront-2026-11/
-URL:https://weekendscout.app/e/peoria/peoria-riverfront-2026-11/
+UID:peoria-kris-kringle-market-peoria-heights-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261128T180000Z
+DTEND:20261128T220000Z
+SUMMARY:Kris Kringle Market in the Heights
+LOCATION:Tower Park\, 1222 E Kingman Ave\, Peoria Heights\, IL 61616
+DESCRIPTION:A free holiday market in Peoria Heights over three days. Frida
+ y has a tree lighting at 6 p.m. Free. Details: https://weekendscout.app/e/
+ peoria/kris-kringle-market-peoria-heights-2026-11/
+URL:https://weekendscout.app/e/peoria/kris-kringle-market-peoria-heights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:peoria-kris-kringle-market-peoria-heights-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261129T180000Z
+DTEND:20261129T220000Z
+SUMMARY:Kris Kringle Market in the Heights
+LOCATION:Tower Park\, 1222 E Kingman Ave\, Peoria Heights\, IL 61616
+DESCRIPTION:A free holiday market in Peoria Heights over three days. Frida
+ y has a tree lighting at 6 p.m. Free. Details: https://weekendscout.app/e/
+ peoria/kris-kringle-market-peoria-heights-2026-11/
+URL:https://weekendscout.app/e/peoria/kris-kringle-market-peoria-heights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:peoria-luthy-lights-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261127T230000Z
+DTEND:20261128T030000Z
+SUMMARY:Luthy Lights
+LOCATION:Luthy Botanical Garden\, 2520 N Prospect Rd\, Peoria\, IL 61603
+DESCRIPTION:Holiday light displays at the botanical garden in Glen Oak Par
+ k\, opening this weekend. Outdoor ice skating is a separate $15 ticket on 
+ Saturday and Sunday. Free (donations appreciated). Details: https://weeken
+ dscout.app/e/peoria/luthy-lights-2026-11/
+URL:https://weekendscout.app/e/peoria/luthy-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:peoria-luthy-lights-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261128T230000Z
+DTEND:20261129T030000Z
+SUMMARY:Luthy Lights
+LOCATION:Luthy Botanical Garden\, 2520 N Prospect Rd\, Peoria\, IL 61603
+DESCRIPTION:Holiday light displays at the botanical garden in Glen Oak Par
+ k\, opening this weekend. Outdoor ice skating is a separate $15 ticket on 
+ Saturday and Sunday. Free (donations appreciated). Details: https://weeken
+ dscout.app/e/peoria/luthy-lights-2026-11/
+URL:https://weekendscout.app/e/peoria/luthy-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:peoria-luthy-lights-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261129T230000Z
+DTEND:20261130T020000Z
+SUMMARY:Luthy Lights
+LOCATION:Luthy Botanical Garden\, 2520 N Prospect Rd\, Peoria\, IL 61603
+DESCRIPTION:Holiday light displays at the botanical garden in Glen Oak Par
+ k\, opening this weekend. Outdoor ice skating is a separate $15 ticket on 
+ Saturday and Sunday. Free (donations appreciated). Details: https://weeken
+ dscout.app/e/peoria/luthy-lights-2026-11/
+URL:https://weekendscout.app/e/peoria/luthy-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:peoria-peoria-rivermen-quad-city-storm-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261128T011500Z
+DTEND:20261128T031500Z
+SUMMARY:Peoria Rivermen vs. Quad City Storm
+LOCATION:Peoria Civic Center Arena\, 201 SW Jefferson Ave\, Peoria\, IL 61
+ 602
+DESCRIPTION:SPHL hockey with back-to-back home games against rival Quad Ci
+ ty on Friday and Saturday nights. Check ticket prices. Details: https://we
+ ekendscout.app/e/peoria/peoria-rivermen-quad-city-storm-2026-11/
+URL:https://weekendscout.app/e/peoria/peoria-rivermen-quad-city-storm-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:peoria-peoria-rivermen-quad-city-storm-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261129T011500Z
+DTEND:20261129T031500Z
+SUMMARY:Peoria Rivermen vs. Quad City Storm
+LOCATION:Peoria Civic Center Arena\, 201 SW Jefferson Ave\, Peoria\, IL 61
+ 602
+DESCRIPTION:SPHL hockey with back-to-back home games against rival Quad Ci
+ ty on Friday and Saturday nights. Check ticket prices. Details: https://we
+ ekendscout.app/e/peoria/peoria-rivermen-quad-city-storm-2026-11/
+URL:https://weekendscout.app/e/peoria/peoria-rivermen-quad-city-storm-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:peoria-bradley-braves-chicago-state-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261128T190000Z
+DTEND:20261128T210000Z
+SUMMARY:Bradley Braves vs. Chicago State
+LOCATION:Peoria Civic Center Arena\, 201 SW Jefferson Ave\, Peoria\, IL 61
+ 602
+DESCRIPTION:Bradley men's basketball hosts Chicago State on Saturday after
+ noon at Carver Arena. Check ticket prices. Details: https://weekendscout.a
+ pp/e/peoria/bradley-braves-chicago-state-2026-11/
+URL:https://weekendscout.app/e/peoria/bradley-braves-chicago-state-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:peoria-michael-palascak-juke-box-comedy-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261128T020000Z
+DTEND:20261128T040000Z
+SUMMARY:Michael Palascak
+LOCATION:Juke Box Comedy Club\, 3527 W Farmington Rd\, Peoria\, IL 61604
+DESCRIPTION:Stand-up from a Last Comic Standing finalist with a Comedy Cen
+ tral special. The club rates the show PG-14. Tickets. Details: https://wee
+ kendscout.app/e/peoria/michael-palascak-juke-box-comedy-2026-11/
+URL:https://weekendscout.app/e/peoria/michael-palascak-juke-box-comedy-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:peoria-michael-palascak-juke-box-comedy-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261129T013000Z
+DTEND:20261129T033000Z
+SUMMARY:Michael Palascak
+LOCATION:Juke Box Comedy Club\, 3527 W Farmington Rd\, Peoria\, IL 61604
+DESCRIPTION:Stand-up from a Last Comic Standing finalist with a Comedy Cen
+ tral special. The club rates the show PG-14. Tickets. Details: https://wee
+ kendscout.app/e/peoria/michael-palascak-juke-box-comedy-2026-11/
+URL:https://weekendscout.app/e/peoria/michael-palascak-juke-box-comedy-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:peoria-jim-brickman-christmas-celebration-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261130T010000Z
+DTEND:20261130T030000Z
+SUMMARY:Jim Brickman: A Christmas Celebration
+LOCATION:Illinois Central College Performing Arts Center\, 1 College Dr\, 
+ East Peoria\, IL 61635
+DESCRIPTION:The pianist's holiday concert tour stops at ICC's East Peoria 
+ campus on Sunday evening. $43.50–$69.75. Details: https://weekendscout.a
+ pp/e/peoria/jim-brickman-christmas-celebration-2026-11/
+URL:https://weekendscout.app/e/peoria/jim-brickman-christmas-celebration-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:peoria-peoria-riverfront-museum-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T055222Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
+DTSTAMP:20261126T063011Z
+DTSTART:20261127T160000Z
+DTEND:20261127T230000Z
 SUMMARY:Peoria Riverfront Museum
 LOCATION:Peoria Riverfront Museum\, 222 SW Washington St\, Peoria\, IL 616
  02
-DESCRIPTION:Art\, science\, history and a giant-screen dome theater. Admis
- sion. Details: https://weekendscout.app/e/peoria/peoria-riverfront-museum-
- 2026-11/
+DESCRIPTION:Art\, science and history galleries with daytime planetarium s
+ hows included in admission. Closed Thanksgiving Day\, open Friday through 
+ Sunday. $16–$20. Details: https://weekendscout.app/e/peoria/peoria-river
+ front-museum-2026-11/
 URL:https://weekendscout.app/e/peoria/peoria-riverfront-museum-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:peoria-peoria-riverfront-museum-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
+DTSTAMP:20261126T063011Z
+DTSTART:20261128T160000Z
+DTEND:20261128T230000Z
 SUMMARY:Peoria Riverfront Museum
 LOCATION:Peoria Riverfront Museum\, 222 SW Washington St\, Peoria\, IL 616
  02
-DESCRIPTION:Art\, science\, history and a giant-screen dome theater. Admis
- sion. Details: https://weekendscout.app/e/peoria/peoria-riverfront-museum-
- 2026-11/
+DESCRIPTION:Art\, science and history galleries with daytime planetarium s
+ hows included in admission. Closed Thanksgiving Day\, open Friday through 
+ Sunday. $16–$20. Details: https://weekendscout.app/e/peoria/peoria-river
+ front-museum-2026-11/
 URL:https://weekendscout.app/e/peoria/peoria-riverfront-museum-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:peoria-peoria-riverfront-museum-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T055222Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
+DTSTAMP:20261126T063011Z
+DTSTART:20261129T180000Z
+DTEND:20261129T230000Z
 SUMMARY:Peoria Riverfront Museum
 LOCATION:Peoria Riverfront Museum\, 222 SW Washington St\, Peoria\, IL 616
  02
-DESCRIPTION:Art\, science\, history and a giant-screen dome theater. Admis
- sion. Details: https://weekendscout.app/e/peoria/peoria-riverfront-museum-
- 2026-11/
+DESCRIPTION:Art\, science and history galleries with daytime planetarium s
+ hows included in admission. Closed Thanksgiving Day\, open Friday through 
+ Sunday. $16–$20. Details: https://weekendscout.app/e/peoria/peoria-river
+ front-museum-2026-11/
 URL:https://weekendscout.app/e/peoria/peoria-riverfront-museum-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:peoria-luthy-botanical-garden-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T055222Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Luthy Botanical Garden
-LOCATION:Luthy Botanical Garden\, 2520 N Prospect Rd\, Peoria\, IL 61603
-DESCRIPTION:A conservatory and gardens in Glen Oak Park. Free (donations w
- elcome). Details: https://weekendscout.app/e/peoria/luthy-botanical-garden
- -2026-11/
-URL:https://weekendscout.app/e/peoria/luthy-botanical-garden-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:peoria-luthy-botanical-garden-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Luthy Botanical Garden
-LOCATION:Luthy Botanical Garden\, 2520 N Prospect Rd\, Peoria\, IL 61603
-DESCRIPTION:A conservatory and gardens in Glen Oak Park. Free (donations w
- elcome). Details: https://weekendscout.app/e/peoria/luthy-botanical-garden
- -2026-11/
-URL:https://weekendscout.app/e/peoria/luthy-botanical-garden-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:peoria-luthy-botanical-garden-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T055222Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Luthy Botanical Garden
-LOCATION:Luthy Botanical Garden\, 2520 N Prospect Rd\, Peoria\, IL 61603
-DESCRIPTION:A conservatory and gardens in Glen Oak Park. Free (donations w
- elcome). Details: https://weekendscout.app/e/peoria/luthy-botanical-garden
- -2026-11/
-URL:https://weekendscout.app/e/peoria/luthy-botanical-garden-2026-11/
 END:VEVENT
 END:VCALENDAR

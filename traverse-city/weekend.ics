@@ -8,120 +8,220 @@ X-WR-CALDESC:Hand-checked weekend picks in Traverse City, updated every Wednesda
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
+UID:traverse-city-village-tree-lighting-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261128T220000Z
+DTEND:20261128T231500Z
+SUMMARY:The Village Tree Lighting
+LOCATION:Grand Traverse Commons\, 1200 W 11th St\, Traverse City\, MI 4968
+ 4
+DESCRIPTION:Hot chocolate and Christmas music on the historic front lawn\,
+  then Santa lights the tree at 6:15 p.m. Some Mercato shops stay open late
+  for Small Business Saturday. Free. Details: https://weekendscout.app/e/tr
+ averse-city/village-tree-lighting-2026-11/
+URL:https://weekendscout.app/e/traverse-city/village-tree-lighting-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:traverse-city-village-indoor-farmers-market-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261128T150000Z
+DTEND:20261128T190000Z
+SUMMARY:Indoor Farmers Market
+LOCATION:Grand Traverse Commons\, 1200 W 11th St\, Traverse City\, MI 4968
+ 4
+DESCRIPTION:More than 30 vendors sell eggs\, meats\, cheeses\, produce and
+  fresh bread in the Mercato corridor. Free entry. Details: https://weekend
+ scout.app/e/traverse-city/village-indoor-farmers-market-2026-11/
+URL:https://weekendscout.app/e/traverse-city/village-indoor-farmers-market-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:traverse-city-downtown-tc-black-friday-small-business-saturday-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261127T140000Z
+DTEND:20261128T040000Z
+SUMMARY:Black Friday & Small Business Saturday
+LOCATION:Downtown Traverse City\, E Front St\, Traverse City\, MI 49684
+DESCRIPTION:Downtown shops and restaurants\, mostly along Front Street\, o
+ ffer holiday deals and in-store events. Each business sets its own hours. 
+ Free to browse. Details: https://weekendscout.app/e/traverse-city/downtown
+ -tc-black-friday-small-business-saturday-2026-11/
+URL:https://weekendscout.app/e/traverse-city/downtown-tc-black-friday-small-business-saturday-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:traverse-city-downtown-tc-black-friday-small-business-saturday-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261128T140000Z
+DTEND:20261129T040000Z
+SUMMARY:Black Friday & Small Business Saturday
+LOCATION:Downtown Traverse City\, E Front St\, Traverse City\, MI 49684
+DESCRIPTION:Downtown shops and restaurants\, mostly along Front Street\, o
+ ffer holiday deals and in-store events. Each business sets its own hours. 
+ Free to browse. Details: https://weekendscout.app/e/traverse-city/downtown
+ -tc-black-friday-small-business-saturday-2026-11/
+URL:https://weekendscout.app/e/traverse-city/downtown-tc-black-friday-small-business-saturday-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:traverse-city-downtown-tc-santas-house-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261127T220000Z
+DTEND:20261128T010000Z
+SUMMARY:Santa's House
+LOCATION:City Centre Plaza\, Cass St & State St\, Traverse City\, MI 49684
+DESCRIPTION:Visit Santa downtown at City Centre Plaza through December 24.
+  Check details. Details: https://weekendscout.app/e/traverse-city/downtown
+ -tc-santas-house-2026-11/
+URL:https://weekendscout.app/e/traverse-city/downtown-tc-santas-house-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:traverse-city-downtown-tc-santas-house-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261128T170000Z
+DTEND:20261128T200000Z
+SUMMARY:Santa's House
+LOCATION:City Centre Plaza\, Cass St & State St\, Traverse City\, MI 49684
+DESCRIPTION:Visit Santa downtown at City Centre Plaza through December 24.
+  Check details. Details: https://weekendscout.app/e/traverse-city/downtown
+ -tc-santas-house-2026-11/
+URL:https://weekendscout.app/e/traverse-city/downtown-tc-santas-house-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:traverse-city-downtown-tc-santas-house-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261129T170000Z
+DTEND:20261129T200000Z
+SUMMARY:Santa's House
+LOCATION:City Centre Plaza\, Cass St & State St\, Traverse City\, MI 49684
+DESCRIPTION:Visit Santa downtown at City Centre Plaza through December 24.
+  Check details. Details: https://weekendscout.app/e/traverse-city/downtown
+ -tc-santas-house-2026-11/
+URL:https://weekendscout.app/e/traverse-city/downtown-tc-santas-house-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:traverse-city-alluvion-big-band-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261129T193000Z
+DTEND:20261129T210000Z
+SUMMARY:The Alluvion Big Band
+LOCATION:The Alluvion\, 414 E Eighth St\, Traverse City\, MI 49686
+DESCRIPTION:Traverse City's big band of professional Michigan musicians\, 
+ directed by Chris Glassman\, plays its last-Sunday-of-the-month afternoon 
+ show. Check ticket prices. Details: https://weekendscout.app/e/traverse-ci
+ ty/alluvion-big-band-2026-11/
+URL:https://weekendscout.app/e/traverse-city/alluvion-big-band-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:traverse-city-northport-holiday-concert-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261129T190000Z
+DTEND:20261129T210000Z
+SUMMARY:Northport's Annual Holiday Concert
+LOCATION:Northport Performing Arts Center\, 104 S Wing St\, Northport\, MI
+  49670
+DESCRIPTION:The Village Voices and the Northport Community Band play holid
+ ay classics and new music\, ending with a singalong. Northport is about 28
+  miles north of Traverse City. $15 adults\; $5 students. Details: https://
+ weekendscout.app/e/traverse-city/northport-holiday-concert-2026-11/
+URL:https://weekendscout.app/e/traverse-city/northport-holiday-concert-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:traverse-city-dennos-museum-center-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261128T160000Z
+DTEND:20261128T210000Z
+SUMMARY:Dennos Museum Center
+LOCATION:Dennos Museum Center\, 1701 E Front St\, Traverse City\, MI 49686
+DESCRIPTION:The art museum at Northwestern Michigan College is closed Than
+ ksgiving and Friday\, then reopens Saturday and Sunday. $10 adults\; $5 ag
+ es 5–17\; 4 and under free. Details: https://weekendscout.app/e/traverse
+ -city/dennos-museum-center-2026-11/
+URL:https://weekendscout.app/e/traverse-city/dennos-museum-center-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:traverse-city-dennos-museum-center-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261129T160000Z
+DTEND:20261129T210000Z
+SUMMARY:Dennos Museum Center
+LOCATION:Dennos Museum Center\, 1701 E Front St\, Traverse City\, MI 49686
+DESCRIPTION:The art museum at Northwestern Michigan College is closed Than
+ ksgiving and Friday\, then reopens Saturday and Sunday. $10 adults\; $5 ag
+ es 5–17\; 4 and under free. Details: https://weekendscout.app/e/traverse
+ -city/dennos-museum-center-2026-11/
+URL:https://weekendscout.app/e/traverse-city/dennos-museum-center-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:traverse-city-great-lakes-childrens-museum-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261127T143000Z
+DTEND:20261127T213000Z
+SUMMARY:Great Lakes Children's Museum
+LOCATION:Great Lakes Children's Museum\, 3200 W South Airport Rd\, Ste 420
+ \, Traverse City\, MI 49684
+DESCRIPTION:Hands-on museum for young kids inside the Grand Traverse Mall.
+  $10 (ages 1+). Details: https://weekendscout.app/e/traverse-city/great-la
+ kes-childrens-museum-2026-11/
+URL:https://weekendscout.app/e/traverse-city/great-lakes-childrens-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:traverse-city-great-lakes-childrens-museum-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261128T143000Z
+DTEND:20261128T213000Z
+SUMMARY:Great Lakes Children's Museum
+LOCATION:Great Lakes Children's Museum\, 3200 W South Airport Rd\, Ste 420
+ \, Traverse City\, MI 49684
+DESCRIPTION:Hands-on museum for young kids inside the Grand Traverse Mall.
+  $10 (ages 1+). Details: https://weekendscout.app/e/traverse-city/great-la
+ kes-childrens-museum-2026-11/
+URL:https://weekendscout.app/e/traverse-city/great-lakes-childrens-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:traverse-city-great-lakes-childrens-museum-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261129T170000Z
+DTEND:20261129T213000Z
+SUMMARY:Great Lakes Children's Museum
+LOCATION:Great Lakes Children's Museum\, 3200 W South Airport Rd\, Ste 420
+ \, Traverse City\, MI 49684
+DESCRIPTION:Hands-on museum for young kids inside the Grand Traverse Mall.
+  $10 (ages 1+). Details: https://weekendscout.app/e/traverse-city/great-la
+ kes-childrens-museum-2026-11/
+URL:https://weekendscout.app/e/traverse-city/great-lakes-childrens-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
 UID:traverse-city-clinch-park-the-bay-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063011Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
 SUMMARY:Clinch Park & the bay
 LOCATION:Clinch Park\, 181 E Grandview Pkwy\, Traverse City\, MI 49684
-DESCRIPTION:Downtown’s beach park on West Grand Traverse Bay. Free. Deta
- ils: https://weekendscout.app/e/traverse-city/clinch-park-the-bay-2026-11/
+DESCRIPTION:Downtown's beach park on West Grand Traverse Bay. Free. Detail
+ s: https://weekendscout.app/e/traverse-city/clinch-park-the-bay-2026-11/
 URL:https://weekendscout.app/e/traverse-city/clinch-park-the-bay-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:traverse-city-clinch-park-the-bay-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063011Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
 SUMMARY:Clinch Park & the bay
 LOCATION:Clinch Park\, 181 E Grandview Pkwy\, Traverse City\, MI 49684
-DESCRIPTION:Downtown’s beach park on West Grand Traverse Bay. Free. Deta
- ils: https://weekendscout.app/e/traverse-city/clinch-park-the-bay-2026-11/
+DESCRIPTION:Downtown's beach park on West Grand Traverse Bay. Free. Detail
+ s: https://weekendscout.app/e/traverse-city/clinch-park-the-bay-2026-11/
 URL:https://weekendscout.app/e/traverse-city/clinch-park-the-bay-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:traverse-city-clinch-park-the-bay-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063011Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
 SUMMARY:Clinch Park & the bay
 LOCATION:Clinch Park\, 181 E Grandview Pkwy\, Traverse City\, MI 49684
-DESCRIPTION:Downtown’s beach park on West Grand Traverse Bay. Free. Deta
- ils: https://weekendscout.app/e/traverse-city/clinch-park-the-bay-2026-11/
+DESCRIPTION:Downtown's beach park on West Grand Traverse Bay. Free. Detail
+ s: https://weekendscout.app/e/traverse-city/clinch-park-the-bay-2026-11/
 URL:https://weekendscout.app/e/traverse-city/clinch-park-the-bay-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:traverse-city-front-street-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T055222Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Front Street
-LOCATION:Downtown Traverse City\, E Front St\, Traverse City\, MI 49684
-DESCRIPTION:Shops\, cherry treats and restaurants on the main street\, lit
-  for the season. Free to browse. Details: https://weekendscout.app/e/trave
- rse-city/front-street-2026-11/
-URL:https://weekendscout.app/e/traverse-city/front-street-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:traverse-city-front-street-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Front Street
-LOCATION:Downtown Traverse City\, E Front St\, Traverse City\, MI 49684
-DESCRIPTION:Shops\, cherry treats and restaurants on the main street\, lit
-  for the season. Free to browse. Details: https://weekendscout.app/e/trave
- rse-city/front-street-2026-11/
-URL:https://weekendscout.app/e/traverse-city/front-street-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:traverse-city-front-street-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T055222Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Front Street
-LOCATION:Downtown Traverse City\, E Front St\, Traverse City\, MI 49684
-DESCRIPTION:Shops\, cherry treats and restaurants on the main street\, lit
-  for the season. Free to browse. Details: https://weekendscout.app/e/trave
- rse-city/front-street-2026-11/
-URL:https://weekendscout.app/e/traverse-city/front-street-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:traverse-city-the-village-at-grand-traverse-commons-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T055222Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:The Village at Grand Traverse Commons
-LOCATION:Grand Traverse Commons\, 1200 W 11th St\, Traverse City\, MI 4968
- 4
-DESCRIPTION:A restored 1880s asylum turned into shops\, galleries and rest
- aurants. Free to browse. Details: https://weekendscout.app/e/traverse-city
- /the-village-at-grand-traverse-commons-2026-11/
-URL:https://weekendscout.app/e/traverse-city/the-village-at-grand-traverse-commons-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:traverse-city-the-village-at-grand-traverse-commons-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:The Village at Grand Traverse Commons
-LOCATION:Grand Traverse Commons\, 1200 W 11th St\, Traverse City\, MI 4968
- 4
-DESCRIPTION:A restored 1880s asylum turned into shops\, galleries and rest
- aurants. Free to browse. Details: https://weekendscout.app/e/traverse-city
- /the-village-at-grand-traverse-commons-2026-11/
-URL:https://weekendscout.app/e/traverse-city/the-village-at-grand-traverse-commons-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:traverse-city-the-village-at-grand-traverse-commons-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T055222Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:The Village at Grand Traverse Commons
-LOCATION:Grand Traverse Commons\, 1200 W 11th St\, Traverse City\, MI 4968
- 4
-DESCRIPTION:A restored 1880s asylum turned into shops\, galleries and rest
- aurants. Free to browse. Details: https://weekendscout.app/e/traverse-city
- /the-village-at-grand-traverse-commons-2026-11/
-URL:https://weekendscout.app/e/traverse-city/the-village-at-grand-traverse-commons-2026-11/
 END:VEVENT
 END:VCALENDAR

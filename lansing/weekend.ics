@@ -8,48 +8,152 @@ X-WR-CALDESC:Hand-checked weekend picks in Lansing, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:lansing-michigan-state-capitol-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+UID:lansing-wonderland-of-lights-potter-park-zoo-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261127T220000Z
+DTEND:20261128T010000Z
+SUMMARY:Wonderland of Lights
+LOCATION:Potter Park Zoo\, 1301 S Pennsylvania Ave\, Lansing\, MI 48912
+DESCRIPTION:The zoo's 34th annual holiday light walk\, open Thursday throu
+ gh Sunday evenings through Dec. 23. $7–$10 (under 3 free). Details: http
+ s://weekendscout.app/e/lansing/wonderland-of-lights-potter-park-zoo-2026-1
+ 1/
+URL:https://weekendscout.app/e/lansing/wonderland-of-lights-potter-park-zoo-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:lansing-wonderland-of-lights-potter-park-zoo-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261128T220000Z
+DTEND:20261129T010000Z
+SUMMARY:Wonderland of Lights
+LOCATION:Potter Park Zoo\, 1301 S Pennsylvania Ave\, Lansing\, MI 48912
+DESCRIPTION:The zoo's 34th annual holiday light walk\, open Thursday throu
+ gh Sunday evenings through Dec. 23. $7–$10 (under 3 free). Details: http
+ s://weekendscout.app/e/lansing/wonderland-of-lights-potter-park-zoo-2026-1
+ 1/
+URL:https://weekendscout.app/e/lansing/wonderland-of-lights-potter-park-zoo-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:lansing-wonderland-of-lights-potter-park-zoo-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261129T220000Z
+DTEND:20261130T010000Z
+SUMMARY:Wonderland of Lights
+LOCATION:Potter Park Zoo\, 1301 S Pennsylvania Ave\, Lansing\, MI 48912
+DESCRIPTION:The zoo's 34th annual holiday light walk\, open Thursday throu
+ gh Sunday evenings through Dec. 23. $7–$10 (under 3 free). Details: http
+ s://weekendscout.app/e/lansing/wonderland-of-lights-potter-park-zoo-2026-1
+ 1/
+URL:https://weekendscout.app/e/lansing/wonderland-of-lights-potter-park-zoo-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:lansing-lansing-christmas-adventure-williamston-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261127T190000Z
+DTEND:20261127T210000Z
+SUMMARY:A Lansing Christmas Adventure
+LOCATION:Williamston Theatre\, 122 S Putnam St\, Williamston\, MI 48895
+DESCRIPTION:Williamston Theatre's holiday comedy follows young Danny on a 
+ snowy Christmas Eve quest across familiar Lansing stops. Opening night is 
+ Friday at 7:30 p.m.\, with an extra 2 p.m. show\; it runs through Dec. 27.
+  Tickets. Details: https://weekendscout.app/e/lansing/lansing-christmas-ad
+ venture-williamston-2026-11/
+URL:https://weekendscout.app/e/lansing/lansing-christmas-adventure-williamston-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:lansing-lansing-christmas-adventure-williamston-2026-11-fri-1@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261128T003000Z
+DTEND:20261128T023000Z
+SUMMARY:A Lansing Christmas Adventure
+LOCATION:Williamston Theatre\, 122 S Putnam St\, Williamston\, MI 48895
+DESCRIPTION:Williamston Theatre's holiday comedy follows young Danny on a 
+ snowy Christmas Eve quest across familiar Lansing stops. Opening night is 
+ Friday at 7:30 p.m.\, with an extra 2 p.m. show\; it runs through Dec. 27.
+  Tickets. Details: https://weekendscout.app/e/lansing/lansing-christmas-ad
+ venture-williamston-2026-11/
+URL:https://weekendscout.app/e/lansing/lansing-christmas-adventure-williamston-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:lansing-lansing-christmas-adventure-williamston-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T063011Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
-SUMMARY:Michigan State Capitol
-LOCATION:Michigan State Capitol\, 100 N Capitol Ave\, Lansing\, MI 48933
-DESCRIPTION:Free tours of the restored 1879 capitol. Free. Details: https:
- //weekendscout.app/e/lansing/michigan-state-capitol-2026-11/
-URL:https://weekendscout.app/e/lansing/michigan-state-capitol-2026-11/
+SUMMARY:A Lansing Christmas Adventure
+LOCATION:Williamston Theatre\, 122 S Putnam St\, Williamston\, MI 48895
+DESCRIPTION:Williamston Theatre's holiday comedy follows young Danny on a 
+ snowy Christmas Eve quest across familiar Lansing stops. Opening night is 
+ Friday at 7:30 p.m.\, with an extra 2 p.m. show\; it runs through Dec. 27.
+  Tickets. Details: https://weekendscout.app/e/lansing/lansing-christmas-ad
+ venture-williamston-2026-11/
+URL:https://weekendscout.app/e/lansing/lansing-christmas-adventure-williamston-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:lansing-broad-art-museum-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
+DTSTAMP:20261126T063011Z
+DTSTART:20261128T150000Z
+DTEND:20261128T230000Z
 SUMMARY:Broad Art Museum
 LOCATION:Eli and Edythe Broad Art Museum\, 547 E Circle Dr\, East Lansing\
  , MI 48824
-DESCRIPTION:Zaha Hadid’s steel-and-glass museum at Michigan State. Free 
- admission. Details: https://weekendscout.app/e/lansing/broad-art-museum-20
- 26-11/
+DESCRIPTION:Zaha Hadid's steel-and-glass museum at Michigan State. Closed 
+ Friday\, then open Saturday and Sunday. Free. Details: https://weekendscou
+ t.app/e/lansing/broad-art-museum-2026-11/
 URL:https://weekendscout.app/e/lansing/broad-art-museum-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:lansing-broad-art-museum-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T055222Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
+DTSTAMP:20261126T063011Z
+DTSTART:20261129T150000Z
+DTEND:20261129T230000Z
 SUMMARY:Broad Art Museum
 LOCATION:Eli and Edythe Broad Art Museum\, 547 E Circle Dr\, East Lansing\
  , MI 48824
-DESCRIPTION:Zaha Hadid’s steel-and-glass museum at Michigan State. Free 
- admission. Details: https://weekendscout.app/e/lansing/broad-art-museum-20
- 26-11/
+DESCRIPTION:Zaha Hadid's steel-and-glass museum at Michigan State. Closed 
+ Friday\, then open Saturday and Sunday. Free. Details: https://weekendscou
+ t.app/e/lansing/broad-art-museum-2026-11/
 URL:https://weekendscout.app/e/lansing/broad-art-museum-2026-11/
 END:VEVENT
 BEGIN:VEVENT
+UID:lansing-potter-park-zoo-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261127T150000Z
+DTEND:20261127T210000Z
+SUMMARY:Potter Park Zoo
+LOCATION:Potter Park Zoo\, 1301 S Pennsylvania Ave\, Lansing\, MI 48912
+DESCRIPTION:Daytime visits on winter hours along the Red Cedar River. Open
+  every day except Christmas. $5–$6 (under 3 free). Details: https://week
+ endscout.app/e/lansing/potter-park-zoo-2026-11/
+URL:https://weekendscout.app/e/lansing/potter-park-zoo-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:lansing-potter-park-zoo-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261128T150000Z
+DTEND:20261128T210000Z
+SUMMARY:Potter Park Zoo
+LOCATION:Potter Park Zoo\, 1301 S Pennsylvania Ave\, Lansing\, MI 48912
+DESCRIPTION:Daytime visits on winter hours along the Red Cedar River. Open
+  every day except Christmas. $5–$6 (under 3 free). Details: https://week
+ endscout.app/e/lansing/potter-park-zoo-2026-11/
+URL:https://weekendscout.app/e/lansing/potter-park-zoo-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:lansing-potter-park-zoo-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261129T150000Z
+DTEND:20261129T210000Z
+SUMMARY:Potter Park Zoo
+LOCATION:Potter Park Zoo\, 1301 S Pennsylvania Ave\, Lansing\, MI 48912
+DESCRIPTION:Daytime visits on winter hours along the Red Cedar River. Open
+  every day except Christmas. $5–$6 (under 3 free). Details: https://week
+ endscout.app/e/lansing/potter-park-zoo-2026-11/
+URL:https://weekendscout.app/e/lansing/potter-park-zoo-2026-11/
+END:VEVENT
+BEGIN:VEVENT
 UID:lansing-lansing-river-trail-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063011Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -61,7 +165,7 @@ URL:https://weekendscout.app/e/lansing/lansing-river-trail-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:lansing-lansing-river-trail-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063011Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -73,7 +177,7 @@ URL:https://weekendscout.app/e/lansing/lansing-river-trail-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:lansing-lansing-river-trail-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063011Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -82,41 +186,5 @@ LOCATION:Lansing River Trail\, Riverfront\, Lansing\, MI 48933
 DESCRIPTION:A 13-mile path along the Grand and Red Cedar rivers. Free. Det
  ails: https://weekendscout.app/e/lansing/lansing-river-trail-2026-11/
 URL:https://weekendscout.app/e/lansing/lansing-river-trail-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:lansing-impression-5-science-center-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T055222Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Impression 5 Science Center
-LOCATION:Impression 5 Science Center\, 200 Museum Dr\, Lansing\, MI 48933
-DESCRIPTION:Hands-on science for kids. Admission. Details: https://weekend
- scout.app/e/lansing/impression-5-science-center-2026-11/
-URL:https://weekendscout.app/e/lansing/impression-5-science-center-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:lansing-impression-5-science-center-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Impression 5 Science Center
-LOCATION:Impression 5 Science Center\, 200 Museum Dr\, Lansing\, MI 48933
-DESCRIPTION:Hands-on science for kids. Admission. Details: https://weekend
- scout.app/e/lansing/impression-5-science-center-2026-11/
-URL:https://weekendscout.app/e/lansing/impression-5-science-center-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:lansing-impression-5-science-center-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T055222Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Impression 5 Science Center
-LOCATION:Impression 5 Science Center\, 200 Museum Dr\, Lansing\, MI 48933
-DESCRIPTION:Hands-on science for kids. Admission. Details: https://weekend
- scout.app/e/lansing/impression-5-science-center-2026-11/
-URL:https://weekendscout.app/e/lansing/impression-5-science-center-2026-11/
 END:VEVENT
 END:VCALENDAR

@@ -8,89 +8,284 @@ X-WR-CALDESC:Hand-checked weekend picks in Evansville, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:evansville-evansville-riverfront-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T055222Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Evansville Riverfront
-LOCATION:Dress Plaza\, Riverside Dr\, Evansville\, IN 47708
-DESCRIPTION:A paved walk on the big bend of the Ohio River. Free. Details:
-  https://weekendscout.app/e/evansville/evansville-riverfront-2026-11/
-URL:https://weekendscout.app/e/evansville/evansville-riverfront-2026-11/
+UID:evansville-hadi-shrine-circus-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261127T153000Z
+DTEND:20261127T173000Z
+SUMMARY:92nd Annual Hadi Shrine Circus
+LOCATION:Ford Center\, 1 SE Martin Luther King Jr. Blvd\, Evansville\, IN 
+ 47708
+DESCRIPTION:The long-running Shrine Circus has seven shows from Friday to 
+ Sunday. Prices include the Ford Center facility fee. $17–$44. Details: h
+ ttps://weekendscout.app/e/evansville/hadi-shrine-circus-2026-11/
+URL:https://weekendscout.app/e/evansville/hadi-shrine-circus-2026-11/
 END:VEVENT
 BEGIN:VEVENT
-UID:evansville-evansville-riverfront-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Evansville Riverfront
-LOCATION:Dress Plaza\, Riverside Dr\, Evansville\, IN 47708
-DESCRIPTION:A paved walk on the big bend of the Ohio River. Free. Details:
-  https://weekendscout.app/e/evansville/evansville-riverfront-2026-11/
-URL:https://weekendscout.app/e/evansville/evansville-riverfront-2026-11/
+UID:evansville-hadi-shrine-circus-2026-11-fri-1@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261127T200000Z
+DTEND:20261127T220000Z
+SUMMARY:92nd Annual Hadi Shrine Circus
+LOCATION:Ford Center\, 1 SE Martin Luther King Jr. Blvd\, Evansville\, IN 
+ 47708
+DESCRIPTION:The long-running Shrine Circus has seven shows from Friday to 
+ Sunday. Prices include the Ford Center facility fee. $17–$44. Details: h
+ ttps://weekendscout.app/e/evansville/hadi-shrine-circus-2026-11/
+URL:https://weekendscout.app/e/evansville/hadi-shrine-circus-2026-11/
 END:VEVENT
 BEGIN:VEVENT
-UID:evansville-evansville-riverfront-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T055222Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Evansville Riverfront
-LOCATION:Dress Plaza\, Riverside Dr\, Evansville\, IN 47708
-DESCRIPTION:A paved walk on the big bend of the Ohio River. Free. Details:
-  https://weekendscout.app/e/evansville/evansville-riverfront-2026-11/
-URL:https://weekendscout.app/e/evansville/evansville-riverfront-2026-11/
+UID:evansville-hadi-shrine-circus-2026-11-fri-2@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261128T010000Z
+DTEND:20261128T030000Z
+SUMMARY:92nd Annual Hadi Shrine Circus
+LOCATION:Ford Center\, 1 SE Martin Luther King Jr. Blvd\, Evansville\, IN 
+ 47708
+DESCRIPTION:The long-running Shrine Circus has seven shows from Friday to 
+ Sunday. Prices include the Ford Center facility fee. $17–$44. Details: h
+ ttps://weekendscout.app/e/evansville/hadi-shrine-circus-2026-11/
+URL:https://weekendscout.app/e/evansville/hadi-shrine-circus-2026-11/
 END:VEVENT
 BEGIN:VEVENT
-UID:evansville-mesker-park-zoo-botanic-garden-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T055222Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Mesker Park Zoo & Botanic Garden
-LOCATION:Mesker Park Zoo\, 1545 Mesker Park Dr\, Evansville\, IN 47720
-DESCRIPTION:Zoo with an Amazonia rainforest building. Admission. Details: 
- https://weekendscout.app/e/evansville/mesker-park-zoo-botanic-garden-2026-
- 11/
-URL:https://weekendscout.app/e/evansville/mesker-park-zoo-botanic-garden-2026-11/
+UID:evansville-hadi-shrine-circus-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261128T153000Z
+DTEND:20261128T173000Z
+SUMMARY:92nd Annual Hadi Shrine Circus
+LOCATION:Ford Center\, 1 SE Martin Luther King Jr. Blvd\, Evansville\, IN 
+ 47708
+DESCRIPTION:The long-running Shrine Circus has seven shows from Friday to 
+ Sunday. Prices include the Ford Center facility fee. $17–$44. Details: h
+ ttps://weekendscout.app/e/evansville/hadi-shrine-circus-2026-11/
+URL:https://weekendscout.app/e/evansville/hadi-shrine-circus-2026-11/
 END:VEVENT
 BEGIN:VEVENT
-UID:evansville-mesker-park-zoo-botanic-garden-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Mesker Park Zoo & Botanic Garden
-LOCATION:Mesker Park Zoo\, 1545 Mesker Park Dr\, Evansville\, IN 47720
-DESCRIPTION:Zoo with an Amazonia rainforest building. Admission. Details: 
- https://weekendscout.app/e/evansville/mesker-park-zoo-botanic-garden-2026-
- 11/
-URL:https://weekendscout.app/e/evansville/mesker-park-zoo-botanic-garden-2026-11/
+UID:evansville-hadi-shrine-circus-2026-11-sat-1@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261128T200000Z
+DTEND:20261128T220000Z
+SUMMARY:92nd Annual Hadi Shrine Circus
+LOCATION:Ford Center\, 1 SE Martin Luther King Jr. Blvd\, Evansville\, IN 
+ 47708
+DESCRIPTION:The long-running Shrine Circus has seven shows from Friday to 
+ Sunday. Prices include the Ford Center facility fee. $17–$44. Details: h
+ ttps://weekendscout.app/e/evansville/hadi-shrine-circus-2026-11/
+URL:https://weekendscout.app/e/evansville/hadi-shrine-circus-2026-11/
 END:VEVENT
 BEGIN:VEVENT
-UID:evansville-mesker-park-zoo-botanic-garden-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T055222Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Mesker Park Zoo & Botanic Garden
-LOCATION:Mesker Park Zoo\, 1545 Mesker Park Dr\, Evansville\, IN 47720
-DESCRIPTION:Zoo with an Amazonia rainforest building. Admission. Details: 
- https://weekendscout.app/e/evansville/mesker-park-zoo-botanic-garden-2026-
- 11/
-URL:https://weekendscout.app/e/evansville/mesker-park-zoo-botanic-garden-2026-11/
+UID:evansville-hadi-shrine-circus-2026-11-sat-2@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:92nd Annual Hadi Shrine Circus
+LOCATION:Ford Center\, 1 SE Martin Luther King Jr. Blvd\, Evansville\, IN 
+ 47708
+DESCRIPTION:The long-running Shrine Circus has seven shows from Friday to 
+ Sunday. Prices include the Ford Center facility fee. $17–$44. Details: h
+ ttps://weekendscout.app/e/evansville/hadi-shrine-circus-2026-11/
+URL:https://weekendscout.app/e/evansville/hadi-shrine-circus-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:evansville-hadi-shrine-circus-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261129T210000Z
+DTEND:20261129T230000Z
+SUMMARY:92nd Annual Hadi Shrine Circus
+LOCATION:Ford Center\, 1 SE Martin Luther King Jr. Blvd\, Evansville\, IN 
+ 47708
+DESCRIPTION:The long-running Shrine Circus has seven shows from Friday to 
+ Sunday. Prices include the Ford Center facility fee. $17–$44. Details: h
+ ttps://weekendscout.app/e/evansville/hadi-shrine-circus-2026-11/
+URL:https://weekendscout.app/e/evansville/hadi-shrine-circus-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:evansville-ritzys-fantasy-of-lights-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261127T230000Z
+DTEND:20261128T040000Z
+SUMMARY:Ritzy's Fantasy of Lights
+LOCATION:Garvin Park\, 1600 N Main St\, Evansville\, IN 47710
+DESCRIPTION:A drive-through holiday light show in Garvin Park that benefit
+ s Easterseals. It costs $7 per car of up to six people\, and carriage ride
+ s run when the weather allows. $7–$25 per vehicle. Details: https://week
+ endscout.app/e/evansville/ritzys-fantasy-of-lights-2026-11/
+URL:https://weekendscout.app/e/evansville/ritzys-fantasy-of-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:evansville-ritzys-fantasy-of-lights-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261128T230000Z
+DTEND:20261129T040000Z
+SUMMARY:Ritzy's Fantasy of Lights
+LOCATION:Garvin Park\, 1600 N Main St\, Evansville\, IN 47710
+DESCRIPTION:A drive-through holiday light show in Garvin Park that benefit
+ s Easterseals. It costs $7 per car of up to six people\, and carriage ride
+ s run when the weather allows. $7–$25 per vehicle. Details: https://week
+ endscout.app/e/evansville/ritzys-fantasy-of-lights-2026-11/
+URL:https://weekendscout.app/e/evansville/ritzys-fantasy-of-lights-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:evansville-ritzys-fantasy-of-lights-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261129T230000Z
+DTEND:20261130T030000Z
+SUMMARY:Ritzy's Fantasy of Lights
+LOCATION:Garvin Park\, 1600 N Main St\, Evansville\, IN 47710
+DESCRIPTION:A drive-through holiday light show in Garvin Park that benefit
+ s Easterseals. It costs $7 per car of up to six people\, and carriage ride
+ s run when the weather allows. $7–$25 per vehicle. Details: https://week
+ endscout.app/e/evansville/ritzys-fantasy-of-lights-2026-11/
+URL:https://weekendscout.app/e/evansville/ritzys-fantasy-of-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:evansville-southern-indiana-vs-ball-state-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063011Z
 DTSTART:20261128T190000Z
 DTEND:20261128T210000Z
 SUMMARY:Southern Indiana vs. Ball State
 LOCATION:Liberty Arena\, 8600 University Blvd\, Evansville\, IN 47712
-DESCRIPTION:Screaming Eagles basketball on Saturday. Tickets. Details: htt
- ps://weekendscout.app/e/evansville/southern-indiana-vs-ball-state-2026-11/
+DESCRIPTION:USI Screaming Eagles men's basketball hosts Ball State on Satu
+ rday afternoon. Tickets. Details: https://weekendscout.app/e/evansville/so
+ uthern-indiana-vs-ball-state-2026-11/
 URL:https://weekendscout.app/e/evansville/southern-indiana-vs-ball-state-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:evansville-downtown-evansville-small-business-saturday-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261128T160000Z
+DTEND:20261128T230000Z
+SUMMARY:Small Business Saturday Downtown
+LOCATION:Downtown Evansville\, 318 Main St\, Evansville\, IN 47708
+DESCRIPTION:Pick up a free Shop Small bag and map at 318 Main Street\, the
+ n collect passport stamps at downtown shops and restaurants for a chance t
+ o win gift cards. Free hot chocolate and street parking. Free. Details: ht
+ tps://weekendscout.app/e/evansville/downtown-evansville-small-business-sat
+ urday-2026-11/
+URL:https://weekendscout.app/e/evansville/downtown-evansville-small-business-saturday-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:evansville-evansville-museum-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261127T170000Z
+DTEND:20261127T230000Z
+SUMMARY:Evansville Museum of Arts\, History & Science
+LOCATION:Evansville Museum of Arts\, History & Science\, Riverside Dr\, Ev
+ ansville\, IN
+DESCRIPTION:Art\, history and science galleries on the downtown riverfront
+ . Closed Thanksgiving Day\, open Friday through Sunday. $9–$14. Details:
+  https://weekendscout.app/e/evansville/evansville-museum-2026-11/
+URL:https://weekendscout.app/e/evansville/evansville-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:evansville-evansville-museum-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261128T170000Z
+DTEND:20261128T230000Z
+SUMMARY:Evansville Museum of Arts\, History & Science
+LOCATION:Evansville Museum of Arts\, History & Science\, Riverside Dr\, Ev
+ ansville\, IN
+DESCRIPTION:Art\, history and science galleries on the downtown riverfront
+ . Closed Thanksgiving Day\, open Friday through Sunday. $9–$14. Details:
+  https://weekendscout.app/e/evansville/evansville-museum-2026-11/
+URL:https://weekendscout.app/e/evansville/evansville-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:evansville-evansville-museum-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261129T180000Z
+DTEND:20261129T230000Z
+SUMMARY:Evansville Museum of Arts\, History & Science
+LOCATION:Evansville Museum of Arts\, History & Science\, Riverside Dr\, Ev
+ ansville\, IN
+DESCRIPTION:Art\, history and science galleries on the downtown riverfront
+ . Closed Thanksgiving Day\, open Friday through Sunday. $9–$14. Details:
+  https://weekendscout.app/e/evansville/evansville-museum-2026-11/
+URL:https://weekendscout.app/e/evansville/evansville-museum-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:evansville-mesker-park-zoo-botanic-garden-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261127T150000Z
+DTEND:20261127T220000Z
+SUMMARY:Mesker Park Zoo & Botanic Garden
+LOCATION:Mesker Park Zoo\, 1545 Mesker Park Dr\, Evansville\, IN 47720
+DESCRIPTION:The zoo is open every day of the year and charges lower winter
+  admission. $8–$9. Details: https://weekendscout.app/e/evansville/mesker
+ -park-zoo-botanic-garden-2026-11/
+URL:https://weekendscout.app/e/evansville/mesker-park-zoo-botanic-garden-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:evansville-mesker-park-zoo-botanic-garden-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261128T150000Z
+DTEND:20261128T220000Z
+SUMMARY:Mesker Park Zoo & Botanic Garden
+LOCATION:Mesker Park Zoo\, 1545 Mesker Park Dr\, Evansville\, IN 47720
+DESCRIPTION:The zoo is open every day of the year and charges lower winter
+  admission. $8–$9. Details: https://weekendscout.app/e/evansville/mesker
+ -park-zoo-botanic-garden-2026-11/
+URL:https://weekendscout.app/e/evansville/mesker-park-zoo-botanic-garden-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:evansville-mesker-park-zoo-botanic-garden-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART:20261129T150000Z
+DTEND:20261129T220000Z
+SUMMARY:Mesker Park Zoo & Botanic Garden
+LOCATION:Mesker Park Zoo\, 1545 Mesker Park Dr\, Evansville\, IN 47720
+DESCRIPTION:The zoo is open every day of the year and charges lower winter
+  admission. $8–$9. Details: https://weekendscout.app/e/evansville/mesker
+ -park-zoo-botanic-garden-2026-11/
+URL:https://weekendscout.app/e/evansville/mesker-park-zoo-botanic-garden-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:evansville-evansville-symphonic-band-holiday-concert-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Evansville Symphonic Band Holiday Concert
+LOCATION:Central High School\, Berry Lane\, Evansville\, IN 47710
+DESCRIPTION:A free holiday concert by the community band\; donations are w
+ elcome. The auditorium fills up\, so come early. Free. Details: https://we
+ ekendscout.app/e/evansville/evansville-symphonic-band-holiday-concert-2026
+ -11/
+URL:https://weekendscout.app/e/evansville/evansville-symphonic-band-holiday-concert-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:evansville-evansville-riverfront-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Evansville Riverfront
+LOCATION:Dress Plaza\, Riverside Dr\, Evansville\, IN 47708
+DESCRIPTION:A paved walk along the big bend of the Ohio River. Free. Detai
+ ls: https://weekendscout.app/e/evansville/evansville-riverfront-2026-11/
+URL:https://weekendscout.app/e/evansville/evansville-riverfront-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:evansville-evansville-riverfront-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Evansville Riverfront
+LOCATION:Dress Plaza\, Riverside Dr\, Evansville\, IN 47708
+DESCRIPTION:A paved walk along the big bend of the Ohio River. Free. Detai
+ ls: https://weekendscout.app/e/evansville/evansville-riverfront-2026-11/
+URL:https://weekendscout.app/e/evansville/evansville-riverfront-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:evansville-evansville-riverfront-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T063011Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Evansville Riverfront
+LOCATION:Dress Plaza\, Riverside Dr\, Evansville\, IN 47708
+DESCRIPTION:A paved walk along the big bend of the Ohio River. Free. Detai
+ ls: https://weekendscout.app/e/evansville/evansville-riverfront-2026-11/
+URL:https://weekendscout.app/e/evansville/evansville-riverfront-2026-11/
 END:VEVENT
 END:VCALENDAR

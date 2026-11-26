@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:athens-wwe-road-to-survivor-series-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063011Z
 DTSTART:20261128T003000Z
 DTEND:20261128T023000Z
 SUMMARY:WWE: Road to Survivor Series
@@ -23,7 +23,7 @@ URL:https://weekendscout.app/e/athens/wwe-road-to-survivor-series-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:athens-georgia-vs-georgia-tech-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063011Z
 DTSTART:20261128T203000Z
 DTEND:20261128T223000Z
 SUMMARY:Georgia vs. Georgia Tech
@@ -36,7 +36,7 @@ URL:https://weekendscout.app/e/athens/georgia-vs-georgia-tech-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:athens-winter-wonderlights-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063011Z
 DTSTART:20261127T223000Z
 DTEND:20261128T003000Z
 SUMMARY:Winter WonderLights
@@ -51,7 +51,7 @@ URL:https://weekendscout.app/e/athens/winter-wonderlights-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:athens-winter-wonderlights-2026-11-27-sun-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063011Z
 DTSTART:20261129T223000Z
 DTEND:20261130T003000Z
 SUMMARY:Winter WonderLights
@@ -66,7 +66,7 @@ URL:https://weekendscout.app/e/athens/winter-wonderlights-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:athens-athens-farmers-market-holiday-artist-market-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063011Z
 DTSTART:20261128T140000Z
 DTEND:20261128T200000Z
 SUMMARY:Athens Farmers Market Holiday Artist Market
@@ -79,7 +79,7 @@ URL:https://weekendscout.app/e/athens/athens-farmers-market-holiday-artist-marke
 END:VEVENT
 BEGIN:VEVENT
 UID:athens-georgia-museum-of-art-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063011Z
 DTSTART:20261128T150000Z
 DTEND:20261128T220000Z
 SUMMARY:Georgia Museum of Art
@@ -91,7 +91,7 @@ URL:https://weekendscout.app/e/athens/georgia-museum-of-art-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:athens-georgia-museum-of-art-2026-11-28-sun-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063011Z
 DTSTART:20261129T180000Z
 DTEND:20261129T220000Z
 SUMMARY:Georgia Museum of Art
@@ -103,7 +103,7 @@ URL:https://weekendscout.app/e/athens/georgia-museum-of-art-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:athens-state-botanical-garden-of-georgia-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063011Z
 DTSTART:20261128T120000Z
 DTEND:20261128T210000Z
 SUMMARY:State Botanical Garden of Georgia
@@ -116,7 +116,7 @@ URL:https://weekendscout.app/e/athens/state-botanical-garden-of-georgia-2026-11-
 END:VEVENT
 BEGIN:VEVENT
 UID:athens-state-botanical-garden-of-georgia-2026-11-28-sun-0@weekendscout.app
-DTSTAMP:20261126T055222Z
+DTSTAMP:20261126T063011Z
 DTSTART:20261129T120000Z
 DTEND:20261129T210000Z
 SUMMARY:State Botanical Garden of Georgia
