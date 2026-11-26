@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:springfield-ma-dr-seuss-national-memorial-sculpture-garden-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T033052Z
+DTSTAMP:20261126T040205Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -23,7 +23,7 @@ URL:https://weekendscout.app/e/springfield-ma/dr-seuss-national-memorial-sculptu
 END:VEVENT
 BEGIN:VEVENT
 UID:springfield-ma-dr-seuss-national-memorial-sculpture-garden-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T033052Z
+DTSTAMP:20261126T040205Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -37,7 +37,7 @@ URL:https://weekendscout.app/e/springfield-ma/dr-seuss-national-memorial-sculptu
 END:VEVENT
 BEGIN:VEVENT
 UID:springfield-ma-dr-seuss-national-memorial-sculpture-garden-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T033052Z
+DTSTAMP:20261126T040205Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -51,7 +51,7 @@ URL:https://weekendscout.app/e/springfield-ma/dr-seuss-national-memorial-sculptu
 END:VEVENT
 BEGIN:VEVENT
 UID:springfield-ma-bright-nights-at-forest-park-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T033052Z
+DTSTAMP:20261126T040205Z
 DTSTART:20261127T220000Z
 DTEND:20261128T030000Z
 SUMMARY:Bright Nights at Forest Park
@@ -63,7 +63,7 @@ URL:https://weekendscout.app/e/springfield-ma/bright-nights-at-forest-park-2026-
 END:VEVENT
 BEGIN:VEVENT
 UID:springfield-ma-bright-nights-at-forest-park-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T033052Z
+DTSTAMP:20261126T040205Z
 DTSTART:20261128T220000Z
 DTEND:20261129T030000Z
 SUMMARY:Bright Nights at Forest Park
@@ -75,7 +75,7 @@ URL:https://weekendscout.app/e/springfield-ma/bright-nights-at-forest-park-2026-
 END:VEVENT
 BEGIN:VEVENT
 UID:springfield-ma-bright-nights-at-forest-park-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T033052Z
+DTSTAMP:20261126T040205Z
 DTSTART:20261129T220000Z
 DTEND:20261130T020000Z
 SUMMARY:Bright Nights at Forest Park
@@ -87,7 +87,7 @@ URL:https://weekendscout.app/e/springfield-ma/bright-nights-at-forest-park-2026-
 END:VEVENT
 BEGIN:VEVENT
 UID:springfield-ma-springfield-thunderbirds-vs-utica-comets-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T033052Z
+DTSTAMP:20261126T040205Z
 DTSTART:20261128T230500Z
 DTEND:20261129T010500Z
 SUMMARY:Springfield Thunderbirds vs. Utica Comets

@@ -1,0 +1,126 @@
+{
+  "city": "santa-barbara",
+  "updated": "2026-11-25",
+  "source": "Restaurants, bars and attractions from Visit Santa Barbara (santabarbaraca.com) listings and official museum/zoo sites (Nov 2026); refreshed with the weekly update",
+  "spots": [
+    {
+      "name": "The Lark",
+      "kind": "dinner",
+      "cuisine": "Seasonal Californian",
+      "area": "Funk Zone",
+      "lat": 34.4148963,
+      "lon": -119.6903035
+    },
+    {
+      "name": "Loquita",
+      "kind": "dinner",
+      "cuisine": "Spanish tapas & paella",
+      "area": "Lower State St",
+      "lat": 34.414244,
+      "lon": -119.6916065
+    },
+    {
+      "name": "Paloma",
+      "kind": "dinner",
+      "cuisine": "Seasonal, open-flame grill",
+      "area": "Downtown",
+      "lat": 34.4200396,
+      "lon": -119.6968561
+    },
+    {
+      "name": "Opal Restaurant and Bar",
+      "kind": "dinner",
+      "cuisine": "Eclectic Californian",
+      "area": "Downtown (State St)",
+      "lat": 34.4247298,
+      "lon": -119.7068023
+    },
+    {
+      "name": "Brass Bear (Funk Zone)",
+      "kind": "lunch",
+      "cuisine": "Brewpub",
+      "area": "Funk Zone",
+      "lat": 34.4142488,
+      "lon": -119.6885277
+    },
+    {
+      "name": "Helena Avenue Bakery",
+      "kind": "lunch",
+      "cuisine": "Bakery & café",
+      "area": "Funk Zone",
+      "lat": 34.4144445,
+      "lon": -119.6906718
+    },
+    {
+      "name": "The Knock Kitchen + Cocktails",
+      "kind": "drinks",
+      "cuisine": "Cocktail bar",
+      "area": "Funk Zone",
+      "lat": 34.4132484,
+      "lon": -119.6899623
+    },
+    {
+      "name": "The Manor Bar",
+      "kind": "drinks",
+      "cuisine": "Cocktail bar",
+      "area": "Montecito (Miramar Beach)",
+      "lat": 34.4207375,
+      "lon": -119.6288909
+    },
+    {
+      "name": "Santa Barbara Zoo",
+      "kind": "always",
+      "cuisine": "",
+      "area": "East Beach",
+      "lat": 34.419425,
+      "lon": -119.668236,
+      "price": "Tickets",
+      "blurb": "Zoo near East Beach, open daily 9:30am–4pm during IllumaNature season",
+      "blurbEs": "Zoológico cerca de East Beach, abierto a diario de 9:30 a.m. a 4 p.m. durante la temporada de IllumaNature"
+    },
+    {
+      "name": "Santa Barbara Museum of Natural History",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Mission Canyon",
+      "lat": 34.440986,
+      "lon": -119.714783,
+      "price": "$20",
+      "blurb": "Natural history galleries in Mission Canyon, open daily 10am–5pm",
+      "blurbEs": "Galerías de historia natural en Mission Canyon, abiertas a diario de 10 a.m. a 5 p.m."
+    },
+    {
+      "name": "Santa Barbara Museum of Art",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Downtown",
+      "lat": 34.423367,
+      "lon": -119.703865,
+      "price": "$15",
+      "blurb": "Downtown art museum on State Street, open Tuesday–Sunday",
+      "blurbEs": "Museo de arte del centro, en State Street, abierto de martes a domingo"
+    },
+    {
+      "name": "Santa Barbara Botanic Garden",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Mission Canyon",
+      "lat": 34.455249,
+      "lon": -119.708493,
+      "price": "$23",
+      "blurb": "California native plant garden, open daily 10am–5pm; reservations required",
+      "blurbEs": "Jardín de plantas nativas de California, abierto a diario de 10 a.m. a 5 p.m.; se requiere reservación"
+    },
+    {
+      "name": "Stearns Wharf",
+      "kind": "always",
+      "cuisine": "",
+      "area": "Waterfront",
+      "lat": 34.41,
+      "lon": -119.685,
+      "price": "Free",
+      "blurb": "California's oldest working wooden wharf, with ocean and mountain views",
+      "blurbEs": "El muelle de madera en uso más antiguo de California, con vistas al mar y a las montañas"
+    }
+  ]
+}

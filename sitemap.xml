@@ -477,12 +477,12 @@
   <url><loc>https://weekendscout.app/rapid-city/visiting/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/billings/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/billings/date-night/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://weekendscout.app/billings/with-kids/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/billings/visiting/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/missoula/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/missoula/with-kids/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/missoula/visiting/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/riverside/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://weekendscout.app/riverside/with-kids/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/riverside/visiting/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/long-beach/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/long-beach/date-night/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
@@ -494,7 +494,6 @@
   <url><loc>https://weekendscout.app/stockton/with-kids/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/stockton/visiting/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/santa-barbara/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://weekendscout.app/santa-barbara/free/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/santa-barbara/date-night/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/santa-barbara/with-kids/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/santa-barbara/visiting/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
@@ -505,6 +504,7 @@
   <url><loc>https://weekendscout.app/ventura/date-night/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/ventura/visiting/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/mcallen/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://weekendscout.app/mcallen/date-night/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/mcallen/with-kids/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/mcallen/visiting/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://weekendscout.app/lubbock/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>

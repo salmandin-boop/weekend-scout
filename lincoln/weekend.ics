@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:lincoln-sheldon-museum-of-art-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T033052Z
+DTSTAMP:20261126T040205Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/lincoln/sheldon-museum-of-art-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:lincoln-sheldon-museum-of-art-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T033052Z
+DTSTAMP:20261126T040205Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/lincoln/sheldon-museum-of-art-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:lincoln-nebraska-state-capitol-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T033052Z
+DTSTAMP:20261126T040205Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -48,7 +48,7 @@ URL:https://weekendscout.app/e/lincoln/nebraska-state-capitol-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:lincoln-nebraska-state-capitol-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T033052Z
+DTSTAMP:20261126T040205Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -61,7 +61,7 @@ URL:https://weekendscout.app/e/lincoln/nebraska-state-capitol-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:lincoln-lincoln-stars-vs-sioux-city-musketeers-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T033052Z
+DTSTAMP:20261126T040205Z
 DTSTART:20261127T230500Z
 DTEND:20261128T010500Z
 SUMMARY:Lincoln Stars vs. Sioux City Musketeers
@@ -72,7 +72,7 @@ URL:https://weekendscout.app/e/lincoln/lincoln-stars-vs-sioux-city-musketeers-20
 END:VEVENT
 BEGIN:VEVENT
 UID:lincoln-plack-blague-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T033052Z
+DTSTAMP:20261126T040205Z
 DTSTART:20261128T020000Z
 DTEND:20261128T040000Z
 SUMMARY:Plack Blague

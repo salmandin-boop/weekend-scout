@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:ithaca-shop-small-downtown-ithaca-2026-fri-0@weekendscout.app
-DTSTAMP:20261126T033052Z
+DTSTAMP:20261126T040204Z
 DTSTART:20261127T150000Z
 DTEND:20261127T170000Z
 SUMMARY:Shop Small Business Weekend
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/ithaca/shop-small-downtown-ithaca-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:ithaca-shop-small-downtown-ithaca-2026-sat-0@weekendscout.app
-DTSTAMP:20261126T033052Z
+DTSTAMP:20261126T040204Z
 DTSTART:20261128T150000Z
 DTEND:20261128T170000Z
 SUMMARY:Shop Small Business Weekend
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/ithaca/shop-small-downtown-ithaca-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:ithaca-shop-small-downtown-ithaca-2026-sun-0@weekendscout.app
-DTSTAMP:20261126T033052Z
+DTSTAMP:20261126T040204Z
 DTSTART:20261129T160000Z
 DTEND:20261129T180000Z
 SUMMARY:Shop Small Business Weekend
@@ -48,7 +48,7 @@ URL:https://weekendscout.app/e/ithaca/shop-small-downtown-ithaca-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:ithaca-ithaca-farmers-market-nov-2026-sat-0@weekendscout.app
-DTSTAMP:20261126T033052Z
+DTSTAMP:20261126T040204Z
 DTSTART:20261128T150000Z
 DTEND:20261128T190000Z
 SUMMARY:Ithaca Farmers Market
@@ -60,7 +60,7 @@ URL:https://weekendscout.app/e/ithaca/ithaca-farmers-market-nov-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:ithaca-ithaca-farmers-market-nov-2026-sun-0@weekendscout.app
-DTSTAMP:20261126T033052Z
+DTSTAMP:20261126T040204Z
 DTSTART:20261129T150000Z
 DTEND:20261129T190000Z
 SUMMARY:Ithaca Farmers Market
@@ -72,7 +72,7 @@ URL:https://weekendscout.app/e/ithaca/ithaca-farmers-market-nov-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:ithaca-cornell-st-lawrence-mbb-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261126T033052Z
+DTSTAMP:20261126T040204Z
 DTSTART:20261129T000000Z
 DTEND:20261129T020000Z
 SUMMARY:Cornell vs. St. Lawrence (men’s basketball)
