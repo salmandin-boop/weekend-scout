@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:little-rock-arkansas-museum-of-fine-arts-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T114653Z
+DTSTAMP:20261126T194558Z
 DTSTART:20261127T160000Z
 DTEND:20261128T020000Z
 SUMMARY:Arkansas Museum of Fine Arts
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/little-rock/arkansas-museum-of-fine-arts-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:little-rock-arkansas-museum-of-fine-arts-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T114653Z
+DTSTAMP:20261126T194558Z
 DTSTART:20261128T160000Z
 DTEND:20261128T230000Z
 SUMMARY:Arkansas Museum of Fine Arts
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/little-rock/arkansas-museum-of-fine-arts-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:little-rock-arkansas-museum-of-fine-arts-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T114653Z
+DTSTAMP:20261126T194558Z
 DTSTART:20261129T180000Z
 DTEND:20261129T230000Z
 SUMMARY:Arkansas Museum of Fine Arts
@@ -48,7 +48,7 @@ URL:https://weekendscout.app/e/little-rock/arkansas-museum-of-fine-arts-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:little-rock-mojo-brookzz-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T114653Z
+DTSTAMP:20261126T194558Z
 DTSTART:20261128T013000Z
 DTEND:20261128T033000Z
 SUMMARY:Mojo Brookzz: Outta Pocket Tour
@@ -60,7 +60,7 @@ URL:https://weekendscout.app/e/little-rock/mojo-brookzz-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:little-rock-mojo-brookzz-2026-11-fri-1@weekendscout.app
-DTSTAMP:20261126T114653Z
+DTSTAMP:20261126T194558Z
 DTSTART:20261128T040000Z
 DTEND:20261128T060000Z
 SUMMARY:Mojo Brookzz: Outta Pocket Tour
@@ -72,7 +72,7 @@ URL:https://weekendscout.app/e/little-rock/mojo-brookzz-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:little-rock-a-community-celebration-of-the-last-waltz-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T114653Z
+DTSTAMP:20261126T194558Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -87,7 +87,7 @@ URL:https://weekendscout.app/e/little-rock/a-community-celebration-of-the-last-w
 END:VEVENT
 BEGIN:VEVENT
 UID:little-rock-clinton-presidential-library-and-museum-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T114653Z
+DTSTAMP:20261126T194558Z
 DTSTART:20261127T150000Z
 DTEND:20261127T230000Z
 SUMMARY:Clinton Presidential Library and Museum
@@ -101,7 +101,7 @@ URL:https://weekendscout.app/e/little-rock/clinton-presidential-library-and-muse
 END:VEVENT
 BEGIN:VEVENT
 UID:little-rock-clinton-presidential-library-and-museum-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T114653Z
+DTSTAMP:20261126T194558Z
 DTSTART:20261128T150000Z
 DTEND:20261128T230000Z
 SUMMARY:Clinton Presidential Library and Museum
@@ -115,7 +115,7 @@ URL:https://weekendscout.app/e/little-rock/clinton-presidential-library-and-muse
 END:VEVENT
 BEGIN:VEVENT
 UID:little-rock-clinton-presidential-library-and-museum-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T114653Z
+DTSTAMP:20261126T194558Z
 DTSTART:20261129T190000Z
 DTEND:20261129T230000Z
 SUMMARY:Clinton Presidential Library and Museum
@@ -129,7 +129,7 @@ URL:https://weekendscout.app/e/little-rock/clinton-presidential-library-and-muse
 END:VEVENT
 BEGIN:VEVENT
 UID:little-rock-big-dam-bridge-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T114653Z
+DTSTAMP:20261126T194558Z
 DTSTART:20261127T140000Z
 DTEND:20261127T230000Z
 SUMMARY:Big Dam Bridge
@@ -142,7 +142,7 @@ URL:https://weekendscout.app/e/little-rock/big-dam-bridge-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:little-rock-big-dam-bridge-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T114653Z
+DTSTAMP:20261126T194558Z
 DTSTART:20261128T140000Z
 DTEND:20261128T230000Z
 SUMMARY:Big Dam Bridge
@@ -155,7 +155,7 @@ URL:https://weekendscout.app/e/little-rock/big-dam-bridge-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:little-rock-big-dam-bridge-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T114653Z
+DTSTAMP:20261126T194558Z
 DTSTART:20261129T140000Z
 DTEND:20261129T230000Z
 SUMMARY:Big Dam Bridge

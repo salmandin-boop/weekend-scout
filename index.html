@@ -24,7 +24,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Weekend Scout app showing this weekend's events">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","name":"Weekend Scout","url":"https://weekendscout.app/","description":"Hand-checked concerts, games, markets and family events in cities across the US, updated every Wednesday."},{"@type":"Organization","name":"ENDins LLC","url":"https://weekendscout.app/","logo":"https://weekendscout.app/icons/icon-512.png","email":"support@weekendscout.app","telephone":"+1-315-383-9602","address":{"@type":"PostalAddress","addressLocality":"East Syracuse","addressRegion":"NY","addressCountry":"US"}}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","name":"Weekend Scout","url":"https://weekendscout.app/","description":"Hand-checked concerts, games, markets and family events in cities across the US, updated every Wednesday."},{"@type":"Organization","name":"ENDins LLC","url":"https://weekendscout.app/","logo":"https://weekendscout.app/icons/icon-512.png","email":"support@weekendscout.app","telephone":"+1-315-383-9602","address":{"@type":"PostalAddress","streetAddress":"1926 Genesee St, Ste 1 #727","addressLocality":"Utica","addressRegion":"NY","postalCode":"13501","addressCountry":"US"}}]}</script>
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
@@ -457,7 +457,7 @@ dialog.sheet[open]{animation:sheetUp .22s cubic-bezier(.2,.8,.2,1)}
         <li>Weather comes from Open-Meteo and the map from OpenStreetMap. Neither gets your location.</li>
       </ul>
     </div>
-    <p class="fine">Weekend Scout is run by ENDins LLC, East Syracuse, NY. · <a href="privacy.html" target="_blank" rel="noopener">Privacy policy</a> · <a href="terms.html" target="_blank" rel="noopener">Terms</a></p>
+    <p class="fine">Weekend Scout is run by ENDins LLC, Utica, NY. · <a href="privacy.html" target="_blank" rel="noopener">Privacy policy</a> · <a href="terms.html" target="_blank" rel="noopener">Terms</a></p>
     <p class="fine" id="version" style="margin-top:4px"></p>
   </section>
 </main>
@@ -1069,7 +1069,12 @@ function renderJSONLD(){
         eventStatus:'https://schema.org/EventScheduled', eventAttendanceMode:'https://schema.org/OfflineEventAttendanceMode',
         location:{ '@type':'Place', name:ev.venue, address:ev.addr }, isAccessibleForFree: ev.price === 'free' || undefined };
       if (s.s && s.e) o.endDate = isoLocal(DATA.weekend.days[s.day], s.e);
-      if (ev.link) o.offers = { '@type':'Offer', url:ev.link.url, availability:'https://schema.org/InStock', ...(ev.price === 'free' ? { price:0, priceCurrency:'USD' } : {}) };
+      o.image = [`https://weekendscout.app/og/${CITY.id}.jpg`];
+      o.organizer = { '@type':'Organization', name:ev.venue, url:(ev.link && ev.link.url) || `https://weekendscout.app/e/${CITY.id}/${ev.id}/` };
+      if (ev.cat === 'music' || ev.cat === 'comedy') o.performer = { '@type': ev.cat === 'music' ? 'PerformingGroup' : 'Person', name:ev.title };
+      const pm = /\$\s?(\d+(?:\.\d+)?)/.exec(ev.priceLabel || '');
+      o.offers = { '@type':'Offer', url:(ev.link && ev.link.url) || `https://weekendscout.app/e/${CITY.id}/${ev.id}/`, availability:'https://schema.org/InStock', priceCurrency:'USD',
+        validFrom:(DATA.updated || DATA.weekend.days.fri) + 'T00:00:00', ...(ev.price === 'free' ? { price:0 } : pm ? { price:+pm[1] } : {}) };
       return o;
     }).filter(Boolean);
     let el = document.getElementById(APP_JSONLD_ID);

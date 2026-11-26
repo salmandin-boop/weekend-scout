@@ -60,7 +60,7 @@ const ES = {
   'Free entry':'Entrada gratis', 'Tickets online':'Boletos en línea', 'Opens Friday':'Abre el viernes', 'Opens Saturday':'Abre el sábado', 'Check details':'Ver detalles', 'Vehicle fee in season':'Cuota por vehículo en temporada',
   'Event info':'Info del evento', 'Calendar':'Calendario', 'More about this event':'Más sobre este evento', 'Something wrong with this listing?':'¿Algo está mal en este anuncio?',
   'Ticket links may earn us a small commission, at no cost to you. Times and prices can change — check with the venue.':'Algunos enlaces de boletos nos dan una pequeña comisión, sin costo para ti. Horarios y precios pueden cambiar; confirma con el lugar.',
-  'Weekend Scout is run by ENDins LLC, East Syracuse, NY. ·':'Weekend Scout es de ENDins LLC, East Syracuse, NY. ·', 'Official site':'Sitio oficial', 'Get tickets':'Comprar boletos', 'More info':'Más información', 'Check ticket prices':'Ver precios', 'Timed tickets':'Boletos con horario', 'Free admission':'Entrada gratis', 'Español':'Español', 'English':'English'
+  'Weekend Scout is run by ENDins LLC, Utica, NY. ·':'Weekend Scout es de ENDins LLC, Utica, NY. ·', 'Official site':'Sitio oficial', 'Get tickets':'Comprar boletos', 'More info':'Más información', 'Check ticket prices':'Ver precios', 'Timed tickets':'Boletos con horario', 'Free admission':'Entrada gratis', 'Español':'Español', 'English':'English'
 };
 const ES_RX = [
   [/^(\d+) (?:things?|picks?) to do this weekend$/, (m,n) => `${n} ${n === '1' ? 'plan' : 'planes'} este fin de semana`],

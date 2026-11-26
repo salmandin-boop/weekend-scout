@@ -25,6 +25,20 @@ DAYNAME = {'fri': 'Friday', 'sat': 'Saturday', 'sun': 'Sunday'}
 CAT = {'music': 'Music', 'sports': 'Sports', 'arts': 'Arts', 'food': 'Food & Drink', 'family': 'Family', 'comedy': 'Comedy'}
 esc = lambda s: html.escape(str(s or ''), quote=True)
 
+def ld_extras(ev, e, img, url, valid_from):
+    """Optional Event fields Google asks for: image, organizer, performer, full offers."""
+    ev['image'] = [img]
+    ev['organizer'] = {'@type': 'Organization', 'name': e.get('venue') or e.get('name') or e.get('title'), 'url': (e.get('link') or {}).get('url') or e.get('url') or url}
+    if e.get('cat') in ('music', 'comedy'):
+        ev['performer'] = {'@type': 'PerformingGroup' if e.get('cat') == 'music' else 'Person', 'name': e.get('title') or e.get('name')}
+    m = re.search(r'\$\s?(\d+(?:\.\d+)?)', e.get('priceLabel') or '')
+    off = {'@type': 'Offer', 'url': (e.get('link') or {}).get('url') or e.get('url') or url, 'availability': 'https://schema.org/InStock',
+           'priceCurrency': 'USD', 'validFrom': valid_from}
+    if e.get('price') == 'free': off['price'] = 0
+    elif m: off['price'] = float(m.group(1)) if '.' in m.group(1) else int(m.group(1))
+    ev['offers'] = off
+    return ev
+
 def fmt(t):
     if not t: return ''
     h, m = map(int, t.split(':')); ap = 'PM' if h >= 12 else 'AM'; h = h % 12 or 12
@@ -80,8 +94,10 @@ def head(title, desc, url, img, extra=''):
 {('<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon=' + "'" + json.dumps({"token": CF_TOKEN}) + "'" + '></script>') if CF_TOKEN else ''}
 </head>"""
 
-def iso_start(day, s):
-    return f'{day}T{s}:00' if s else day
+def iso_start(day, s, tz=None):
+    if not s: return day
+    if not tz: return f'{day}T{s}:00'
+    return datetime.fromisoformat(f'{day}T{s}:00').replace(tzinfo=ZoneInfo(tz)).isoformat()
 
 VARIANTS = [
     ('', None, 'Things to do in {city} this weekend', '{n} hand-checked things to do in {cname} this weekend, {label}: concerts, games, markets, museums and family events. {free} are free.'),
@@ -156,7 +172,7 @@ def build_guides(c, guides, all_guides, img):
             if it.get('start'): ev['startDate'] = it['start']
             if it.get('end'): ev['endDate'] = it['end']
             if it.get('url'): ev['url'] = it['url']
-            if it.get('price') == 'free': ev['offers'] = {'@type': 'Offer', 'price': 0, 'priceCurrency': 'USD', 'url': it.get('url', url)}
+            ld_extras(ev, it, img, url, (g.get('updated') or date.today().isoformat()) + 'T00:00:00')
             ld.append({'@type': 'ListItem', 'position': i + 1, 'item': ev if it.get('start') else {'@type': 'Thing', 'name': it['name'], 'description': it.get('blurb', '')}})
         ldj = json.dumps({'@context': 'https://schema.org', '@type': 'ItemList', 'name': h1, 'itemListElement': ld}, ensure_ascii=False).replace('</', '<\\/')
         mine = ''.join(f'<a href="/{c["id"]}/{x["slug"]}/"{" aria-current=\"page\"" if x["slug"] == g["slug"] else ""}>{esc(x.get("icon", ""))} {esc(x["title"])}</a>' for x in guides)
@@ -293,10 +309,12 @@ def main():
                 day = next((k for k in DAYS if e['times'].get(k)), None)
                 if not day: continue
                 s0 = e['times'][day][0].get('s', '')
-                it = {'@type': 'Event', 'name': e['title'], 'startDate': iso_start(w['days'][day], s0), 'eventStatus': 'https://schema.org/EventScheduled',
+                it = {'@type': 'Event', 'name': e['title'], 'startDate': iso_start(w['days'][day], s0, c.get('tz')), 'eventStatus': 'https://schema.org/EventScheduled',
                       'eventAttendanceMode': 'https://schema.org/OfflineEventAttendanceMode', 'location': {'@type': 'Place', 'name': e['venue'], 'address': e['addr']},
                       'description': e.get('blurb', ''), 'url': f"{SITE}/e/{c['id']}/{e['id']}/"}
-                if e.get('link'): it['offers'] = {'@type': 'Offer', 'url': e['link']['url'], 'availability': 'https://schema.org/InStock', **({'price': 0, 'priceCurrency': 'USD'} if e['price'] == 'free' else {})}
+                e0 = e['times'][day][0].get('e')
+                if s0 and e0 and e0 > s0: it['endDate'] = iso_start(w['days'][day], e0, c.get('tz'))
+                ld_extras(it, e, img, url, (d.get('updated') or date.today().isoformat()) + 'T00:00:00')
                 items.append({'@type': 'ListItem', 'position': i + 1, 'item': it})
             ld = json.dumps({'@context': 'https://schema.org', '@type': 'ItemList', 'name': f"{h1}", 'itemListElement': items}, ensure_ascii=False).replace('</', '<\\/')
             others = ''.join(f'<a href="/{o["id"]}/{slug + "/" if slug else ""}">{esc(o["name"])}</a>' for o in cities if o['id'] != c['id'])
