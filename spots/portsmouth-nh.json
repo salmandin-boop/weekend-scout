@@ -1,0 +1,88 @@
+{
+ "city": "portsmouth-nh",
+ "updated": "2026-11-25",
+ "source": "Picked from OpenTable's Portsmouth date-night list, The Infatuation and Wikipedia landmarks, Nov 2026",
+ "spots": [
+  {
+   "name": "Row 34",
+   "kind": "dinner",
+   "cuisine": "Seafood & oyster bar",
+   "area": "Portwalk",
+   "lat": 43.0773501,
+   "lon": -70.7605335
+  },
+  {
+   "name": "Ristorante Massimo",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "Downtown",
+   "lat": 43.0772603,
+   "lon": -70.756177
+  },
+  {
+   "name": "The Puddle Dock",
+   "kind": "dinner",
+   "cuisine": "American & cocktails",
+   "area": "Marcy Street",
+   "lat": 43.0765398,
+   "lon": -70.7524602
+  },
+  {
+   "name": "Louie's Restaurant",
+   "kind": "dinner",
+   "cuisine": "Italian",
+   "area": "Islington Street",
+   "lat": 43.0679047,
+   "lon": -70.7749779
+  },
+  {
+   "name": "The Rosa",
+   "kind": "lunch",
+   "cuisine": "Italian (lunch Fri–Sun)",
+   "area": "State Street",
+   "lat": 43.0770542,
+   "lon": -70.7540754
+  },
+  {
+   "name": "La Maison Navarre",
+   "kind": "drinks",
+   "cuisine": "French wine bar",
+   "area": "Congress Street",
+   "lat": 43.0762503,
+   "lon": -70.7601261
+  },
+  {
+   "name": "Prescott Park",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Waterfront",
+   "lat": 43.07722,
+   "lon": -70.75194,
+   "price": "Free",
+   "blurb": "Waterfront park and gardens on the Piscataqua, across from Strawbery Banke.",
+   "blurbEs": "Parque y jardines junto al río Piscataqua, frente a Strawbery Banke."
+  },
+  {
+   "name": "Strawbery Banke Museum",
+   "kind": "always",
+   "cuisine": "",
+   "area": "South End",
+   "lat": 43.07611,
+   "lon": -70.75333,
+   "price": "Tickets",
+   "blurb": "Ten-acre outdoor history museum; its Candlelight Stroll runs Dec 4–6, 11–13 and 18–20.",
+   "blurbEs": "Museo de historia al aire libre de diez acres; su Candlelight Stroll es del 4 al 6, del 11 al 13 y del 18 al 20 de diciembre."
+  },
+  {
+   "name": "Odiorne Point State Park & Seacoast Science Center",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Rye",
+   "lat": 43.04361,
+   "lon": -70.71444,
+   "price": "Check fees",
+   "blurb": "Rocky oceanfront park with trails and tide pools, home to the Seacoast Science Center.",
+   "blurbEs": "Parque costero rocoso con senderos y pozas de marea, sede del Seacoast Science Center."
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "city": "sioux-falls",
+ "updated": "2026-11-25",
+ "source": "Evergreen picks only, from the City of Sioux Falls, Washington Pavilion and Travel South Dakota pages (Nov 2026); restaurant and bar picks still to add",
+ "spots": [
+  {
+   "name": "Falls Park",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 43.558,
+   "lon": -96.723,
+   "price": "Free",
+   "blurb": "The city's namesake waterfalls, lit nightly for Winter Wonderland through Jan. 3",
+   "blurbEs": "Las cascadas que dan nombre a la ciudad, iluminadas cada noche por Winter Wonderland hasta el 3 de enero"
+  },
+  {
+   "name": "Washington Pavilion",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 43.54407,
+   "lon": -96.72904,
+   "price": "Tickets",
+   "blurb": "Arts and science center with hands-on exhibits, galleries and a performing arts hall",
+   "blurbEs": "Centro de artes y ciencias con exhibiciones interactivas, galerías y sala de espectáculos"
+  },
+  {
+   "name": "Old Courthouse Museum",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 43.5514,
+   "lon": -96.7286,
+   "price": "Free",
+   "blurb": "Quartzite 1890s courthouse turned local history museum",
+   "blurbEs": "Antiguo juzgado de cuarcita de la década de 1890, hoy museo de historia local"
+  },
+  {
+   "name": "Pettigrew Home & Museum",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Cathedral Historic District",
+   "lat": 43.5483,
+   "lon": -96.7347,
+   "price": "Free",
+   "blurb": "Victorian house museum with regional history exhibits",
+   "blurbEs": "Casa museo victoriana con exhibiciones de historia regional"
+  },
+  {
+   "name": "Great Plains Zoo",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Sherman Park",
+   "lat": 43.5375,
+   "lon": -96.7647,
+   "price": "Tickets",
+   "blurb": "The region's zoo, with animals from around the world",
+   "blurbEs": "El zoológico de la región, con animales de todo el mundo"
+  }
+ ]
+}

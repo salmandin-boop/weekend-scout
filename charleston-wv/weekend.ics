@@ -8,8 +8,117 @@ X-WR-CALDESC:Hand-checked weekend picks in Charleston, updated every Wednesday
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
+UID:charleston-wv-holly-jolly-brawley-2026-fri-0@weekendscout.app
+DTSTAMP:20261126T033052Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Holly Jolly Brawley
+LOCATION:City Center at Slack Plaza\, 169 Summers St\, Charleston\, WV 253
+ 01
+DESCRIPTION:Downtown’s free Christmas celebration with 176 decorated tre
+ es\, a kids’ zone and holiday shopping. Because of Friday’s forecast\,
+  the tree lighting and drone show moved to Saturday at 6:30 p.m.\, after W
+ oodbine plays at 4. Free. Details: https://weekendscout.app/e/charleston-w
+ v/holly-jolly-brawley-2026/
+URL:https://weekendscout.app/e/charleston-wv/holly-jolly-brawley-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:charleston-wv-holly-jolly-brawley-2026-sat-0@weekendscout.app
+DTSTAMP:20261126T033052Z
+DTSTART:20261128T170000Z
+DTEND:20261129T010000Z
+SUMMARY:Holly Jolly Brawley
+LOCATION:City Center at Slack Plaza\, 169 Summers St\, Charleston\, WV 253
+ 01
+DESCRIPTION:Downtown’s free Christmas celebration with 176 decorated tre
+ es\, a kids’ zone and holiday shopping. Because of Friday’s forecast\,
+  the tree lighting and drone show moved to Saturday at 6:30 p.m.\, after W
+ oodbine plays at 4. Free. Details: https://weekendscout.app/e/charleston-w
+ v/holly-jolly-brawley-2026/
+URL:https://weekendscout.app/e/charleston-wv/holly-jolly-brawley-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:charleston-wv-light-the-night-2026-fri-0@weekendscout.app
+DTSTAMP:20261126T033052Z
+DTSTART:20261127T220000Z
+DTEND:20261128T030000Z
+SUMMARY:Salango Law Light the Night
+LOCATION:GoMart Ballpark\, 601 Morris St\, Charleston\, WV 25301
+DESCRIPTION:More than 2.5 million lights fill the ballpark\, with a Ferris
+  wheel\, carousel\, ice rink\, holiday mini golf and new bumper cars and o
+ n-field walking route. $20 adults\, $15 ages 3+. Details: https://weekends
+ cout.app/e/charleston-wv/light-the-night-2026/
+URL:https://weekendscout.app/e/charleston-wv/light-the-night-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:charleston-wv-light-the-night-2026-sat-0@weekendscout.app
+DTSTAMP:20261126T033052Z
+DTSTART:20261128T220000Z
+DTEND:20261129T030000Z
+SUMMARY:Salango Law Light the Night
+LOCATION:GoMart Ballpark\, 601 Morris St\, Charleston\, WV 25301
+DESCRIPTION:More than 2.5 million lights fill the ballpark\, with a Ferris
+  wheel\, carousel\, ice rink\, holiday mini golf and new bumper cars and o
+ n-field walking route. $20 adults\, $15 ages 3+. Details: https://weekends
+ cout.app/e/charleston-wv/light-the-night-2026/
+URL:https://weekendscout.app/e/charleston-wv/light-the-night-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:charleston-wv-light-the-night-2026-sun-0@weekendscout.app
+DTSTAMP:20261126T033052Z
+DTSTART:20261129T220000Z
+DTEND:20261130T020000Z
+SUMMARY:Salango Law Light the Night
+LOCATION:GoMart Ballpark\, 601 Morris St\, Charleston\, WV 25301
+DESCRIPTION:More than 2.5 million lights fill the ballpark\, with a Ferris
+  wheel\, carousel\, ice rink\, holiday mini golf and new bumper cars and o
+ n-field walking route. $20 adults\, $15 ages 3+. Details: https://weekends
+ cout.app/e/charleston-wv/light-the-night-2026/
+URL:https://weekendscout.app/e/charleston-wv/light-the-night-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:charleston-wv-clay-center-museums-2026-11-fri-0@weekendscout.app
+DTSTAMP:20261126T033052Z
+DTSTART:20261127T150000Z
+DTEND:20261127T220000Z
+SUMMARY:Avampato Discovery Museum & Juliet Art Museum
+LOCATION:Clay Center\, 1 Clay Square\, Charleston\, WV 25301
+DESCRIPTION:Hands-on science and an art museum under one roof. Friday’s 
+ Early Explorers sessions (11 a.m. and 1 p.m.) feature Where the Wild Thing
+ s Are. $12 adults\, $8 kids. Details: https://weekendscout.app/e/charlesto
+ n-wv/clay-center-museums-2026-11/
+URL:https://weekendscout.app/e/charleston-wv/clay-center-museums-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:charleston-wv-clay-center-museums-2026-11-sat-0@weekendscout.app
+DTSTAMP:20261126T033052Z
+DTSTART:20261128T150000Z
+DTEND:20261128T220000Z
+SUMMARY:Avampato Discovery Museum & Juliet Art Museum
+LOCATION:Clay Center\, 1 Clay Square\, Charleston\, WV 25301
+DESCRIPTION:Hands-on science and an art museum under one roof. Friday’s 
+ Early Explorers sessions (11 a.m. and 1 p.m.) feature Where the Wild Thing
+ s Are. $12 adults\, $8 kids. Details: https://weekendscout.app/e/charlesto
+ n-wv/clay-center-museums-2026-11/
+URL:https://weekendscout.app/e/charleston-wv/clay-center-museums-2026-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:charleston-wv-clay-center-museums-2026-11-sun-0@weekendscout.app
+DTSTAMP:20261126T033052Z
+DTSTART:20261129T170000Z
+DTEND:20261129T220000Z
+SUMMARY:Avampato Discovery Museum & Juliet Art Museum
+LOCATION:Clay Center\, 1 Clay Square\, Charleston\, WV 25301
+DESCRIPTION:Hands-on science and an art museum under one roof. Friday’s 
+ Early Explorers sessions (11 a.m. and 1 p.m.) feature Where the Wild Thing
+ s Are. $12 adults\, $8 kids. Details: https://weekendscout.app/e/charlesto
+ n-wv/clay-center-museums-2026-11/
+URL:https://weekendscout.app/e/charleston-wv/clay-center-museums-2026-11/
+END:VEVENT
+BEGIN:VEVENT
 UID:charleston-wv-capitol-market-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T024607Z
+DTSTAMP:20261126T033052Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -22,7 +131,7 @@ URL:https://weekendscout.app/e/charleston-wv/capitol-market-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:charleston-wv-capitol-market-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T024607Z
+DTSTAMP:20261126T033052Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -35,7 +144,7 @@ URL:https://weekendscout.app/e/charleston-wv/capitol-market-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:charleston-wv-capitol-market-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T024607Z
+DTSTAMP:20261126T033052Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -48,7 +157,7 @@ URL:https://weekendscout.app/e/charleston-wv/capitol-market-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:charleston-wv-west-virginia-state-museum-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T024607Z
+DTSTAMP:20261126T033052Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -58,47 +167,5 @@ DESCRIPTION:West Virginia history\, from coal mining to folk art\, in the
  Capitol complex. Free admission. Details: https://weekendscout.app/e/charl
  eston-wv/west-virginia-state-museum-2026-11/
 URL:https://weekendscout.app/e/charleston-wv/west-virginia-state-museum-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:charleston-wv-haddad-riverfront-park-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T024607Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-SUMMARY:Haddad Riverfront Park
-LOCATION:Haddad Riverfront Park\, 600 Kanawha Blvd E\, Charleston\, WV 253
- 01
-DESCRIPTION:Downtown’s park and amphitheater on the Kanawha River. Free.
-  Details: https://weekendscout.app/e/charleston-wv/haddad-riverfront-park-
- 2026-11/
-URL:https://weekendscout.app/e/charleston-wv/haddad-riverfront-park-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:charleston-wv-haddad-riverfront-park-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T024607Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Haddad Riverfront Park
-LOCATION:Haddad Riverfront Park\, 600 Kanawha Blvd E\, Charleston\, WV 253
- 01
-DESCRIPTION:Downtown’s park and amphitheater on the Kanawha River. Free.
-  Details: https://weekendscout.app/e/charleston-wv/haddad-riverfront-park-
- 2026-11/
-URL:https://weekendscout.app/e/charleston-wv/haddad-riverfront-park-2026-11/
-END:VEVENT
-BEGIN:VEVENT
-UID:charleston-wv-haddad-riverfront-park-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T024607Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
-SUMMARY:Haddad Riverfront Park
-LOCATION:Haddad Riverfront Park\, 600 Kanawha Blvd E\, Charleston\, WV 253
- 01
-DESCRIPTION:Downtown’s park and amphitheater on the Kanawha River. Free.
-  Details: https://weekendscout.app/e/charleston-wv/haddad-riverfront-park-
- 2026-11/
-URL:https://weekendscout.app/e/charleston-wv/haddad-riverfront-park-2026-11/
 END:VEVENT
 END:VCALENDAR

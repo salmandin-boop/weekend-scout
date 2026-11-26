@@ -1,0 +1,70 @@
+{
+ "city": "trenton",
+ "updated": "2026-11-25",
+ "source": "Evergreen picks from official museum, park and city pages, plus the Nassau Inn's tavern by Palmer Square (Nov 2026); restaurant picks still thin",
+ "spots": [
+  {
+   "name": "Yankee Doodle Tap Room",
+   "kind": "drinks",
+   "cuisine": "Historic tavern at the Nassau Inn",
+   "area": "Princeton (Palmer Square)",
+   "lat": 40.3505,
+   "lon": -74.661167
+  },
+  {
+   "name": "New Jersey State Museum",
+   "kind": "always",
+   "cuisine": "Museum & planetarium",
+   "area": "Downtown Trenton",
+   "lat": 40.221,
+   "lon": -74.77,
+   "price": "Free",
+   "blurb": "Natural history, archaeology, fine art and New Jersey history, with free general admission. Planetarium shows cost extra; closed Mondays.",
+   "blurbEs": "Historia natural, arqueología, arte e historia de Nueva Jersey, con entrada general gratis. El planetario se paga aparte; cierra los lunes."
+  },
+  {
+   "name": "Old Barracks Museum",
+   "kind": "always",
+   "cuisine": "Colonial history museum",
+   "area": "Downtown Trenton",
+   "lat": 40.21972,
+   "lon": -74.76861,
+   "price": "Tickets",
+   "blurb": "The 1758 barracks where Hessian soldiers were quartered during the Battle of Trenton, now a living-history museum.",
+   "blurbEs": "El cuartel de 1758 donde se alojaban los soldados hessianos durante la Batalla de Trenton, hoy un museo de historia viva."
+  },
+  {
+   "name": "Cadwalader Park",
+   "kind": "always",
+   "cuisine": "Park",
+   "area": "West Trenton",
+   "lat": 40.229,
+   "lon": -74.788,
+   "price": "Free",
+   "blurb": "Trenton's Olmsted-designed park, home to the Trenton City Museum at Ellarslie.",
+   "blurbEs": "El parque de Trenton diseñado por Olmsted, sede del Trenton City Museum en Ellarslie."
+  },
+  {
+   "name": "Grounds For Sculpture",
+   "kind": "always",
+   "cuisine": "Sculpture park & museum",
+   "area": "Hamilton",
+   "lat": 40.237222,
+   "lon": -74.716667,
+   "price": "$25",
+   "blurb": "A large outdoor sculpture park and museum in Hamilton; open daily except Tuesdays. Adults $25, ages 6–17 $12.",
+   "blurbEs": "Un gran parque de esculturas al aire libre y museo en Hamilton; abre todos los días excepto los martes. Adultos $25, de 6 a 17 años $12."
+  },
+  {
+   "name": "Palmer Square",
+   "kind": "always",
+   "cuisine": "Shopping & dining square",
+   "area": "Princeton",
+   "lat": 40.350111,
+   "lon": -74.661528,
+   "price": "Free",
+   "blurb": "Princeton's town square of shops and restaurants across from the university, with holiday entertainment on December weekends.",
+   "blurbEs": "La plaza de tiendas y restaurantes de Princeton frente a la universidad, con entretenimiento navideño los fines de semana de diciembre."
+  }
+ ]
+}

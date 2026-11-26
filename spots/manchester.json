@@ -1,0 +1,104 @@
+{
+ "city": "manchester",
+ "updated": "2026-11-25",
+ "source": "Picked from OpenTable's Manchester date-night and near-Palace-Theatre lists plus Wikipedia landmarks, Nov 2026",
+ "spots": [
+  {
+   "name": "Hanover Street Chophouse",
+   "kind": "dinner",
+   "cuisine": "Steakhouse",
+   "area": "Downtown",
+   "lat": 42.9907368,
+   "lon": -71.4598436
+  },
+  {
+   "name": "Cotton",
+   "kind": "dinner",
+   "cuisine": "Contemporary American",
+   "area": "Millyard",
+   "lat": 42.9937161,
+   "lon": -71.4676435
+  },
+  {
+   "name": "Firefly American Bistro",
+   "kind": "dinner",
+   "cuisine": "American bistro",
+   "area": "Downtown",
+   "lat": 42.9929046,
+   "lon": -71.4623072
+  },
+  {
+   "name": "The Foundry",
+   "kind": "dinner",
+   "cuisine": "Farm-to-table American",
+   "area": "Millyard",
+   "lat": 42.9863645,
+   "lon": -71.4693393
+  },
+  {
+   "name": "110 Grill",
+   "kind": "lunch",
+   "cuisine": "American grill, family friendly",
+   "area": "Elm Street",
+   "lat": 42.9905726,
+   "lon": -71.4626811
+  },
+  {
+   "name": "Piccola Italia Ristorante",
+   "kind": "lunch",
+   "cuisine": "Italian, family friendly",
+   "area": "Elm Street",
+   "lat": 42.989901,
+   "lon": -71.4628394
+  },
+  {
+   "name": "The Crown Tavern",
+   "kind": "drinks",
+   "cuisine": "Cocktails & comfort food",
+   "area": "Hanover Street",
+   "lat": 42.990723,
+   "lon": -71.4610186
+  },
+  {
+   "name": "Evolution Bistro & Bar",
+   "kind": "drinks",
+   "cuisine": "Cocktails & French-American plates",
+   "area": "Elm Street",
+   "lat": 42.9912583,
+   "lon": -71.463282
+  },
+  {
+   "name": "Currier Museum of Art",
+   "kind": "always",
+   "cuisine": "",
+   "area": "North End",
+   "lat": 42.99778,
+   "lon": -71.45583,
+   "price": "Tickets",
+   "blurb": "New Hampshire's leading art museum, with European and American masters; closed Thanksgiving Day only.",
+   "blurbEs": "El principal museo de arte de New Hampshire, con maestros europeos y estadounidenses; cierra solo el Día de Acción de Gracias."
+  },
+  {
+   "name": "Arms Park Riverwalk",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Millyard",
+   "lat": 42.989,
+   "lon": -71.468,
+   "price": "Free",
+   "blurb": "Riverside walk along the Merrimack beside the old Amoskeag mill buildings.",
+   "blurbEs": "Paseo junto al río Merrimack, al lado de los antiguos edificios de las fábricas Amoskeag."
+  },
+  {
+   "name": "Amoskeag Falls",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Merrimack River",
+   "lat": 43.00222,
+   "lon": -71.47278,
+   "price": "Free",
+   "blurb": "The 50-foot drop on the Merrimack that once powered the Amoskeag mills.",
+   "blurbEs": "La caída de 15 metros en el río Merrimack que antes movía las fábricas Amoskeag."
+  }
+ ]
+}

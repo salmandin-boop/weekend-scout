@@ -1,0 +1,73 @@
+{
+ "city": "rapid-city",
+ "updated": "2026-11-25",
+ "source": "Evergreen picks only, from Visit Rapid City's winter attractions list (Nov 2026); restaurant and bar picks still to add",
+ "spots": [
+  {
+   "name": "Main Street Square",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 44.0814,
+   "lon": -103.2269,
+   "price": "Free",
+   "blurb": "Downtown plaza with a winter ice rink ($10 day pass)",
+   "blurbEs": "Plaza del centro con pista de hielo en invierno (pase de día $10)"
+  },
+  {
+   "name": "City of Presidents",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 44.081,
+   "lon": -103.229,
+   "price": "Free",
+   "blurb": "Bronze statues of U.S. presidents on downtown corners",
+   "blurbEs": "Estatuas de bronce de los presidentes de EE. UU. en las esquinas del centro"
+  },
+  {
+   "name": "Dahl Arts Center",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 44.0789,
+   "lon": -103.23,
+   "price": "Free",
+   "blurb": "Free downtown art galleries and a panoramic Western mural",
+   "blurbEs": "Galerías de arte gratuitas en el centro y un mural panorámico del Oeste"
+  },
+  {
+   "name": "The Journey Museum",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Downtown",
+   "lat": 44.0864,
+   "lon": -103.2181,
+   "price": "Tickets",
+   "blurb": "Black Hills history from geology to Lakota culture and pioneers",
+   "blurbEs": "La historia de Black Hills, de la geología a la cultura lakota y los pioneros"
+  },
+  {
+   "name": "Museum of Geology",
+   "kind": "always",
+   "cuisine": "",
+   "area": "SD Mines",
+   "lat": 44.0736,
+   "lon": -103.2061,
+   "price": "Check hours",
+   "blurb": "Dinosaur fossils and minerals at the South Dakota School of Mines",
+   "blurbEs": "Fósiles de dinosaurios y minerales en la South Dakota School of Mines"
+  },
+  {
+   "name": "Dinosaur Park",
+   "kind": "always",
+   "cuisine": "",
+   "area": "Skyline Drive",
+   "lat": 44.076,
+   "lon": -103.246,
+   "price": "Free",
+   "blurb": "Hilltop park with giant concrete dinosaurs and city views; visitor center closed in winter",
+   "blurbEs": "Parque en la colina con dinosaurios gigantes de concreto y vista a la ciudad; el centro de visitantes cierra en invierno"
+  }
+ ]
+}

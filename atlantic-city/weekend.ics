@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:atlantic-city-atlantic-city-boardwalk-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T024607Z
+DTSTAMP:20261126T033052Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/atlantic-city/atlantic-city-boardwalk-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:atlantic-city-atlantic-city-boardwalk-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T024607Z
+DTSTAMP:20261126T033052Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/atlantic-city/atlantic-city-boardwalk-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:atlantic-city-atlantic-city-boardwalk-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T024607Z
+DTSTAMP:20261126T033052Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -47,61 +47,124 @@ DESCRIPTION:The original boardwalk: 5.5 miles of ocean views\, arcades\, s
 URL:https://weekendscout.app/e/atlantic-city/atlantic-city-boardwalk-2026-11/
 END:VEVENT
 BEGIN:VEVENT
-UID:atlantic-city-kem-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T024607Z
+UID:atlantic-city-kem-borgata-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T033052Z
 DTSTART:20261128T010000Z
 DTEND:20261128T030000Z
 SUMMARY:Kem
 LOCATION:Borgata Event Center\, 1 Borgata Way\, Atlantic City\, NJ 08401
-DESCRIPTION:The R&B singer on Black Friday. Tickets. Details: https://week
- endscout.app/e/atlantic-city/kem-2026-11/
-URL:https://weekendscout.app/e/atlantic-city/kem-2026-11/
+DESCRIPTION:The Detroit R&B singer behind “Love Calls” and “Share My
+  Life” plays Borgata on Black Friday night. Tickets. Details: https://we
+ ekendscout.app/e/atlantic-city/kem-borgata-2026-11-27/
+URL:https://weekendscout.app/e/atlantic-city/kem-borgata-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:atlantic-city-chris-isaak-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T024607Z
+UID:atlantic-city-chris-isaak-borgata-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T033052Z
 DTSTART:20261128T010000Z
 DTEND:20261128T030000Z
-SUMMARY:Chris Isaak
+SUMMARY:Chris Isaak: On Tour for the Holidays
 LOCATION:Borgata Music Box\, 1 Borgata Way\, Atlantic City\, NJ 08401
-DESCRIPTION:“Wicked Game” and rockabilly classics. Tickets. Details: h
- ttps://weekendscout.app/e/atlantic-city/chris-isaak-2026-11/
-URL:https://weekendscout.app/e/atlantic-city/chris-isaak-2026-11/
+DESCRIPTION:The “Wicked Game” crooner brings his holiday tour\, mixing
+  rockabilly hits with Christmas songs\, to the intimate Music Box. Tickets
+ . Details: https://weekendscout.app/e/atlantic-city/chris-isaak-borgata-20
+ 26-11-27/
+URL:https://weekendscout.app/e/atlantic-city/chris-isaak-borgata-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:atlantic-city-the-temptations-and-the-four-tops-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T024607Z
+UID:atlantic-city-temptations-four-tops-hard-rock-2026-11-27-fri-0@weekendscout.app
+DTSTAMP:20261126T033052Z
 DTSTART:20261128T020000Z
 DTEND:20261128T040000Z
 SUMMARY:The Temptations and The Four Tops
 LOCATION:Hard Rock Live at Etess Arena\, 1000 Boardwalk\, Atlantic City\, 
  NJ 08401
-DESCRIPTION:Two Motown groups\, one night. Tickets. Details: https://weeke
- ndscout.app/e/atlantic-city/the-temptations-and-the-four-tops-2026-11/
-URL:https://weekendscout.app/e/atlantic-city/the-temptations-and-the-four-tops-2026-11/
+DESCRIPTION:Two Motown legends share one bill on Black Friday: “My Girl\
+ ,” “I Can’t Help Myself” and a night of sing-alongs. Tickets. Deta
+ ils: https://weekendscout.app/e/atlantic-city/temptations-four-tops-hard-r
+ ock-2026-11-27/
+URL:https://weekendscout.app/e/atlantic-city/temptations-four-tops-hard-rock-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:atlantic-city-a-magical-cirque-christmas-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T024607Z
+UID:atlantic-city-magical-cirque-christmas-tropicana-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T033052Z
 DTSTART:20261129T010000Z
 DTEND:20261129T030000Z
 SUMMARY:A Magical Cirque Christmas
 LOCATION:Tropicana Showroom\, 2831 Boardwalk\, Atlantic City\, NJ 08401
-DESCRIPTION:Holiday circus acts and Christmas songs. Tickets. Details: htt
- ps://weekendscout.app/e/atlantic-city/a-magical-cirque-christmas-2026-11/
-URL:https://weekendscout.app/e/atlantic-city/a-magical-cirque-christmas-2026-11/
+DESCRIPTION:Acrobats\, aerialists\, contortionists and jugglers perform to
+  well-known Christmas songs\, hosted by magician Mark Clearview. Billed as
+  suitable for all ages. Tickets. Details: https://weekendscout.app/e/atlan
+ tic-city/magical-cirque-christmas-tropicana-2026-11-28/
+URL:https://weekendscout.app/e/atlantic-city/magical-cirque-christmas-tropicana-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
-UID:atlantic-city-jason-bonham-s-led-zeppelin-evening-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T024607Z
+UID:atlantic-city-jason-bonham-led-zeppelin-hard-rock-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T033052Z
 DTSTART:20261129T010000Z
 DTEND:20261129T030000Z
 SUMMARY:Jason Bonham’s Led Zeppelin Evening
 LOCATION:Sound Waves at Hard Rock\, 1000 Boardwalk\, Atlantic City\, NJ 08
  401
-DESCRIPTION:John Bonham’s son plays Led Zeppelin. Tickets. Details: http
- s://weekendscout.app/e/atlantic-city/jason-bonham-s-led-zeppelin-evening-2
- 026-11/
-URL:https://weekendscout.app/e/atlantic-city/jason-bonham-s-led-zeppelin-evening-2026-11/
+DESCRIPTION:John Bonham’s son leads a full-throttle night of Led Zeppeli
+ n songs in Hard Rock’s Sound Waves room. From $79. Details: https://week
+ endscout.app/e/atlantic-city/jason-bonham-led-zeppelin-hard-rock-2026-11-2
+ 8/
+URL:https://weekendscout.app/e/atlantic-city/jason-bonham-led-zeppelin-hard-rock-2026-11-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:atlantic-city-santas-hideaway-ocean-2026-fri-0@weekendscout.app
+DTSTAMP:20261126T033052Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Santa’s Hideaway Adventure
+LOCATION:Ocean Casino Resort\, 500 Boardwalk\, Atlantic City\, NJ 08401
+DESCRIPTION:Ride an “elevator to the North Pole” at The Shops at The R
+ ow\, then meet Santa and take photos. Advance tickets recommended\; it sel
+ ls out. Tickets. Details: https://weekendscout.app/e/atlantic-city/santas-
+ hideaway-ocean-2026/
+URL:https://weekendscout.app/e/atlantic-city/santas-hideaway-ocean-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:atlantic-city-santas-hideaway-ocean-2026-sat-0@weekendscout.app
+DTSTAMP:20261126T033052Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Santa’s Hideaway Adventure
+LOCATION:Ocean Casino Resort\, 500 Boardwalk\, Atlantic City\, NJ 08401
+DESCRIPTION:Ride an “elevator to the North Pole” at The Shops at The R
+ ow\, then meet Santa and take photos. Advance tickets recommended\; it sel
+ ls out. Tickets. Details: https://weekendscout.app/e/atlantic-city/santas-
+ hideaway-ocean-2026/
+URL:https://weekendscout.app/e/atlantic-city/santas-hideaway-ocean-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:atlantic-city-santas-hideaway-ocean-2026-sun-0@weekendscout.app
+DTSTAMP:20261126T033052Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Santa’s Hideaway Adventure
+LOCATION:Ocean Casino Resort\, 500 Boardwalk\, Atlantic City\, NJ 08401
+DESCRIPTION:Ride an “elevator to the North Pole” at The Shops at The R
+ ow\, then meet Santa and take photos. Advance tickets recommended\; it sel
+ ls out. Tickets. Details: https://weekendscout.app/e/atlantic-city/santas-
+ hideaway-ocean-2026/
+URL:https://weekendscout.app/e/atlantic-city/santas-hideaway-ocean-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:atlantic-city-ocean-holiday-village-2026-11-28-sat-0@weekendscout.app
+DTSTAMP:20261126T033052Z
+DTSTART:20261128T170000Z
+DTEND:20261129T000000Z
+SUMMARY:Ocean’s Holiday Village
+LOCATION:Ocean Casino Resort\, 500 Boardwalk\, Atlantic City\, NJ 08401
+DESCRIPTION:Opening day of Ocean’s holiday market at The Shops at The Ro
+ w\, with more than 30 local businesses\; the first 200 shoppers get a limi
+ ted-edition gift. Check details. Details: https://weekendscout.app/e/atlan
+ tic-city/ocean-holiday-village-2026-11-28/
+URL:https://weekendscout.app/e/atlantic-city/ocean-holiday-village-2026-11-28/
 END:VEVENT
 END:VCALENDAR

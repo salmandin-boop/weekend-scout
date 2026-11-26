@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:green-bay-titletown-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T024607Z
+DTSTAMP:20261126T033052Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/green-bay/titletown-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:green-bay-titletown-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T024607Z
+DTSTAMP:20261126T033052Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/green-bay/titletown-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:green-bay-titletown-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T024607Z
+DTSTAMP:20261126T033052Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -48,7 +48,7 @@ URL:https://weekendscout.app/e/green-bay/titletown-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:green-bay-the-nutcracker-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T024607Z
+DTSTAMP:20261126T033052Z
 DTSTART:20261127T200000Z
 DTEND:20261127T220000Z
 SUMMARY:The Nutcracker
@@ -60,7 +60,7 @@ URL:https://weekendscout.app/e/green-bay/the-nutcracker-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:green-bay-the-nutcracker-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T024607Z
+DTSTAMP:20261126T033052Z
 DTSTART:20261128T200000Z
 DTEND:20261128T220000Z
 SUMMARY:The Nutcracker
@@ -72,7 +72,7 @@ URL:https://weekendscout.app/e/green-bay/the-nutcracker-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:green-bay-the-nutcracker-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T024607Z
+DTSTAMP:20261126T033052Z
 DTSTART:20261129T200000Z
 DTEND:20261129T220000Z
 SUMMARY:The Nutcracker
@@ -84,7 +84,7 @@ URL:https://weekendscout.app/e/green-bay/the-nutcracker-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:green-bay-green-bay-gamblers-vs-usa-hockey-ntdp-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T024607Z
+DTSTAMP:20261126T033052Z
 DTSTART:20261128T010500Z
 DTEND:20261128T030500Z
 SUMMARY:Green Bay Gamblers vs. USA Hockey NTDP
@@ -96,7 +96,7 @@ URL:https://weekendscout.app/e/green-bay/green-bay-gamblers-vs-usa-hockey-ntdp-2
 END:VEVENT
 BEGIN:VEVENT
 UID:green-bay-green-bay-gamblers-vs-usa-hockey-ntdp-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T024607Z
+DTSTAMP:20261126T033052Z
 DTSTART:20261129T000500Z
 DTEND:20261129T020500Z
 SUMMARY:Green Bay Gamblers vs. USA Hockey NTDP
@@ -108,7 +108,7 @@ URL:https://weekendscout.app/e/green-bay/green-bay-gamblers-vs-usa-hockey-ntdp-2
 END:VEVENT
 BEGIN:VEVENT
 UID:green-bay-green-bay-vs-north-dakota-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T024607Z
+DTSTAMP:20261126T033052Z
 DTSTART:20261129T190000Z
 DTEND:20261129T210000Z
 SUMMARY:Green Bay vs. North Dakota

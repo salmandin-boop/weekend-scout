@@ -1,0 +1,85 @@
+{
+ "city": "newark",
+ "updated": "2026-11-25",
+ "source": "Picked from Newark's tourism site (newarkhappening.com) date-night and pre/post-game guides, checked against OpenTable listings and recent reviews (Nov 2026)",
+ "spots": [
+  {
+   "name": "Fornos of Spain",
+   "kind": "dinner",
+   "cuisine": "Spanish",
+   "area": "Ironbound",
+   "lat": 40.7323793,
+   "lon": -74.1632947
+  },
+  {
+   "name": "Adega Grill",
+   "kind": "dinner",
+   "cuisine": "Portuguese",
+   "area": "Ironbound",
+   "lat": 40.7301379,
+   "lon": -74.159592
+  },
+  {
+   "name": "Casa de Paco",
+   "kind": "dinner",
+   "cuisine": "Spanish tapas & seafood",
+   "area": "Ironbound",
+   "lat": 40.7253572,
+   "lon": -74.1631496
+  },
+  {
+   "name": "NICO Kitchen + Bar",
+   "kind": "dinner",
+   "cuisine": "Modern Italian-American (at NJPAC)",
+   "area": "Downtown",
+   "lat": 40.7401199,
+   "lon": -74.1673941
+  },
+  {
+   "name": "Hobby's Delicatessen & Restaurant",
+   "kind": "lunch",
+   "cuisine": "Jewish deli, family friendly",
+   "area": "Downtown",
+   "lat": 40.735099,
+   "lon": -74.174431
+  },
+  {
+   "name": "Mompou Tapas Bar",
+   "kind": "drinks",
+   "cuisine": "Wine, sangria & tapas",
+   "area": "Ironbound",
+   "lat": 40.731377,
+   "lon": -74.162002
+  },
+  {
+   "name": "The Vault Lounge & Restaurant",
+   "kind": "drinks",
+   "cuisine": "Cocktail lounge",
+   "area": "Downtown",
+   "lat": 40.7374068,
+   "lon": -74.1746484
+  },
+  {
+   "name": "Military Park",
+   "kind": "always",
+   "cuisine": "Park & carousel",
+   "area": "Downtown",
+   "lat": 40.73972,
+   "lon": -74.16917,
+   "price": "Free",
+   "blurb": "Downtown's historic green, with a holiday-season carousel offering free rides and the Winter Village a few blocks away.",
+   "blurbEs": "El histórico parque del centro, con un carrusel de temporada navideña con viajes gratis y el Winter Village a pocas cuadras."
+  },
+  {
+   "name": "Branch Brook Park",
+   "kind": "always",
+   "cuisine": "Park",
+   "area": "North Ward",
+   "lat": 40.76,
+   "lon": -74.178,
+   "price": "Free",
+   "blurb": "A 360-acre county park with lakes, walking paths and the country's largest cherry tree collection.",
+   "blurbEs": "Un parque del condado de 145 hectáreas con lagos, senderos y la mayor colección de cerezos del país."
+  }
+ ]
+}

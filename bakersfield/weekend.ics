@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:bakersfield-becky-robinson-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T024607Z
+DTSTAMP:20261126T033052Z
 DTSTART:20261128T040000Z
 DTEND:20261128T060000Z
 SUMMARY:Becky Robinson's: Holiday Spectacular
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/bakersfield/becky-robinson-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:bakersfield-bakersfield-condors-vs-abbotsford-canucks-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T024607Z
+DTSTAMP:20261126T033052Z
 DTSTART:20261129T030000Z
 DTEND:20261129T050000Z
 SUMMARY:Bakersfield Condors vs. Abbotsford Canucks
@@ -34,7 +34,7 @@ URL:https://weekendscout.app/e/bakersfield/bakersfield-condors-vs-abbotsford-can
 END:VEVENT
 BEGIN:VEVENT
 UID:bakersfield-holidaylights-at-calm-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T024607Z
+DTSTAMP:20261126T033052Z
 DTSTART:20261129T013000Z
 DTEND:20261129T060000Z
 SUMMARY:HolidayLights at CALM
@@ -49,7 +49,7 @@ URL:https://weekendscout.app/e/bakersfield/holidaylights-at-calm-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:bakersfield-holidaylights-at-calm-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T024607Z
+DTSTAMP:20261126T033052Z
 DTSTART:20261130T013000Z
 DTEND:20261130T050000Z
 SUMMARY:HolidayLights at CALM
@@ -64,7 +64,7 @@ URL:https://weekendscout.app/e/bakersfield/holidaylights-at-calm-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:bakersfield-small-business-saturday-in-downtown-bakersfield-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T024607Z
+DTSTAMP:20261126T033052Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
