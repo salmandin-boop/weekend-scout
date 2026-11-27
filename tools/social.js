@@ -1,11 +1,15 @@
 // Makes ready-to-post Instagram/TikTok carousel images (1080x1350) and a caption for each city's weekend.
-// Run from the repo root: node tools/social.js [outDir] [city,city,...]
+// Run from the repo root: node tools/social.js [outDir] [city,city,...] [upcoming]
+// Add 'upcoming' to make a "Coming up" post from the city's upcoming list (for Mon–Wed, before the new weekend list is out).
 // Output (not committed): <outDir>/<city>/01.jpg … and <outDir>/<city>/caption.txt
 const { chromium } = require('playwright');
 const fs = require('fs'), path = require('path');
 const ROOT = path.join(__dirname, '..');
 const OUT = path.resolve(process.argv[2] || path.join(ROOT, '.social'));
 const ONLY = (process.argv[3] || '').split(',').filter(Boolean);
+const UPCOMING = process.argv[4] === 'upcoming';
+const MON = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+const dateLabel = iso => { const [y, m, dd] = iso.split('-').map(Number); const wd = ['SUN','MON','TUE','WED','THU','FRI','SAT'][new Date(Date.UTC(y, m - 1, dd)).getUTCDay()]; return `${wd} · ${MON[m - 1].toUpperCase()} ${dd}`; };
 const font = 'data:font/ttf;base64,' + fs.readFileSync(path.join(__dirname, 'fonts/BricolageGrotesque-Bold.ttf')).toString('base64');
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 const DAYS = ['fri', 'sat', 'sun'], DN = { fri: 'FRI', sat: 'SAT', sun: 'SUN' };
@@ -36,6 +40,26 @@ const TICKET = '<svg class="t" viewBox="0 0 512 512"><path fill="#e2591b" d="M12
     const d = JSON.parse(fs.readFileSync(path.join(ROOT, c.file)));
     const dir = path.join(OUT, c.id); fs.mkdirSync(dir, { recursive: true });
     for (const f of fs.readdirSync(dir)) fs.unlinkSync(path.join(dir, f));
+    if (UPCOMING) {
+      const today = new Date().toISOString().slice(0, 10);
+      const up = (d.upcoming || []).filter(u => u.date && u.date >= today).sort((a, b) => a.date.localeCompare(b.date)).slice(0, 5);
+      if (up.length < 3) { console.log('skip', c.id, '(fewer than 3 upcoming events)'); continue; }
+      const sl = [`<div class="k">Weekend Scout · Coming up</div><h1>Coming up in <em>${esc(c.name)}</em></h1>
+        <div class="d">Big dates worth planning for</div><ul>${up.map(u => `<li>${esc(u.title)}</li>`).join('')}</ul>${TICKET}
+        <div class="foot"><span>Swipe for dates →</span><span>weekendscout.app</span></div>`];
+      up.forEach((u, i) => sl.push(`<div class="k">${esc(c.name)} · Coming up</div>
+        <div class="card"><div class="when">${esc(dateLabel(u.date))}</div><h2>${esc(u.title)}</h2><div class="v">${esc(u.venue || '')}</div>
+        <div class="pills"><span class="pill">${esc(u.priceLabel || 'Tickets')}</span></div></div>
+        <div class="foot"><span class="n">${i + 1} / ${up.length}</span><span>weekendscout.app</span></div>`));
+      sl.push(`<div class="k">Weekend Scout</div><h1>Plus this weekend's picks every Wednesday</h1>
+        <div class="d">Times, tickets, directions and free things to do. Free, no sign-up.</div>${TICKET}
+        <ul><li>weekendscout.app</li><li>Link in bio</li></ul><div class="foot"><span>200 US cities</span><span>${esc(tagOf(c))}</span></div>`);
+      for (let i = 0; i < sl.length; i++) { await p.setContent(`<style>${CSS}</style>${sl[i]}`); await p.waitForTimeout(120); await p.screenshot({ path: path.join(dir, String(i + 1).padStart(2, '0') + '.jpg'), type: 'jpeg', quality: 88 }); }
+      const md = iso => { const [, m, dd] = iso.split('-').map(Number); return `${MON[m - 1]} ${dd}`; };
+      fs.writeFileSync(path.join(dir, 'caption.txt'), `Coming up in ${c.name} 📅\n\n` + up.map(u => `• ${u.title}: ${md(u.date)}${u.venue ? ` at ${u.venue}` : ''}`).join('\n') +
+        `\n\nSave the dates, and find this weekend's hand-checked picks at weekendscout.app (link in bio).\n\n${tagOf(c)} #ThingsToDo${c.name.replace(/[^A-Za-z]/g, '')} #${c.state}Events #WeekendScout\n`);
+      continue;
+    }
     // 5 picks: never sponsored; mix free, date-night and other categories, timed events first
     const pool = d.events.filter(e => !e.featured), picks = [];
     const take = f => { const e = pool.find(x => f(x) && !picks.includes(x)); if (e) picks.push(e); };
