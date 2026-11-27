@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:juneau-juneau-public-market-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100113Z
 DTSTART:20261127T210000Z
 DTEND:20261128T040000Z
 SUMMARY:Juneau Public Market
@@ -23,7 +23,7 @@ URL:https://weekendscout.app/e/juneau/juneau-public-market-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:juneau-juneau-public-market-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100113Z
 DTSTART:20261128T190000Z
 DTEND:20261129T020000Z
 SUMMARY:Juneau Public Market
@@ -37,7 +37,7 @@ URL:https://weekendscout.app/e/juneau/juneau-public-market-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:juneau-juneau-public-market-2026-11-27-sun-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100113Z
 DTSTART:20261129T190000Z
 DTEND:20261130T020000Z
 SUMMARY:Juneau Public Market
@@ -51,7 +51,7 @@ URL:https://weekendscout.app/e/juneau/juneau-public-market-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:juneau-indigenous-artists-vendors-holiday-market-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100113Z
 DTSTART:20261127T210000Z
 DTEND:20261128T020000Z
 SUMMARY:Indigenous Artists & Vendors Holiday Market
@@ -65,7 +65,7 @@ URL:https://weekendscout.app/e/juneau/indigenous-artists-vendors-holiday-market-
 END:VEVENT
 BEGIN:VEVENT
 UID:juneau-indigenous-artists-vendors-holiday-market-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100113Z
 DTSTART:20261128T210000Z
 DTEND:20261129T020000Z
 SUMMARY:Indigenous Artists & Vendors Holiday Market
@@ -79,7 +79,7 @@ URL:https://weekendscout.app/e/juneau/indigenous-artists-vendors-holiday-market-
 END:VEVENT
 BEGIN:VEVENT
 UID:juneau-indigenous-artists-vendors-holiday-market-2026-11-27-sun-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100113Z
 DTSTART:20261129T210000Z
 DTEND:20261130T020000Z
 SUMMARY:Indigenous Artists & Vendors Holiday Market
@@ -93,7 +93,7 @@ URL:https://weekendscout.app/e/juneau/indigenous-artists-vendors-holiday-market-
 END:VEVENT
 BEGIN:VEVENT
 UID:juneau-douglas-tree-lighting-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100113Z
 DTSTART:20261128T033000Z
 DTEND:20261128T053000Z
 SUMMARY:Douglas Christmas Tree Lighting
@@ -108,7 +108,7 @@ URL:https://weekendscout.app/e/juneau/douglas-tree-lighting-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:juneau-santa-skate-treadwell-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100113Z
 DTSTART:20261128T040000Z
 DTEND:20261128T051500Z
 SUMMARY:Santa Skate
@@ -121,7 +121,7 @@ URL:https://weekendscout.app/e/juneau/santa-skate-treadwell-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:juneau-king-rooster-crystal-saloon-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100113Z
 DTSTART:20261129T060000Z
 DTEND:20261129T080000Z
 SUMMARY:King Rooster (Alice In Chains Tribute) + Manic 3
@@ -133,7 +133,7 @@ URL:https://weekendscout.app/e/juneau/king-rooster-crystal-saloon-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:juneau-karaoke-al-boogie-crystal-saloon-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100113Z
 DTSTART:20261128T060000Z
 DTEND:20261128T080000Z
 SUMMARY:Karaoke with Al Boogie
@@ -145,7 +145,7 @@ URL:https://weekendscout.app/e/juneau/karaoke-al-boogie-crystal-saloon-2026-11-2
 END:VEVENT
 BEGIN:VEVENT
 UID:juneau-girl-yeti-spaceship-gold-town-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100113Z
 DTSTART:20261129T020000Z
 DTEND:20261129T040000Z
 SUMMARY:Girl Yeti and a Spaceship
@@ -160,7 +160,7 @@ URL:https://weekendscout.app/e/juneau/girl-yeti-spaceship-gold-town-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:juneau-girl-yeti-spaceship-gold-town-2026-11-28-sun-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100113Z
 DTSTART:20261130T033000Z
 DTEND:20261130T053000Z
 SUMMARY:Girl Yeti and a Spaceship

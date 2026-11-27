@@ -25,6 +25,8 @@
 <meta property="og:image:alt" content="Weekend Scout app showing this weekend's events">
 <meta name="twitter:card" content="summary_large_image">
 <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","name":"Weekend Scout","url":"https://weekendscout.app/","description":"Hand-checked concerts, games, markets and family events in cities across the US, updated every Wednesday."},{"@type":"Organization","name":"ENDins LLC","url":"https://weekendscout.app/","logo":"https://weekendscout.app/icons/icon-512.png","email":"support@weekendscout.app","telephone":"+1-315-383-9602","address":{"@type":"PostalAddress","streetAddress":"1926 Genesee St, Ste 1 #727","addressLocality":"Utica","addressRegion":"NY","postalCode":"13501","addressCountry":"US"}}]}</script>
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com https://static.cloudflareinsights.com https://plausible.io; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://cdnjs.cloudflare.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: blob: https:; connect-src 'self' https://api.open-meteo.com https://cloudflareinsights.com https://plausible.io; worker-src 'self'; manifest-src 'self'; frame-src 'none'; object-src 'none'; base-uri 'self'; form-action 'self' https:">
+<meta name="referrer" content="strict-origin-when-cross-origin">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
@@ -591,16 +593,27 @@ function liveLabel(ev){
    cities.json lists the cities; each city has its own events file (events/<city>.json).
    The city switcher only appears once there is more than one city. */
 const FALLBACK_CITIES = [{ id:'syracuse', name:'Syracuse', state:'NY', file:'events/syracuse.json' }];
+// Only web links (https/http) or links inside this site may come from data files; anything else (javascript:, data:, etc.) is dropped.
+const SAFE_URL = /^(https?:\/\/|\/(?!\/))/i;
+function cleanURLs(o){
+  if (Array.isArray(o)) { o.forEach(cleanURLs); return o; }
+  if (o && typeof o === 'object') for (const k of Object.keys(o)) {
+    const v = o[k];
+    if ((k === 'url' || k === 'image' || k === 'img' || k === 'logo') && typeof v === 'string' && !SAFE_URL.test(v.trim())) o[k] = '';
+    else if (v && typeof v === 'object') cleanURLs(v);
+  }
+  return o;
+}
 async function getJSON(url, key){
   try {
     const r = await fetch(url, { cache:'no-cache' });
     if (!r.ok) throw new Error(r.status);
-    const j = await r.json();
+    const j = cleanURLs(await r.json());
     store.set(key, j);
     return { j, cached:false };
   } catch {
     const c = store.get(key, null);
-    return c ? { j:c, cached:true } : null;
+    return c ? { j:cleanURLs(c), cached:true } : null;
   }
 }
 async function loadCities(){

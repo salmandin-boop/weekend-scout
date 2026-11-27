@@ -72,11 +72,26 @@ h1{font-size:clamp(2rem,7vw,2.8rem);font-weight:800}h2{font-size:1.3rem;margin:2
 footer{margin-top:36px;color:var(--muted);font-size:.85rem}footer a{color:inherit}
 div.ev a{color:var(--accent);font-weight:700}"""
 
+# Only https/http links (or site-relative paths) may come from data files; anything else is dropped and reported.
+_SAFE_URL = re.compile(r'^(https?://|/(?!/))', re.I)
+def clean_urls(o, where=''):
+    if isinstance(o, list):
+        for x in o: clean_urls(x, where)
+    elif isinstance(o, dict):
+        for k, v in list(o.items()):
+            if k in ('url', 'image', 'img', 'logo') and isinstance(v, str) and v and not _SAFE_URL.match(v.strip()):
+                print(f'WARNING: dropped unsafe link in {where}: {v[:60]!r}')
+                o[k] = ''
+            elif isinstance(v, (dict, list)):
+                clean_urls(v, where)
+    return o
 CF_TOKEN = (json.load(open(os.path.join(ROOT, 'config.json'))).get('analytics') or {}).get('cloudflareToken', '')
 def head(title, desc, url, img, extra=''):
     return f"""<!doctype html>
 <html lang="en"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https:; connect-src 'self' https://cloudflareinsights.com; frame-src 'none'; object-src 'none'; base-uri 'self'; form-action 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
 <title>{esc(title)}</title>
 <meta name="description" content="{esc(desc)}">
 <link rel="canonical" href="{url}">
@@ -148,7 +163,7 @@ def load_guides(c):
     p = os.path.join(ROOT, 'guides', c['id'] + '.json')
     if not os.path.exists(p): return []
     today = date.today().isoformat()
-    g = json.load(open(p)).get('guides') or []
+    g = clean_urls(json.load(open(p)), p).get('guides') or []
     return [x for x in g if x.get('slug') and x.get('title') and x.get('items') and not (x.get('until') and x['until'] < today)]
 
 def build_guides(c, guides, all_guides, img):
@@ -275,7 +290,7 @@ def build_visit(c, d, spots, guides, img):
 
 def main():
     cities = json.load(open(os.path.join(ROOT, 'cities.json')))['cities']
-    datas = {c['id']: json.load(open(os.path.join(ROOT, c['file']))) for c in cities}
+    datas = {c['id']: clean_urls(json.load(open(os.path.join(ROOT, c['file']))), c['file']) for c in cities}
     # wipe generated folders so old weekends disappear
     shutil.rmtree(os.path.join(ROOT, 'e'), ignore_errors=True)
     urls = [f'{SITE}/']
@@ -346,7 +361,7 @@ def main():
         open(os.path.join(ROOT, c['id'], 'weekend.ics'), 'w', newline='').write(build_ics(c, d))
         urls += build_guides(c, guides[c['id']], all_guides, img)
         sp_path = os.path.join(ROOT, 'spots', c['id'] + '.json')
-        spots = json.load(open(sp_path)).get('spots', []) if os.path.exists(sp_path) else []
+        spots = clean_urls(json.load(open(sp_path)), sp_path).get('spots', []) if os.path.exists(sp_path) else []
         urls += build_visit(c, d, spots, guides[c['id']], img)
         # one share page per event
         for e in d['events']:

@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:providence-cirque-twas-the-night-before-ppac-fri-0@weekendscout.app
-DTSTAMP:20261126T221845Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261127T210000Z
 DTEND:20261127T230000Z
 SUMMARY:'Twas The Night Before... by Cirque du Soleil
@@ -23,7 +23,7 @@ URL:https://weekendscout.app/e/providence/cirque-twas-the-night-before-ppac/
 END:VEVENT
 BEGIN:VEVENT
 UID:providence-cirque-twas-the-night-before-ppac-fri-1@weekendscout.app
-DTSTAMP:20261126T221845Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261128T003000Z
 DTEND:20261128T023000Z
 SUMMARY:'Twas The Night Before... by Cirque du Soleil
@@ -37,7 +37,7 @@ URL:https://weekendscout.app/e/providence/cirque-twas-the-night-before-ppac/
 END:VEVENT
 BEGIN:VEVENT
 UID:providence-cirque-twas-the-night-before-ppac-sat-0@weekendscout.app
-DTSTAMP:20261126T221845Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261128T180000Z
 DTEND:20261128T200000Z
 SUMMARY:'Twas The Night Before... by Cirque du Soleil
@@ -51,7 +51,7 @@ URL:https://weekendscout.app/e/providence/cirque-twas-the-night-before-ppac/
 END:VEVENT
 BEGIN:VEVENT
 UID:providence-cirque-twas-the-night-before-ppac-sat-1@weekendscout.app
-DTSTAMP:20261126T221845Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261128T210000Z
 DTEND:20261128T230000Z
 SUMMARY:'Twas The Night Before... by Cirque du Soleil
@@ -65,7 +65,7 @@ URL:https://weekendscout.app/e/providence/cirque-twas-the-night-before-ppac/
 END:VEVENT
 BEGIN:VEVENT
 UID:providence-cirque-twas-the-night-before-ppac-sat-2@weekendscout.app
-DTSTAMP:20261126T221845Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261129T003000Z
 DTEND:20261129T023000Z
 SUMMARY:'Twas The Night Before... by Cirque du Soleil
@@ -79,7 +79,7 @@ URL:https://weekendscout.app/e/providence/cirque-twas-the-night-before-ppac/
 END:VEVENT
 BEGIN:VEVENT
 UID:providence-cirque-twas-the-night-before-ppac-sun-0@weekendscout.app
-DTSTAMP:20261126T221845Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261129T170000Z
 DTEND:20261129T190000Z
 SUMMARY:'Twas The Night Before... by Cirque du Soleil
@@ -93,7 +93,7 @@ URL:https://weekendscout.app/e/providence/cirque-twas-the-night-before-ppac/
 END:VEVENT
 BEGIN:VEVENT
 UID:providence-cirque-twas-the-night-before-ppac-sun-1@weekendscout.app
-DTSTAMP:20261126T221845Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261129T200000Z
 DTEND:20261129T220000Z
 SUMMARY:'Twas The Night Before... by Cirque du Soleil
@@ -107,7 +107,7 @@ URL:https://weekendscout.app/e/providence/cirque-twas-the-night-before-ppac/
 END:VEVENT
 BEGIN:VEVENT
 UID:providence-cirque-twas-the-night-before-ppac-sun-2@weekendscout.app
-DTSTAMP:20261126T221845Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261129T233000Z
 DTEND:20261130T013000Z
 SUMMARY:'Twas The Night Before... by Cirque du Soleil
@@ -121,7 +121,7 @@ URL:https://weekendscout.app/e/providence/cirque-twas-the-night-before-ppac/
 END:VEVENT
 BEGIN:VEVENT
 UID:providence-rwp-zoo-holiday-lights-spectacular-fri-0@weekendscout.app
-DTSTAMP:20261126T221845Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261127T220000Z
 DTEND:20261128T023000Z
 SUMMARY:Holiday Lights Spectacular
@@ -135,7 +135,7 @@ URL:https://weekendscout.app/e/providence/rwp-zoo-holiday-lights-spectacular/
 END:VEVENT
 BEGIN:VEVENT
 UID:providence-rwp-zoo-holiday-lights-spectacular-sat-0@weekendscout.app
-DTSTAMP:20261126T221845Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261128T220000Z
 DTEND:20261129T023000Z
 SUMMARY:Holiday Lights Spectacular
@@ -149,7 +149,7 @@ URL:https://weekendscout.app/e/providence/rwp-zoo-holiday-lights-spectacular/
 END:VEVENT
 BEGIN:VEVENT
 UID:providence-rwp-zoo-holiday-lights-spectacular-sun-0@weekendscout.app
-DTSTAMP:20261126T221845Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261129T220000Z
 DTEND:20261130T023000Z
 SUMMARY:Holiday Lights Spectacular
@@ -163,7 +163,7 @@ URL:https://weekendscout.app/e/providence/rwp-zoo-holiday-lights-spectacular/
 END:VEVENT
 BEGIN:VEVENT
 UID:providence-rwp-museum-steam-weekend-sat-0@weekendscout.app
-DTSTAMP:20261126T221845Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261128T150000Z
 DTEND:20261128T210000Z
 SUMMARY:Fam-tastic STEAM Weekend
@@ -178,7 +178,7 @@ URL:https://weekendscout.app/e/providence/rwp-museum-steam-weekend/
 END:VEVENT
 BEGIN:VEVENT
 UID:providence-rwp-museum-steam-weekend-sun-0@weekendscout.app
-DTSTAMP:20261126T221845Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261129T150000Z
 DTEND:20261129T210000Z
 SUMMARY:Fam-tastic STEAM Weekend
@@ -193,7 +193,7 @@ URL:https://weekendscout.app/e/providence/rwp-museum-steam-weekend/
 END:VEVENT
 BEGIN:VEVENT
 UID:providence-providence-rink-kennedy-plaza-fri-0@weekendscout.app
-DTSTAMP:20261126T221845Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261127T150000Z
 DTEND:20261128T030000Z
 SUMMARY:Ice Skating at The Providence Rink
@@ -207,7 +207,7 @@ URL:https://weekendscout.app/e/providence/providence-rink-kennedy-plaza/
 END:VEVENT
 BEGIN:VEVENT
 UID:providence-providence-rink-kennedy-plaza-sat-0@weekendscout.app
-DTSTAMP:20261126T221845Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261128T150000Z
 DTEND:20261129T030000Z
 SUMMARY:Ice Skating at The Providence Rink
@@ -221,7 +221,7 @@ URL:https://weekendscout.app/e/providence/providence-rink-kennedy-plaza/
 END:VEVENT
 BEGIN:VEVENT
 UID:providence-providence-rink-kennedy-plaza-sun-0@weekendscout.app
-DTSTAMP:20261126T221845Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261129T150000Z
 DTEND:20261130T030000Z
 SUMMARY:Ice Skating at The Providence Rink
@@ -235,7 +235,7 @@ URL:https://weekendscout.app/e/providence/providence-rink-kennedy-plaza/
 END:VEVENT
 BEGIN:VEVENT
 UID:providence-perreoland-nicky-jam-amica-sat-0@weekendscout.app
-DTSTAMP:20261126T221845Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261129T010000Z
 DTEND:20261129T030000Z
 SUMMARY:Perreoland featuring Nicky Jam
@@ -247,7 +247,7 @@ URL:https://weekendscout.app/e/providence/perreoland-nicky-jam-amica/
 END:VEVENT
 BEGIN:VEVENT
 UID:providence-providence-flea-farm-fresh-black-friday-fri-0@weekendscout.app
-DTSTAMP:20261126T221845Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261127T220000Z
 DTEND:20261128T020000Z
 SUMMARY:Providence Flea: Black Friday Night Market
@@ -260,7 +260,7 @@ URL:https://weekendscout.app/e/providence/providence-flea-farm-fresh-black-frida
 END:VEVENT
 BEGIN:VEVENT
 UID:providence-providence-flea-farm-fresh-black-friday-sun-0@weekendscout.app
-DTSTAMP:20261126T221845Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261129T160000Z
 DTEND:20261129T200000Z
 SUMMARY:Providence Flea: Black Friday Night Market
@@ -273,7 +273,7 @@ URL:https://weekendscout.app/e/providence/providence-flea-farm-fresh-black-frida
 END:VEVENT
 BEGIN:VEVENT
 UID:providence-small-business-saturday-shop-ri-sat-0@weekendscout.app
-DTSTAMP:20261126T221845Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261128T140000Z
 DTEND:20261128T200000Z
 SUMMARY:Small Business Saturday SHOP RI
@@ -287,7 +287,7 @@ URL:https://weekendscout.app/e/providence/small-business-saturday-shop-ri/
 END:VEVENT
 BEGIN:VEVENT
 UID:providence-christmas-on-the-hill-federal-hill-sat-0@weekendscout.app
-DTSTAMP:20261126T221845Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261128T190000Z
 DTEND:20261128T230000Z
 SUMMARY:Christmas on the Hill: Grand Tree Lighting
@@ -302,7 +302,7 @@ URL:https://weekendscout.app/e/providence/christmas-on-the-hill-federal-hill/
 END:VEVENT
 BEGIN:VEVENT
 UID:providence-bryant-vs-iona-mbb-sun-0@weekendscout.app
-DTSTAMP:20261126T221845Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261129T210000Z
 DTEND:20261129T230000Z
 SUMMARY:Bryant Bulldogs vs. Iona (men's basketball)
@@ -315,7 +315,7 @@ URL:https://weekendscout.app/e/providence/bryant-vs-iona-mbb/
 END:VEVENT
 BEGIN:VEVENT
 UID:providence-tso-tribute-ornament-stadium-theatre-fri-0@weekendscout.app
-DTSTAMP:20261126T221845Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261128T010000Z
 DTEND:20261128T030000Z
 SUMMARY:Trans-Siberian Orchestra Tribute by Ornament
@@ -328,7 +328,7 @@ URL:https://weekendscout.app/e/providence/tso-tribute-ornament-stadium-theatre/
 END:VEVENT
 BEGIN:VEVENT
 UID:providence-heritage-ballet-nutcracker-stadium-theatre-sat-0@weekendscout.app
-DTSTAMP:20261126T221845Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261128T190000Z
 DTEND:20261128T210000Z
 SUMMARY:The Nutcracker Ballet (Heritage Ballet)
@@ -341,7 +341,7 @@ URL:https://weekendscout.app/e/providence/heritage-ballet-nutcracker-stadium-the
 END:VEVENT
 BEGIN:VEVENT
 UID:providence-heritage-ballet-nutcracker-stadium-theatre-sat-1@weekendscout.app
-DTSTAMP:20261126T221845Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261129T000000Z
 DTEND:20261129T020000Z
 SUMMARY:The Nutcracker Ballet (Heritage Ballet)
@@ -354,7 +354,7 @@ URL:https://weekendscout.app/e/providence/heritage-ballet-nutcracker-stadium-the
 END:VEVENT
 BEGIN:VEVENT
 UID:providence-heritage-ballet-nutcracker-stadium-theatre-sun-0@weekendscout.app
-DTSTAMP:20261126T221845Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261129T190000Z
 DTEND:20261129T210000Z
 SUMMARY:The Nutcracker Ballet (Heritage Ballet)

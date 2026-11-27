@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:green-bay-winter-jubilee-warm-up-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261127T160000Z
 DTEND:20261128T040000Z
 SUMMARY:Winter Jubilee Warm Up
@@ -24,7 +24,7 @@ URL:https://weekendscout.app/e/green-bay/winter-jubilee-warm-up-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:green-bay-winter-jubilee-warm-up-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261128T160000Z
 DTEND:20261129T040000Z
 SUMMARY:Winter Jubilee Warm Up
@@ -39,7 +39,7 @@ URL:https://weekendscout.app/e/green-bay/winter-jubilee-warm-up-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:green-bay-green-bay-gamblers-vs-usa-hockey-ntdp-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261128T010500Z
 DTEND:20261128T030500Z
 SUMMARY:Green Bay Gamblers vs. USA Hockey NTDP
@@ -52,7 +52,7 @@ URL:https://weekendscout.app/e/green-bay/green-bay-gamblers-vs-usa-hockey-ntdp-2
 END:VEVENT
 BEGIN:VEVENT
 UID:green-bay-green-bay-gamblers-vs-usa-hockey-ntdp-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261129T000500Z
 DTEND:20261129T020500Z
 SUMMARY:Green Bay Gamblers vs. USA Hockey NTDP
@@ -65,7 +65,7 @@ URL:https://weekendscout.app/e/green-bay/green-bay-gamblers-vs-usa-hockey-ntdp-2
 END:VEVENT
 BEGIN:VEVENT
 UID:green-bay-garden-of-lights-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261127T223000Z
 DTEND:20261128T030000Z
 SUMMARY:Garden of Lights
@@ -78,7 +78,7 @@ URL:https://weekendscout.app/e/green-bay/garden-of-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:green-bay-garden-of-lights-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261128T223000Z
 DTEND:20261129T030000Z
 SUMMARY:Garden of Lights
@@ -91,7 +91,7 @@ URL:https://weekendscout.app/e/green-bay/garden-of-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:green-bay-garden-of-lights-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261129T223000Z
 DTEND:20261130T030000Z
 SUMMARY:Garden of Lights
@@ -104,7 +104,7 @@ URL:https://weekendscout.app/e/green-bay/garden-of-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:green-bay-a-franks-christmas-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261128T013000Z
 DTEND:20261128T033000Z
 SUMMARY:A Frank's Christmas
@@ -116,7 +116,7 @@ URL:https://weekendscout.app/e/green-bay/a-franks-christmas-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:green-bay-christkindlmarket-on-broadway-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261127T210000Z
 DTEND:20261128T030000Z
 SUMMARY:Christkindlmarket on Broadway
@@ -130,7 +130,7 @@ URL:https://weekendscout.app/e/green-bay/christkindlmarket-on-broadway-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:green-bay-christkindlmarket-on-broadway-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261128T160000Z
 DTEND:20261128T220000Z
 SUMMARY:Christkindlmarket on Broadway
@@ -144,7 +144,7 @@ URL:https://weekendscout.app/e/green-bay/christkindlmarket-on-broadway-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:green-bay-holiday-gift-craft-show-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261128T140000Z
 DTEND:20261128T230000Z
 SUMMARY:Holiday Gift & Craft Show
@@ -157,7 +157,7 @@ URL:https://weekendscout.app/e/green-bay/holiday-gift-craft-show-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:green-bay-green-bay-vs-north-dakota-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261129T190000Z
 DTEND:20261129T210000Z
 SUMMARY:Green Bay vs. North Dakota

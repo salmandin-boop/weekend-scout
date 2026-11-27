@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:wilmington-nc-wilmington-riverwalk-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100112Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/wilmington-nc/wilmington-riverwalk-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:wilmington-nc-wilmington-riverwalk-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100112Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/wilmington-nc/wilmington-riverwalk-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:wilmington-nc-wilmington-riverwalk-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100112Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -48,7 +48,7 @@ URL:https://weekendscout.app/e/wilmington-nc/wilmington-riverwalk-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:wilmington-nc-joe-zimmerman-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261128T000000Z
 DTEND:20261128T020000Z
 SUMMARY:Joe Zimmerman
@@ -59,7 +59,7 @@ URL:https://weekendscout.app/e/wilmington-nc/joe-zimmerman-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:wilmington-nc-joe-zimmerman-2026-11-fri-1@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261128T023000Z
 DTEND:20261128T043000Z
 SUMMARY:Joe Zimmerman
@@ -70,7 +70,7 @@ URL:https://weekendscout.app/e/wilmington-nc/joe-zimmerman-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:wilmington-nc-joe-zimmerman-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261129T000000Z
 DTEND:20261129T020000Z
 SUMMARY:Joe Zimmerman
@@ -81,7 +81,7 @@ URL:https://weekendscout.app/e/wilmington-nc/joe-zimmerman-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:wilmington-nc-joe-zimmerman-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261129T023000Z
 DTEND:20261129T043000Z
 SUMMARY:Joe Zimmerman
@@ -92,7 +92,7 @@ URL:https://weekendscout.app/e/wilmington-nc/joe-zimmerman-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:wilmington-nc-brian-whitted-s-very-merry-christmas-show-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261129T000000Z
 DTEND:20261129T020000Z
 SUMMARY:Brian Whitted’s Very Merry Christmas Show
@@ -104,7 +104,7 @@ URL:https://weekendscout.app/e/wilmington-nc/brian-whitted-s-very-merry-christma
 END:VEVENT
 BEGIN:VEVENT
 UID:wilmington-nc-brian-whitted-s-very-merry-christmas-show-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261129T190000Z
 DTEND:20261129T210000Z
 SUMMARY:Brian Whitted’s Very Merry Christmas Show
@@ -116,7 +116,7 @@ URL:https://weekendscout.app/e/wilmington-nc/brian-whitted-s-very-merry-christma
 END:VEVENT
 BEGIN:VEVENT
 UID:wilmington-nc-brian-whitted-s-very-merry-christmas-show-2026-11-sun-1@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261130T000000Z
 DTEND:20261130T020000Z
 SUMMARY:Brian Whitted’s Very Merry Christmas Show
@@ -128,7 +128,7 @@ URL:https://weekendscout.app/e/wilmington-nc/brian-whitted-s-very-merry-christma
 END:VEVENT
 BEGIN:VEVENT
 UID:wilmington-nc-holiday-classic-basketball-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100112Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -142,7 +142,7 @@ URL:https://weekendscout.app/e/wilmington-nc/holiday-classic-basketball-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:wilmington-nc-holiday-classic-basketball-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100112Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -156,7 +156,7 @@ URL:https://weekendscout.app/e/wilmington-nc/holiday-classic-basketball-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:wilmington-nc-downtown-wilmington-tree-lighting-2026-fri-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261127T223000Z
 DTEND:20261128T003000Z
 SUMMARY:Downtown Wilmington Holiday Tree Lighting

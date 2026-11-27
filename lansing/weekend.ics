@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:lansing-wonderland-of-lights-potter-park-zoo-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261127T220000Z
 DTEND:20261128T010000Z
 SUMMARY:Wonderland of Lights
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/lansing/wonderland-of-lights-potter-park-zoo-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:lansing-wonderland-of-lights-potter-park-zoo-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261128T220000Z
 DTEND:20261129T010000Z
 SUMMARY:Wonderland of Lights
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/lansing/wonderland-of-lights-potter-park-zoo-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:lansing-wonderland-of-lights-potter-park-zoo-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261129T220000Z
 DTEND:20261130T010000Z
 SUMMARY:Wonderland of Lights
@@ -48,7 +48,7 @@ URL:https://weekendscout.app/e/lansing/wonderland-of-lights-potter-park-zoo-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:lansing-lansing-christmas-adventure-williamston-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261127T190000Z
 DTEND:20261127T210000Z
 SUMMARY:A Lansing Christmas Adventure
@@ -62,7 +62,7 @@ URL:https://weekendscout.app/e/lansing/lansing-christmas-adventure-williamston-2
 END:VEVENT
 BEGIN:VEVENT
 UID:lansing-lansing-christmas-adventure-williamston-2026-11-fri-1@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261128T003000Z
 DTEND:20261128T023000Z
 SUMMARY:A Lansing Christmas Adventure
@@ -76,7 +76,7 @@ URL:https://weekendscout.app/e/lansing/lansing-christmas-adventure-williamston-2
 END:VEVENT
 BEGIN:VEVENT
 UID:lansing-lansing-christmas-adventure-williamston-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100112Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -91,7 +91,7 @@ URL:https://weekendscout.app/e/lansing/lansing-christmas-adventure-williamston-2
 END:VEVENT
 BEGIN:VEVENT
 UID:lansing-broad-art-museum-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261128T150000Z
 DTEND:20261128T230000Z
 SUMMARY:Broad Art Museum
@@ -104,7 +104,7 @@ URL:https://weekendscout.app/e/lansing/broad-art-museum-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:lansing-broad-art-museum-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261129T150000Z
 DTEND:20261129T230000Z
 SUMMARY:Broad Art Museum
@@ -117,7 +117,7 @@ URL:https://weekendscout.app/e/lansing/broad-art-museum-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:lansing-potter-park-zoo-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261127T150000Z
 DTEND:20261127T210000Z
 SUMMARY:Potter Park Zoo
@@ -129,7 +129,7 @@ URL:https://weekendscout.app/e/lansing/potter-park-zoo-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:lansing-potter-park-zoo-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261128T150000Z
 DTEND:20261128T210000Z
 SUMMARY:Potter Park Zoo
@@ -141,7 +141,7 @@ URL:https://weekendscout.app/e/lansing/potter-park-zoo-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:lansing-potter-park-zoo-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100112Z
 DTSTART:20261129T150000Z
 DTEND:20261129T210000Z
 SUMMARY:Potter Park Zoo
@@ -153,7 +153,7 @@ URL:https://weekendscout.app/e/lansing/potter-park-zoo-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:lansing-lansing-river-trail-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100112Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -165,7 +165,7 @@ URL:https://weekendscout.app/e/lansing/lansing-river-trail-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:lansing-lansing-river-trail-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100112Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -177,7 +177,7 @@ URL:https://weekendscout.app/e/lansing/lansing-river-trail-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:lansing-lansing-river-trail-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261126T221846Z
+DTSTAMP:20261127T100112Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
