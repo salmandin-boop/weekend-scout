@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:lancaster-mayors-tree-lighting-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261127T220000Z
 DTEND:20261128T010000Z
 SUMMARY:Mayor's Tree Lighting
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/lancaster/mayors-tree-lighting-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:lancaster-lancaster-central-market-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261127T110000Z
 DTEND:20261127T200000Z
 SUMMARY:Lancaster Central Market
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/lancaster/lancaster-central-market-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:lancaster-lancaster-central-market-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261128T110000Z
 DTEND:20261128T200000Z
 SUMMARY:Lancaster Central Market
@@ -48,7 +48,7 @@ URL:https://weekendscout.app/e/lancaster/lancaster-central-market-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:lancaster-annie-fulton-theatre-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261128T003000Z
 DTEND:20261128T023000Z
 SUMMARY:Annie
@@ -61,7 +61,7 @@ URL:https://weekendscout.app/e/lancaster/annie-fulton-theatre-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:lancaster-annie-fulton-theatre-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261128T190000Z
 DTEND:20261128T210000Z
 SUMMARY:Annie
@@ -74,7 +74,7 @@ URL:https://weekendscout.app/e/lancaster/annie-fulton-theatre-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:lancaster-annie-fulton-theatre-2026-11-27-sat-1@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261129T003000Z
 DTEND:20261129T023000Z
 SUMMARY:Annie
@@ -87,7 +87,7 @@ URL:https://weekendscout.app/e/lancaster/annie-fulton-theatre-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:lancaster-annie-fulton-theatre-2026-11-27-sun-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261129T190000Z
 DTEND:20261129T210000Z
 SUMMARY:Annie
@@ -100,7 +100,7 @@ URL:https://weekendscout.app/e/lancaster/annie-fulton-theatre-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:lancaster-annie-fulton-theatre-2026-11-27-sun-1@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261130T003000Z
 DTEND:20261130T023000Z
 SUMMARY:Annie
@@ -113,7 +113,7 @@ URL:https://weekendscout.app/e/lancaster/annie-fulton-theatre-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:lancaster-amt-christmas-winter-wonderland-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261127T200000Z
 DTEND:20261127T220000Z
 SUMMARY:The 2026 Christmas Show: Winter Wonderland
@@ -127,7 +127,7 @@ URL:https://weekendscout.app/e/lancaster/amt-christmas-winter-wonderland-2026-11
 END:VEVENT
 BEGIN:VEVENT
 UID:lancaster-amt-christmas-winter-wonderland-2026-11-27-fri-1@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261128T003000Z
 DTEND:20261128T023000Z
 SUMMARY:The 2026 Christmas Show: Winter Wonderland
@@ -141,7 +141,7 @@ URL:https://weekendscout.app/e/lancaster/amt-christmas-winter-wonderland-2026-11
 END:VEVENT
 BEGIN:VEVENT
 UID:lancaster-amt-christmas-winter-wonderland-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261128T153000Z
 DTEND:20261128T173000Z
 SUMMARY:The 2026 Christmas Show: Winter Wonderland
@@ -155,7 +155,7 @@ URL:https://weekendscout.app/e/lancaster/amt-christmas-winter-wonderland-2026-11
 END:VEVENT
 BEGIN:VEVENT
 UID:lancaster-amt-christmas-winter-wonderland-2026-11-27-sat-1@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261128T200000Z
 DTEND:20261128T220000Z
 SUMMARY:The 2026 Christmas Show: Winter Wonderland
@@ -169,7 +169,7 @@ URL:https://weekendscout.app/e/lancaster/amt-christmas-winter-wonderland-2026-11
 END:VEVENT
 BEGIN:VEVENT
 UID:lancaster-amt-christmas-winter-wonderland-2026-11-27-sat-2@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261129T003000Z
 DTEND:20261129T023000Z
 SUMMARY:The 2026 Christmas Show: Winter Wonderland
@@ -183,7 +183,7 @@ URL:https://weekendscout.app/e/lancaster/amt-christmas-winter-wonderland-2026-11
 END:VEVENT
 BEGIN:VEVENT
 UID:lancaster-amt-christmas-winter-wonderland-2026-11-27-sun-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261129T200000Z
 DTEND:20261129T220000Z
 SUMMARY:The 2026 Christmas Show: Winter Wonderland
@@ -197,7 +197,7 @@ URL:https://weekendscout.app/e/lancaster/amt-christmas-winter-wonderland-2026-11
 END:VEVENT
 BEGIN:VEVENT
 UID:lancaster-dutch-winter-wonderland-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261127T200000Z
 DTEND:20261128T010000Z
 SUMMARY:Dutch Winter Wonderland
@@ -210,7 +210,7 @@ URL:https://weekendscout.app/e/lancaster/dutch-winter-wonderland-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:lancaster-dutch-winter-wonderland-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261128T200000Z
 DTEND:20261129T010000Z
 SUMMARY:Dutch Winter Wonderland
@@ -223,7 +223,7 @@ URL:https://weekendscout.app/e/lancaster/dutch-winter-wonderland-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:lancaster-dutch-winter-wonderland-2026-11-27-sun-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261129T200000Z
 DTEND:20261130T010000Z
 SUMMARY:Dutch Winter Wonderland
@@ -236,7 +236,7 @@ URL:https://weekendscout.app/e/lancaster/dutch-winter-wonderland-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:lancaster-twas-the-night-before-christmas-fulton-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT

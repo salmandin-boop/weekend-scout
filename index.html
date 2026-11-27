@@ -384,9 +384,9 @@ dialog.sheet[open]{animation:sheetUp .22s cubic-bezier(.2,.8,.2,1)}
     </div>
     <div id="map" hidden></div>
     <div class="countrow"><p class="count" id="count" aria-live="polite"></p><div class="viewtog"><button class="chip near nowbtn" id="now-btn" type="button" data-now aria-pressed="false" hidden><span class="dot" aria-hidden="true"></span>Now</button><button class="chip near" id="map-btn" type="button" data-map aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 4 3 6v14l6-2 6 2 6-2V4l-6 2-6-2ZM9 4v14M15 6v14"/></svg>Map</button><button class="chip near" id="share-city" type="button" data-sharecity aria-label="Send this weekend to a friend"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12M7 8l5-5 5 5M5 13v6a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-6"/></svg>Send</button><button class="chip near" id="near-btn" type="button" data-near aria-pressed="false" hidden data-keep-hidden><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7-6.2-7-11.5A7 7 0 0 1 19 9.5C19 14.8 12 21 12 21Z"/><circle cx="12" cy="9.5" r="2.5"/></svg>Nearest first</button></div></div>
-    <div id="news-home"></div>
     <div class="list" id="list" tabindex="-1"><div class="skel"></div><div class="skel"></div><div class="skel"></div><div class="skel"></div></div>
     <div class="surprise"><button class="btn" type="button" data-surprise>🎲 Can't decide? Pick one for me</button></div>
+    <div id="news-home"></div>
     <div class="promo">
       <h3>Run a venue or event?</h3>
       <p>Get listed here for free, or ask about one of only 3 Featured spots in your city each weekend.</p>
@@ -1129,6 +1129,17 @@ function utcStamp(dateISO, hhmm){
   let t = guess - off(guess); t = guess - off(t);
   return new Date(t).toISOString().replace(/[-:]/g,'').replace(/\.\d+/,'');
 }
+/* ---------- iPhone app bridge ----------
+   Inside the Weekend Scout iPhone app, the page can ask the app for native features:
+   Apple Calendar, Friday reminder notifications and haptic taps. On the web nothing changes. */
+const NATIVE = (() => { try { const h = window.webkit && window.webkit.messageHandlers && window.webkit.messageHandlers.ws; return h ? m => { try { h.postMessage(m); } catch {} } : null; } catch { return null; } })();
+const isoFromStamp = st => st.replace(/^(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})Z$/, '$1-$2-$3T$4:$5:$6Z');
+function calEvent(ev, s){
+  const day = DATA.weekend.days[s.day];
+  return { id: ev.id + '-' + s.day, title: ev.title, start: isoFromStamp(utcStamp(day, s.s)), end: isoFromStamp(utcStamp(day, s.e || plus2(s.s))),
+    location: ev.venue + ', ' + ev.addr, notes: (ev.blurb || '') + '\n' + shareURL(ev.id), url: shareURL(ev.id) };
+}
+function haptic(kind){ if (NATIVE) NATIVE({ type:'haptic', kind: kind || 'light' }); }
 function icsText(ev, s){
   const e = v => String(v).replace(/\\/g,'\\\\').replace(/;/g,'\\;').replace(/,/g,'\\,').replace(/\n/g,'\\n');
   const day = DATA.weekend.days[s.day], st = s.s.replace(':','') + '00';
@@ -1213,6 +1224,7 @@ async function shareWeekend(){
   try { await navigator.clipboard.writeText(`${text}\n${url}`); toast('Plan copied'); } catch { toast('Could not copy'); }
 }
 function downloadICS(ev, s){
+  if (NATIVE) { NATIVE({ type:'calendar', events:[calEvent(ev, s)] }); return; }
   const blob = new Blob([icsText(ev, s)], { type:'text/calendar;charset=utf-8' });
   const a = document.createElement('a');
   a.href = URL.createObjectURL(blob); a.download = ev.id + '.ics';
@@ -1287,7 +1299,7 @@ let toastT;
 function toast(msg){ const t = $('toast'); t.textContent = msg; t.classList.add('on'); clearTimeout(toastT); toastT = setTimeout(() => t.classList.remove('on'), 2200); }
 function toggleSave(id){
   if (saved.has(id)) { saved.delete(id); toast('Removed from saved'); } else { saved.add(id); toast('Saved'); learn(DATA.events.find(e => e.id === id), 3); }
-  store.set('ws-saved', [...saved]);
+  store.set('ws-saved', [...saved]); haptic(saved.has(id) ? 'success' : 'light');
   renderHome(); renderSaved();
   if (planOpen >= 0 && openId === id) openPlan(planOpen); else if (openId === id) openSheet(id, false);
 }
@@ -1342,7 +1354,7 @@ document.addEventListener('click', e => {
   if ('pickcity' in t.dataset) return openCityPicker();
   if ('near' in t.dataset) return toggleNear(t);
   if ('map' in t.dataset) return toggleMap();
-  if ('calall' in t.dataset) { const ics = allICS(); if (!ics) return toast('None of your saved events has a set time yet'); saveFile('my-weekend.ics', ics, 'text/calendar;charset=utf-8'); return; }
+  if ('calall' in t.dataset) { if (NATIVE) { const list = DATA.events.filter(e => saved.has(e.id)).flatMap(ev => sessions(ev).filter(x => x.s).slice(0, 1).map(x => calEvent(ev, x))); if (!list.length) return toast('None of your saved events has a set time yet'); NATIVE({ type:'calendar', events:list }); return; } const ics = allICS(); if (!ics) return toast('None of your saved events has a set time yet'); saveFile('my-weekend.ics', ics, 'text/calendar;charset=utf-8'); return; }
   if ('shareplan' in t.dataset) return shareWeekend();
   if ('votemake' in t.dataset) return openVoteMaker();
   if ('voteit' in t.dataset) return castVote(t.dataset.voteit);
@@ -1595,6 +1607,7 @@ async function savePrefsForWorker(){
 }
 async function remindMe(btn){
   const note = btn.closest('section, .section')?.querySelector('.remind-note, #remind-note') || $('remind-note');
+  if (NATIVE) { NATIVE({ type:'reminder', city: CITY.id, name: CITY.name }); store.set('ws-remind', true); note.hidden = false; note.textContent = `Done. You'll get a notification every Friday at 9 AM with ${CITY.name}'s picks.`; btn.textContent = 'Reminders are on'; return; }
   let reg = null; try { reg = await navigator.serviceWorker?.ready; } catch {}
   if (reg && 'periodicSync' in reg && 'Notification' in window){
     try {

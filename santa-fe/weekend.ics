@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:santa-fe-plaza-holiday-lighting-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261127T233000Z
 DTEND:20261128T013000Z
 SUMMARY:Holiday Lighting on the Plaza
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/santa-fe/plaza-holiday-lighting-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:santa-fe-company-santa-fe-playhouse-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261128T023000Z
 DTEND:20261128T050000Z
 SUMMARY:Company
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/santa-fe/company-santa-fe-playhouse-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:santa-fe-company-santa-fe-playhouse-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261128T210000Z
 DTEND:20261128T233000Z
 SUMMARY:Company
@@ -48,7 +48,7 @@ URL:https://weekendscout.app/e/santa-fe/company-santa-fe-playhouse-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:santa-fe-company-santa-fe-playhouse-2026-11-27-sat-1@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261129T023000Z
 DTEND:20261129T050000Z
 SUMMARY:Company
@@ -61,7 +61,7 @@ URL:https://weekendscout.app/e/santa-fe/company-santa-fe-playhouse-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:santa-fe-company-santa-fe-playhouse-2026-11-27-sun-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261129T210000Z
 DTEND:20261129T233000Z
 SUMMARY:Company
@@ -74,7 +74,7 @@ URL:https://weekendscout.app/e/santa-fe/company-santa-fe-playhouse-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:santa-fe-swaia-winter-indian-market-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261128T170000Z
 DTEND:20261129T000000Z
 SUMMARY:SWAIA Winter Indian Market
@@ -88,7 +88,7 @@ URL:https://weekendscout.app/e/santa-fe/swaia-winter-indian-market-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:santa-fe-swaia-winter-indian-market-2026-11-28-sun-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261129T160000Z
 DTEND:20261129T230000Z
 SUMMARY:SWAIA Winter Indian Market
@@ -102,7 +102,7 @@ URL:https://weekendscout.app/e/santa-fe/swaia-winter-indian-market-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:santa-fe-wheelwright-holiday-art-market-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261128T160000Z
 DTEND:20261128T230000Z
 SUMMARY:7th Annual Holiday Art Market
@@ -116,7 +116,7 @@ URL:https://weekendscout.app/e/santa-fe/wheelwright-holiday-art-market-2026-11-2
 END:VEVENT
 BEGIN:VEVENT
 UID:santa-fe-canyon-road-galleries-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -129,7 +129,7 @@ URL:https://weekendscout.app/e/santa-fe/canyon-road-galleries-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:santa-fe-canyon-road-galleries-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -142,7 +142,7 @@ URL:https://weekendscout.app/e/santa-fe/canyon-road-galleries-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:santa-fe-canyon-road-galleries-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT

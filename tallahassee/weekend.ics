@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:tallahassee-florida-state-vs-florida-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261127T203000Z
 DTEND:20261127T223000Z
 SUMMARY:Florida State vs. Florida
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/tallahassee/florida-state-vs-florida-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:tallahassee-cascades-park-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/tallahassee/cascades-park-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:tallahassee-cascades-park-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -48,7 +48,7 @@ URL:https://weekendscout.app/e/tallahassee/cascades-park-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:tallahassee-cascades-park-2026-11-27-sun-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -61,7 +61,7 @@ URL:https://weekendscout.app/e/tallahassee/cascades-park-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:tallahassee-holiday-lights-at-dorothy-b-oven-park-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261127T223000Z
 DTEND:20261128T040000Z
 SUMMARY:Holiday lights at Dorothy B. Oven Park
@@ -74,7 +74,7 @@ URL:https://weekendscout.app/e/tallahassee/holiday-lights-at-dorothy-b-oven-park
 END:VEVENT
 BEGIN:VEVENT
 UID:tallahassee-holiday-lights-at-dorothy-b-oven-park-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261128T223000Z
 DTEND:20261129T040000Z
 SUMMARY:Holiday lights at Dorothy B. Oven Park
@@ -87,7 +87,7 @@ URL:https://weekendscout.app/e/tallahassee/holiday-lights-at-dorothy-b-oven-park
 END:VEVENT
 BEGIN:VEVENT
 UID:tallahassee-holiday-lights-at-dorothy-b-oven-park-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261129T223000Z
 DTEND:20261130T040000Z
 SUMMARY:Holiday lights at Dorothy B. Oven Park
@@ -100,7 +100,7 @@ URL:https://weekendscout.app/e/tallahassee/holiday-lights-at-dorothy-b-oven-park
 END:VEVENT
 BEGIN:VEVENT
 UID:tallahassee-lemoyne-arts-holiday-show-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261127T150000Z
 DTEND:20261127T220000Z
 SUMMARY:LeMoyne Arts Holiday Show
@@ -112,7 +112,7 @@ URL:https://weekendscout.app/e/tallahassee/lemoyne-arts-holiday-show-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:tallahassee-lemoyne-arts-holiday-show-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261128T150000Z
 DTEND:20261128T220000Z
 SUMMARY:LeMoyne Arts Holiday Show
@@ -124,7 +124,7 @@ URL:https://weekendscout.app/e/tallahassee/lemoyne-arts-holiday-show-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:tallahassee-tallahassee-museum-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261127T140000Z
 DTEND:20261127T220000Z
 SUMMARY:Tallahassee Museum
@@ -136,7 +136,7 @@ URL:https://weekendscout.app/e/tallahassee/tallahassee-museum-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:tallahassee-tallahassee-museum-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261128T140000Z
 DTEND:20261128T220000Z
 SUMMARY:Tallahassee Museum
@@ -148,7 +148,7 @@ URL:https://weekendscout.app/e/tallahassee/tallahassee-museum-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:tallahassee-tallahassee-museum-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261129T160000Z
 DTEND:20261129T220000Z
 SUMMARY:Tallahassee Museum

@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:baltimore-miracle-on-34th-street-lighting-sat-0@weekendscout.app
-DTSTAMP:20261127T122320Z
+DTSTAMP:20261127T164227Z
 DTSTART:20261128T230000Z
 DTEND:20261129T010000Z
 SUMMARY:Miracle on 34th Street Lighting
@@ -23,7 +23,7 @@ URL:https://weekendscout.app/e/baltimore/miracle-on-34th-street-lighting/
 END:VEVENT
 BEGIN:VEVENT
 UID:baltimore-miracle-on-34th-street-lighting-sun-0@weekendscout.app
-DTSTAMP:20261127T122320Z
+DTSTAMP:20261127T164227Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -38,7 +38,7 @@ URL:https://weekendscout.app/e/baltimore/miracle-on-34th-street-lighting/
 END:VEVENT
 BEGIN:VEVENT
 UID:baltimore-nutcracker-magical-christmas-ballet-fri-0@weekendscout.app
-DTSTAMP:20261127T122320Z
+DTSTAMP:20261127T164227Z
 DTSTART:20261128T000000Z
 DTEND:20261128T020000Z
 SUMMARY:Nutcracker! Magical Christmas Ballet
@@ -52,7 +52,7 @@ URL:https://weekendscout.app/e/baltimore/nutcracker-magical-christmas-ballet/
 END:VEVENT
 BEGIN:VEVENT
 UID:baltimore-nutcracker-magical-christmas-ballet-sat-0@weekendscout.app
-DTSTAMP:20261127T122320Z
+DTSTAMP:20261127T164227Z
 DTSTART:20261128T200000Z
 DTEND:20261128T220000Z
 SUMMARY:Nutcracker! Magical Christmas Ballet
@@ -66,7 +66,7 @@ URL:https://weekendscout.app/e/baltimore/nutcracker-magical-christmas-ballet/
 END:VEVENT
 BEGIN:VEVENT
 UID:baltimore-nutcracker-magical-christmas-ballet-sat-1@weekendscout.app
-DTSTAMP:20261127T122320Z
+DTSTAMP:20261127T164227Z
 DTSTART:20261129T000000Z
 DTEND:20261129T020000Z
 SUMMARY:Nutcracker! Magical Christmas Ballet
@@ -80,7 +80,7 @@ URL:https://weekendscout.app/e/baltimore/nutcracker-magical-christmas-ballet/
 END:VEVENT
 BEGIN:VEVENT
 UID:baltimore-chesapeake-shakespeare-christmas-carol-sat-0@weekendscout.app
-DTSTAMP:20261127T122320Z
+DTSTAMP:20261127T164227Z
 DTSTART:20261129T010000Z
 DTEND:20261129T030000Z
 SUMMARY:A Christmas Carol
@@ -94,7 +94,7 @@ URL:https://weekendscout.app/e/baltimore/chesapeake-shakespeare-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:baltimore-chesapeake-shakespeare-christmas-carol-sun-0@weekendscout.app
-DTSTAMP:20261127T122320Z
+DTSTAMP:20261127T164227Z
 DTSTART:20261129T190000Z
 DTEND:20261129T210000Z
 SUMMARY:A Christmas Carol
@@ -108,7 +108,7 @@ URL:https://weekendscout.app/e/baltimore/chesapeake-shakespeare-christmas-carol/
 END:VEVENT
 BEGIN:VEVENT
 UID:baltimore-polar-express-bo-railroad-sat-0@weekendscout.app
-DTSTAMP:20261127T122320Z
+DTSTAMP:20261127T164227Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -122,7 +122,7 @@ URL:https://weekendscout.app/e/baltimore/polar-express-bo-railroad/
 END:VEVENT
 BEGIN:VEVENT
 UID:baltimore-polar-express-bo-railroad-sun-0@weekendscout.app
-DTSTAMP:20261127T122320Z
+DTSTAMP:20261127T164227Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -136,7 +136,7 @@ URL:https://weekendscout.app/e/baltimore/polar-express-bo-railroad/
 END:VEVENT
 BEGIN:VEVENT
 UID:baltimore-kindred-family-soul-keystone-korner-fri-0@weekendscout.app
-DTSTAMP:20261127T122320Z
+DTSTAMP:20261127T164227Z
 DTSTART:20261127T230000Z
 DTEND:20261128T010000Z
 SUMMARY:Kindred The Family Soul
@@ -150,7 +150,7 @@ URL:https://weekendscout.app/e/baltimore/kindred-family-soul-keystone-korner/
 END:VEVENT
 BEGIN:VEVENT
 UID:baltimore-kindred-family-soul-keystone-korner-sat-0@weekendscout.app
-DTSTAMP:20261127T122320Z
+DTSTAMP:20261127T164227Z
 DTSTART:20261128T230000Z
 DTEND:20261129T010000Z
 SUMMARY:Kindred The Family Soul
@@ -164,7 +164,7 @@ URL:https://weekendscout.app/e/baltimore/kindred-family-soul-keystone-korner/
 END:VEVENT
 BEGIN:VEVENT
 UID:baltimore-los-tigres-del-norte-cfg-bank-arena-fri-0@weekendscout.app
-DTSTAMP:20261127T122320Z
+DTSTAMP:20261127T164227Z
 DTSTART:20261128T010000Z
 DTEND:20261128T030000Z
 SUMMARY:Los Tigres del Norte: Los Tigres del Mundo
@@ -176,7 +176,7 @@ URL:https://weekendscout.app/e/baltimore/los-tigres-del-norte-cfg-bank-arena/
 END:VEVENT
 BEGIN:VEVENT
 UID:baltimore-christmas-village-in-baltimore-fri-0@weekendscout.app
-DTSTAMP:20261127T122320Z
+DTSTAMP:20261127T164227Z
 DTSTART:20261127T170000Z
 DTEND:20261128T020000Z
 SUMMARY:Christmas Village in Baltimore
@@ -191,7 +191,7 @@ URL:https://weekendscout.app/e/baltimore/christmas-village-in-baltimore/
 END:VEVENT
 BEGIN:VEVENT
 UID:baltimore-christmas-village-in-baltimore-sat-0@weekendscout.app
-DTSTAMP:20261127T122320Z
+DTSTAMP:20261127T164227Z
 DTSTART:20261128T170000Z
 DTEND:20261129T020000Z
 SUMMARY:Christmas Village in Baltimore
@@ -206,7 +206,7 @@ URL:https://weekendscout.app/e/baltimore/christmas-village-in-baltimore/
 END:VEVENT
 BEGIN:VEVENT
 UID:baltimore-christmas-village-in-baltimore-sun-0@weekendscout.app
-DTSTAMP:20261127T122320Z
+DTSTAMP:20261127T164227Z
 DTSTART:20261129T170000Z
 DTEND:20261130T010000Z
 SUMMARY:Christmas Village in Baltimore
@@ -221,7 +221,7 @@ URL:https://weekendscout.app/e/baltimore/christmas-village-in-baltimore/
 END:VEVENT
 BEGIN:VEVENT
 UID:baltimore-charmz-the-other-reindeer-fri-0@weekendscout.app
-DTSTAMP:20261127T122320Z
+DTSTAMP:20261127T164227Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -235,7 +235,7 @@ URL:https://weekendscout.app/e/baltimore/charmz-the-other-reindeer/
 END:VEVENT
 BEGIN:VEVENT
 UID:baltimore-charmz-the-other-reindeer-sat-0@weekendscout.app
-DTSTAMP:20261127T122320Z
+DTSTAMP:20261127T164227Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -249,7 +249,7 @@ URL:https://weekendscout.app/e/baltimore/charmz-the-other-reindeer/
 END:VEVENT
 BEGIN:VEVENT
 UID:baltimore-charmz-the-other-reindeer-sun-0@weekendscout.app
-DTSTAMP:20261127T122320Z
+DTSTAMP:20261127T164227Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -263,7 +263,7 @@ URL:https://weekendscout.app/e/baltimore/charmz-the-other-reindeer/
 END:VEVENT
 BEGIN:VEVENT
 UID:baltimore-chris-distefano-magoobys-fri-0@weekendscout.app
-DTSTAMP:20261127T122320Z
+DTSTAMP:20261127T164227Z
 DTSTART:20261128T023000Z
 DTEND:20261128T043000Z
 SUMMARY:Chris Distefano
@@ -275,7 +275,7 @@ URL:https://weekendscout.app/e/baltimore/chris-distefano-magoobys/
 END:VEVENT
 BEGIN:VEVENT
 UID:baltimore-chris-distefano-magoobys-sat-0@weekendscout.app
-DTSTAMP:20261127T122320Z
+DTSTAMP:20261127T164227Z
 DTSTART:20261128T233000Z
 DTEND:20261129T013000Z
 SUMMARY:Chris Distefano

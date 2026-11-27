@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:virginia-beach-virginia-beach-boardwalk-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -23,7 +23,7 @@ URL:https://weekendscout.app/e/virginia-beach/virginia-beach-boardwalk-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:virginia-beach-virginia-beach-boardwalk-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -37,7 +37,7 @@ URL:https://weekendscout.app/e/virginia-beach/virginia-beach-boardwalk-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:virginia-beach-virginia-beach-boardwalk-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -51,7 +51,7 @@ URL:https://weekendscout.app/e/virginia-beach/virginia-beach-boardwalk-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:virginia-beach-leonard-ouzts-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261128T000000Z
 DTEND:20261128T020000Z
 SUMMARY:Leonard Ouzts
@@ -63,7 +63,7 @@ URL:https://weekendscout.app/e/virginia-beach/leonard-ouzts-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:virginia-beach-leonard-ouzts-2026-11-fri-1@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261128T024500Z
 DTEND:20261128T044500Z
 SUMMARY:Leonard Ouzts
@@ -75,7 +75,7 @@ URL:https://weekendscout.app/e/virginia-beach/leonard-ouzts-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:virginia-beach-justin-silva-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261128T233000Z
 DTEND:20261129T013000Z
 SUMMARY:Justin Silva
@@ -87,7 +87,7 @@ URL:https://weekendscout.app/e/virginia-beach/justin-silva-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:virginia-beach-justin-silva-2026-11-sat-1@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261129T023000Z
 DTEND:20261129T043000Z
 SUMMARY:Justin Silva
@@ -99,7 +99,7 @@ URL:https://weekendscout.app/e/virginia-beach/justin-silva-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:virginia-beach-stray-cats-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261130T010000Z
 DTEND:20261130T030000Z
 SUMMARY:Stray Cats
@@ -110,7 +110,7 @@ URL:https://weekendscout.app/e/virginia-beach/stray-cats-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:virginia-beach-holiday-trail-of-lights-aquarium-2026-fri-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -124,7 +124,7 @@ URL:https://weekendscout.app/e/virginia-beach/holiday-trail-of-lights-aquarium-2
 END:VEVENT
 BEGIN:VEVENT
 UID:virginia-beach-holiday-trail-of-lights-aquarium-2026-sat-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -138,7 +138,7 @@ URL:https://weekendscout.app/e/virginia-beach/holiday-trail-of-lights-aquarium-2
 END:VEVENT
 BEGIN:VEVENT
 UID:virginia-beach-holiday-trail-of-lights-aquarium-2026-sun-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -152,7 +152,7 @@ URL:https://weekendscout.app/e/virginia-beach/holiday-trail-of-lights-aquarium-2
 END:VEVENT
 BEGIN:VEVENT
 UID:virginia-beach-holiday-lights-at-the-beach-2026-fri-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261127T223000Z
 DTEND:20261128T003000Z
 SUMMARY:BayPort Credit Union Holiday Lights at the Beach
@@ -166,7 +166,7 @@ URL:https://weekendscout.app/e/virginia-beach/holiday-lights-at-the-beach-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:virginia-beach-holiday-lights-at-the-beach-2026-sat-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261128T223000Z
 DTEND:20261129T003000Z
 SUMMARY:BayPort Credit Union Holiday Lights at the Beach
@@ -180,7 +180,7 @@ URL:https://weekendscout.app/e/virginia-beach/holiday-lights-at-the-beach-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:virginia-beach-holiday-lights-at-the-beach-2026-sun-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261129T223000Z
 DTEND:20261130T003000Z
 SUMMARY:BayPort Credit Union Holiday Lights at the Beach
@@ -194,7 +194,7 @@ URL:https://weekendscout.app/e/virginia-beach/holiday-lights-at-the-beach-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:virginia-beach-vibe-small-business-saturday-2026-sat-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261128T150000Z
 DTEND:20261128T210000Z
 SUMMARY:ViBe District Small Business Saturday
@@ -207,7 +207,7 @@ URL:https://weekendscout.app/e/virginia-beach/vibe-small-business-saturday-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:virginia-beach-are-grand-illumination-2026-sat-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -220,7 +220,7 @@ URL:https://weekendscout.app/e/virginia-beach/are-grand-illumination-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:virginia-beach-santas-seaside-cinema-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -234,7 +234,7 @@ URL:https://weekendscout.app/e/virginia-beach/santas-seaside-cinema-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:virginia-beach-snow-globe-spectacular-2026-sat-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -248,7 +248,7 @@ URL:https://weekendscout.app/e/virginia-beach/snow-globe-spectacular-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:virginia-beach-snow-globe-spectacular-2026-sun-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT

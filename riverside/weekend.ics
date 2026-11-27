@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:riverside-mission-inn-festival-of-lights-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261128T010000Z
 DTEND:20261128T070000Z
 SUMMARY:Mission Inn Festival of Lights
@@ -23,7 +23,7 @@ URL:https://weekendscout.app/e/riverside/mission-inn-festival-of-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:riverside-mission-inn-festival-of-lights-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261129T010000Z
 DTEND:20261129T070000Z
 SUMMARY:Mission Inn Festival of Lights
@@ -37,7 +37,7 @@ URL:https://weekendscout.app/e/riverside/mission-inn-festival-of-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:riverside-mission-inn-festival-of-lights-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261130T010000Z
 DTEND:20261130T070000Z
 SUMMARY:Mission Inn Festival of Lights
@@ -51,7 +51,7 @@ URL:https://weekendscout.app/e/riverside/mission-inn-festival-of-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:riverside-festival-of-lights-ice-rink-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261128T010000Z
 DTEND:20261128T060000Z
 SUMMARY:Festival of Lights ice rink
@@ -64,7 +64,7 @@ URL:https://weekendscout.app/e/riverside/festival-of-lights-ice-rink-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:riverside-festival-of-lights-ice-rink-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261129T010000Z
 DTEND:20261129T060000Z
 SUMMARY:Festival of Lights ice rink
@@ -77,7 +77,7 @@ URL:https://weekendscout.app/e/riverside/festival-of-lights-ice-rink-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:riverside-festival-of-lights-ice-rink-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261130T010000Z
 DTEND:20261130T060000Z
 SUMMARY:Festival of Lights ice rink
@@ -90,7 +90,7 @@ URL:https://weekendscout.app/e/riverside/festival-of-lights-ice-rink-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:riverside-mt-rubidoux-hike-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261127T150000Z
 DTEND:20261128T003000Z
 SUMMARY:Mt. Rubidoux hike
@@ -102,7 +102,7 @@ URL:https://weekendscout.app/e/riverside/mt-rubidoux-hike-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:riverside-mt-rubidoux-hike-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261128T150000Z
 DTEND:20261129T003000Z
 SUMMARY:Mt. Rubidoux hike
@@ -114,7 +114,7 @@ URL:https://weekendscout.app/e/riverside/mt-rubidoux-hike-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:riverside-mt-rubidoux-hike-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261129T150000Z
 DTEND:20261130T003000Z
 SUMMARY:Mt. Rubidoux hike
@@ -126,7 +126,7 @@ URL:https://weekendscout.app/e/riverside/mt-rubidoux-hike-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:riverside-california-citrus-state-historic-park-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261127T160000Z
 DTEND:20261128T010000Z
 SUMMARY:California Citrus State Historic Park
@@ -140,7 +140,7 @@ URL:https://weekendscout.app/e/riverside/california-citrus-state-historic-park-2
 END:VEVENT
 BEGIN:VEVENT
 UID:riverside-california-citrus-state-historic-park-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261128T160000Z
 DTEND:20261129T010000Z
 SUMMARY:California Citrus State Historic Park
@@ -154,7 +154,7 @@ URL:https://weekendscout.app/e/riverside/california-citrus-state-historic-park-2
 END:VEVENT
 BEGIN:VEVENT
 UID:riverside-california-citrus-state-historic-park-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261129T160000Z
 DTEND:20261130T010000Z
 SUMMARY:California Citrus State Historic Park

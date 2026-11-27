@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:tampa-lightning-senators-black-friday-fri-0@weekendscout.app
-DTSTAMP:20261127T122320Z
+DTSTAMP:20261127T164227Z
 DTSTART:20261127T200000Z
 DTEND:20261127T220000Z
 SUMMARY:Lightning vs. Senators
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/tampa/lightning-senators-black-friday/
 END:VEVENT
 BEGIN:VEVENT
 UID:tampa-disney-worlds-collide-tampa-sat-0@weekendscout.app
-DTSTAMP:20261127T122320Z
+DTSTAMP:20261127T164227Z
 DTSTART:20261129T000000Z
 DTEND:20261129T020000Z
 SUMMARY:Disney's Worlds Collide Concert Tour
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/tampa/disney-worlds-collide-tampa/
 END:VEVENT
 BEGIN:VEVENT
 UID:tampa-for-king-country-drummer-boy-christmas-sun-0@weekendscout.app
-DTSTAMP:20261127T122320Z
+DTSTAMP:20261127T164227Z
 DTSTART:20261130T000000Z
 DTEND:20261130T020000Z
 SUMMARY:for KING + COUNTRY: A Drummer Boy Christmas
@@ -48,7 +48,7 @@ URL:https://weekendscout.app/e/tampa/for-king-country-drummer-boy-christmas/
 END:VEVENT
 BEGIN:VEVENT
 UID:tampa-cirque-twas-the-night-before-straz-fri-0@weekendscout.app
-DTSTAMP:20261127T122320Z
+DTSTAMP:20261127T164227Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -62,7 +62,7 @@ URL:https://weekendscout.app/e/tampa/cirque-twas-the-night-before-straz/
 END:VEVENT
 BEGIN:VEVENT
 UID:tampa-cirque-twas-the-night-before-straz-sat-0@weekendscout.app
-DTSTAMP:20261127T122320Z
+DTSTAMP:20261127T164227Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -76,7 +76,7 @@ URL:https://weekendscout.app/e/tampa/cirque-twas-the-night-before-straz/
 END:VEVENT
 BEGIN:VEVENT
 UID:tampa-cirque-twas-the-night-before-straz-sun-0@weekendscout.app
-DTSTAMP:20261127T122320Z
+DTSTAMP:20261127T164227Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -90,7 +90,7 @@ URL:https://weekendscout.app/e/tampa/cirque-twas-the-night-before-straz/
 END:VEVENT
 BEGIN:VEVENT
 UID:tampa-hallmarkish-parody-musical-straz-sat-0@weekendscout.app
-DTSTAMP:20261127T122320Z
+DTSTAMP:20261127T164227Z
 DTSTART:20261128T200000Z
 DTEND:20261128T220000Z
 SUMMARY:The Unauthorized Hallmark(ish) Parody Musical
@@ -103,7 +103,7 @@ URL:https://weekendscout.app/e/tampa/hallmarkish-parody-musical-straz/
 END:VEVENT
 BEGIN:VEVENT
 UID:tampa-winter-village-curtis-hixon-fri-0@weekendscout.app
-DTSTAMP:20261127T122320Z
+DTSTAMP:20261127T164227Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -117,7 +117,7 @@ URL:https://weekendscout.app/e/tampa/winter-village-curtis-hixon/
 END:VEVENT
 BEGIN:VEVENT
 UID:tampa-winter-village-curtis-hixon-sat-0@weekendscout.app
-DTSTAMP:20261127T122320Z
+DTSTAMP:20261127T164227Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -131,7 +131,7 @@ URL:https://weekendscout.app/e/tampa/winter-village-curtis-hixon/
 END:VEVENT
 BEGIN:VEVENT
 UID:tampa-winter-village-curtis-hixon-sun-0@weekendscout.app
-DTSTAMP:20261127T122320Z
+DTSTAMP:20261127T164227Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -145,7 +145,7 @@ URL:https://weekendscout.app/e/tampa/winter-village-curtis-hixon/
 END:VEVENT
 BEGIN:VEVENT
 UID:tampa-tampa-riverwalk-tree-lighting-sun-0@weekendscout.app
-DTSTAMP:20261127T122320Z
+DTSTAMP:20261127T164227Z
 DTSTART:20261129T220000Z
 DTEND:20261130T010000Z
 SUMMARY:Tampa Riverwalk Holiday Tree Lighting
@@ -159,7 +159,7 @@ URL:https://weekendscout.app/e/tampa/tampa-riverwalk-tree-lighting/
 END:VEVENT
 BEGIN:VEVENT
 UID:tampa-miracle-on-34th-street-tampa-theatre-sun-0@weekendscout.app
-DTSTAMP:20261127T122320Z
+DTSTAMP:20261127T164227Z
 DTSTART:20261129T200000Z
 DTEND:20261129T220000Z
 SUMMARY:Miracle on 34th Street (1947)
@@ -171,7 +171,7 @@ URL:https://weekendscout.app/e/tampa/miracle-on-34th-street-tampa-theatre/
 END:VEVENT
 BEGIN:VEVENT
 UID:tampa-tape-b-tapesgiving-baycare-sound-fri-0@weekendscout.app
-DTSTAMP:20261127T122320Z
+DTSTAMP:20261127T164227Z
 DTSTART:20261127T230000Z
 DTEND:20261128T010000Z
 SUMMARY:Tape B presents: Tapesgiving
@@ -184,7 +184,7 @@ URL:https://weekendscout.app/e/tampa/tape-b-tapesgiving-baycare-sound/
 END:VEVENT
 BEGIN:VEVENT
 UID:tampa-tape-b-tapesgiving-baycare-sound-sat-0@weekendscout.app
-DTSTAMP:20261127T122320Z
+DTSTAMP:20261127T164227Z
 DTSTART:20261128T230000Z
 DTEND:20261129T010000Z
 SUMMARY:Tape B presents: Tapesgiving

@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:st-george-red-hills-desert-garden-holiday-lights-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -24,7 +24,7 @@ URL:https://weekendscout.app/e/st-george/red-hills-desert-garden-holiday-lights-
 END:VEVENT
 BEGIN:VEVENT
 UID:st-george-red-hills-desert-garden-holiday-lights-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -39,7 +39,7 @@ URL:https://weekendscout.app/e/st-george/red-hills-desert-garden-holiday-lights-
 END:VEVENT
 BEGIN:VEVENT
 UID:st-george-red-hills-desert-garden-holiday-lights-2026-11-27-sun-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -54,7 +54,7 @@ URL:https://weekendscout.app/e/st-george/red-hills-desert-garden-holiday-lights-
 END:VEVENT
 BEGIN:VEVENT
 UID:st-george-pioneer-park-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -66,7 +66,7 @@ URL:https://weekendscout.app/e/st-george/pioneer-park-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:st-george-pioneer-park-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -78,7 +78,7 @@ URL:https://weekendscout.app/e/st-george/pioneer-park-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:st-george-pioneer-park-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -90,7 +90,7 @@ URL:https://weekendscout.app/e/st-george/pioneer-park-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:st-george-snow-canyon-state-park-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -103,7 +103,7 @@ URL:https://weekendscout.app/e/st-george/snow-canyon-state-park-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:st-george-snow-canyon-state-park-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -116,7 +116,7 @@ URL:https://weekendscout.app/e/st-george/snow-canyon-state-park-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:st-george-snow-canyon-state-park-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -129,7 +129,7 @@ URL:https://weekendscout.app/e/st-george/snow-canyon-state-park-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:st-george-christmas-in-the-canyon-at-tuacahn-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261128T010000Z
 DTEND:20261128T040000Z
 SUMMARY:Christmas in the Canyon at Tuacahn
@@ -142,7 +142,7 @@ URL:https://weekendscout.app/e/st-george/christmas-in-the-canyon-at-tuacahn-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:st-george-christmas-in-the-canyon-at-tuacahn-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261129T010000Z
 DTEND:20261129T040000Z
 SUMMARY:Christmas in the Canyon at Tuacahn
@@ -155,7 +155,7 @@ URL:https://weekendscout.app/e/st-george/christmas-in-the-canyon-at-tuacahn-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:st-george-downtown-farmers-market-st-george-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261128T170000Z
 DTEND:20261128T210000Z
 SUMMARY:Downtown Farmers Market

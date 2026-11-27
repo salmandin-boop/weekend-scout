@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:hilo-silent-movie-night-gold-rush-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261128T050000Z
 DTEND:20261128T070000Z
 SUMMARY:Silent Movie Night: The Gold Rush
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/hilo/silent-movie-night-gold-rush-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:hilo-vulcans-mbb-chaminade-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261128T010000Z
 DTEND:20261128T030000Z
 SUMMARY:UH Hilo Vulcans Men's Basketball vs. Chaminade
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/hilo/vulcans-mbb-chaminade-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:hilo-volcano-christmas-tree-lighting-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261128T030000Z
 DTEND:20261128T043000Z
 SUMMARY:Christmas Tree Lighting Celebration
@@ -49,7 +49,7 @@ URL:https://weekendscout.app/e/hilo/volcano-christmas-tree-lighting-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:hilo-free-holiday-matinee-elf-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261129T010000Z
 DTEND:20261129T030000Z
 SUMMARY:Free Holiday Matinee: Elf
@@ -62,7 +62,7 @@ URL:https://weekendscout.app/e/hilo/free-holiday-matinee-elf-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:hilo-hilo-christmas-parade-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261129T040000Z
 DTEND:20261129T060000Z
 SUMMARY:Hilo Christmas Parade
@@ -74,7 +74,7 @@ URL:https://weekendscout.app/e/hilo/hilo-christmas-parade-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:hilo-hilo-elks-world-of-magic-2026-11-29-sun-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261130T000000Z
 DTEND:20261130T020000Z
 SUMMARY:Hilo Elks World of Magic 2026
@@ -87,7 +87,7 @@ URL:https://weekendscout.app/e/hilo/hilo-elks-world-of-magic-2026-11-29/
 END:VEVENT
 BEGIN:VEVENT
 UID:hilo-christmas-in-the-country-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261127T190000Z
 DTEND:20261128T030000Z
 SUMMARY:Christmas in the Country: Annual Wreath Exhibition
@@ -100,7 +100,7 @@ URL:https://weekendscout.app/e/hilo/christmas-in-the-country-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:hilo-christmas-in-the-country-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261128T190000Z
 DTEND:20261129T030000Z
 SUMMARY:Christmas in the Country: Annual Wreath Exhibition
@@ -113,7 +113,7 @@ URL:https://weekendscout.app/e/hilo/christmas-in-the-country-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:hilo-christmas-in-the-country-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261129T190000Z
 DTEND:20261130T030000Z
 SUMMARY:Christmas in the Country: Annual Wreath Exhibition
@@ -126,7 +126,7 @@ URL:https://weekendscout.app/e/hilo/christmas-in-the-country-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:hilo-hilo-farmers-market-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261127T170000Z
 DTEND:20261128T010000Z
 SUMMARY:Hilo Farmers Market
@@ -138,7 +138,7 @@ URL:https://weekendscout.app/e/hilo/hilo-farmers-market-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:hilo-hilo-farmers-market-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261128T170000Z
 DTEND:20261129T010000Z
 SUMMARY:Hilo Farmers Market
@@ -150,7 +150,7 @@ URL:https://weekendscout.app/e/hilo/hilo-farmers-market-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:hilo-hilo-farmers-market-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261129T170000Z
 DTEND:20261130T010000Z
 SUMMARY:Hilo Farmers Market
@@ -162,7 +162,7 @@ URL:https://weekendscout.app/e/hilo/hilo-farmers-market-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:hilo-imiloa-astronomy-center-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261127T190000Z
 DTEND:20261128T023000Z
 SUMMARY:ʻImiloa Astronomy Center
@@ -175,7 +175,7 @@ URL:https://weekendscout.app/e/hilo/imiloa-astronomy-center-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:hilo-imiloa-astronomy-center-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261128T190000Z
 DTEND:20261129T023000Z
 SUMMARY:ʻImiloa Astronomy Center
@@ -188,7 +188,7 @@ URL:https://weekendscout.app/e/hilo/imiloa-astronomy-center-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:hilo-imiloa-astronomy-center-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261127T122321Z
+DTSTAMP:20261127T164228Z
 DTSTART:20261129T190000Z
 DTEND:20261130T023000Z
 SUMMARY:ʻImiloa Astronomy Center
