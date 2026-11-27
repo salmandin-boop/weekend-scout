@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:lafayette-vibe-25-day-one-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261128T010000Z
 DTEND:20261128T030000Z
 SUMMARY:Vibe 25: Blue Moon Saloon 25th Anniversary\, Day One
@@ -23,7 +23,7 @@ URL:https://weekendscout.app/e/lafayette/vibe-25-day-one-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:lafayette-vibe-25-day-two-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261128T210000Z
 DTEND:20261128T230000Z
 SUMMARY:Vibe 25: Blue Moon Saloon 25th Anniversary\, Day Two
@@ -36,7 +36,7 @@ URL:https://weekendscout.app/e/lafayette/vibe-25-day-two-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:lafayette-savoy-family-cajun-band-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -50,7 +50,7 @@ URL:https://weekendscout.app/e/lafayette/savoy-family-cajun-band-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:lafayette-ragin-cajuns-mens-basketball-mcneese-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -63,7 +63,7 @@ URL:https://weekendscout.app/e/lafayette/ragin-cajuns-mens-basketball-mcneese-20
 END:VEVENT
 BEGIN:VEVENT
 UID:lafayette-cajun-french-music-jam-vermilionville-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -77,7 +77,7 @@ URL:https://weekendscout.app/e/lafayette/cajun-french-music-jam-vermilionville-2
 END:VEVENT
 BEGIN:VEVENT
 UID:lafayette-artists-alliance-aca-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261128T150000Z
 DTEND:20261128T230000Z
 SUMMARY:Artists' Alliance
@@ -91,7 +91,7 @@ URL:https://weekendscout.app/e/lafayette/artists-alliance-aca-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:lafayette-lafayette-farmers-artisans-market-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261128T140000Z
 DTEND:20261128T180000Z
 SUMMARY:Lafayette Farmers & Artisans Market
@@ -103,7 +103,7 @@ URL:https://weekendscout.app/e/lafayette/lafayette-farmers-artisans-market-2026-
 END:VEVENT
 BEGIN:VEVENT
 UID:lafayette-lake-martin-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -116,7 +116,7 @@ URL:https://weekendscout.app/e/lafayette/lake-martin-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:lafayette-lake-martin-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -129,7 +129,7 @@ URL:https://weekendscout.app/e/lafayette/lake-martin-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:lafayette-lake-martin-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT

@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:west-palm-beach-west-palm-beach-greenmarket-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261128T140000Z
 DTEND:20261128T180000Z
 SUMMARY:West Palm Beach GreenMarket
@@ -21,7 +21,7 @@ URL:https://weekendscout.app/e/west-palm-beach/west-palm-beach-greenmarket-2026-
 END:VEVENT
 BEGIN:VEVENT
 UID:west-palm-beach-clematis-street-the-waterfront-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -34,7 +34,7 @@ URL:https://weekendscout.app/e/west-palm-beach/clematis-street-the-waterfront-20
 END:VEVENT
 BEGIN:VEVENT
 UID:west-palm-beach-clematis-street-the-waterfront-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -47,7 +47,7 @@ URL:https://weekendscout.app/e/west-palm-beach/clematis-street-the-waterfront-20
 END:VEVENT
 BEGIN:VEVENT
 UID:west-palm-beach-clematis-street-the-waterfront-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -60,7 +60,7 @@ URL:https://weekendscout.app/e/west-palm-beach/clematis-street-the-waterfront-20
 END:VEVENT
 BEGIN:VEVENT
 UID:west-palm-beach-norton-museum-of-art-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -74,7 +74,7 @@ URL:https://weekendscout.app/e/west-palm-beach/norton-museum-of-art-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:west-palm-beach-norton-museum-of-art-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -88,7 +88,7 @@ URL:https://weekendscout.app/e/west-palm-beach/norton-museum-of-art-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:west-palm-beach-norton-museum-of-art-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -102,7 +102,7 @@ URL:https://weekendscout.app/e/west-palm-beach/norton-museum-of-art-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:west-palm-beach-nights-in-northwood-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261127T230000Z
 DTEND:20261128T020000Z
 SUMMARY:Nights in Northwood Village
@@ -114,7 +114,7 @@ URL:https://weekendscout.app/e/west-palm-beach/nights-in-northwood-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:west-palm-beach-winter-wonderland-the-ben-2026-fri-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261127T150000Z
 DTEND:20261128T020000Z
 SUMMARY:Winter Wonderland at The Ben
@@ -126,7 +126,7 @@ URL:https://weekendscout.app/e/west-palm-beach/winter-wonderland-the-ben-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:west-palm-beach-winter-wonderland-the-ben-2026-sat-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261128T150000Z
 DTEND:20261129T020000Z
 SUMMARY:Winter Wonderland at The Ben
@@ -138,7 +138,7 @@ URL:https://weekendscout.app/e/west-palm-beach/winter-wonderland-the-ben-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:west-palm-beach-winter-wonderland-the-ben-2026-sun-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261129T150000Z
 DTEND:20261130T020000Z
 SUMMARY:Winter Wonderland at The Ben
@@ -150,7 +150,7 @@ URL:https://weekendscout.app/e/west-palm-beach/winter-wonderland-the-ben-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:west-palm-beach-harbourside-tree-lighting-2026-sat-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261128T220000Z
 DTEND:20261129T000000Z
 SUMMARY:Harbourside Place Holiday Tree Lighting
@@ -163,7 +163,7 @@ URL:https://weekendscout.app/e/west-palm-beach/harbourside-tree-lighting-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:west-palm-beach-boca-ballet-nutcracker-2026-fri-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261128T003000Z
 DTEND:20261128T023000Z
 SUMMARY:Boca Ballet Theatre’s The Nutcracker
@@ -175,7 +175,7 @@ URL:https://weekendscout.app/e/west-palm-beach/boca-ballet-nutcracker-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:west-palm-beach-boca-ballet-nutcracker-2026-sat-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261128T190000Z
 DTEND:20261128T210000Z
 SUMMARY:Boca Ballet Theatre’s The Nutcracker
@@ -187,7 +187,7 @@ URL:https://weekendscout.app/e/west-palm-beach/boca-ballet-nutcracker-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:west-palm-beach-boca-ballet-nutcracker-2026-sat-1@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261129T003000Z
 DTEND:20261129T023000Z
 SUMMARY:Boca Ballet Theatre’s The Nutcracker
@@ -199,7 +199,7 @@ URL:https://weekendscout.app/e/west-palm-beach/boca-ballet-nutcracker-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:west-palm-beach-boca-ballet-nutcracker-2026-sun-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261129T190000Z
 DTEND:20261129T210000Z
 SUMMARY:Boca Ballet Theatre’s The Nutcracker
@@ -211,7 +211,7 @@ URL:https://weekendscout.app/e/west-palm-beach/boca-ballet-nutcracker-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:west-palm-beach-art-of-laughter-arts-garage-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261128T010000Z
 DTEND:20261128T030000Z
 SUMMARY:The Art of Laughter with Richy Leis
@@ -223,7 +223,7 @@ URL:https://weekendscout.app/e/west-palm-beach/art-of-laughter-arts-garage-2026-
 END:VEVENT
 BEGIN:VEVENT
 UID:west-palm-beach-blake-country-arts-garage-2026-11-29-sun-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261130T000000Z
 DTEND:20261130T013000Z
 SUMMARY:Blake Country: Blake Shelton Tribute

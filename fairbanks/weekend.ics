@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:fairbanks-handmade-holiday-market-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261127T100113Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261128T190000Z
 DTEND:20261129T020000Z
 SUMMARY:Handmade Holiday Market
@@ -25,7 +25,7 @@ URL:https://weekendscout.app/e/fairbanks/handmade-holiday-market-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:fairbanks-black-friday-shopping-expo-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261127T100113Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261127T220000Z
 DTEND:20261128T040000Z
 SUMMARY:Black Friday Shopping Expo
@@ -38,7 +38,7 @@ URL:https://weekendscout.app/e/fairbanks/black-friday-shopping-expo-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:fairbanks-black-friday-shopping-expo-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261127T100113Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261128T190000Z
 DTEND:20261129T020000Z
 SUMMARY:Black Friday Shopping Expo
@@ -51,7 +51,7 @@ URL:https://weekendscout.app/e/fairbanks/black-friday-shopping-expo-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:fairbanks-black-friday-shopping-expo-2026-11-27-sun-0@weekendscout.app
-DTSTAMP:20261127T100113Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261129T200000Z
 DTEND:20261130T020000Z
 SUMMARY:Black Friday Shopping Expo
@@ -64,7 +64,7 @@ URL:https://weekendscout.app/e/fairbanks/black-friday-shopping-expo-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:fairbanks-ice-dogs-vs-kenai-river-brown-bears-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261127T100113Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261128T043000Z
 DTEND:20261128T063000Z
 SUMMARY:Fairbanks Ice Dogs vs. Kenai River Brown Bears
@@ -77,7 +77,7 @@ URL:https://weekendscout.app/e/fairbanks/ice-dogs-vs-kenai-river-brown-bears-202
 END:VEVENT
 BEGIN:VEVENT
 UID:fairbanks-ice-dogs-vs-kenai-river-brown-bears-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261127T100113Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261129T043000Z
 DTEND:20261129T063000Z
 SUMMARY:Fairbanks Ice Dogs vs. Kenai River Brown Bears
@@ -90,7 +90,7 @@ URL:https://weekendscout.app/e/fairbanks/ice-dogs-vs-kenai-river-brown-bears-202
 END:VEVENT
 BEGIN:VEVENT
 UID:fairbanks-nanooks-mens-basketball-arctic-crossover-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261127T100113Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261128T041500Z
 DTEND:20261128T061500Z
 SUMMARY:Nanooks Men's Basketball: Mt. McKinley Bank Arctic Crossover
@@ -105,7 +105,7 @@ URL:https://weekendscout.app/e/fairbanks/nanooks-mens-basketball-arctic-crossove
 END:VEVENT
 BEGIN:VEVENT
 UID:fairbanks-nanooks-mens-basketball-arctic-crossover-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261127T100113Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261129T021500Z
 DTEND:20261129T041500Z
 SUMMARY:Nanooks Men's Basketball: Mt. McKinley Bank Arctic Crossover
@@ -120,7 +120,7 @@ URL:https://weekendscout.app/e/fairbanks/nanooks-mens-basketball-arctic-crossove
 END:VEVENT
 BEGIN:VEVENT
 UID:fairbanks-university-of-alaska-museum-of-the-north-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261127T100113Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261127T180000Z
 DTEND:20261128T023000Z
 SUMMARY:University of Alaska Museum of the North
@@ -134,7 +134,7 @@ URL:https://weekendscout.app/e/fairbanks/university-of-alaska-museum-of-the-nort
 END:VEVENT
 BEGIN:VEVENT
 UID:fairbanks-university-of-alaska-museum-of-the-north-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261127T100113Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261128T180000Z
 DTEND:20261129T023000Z
 SUMMARY:University of Alaska Museum of the North
@@ -148,7 +148,7 @@ URL:https://weekendscout.app/e/fairbanks/university-of-alaska-museum-of-the-nort
 END:VEVENT
 BEGIN:VEVENT
 UID:fairbanks-university-of-alaska-museum-of-the-north-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261127T100113Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261129T180000Z
 DTEND:20261130T023000Z
 SUMMARY:University of Alaska Museum of the North
@@ -162,7 +162,7 @@ URL:https://weekendscout.app/e/fairbanks/university-of-alaska-museum-of-the-nort
 END:VEVENT
 BEGIN:VEVENT
 UID:fairbanks-morris-thompson-center-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261127T100113Z
+DTSTAMP:20261127T122321Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -176,7 +176,7 @@ URL:https://weekendscout.app/e/fairbanks/morris-thompson-center-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fairbanks-morris-thompson-center-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261127T100113Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261128T190000Z
 DTEND:20261129T020000Z
 SUMMARY:Morris Thompson Cultural and Visitors Center
@@ -189,7 +189,7 @@ URL:https://weekendscout.app/e/fairbanks/morris-thompson-center-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:fairbanks-morris-thompson-center-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261127T100113Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261129T190000Z
 DTEND:20261130T020000Z
 SUMMARY:Morris Thompson Cultural and Visitors Center

@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:traverse-city-village-tree-lighting-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261128T220000Z
 DTEND:20261128T231500Z
 SUMMARY:The Village Tree Lighting
@@ -23,7 +23,7 @@ URL:https://weekendscout.app/e/traverse-city/village-tree-lighting-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:traverse-city-village-indoor-farmers-market-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261128T150000Z
 DTEND:20261128T190000Z
 SUMMARY:Indoor Farmers Market
@@ -36,7 +36,7 @@ URL:https://weekendscout.app/e/traverse-city/village-indoor-farmers-market-2026-
 END:VEVENT
 BEGIN:VEVENT
 UID:traverse-city-downtown-tc-black-friday-small-business-saturday-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261127T140000Z
 DTEND:20261128T040000Z
 SUMMARY:Black Friday & Small Business Saturday
@@ -49,7 +49,7 @@ URL:https://weekendscout.app/e/traverse-city/downtown-tc-black-friday-small-busi
 END:VEVENT
 BEGIN:VEVENT
 UID:traverse-city-downtown-tc-black-friday-small-business-saturday-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261128T140000Z
 DTEND:20261129T040000Z
 SUMMARY:Black Friday & Small Business Saturday
@@ -62,7 +62,7 @@ URL:https://weekendscout.app/e/traverse-city/downtown-tc-black-friday-small-busi
 END:VEVENT
 BEGIN:VEVENT
 UID:traverse-city-downtown-tc-santas-house-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261127T220000Z
 DTEND:20261128T010000Z
 SUMMARY:Santa's House
@@ -74,7 +74,7 @@ URL:https://weekendscout.app/e/traverse-city/downtown-tc-santas-house-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:traverse-city-downtown-tc-santas-house-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261128T170000Z
 DTEND:20261128T200000Z
 SUMMARY:Santa's House
@@ -86,7 +86,7 @@ URL:https://weekendscout.app/e/traverse-city/downtown-tc-santas-house-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:traverse-city-downtown-tc-santas-house-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261129T170000Z
 DTEND:20261129T200000Z
 SUMMARY:Santa's House
@@ -98,7 +98,7 @@ URL:https://weekendscout.app/e/traverse-city/downtown-tc-santas-house-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:traverse-city-alluvion-big-band-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261129T193000Z
 DTEND:20261129T210000Z
 SUMMARY:The Alluvion Big Band
@@ -111,7 +111,7 @@ URL:https://weekendscout.app/e/traverse-city/alluvion-big-band-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:traverse-city-northport-holiday-concert-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261129T190000Z
 DTEND:20261129T210000Z
 SUMMARY:Northport's Annual Holiday Concert
@@ -125,7 +125,7 @@ URL:https://weekendscout.app/e/traverse-city/northport-holiday-concert-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:traverse-city-dennos-museum-center-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261128T160000Z
 DTEND:20261128T210000Z
 SUMMARY:Dennos Museum Center
@@ -138,7 +138,7 @@ URL:https://weekendscout.app/e/traverse-city/dennos-museum-center-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:traverse-city-dennos-museum-center-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261129T160000Z
 DTEND:20261129T210000Z
 SUMMARY:Dennos Museum Center
@@ -151,7 +151,7 @@ URL:https://weekendscout.app/e/traverse-city/dennos-museum-center-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:traverse-city-great-lakes-childrens-museum-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261127T143000Z
 DTEND:20261127T213000Z
 SUMMARY:Great Lakes Children's Museum
@@ -164,7 +164,7 @@ URL:https://weekendscout.app/e/traverse-city/great-lakes-childrens-museum-2026-1
 END:VEVENT
 BEGIN:VEVENT
 UID:traverse-city-great-lakes-childrens-museum-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261128T143000Z
 DTEND:20261128T213000Z
 SUMMARY:Great Lakes Children's Museum
@@ -177,7 +177,7 @@ URL:https://weekendscout.app/e/traverse-city/great-lakes-childrens-museum-2026-1
 END:VEVENT
 BEGIN:VEVENT
 UID:traverse-city-great-lakes-childrens-museum-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261129T170000Z
 DTEND:20261129T213000Z
 SUMMARY:Great Lakes Children's Museum
@@ -190,7 +190,7 @@ URL:https://weekendscout.app/e/traverse-city/great-lakes-childrens-museum-2026-1
 END:VEVENT
 BEGIN:VEVENT
 UID:traverse-city-clinch-park-the-bay-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -202,7 +202,7 @@ URL:https://weekendscout.app/e/traverse-city/clinch-park-the-bay-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:traverse-city-clinch-park-the-bay-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -214,7 +214,7 @@ URL:https://weekendscout.app/e/traverse-city/clinch-park-the-bay-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:traverse-city-clinch-park-the-bay-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT

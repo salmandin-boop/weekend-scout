@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:topeka-topeka-zoo-lights-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261127T230000Z
 DTEND:20261128T040000Z
 SUMMARY:Zoo Lights
@@ -21,7 +21,7 @@ URL:https://weekendscout.app/e/topeka/topeka-zoo-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:topeka-topeka-zoo-lights-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261128T230000Z
 DTEND:20261129T040000Z
 SUMMARY:Zoo Lights
@@ -33,7 +33,7 @@ URL:https://weekendscout.app/e/topeka/topeka-zoo-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:topeka-topeka-zoo-lights-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261129T230000Z
 DTEND:20261130T030000Z
 SUMMARY:Zoo Lights
@@ -45,7 +45,7 @@ URL:https://weekendscout.app/e/topeka/topeka-zoo-lights-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:topeka-a-taste-of-ireland-a-celtic-christmas-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261128T013000Z
 DTEND:20261128T033000Z
 SUMMARY:A Taste of Ireland: A Celtic Christmas
@@ -58,7 +58,7 @@ URL:https://weekendscout.app/e/topeka/a-taste-of-ireland-a-celtic-christmas-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:topeka-topeka-scarecrows-vs-monroe-moccasins-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261128T010500Z
 DTEND:20261128T030500Z
 SUMMARY:Topeka Scarecrows vs. Monroe Moccasins
@@ -71,7 +71,7 @@ URL:https://weekendscout.app/e/topeka/topeka-scarecrows-vs-monroe-moccasins-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:topeka-topeka-scarecrows-vs-monroe-moccasins-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261129T010500Z
 DTEND:20261129T030500Z
 SUMMARY:Topeka Scarecrows vs. Monroe Moccasins
@@ -84,7 +84,7 @@ URL:https://weekendscout.app/e/topeka/topeka-scarecrows-vs-monroe-moccasins-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:topeka-washburn-vs-oklahoma-baptist-mbb-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261127T200000Z
 DTEND:20261127T220000Z
 SUMMARY:Washburn Ichabods vs. Oklahoma Baptist (Men's Basketball)
@@ -97,7 +97,7 @@ URL:https://weekendscout.app/e/topeka/washburn-vs-oklahoma-baptist-mbb-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:topeka-brant-jester-trio-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261129T210000Z
 DTEND:20261129T230000Z
 SUMMARY:Brant Jester Trio
@@ -110,7 +110,7 @@ URL:https://weekendscout.app/e/topeka/brant-jester-trio-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:topeka-kansas-state-capitol-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261128T160000Z
 DTEND:20261128T220000Z
 SUMMARY:Kansas State Capitol

@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:ogden-ballet-west-nutcracker-ogden-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261127T100113Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261127T210000Z
 DTEND:20261127T230000Z
 SUMMARY:Ballet West: The Nutcracker
@@ -23,7 +23,7 @@ URL:https://weekendscout.app/e/ogden/ballet-west-nutcracker-ogden-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:ogden-ballet-west-nutcracker-ogden-2026-11-27-fri-1@weekendscout.app
-DTSTAMP:20261127T100113Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261128T020000Z
 DTEND:20261128T040000Z
 SUMMARY:Ballet West: The Nutcracker
@@ -37,7 +37,7 @@ URL:https://weekendscout.app/e/ogden/ballet-west-nutcracker-ogden-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:ogden-ballet-west-nutcracker-ogden-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261127T100113Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261128T210000Z
 DTEND:20261128T230000Z
 SUMMARY:Ballet West: The Nutcracker
@@ -51,7 +51,7 @@ URL:https://weekendscout.app/e/ogden/ballet-west-nutcracker-ogden-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:ogden-ballet-west-nutcracker-ogden-2026-11-27-sat-1@weekendscout.app
-DTSTAMP:20261127T100113Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261129T020000Z
 DTEND:20261129T040000Z
 SUMMARY:Ballet West: The Nutcracker
@@ -65,7 +65,7 @@ URL:https://weekendscout.app/e/ogden/ballet-west-nutcracker-ogden-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:ogden-ballet-west-nutcracker-ogden-2026-11-27-sun-0@weekendscout.app
-DTSTAMP:20261127T100113Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261129T190000Z
 DTEND:20261129T210000Z
 SUMMARY:Ballet West: The Nutcracker
@@ -79,7 +79,7 @@ URL:https://weekendscout.app/e/ogden/ballet-west-nutcracker-ogden-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:ogden-a-christmas-carol-egyptian-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261127T100113Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261128T023000Z
 DTEND:20261128T050000Z
 SUMMARY:Ogden Musical Theatre: A Christmas Carol
@@ -93,7 +93,7 @@ URL:https://weekendscout.app/e/ogden/a-christmas-carol-egyptian-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:ogden-a-christmas-carol-egyptian-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261127T100113Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261128T210000Z
 DTEND:20261128T230000Z
 SUMMARY:Ogden Musical Theatre: A Christmas Carol
@@ -107,7 +107,7 @@ URL:https://weekendscout.app/e/ogden/a-christmas-carol-egyptian-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:ogden-a-christmas-carol-egyptian-2026-11-27-sat-1@weekendscout.app
-DTSTAMP:20261127T100113Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261129T023000Z
 DTEND:20261129T043000Z
 SUMMARY:Ogden Musical Theatre: A Christmas Carol
@@ -121,7 +121,7 @@ URL:https://weekendscout.app/e/ogden/a-christmas-carol-egyptian-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:ogden-a-christmas-carol-egyptian-2026-11-27-sun-0@weekendscout.app
-DTSTAMP:20261127T100113Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261129T230000Z
 DTEND:20261130T010000Z
 SUMMARY:Ogden Musical Theatre: A Christmas Carol
@@ -135,7 +135,7 @@ URL:https://weekendscout.app/e/ogden/a-christmas-carol-egyptian-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:ogden-polar-express-egyptian-2026-11-28-sat-0@weekendscout.app
-DTSTAMP:20261127T100113Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261128T173000Z
 DTEND:20261128T193000Z
 SUMMARY:The Polar Express
@@ -149,7 +149,7 @@ URL:https://weekendscout.app/e/ogden/polar-express-egyptian-2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:ogden-ogden-mustangs-spud-kings-2026-11-27-fri-0@weekendscout.app
-DTSTAMP:20261127T100113Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261128T020000Z
 DTEND:20261128T040000Z
 SUMMARY:Ogden Mustangs vs. Idaho Falls Spud Kings
@@ -161,7 +161,7 @@ URL:https://weekendscout.app/e/ogden/ogden-mustangs-spud-kings-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:ogden-ogden-mustangs-spud-kings-2026-11-27-sat-0@weekendscout.app
-DTSTAMP:20261127T100113Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261129T020000Z
 DTEND:20261129T040000Z
 SUMMARY:Ogden Mustangs vs. Idaho Falls Spud Kings
@@ -173,7 +173,7 @@ URL:https://weekendscout.app/e/ogden/ogden-mustangs-spud-kings-2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:ogden-ogden-s-christmas-village-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261127T100113Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261129T000000Z
 DTEND:20261129T065900Z
 SUMMARY:Ogden's Christmas Village
@@ -186,7 +186,7 @@ URL:https://weekendscout.app/e/ogden/ogden-s-christmas-village-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:ogden-ogden-s-christmas-village-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261127T100113Z
+DTSTAMP:20261127T122321Z
 DTSTART:20261130T000000Z
 DTEND:20261130T050000Z
 SUMMARY:Ogden's Christmas Village

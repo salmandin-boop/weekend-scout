@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:newark-downtown-newark-tree-lighting-2026-sat-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122320Z
 DTSTART:20261128T210000Z
 DTEND:20261129T010000Z
 SUMMARY:Annual Tree Lighting at Newark Winter Village
@@ -22,7 +22,7 @@ URL:https://weekendscout.app/e/newark/downtown-newark-tree-lighting-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:newark-military-park-carousel-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122320Z
 DTSTART:20261127T200000Z
 DTEND:20261128T010000Z
 SUMMARY:Free rides on the Military Park Carousel
@@ -35,7 +35,7 @@ URL:https://weekendscout.app/e/newark/military-park-carousel-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:newark-military-park-carousel-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122320Z
 DTSTART:20261128T170000Z
 DTEND:20261129T010000Z
 SUMMARY:Free rides on the Military Park Carousel
@@ -48,7 +48,7 @@ URL:https://weekendscout.app/e/newark/military-park-carousel-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:newark-military-park-carousel-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122320Z
 DTSTART:20261129T170000Z
 DTEND:20261130T010000Z
 SUMMARY:Free rides on the Military Park Carousel
@@ -61,7 +61,7 @@ URL:https://weekendscout.app/e/newark/military-park-carousel-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:newark-new-jersey-devils-vs-calgary-flames-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122320Z
 DTSTART:20261127T180000Z
 DTEND:20261127T200000Z
 SUMMARY:New Jersey Devils vs. Calgary Flames
@@ -73,7 +73,7 @@ URL:https://weekendscout.app/e/newark/new-jersey-devils-vs-calgary-flames-2026-1
 END:VEVENT
 BEGIN:VEVENT
 UID:newark-new-jersey-devils-vs-winnipeg-jets-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122320Z
 DTSTART:20261129T000000Z
 DTEND:20261129T020000Z
 SUMMARY:New Jersey Devils vs. Winnipeg Jets
@@ -84,7 +84,7 @@ URL:https://weekendscout.app/e/newark/new-jersey-devils-vs-winnipeg-jets-2026-11
 END:VEVENT
 BEGIN:VEVENT
 UID:newark-seton-hall-vs-siena-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122320Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -97,7 +97,7 @@ URL:https://weekendscout.app/e/newark/seton-hall-vs-siena-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:newark-tarrus-riley-capleton-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122320Z
 DTSTART:20261128T010000Z
 DTEND:20261128T030000Z
 SUMMARY:Capleton & Tarrus Riley
@@ -109,7 +109,7 @@ URL:https://weekendscout.app/e/newark/tarrus-riley-capleton-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:newark-thanksgiving-comedy-fest-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122320Z
 DTSTART:20261129T010000Z
 DTEND:20261129T030000Z
 SUMMARY:Thanksgiving Comedy Fest
@@ -121,7 +121,7 @@ URL:https://weekendscout.app/e/newark/thanksgiving-comedy-fest-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:newark-rock-the-bells-ll-cool-j-lil-kim-method-man-redman-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122320Z
 DTSTART:20261130T000000Z
 DTEND:20261130T020000Z
 SUMMARY:Rock the Bells Festival: LL Cool J\, Lil’ Kim\, Method Man & Red
@@ -135,7 +135,7 @@ URL:https://weekendscout.app/e/newark/rock-the-bells-ll-cool-j-lil-kim-method-ma
 END:VEVENT
 BEGIN:VEVENT
 UID:newark-branch-brook-park-2026-11-fri-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122320Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -148,7 +148,7 @@ URL:https://weekendscout.app/e/newark/branch-brook-park-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:newark-branch-brook-park-2026-11-sat-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122320Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -161,7 +161,7 @@ URL:https://weekendscout.app/e/newark/branch-brook-park-2026-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:newark-branch-brook-park-2026-11-sun-0@weekendscout.app
-DTSTAMP:20261127T100112Z
+DTSTAMP:20261127T122320Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
