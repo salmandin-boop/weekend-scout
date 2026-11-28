@@ -76,7 +76,7 @@ const TICKET = '<svg class="t" viewBox="0 0 512 512"><path fill="#e2591b" d="M12
       for (let i = 0; i < sl.length; i++) { await p.setContent(`<style>${CSS}</style>${sl[i]}`); await p.waitForTimeout(120); await p.screenshot({ path: path.join(dir, String(i + 1).padStart(2, '0') + '.jpg'), type: 'jpeg', quality: 88 }); }
       const nm = c.name.replace(/[^A-Za-z]/g, '');
       fs.writeFileSync(path.join(dir, 'caption.txt'), `Date night in ${c.name} this weekend 💘\n\n` + plans.map((p, i) => `${i + 1}. Dinner at ${p.din.name}, then ${p.e.title} (${DN[p.day]})${p.dr ? `, nightcap at ${p.dr.name}` : ''}`).join('\n') +
-        `\n\nTag who you're taking 👇 More date night plans with times and tickets at weekendscout.app (link in bio).\n\n#DateNight #DateNight${nm} #DateIdeas #${nm} #ThingsToDo${nm} #WeekendScout\n`);
+        `\n\nTag who you're taking 👇 More date night plans with times and tickets at weekendscout.app (link in bio).\n\n#DateNight #DateNight${nm} #DateIdeas #${nm} #ThingsToDo${nm} #WeekendScout #fyp #foryoupage\n`);
       continue;
     }
     if (UPCOMING) {
@@ -96,7 +96,7 @@ const TICKET = '<svg class="t" viewBox="0 0 512 512"><path fill="#e2591b" d="M12
       for (let i = 0; i < sl.length; i++) { await p.setContent(`<style>${CSS}</style>${sl[i]}`); await p.waitForTimeout(120); await p.screenshot({ path: path.join(dir, String(i + 1).padStart(2, '0') + '.jpg'), type: 'jpeg', quality: 88 }); }
       const md = iso => { const [, m, dd] = iso.split('-').map(Number); return `${MON[m - 1]} ${dd}`; };
       fs.writeFileSync(path.join(dir, 'caption.txt'), `Coming up in ${c.name} 📅\n\n` + up.map(u => `• ${u.title}: ${md(u.date)}${u.venue ? ` at ${u.venue}` : ''}`).join('\n') +
-        `\n\nSave the dates, and find this weekend's hand-checked picks at weekendscout.app (link in bio).\n\n${tagOf(c)} #ThingsToDo${c.name.replace(/[^A-Za-z]/g, '')} #${c.state}Events #WeekendScout\n`);
+        `\n\nSave the dates, and find this weekend's hand-checked picks at weekendscout.app (link in bio).\n\n${tagOf(c)} #ThingsToDo${c.name.replace(/[^A-Za-z]/g, '')} #${c.state}Events #WeekendScout #fyp #foryoupage\n`);
       continue;
     }
     // 5 picks: never sponsored; mix free, date-night and other categories, timed events first
@@ -123,7 +123,7 @@ const TICKET = '<svg class="t" viewBox="0 0 512 512"><path fill="#e2591b" d="M12
     }
     const cap = `This weekend in ${c.name} (${d.weekend.label}) 👇\n\n` + picks.map(e => `• ${e.title}: ${when(e)} at ${e.venue}${e.price === 'free' ? ' (free)' : ''}`).join('\n') +
       `\n\n${d.events.length} hand-checked picks, ${free} free, with times, tickets and date night plans at weekendscout.app (link in bio).\n\n` +
-      `${tagOf(c)} #${c.name.replace(/[^A-Za-z]/g, '')}Events #ThingsToDo${c.name.replace(/[^A-Za-z]/g, '')} #WeekendPlans #${c.state}Events #WeekendScout`;
+      `${tagOf(c)} #${c.name.replace(/[^A-Za-z]/g, '')}Events #ThingsToDo${c.name.replace(/[^A-Za-z]/g, '')} #WeekendPlans #${c.state}Events #WeekendScout #fyp #foryoupage`;
     fs.writeFileSync(path.join(dir, 'caption.txt'), cap + '\n');
   }
   await b.close(); console.log('made social posts for', cities.length, 'cities in', OUT);
