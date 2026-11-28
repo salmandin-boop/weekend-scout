@@ -1,5 +1,6 @@
 // Makes ready-to-post Instagram/TikTok carousel images (1080x1350) and a caption for each city's weekend.
 // Run from the repo root: node tools/social.js [outDir] [city,city,...] [upcoming]
+// Add 'date' to make a "Date night in <city>" post: dinner nearby + a date-night event this weekend (+ drinks if known).
 // Add 'upcoming' to make a "Coming up" post from the city's upcoming list (for Mon–Wed, before the new weekend list is out).
 // Output (not committed): <outDir>/<city>/01.jpg … and <outDir>/<city>/caption.txt
 const { chromium } = require('playwright');
@@ -8,6 +9,8 @@ const ROOT = path.join(__dirname, '..');
 const OUT = path.resolve(process.argv[2] || path.join(ROOT, '.social'));
 const ONLY = (process.argv[3] || '').split(',').filter(Boolean);
 const UPCOMING = process.argv[4] === 'upcoming';
+const DATE = process.argv[4] === 'date';
+const miles = (a, b) => { const R = 3958.8, r = x => x * Math.PI / 180; const dl = r(b.lat - a.lat), dn = r(b.lon - a.lon); return 2 * R * Math.asin(Math.sqrt(Math.sin(dl / 2) ** 2 + Math.cos(r(a.lat)) * Math.cos(r(b.lat)) * Math.sin(dn / 2) ** 2)); };
 const MON = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
 const dateLabel = iso => { const [y, m, dd] = iso.split('-').map(Number); const wd = ['SUN','MON','TUE','WED','THU','FRI','SAT'][new Date(Date.UTC(y, m - 1, dd)).getUTCDay()]; return `${wd} · ${MON[m - 1].toUpperCase()} ${dd}`; };
 const font = 'data:font/ttf;base64,' + fs.readFileSync(path.join(__dirname, 'fonts/BricolageGrotesque-Bold.ttf')).toString('base64');
@@ -40,6 +43,42 @@ const TICKET = '<svg class="t" viewBox="0 0 512 512"><path fill="#e2591b" d="M12
     const d = JSON.parse(fs.readFileSync(path.join(ROOT, c.file)));
     const dir = path.join(OUT, c.id); fs.mkdirSync(dir, { recursive: true });
     for (const f of fs.readdirSync(dir)) fs.unlinkSync(path.join(dir, f));
+    if (DATE) {
+      const today = new Date().toISOString().slice(0, 10);
+      if (!(d.weekend && d.weekend.days && d.weekend.days.sun >= today)) { console.log('skip', c.id, '(weekend over)'); continue; }
+      let spots = []; try { spots = JSON.parse(fs.readFileSync(path.join(ROOT, 'spots', c.id + '.json'))).spots || []; } catch {}
+      const dinners = spots.filter(x => x.kind === 'dinner' && x.lat), drinks = spots.filter(x => x.kind === 'drinks' && x.lat);
+      const left = DAYS.filter(dd => d.weekend.days[dd] >= today);
+      const firstDay = e => left.find(dd => (e.times[dd] || []).some(t => t.s && t.s >= '16:00')) || left.find(dd => (e.times[dd] || []).length);
+      const evening = e => left.some(dd => (e.times[dd] || []).some(t => t.s && t.s >= '16:00')) ? 0 : 1;
+      const evs = d.events.filter(e => !e.featured && (e.good || []).includes('date') && e.lat && firstDay(e)).sort((a, b) => evening(a) - evening(b));
+      const plans = [], used = new Set();
+      for (const e of evs) {
+        const near = (list) => list.filter(x => !used.has(x.name)).map(x => [miles(e, x), x]).filter(([m]) => m <= 2).sort((a, b) => a[0] - b[0])[0];
+        const din = near(dinners); if (!din) continue; used.add(din[1].name);
+        const dr = near(drinks); if (dr) used.add(dr[1].name);
+        plans.push({ e, day: firstDay(e), din: din[1], dr: dr && dr[1] });
+        if (plans.length === 3) break;
+      }
+      if (plans.length < 2) { console.log('skip', c.id, '(fewer than 2 date plans)'); continue; }
+      const sl = [`<div class="k">Weekend Scout · ${esc(d.weekend.label)}</div><h1>Date night in <em>${esc(c.name)}</em></h1>
+        <div class="d">${plans.length} ready-made plans: dinner, a show, then drinks</div><ul>${plans.map(p => `<li>${esc(p.e.title)}</li>`).join('')}</ul>${TICKET}
+        <div class="foot"><span>Swipe for the plans →</span><span>weekendscout.app</span></div>`];
+      plans.forEach((p, i) => { const s0 = ((p.e.times[p.day].find(t => t.s && t.s >= '16:00') || p.e.times[p.day].find(t => t.s)) || {}).s;
+        sl.push(`<div class="k">Date night ${i + 1} · ${DN[p.day]}</div>
+        <div class="card"><div class="when">1 · DINNER</div><h2 style="font-size:64px">${esc(p.din.name)}</h2><div class="v">${esc([p.din.cuisine, p.din.area].filter(Boolean).join(' · '))}</div>
+        <div class="when" style="margin-top:40px">2 · ${esc(DN[p.day])}${s0 ? ' · ' + esc(fmt(s0)) : ''}</div><h2 style="font-size:64px">${esc(p.e.title)}</h2><div class="v">${esc(p.e.venue)}</div>
+        ${p.dr ? `<div class="when" style="margin-top:40px">3 · NIGHTCAP</div><h2 style="font-size:56px">${esc(p.dr.name)}</h2>` : ''}</div>
+        <div class="foot"><span class="n">${i + 1} / ${plans.length}</span><span>weekendscout.app</span></div>`); });
+      sl.push(`<div class="k">Weekend Scout</div><h1>Plan your date in one tap</h1>
+        <div class="d">Date night plans with dinner nearby, times and tickets. Free, no sign-up.</div>${TICKET}
+        <ul><li>weekendscout.app</li><li>Link in bio</li></ul><div class="foot"><span>200 US cities</span><span>${esc(tagOf(c))}</span></div>`);
+      for (let i = 0; i < sl.length; i++) { await p.setContent(`<style>${CSS}</style>${sl[i]}`); await p.waitForTimeout(120); await p.screenshot({ path: path.join(dir, String(i + 1).padStart(2, '0') + '.jpg'), type: 'jpeg', quality: 88 }); }
+      const nm = c.name.replace(/[^A-Za-z]/g, '');
+      fs.writeFileSync(path.join(dir, 'caption.txt'), `Date night in ${c.name} this weekend 💘\n\n` + plans.map((p, i) => `${i + 1}. Dinner at ${p.din.name}, then ${p.e.title} (${DN[p.day]})${p.dr ? `, nightcap at ${p.dr.name}` : ''}`).join('\n') +
+        `\n\nTag who you're taking 👇 More date night plans with times and tickets at weekendscout.app (link in bio).\n\n#DateNight #DateNight${nm} #DateIdeas #${nm} #ThingsToDo${nm} #WeekendScout\n`);
+      continue;
+    }
     if (UPCOMING) {
       const today = new Date().toISOString().slice(0, 10);
       const up = (d.upcoming || []).filter(u => u.date && u.date >= today).sort((a, b) => a.date.localeCompare(b.date)).slice(0, 5);
